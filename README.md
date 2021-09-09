@@ -1,0 +1,13 @@
+
+### SnowGem Development Progress
+
+Here are the last 10 pushes to the projects we are currently working.
+
+There is a total of 1 commits since 10/09/2021. You can see the complete history in
+ [Complete_list.md](Complete_list.md) file.
+
+| Push Time | Description | Commits |
+| --- | --- | --- |
+| <sub>2021-09-09 11:53:38</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/c83ebb98b21db629f0d543efc5cf62e2ca141a4e)</sub> | <sub>[c83ebb9](https://github.com/SimplioOfficial/Cicerone/commit/c83ebb98b21db629f0d543efc5cf62e2ca141a4e) v0.1.1 - ciripel</sub> |
+
+_You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
