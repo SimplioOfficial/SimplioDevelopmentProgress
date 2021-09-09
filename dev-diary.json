@@ -70,5 +70,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/46bb9619f741d0d5ffadeb9f42c2119fd28fb2c5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-09 15:20:46.117000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c02dacf`](https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc) fix fee calculator - PitTxid",
+      "title": "[fee-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc"
+    }
   }
 ]

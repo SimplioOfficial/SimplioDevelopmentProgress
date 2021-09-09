@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4 commits since 10/09/2021. You can see the complete history in
+There is a total of 5 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-09 15:20:46</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc)</sub> | <sub>[c02dacf](https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc) fix fee calculator - PitTxid</sub> |
 | <sub>2021-09-09 12:46:36</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/46bb9619f741d0d5ffadeb9f42c2119fd28fb2c5)</sub> | <sub>[46bb961](https://github.com/SimplioOfficial/Cicerone/commit/46bb9619f741d0d5ffadeb9f42c2119fd28fb2c5) reversed history - ciripel</sub> |
 | <sub>2021-09-09 12:38:27</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/007cd241411bf801b7052cd4659d702d96732d9c)</sub> | <sub>[007cd24](https://github.com/SimplioOfficial/Cicerone/commit/007cd241411bf801b7052cd4659d702d96732d9c) Fixed md files header - ciripel</sub> |
 | <sub>2021-09-09 12:36:59</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/28f73c3a4a9dfadc920ec4771bc19bb2d7c84f10)</sub> | <sub>[28f73c3](https://github.com/SimplioOfficial/Cicerone/commit/28f73c3a4a9dfadc920ec4771bc19bb2d7c84f10) fixed dev_updater exception - ciripel</sub> |
