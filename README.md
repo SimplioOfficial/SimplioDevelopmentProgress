@@ -1,5 +1,5 @@
 
-### SnowGem Development Progress
+### Simplio Development Progress
 
 Here are the last 10 pushes to the projects we are currently working.
 
