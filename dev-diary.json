@@ -322,5 +322,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2f412f6d867fb323957a67696e43ea688b2b696f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-10 16:30:28.500000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`eb806d9`](https://github.com/SimplioOfficial/simplio-mobile/commit/eb806d9c17c5c647f2844f317270867a6abc4adf) fix search in add coins page for popular - jvrastil\n[`0a03d14`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a03d14a27adaea5d7c9f36d89a128bfdf1bd73f) update coins.service - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/47e5784213b5...0a03d14a27ad"
+    }
   }
 ]
