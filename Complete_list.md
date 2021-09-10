@@ -1,7 +1,7 @@
 
 ### Simplio Development Progress - Complete history
 
-Here is the complete list of all the commits to the projects we are currently working since 20/01/2020.
+Here is the complete list of all the commits to the projects we are currently working since 10/09/2021.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
