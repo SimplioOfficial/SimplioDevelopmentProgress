@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 15 commits since 10/09/2021. You can see the complete history in
+There is a total of 17 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-10 13:39:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/47e5784213b5613e74de0d684781e44c4f41ac61)</sub> | <sub>[47e5784](https://github.com/SimplioOfficial/simplio-mobile/commit/47e5784213b5613e74de0d684781e44c4f41ac61) increase ios version - jvrastil</sub> |
+| <sub>2021-09-10 13:38:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40)</sub> | <sub>[662a889](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40) [DEVELOPMENT-79] Use Montserrat font family as ... - jvrastil</sub> |
 | <sub>2021-09-10 12:41:35</sub> | <sub>[[simplio-mobile:swipelux] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2)</sub> | <sub>[e6077c3](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2) [DEVELOPMENT-61] Swipelux experiments - jvrastil</sub> |
 | <sub>2021-09-10 10:14:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c)</sub> | <sub>[2702780](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c) Update add_coins_and_promos.md - PitTxid</sub> |
 | <sub>2021-09-10 10:05:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac)</sub> | <sub>[0666ae4](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac) Update add_coins_and_promos.md - PitTxid</sub> |
@@ -16,7 +18,5 @@ There is a total of 15 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-10 09:57:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3577abb5bcfd876d2a20ed791ced913d57cf2709)</sub> | <sub>[3577abb](https://github.com/SimplioOfficial/simplio-mobile/commit/3577abb5bcfd876d2a20ed791ced913d57cf2709) add guide to add new coin, promo to server - PitTxid</sub> |
 | <sub>2021-09-10 09:44:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1ea3b071cfe567c7ce7f5c521691763ca908e043)</sub> | <sub>[1ea3b07](https://github.com/SimplioOfficial/simplio-mobile/commit/1ea3b071cfe567c7ce7f5c521691763ca908e043) add add coin token - PitTxid</sub> |
 | <sub>2021-09-10 09:10:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e167c1dde23f7d9eab31159baa1beefe9e03e755)</sub> | <sub>[e167c1d](https://github.com/SimplioOfficial/simplio-mobile/commit/e167c1dde23f7d9eab31159baa1beefe9e03e755) add coin list from server side, add promo coins - PitTxid</sub> |
-| <sub>2021-09-10 07:04:44</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/b0ce6a9724c6b7f7318f7198edb038934f48f679)</sub> | <sub>[b0ce6a9](https://github.com/SimplioOfficial/Cicerone/commit/b0ce6a9724c6b7f7318f7198edb038934f48f679) initial data corrected - ciripel</sub> |
-| <sub>2021-09-10 06:12:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/98a88255accf...34011c2e00e5)</sub> | <sub>[027bb3b](https://github.com/SimplioOfficial/simplio-mobile/commit/027bb3b70d1dc1228e3cdb2cf613e1b310c5a286) update server url - PitTxid<br>[34011c2](https://github.com/SimplioOfficial/simplio-mobile/commit/34011c2e00e558fdf3d557077b95ecada244a76f) update simplio token - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
