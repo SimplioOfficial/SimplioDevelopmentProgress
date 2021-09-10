@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5 commits since 10/09/2021. You can see the complete history in
+There is a total of 6 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-10 06:12:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/98a88255accf...34011c2e00e5)</sub> | <sub>[027bb3b](https://github.com/SimplioOfficial/simplio-mobile/commit/027bb3b70d1dc1228e3cdb2cf613e1b310c5a286) update server url - PitTxid<br>[34011c2](https://github.com/SimplioOfficial/simplio-mobile/commit/34011c2e00e558fdf3d557077b95ecada244a76f) update simplio token - PitTxid</sub> |
 | <sub>2021-09-09 15:20:46</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc)</sub> | <sub>[c02dacf](https://github.com/SimplioOfficial/fee-program/commit/c02dacf6a48562015673a85a1bea8c7e20f998dc) fix fee calculator - PitTxid</sub> |
 | <sub>2021-09-09 12:46:36</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/46bb9619f741d0d5ffadeb9f42c2119fd28fb2c5)</sub> | <sub>[46bb961](https://github.com/SimplioOfficial/Cicerone/commit/46bb9619f741d0d5ffadeb9f42c2119fd28fb2c5) reversed history - ciripel</sub> |
 | <sub>2021-09-09 12:38:27</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/007cd241411bf801b7052cd4659d702d96732d9c)</sub> | <sub>[007cd24](https://github.com/SimplioOfficial/Cicerone/commit/007cd241411bf801b7052cd4659d702d96732d9c) Fixed md files header - ciripel</sub> |
