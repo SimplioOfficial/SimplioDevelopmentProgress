@@ -250,5 +250,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-10 12:41:35.620000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e6077c3`](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2) [DEVELOPMENT-61] Swipelux experiments - jvrastil",
+      "title": "[simplio-mobile:swipelux] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2"
+    }
   }
 ]
