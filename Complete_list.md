@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-10 13:40:53</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2f412f6d867fb323957a67696e43ea688b2b696f)</sub> | <sub>[2f412f6](https://github.com/SimplioOfficial/simplio-mobile/commit/2f412f6d867fb323957a67696e43ea688b2b696f) V0.1.0 (#24) - jvrastil</sub> |
 | <sub>2021-09-10 13:39:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/47e5784213b5613e74de0d684781e44c4f41ac61)</sub> | <sub>[47e5784](https://github.com/SimplioOfficial/simplio-mobile/commit/47e5784213b5613e74de0d684781e44c4f41ac61) increase ios version - jvrastil</sub> |
 | <sub>2021-09-10 13:38:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40)</sub> | <sub>[662a889](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40) [DEVELOPMENT-79] Use Montserrat font family as ... - jvrastil</sub> |
 | <sub>2021-09-10 12:41:35</sub> | <sub>[[simplio-mobile:swipelux] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2)</sub> | <sub>[e6077c3](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2) [DEVELOPMENT-61] Swipelux experiments - jvrastil</sub> |
