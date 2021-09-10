@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-10 09:57:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3577abb5bcfd876d2a20ed791ced913d57cf2709)</sub> | <sub>[3577abb](https://github.com/SimplioOfficial/simplio-mobile/commit/3577abb5bcfd876d2a20ed791ced913d57cf2709) add guide to add new coin, promo to server - PitTxid</sub> |
 | <sub>2021-09-10 09:44:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1ea3b071cfe567c7ce7f5c521691763ca908e043)</sub> | <sub>[1ea3b07](https://github.com/SimplioOfficial/simplio-mobile/commit/1ea3b071cfe567c7ce7f5c521691763ca908e043) add add coin token - PitTxid</sub> |
 | <sub>2021-09-10 09:10:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e167c1dde23f7d9eab31159baa1beefe9e03e755)</sub> | <sub>[e167c1d](https://github.com/SimplioOfficial/simplio-mobile/commit/e167c1dde23f7d9eab31159baa1beefe9e03e755) add coin list from server side, add promo coins - PitTxid</sub> |
 | <sub>2021-09-10 07:04:44</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/b0ce6a9724c6b7f7318f7198edb038934f48f679)</sub> | <sub>[b0ce6a9](https://github.com/SimplioOfficial/Cicerone/commit/b0ce6a9724c6b7f7318f7198edb038934f48f679) initial data corrected - ciripel</sub> |
