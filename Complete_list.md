@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-10 10:14:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c)</sub> | <sub>[2702780](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c) Update add_coins_and_promos.md - PitTxid</sub> |
 | <sub>2021-09-10 10:05:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac)</sub> | <sub>[0666ae4](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac) Update add_coins_and_promos.md - PitTxid</sub> |
 | <sub>2021-09-10 10:02:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4d94532607f4728b4a6cfdcdee3b770779cfe3cc)</sub> | <sub>[4d94532](https://github.com/SimplioOfficial/simplio-mobile/commit/4d94532607f4728b4a6cfdcdee3b770779cfe3cc) Update add_coins_and_promos.md - PitTxid</sub> |
 | <sub>2021-09-10 10:02:13</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dc9ad8f4957524a69de1f2bd96b5df8b28352b5c)</sub> | <sub>[dc9ad8f](https://github.com/SimplioOfficial/simplio-mobile/commit/dc9ad8f4957524a69de1f2bd96b5df8b28352b5c) Update add_coins_and_promos.md - PitTxid</sub> |
