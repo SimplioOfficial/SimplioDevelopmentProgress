@@ -538,5 +538,41 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/6d6f11deb04a053dbc2d06fd03dedbd37202f20a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 10:42:19.531000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8de5c9e`](https://github.com/SimplioOfficial/simplio-mobile/commit/8de5c9ecdacc845a8907d53784103d30c05a8cbc) Use Simplio icon as favicon - jvrastil\n[`9526f16`](https://github.com/SimplioOfficial/simplio-mobile/commit/9526f168b2d1270a27296de3f7d0ae0fa6461041) [DEVELOPMENT-83] Fix default swap pair - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f2f3019bbc22...9526f168b2d1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 10:43:17.385000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9a2ea87`](https://github.com/SimplioOfficial/fee-program/commit/9a2ea87787e071e5fabc46dee9ebe96593ed99df) decrease signature tx to 1 - PitTxid",
+      "title": "[fee-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/commit/9a2ea87787e071e5fabc46dee9ebe96593ed99df"
+    }
   }
 ]
