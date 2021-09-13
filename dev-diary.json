@@ -664,5 +664,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 14:30:58.671000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c799823`](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47) add test fee - PitTxid",
+      "title": "[fee-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47"
+    }
   }
 ]

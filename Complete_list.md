@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-13 14:30:58</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47)</sub> | <sub>[c799823](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47) add test fee - PitTxid</sub> |
 | <sub>2021-09-13 14:19:39</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5)</sub> | <sub>[19473fb](https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5) Added commends and updated dependencies - ciripel</sub> |
 | <sub>2021-09-13 14:12:07</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/bac8c9caab60fde18d0572811409a56e8de36629)</sub> | <sub>[bac8c9c](https://github.com/ciripel/available_swaps_script/commit/bac8c9caab60fde18d0572811409a56e8de36629) adjusted csv structure - ciripel</sub> |
 | <sub>2021-09-13 11:28:22</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/8a716ddfb623eeac28047023976fdbd8718977c8)</sub> | <sub>[8a716dd](https://github.com/SimplioOfficial/simplio-go/commit/8a716ddfb623eeac28047023976fdbd8718977c8) tools prep - storkandstars</sub> |
