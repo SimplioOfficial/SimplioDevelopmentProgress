@@ -502,5 +502,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/29c587969f63f528bb3882f5926169db37be4d39"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 09:37:06.395000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c41b7b0`](https://github.com/ciripel/available_swaps_script/commit/c41b7b05adbb5e2cf0bc6e412a2d5801e4c46dd5) fixed csv formating - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/c41b7b05adbb5e2cf0bc6e412a2d5801e4c46dd5"
+    }
   }
 ]

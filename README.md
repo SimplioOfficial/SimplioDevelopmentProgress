@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 28 commits since 10/09/2021. You can see the complete history in
+There is a total of 29 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-13 09:37:06</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c41b7b05adbb5e2cf0bc6e412a2d5801e4c46dd5)</sub> | <sub>[c41b7b0](https://github.com/ciripel/available_swaps_script/commit/c41b7b05adbb5e2cf0bc6e412a2d5801e4c46dd5) fixed csv formating - ciripel</sub> |
 | <sub>2021-09-13 08:57:33</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/29c587969f63f528bb3882f5926169db37be4d39)</sub> | <sub>[29c5879](https://github.com/SimplioOfficial/fee-program/commit/29c587969f63f528bb3882f5926169db37be4d39) update to show more info on error - PitTxid</sub> |
 | <sub>2021-09-13 08:56:49</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/8808570b098fc5a703ca2a33b808b3afd4aa937a)</sub> | <sub>[8808570](https://github.com/ciripel/available_swaps_script/commit/8808570b098fc5a703ca2a33b808b3afd4aa937a) fixed variable name typo - ciripel</sub> |
 | <sub>2021-09-13 08:55:34</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/e835b599f0d4af780ea65ae10ddb71b5be1ab534)</sub> | <sub>[e835b59](https://github.com/ciripel/available_swaps_script/commit/e835b599f0d4af780ea65ae10ddb71b5be1ab534) added csv_generator for jitka's web part - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 28 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-13 08:12:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306)</sub> | <sub>[ed2d767](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306) PAX -> USDP - ciripel</sub> |
 | <sub>2021-09-11 03:56:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51)</sub> | <sub>[d76694d](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51) init coins and network in appcomponent - PitTxid</sub> |
 | <sub>2021-09-11 03:25:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa)</sub> | <sub>[d1eae3c](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa) prepare estimated fee in token - PitTxid</sub> |
-| <sub>2021-09-10 16:30:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/47e5784213b5...0a03d14a27ad)</sub> | <sub>[eb806d9](https://github.com/SimplioOfficial/simplio-mobile/commit/eb806d9c17c5c647f2844f317270867a6abc4adf) fix search in add coins page for popular - jvrastil<br>[0a03d14](https://github.com/SimplioOfficial/simplio-mobile/commit/0a03d14a27adaea5d7c9f36d89a128bfdf1bd73f) update coins.service - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
