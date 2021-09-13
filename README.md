@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 22 commits since 10/09/2021. You can see the complete history in
+There is a total of 23 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-13 08:33:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/faa5615f5c569beaecda0179f9de501f1da13f06)</sub> | <sub>[faa5615](https://github.com/ciripel/available_swaps_script/commit/faa5615f5c569beaecda0179f9de501f1da13f06) updated PAX->USDP - ciripel</sub> |
 | <sub>2021-09-13 08:12:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306)</sub> | <sub>[ed2d767](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306) PAX -> USDP - ciripel</sub> |
 | <sub>2021-09-11 03:56:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51)</sub> | <sub>[d76694d](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51) init coins and network in appcomponent - PitTxid</sub> |
 | <sub>2021-09-11 03:25:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa)</sub> | <sub>[d1eae3c](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa) prepare estimated fee in token - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 22 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-10 13:38:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40)</sub> | <sub>[662a889](https://github.com/SimplioOfficial/simplio-mobile/commit/662a8892a0a756cfb85e1761b89dfc1f94854c40) [DEVELOPMENT-79] Use Montserrat font family as ... - jvrastil</sub> |
 | <sub>2021-09-10 12:41:35</sub> | <sub>[[simplio-mobile:swipelux] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2)</sub> | <sub>[e6077c3](https://github.com/SimplioOfficial/simplio-mobile/commit/e6077c3d9d541af1bdbfb53234b73e22a8157fc2) [DEVELOPMENT-61] Swipelux experiments - jvrastil</sub> |
 | <sub>2021-09-10 10:14:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c)</sub> | <sub>[2702780](https://github.com/SimplioOfficial/simplio-mobile/commit/2702780202fe9601b7f028c7b69983b87b090e3c) Update add_coins_and_promos.md - PitTxid</sub> |
-| <sub>2021-09-10 10:05:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac)</sub> | <sub>[0666ae4](https://github.com/SimplioOfficial/simplio-mobile/commit/0666ae471e601117628f4c9fcde1c105915e4dac) Update add_coins_and_promos.md - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

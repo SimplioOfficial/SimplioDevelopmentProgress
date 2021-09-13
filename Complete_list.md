@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-13 08:33:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/faa5615f5c569beaecda0179f9de501f1da13f06)</sub> | <sub>[faa5615](https://github.com/ciripel/available_swaps_script/commit/faa5615f5c569beaecda0179f9de501f1da13f06) updated PAX->USDP - ciripel</sub> |
 | <sub>2021-09-13 08:12:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306)</sub> | <sub>[ed2d767](https://github.com/SimplioOfficial/simplio-mobile/commit/ed2d767352757f21d69b57d72752b032de3f3306) PAX -> USDP - ciripel</sub> |
 | <sub>2021-09-11 03:56:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51)</sub> | <sub>[d76694d](https://github.com/SimplioOfficial/simplio-mobile/commit/d76694d9ca43bc9329091eacc214caa4f38d7f51) init coins and network in appcomponent - PitTxid</sub> |
 | <sub>2021-09-11 03:25:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa)</sub> | <sub>[d1eae3c](https://github.com/SimplioOfficial/simplio-mobile/commit/d1eae3c3d9d229abbc09688dcacdb2448dd714aa) prepare estimated fee in token - PitTxid</sub> |
