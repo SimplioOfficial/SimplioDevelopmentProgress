@@ -574,5 +574,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/9a2ea87787e071e5fabc46dee9ebe96593ed99df"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 10:50:53.796000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b15da04`](https://github.com/SimplioOfficial/simplio-mobile/commit/b15da04f27ce2495043f598d7ef6d2a685755956) add notice text for fee and send SPL token - PitTxid\n[`5111dbd`](https://github.com/SimplioOfficial/simplio-mobile/commit/5111dbd59664a6433731587876ccaaa4b1d7bef9) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9526f168b2d1...5111dbd59664"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 10:51:58.346000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e5c14d2`](https://github.com/SimplioOfficial/simplio-mobile/commit/e5c14d2cf0d9610343ae736ef7db1e5b07c69a6f) change priority for SIO - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e5c14d2cf0d9610343ae736ef7db1e5b07c69a6f"
+    }
   }
 ]
