@@ -430,5 +430,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ed2d76735275...e712e79fde65"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 08:55:14.965000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f2f3019`](https://github.com/SimplioOfficial/simplio-mobile/commit/f2f3019bbc220833b373870900f655f3e5e0e850) Remove everything about TENT/XSG - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f2f3019bbc220833b373870900f655f3e5e0e850"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 08:55:34.517000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e835b59`](https://github.com/ciripel/available_swaps_script/commit/e835b599f0d4af780ea65ae10ddb71b5be1ab534) added csv_generator for jitka's web part - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/e835b599f0d4af780ea65ae10ddb71b5be1ab534"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 08:56:49.837000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8808570`](https://github.com/ciripel/available_swaps_script/commit/8808570b098fc5a703ca2a33b808b3afd4aa937a) fixed variable name typo - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/8808570b098fc5a703ca2a33b808b3afd4aa937a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 08:57:33.295000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`29c5879`](https://github.com/SimplioOfficial/fee-program/commit/29c587969f63f528bb3882f5926169db37be4d39) update to show more info on error - PitTxid",
+      "title": "[fee-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/commit/29c587969f63f528bb3882f5926169db37be4d39"
+    }
   }
 ]
