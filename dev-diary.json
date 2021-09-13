@@ -646,5 +646,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/bac8c9caab60fde18d0572811409a56e8de36629"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-13 14:19:39.973000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`19473fb`](https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5) Added commends and updated dependencies - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5"
+    }
   }
 ]
