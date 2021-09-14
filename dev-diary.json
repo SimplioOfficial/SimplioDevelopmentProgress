@@ -736,5 +736,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-14 07:15:07.426000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b6b7ca6`](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27"
+    }
   }
 ]
