@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 49 commits since 10/09/2021. You can see the complete history in
+There is a total of 50 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-14 14:50:48</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02)</sub> | <sub>[4e030ef](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02) adding wrap error - storkandstars</sub> |
 | <sub>2021-09-14 13:41:02</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4)</sub> | <sub>[6b9dde0](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4) V0.1.0 (#25) - PitTxid</sub> |
 | <sub>2021-09-14 13:40:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a91e5edfdff5...3be704bc8915)</sub> | <sub>[c2e2076](https://github.com/SimplioOfficial/simplio-mobile/commit/c2e20765288410085fa3f944825610f924fb028f) V0.1.0 (#21) - PitTxid<br>[9a915ca](https://github.com/SimplioOfficial/simplio-mobile/commit/9a915cafe7d946b488a0c5cfb42c0393a9785f4d) update estimated fee solana - PitTxid<br>[3398f62](https://github.com/SimplioOfficial/simplio-mobile/commit/3398f62be53a38eca434c1bbec78ec507917e2be) Merge branch 'v0.1.0' into testing - jvrastil<br>[2f412f6](https://github.com/SimplioOfficial/simplio-mobile/commit/2f412f6d867fb323957a67696e43ea688b2b696f) V0.1.0 (#24) - jvrastil<br>[b6b7ca6](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-09-14 13:38:13</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a91e5edfdff520f0f92089232d6837eaa0596e1d)</sub> | <sub>[a91e5ed](https://github.com/SimplioOfficial/simplio-mobile/commit/a91e5edfdff520f0f92089232d6837eaa0596e1d) increase ios build version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 49 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-14 08:30:49</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3)</sub> | <sub>[d8868ba](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3) added total no of chains in full_list - ciripel</sub> |
 | <sub>2021-09-14 07:15:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27)</sub> | <sub>[b6b7ca6](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-09-14 06:59:21</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8)</sub> | <sub>[b052315](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8) update init pool test - PitTxid</sub> |
-| <sub>2021-09-14 04:22:06</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c)</sub> | <sub>[fa3d2c2](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c) implement integration test for init_pool - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
