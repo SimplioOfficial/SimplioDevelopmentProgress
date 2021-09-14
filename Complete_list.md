@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-14 06:59:21</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8)</sub> | <sub>[b052315](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8) update init pool test - PitTxid</sub> |
 | <sub>2021-09-14 04:22:06</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c)</sub> | <sub>[fa3d2c2](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c) implement integration test for init_pool - PitTxid</sub> |
 | <sub>2021-09-13 22:26:17</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897)</sub> | <sub>[eed7cf4](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897) file structure update - storkandstars</sub> |
 | <sub>2021-09-13 14:30:58</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47)</sub> | <sub>[c799823](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47) add test fee - PitTxid</sub> |
