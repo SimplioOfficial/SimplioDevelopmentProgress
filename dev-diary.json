@@ -700,5 +700,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-14 04:22:06.737000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fa3d2c2`](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c) implement integration test for init_pool - PitTxid",
+      "title": "[fee-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c"
+    }
   }
 ]
