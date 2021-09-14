@@ -898,5 +898,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-14 14:59:28.768000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`be5c74a`](https://github.com/SimplioOfficial/Cicerone/commit/be5c74aa103b40eb96e440ab3f876317b6292dd5) v0.1.2 - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/be5c74aa103b40eb96e440ab3f876317b6292dd5"
+    }
   }
 ]
