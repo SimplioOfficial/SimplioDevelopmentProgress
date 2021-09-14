@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-14 13:38:13</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a91e5edfdff520f0f92089232d6837eaa0596e1d)</sub> | <sub>[a91e5ed](https://github.com/SimplioOfficial/simplio-mobile/commit/a91e5edfdff520f0f92089232d6837eaa0596e1d) increase ios build version - PitTxid</sub> |
 | <sub>2021-09-14 08:58:37</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84)</sub> | <sub>[d0fb298](https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84) [DEVELOPMENT-88] Fix special character validator - jvrastil</sub> |
 | <sub>2021-09-14 08:38:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/887222963d6917e4c5266cac4991d684bff8c810)</sub> | <sub>[8872229](https://github.com/SimplioOfficial/simplio-mobile/commit/887222963d6917e4c5266cac4991d684bff8c810) updated full_list of coins - ciripel</sub> |
 | <sub>2021-09-14 08:37:57</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/e17e05db3de57fc704a39a2e9c82609c6437fc7c)</sub> | <sub>[e17e05d](https://github.com/ciripel/available_swaps_script/commit/e17e05db3de57fc704a39a2e9c82609c6437fc7c) removed TENT - ciripel</sub> |
