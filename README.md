@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 45 commits since 10/09/2021. You can see the complete history in
+There is a total of 46 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-14 08:58:37</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84)</sub> | <sub>[d0fb298](https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84) [DEVELOPMENT-88] Fix special character validator - jvrastil</sub> |
 | <sub>2021-09-14 08:38:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/887222963d6917e4c5266cac4991d684bff8c810)</sub> | <sub>[8872229](https://github.com/SimplioOfficial/simplio-mobile/commit/887222963d6917e4c5266cac4991d684bff8c810) updated full_list of coins - ciripel</sub> |
 | <sub>2021-09-14 08:37:57</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/e17e05db3de57fc704a39a2e9c82609c6437fc7c)</sub> | <sub>[e17e05d](https://github.com/ciripel/available_swaps_script/commit/e17e05db3de57fc704a39a2e9c82609c6437fc7c) removed TENT - ciripel</sub> |
 | <sub>2021-09-14 08:30:49</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3)</sub> | <sub>[d8868ba](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3) added total no of chains in full_list - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 45 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-13 22:26:17</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897)</sub> | <sub>[eed7cf4](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897) file structure update - storkandstars</sub> |
 | <sub>2021-09-13 14:30:58</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47)</sub> | <sub>[c799823](https://github.com/SimplioOfficial/fee-program/commit/c799823393a462d6f913d52602248d93594a2f47) add test fee - PitTxid</sub> |
 | <sub>2021-09-13 14:19:39</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5)</sub> | <sub>[19473fb](https://github.com/ciripel/available_swaps_script/commit/19473fb0b7f71fd4fee82c8d6731cc769f0cd5e5) Added commends and updated dependencies - ciripel</sub> |
-| <sub>2021-09-13 14:12:07</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/bac8c9caab60fde18d0572811409a56e8de36629)</sub> | <sub>[bac8c9c](https://github.com/ciripel/available_swaps_script/commit/bac8c9caab60fde18d0572811409a56e8de36629) adjusted csv structure - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

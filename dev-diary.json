@@ -808,5 +808,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/887222963d6917e4c5266cac4991d684bff8c810"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-14 08:58:37.843000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d0fb298`](https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84) [DEVELOPMENT-88] Fix special character validator - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d0fb29852c738e48225c99b3b1bb7e38b6c2cf84"
+    }
   }
 ]
