@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-14 08:30:49</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3)</sub> | <sub>[d8868ba](https://github.com/ciripel/available_swaps_script/commit/d8868bad2691ceae3793fbcfd2a82ca7aaa904e3) added total no of chains in full_list - ciripel</sub> |
 | <sub>2021-09-14 07:15:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27)</sub> | <sub>[b6b7ca6](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-09-14 06:59:21</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8)</sub> | <sub>[b052315](https://github.com/SimplioOfficial/fee-program/commit/b05231554720a7223b4f1f90f16b7dcb43adf8a8) update init pool test - PitTxid</sub> |
 | <sub>2021-09-14 04:22:06</sub> | <sub>[[fee-program:master] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c)</sub> | <sub>[fa3d2c2](https://github.com/SimplioOfficial/fee-program/commit/fa3d2c215ea4498bd1d77a2ffca437a92f6d943c) implement integration test for init_pool - PitTxid</sub> |
