@@ -970,5 +970,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f14ed1134060^...bf596ef447fa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-15 07:57:35.862000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7486400`](https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3) Updated at 15-09-2021 07:57 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-15 07:59:20.684000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`22e8a92`](https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15) Added SIO - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15"
+    }
   }
 ]
