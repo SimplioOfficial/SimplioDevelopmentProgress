@@ -952,5 +952,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/c5092e52a5964fb5a6606412f1ea4e2ef7f980d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-15 01:48:41.894000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f14ed11`](https://github.com/SimplioOfficial/simplio-mobile/commit/f14ed11340604768e540e0c13357ce52015fb2b0) add serum package - PitTxid\n[`bf596ef`](https://github.com/SimplioOfficial/simplio-mobile/commit/bf596ef447fa8f2fa01ee9c87ccd67d03f8114dc) get market order - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f14ed1134060^...bf596ef447fa"
+    }
   }
 ]
