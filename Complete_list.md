@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-15 13:41:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b)</sub> | <sub>[6f7fb63](https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b) implemented unique_id identifier on all the coins - ciripel</sub> |
 | <sub>2021-09-15 12:50:19</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/bc4e5adfbd12b58084acee935fba33b38e8c5d4a)</sub> | <sub>[bc4e5ad](https://github.com/SimplioOfficial/simplio-go/commit/bc4e5adfbd12b58084acee935fba33b38e8c5d4a) Nullable json values - storkandstars</sub> |
 | <sub>2021-09-15 07:59:20</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15)</sub> | <sub>[22e8a92](https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15) Added SIO - ciripel</sub> |
 | <sub>2021-09-15 07:57:35</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3)</sub> | <sub>[7486400](https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3) Updated at 15-09-2021 07:57 - ciripel</sub> |

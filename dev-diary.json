@@ -1024,5 +1024,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/bc4e5adfbd12b58084acee935fba33b38e8c5d4a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-15 13:41:01.900000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6f7fb63`](https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b) implemented unique_id identifier on all the coins - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b"
+    }
   }
 ]

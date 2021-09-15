@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 57 commits since 10/09/2021. You can see the complete history in
+There is a total of 58 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-15 13:41:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b)</sub> | <sub>[6f7fb63](https://github.com/SimplioOfficial/simplio-mobile/commit/6f7fb6319368703f5d4c4baf5f7f19e6fc6f438b) implemented unique_id identifier on all the coins - ciripel</sub> |
 | <sub>2021-09-15 12:50:19</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/bc4e5adfbd12b58084acee935fba33b38e8c5d4a)</sub> | <sub>[bc4e5ad](https://github.com/SimplioOfficial/simplio-go/commit/bc4e5adfbd12b58084acee935fba33b38e8c5d4a) Nullable json values - storkandstars</sub> |
 | <sub>2021-09-15 07:59:20</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15)</sub> | <sub>[22e8a92](https://github.com/ciripel/available_swaps_script/commit/22e8a92aae98394d386138ce0b305f8427b93a15) Added SIO - ciripel</sub> |
 | <sub>2021-09-15 07:57:35</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3)</sub> | <sub>[7486400](https://github.com/ciripel/script_generated_files/commit/7486400e05446e79b841173e1cf98f773def3bd3) Updated at 15-09-2021 07:57 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 57 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-14 14:59:28</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/be5c74aa103b40eb96e440ab3f876317b6292dd5)</sub> | <sub>[be5c74a](https://github.com/SimplioOfficial/Cicerone/commit/be5c74aa103b40eb96e440ab3f876317b6292dd5) v0.1.2 - ciripel</sub> |
 | <sub>2021-09-14 14:50:48</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02)</sub> | <sub>[4e030ef](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02) adding wrap error - storkandstars</sub> |
 | <sub>2021-09-14 13:41:02</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4)</sub> | <sub>[6b9dde0](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4) V0.1.0 (#25) - PitTxid</sub> |
-| <sub>2021-09-14 13:40:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a91e5edfdff5...3be704bc8915)</sub> | <sub>[c2e2076](https://github.com/SimplioOfficial/simplio-mobile/commit/c2e20765288410085fa3f944825610f924fb028f) V0.1.0 (#21) - PitTxid<br>[9a915ca](https://github.com/SimplioOfficial/simplio-mobile/commit/9a915cafe7d946b488a0c5cfb42c0393a9785f4d) update estimated fee solana - PitTxid<br>[3398f62](https://github.com/SimplioOfficial/simplio-mobile/commit/3398f62be53a38eca434c1bbec78ec507917e2be) Merge branch 'v0.1.0' into testing - jvrastil<br>[2f412f6](https://github.com/SimplioOfficial/simplio-mobile/commit/2f412f6d867fb323957a67696e43ea688b2b696f) V0.1.0 (#24) - jvrastil<br>[b6b7ca6](https://github.com/SimplioOfficial/simplio-mobile/commit/b6b7ca6af2e5722a3d9ad737c920d9508544df27) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
