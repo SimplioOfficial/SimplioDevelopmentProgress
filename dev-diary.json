@@ -1186,5 +1186,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fdc72d8856275bbe9df1956b7fb262f7c1d6cf7d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-16 18:16:38.619000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0ef0010`](https://github.com/SimplioOfficial/simplio-mobile/commit/0ef0010de51a8b5f7054a1bb5a4937517f296382) Cleaned all found SUM references - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0ef0010de51a8b5f7054a1bb5a4937517f296382"
+    }
   }
 ]
