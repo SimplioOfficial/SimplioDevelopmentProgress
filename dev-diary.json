@@ -1132,5 +1132,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/e7e458e164cc5a42e5c729d4687cc53e97617cea"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-16 07:30:19.014000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`77e52a6`](https://github.com/SimplioOfficial/simplio-mobile/commit/77e52a6db5300e31609ef33931dc086394fbf6de) implemented coinNames enum for all coins - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/77e52a6db5300e31609ef33931dc086394fbf6de"
+    }
   }
 ]
