@@ -1114,5 +1114,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/script_generated_files/commit/ce2161833e36e3a17c6efb5ed02bd8e73b24f052"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-16 07:16:39.340000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e7e458e`](https://github.com/ciripel/available_swaps_script/commit/e7e458e164cc5a42e5c729d4687cc53e97617cea) added celsius in the list - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/e7e458e164cc5a42e5c729d4687cc53e97617cea"
+    }
   }
 ]
