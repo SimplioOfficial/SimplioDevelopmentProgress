@@ -1060,5 +1060,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/86e02fdc90a4d62d6681acce604ed9c200a56a3d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-16 06:38:29.542000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`9d0e58a`](https://github.com/ciripel/available_swaps_script/commit/9d0e58aba88324e0a934c433e654ca62369910b6) implemented supported coins enum generation - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/9d0e58aba88324e0a934c433e654ca62369910b6"
+    }
   }
 ]
