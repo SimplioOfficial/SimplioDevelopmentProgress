@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 85 commits since 10/09/2021. You can see the complete history in
+There is a total of 86 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-17 16:15:28</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6)</sub> | <sub>[31b1b95](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6) Add New coin after Cripel's changes (#26) - jvrastil</sub> |
 | <sub>2021-09-17 16:07:19</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/de49a19d88c5d0cf8401eac1cc081d736d8dc68a)</sub> | <sub>[de49a19](https://github.com/SimplioOfficial/simplio-go/commit/de49a19d88c5d0cf8401eac1cc081d736d8dc68a) wip - init elasticsearch - storkandstars</sub> |
 | <sub>2021-09-17 16:06:27</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c1ea23c5eea42dd70f3e28537f985f099c1e9023)</sub> | <sub>[c1ea23c](https://github.com/SimplioOfficial/simplio-go/commit/c1ea23c5eea42dd70f3e28537f985f099c1e9023) Adding index on bonus id - storkandstars</sub> |
 | <sub>2021-09-17 15:50:19</sub> | <sub>[[simplio-dex-swap-server:master] 3 new commits](https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/f90948258b3c...119ac60c1230)</sub> | <sub>[9b7e270](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/9b7e2709845bc1cff5ab976c4d444fd111de9c81) add remove pairs - PitTxid<br>[af592d3](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/af592d325511d751a9b96310e2948cfb99d35856) server in ts - PitTxid<br>[119ac60](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/119ac60c1230eacd0f740b5999f0546eea535c64) get/add/remove pair successfully - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 85 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-17 09:15:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/338e34b0e583e32509341219ec6711f5011bbe47)</sub> | <sub>[338e34b](https://github.com/SimplioOfficial/simplio-go/commit/338e34b0e583e32509341219ec6711f5011bbe47) Retrieving all programs - storkandstars</sub> |
 | <sub>2021-09-17 09:14:43</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/9365378abeb3f4e6561d2e29c185f7ddda18c118)</sub> | <sub>[9365378](https://github.com/SimplioOfficial/simplio-go/commit/9365378abeb3f4e6561d2e29c185f7ddda18c118) Adding publish validation - storkandstars</sub> |
 | <sub>2021-09-17 08:54:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0a3635e7b374...7a10d33c7651)</sub> | <sub>[fe60ad5](https://github.com/SimplioOfficial/simplio-mobile/commit/fe60ad5de9fecbe3726ce989407c03b35fd92ae1) change main color - daxicek<br>[7a10d33](https://github.com/SimplioOfficial/simplio-mobile/commit/7a10d33c765178a9a282c5191369c3d4931e01f4) Change primary color. - daxicek</sub> |
-| <sub>2021-09-17 08:07:32</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/bfe79d80d6d322181e9f994b37a424c43c1020de)</sub> | <sub>[bfe79d8](https://github.com/ciripel/available_swaps_script/commit/bfe79d80d6d322181e9f994b37a424c43c1020de) updated SIO icon - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
