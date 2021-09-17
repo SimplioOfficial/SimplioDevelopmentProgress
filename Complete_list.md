@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-17 07:43:00</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945)</sub> | <sub>[fa93fed](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945) updated promos documentation - ciripel</sub> |
 | <sub>2021-09-17 07:34:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8a7bca3730d996a14c7ee37bf647a8dd275aa816)</sub> | <sub>[8a7bca3](https://github.com/SimplioOfficial/simplio-mobile/commit/8a7bca3730d996a14c7ee37bf647a8dd275aa816) declared values to WalletType enum - ciripel</sub> |
 | <sub>2021-09-17 07:24:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/75c7cc4ff3bea92f325946187fc1b186bfced9c1)</sub> | <sub>[75c7cc4](https://github.com/SimplioOfficial/simplio-mobile/commit/75c7cc4ff3bea92f325946187fc1b186bfced9c1) fix bitcorelib signing error - PitTxid</sub> |
 | <sub>2021-09-16 23:39:30</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1012c73dc7a841c65e6a3435cf669998aca0c793)</sub> | <sub>[1012c73](https://github.com/SimplioOfficial/simplio-go/commit/1012c73dc7a841c65e6a3435cf669998aca0c793) Program creation with validation - storkandstars</sub> |
