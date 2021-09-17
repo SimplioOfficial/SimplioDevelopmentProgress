@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 72 commits since 10/09/2021. You can see the complete history in
+There is a total of 73 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-17 07:48:53</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/bece7ec31b32926d38f362c3d3f72a8874bdcae5)</sub> | <sub>[bece7ec](https://github.com/SimplioOfficial/simplio-go/commit/bece7ec31b32926d38f362c3d3f72a8874bdcae5) Adding go routine to bonus retrieve from db - storkandstars</sub> |
 | <sub>2021-09-17 07:43:00</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945)</sub> | <sub>[fa93fed](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945) updated promos documentation - ciripel</sub> |
 | <sub>2021-09-17 07:34:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8a7bca3730d996a14c7ee37bf647a8dd275aa816)</sub> | <sub>[8a7bca3](https://github.com/SimplioOfficial/simplio-mobile/commit/8a7bca3730d996a14c7ee37bf647a8dd275aa816) declared values to WalletType enum - ciripel</sub> |
 | <sub>2021-09-17 07:24:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/75c7cc4ff3bea92f325946187fc1b186bfced9c1)</sub> | <sub>[75c7cc4](https://github.com/SimplioOfficial/simplio-mobile/commit/75c7cc4ff3bea92f325946187fc1b186bfced9c1) fix bitcorelib signing error - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 72 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-16 18:09:36</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fdc72d8856275bbe9df1956b7fb262f7c1d6cf7d)</sub> | <sub>[fdc72d8](https://github.com/SimplioOfficial/simplio-mobile/commit/fdc72d8856275bbe9df1956b7fb262f7c1d6cf7d) removed everything PIRL related - ciripel</sub> |
 | <sub>2021-09-16 18:05:59</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/638194cdda388c04828ab9a9391e204f10bd6c8e)</sub> | <sub>[638194c](https://github.com/SimplioOfficial/simplio-mobile/commit/638194cdda388c04828ab9a9391e204f10bd6c8e) changed sticker to ticker everywhere - ciripel</sub> |
 | <sub>2021-09-16 07:30:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/77e52a6db5300e31609ef33931dc086394fbf6de)</sub> | <sub>[77e52a6](https://github.com/SimplioOfficial/simplio-mobile/commit/77e52a6db5300e31609ef33931dc086394fbf6de) implemented coinNames enum for all coins - ciripel</sub> |
-| <sub>2021-09-16 07:16:39</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/e7e458e164cc5a42e5c729d4687cc53e97617cea)</sub> | <sub>[e7e458e](https://github.com/ciripel/available_swaps_script/commit/e7e458e164cc5a42e5c729d4687cc53e97617cea) added celsius in the list - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
