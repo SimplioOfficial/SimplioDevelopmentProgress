@@ -1474,5 +1474,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/346190338fcc8041a4184c306d6a6463f06e8efc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-17 15:50:19.334000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9b7e270`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/9b7e2709845bc1cff5ab976c4d444fd111de9c81) add remove pairs - PitTxid\n[`af592d3`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/af592d325511d751a9b96310e2948cfb99d35856) server in ts - PitTxid\n[`119ac60`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/119ac60c1230eacd0f740b5999f0546eea535c64) get/add/remove pair successfully - PitTxid",
+      "title": "[simplio-dex-swap-server:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/f90948258b3c...119ac60c1230"
+    }
   }
 ]
