@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 81 commits since 10/09/2021. You can see the complete history in
+There is a total of 82 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-17 15:32:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/346190338fcc8041a4184c306d6a6463f06e8efc)</sub> | <sub>[3461903](https://github.com/SimplioOfficial/simplio-mobile/commit/346190338fcc8041a4184c306d6a6463f06e8efc) Add New coin after Cripel's changes - jvrastil</sub> |
 | <sub>2021-09-17 14:15:56</sub> | <sub>[[simplio-mobile:testing] 48 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/6b9dde0a49b9...617644d388d2)</sub> | <sub>[3a449fc](https://github.com/SimplioOfficial/simplio-mobile/commit/3a449fced0106f84b064613eb61d150dc7bd6fb2) [DEVELOPMENT-59] Fix negative values on swap page - jvrastil<br>[f89eaf0](https://github.com/SimplioOfficial/simplio-mobile/commit/f89eaf0f6f46fa8140805bd8c08f8ef5fdad0b50) [DEVELOPMENT-75] Set default wallets to SIMP, S... - jvrastil<br>[98a8825](https://github.com/SimplioOfficial/simplio-mobile/commit/98a88255accfb12b8fe8709adb23ff4e19ed78f1) [DEVELOPMENT-75] Add BNB to default wallets - jvrastil<br>[027bb3b](https://github.com/SimplioOfficial/simplio-mobile/commit/027bb3b70d1dc1228e3cdb2cf613e1b310c5a286) update server url - PitTxid<br>[34011c2](https://github.com/SimplioOfficial/simplio-mobile/commit/34011c2e00e558fdf3d557077b95ecada244a76f) update simplio token - PitTxid</sub> |
 | <sub>2021-09-17 14:13:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7a10d33c7651...d12b1d0c7cc1)</sub> | <sub>[a17f8b5](https://github.com/SimplioOfficial/simplio-mobile/commit/a17f8b52335b63e0b5fc9f71effeaebfeb472fdc) [DEVELOPMENT-25] Add LiveChat widget - jvrastil<br>[d12b1d0](https://github.com/SimplioOfficial/simplio-mobile/commit/d12b1d0c7cc16f756f940a737d5ecd1083772bfb) increase ios version - jvrastil</sub> |
 | <sub>2021-09-17 09:15:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/338e34b0e583e32509341219ec6711f5011bbe47)</sub> | <sub>[338e34b](https://github.com/SimplioOfficial/simplio-go/commit/338e34b0e583e32509341219ec6711f5011bbe47) Retrieving all programs - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 81 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-17 08:07:11</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/897890111fc7bd5842004d6e971fa023a819cf29)</sub> | <sub>[8978901](https://github.com/ciripel/script_generated_files/commit/897890111fc7bd5842004d6e971fa023a819cf29) Updated at 17-09-2021 08:07 - ciripel</sub> |
 | <sub>2021-09-17 08:05:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a3635e7b374c2cc07ea715179d77656506f2bfb)</sub> | <sub>[0a3635e](https://github.com/SimplioOfficial/simplio-mobile/commit/0a3635e7b374c2cc07ea715179d77656506f2bfb) updated Sio icon - ciripel</sub> |
 | <sub>2021-09-17 07:48:53</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/bece7ec31b32926d38f362c3d3f72a8874bdcae5)</sub> | <sub>[bece7ec](https://github.com/SimplioOfficial/simplio-go/commit/bece7ec31b32926d38f362c3d3f72a8874bdcae5) Adding go routine to bonus retrieve from db - storkandstars</sub> |
-| <sub>2021-09-17 07:43:00</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945)</sub> | <sub>[fa93fed](https://github.com/SimplioOfficial/simplio-mobile/commit/fa93fedfc1bd1dbf2afc45397b5fed6da164f945) updated promos documentation - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
