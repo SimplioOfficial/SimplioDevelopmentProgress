@@ -1438,5 +1438,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7a10d33c7651...d12b1d0c7cc1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-17 14:15:56.592000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3a449fc`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a449fced0106f84b064613eb61d150dc7bd6fb2) [DEVELOPMENT-59] Fix negative values on swap page - jvrastil\n[`f89eaf0`](https://github.com/SimplioOfficial/simplio-mobile/commit/f89eaf0f6f46fa8140805bd8c08f8ef5fdad0b50) [DEVELOPMENT-75] Set default wallets to SIMP, S... - jvrastil\n[`98a8825`](https://github.com/SimplioOfficial/simplio-mobile/commit/98a88255accfb12b8fe8709adb23ff4e19ed78f1) [DEVELOPMENT-75] Add BNB to default wallets - jvrastil\n[`027bb3b`](https://github.com/SimplioOfficial/simplio-mobile/commit/027bb3b70d1dc1228e3cdb2cf613e1b310c5a286) update server url - PitTxid\n[`34011c2`](https://github.com/SimplioOfficial/simplio-mobile/commit/34011c2e00e558fdf3d557077b95ecada244a76f) update simplio token - PitTxid",
+      "title": "[simplio-mobile:testing] 48 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6b9dde0a49b9...617644d388d2"
+    }
   }
 ]
