@@ -1546,5 +1546,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-18 04:18:38.209000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d6d8833`](https://github.com/SimplioOfficial/simplio-mobile/commit/d6d8833dabd7ae4e5c8da547a37f5586a8d13f69) present loading when initiating swap - PitTxid\n[`f872f93`](https://github.com/SimplioOfficial/simplio-mobile/commit/f872f93c20e64c0458ca814b80c7b6121c1e5232) get dex list from server successfully - PitTxid\n[`9ba8068`](https://github.com/SimplioOfficial/simplio-mobile/commit/9ba8068ba368f29776b80e66660d463d35be5a8a) show swap data with platform - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/bf596ef447fa...9ba8068ba368"
+    }
   }
 ]
