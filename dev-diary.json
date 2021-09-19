@@ -1636,5 +1636,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-19 07:37:32.055000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`63390c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/63390c02bcf1a24f30dc0b66ee181f7fa618fd45) add isinitialized and uniqueid to wallet - PitTxid\n[`507308e`](https://github.com/SimplioOfficial/simplio-mobile/commit/507308e6d8f343ea24b82bf714bb0446d35612ab) fix default swap pair - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c69be76867f8...507308e6d8f3"
+    }
   }
 ]

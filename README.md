@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 91 commits since 10/09/2021. You can see the complete history in
+There is a total of 92 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-19 07:37:32</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c69be76867f8...507308e6d8f3)</sub> | <sub>[63390c0](https://github.com/SimplioOfficial/simplio-mobile/commit/63390c02bcf1a24f30dc0b66ee181f7fa618fd45) add isinitialized and uniqueid to wallet - PitTxid<br>[507308e](https://github.com/SimplioOfficial/simplio-mobile/commit/507308e6d8f343ea24b82bf714bb0446d35612ab) fix default swap pair - PitTxid</sub> |
 | <sub>2021-09-19 06:46:55</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b)</sub> | <sub>[73c85d6](https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b) corrected Cicerone name - ciripel</sub> |
 | <sub>2021-09-19 06:44:03</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/6de03c6c1c0eea786d5d6ce08b203ea5a4f8236d)</sub> | <sub>[6de03c6](https://github.com/SimplioOfficial/Cicerone/commit/6de03c6c1c0eea786d5d6ce08b203ea5a4f8236d) updated issues badges - ciripel</sub> |
 | <sub>2021-09-19 06:20:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666)</sub> | <sub>[c69be76](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666) fix swap estimation sometimes does not calculat... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 91 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-17 16:07:19</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/de49a19d88c5d0cf8401eac1cc081d736d8dc68a)</sub> | <sub>[de49a19](https://github.com/SimplioOfficial/simplio-go/commit/de49a19d88c5d0cf8401eac1cc081d736d8dc68a) wip - init elasticsearch - storkandstars</sub> |
 | <sub>2021-09-17 16:06:27</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c1ea23c5eea42dd70f3e28537f985f099c1e9023)</sub> | <sub>[c1ea23c](https://github.com/SimplioOfficial/simplio-go/commit/c1ea23c5eea42dd70f3e28537f985f099c1e9023) Adding index on bonus id - storkandstars</sub> |
 | <sub>2021-09-17 15:50:19</sub> | <sub>[[simplio-dex-swap-server:master] 3 new commits](https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/f90948258b3c...119ac60c1230)</sub> | <sub>[9b7e270](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/9b7e2709845bc1cff5ab976c4d444fd111de9c81) add remove pairs - PitTxid<br>[af592d3](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/af592d325511d751a9b96310e2948cfb99d35856) server in ts - PitTxid<br>[119ac60](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/119ac60c1230eacd0f740b5999f0546eea535c64) get/add/remove pair successfully - PitTxid</sub> |
-| <sub>2021-09-17 15:32:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/346190338fcc8041a4184c306d6a6463f06e8efc)</sub> | <sub>[3461903](https://github.com/SimplioOfficial/simplio-mobile/commit/346190338fcc8041a4184c306d6a6463f06e8efc) Add New coin after Cripel's changes - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
