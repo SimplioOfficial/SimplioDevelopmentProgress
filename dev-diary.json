@@ -1618,5 +1618,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/6de03c6c1c0eea786d5d6ce08b203ea5a4f8236d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-19 06:46:55.380000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`73c85d6`](https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b) corrected Cicerone name - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b"
+    }
   }
 ]

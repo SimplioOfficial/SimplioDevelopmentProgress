@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-19 06:46:55</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b)</sub> | <sub>[73c85d6](https://github.com/SimplioOfficial/Cicerone/commit/73c85d67128eec63560bf04a47a657b770d55d8b) corrected Cicerone name - ciripel</sub> |
 | <sub>2021-09-19 06:44:03</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/6de03c6c1c0eea786d5d6ce08b203ea5a4f8236d)</sub> | <sub>[6de03c6](https://github.com/SimplioOfficial/Cicerone/commit/6de03c6c1c0eea786d5d6ce08b203ea5a4f8236d) updated issues badges - ciripel</sub> |
 | <sub>2021-09-19 06:20:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666)</sub> | <sub>[c69be76](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666) fix swap estimation sometimes does not calculat... - PitTxid</sub> |
 | <sub>2021-09-18 07:53:29</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/60290cbdd7764a2b9d4c93fc3ecac22fe7ecf69e)</sub> | <sub>[60290cb](https://github.com/SimplioOfficial/simplio-mobile/commit/60290cbdd7764a2b9d4c93fc3ecac22fe7ecf69e) updat simplio address - PitTxid</sub> |
