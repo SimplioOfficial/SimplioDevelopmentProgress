@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-20 09:41:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6)</sub> | <sub>[1d77486](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6) fix create custom token - PitTxid</sub> |
 | <sub>2021-09-20 08:16:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c)</sub> | <sub>[1ddd36a](https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c) [DEVELOPMENT-95] Use correct decimal & thousand... - jvrastil</sub> |
 | <sub>2021-09-20 04:28:46</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f42c9c5113f23f56ec369e1af2420c4e74b61e5a)</sub> | <sub>[f42c9c5](https://github.com/SimplioOfficial/simplio-mobile/commit/f42c9c5113f23f56ec369e1af2420c4e74b61e5a) estimate amount for dex - PitTxid</sub> |
 | <sub>2021-09-19 09:43:32</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4da2cca0cdabf14c054c4abe7f82f8f466dc8f67)</sub> | <sub>[4da2cca](https://github.com/SimplioOfficial/simplio-mobile/commit/4da2cca0cdabf14c054c4abe7f82f8f466dc8f67) add mint address to swap - PitTxid</sub> |

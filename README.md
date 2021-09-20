@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 95 commits since 10/09/2021. You can see the complete history in
+There is a total of 96 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-20 09:41:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6)</sub> | <sub>[1d77486](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6) fix create custom token - PitTxid</sub> |
 | <sub>2021-09-20 08:16:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c)</sub> | <sub>[1ddd36a](https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c) [DEVELOPMENT-95] Use correct decimal & thousand... - jvrastil</sub> |
 | <sub>2021-09-20 04:28:46</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f42c9c5113f23f56ec369e1af2420c4e74b61e5a)</sub> | <sub>[f42c9c5](https://github.com/SimplioOfficial/simplio-mobile/commit/f42c9c5113f23f56ec369e1af2420c4e74b61e5a) estimate amount for dex - PitTxid</sub> |
 | <sub>2021-09-19 09:43:32</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4da2cca0cdabf14c054c4abe7f82f8f466dc8f67)</sub> | <sub>[4da2cca](https://github.com/SimplioOfficial/simplio-mobile/commit/4da2cca0cdabf14c054c4abe7f82f8f466dc8f67) add mint address to swap - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 95 commits since 10/09/2021. You can see the complete histor
 | <sub>2021-09-19 06:20:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666)</sub> | <sub>[c69be76](https://github.com/SimplioOfficial/simplio-mobile/commit/c69be76867f844b7eea443bbdf81da78a8e37666) fix swap estimation sometimes does not calculat... - PitTxid</sub> |
 | <sub>2021-09-18 07:53:29</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/60290cbdd7764a2b9d4c93fc3ecac22fe7ecf69e)</sub> | <sub>[60290cb](https://github.com/SimplioOfficial/simplio-mobile/commit/60290cbdd7764a2b9d4c93fc3ecac22fe7ecf69e) updat simplio address - PitTxid</sub> |
 | <sub>2021-09-18 04:18:38</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/bf596ef447fa...9ba8068ba368)</sub> | <sub>[d6d8833](https://github.com/SimplioOfficial/simplio-mobile/commit/d6d8833dabd7ae4e5c8da547a37f5586a8d13f69) present loading when initiating swap - PitTxid<br>[f872f93](https://github.com/SimplioOfficial/simplio-mobile/commit/f872f93c20e64c0458ca814b80c7b6121c1e5232) get dex list from server successfully - PitTxid<br>[9ba8068](https://github.com/SimplioOfficial/simplio-mobile/commit/9ba8068ba368f29776b80e66660d463d35be5a8a) show swap data with platform - PitTxid</sub> |
-| <sub>2021-09-17 16:15:28</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6)</sub> | <sub>[31b1b95](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6) Add New coin after Cripel's changes (#26) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
