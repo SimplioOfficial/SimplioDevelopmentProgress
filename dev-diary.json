@@ -1852,5 +1852,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f539b58af81829e6fef0e546bfc5d20626af8096"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-20 16:28:19.182000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`2d3eaeb`](https://github.com/SimplioOfficial/simplio-go/commit/2d3eaeb06e51c7e0d27046a3bbd93e4e96a21d3f) removing elastic support. - storkandstars\n[`42043c3`](https://github.com/SimplioOfficial/simplio-go/commit/42043c351b1de46774147562a0a492b3539604a2) adding listing bonuses - storkandstars",
+      "title": "[simplio-go:wip/settings\\-env] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/5e0d74b41abf...42043c351b1d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-20 16:28:48.381000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`58e29d5`](https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe) add dex put order - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe"
+    }
   }
 ]
