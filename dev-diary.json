@@ -1780,5 +1780,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d58489a477b54bab70509a4972e4eee4c4f44bf9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-20 11:24:26.168000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1b60d90`](https://github.com/SimplioOfficial/simplio-mobile/commit/1b60d90e61960ed0851f9e26597dbb10e917b524) Squashed commit of the following: - PitTxid\n[`451b01a`](https://github.com/SimplioOfficial/simplio-mobile/commit/451b01afeb2c277dcf78b5fe17e7ffe5ac1af03d) fix get swap type issue - PitTxid\n[`5d53423`](https://github.com/SimplioOfficial/simplio-mobile/commit/5d5342387d2eb6282fe0b14b282b2b751876429a) Merge branch 'feature/serum-dex' of https://git... - PitTxid\n[`bda7e32`](https://github.com/SimplioOfficial/simplio-mobile/commit/bda7e32458233bdb55eb4286cc41b8c30cef0f35) estimated for dex - PitTxid\n[`555abe9`](https://github.com/SimplioOfficial/simplio-mobile/commit/555abe901744224a55db1bfc662c5d608882f3a6) dex go to summary page ok - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f42c9c5113f2...555abe901744"
+    }
   }
 ]
