@@ -1690,5 +1690,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f42c9c5113f23f56ec369e1af2420c4e74b61e5a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-20 08:16:11.539000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1ddd36a`](https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c) [DEVELOPMENT-95] Use correct decimal & thousand... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1ddd36a865506e146e946bbb308eed16c9dd258c"
+    }
   }
 ]
