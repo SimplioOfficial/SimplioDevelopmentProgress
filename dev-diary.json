@@ -2104,5 +2104,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/31b1b95d2f99...9b47e5923562"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-21 19:04:12.116000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7ec2bdc`](https://github.com/SimplioOfficial/simplio-go/commit/7ec2bdce4c478f5439e6f2f8b816f808fab756da) adding submodule - storkandstars\n[`1d596df`](https://github.com/SimplioOfficial/simplio-go/commit/1d596df870a7e760e979d7c1a9b92316899971fe) moving shared lib to submodule - storkandstars",
+      "title": "[simplio-go:wip/settings\\-env] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/2a8539ab078c...1d596df870a7"
+    }
   }
 ]
