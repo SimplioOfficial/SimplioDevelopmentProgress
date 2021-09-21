@@ -1978,5 +1978,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/script_generated_files/commit/b32afa84ec92f5728cb9af7363d6aef3a68327b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-21 13:18:39.844000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`2a8539a`](https://github.com/SimplioOfficial/simplio-go/commit/2a8539ab078c216a21fc61e566ef8c62f211e94c) wip - rest claiming bonus - storkandstars",
+      "title": "[simplio-go:wip/settings\\-env] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/2a8539ab078c216a21fc61e566ef8c62f211e94c"
+    }
   }
 ]
