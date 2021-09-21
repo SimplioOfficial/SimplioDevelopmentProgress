@@ -2032,5 +2032,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/58e29d521766...d9718f40562c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-21 14:20:15.678000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`432a9b7`](https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282) place order solana - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282"
+    }
   }
 ]

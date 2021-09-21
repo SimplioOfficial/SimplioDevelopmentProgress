@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 113 commits since 10/09/2021. You can see the complete history in
+There is a total of 114 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-21 14:20:15</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282)</sub> | <sub>[432a9b7](https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282) place order solana - PitTxid</sub> |
 | <sub>2021-09-21 14:19:16</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/58e29d521766...d9718f40562c)</sub> | <sub>[807f55e](https://github.com/SimplioOfficial/simplio-mobile/commit/807f55eab5beaed6f3ba3eaa21c0b15937b0853f) fix excluded filter for swap-wallet modal - PitTxid<br>[d9718f4](https://github.com/SimplioOfficial/simplio-mobile/commit/d9718f40562c9c06c518206e4d162b122469e34d) Merge branch 'feature/serum-dex' of https://git... - PitTxid</sub> |
 | <sub>2021-09-21 14:08:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c2aeddef15d71283583227ff44efa8fa012e18d4)</sub> | <sub>[c2aedde](https://github.com/SimplioOfficial/simplio-mobile/commit/c2aeddef15d71283583227ff44efa8fa012e18d4) [DEVELOPMENT-106] Re-enabled wallet is put the ... - jvrastil</sub> |
 | <sub>2021-09-21 13:18:39</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2a8539ab078c216a21fc61e566ef8c62f211e94c)</sub> | <sub>[2a8539a](https://github.com/SimplioOfficial/simplio-go/commit/2a8539ab078c216a21fc61e566ef8c62f211e94c) wip - rest claiming bonus - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 113 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-21 10:45:58</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/9dd5f1adad3a0faf78f36ba84080564dbd44d02f)</sub> | <sub>[9dd5f1a](https://github.com/ciripel/script_generated_files/commit/9dd5f1adad3a0faf78f36ba84080564dbd44d02f) Updated at 21-09-2021 10:45 - ciripel</sub> |
 | <sub>2021-09-21 10:01:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca993183adf43f2203ab985dc3a1be2ae57852cd)</sub> | <sub>[ca99318](https://github.com/SimplioOfficial/simplio-mobile/commit/ca993183adf43f2203ab985dc3a1be2ae57852cd) [DEVELOPMENT-108] Reload app when it is minimized - jvrastil</sub> |
 | <sub>2021-09-20 16:28:48</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe)</sub> | <sub>[58e29d5](https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe) add dex put order - PitTxid</sub> |
-| <sub>2021-09-20 16:28:19</sub> | <sub>[[simplio-go:wip/settings\-env] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/5e0d74b41abf...42043c351b1d)</sub> | <sub>[2d3eaeb](https://github.com/SimplioOfficial/simplio-go/commit/2d3eaeb06e51c7e0d27046a3bbd93e4e96a21d3f) removing elastic support. - storkandstars<br>[42043c3](https://github.com/SimplioOfficial/simplio-go/commit/42043c351b1de46774147562a0a492b3539604a2) adding listing bonuses - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
