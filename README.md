@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 105 commits since 10/09/2021. You can see the complete history in
+There is a total of 106 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-21 10:01:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca993183adf43f2203ab985dc3a1be2ae57852cd)</sub> | <sub>[ca99318](https://github.com/SimplioOfficial/simplio-mobile/commit/ca993183adf43f2203ab985dc3a1be2ae57852cd) [DEVELOPMENT-108] Reload app when it is minimized - jvrastil</sub> |
 | <sub>2021-09-20 16:28:48</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe)</sub> | <sub>[58e29d5](https://github.com/SimplioOfficial/simplio-mobile/commit/58e29d5217665116d136385bd55eccfbe7e4afbe) add dex put order - PitTxid</sub> |
 | <sub>2021-09-20 16:28:19</sub> | <sub>[[simplio-go:wip/settings\-env] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/5e0d74b41abf...42043c351b1d)</sub> | <sub>[2d3eaeb](https://github.com/SimplioOfficial/simplio-go/commit/2d3eaeb06e51c7e0d27046a3bbd93e4e96a21d3f) removing elastic support. - storkandstars<br>[42043c3](https://github.com/SimplioOfficial/simplio-go/commit/42043c351b1de46774147562a0a492b3539604a2) adding listing bonuses - storkandstars</sub> |
 | <sub>2021-09-20 14:09:38</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f539b58af81829e6fef0e546bfc5d20626af8096)</sub> | <sub>[f539b58](https://github.com/SimplioOfficial/simplio-mobile/commit/f539b58af81829e6fef0e546bfc5d20626af8096) Squashed commit of the following: - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 105 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-20 10:21:18</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d58489a477b54bab70509a4972e4eee4c4f44bf9)</sub> | <sub>[d58489a](https://github.com/SimplioOfficial/simplio-mobile/commit/d58489a477b54bab70509a4972e4eee4c4f44bf9) [DEVELOPMENT-94] Dashboard uses rounded numbers - jvrastil</sub> |
 | <sub>2021-09-20 09:59:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e6dbd2161a2b59fc8ff786f4515aac2c56ff5a91)</sub> | <sub>[e6dbd21](https://github.com/SimplioOfficial/simplio-mobile/commit/e6dbd2161a2b59fc8ff786f4515aac2c56ff5a91) [DEVELOPMENT-101] Add platform icon for tokens - jvrastil</sub> |
 | <sub>2021-09-20 09:56:57</sub> | <sub>[[simplio-go:wip/settings\-env] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/de49a19d88c5...5e0d74b41abf)</sub> | <sub>[7f2dc57](https://github.com/SimplioOfficial/simplio-go/commit/7f2dc5734d3a9b427a94a6b87a4a09e67ccf1f40) database schema update - storkandstars<br>[5e0d74b](https://github.com/SimplioOfficial/simplio-go/commit/5e0d74b41abf533ded3b5163b30075c353f8f0e4) adding program methods - storkandstars</sub> |
-| <sub>2021-09-20 09:41:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6)</sub> | <sub>[1d77486](https://github.com/SimplioOfficial/simplio-mobile/commit/1d77486bc16bdd193f28fb0ebf1c254f353e0db6) fix create custom token - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
