@@ -1960,5 +1960,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ca993183adf4...68881dc29cbb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-21 12:11:47.641000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b32afa8`](https://github.com/ciripel/script_generated_files/commit/b32afa84ec92f5728cb9af7363d6aef3a68327b2) Updated at 21-09-2021 12:11 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/b32afa84ec92f5728cb9af7363d6aef3a68327b2"
+    }
   }
 ]
