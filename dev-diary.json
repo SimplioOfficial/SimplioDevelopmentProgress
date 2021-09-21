@@ -1942,5 +1942,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/67332605844c9e484579fc4cbe7bd19c245a23d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-21 11:09:27.509000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`debb30f`](https://github.com/SimplioOfficial/simplio-mobile/commit/debb30fe14c7e80e389399968e6d41c461a44c93) [DEVELOPMENT-113] Fix chain icon in swap selection - jvrastil\n[`68881dc`](https://github.com/SimplioOfficial/simplio-mobile/commit/68881dc29cbbaec2839f14fb3641f0d8c77f826c) Update package.json - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ca993183adf4...68881dc29cbb"
+    }
   }
 ]
