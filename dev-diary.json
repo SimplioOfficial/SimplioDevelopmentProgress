@@ -2212,5 +2212,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 11:24:06.827000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`02bc89e`](https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e) [DEVELOPMENT-87] Clean swap history after user ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e"
+    }
   }
 ]
