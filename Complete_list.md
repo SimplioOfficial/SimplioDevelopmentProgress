@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-22 14:57:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd)</sub> | <sub>[9dc2a67](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd) [DEVELOPMENT-118] Fix biometrics on Android - jvrastil</sub> |
 | <sub>2021-09-22 11:24:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e)</sub> | <sub>[02bc89e](https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e) [DEVELOPMENT-87] Clean swap history after user ... - jvrastil</sub> |
 | <sub>2021-09-22 09:06:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a)</sub> | <sub>[093c7d9](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a) fix get balance issue for token on BSC - PitTxid</sub> |
 | <sub>2021-09-22 08:16:36</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e)</sub> | <sub>[56c36aa](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e) fixed 7 mins - ciripel</sub> |
