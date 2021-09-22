@@ -2356,5 +2356,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 18:18:54.054000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`05a14a0`](https://github.com/SimplioOfficial/Cicerone/commit/05a14a0b1a1070750053a09202597d513d1c57d0) implemented testing loging for changing channels - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/05a14a0b1a1070750053a09202597d513d1c57d0"
+    }
   }
 ]
