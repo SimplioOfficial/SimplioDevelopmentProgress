@@ -2158,5 +2158,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ca21d95a8cb29517aec865c83ca1d79ec1979d52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 08:16:04.405000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8dff887`](https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef) implemented use of tasks.loop - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 08:16:36.830000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`56c36aa`](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e) fixed 7 mins - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e"
+    }
   }
 ]
