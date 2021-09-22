@@ -2302,5 +2302,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 15:49:08.585000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`2f4d122`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2f4d122b0d53b23380e0e8689e07b9ed5940470a) update home page - PitTxid\n[`ac6c40f`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/ac6c40fc1d770acc28b877594effab389da989e5) add env to server - PitTxid\n[`5ac8854`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/5ac885426aaeb1154b1b430de6e24e8c2eba03cc) add get user info api - PitTxid\n[`2800b54`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2800b548aed4b06cb359f3ab4fb3bd52758f2180) add order ok - PitTxid\n[`b7e2460`](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/b7e24600cbf09c4528176e49a17681962e7db98b) update swap add order endpoint - PitTxid",
+      "title": "[simplio-dex-swap-server:master] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/119ac60c1230...b7e24600cbf0"
+    }
   }
 ]

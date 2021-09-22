@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 128 commits since 10/09/2021. You can see the complete history in
+There is a total of 129 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-22 15:49:08</sub> | <sub>[[simplio-dex-swap-server:master] 5 new commits](https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/119ac60c1230...b7e24600cbf0)</sub> | <sub>[2f4d122](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2f4d122b0d53b23380e0e8689e07b9ed5940470a) update home page - PitTxid<br>[ac6c40f](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/ac6c40fc1d770acc28b877594effab389da989e5) add env to server - PitTxid<br>[5ac8854](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/5ac885426aaeb1154b1b430de6e24e8c2eba03cc) add get user info api - PitTxid<br>[2800b54](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2800b548aed4b06cb359f3ab4fb3bd52758f2180) add order ok - PitTxid<br>[b7e2460](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/b7e24600cbf09c4528176e49a17681962e7db98b) update swap add order endpoint - PitTxid</sub> |
 | <sub>2021-09-22 15:40:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d)</sub> | <sub>[d9195fa](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d) V0.1.0 (#27) - jvrastil</sub> |
 | <sub>2021-09-22 15:39:18</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb17da906d39ca10859c5f4bb226373ccbd7efc)</sub> | <sub>[0bb17da](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb17da906d39ca10859c5f4bb226373ccbd7efc) increase ios version - jvrastil</sub> |
 | <sub>2021-09-22 15:38:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f)</sub> | <sub>[f087042](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f) [DEVELOPMENT-104] Set initial coin order accord... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 128 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-22 08:16:36</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e)</sub> | <sub>[56c36aa](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e) fixed 7 mins - ciripel</sub> |
 | <sub>2021-09-22 08:16:04</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef)</sub> | <sub>[8dff887](https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef) implemented use of tasks.loop - ciripel</sub> |
 | <sub>2021-09-22 07:43:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca21d95a8cb29517aec865c83ca1d79ec1979d52)</sub> | <sub>[ca21d95](https://github.com/SimplioOfficial/simplio-mobile/commit/ca21d95a8cb29517aec865c83ca1d79ec1979d52) fix decimal for exchange page - PitTxid</sub> |
-| <sub>2021-09-22 06:11:23</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/11cfdeac69e6ca28ba8686d9ba310dddd01e7d57)</sub> | <sub>[11cfdea](https://github.com/SimplioOfficial/Cicerone/commit/11cfdeac69e6ca28ba8686d9ba310dddd01e7d57) updated update functions: - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
