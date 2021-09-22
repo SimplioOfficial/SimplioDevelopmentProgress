@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-22 15:40:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d)</sub> | <sub>[d9195fa](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d) V0.1.0 (#27) - jvrastil</sub> |
 | <sub>2021-09-22 15:39:18</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb17da906d39ca10859c5f4bb226373ccbd7efc)</sub> | <sub>[0bb17da](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb17da906d39ca10859c5f4bb226373ccbd7efc) increase ios version - jvrastil</sub> |
 | <sub>2021-09-22 15:38:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f)</sub> | <sub>[f087042](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f) [DEVELOPMENT-104] Set initial coin order accord... - jvrastil</sub> |
 | <sub>2021-09-22 14:57:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd)</sub> | <sub>[9dc2a67](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd) [DEVELOPMENT-118] Fix biometrics on Android - jvrastil</sub> |
