@@ -2338,5 +2338,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 17:30:48.540000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`cb1aab8`](https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779) increased time of channel rename to 15/10 mins - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779"
+    }
   }
 ]
