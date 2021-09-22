@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 132 commits since 10/09/2021. You can see the complete history in
+There is a total of 133 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-22 18:41:39</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/347133b378dcd1ad75b8f9098289f2f9768eb4d8)</sub> | <sub>[347133b](https://github.com/SimplioOfficial/Cicerone/commit/347133b378dcd1ad75b8f9098289f2f9768eb4d8) improved logs - ciripel</sub> |
 | <sub>2021-09-22 18:18:54</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/05a14a0b1a1070750053a09202597d513d1c57d0)</sub> | <sub>[05a14a0](https://github.com/SimplioOfficial/Cicerone/commit/05a14a0b1a1070750053a09202597d513d1c57d0) implemented testing loging for changing channels - ciripel</sub> |
 | <sub>2021-09-22 17:30:48</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779)</sub> | <sub>[cb1aab8](https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779) increased time of channel rename to 15/10 mins - ciripel</sub> |
 | <sub>2021-09-22 16:07:45</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71)</sub> | <sub>[9236318](https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71) push swap order to server successfully - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 132 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-22 15:38:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f)</sub> | <sub>[f087042](https://github.com/SimplioOfficial/simplio-mobile/commit/f0870426098078bca144a527fb145b1077b3b49f) [DEVELOPMENT-104] Set initial coin order accord... - jvrastil</sub> |
 | <sub>2021-09-22 14:57:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd)</sub> | <sub>[9dc2a67](https://github.com/SimplioOfficial/simplio-mobile/commit/9dc2a67516266f04032ec03c296de04529347edd) [DEVELOPMENT-118] Fix biometrics on Android - jvrastil</sub> |
 | <sub>2021-09-22 11:24:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e)</sub> | <sub>[02bc89e](https://github.com/SimplioOfficial/simplio-mobile/commit/02bc89e121aeda5dda203ee1609f6107c792339e) [DEVELOPMENT-87] Clean swap history after user ... - jvrastil</sub> |
-| <sub>2021-09-22 09:06:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a)</sub> | <sub>[093c7d9](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a) fix get balance issue for token on BSC - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
