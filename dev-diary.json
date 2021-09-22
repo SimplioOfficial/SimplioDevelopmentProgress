@@ -2194,5 +2194,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 09:06:07.696000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`093c7d9`](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a) fix get balance issue for token on BSC - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a"
+    }
   }
 ]

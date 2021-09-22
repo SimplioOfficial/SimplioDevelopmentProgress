@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 122 commits since 10/09/2021. You can see the complete history in
+There is a total of 123 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-22 09:06:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a)</sub> | <sub>[093c7d9](https://github.com/SimplioOfficial/simplio-mobile/commit/093c7d90dd9e79dca5bbac798b5b488812ce923a) fix get balance issue for token on BSC - PitTxid</sub> |
 | <sub>2021-09-22 08:16:36</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e)</sub> | <sub>[56c36aa](https://github.com/SimplioOfficial/Cicerone/commit/56c36aa9ea014fc2ca54e2253d1fff5a2d92c27e) fixed 7 mins - ciripel</sub> |
 | <sub>2021-09-22 08:16:04</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef)</sub> | <sub>[8dff887](https://github.com/SimplioOfficial/Cicerone/commit/8dff887c4e3a4a55523a6850c31bb64df6bfddef) implemented use of tasks.loop - ciripel</sub> |
 | <sub>2021-09-22 07:43:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca21d95a8cb29517aec865c83ca1d79ec1979d52)</sub> | <sub>[ca21d95](https://github.com/SimplioOfficial/simplio-mobile/commit/ca21d95a8cb29517aec865c83ca1d79ec1979d52) fix decimal for exchange page - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 122 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-21 15:07:02</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5d9a58feaba7e49a477a483adbf5fdfc5240eaa2)</sub> | <sub>[5d9a58f](https://github.com/SimplioOfficial/simplio-mobile/commit/5d9a58feaba7e49a477a483adbf5fdfc5240eaa2) increase ios version - jvrastil</sub> |
 | <sub>2021-09-21 15:06:23</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f2a39955233de568b6f3ae1f6ccb54590e9585b0)</sub> | <sub>[f2a3995](https://github.com/SimplioOfficial/simplio-mobile/commit/f2a39955233de568b6f3ae1f6ccb54590e9585b0) [DEVELOPMENT-107] Changing password requires pa... - jvrastil</sub> |
 | <sub>2021-09-21 14:20:15</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282)</sub> | <sub>[432a9b7](https://github.com/SimplioOfficial/simplio-mobile/commit/432a9b7b6e3f7d3628b7d89bc0c5e8ebc82fb282) place order solana - PitTxid</sub> |
-| <sub>2021-09-21 14:19:16</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/58e29d521766...d9718f40562c)</sub> | <sub>[807f55e](https://github.com/SimplioOfficial/simplio-mobile/commit/807f55eab5beaed6f3ba3eaa21c0b15937b0853f) fix excluded filter for swap-wallet modal - PitTxid<br>[d9718f4](https://github.com/SimplioOfficial/simplio-mobile/commit/d9718f40562c9c06c518206e4d162b122469e34d) Merge branch 'feature/serum-dex' of https://git... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
