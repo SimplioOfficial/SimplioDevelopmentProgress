@@ -2320,5 +2320,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/119ac60c1230...b7e24600cbf0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-22 16:07:45.942000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9236318`](https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71) push swap order to server successfully - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71"
+    }
   }
 ]
