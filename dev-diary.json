@@ -2788,5 +2788,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/acd40ab37303...aaf7a6efba29"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 11:51:08.255000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f290afa`](https://github.com/SimplioOfficial/simplio-mobile/commit/f290afa9700e9b6ca7735d424d1624c69917299f) Android versioning fix (3) - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f290afa9700e9b6ca7735d424d1624c69917299f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 11:52:08.171000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`acd40ab`](https://github.com/SimplioOfficial/simplio-mobile/commit/acd40ab373038adbade7eafda53f50ca40a86ab3) Android versioning fix (2) - jvrastil\n[`38bb3b6`](https://github.com/SimplioOfficial/simplio-mobile/commit/38bb3b6867be3fce388f9e64d5aa1aa69e6e0463) update new way to get all txs, add missing coin... - PitTxid\n[`aaf7a6e`](https://github.com/SimplioOfficial/simplio-mobile/commit/aaf7a6efba2900565e2bf57b75b72f71d695e542) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`f290afa`](https://github.com/SimplioOfficial/simplio-mobile/commit/f290afa9700e9b6ca7735d424d1624c69917299f) Android versioning fix (3) - jvrastil\n[`5aea122`](https://github.com/SimplioOfficial/simplio-mobile/commit/5aea122a5fe4d6c8b80fd5f61897756e786487cc) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/cdf0dce22837...5aea122a5fe4"
+    }
   }
 ]
