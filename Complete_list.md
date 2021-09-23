@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-23 18:59:46</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b)</sub> | <sub>[2c50ca5](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b) placed all updates under one function - ciripel</sub> |
 | <sub>2021-09-23 18:12:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0)</sub> | <sub>[1907a12](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0) adding currency network to the program - storkandstars</sub> |
 | <sub>2021-09-23 16:36:36</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766)</sub> | <sub>[d683c2b](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766) V0.1.0 (#30) - PitTxid</sub> |
 | <sub>2021-09-23 16:34:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b78e570d80804f7970cbf0d2ddf6f230eff8edd1)</sub> | <sub>[b78e570](https://github.com/SimplioOfficial/simplio-mobile/commit/b78e570d80804f7970cbf0d2ddf6f230eff8edd1) increase build vwesion - PitTxid</sub> |

@@ -3112,5 +3112,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 18:59:46.490000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2c50ca5`](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b) placed all updates under one function - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b"
+    }
   }
 ]
