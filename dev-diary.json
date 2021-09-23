@@ -2482,5 +2482,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/58880177a2261c513695e32712e3b585a2c66b5f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 06:14:19.347000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ceca8ae`](https://github.com/SimplioOfficial/Cicerone/commit/ceca8ae6c4da15ba019cde6833d6d953003639a6) test with different channel? - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/ceca8ae6c4da15ba019cde6833d6d953003639a6"
+    }
   }
 ]
