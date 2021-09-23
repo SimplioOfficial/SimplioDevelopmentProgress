@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-23 18:12:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0)</sub> | <sub>[1907a12](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0) adding currency network to the program - storkandstars</sub> |
 | <sub>2021-09-23 16:36:36</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766)</sub> | <sub>[d683c2b](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766) V0.1.0 (#30) - PitTxid</sub> |
 | <sub>2021-09-23 16:34:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b78e570d80804f7970cbf0d2ddf6f230eff8edd1)</sub> | <sub>[b78e570](https://github.com/SimplioOfficial/simplio-mobile/commit/b78e570d80804f7970cbf0d2ddf6f230eff8edd1) increase build vwesion - PitTxid</sub> |
 | <sub>2021-09-23 16:11:29</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/133c50ef0420c4aba1b5c6c526ae948f581a9f7c)</sub> | <sub>[133c50e](https://github.com/SimplioOfficial/simplio-mobile/commit/133c50ef0420c4aba1b5c6c526ae948f581a9f7c) V0.1.0 (#29) - PitTxid</sub> |
