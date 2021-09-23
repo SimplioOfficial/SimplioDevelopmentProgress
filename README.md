@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 137 commits since 10/09/2021. You can see the complete history in
+There is a total of 138 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-23 05:27:46</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/58880177a2261c513695e32712e3b585a2c66b5f)</sub> | <sub>[5888017](https://github.com/SimplioOfficial/Cicerone/commit/58880177a2261c513695e32712e3b585a2c66b5f) testing with 30 mins cd for price fetch - ciripel</sub> |
 | <sub>2021-09-23 04:25:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d18a38ae45e2...3a200eab64b2)</sub> | <sub>[014af1d](https://github.com/SimplioOfficial/simplio-mobile/commit/014af1d11d223307092b9baa0a49237f427da12b) fix #114, Fiat value not reflected in final sen... - PitTxid<br>[3a200ea](https://github.com/SimplioOfficial/simplio-mobile/commit/3a200eab64b2d653098697e644503632d0fe3165) revert fiat pipe, show estimating fee ctrl - PitTxid</sub> |
 | <sub>2021-09-23 04:04:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d18a38ae45e26bc38b6b9f24aab95b0fd1d5f408)</sub> | <sub>[d18a38a](https://github.com/SimplioOfficial/simplio-mobile/commit/d18a38ae45e26bc38b6b9f24aab95b0fd1d5f408) fix navigation for send/receive page - PitTxid</sub> |
 | <sub>2021-09-23 03:57:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/40960752e094d6bf00d0e8cbdd5c01bf89e0ca13)</sub> | <sub>[4096075](https://github.com/SimplioOfficial/simplio-mobile/commit/40960752e094d6bf00d0e8cbdd5c01bf89e0ca13) fix routing for swap - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 137 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-22 17:30:48</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779)</sub> | <sub>[cb1aab8](https://github.com/SimplioOfficial/Cicerone/commit/cb1aab84b69c312790ad58ef98d97c55cefaa779) increased time of channel rename to 15/10 mins - ciripel</sub> |
 | <sub>2021-09-22 16:07:45</sub> | <sub>[[simplio-mobile:feature/serum\-dex] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71)</sub> | <sub>[9236318](https://github.com/SimplioOfficial/simplio-mobile/commit/9236318bab1a0b05bf65e46b9750097699509c71) push swap order to server successfully - PitTxid</sub> |
 | <sub>2021-09-22 15:49:08</sub> | <sub>[[simplio-dex-swap-server:master] 5 new commits](https://github.com/SimplioOfficial/simplio-dex-swap-server/compare/119ac60c1230...b7e24600cbf0)</sub> | <sub>[2f4d122](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2f4d122b0d53b23380e0e8689e07b9ed5940470a) update home page - PitTxid<br>[ac6c40f](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/ac6c40fc1d770acc28b877594effab389da989e5) add env to server - PitTxid<br>[5ac8854](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/5ac885426aaeb1154b1b430de6e24e8c2eba03cc) add get user info api - PitTxid<br>[2800b54](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/2800b548aed4b06cb359f3ab4fb3bd52758f2180) add order ok - PitTxid<br>[b7e2460](https://github.com/SimplioOfficial/simplio-dex-swap-server/commit/b7e24600cbf09c4528176e49a17681962e7db98b) update swap add order endpoint - PitTxid</sub> |
-| <sub>2021-09-22 15:40:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d)</sub> | <sub>[d9195fa](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d) V0.1.0 (#27) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
