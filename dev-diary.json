@@ -2824,5 +2824,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/cdf0dce22837...5aea122a5fe4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 12:11:53.136000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`512428e`](https://github.com/SimplioOfficial/simplio-mobile/commit/512428ea306fe26ec52294a6771a63a742a3d196) Android versioning fix (4) - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/512428ea306fe26ec52294a6771a63a742a3d196"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 12:12:15.957000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`512428e`](https://github.com/SimplioOfficial/simplio-mobile/commit/512428ea306fe26ec52294a6771a63a742a3d196) Android versioning fix (4) - jvrastil\n[`e38c8e5`](https://github.com/SimplioOfficial/simplio-mobile/commit/e38c8e5067a795074535f04ecce0f536442a3e30) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5aea122a5fe4...e38c8e5067a7"
+    }
   }
 ]
