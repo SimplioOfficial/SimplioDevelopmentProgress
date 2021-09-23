@@ -2392,5 +2392,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/347133b378dcd1ad75b8f9098289f2f9768eb4d8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 03:26:11.179000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9305185`](https://github.com/SimplioOfficial/simplio-mobile/commit/9305185b649e4c8cb652568600eedd71abcab35e) present loading when initiating swap - PitTxid\n[`780e9a1`](https://github.com/SimplioOfficial/simplio-mobile/commit/780e9a1b2061e639e766c0f01a439a7390192516) fix #86, Strange SWAP fee 15000 of undefined - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0bb17da906d3...780e9a1b2061"
+    }
   }
 ]
