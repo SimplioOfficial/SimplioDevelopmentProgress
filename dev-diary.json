@@ -2446,5 +2446,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d18a38ae45e26bc38b6b9f24aab95b0fd1d5f408"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 04:25:06.899000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`014af1d`](https://github.com/SimplioOfficial/simplio-mobile/commit/014af1d11d223307092b9baa0a49237f427da12b) fix #114, Fiat value not reflected in final sen... - PitTxid\n[`3a200ea`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a200eab64b2d653098697e644503632d0fe3165) revert fiat pipe, show estimating fee ctrl - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d18a38ae45e2...3a200eab64b2"
+    }
   }
 ]
