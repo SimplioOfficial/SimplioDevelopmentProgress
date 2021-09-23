@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-23 07:08:23</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2e03052ae591dd311799b409cddd47637eb37e8e)</sub> | <sub>[2e03052](https://github.com/SimplioOfficial/simplio-mobile/commit/2e03052ae591dd311799b409cddd47637eb37e8e) [DEVELOPMENT-103] Use 4 digits pin everywhere - jvrastil</sub> |
 | <sub>2021-09-23 07:04:36</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/414c543d0f743e3455ac65721a87782f378c5ecc)</sub> | <sub>[414c543](https://github.com/SimplioOfficial/simplio-mobile/commit/414c543d0f743e3455ac65721a87782f378c5ecc) show 2 dicimals for fiat - PitTxid</sub> |
 | <sub>2021-09-23 06:14:19</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/ceca8ae6c4da15ba019cde6833d6d953003639a6)</sub> | <sub>[ceca8ae](https://github.com/SimplioOfficial/Cicerone/commit/ceca8ae6c4da15ba019cde6833d6d953003639a6) test with different channel? - ciripel</sub> |
 | <sub>2021-09-23 05:27:46</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/58880177a2261c513695e32712e3b585a2c66b5f)</sub> | <sub>[5888017](https://github.com/SimplioOfficial/Cicerone/commit/58880177a2261c513695e32712e3b585a2c66b5f) testing with 30 mins cd for price fetch - ciripel</sub> |

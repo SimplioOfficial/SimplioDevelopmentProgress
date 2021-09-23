@@ -2518,5 +2518,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/414c543d0f743e3455ac65721a87782f378c5ecc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-23 07:08:23.017000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2e03052`](https://github.com/SimplioOfficial/simplio-mobile/commit/2e03052ae591dd311799b409cddd47637eb37e8e) [DEVELOPMENT-103] Use 4 digits pin everywhere - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2e03052ae591dd311799b409cddd47637eb37e8e"
+    }
   }
 ]
