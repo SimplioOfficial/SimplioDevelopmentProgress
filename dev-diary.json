@@ -3310,5 +3310,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9fdb620aa8bdf2fd857293c2aa0b46b0ebe0bbb9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 08:40:25.404000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a5bc3ea`](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b) [DEVELOPMENT-123] Fix next button text color in... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b"
+    }
   }
 ]

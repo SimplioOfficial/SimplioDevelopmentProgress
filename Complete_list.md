@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-24 08:40:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b)</sub> | <sub>[a5bc3ea](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b) [DEVELOPMENT-123] Fix next button text color in... - jvrastil</sub> |
 | <sub>2021-09-24 07:55:56</sub> | <sub>[[simplio-mobile:user\_data] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fdb620aa8bdf2fd857293c2aa0b46b0ebe0bbb9)</sub> | <sub>[9fdb620](https://github.com/SimplioOfficial/simplio-mobile/commit/9fdb620aa8bdf2fd857293c2aa0b46b0ebe0bbb9) wip - jvrastil</sub> |
 | <sub>2021-09-24 07:40:17</sub> | <sub>[[simplio-mobile:user\_data] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/706a438f2f3e7083e51256272969710750b7189f)</sub> | <sub>[706a438](https://github.com/SimplioOfficial/simplio-mobile/commit/706a438f2f3e7083e51256272969710750b7189f) wip - jvrastil</sub> |
 | <sub>2021-09-24 07:18:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21)</sub> | <sub>[770ae3a](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21) enable backup word ì it's failed - PitTxid</sub> |
