@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 187 commits since 10/09/2021. You can see the complete history in
+There is a total of 188 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-24 12:43:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a89f708067904745e4a383a97b0ef134841f627e)</sub> | <sub>[a89f708](https://github.com/SimplioOfficial/simplio-mobile/commit/a89f708067904745e4a383a97b0ef134841f627e) [DEVELOPMENT-91] Backward compatibility for tes... - jvrastil</sub> |
 | <sub>2021-09-24 12:21:18</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/02402f7e9ec19238f13ac9bacfc4099d395d33a6)</sub> | <sub>[02402f7](https://github.com/SimplioOfficial/simplio-mobile/commit/02402f7e9ec19238f13ac9bacfc4099d395d33a6) [DEVELOPMENT-91] Implement Terms and Conditions... - jvrastil</sub> |
 | <sub>2021-09-24 09:26:59</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4193498450e6555f8bf60a1c15d809b109a4bcab)</sub> | <sub>[4193498](https://github.com/SimplioOfficial/simplio-mobile/commit/4193498450e6555f8bf60a1c15d809b109a4bcab) test jayson - PitTxid</sub> |
 | <sub>2021-09-24 08:40:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b)</sub> | <sub>[a5bc3ea](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bc3eaa0a102889777672abdf102c0429a7a62b) [DEVELOPMENT-123] Fix next button text color in... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 187 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-24 04:22:58</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1)</sub> | <sub>[51d012a](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1) use rpc request for token decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:46</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36)</sub> | <sub>[1caf736](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36) update get decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187)</sub> | <sub>[2b7d53e](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187) [DEVELOPMENT-109] Check seed on backup - PitTxid</sub> |
-| <sub>2021-09-24 02:19:35</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/127a8232f7ba9ffb1ce8d4416330fa68db834868)</sub> | <sub>[127a823](https://github.com/SimplioOfficial/simplio-mobile/commit/127a8232f7ba9ffb1ce8d4416330fa68db834868) V0.1.0 (#31) - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
