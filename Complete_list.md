@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-24 07:18:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21)</sub> | <sub>[770ae3a](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21) enable backup word ì it's failed - PitTxid</sub> |
 | <sub>2021-09-24 04:22:58</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1)</sub> | <sub>[51d012a](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1) use rpc request for token decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:46</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36)</sub> | <sub>[1caf736](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36) update get decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187)</sub> | <sub>[2b7d53e](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187) [DEVELOPMENT-109] Check seed on backup - PitTxid</sub> |

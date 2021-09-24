@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 181 commits since 10/09/2021. You can see the complete history in
+There is a total of 182 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-24 07:18:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21)</sub> | <sub>[770ae3a](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21) enable backup word ì it's failed - PitTxid</sub> |
 | <sub>2021-09-24 04:22:58</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1)</sub> | <sub>[51d012a](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1) use rpc request for token decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:46</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36)</sub> | <sub>[1caf736](https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36) update get decimal - PitTxid</sub> |
 | <sub>2021-09-24 04:06:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187)</sub> | <sub>[2b7d53e](https://github.com/SimplioOfficial/simplio-mobile/commit/2b7d53e8681f3300b168945a283e0e6f3cb15187) [DEVELOPMENT-109] Check seed on backup - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 181 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-24 02:07:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff)</sub> | <sub>[2508c4c](https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff) fix create connection sol - PitTxid</sub> |
 | <sub>2021-09-23 18:59:46</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b)</sub> | <sub>[2c50ca5](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b) placed all updates under one function - ciripel</sub> |
 | <sub>2021-09-23 18:12:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0)</sub> | <sub>[1907a12](https://github.com/SimplioOfficial/simplio-go/commit/1907a123d6e187ca008e153d7a70c402dda4e1a0) adding currency network to the program - storkandstars</sub> |
-| <sub>2021-09-23 16:36:36</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766)</sub> | <sub>[d683c2b](https://github.com/SimplioOfficial/simplio-mobile/commit/d683c2b04971eab57bc07220c65e5244563ca766) V0.1.0 (#30) - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
