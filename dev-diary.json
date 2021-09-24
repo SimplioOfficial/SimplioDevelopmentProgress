@@ -3238,5 +3238,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1caf7363a105049a981552ed684006beecc65d36"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 04:22:58.176000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`51d012a`](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1) use rpc request for token decimal - PitTxid",
+      "title": "[simplio-mobile:testsol] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1"
+    }
   }
 ]
