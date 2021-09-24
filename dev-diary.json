@@ -3166,5 +3166,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ca2487e8f8ca0f9c3f32603999edce554a4570a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 02:19:10.724000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6b9dde0`](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4) V0.1.0 (#25) - PitTxid\n[`617644d`](https://github.com/SimplioOfficial/simplio-mobile/commit/617644d388d248bd647090883d9a291fa6c3d255) Merge branch 'v0.1.0' into testing - jvrastil\n[`31b1b95`](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6) Add New coin after Cripel's changes (#26) - jvrastil\n[`9b47e59`](https://github.com/SimplioOfficial/simplio-mobile/commit/9b47e592356251f919b5278d310d7c7ee7587d33) Merge branch 'v0.1.0' into testing - jvrastil\n[`d9195fa`](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d) V0.1.0 (#27) - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 17 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ca2487e8f8ca...5d3d77565ac5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 02:19:35.048000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`127a823`](https://github.com/SimplioOfficial/simplio-mobile/commit/127a8232f7ba9ffb1ce8d4416330fa68db834868) V0.1.0 (#31) - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/127a8232f7ba9ffb1ce8d4416330fa68db834868"
+    }
   }
 ]
