@@ -3130,5 +3130,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 02:07:40.737000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`2508c4c`](https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff) fix create connection sol - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-24 02:09:00.202000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ca2487e`](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2487e8f8ca0f9c3f32603999edce554a4570a3) increase build version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ca2487e8f8ca0f9c3f32603999edce554a4570a3"
+    }
   }
 ]
