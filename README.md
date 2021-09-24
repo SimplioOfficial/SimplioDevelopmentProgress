@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 183 commits since 10/09/2021. You can see the complete history in
+There is a total of 184 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-24 07:55:56</sub> | <sub>[[simplio-mobile:user\_data] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fdb620aa8bdf2fd857293c2aa0b46b0ebe0bbb9)</sub> | <sub>[9fdb620](https://github.com/SimplioOfficial/simplio-mobile/commit/9fdb620aa8bdf2fd857293c2aa0b46b0ebe0bbb9) wip - jvrastil</sub> |
 | <sub>2021-09-24 07:40:17</sub> | <sub>[[simplio-mobile:user\_data] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/706a438f2f3e7083e51256272969710750b7189f)</sub> | <sub>[706a438](https://github.com/SimplioOfficial/simplio-mobile/commit/706a438f2f3e7083e51256272969710750b7189f) wip - jvrastil</sub> |
 | <sub>2021-09-24 07:18:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21)</sub> | <sub>[770ae3a](https://github.com/SimplioOfficial/simplio-mobile/commit/770ae3ae9f92e57556091ddcda22dea7e9d2ea21) enable backup word ì it's failed - PitTxid</sub> |
 | <sub>2021-09-24 04:22:58</sub> | <sub>[[simplio-mobile:testsol] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1)</sub> | <sub>[51d012a](https://github.com/SimplioOfficial/simplio-mobile/commit/51d012ab56dab49139072db84a5b1f0fd29396a1) use rpc request for token decimal - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 183 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-24 02:19:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 17 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ca2487e8f8ca...5d3d77565ac5)</sub> | <sub>[6b9dde0](https://github.com/SimplioOfficial/simplio-mobile/commit/6b9dde0a49b9d1451b1e4aff3165303e366dc4e4) V0.1.0 (#25) - PitTxid<br>[617644d](https://github.com/SimplioOfficial/simplio-mobile/commit/617644d388d248bd647090883d9a291fa6c3d255) Merge branch 'v0.1.0' into testing - jvrastil<br>[31b1b95](https://github.com/SimplioOfficial/simplio-mobile/commit/31b1b95d2f9941a8190f9bc1d8fe3b340f0651d6) Add New coin after Cripel's changes (#26) - jvrastil<br>[9b47e59](https://github.com/SimplioOfficial/simplio-mobile/commit/9b47e592356251f919b5278d310d7c7ee7587d33) Merge branch 'v0.1.0' into testing - jvrastil<br>[d9195fa](https://github.com/SimplioOfficial/simplio-mobile/commit/d9195fa919fcaadcd7ff9286106ce736f3ee2a6d) V0.1.0 (#27) - jvrastil</sub> |
 | <sub>2021-09-24 02:09:00</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2487e8f8ca0f9c3f32603999edce554a4570a3)</sub> | <sub>[ca2487e](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2487e8f8ca0f9c3f32603999edce554a4570a3) increase build version - PitTxid</sub> |
 | <sub>2021-09-24 02:07:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff)</sub> | <sub>[2508c4c](https://github.com/SimplioOfficial/simplio-mobile/commit/2508c4ca798265b699ebfd5a86ceddda7b9093ff) fix create connection sol - PitTxid</sub> |
-| <sub>2021-09-23 18:59:46</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b)</sub> | <sub>[2c50ca5](https://github.com/SimplioOfficial/Cicerone/commit/2c50ca5db5fbb54f6fb50e42507d950e3e9b559b) placed all updates under one function - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
