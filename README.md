@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 210 commits since 10/09/2021. You can see the complete history in
+There is a total of 211 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-25 11:33:43</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7282223b5e45d2e107367a21dbe57c0d8f0864c9)</sub> | <sub>[7282223](https://github.com/SimplioOfficial/simplio-mobile/commit/7282223b5e45d2e107367a21dbe57c0d8f0864c9) V0.1.0 (#37) - PitTxid</sub> |
 | <sub>2021-09-25 10:40:29</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2eb17ce8f409a760199b2f88c55d73f833133e54)</sub> | <sub>[2eb17ce](https://github.com/SimplioOfficial/simplio-mobile/commit/2eb17ce8f409a760199b2f88c55d73f833133e54) V0.1.0 (#36) - PitTxid</sub> |
 | <sub>2021-09-25 10:39:59</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5226e2a1f2b1...cf0dda8daefb)</sub> | <sub>[80c88b0](https://github.com/SimplioOfficial/simplio-mobile/commit/80c88b0895087d4a038ad28d97975ded5b95e7d6) V0.1.0 (#33) - PitTxid<br>[616c5cf](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1) Squashed commit of the following: - PitTxid<br>[cf0dda8](https://github.com/SimplioOfficial/simplio-mobile/commit/cf0dda8daefbec3a799b65f885182e001d18f2f1) Merge branch 'testing' into v0.1.0 - PitTxid</sub> |
 | <sub>2021-09-25 10:36:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5226e2a1f2b189a48c6a8736a48b16f085b949d0)</sub> | <sub>[5226e2a](https://github.com/SimplioOfficial/simplio-mobile/commit/5226e2a1f2b189a48c6a8736a48b16f085b949d0) increase build version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 210 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-25 08:07:50</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1)</sub> | <sub>[616c5cf](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-09-25 08:03:02</sub> | <sub>[[simplio-mobile:v0\.1\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ebc35551a395...fc0035364928)</sub> | <sub>[db0c095](https://github.com/SimplioOfficial/simplio-mobile/commit/db0c095ffefb739d64f26b4f78a91b60ef5698f7) remove appconfig from the source - PitTxid<br>[b2fffb7](https://github.com/SimplioOfficial/simplio-mobile/commit/b2fffb7c2a5cf380e93c1ba2ff33b81ca4db5aac) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[b9f833e](https://github.com/SimplioOfficial/simplio-mobile/commit/b9f833edf10126f7e5bd8abdbc8f0d63e8c1eb17) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[fc00353](https://github.com/SimplioOfficial/simplio-mobile/commit/fc0035364928d43e9047553ab9eb285ed73bcda9) increase version - PitTxid</sub> |
 | <sub>2021-09-25 08:00:41</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc35551a3954e5db70ee678c0bdcca33fdaf3bd)</sub> | <sub>[ebc3555](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc35551a3954e5db70ee678c0bdcca33fdaf3bd) Bugs/swap issue (#34) - PitTxid</sub> |
-| <sub>2021-09-25 08:00:02</sub> | <sub>[[simplio-mobile:bugs/swap\-issue] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4b279449569d482a90173636384937d7ea6cdf63)</sub> | <sub>[4b27944](https://github.com/SimplioOfficial/simplio-mobile/commit/4b279449569d482a90173636384937d7ea6cdf63) fix http request native cordova - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
