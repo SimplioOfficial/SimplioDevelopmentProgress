@@ -3724,5 +3724,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ea8ae7140ebece61e2164624d38e7c01ef30d94a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-25 10:36:19.597000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5226e2a`](https://github.com/SimplioOfficial/simplio-mobile/commit/5226e2a1f2b189a48c6a8736a48b16f085b949d0) increase build version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5226e2a1f2b189a48c6a8736a48b16f085b949d0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-25 10:39:59.837000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`80c88b0`](https://github.com/SimplioOfficial/simplio-mobile/commit/80c88b0895087d4a038ad28d97975ded5b95e7d6) V0.1.0 (#33) - PitTxid\n[`616c5cf`](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1) Squashed commit of the following: - PitTxid\n[`cf0dda8`](https://github.com/SimplioOfficial/simplio-mobile/commit/cf0dda8daefbec3a799b65f885182e001d18f2f1) Merge branch 'testing' into v0.1.0 - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5226e2a1f2b1...cf0dda8daefb"
+    }
   }
 ]
