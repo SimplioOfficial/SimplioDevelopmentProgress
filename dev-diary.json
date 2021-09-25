@@ -3508,5 +3508,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fefcf93255de33fb88b52dbe7b354e5184fa886f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-25 02:56:43.242000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`97be2f0`](https://github.com/SimplioOfficial/simplio-mobile/commit/97be2f0478841f1d2bf844b5a0b0b5be74cdf41c) fix app resume behavior - PitTxid\n[`124644f`](https://github.com/SimplioOfficial/simplio-mobile/commit/124644f3cdeeeba5d668b6acc1c0a18eb54cc233) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7e7c0826adcc...124644f3cdee"
+    }
   }
 ]
