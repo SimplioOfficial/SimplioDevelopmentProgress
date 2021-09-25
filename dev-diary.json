@@ -3580,5 +3580,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c6f71a9076e2...d904deac3b24"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-25 06:49:12.853000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`db0c095`](https://github.com/SimplioOfficial/simplio-mobile/commit/db0c095ffefb739d64f26b4f78a91b60ef5698f7) remove appconfig from the source - PitTxid\n[`396d060`](https://github.com/SimplioOfficial/simplio-mobile/commit/396d060bf846709a69b15cc45735ee117677ced5) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:bugs/swap\\-issue] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/db0c095ffefb^...396d060bf846"
+    }
   }
 ]
