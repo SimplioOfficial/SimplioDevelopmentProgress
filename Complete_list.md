@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-25 10:33:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ea8ae7140ebece61e2164624d38e7c01ef30d94a)</sub> | <sub>[ea8ae71](https://github.com/SimplioOfficial/simplio-mobile/commit/ea8ae7140ebece61e2164624d38e7c01ef30d94a) [DEVELOPMENT-109] validate word on restore - PitTxid</sub> |
 | <sub>2021-09-25 09:29:08</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2a63a38c81fa61c93152503002729595acc01936)</sub> | <sub>[2a63a38](https://github.com/SimplioOfficial/simplio-mobile/commit/2a63a38c81fa61c93152503002729595acc01936) [DEVELOPMENT-120]-Update pin modal behavior - PitTxid</sub> |
 | <sub>2021-09-25 08:59:24</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8c3ba8e4d401f4e22d6edf1ee831378961a97aea)</sub> | <sub>[8c3ba8e](https://github.com/SimplioOfficial/simplio-mobile/commit/8c3ba8e4d401f4e22d6edf1ee831378961a97aea) [FEATURE] Update http service - PitTxid</sub> |
 | <sub>2021-09-25 08:07:50</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1)</sub> | <sub>[616c5cf](https://github.com/SimplioOfficial/simplio-mobile/commit/616c5cfa98c9f989b057b7e9bed28f584e5260a1) Squashed commit of the following: - PitTxid</sub> |
