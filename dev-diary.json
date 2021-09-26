@@ -3868,5 +3868,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ea4872f17d2bc1d2b8c504cf12fbd91bee7e4e5b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 03:19:01.017000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`086882d`](https://github.com/SimplioOfficial/simplio-mobile/commit/086882d831dc1025c2e87fe0813a16fa832ff832) change from coin to ticker - PitTxid\n[`80d7eb1`](https://github.com/SimplioOfficial/simplio-mobile/commit/80d7eb170c4431e0ad88ade012c96b5d907d6f98) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5c70fa73a5fa...80d7eb170c44"
+    }
   }
 ]
