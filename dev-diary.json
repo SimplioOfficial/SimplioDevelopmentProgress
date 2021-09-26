@@ -3940,5 +3940,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac0b2faaf7f478e0f5add3127a8d47dd8aa25887"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 05:43:04.819000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ac0b2fa`](https://github.com/SimplioOfficial/simplio-mobile/commit/ac0b2faaf7f478e0f5add3127a8d47dd8aa25887) V0.1.0 (#40) - PitTxid\n[`db2ce97`](https://github.com/SimplioOfficial/simplio-mobile/commit/db2ce9781ba82fea94d35a652ef856211612d95f) fix no transaction text in overview page - PitTxid\n[`27928ad`](https://github.com/SimplioOfficial/simplio-mobile/commit/27928ad2acc91cf1a6ebe8d08daf58f56e5bf2f2) hide address list - PitTxid\n[`0053f64`](https://github.com/SimplioOfficial/simplio-mobile/commit/0053f641ca288575385817e767b9429ea7b8a5fc) update faceid text - PitTxid\n[`e510057`](https://github.com/SimplioOfficial/simplio-mobile/commit/e5100572f2155b095e414ec00e3a635078286d09) increase build version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/61ef34fe2731...1d181d447377"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 05:43:40.336000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ec8d47b`](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46) V0.1.0 (#41) - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46"
+    }
   }
 ]
