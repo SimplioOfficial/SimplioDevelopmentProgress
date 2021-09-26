@@ -4210,5 +4210,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/355dbc05cbb5f71c233d94db6594110e9f918482"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 14:05:40.515000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d1bd834`](https://github.com/SimplioOfficial/simplio-mobile/commit/d1bd83497a14d2fcd26c7e4af1ad59332f225925) 12 word to 24 word - PitTxid\n[`bfd5f4c`](https://github.com/SimplioOfficial/simplio-mobile/commit/bfd5f4cb7f5fb1c6c2927c6237fb8553951ed394) fix loading screen display after logging out an... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9e9ff4978aa1...bfd5f4cb7f5f"
+    }
   }
 ]
