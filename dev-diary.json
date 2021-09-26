@@ -3886,5 +3886,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5c70fa73a5fa...80d7eb170c44"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 03:55:40.485000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`827203f`](https://github.com/SimplioOfficial/simplio-mobile/commit/827203f6ce0af7d902ce8931c4d33b513fc29268) increase build version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/827203f6ce0af7d902ce8931c4d33b513fc29268"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 03:57:21.049000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ea4872f`](https://github.com/SimplioOfficial/simplio-mobile/commit/ea4872f17d2bc1d2b8c504cf12fbd91bee7e4e5b) V0.1.0 (#39) - PitTxid\n[`61ef34f`](https://github.com/SimplioOfficial/simplio-mobile/commit/61ef34fe27314955c69bdb450250e7e6875f6062) Merge branch 'testing' into v0.1.0 - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/827203f6ce0a...61ef34fe2731"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 03:57:42.922000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ac0b2fa`](https://github.com/SimplioOfficial/simplio-mobile/commit/ac0b2faaf7f478e0f5add3127a8d47dd8aa25887) V0.1.0 (#40) - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac0b2faaf7f478e0f5add3127a8d47dd8aa25887"
+    }
   }
 ]
