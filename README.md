@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 223 commits since 10/09/2021. You can see the complete history in
+There is a total of 224 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-26 06:45:18</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/014bd5d6e944f80115db54e4df3fe2294ff0ae36)</sub> | <sub>[014bd5d](https://github.com/SimplioOfficial/simplio-mobile/commit/014bd5d6e944f80115db54e4df3fe2294ff0ae36) V0.1.0 (#42) - PitTxid</sub> |
 | <sub>2021-09-26 06:44:30</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ba980a59492c...5b3a09a73b8a)</sub> | <sub>[ec8d47b](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46) V0.1.0 (#41) - PitTxid<br>[1f9dd57](https://github.com/SimplioOfficial/simplio-mobile/commit/1f9dd57fe8001c5796292861d5d9074049592533) Merge branch 'testing' into v0.1.0 - PitTxid<br>[5b3a09a](https://github.com/SimplioOfficial/simplio-mobile/commit/5b3a09a73b8a8b2b175ecaf1c98985b5e582f4c1) increase build version - PitTxid</sub> |
 | <sub>2021-09-26 06:41:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ba980a59492ce8124a43f416b06528a71b52970f)</sub> | <sub>[ba980a5](https://github.com/SimplioOfficial/simplio-mobile/commit/ba980a59492ce8124a43f416b06528a71b52970f) fix app name and overview no tx msg - PitTxid</sub> |
 | <sub>2021-09-26 05:43:40</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46)</sub> | <sub>[ec8d47b](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46) V0.1.0 (#41) - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 223 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-26 03:55:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/827203f6ce0af7d902ce8931c4d33b513fc29268)</sub> | <sub>[827203f](https://github.com/SimplioOfficial/simplio-mobile/commit/827203f6ce0af7d902ce8931c4d33b513fc29268) increase build version - PitTxid</sub> |
 | <sub>2021-09-26 03:19:01</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5c70fa73a5fa...80d7eb170c44)</sub> | <sub>[086882d](https://github.com/SimplioOfficial/simplio-mobile/commit/086882d831dc1025c2e87fe0813a16fa832ff832) change from coin to ticker - PitTxid<br>[80d7eb1](https://github.com/SimplioOfficial/simplio-mobile/commit/80d7eb170c4431e0ad88ade012c96b5d907d6f98) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-09-25 14:38:45</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ea4872f17d2bc1d2b8c504cf12fbd91bee7e4e5b)</sub> | <sub>[ea4872f](https://github.com/SimplioOfficial/simplio-mobile/commit/ea4872f17d2bc1d2b8c504cf12fbd91bee7e4e5b) V0.1.0 (#39) - PitTxid</sub> |
-| <sub>2021-09-25 14:38:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/00d83afce411...5c70fa73a5fa)</sub> | <sub>[2eb17ce](https://github.com/SimplioOfficial/simplio-mobile/commit/2eb17ce8f409a760199b2f88c55d73f833133e54) V0.1.0 (#36) - PitTxid<br>[7282223](https://github.com/SimplioOfficial/simplio-mobile/commit/7282223b5e45d2e107367a21dbe57c0d8f0864c9) V0.1.0 (#37) - PitTxid<br>[2b85d3e](https://github.com/SimplioOfficial/simplio-mobile/commit/2b85d3ee1017d318f8c8a1a7486cd98b4bfb4914) V0.1.0 (#38) - PitTxid<br>[5c70fa7](https://github.com/SimplioOfficial/simplio-mobile/commit/5c70fa73a5fa1cbb154bfdb542e2ebeda130f115) Merge branch 'testing' into v0.1.0 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
