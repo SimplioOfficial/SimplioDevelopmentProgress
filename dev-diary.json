@@ -3976,5 +3976,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 06:41:38.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ba980a5`](https://github.com/SimplioOfficial/simplio-mobile/commit/ba980a59492ce8124a43f416b06528a71b52970f) fix app name and overview no tx msg - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ba980a59492ce8124a43f416b06528a71b52970f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-26 06:44:30.590000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ec8d47b`](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d47b3e3e9b901827c9196879b53851c51fc46) V0.1.0 (#41) - PitTxid\n[`1f9dd57`](https://github.com/SimplioOfficial/simplio-mobile/commit/1f9dd57fe8001c5796292861d5d9074049592533) Merge branch 'testing' into v0.1.0 - PitTxid\n[`5b3a09a`](https://github.com/SimplioOfficial/simplio-mobile/commit/5b3a09a73b8a8b2b175ecaf1c98985b5e582f4c1) increase build version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ba980a59492c...5b3a09a73b8a"
+    }
   }
 ]
