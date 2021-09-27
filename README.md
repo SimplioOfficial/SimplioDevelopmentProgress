@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 241 commits since 10/09/2021. You can see the complete history in
+There is a total of 242 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-27 12:31:12</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dbab3b2482304f9f36a8daa75880792a3dedbcd1)</sub> | <sub>[dbab3b2](https://github.com/SimplioOfficial/simplio-mobile/commit/dbab3b2482304f9f36a8daa75880792a3dedbcd1) Fix agreement buttons display in ios - jvrastil</sub> |
 | <sub>2021-09-27 10:15:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4220b01847270bb96e37963c4dcb242851144a92)</sub> | <sub>[4220b01](https://github.com/SimplioOfficial/simplio-mobile/commit/4220b01847270bb96e37963c4dcb242851144a92) [DEVELOPMENT-105] Fix disabling & deleting beha... - jvrastil</sub> |
 | <sub>2021-09-27 09:53:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8df9faf007d325aa1c5ac6ebee1820627ce2c013)</sub> | <sub>[8df9faf](https://github.com/SimplioOfficial/simplio-mobile/commit/8df9faf007d325aa1c5ac6ebee1820627ce2c013) Remove unused grid element in register-agreemen... - jvrastil</sub> |
 | <sub>2021-09-27 09:10:23</sub> | <sub>[[simplio-mobile:bonus] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8342155a8398^...073de00d42fb)</sub> | <sub>[8342155](https://github.com/SimplioOfficial/simplio-mobile/commit/8342155a839876ad3669659c076143be1918a79e) Bonus - wip - jvrastil<br>[073de00](https://github.com/SimplioOfficial/simplio-mobile/commit/073de00d42fb89d04bf3b25c2ba45f492972e40a) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 241 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-26 14:05:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/9e9ff4978aa1...bfd5f4cb7f5f)</sub> | <sub>[d1bd834](https://github.com/SimplioOfficial/simplio-mobile/commit/d1bd83497a14d2fcd26c7e4af1ad59332f225925) 12 word to 24 word - PitTxid<br>[bfd5f4c](https://github.com/SimplioOfficial/simplio-mobile/commit/bfd5f4cb7f5fb1c6c2927c6237fb8553951ed394) fix loading screen display after logging out an... - PitTxid</sub> |
 | <sub>2021-09-26 13:52:18</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/355dbc05cbb5f71c233d94db6594110e9f918482)</sub> | <sub>[355dbc0](https://github.com/SimplioOfficial/simplio-mobile/commit/355dbc05cbb5f71c233d94db6594110e9f918482) V0.1.0 (#46) - PitTxid</sub> |
 | <sub>2021-09-26 13:51:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/de81b44c86cc...9e9ff4978aa1)</sub> | <sub>[cd3e67b](https://github.com/SimplioOfficial/simplio-mobile/commit/cd3e67b7fa59783c7c22f3abf34f3461ef92a5ad) V0.1.0 (#45) - PitTxid<br>[85ee3f3](https://github.com/SimplioOfficial/simplio-mobile/commit/85ee3f31315ea250398e4c2c5e9cc70d0cbbbef1) fix swap loading when going receive page - PitTxid<br>[c89f1b3](https://github.com/SimplioOfficial/simplio-mobile/commit/c89f1b364a7dff2a148521d9268278cdfbd4935b) increase build version - PitTxid<br>[9e9ff49](https://github.com/SimplioOfficial/simplio-mobile/commit/9e9ff4978aa1b771a9903bdaab9a37b3ea361715) Merge branch 'testing' into v0.1.0 - PitTxid</sub> |
-| <sub>2021-09-26 12:16:01</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cd3e67b7fa59783c7c22f3abf34f3461ef92a5ad)</sub> | <sub>[cd3e67b](https://github.com/SimplioOfficial/simplio-mobile/commit/cd3e67b7fa59783c7c22f3abf34f3461ef92a5ad) V0.1.0 (#45) - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
