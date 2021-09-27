@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 247 commits since 10/09/2021. You can see the complete history in
+There is a total of 248 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-27 16:20:45</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5e46dc8efb9c640ff06383fa5e26383bc2bf61a0)</sub> | <sub>[5e46dc8](https://github.com/SimplioOfficial/simplio-mobile/commit/5e46dc8efb9c640ff06383fa5e26383bc2bf61a0) V0.1.0 (#47) - PitTxid</sub> |
 | <sub>2021-09-27 16:19:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a7777bf9b558...925780cdc635)</sub> | <sub>[355dbc0](https://github.com/SimplioOfficial/simplio-mobile/commit/355dbc05cbb5f71c233d94db6594110e9f918482) V0.1.0 (#46) - PitTxid<br>[332e68e](https://github.com/SimplioOfficial/simplio-mobile/commit/332e68e525ce931391d7350c19646f9d8a3c4e25) increase build version - PitTxid<br>[925780c](https://github.com/SimplioOfficial/simplio-mobile/commit/925780cdc63598ecf7a7d308bfffbf4a9a4fb2d2) merge testing to v0.1.0 - PitTxid</sub> |
 | <sub>2021-09-27 16:00:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a7777bf9b5580720b18bc281aebf91af4090a0f6)</sub> | <sub>[a7777bf](https://github.com/SimplioOfficial/simplio-mobile/commit/a7777bf9b5580720b18bc281aebf91af4090a0f6) add decimal to web3 contract - PitTxid</sub> |
 | <sub>2021-09-27 15:41:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e0777fdee5423219c3fb6e71816a1a914219ff7)</sub> | <sub>[7e0777f](https://github.com/SimplioOfficial/simplio-mobile/commit/7e0777fdee5423219c3fb6e71816a1a914219ff7) fix create token data, get abi return default v... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 247 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-27 10:15:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4220b01847270bb96e37963c4dcb242851144a92)</sub> | <sub>[4220b01](https://github.com/SimplioOfficial/simplio-mobile/commit/4220b01847270bb96e37963c4dcb242851144a92) [DEVELOPMENT-105] Fix disabling & deleting beha... - jvrastil</sub> |
 | <sub>2021-09-27 09:53:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8df9faf007d325aa1c5ac6ebee1820627ce2c013)</sub> | <sub>[8df9faf](https://github.com/SimplioOfficial/simplio-mobile/commit/8df9faf007d325aa1c5ac6ebee1820627ce2c013) Remove unused grid element in register-agreemen... - jvrastil</sub> |
 | <sub>2021-09-27 09:10:23</sub> | <sub>[[simplio-mobile:bonus] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8342155a8398^...073de00d42fb)</sub> | <sub>[8342155](https://github.com/SimplioOfficial/simplio-mobile/commit/8342155a839876ad3669659c076143be1918a79e) Bonus - wip - jvrastil<br>[073de00](https://github.com/SimplioOfficial/simplio-mobile/commit/073de00d42fb89d04bf3b25c2ba45f492972e40a) wip - jvrastil</sub> |
-| <sub>2021-09-27 09:05:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/96b2a504836d6927c5dfbded8756b7c504a7b6bd)</sub> | <sub>[96b2a50](https://github.com/SimplioOfficial/simplio-mobile/commit/96b2a504836d6927c5dfbded8756b7c504a7b6bd) [DEVELOPMENT-93] If there's no pair for the wal... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
