@@ -4426,5 +4426,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a7777bf9b5580720b18bc281aebf91af4090a0f6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-27 16:19:55.558000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`355dbc0`](https://github.com/SimplioOfficial/simplio-mobile/commit/355dbc05cbb5f71c233d94db6594110e9f918482) V0.1.0 (#46) - PitTxid\n[`332e68e`](https://github.com/SimplioOfficial/simplio-mobile/commit/332e68e525ce931391d7350c19646f9d8a3c4e25) increase build version - PitTxid\n[`925780c`](https://github.com/SimplioOfficial/simplio-mobile/commit/925780cdc63598ecf7a7d308bfffbf4a9a4fb2d2) merge testing to v0.1.0 - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a7777bf9b558...925780cdc635"
+    }
   }
 ]
