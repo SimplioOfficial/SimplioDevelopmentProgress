@@ -4354,5 +4354,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/dbab3b2482304f9f36a8daa75880792a3dedbcd1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-27 12:57:46.765000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`01288bf`](https://github.com/SimplioOfficial/simplio-mobile/commit/01288bfa24d940a60aced8cff86866be9b2fbc12) [DEVELOPMENT-127] Temporary fix for incorrect p... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/01288bfa24d940a60aced8cff86866be9b2fbc12"
+    }
   }
 ]
