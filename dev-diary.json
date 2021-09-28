@@ -4642,5 +4642,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/223264b94de305969ba92f7060f0c3871ba37251"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-28 08:16:05.332000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`acccab4`](https://github.com/SimplioOfficial/simplio-mobile/commit/acccab4ccf1f9fb27549f1c6adf300fd5d33d240) Reduce size of qr codes - jvrastil\n[`d301cbd`](https://github.com/SimplioOfficial/simplio-mobile/commit/d301cbd796ec999f5651a3a5dcdb577c714cbc75) [DEVELOPMENT-135] Fixing copy address in transa... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/223264b94de3...d301cbd796ec"
+    }
   }
 ]
