@@ -4570,5 +4570,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0623626f4598...355e4f906735"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-28 02:31:58.758000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8387d7a`](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277) [DEVELOPMENT-134] No block explorer for BTC ! - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-28 02:34:19.199000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`89fb29a`](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a) add SOLANA token to valid type - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a"
+    }
   }
 ]
