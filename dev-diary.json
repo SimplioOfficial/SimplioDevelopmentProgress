@@ -4606,5 +4606,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-28 03:21:17.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9347176`](https://github.com/SimplioOfficial/simplio-mobile/commit/9347176e5312ebfc6c54ebc2eb4435a32b676ea3) Squashed commit of the following: - PitTxid\n[`13dcd50`](https://github.com/SimplioOfficial/simplio-mobile/commit/13dcd50c6db8db2bf0d7cc2c05d1485f5f6fbdb0) reset new wallet after checking transaciotn - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/89fb29a62819...13dcd50c6db8"
+    }
   }
 ]
