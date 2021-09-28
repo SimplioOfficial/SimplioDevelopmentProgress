@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 264 commits since 10/09/2021. You can see the complete history in
+There is a total of 265 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-28 21:35:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/93b37b0011ccd5230b9445091d4b99e6d526a0f5)</sub> | <sub>[93b37b0](https://github.com/SimplioOfficial/simplio-mobile/commit/93b37b0011ccd5230b9445091d4b99e6d526a0f5) Added LARIX, CYS - ciripel</sub> |
 | <sub>2021-09-28 18:24:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6)</sub> | <sub>[b993a91](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6) BNB Corrections - ciripel</sub> |
 | <sub>2021-09-28 12:18:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac)</sub> | <sub>[2ec8af9](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac) app split into two services - storkandstars</sub> |
 | <sub>2021-09-28 11:24:10</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744)</sub> | <sub>[e0f81b4](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744) pubsub - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 264 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-28 07:29:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/223264b94de305969ba92f7060f0c3871ba37251)</sub> | <sub>[223264b](https://github.com/SimplioOfficial/simplio-mobile/commit/223264b94de305969ba92f7060f0c3871ba37251) [DEVELOPMENT-115] Scrollable dashboard with sti... - jvrastil</sub> |
 | <sub>2021-09-28 03:21:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/89fb29a62819...13dcd50c6db8)</sub> | <sub>[9347176](https://github.com/SimplioOfficial/simplio-mobile/commit/9347176e5312ebfc6c54ebc2eb4435a32b676ea3) Squashed commit of the following: - PitTxid<br>[13dcd50](https://github.com/SimplioOfficial/simplio-mobile/commit/13dcd50c6db8db2bf0d7cc2c05d1485f5f6fbdb0) reset new wallet after checking transaciotn - PitTxid</sub> |
 | <sub>2021-09-28 02:34:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a)</sub> | <sub>[89fb29a](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a) add SOLANA token to valid type - PitTxid</sub> |
-| <sub>2021-09-28 02:31:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277)</sub> | <sub>[8387d7a](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277) [DEVELOPMENT-134] No block explorer for BTC ! - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

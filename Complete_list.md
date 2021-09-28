@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-28 21:35:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/93b37b0011ccd5230b9445091d4b99e6d526a0f5)</sub> | <sub>[93b37b0](https://github.com/SimplioOfficial/simplio-mobile/commit/93b37b0011ccd5230b9445091d4b99e6d526a0f5) Added LARIX, CYS - ciripel</sub> |
 | <sub>2021-09-28 18:24:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6)</sub> | <sub>[b993a91](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6) BNB Corrections - ciripel</sub> |
 | <sub>2021-09-28 12:18:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac)</sub> | <sub>[2ec8af9](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac) app split into two services - storkandstars</sub> |
 | <sub>2021-09-28 11:24:10</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744)</sub> | <sub>[e0f81b4](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744) pubsub - storkandstars</sub> |
