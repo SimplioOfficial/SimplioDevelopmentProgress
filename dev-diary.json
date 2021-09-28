@@ -4552,5 +4552,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0623626f4598c63675790d9c08166210e6e9e58b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-28 02:23:37.936000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`dc4b8c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/dc4b8c066e00a01837b544a88c150a0c2630ed92) scan wallet after adding - PitTxid\n[`355e4f9`](https://github.com/SimplioOfficial/simplio-mobile/commit/355e4f90673527a599f9e2adce5b1863101cb615) [DEVELOPMENT-136] Unable to init SIO wallet - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0623626f4598...355e4f906735"
+    }
   }
 ]
