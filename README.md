@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 263 commits since 10/09/2021. You can see the complete history in
+There is a total of 264 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-28 18:24:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6)</sub> | <sub>[b993a91](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6) BNB Corrections - ciripel</sub> |
 | <sub>2021-09-28 12:18:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac)</sub> | <sub>[2ec8af9](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac) app split into two services - storkandstars</sub> |
 | <sub>2021-09-28 11:24:10</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744)</sub> | <sub>[e0f81b4](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744) pubsub - storkandstars</sub> |
 | <sub>2021-09-28 11:06:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/13cb67bd7a96...d6bae3400c76)</sub> | <sub>[5707df8](https://github.com/SimplioOfficial/simplio-mobile/commit/5707df8da22d6fcdf28bf0b6f89730ab0cc3fd45) [DEVELOPMENT-119] update send-address page and ... - PitTxid<br>[d6bae34](https://github.com/SimplioOfficial/simplio-mobile/commit/d6bae3400c7690a8f6baa4829af2a854cde07f82) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 263 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-28 03:21:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/89fb29a62819...13dcd50c6db8)</sub> | <sub>[9347176](https://github.com/SimplioOfficial/simplio-mobile/commit/9347176e5312ebfc6c54ebc2eb4435a32b676ea3) Squashed commit of the following: - PitTxid<br>[13dcd50](https://github.com/SimplioOfficial/simplio-mobile/commit/13dcd50c6db8db2bf0d7cc2c05d1485f5f6fbdb0) reset new wallet after checking transaciotn - PitTxid</sub> |
 | <sub>2021-09-28 02:34:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a)</sub> | <sub>[89fb29a](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a) add SOLANA token to valid type - PitTxid</sub> |
 | <sub>2021-09-28 02:31:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277)</sub> | <sub>[8387d7a](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277) [DEVELOPMENT-134] No block explorer for BTC ! - PitTxid</sub> |
-| <sub>2021-09-28 02:23:37</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0623626f4598...355e4f906735)</sub> | <sub>[dc4b8c0](https://github.com/SimplioOfficial/simplio-mobile/commit/dc4b8c066e00a01837b544a88c150a0c2630ed92) scan wallet after adding - PitTxid<br>[355e4f9](https://github.com/SimplioOfficial/simplio-mobile/commit/355e4f90673527a599f9e2adce5b1863101cb615) [DEVELOPMENT-136] Unable to init SIO wallet - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
