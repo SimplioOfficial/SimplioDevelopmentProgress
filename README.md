@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 270 commits since 10/09/2021. You can see the complete history in
+There is a total of 271 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-29 10:36:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b138ccdba357...d1a94885b898)</sub> | <sub>[c6847e3](https://github.com/SimplioOfficial/simplio-mobile/commit/c6847e3e49e842afbfcae0784656baec8ad53b5b) handle solana tx error - PitTxid<br>[d1a9488](https://github.com/SimplioOfficial/simplio-mobile/commit/d1a94885b89848758ecc5247bfb1dba0e4697abc) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-09-29 09:54:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b138ccdba35708bd3f29cb9cb0fafe3c443174fb)</sub> | <sub>[b138ccd](https://github.com/SimplioOfficial/simplio-mobile/commit/b138ccdba35708bd3f29cb9cb0fafe3c443174fb) Added DYDX, SAND, USDN - ciripel</sub> |
 | <sub>2021-09-29 08:29:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8ba6f5523f1e1d15e89482c237d0a0c204e02459)</sub> | <sub>[8ba6f55](https://github.com/SimplioOfficial/simplio-mobile/commit/8ba6f5523f1e1d15e89482c237d0a0c204e02459) Added RAMP, AXIS, BSF - ciripel</sub> |
 | <sub>2021-09-29 07:56:27</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cd667efb9248112467347e4759fa67817265cc72)</sub> | <sub>[cd667ef](https://github.com/SimplioOfficial/simplio-mobile/commit/cd667efb9248112467347e4759fa67817265cc72) V0.1.0 (#48) - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 270 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-28 18:24:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6)</sub> | <sub>[b993a91](https://github.com/SimplioOfficial/simplio-mobile/commit/b993a912725d06050750c6d62a49a2834f96a1f6) BNB Corrections - ciripel</sub> |
 | <sub>2021-09-28 12:18:26</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac)</sub> | <sub>[2ec8af9](https://github.com/SimplioOfficial/simplio-go/commit/2ec8af9cb7fa842bcc50a0fc15f1b992777498ac) app split into two services - storkandstars</sub> |
 | <sub>2021-09-28 11:24:10</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744)</sub> | <sub>[e0f81b4](https://github.com/SimplioOfficial/simplio-go/commit/e0f81b44131063b2f1dd4bb37b26f820dd8bb744) pubsub - storkandstars</sub> |
-| <sub>2021-09-28 11:06:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/13cb67bd7a96...d6bae3400c76)</sub> | <sub>[5707df8](https://github.com/SimplioOfficial/simplio-mobile/commit/5707df8da22d6fcdf28bf0b6f89730ab0cc3fd45) [DEVELOPMENT-119] update send-address page and ... - PitTxid<br>[d6bae34](https://github.com/SimplioOfficial/simplio-mobile/commit/d6bae3400c7690a8f6baa4829af2a854cde07f82) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
