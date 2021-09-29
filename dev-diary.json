@@ -4984,5 +4984,41 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 20:05:59.419000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a34138d`](https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1) Updated at 29-09-2021 20:05 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 20:07:55.847000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c427fac`](https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0) Added 3 (3)[0] coins - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0"
+    }
   }
 ]
