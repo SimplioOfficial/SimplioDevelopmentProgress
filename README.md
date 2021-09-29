@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 276 commits since 10/09/2021. You can see the complete history in
+There is a total of 277 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-29 18:35:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce)</sub> | <sub>[ab093b9](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce) Added 12 (16)[0] coins + some fixes - ciripel</sub> |
 | <sub>2021-09-29 18:34:35</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb)</sub> | <sub>[364d39a](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb) Updated at 29-09-2021 18:34 - ciripel</sub> |
 | <sub>2021-09-29 18:33:24</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/aacd6369ae0f7db94d89d7b42e4c874bde4b2294)</sub> | <sub>[aacd636](https://github.com/ciripel/script_generated_files/commit/aacd6369ae0f7db94d89d7b42e4c874bde4b2294) Updated at 29-09-2021 18:33 - ciripel</sub> |
 | <sub>2021-09-29 11:36:47</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd)</sub> | <sub>[68fb78a](https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd) [DEVELOPMENT-25] Add notification about unread ... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 276 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-29 09:54:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b138ccdba35708bd3f29cb9cb0fafe3c443174fb)</sub> | <sub>[b138ccd](https://github.com/SimplioOfficial/simplio-mobile/commit/b138ccdba35708bd3f29cb9cb0fafe3c443174fb) Added DYDX, SAND, USDN - ciripel</sub> |
 | <sub>2021-09-29 08:29:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8ba6f5523f1e1d15e89482c237d0a0c204e02459)</sub> | <sub>[8ba6f55](https://github.com/SimplioOfficial/simplio-mobile/commit/8ba6f5523f1e1d15e89482c237d0a0c204e02459) Added RAMP, AXIS, BSF - ciripel</sub> |
 | <sub>2021-09-29 07:56:27</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cd667efb9248112467347e4759fa67817265cc72)</sub> | <sub>[cd667ef](https://github.com/SimplioOfficial/simplio-mobile/commit/cd667efb9248112467347e4759fa67817265cc72) V0.1.0 (#48) - PitTxid</sub> |
-| <sub>2021-09-29 07:55:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 5 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f771340a84e0...c0bc5efb8ef8)</sub> | <sub>[5e46dc8](https://github.com/SimplioOfficial/simplio-mobile/commit/5e46dc8efb9c640ff06383fa5e26383bc2bf61a0) V0.1.0 (#47) - PitTxid<br>[b42912d](https://github.com/SimplioOfficial/simplio-mobile/commit/b42912dc63ad1c41b6599ebf80e2e6d1b0fb9195) Merge branch 'v0.1.0' into testing - jvrastil<br>[9d1a438](https://github.com/SimplioOfficial/simplio-mobile/commit/9d1a4388ae86a71e22c197d90db2ff38a279870f) Merge branch 'v0.1.0' into testing - jvrastil<br>[707e055](https://github.com/SimplioOfficial/simplio-mobile/commit/707e055d55bd0531fbe9b525f7bc5540e81ff78e) Merge branch 'testing' into v0.1.0 - PitTxid<br>[c0bc5ef](https://github.com/SimplioOfficial/simplio-mobile/commit/c0bc5efb8ef8f1ff41f61a496fdef48a58728c10) increase build version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

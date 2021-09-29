@@ -4966,5 +4966,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 18:35:40.572000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ab093b9`](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce) Added 12 (16)[0] coins + some fixes - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce"
+    }
   }
 ]
