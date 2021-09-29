@@ -4768,5 +4768,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/93b37b0011ccd5230b9445091d4b99e6d526a0f5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 06:36:24.381000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f85f5bf`](https://github.com/SimplioOfficial/simplio-mobile/commit/f85f5bfd50bf30f3ac0e06ca34aeed4aaa16ddea) fix validate address sol - PitTxid\n[`b4137ca`](https://github.com/SimplioOfficial/simplio-mobile/commit/b4137ca8728b8867d5d733d04ef4b93c63488196) throw error if sending sol token failed - PitTxid\n[`6eb5cfa`](https://github.com/SimplioOfficial/simplio-mobile/commit/6eb5cfa059e72eea5ed2a33a6f0f8d193a3b8457) disable send button instead of hide it in send ... - PitTxid\n[`b7490e3`](https://github.com/SimplioOfficial/simplio-mobile/commit/b7490e3059f670c4df673ce533db1ac523aa4948) update sending process - PitTxid\n[`86ca48b`](https://github.com/SimplioOfficial/simplio-mobile/commit/86ca48bc0919da94241fc5e5ad89b81aec55d084) update create new token account on overview and... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/93b37b0011cc...f771340a84e0"
+    }
   }
 ]
