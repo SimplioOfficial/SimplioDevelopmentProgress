@@ -5020,5 +5020,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 20:10:45.015000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4fe4d52`](https://github.com/SimplioOfficial/simplio-mobile/commit/4fe4d522c48437ebd7e462f8a0ed550a8379a815) Added ORCA, DXL, GNO - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/4fe4d522c48437ebd7e462f8a0ed550a8379a815"
+    }
   }
 ]

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-09-29 20:10:45</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4fe4d522c48437ebd7e462f8a0ed550a8379a815)</sub> | <sub>[4fe4d52](https://github.com/SimplioOfficial/simplio-mobile/commit/4fe4d522c48437ebd7e462f8a0ed550a8379a815) Added ORCA, DXL, GNO - ciripel</sub> |
 | <sub>2021-09-29 20:07:55</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0)</sub> | <sub>[c427fac](https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0) Added 3 (3)[0] coins - ciripel</sub> |
 | <sub>2021-09-29 20:05:59</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1)</sub> | <sub>[a34138d](https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1) Updated at 29-09-2021 20:05 - ciripel</sub> |
 | <sub>2021-09-29 18:35:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce)</sub> | <sub>[ab093b9](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce) Added 12 (16)[0] coins + some fixes - ciripel</sub> |
