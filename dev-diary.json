@@ -4912,5 +4912,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/18eadd9d830165ca58c7f8cfc191f76823c828bc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-09-29 11:36:47.475000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`68fb78a`](https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd) [DEVELOPMENT-25] Add notification about unread ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd"
+    }
   }
 ]
