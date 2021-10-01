@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 285 commits since 10/09/2021. You can see the complete history in
+There is a total of 286 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-01 10:36:36</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8fe674ba8dcb...203ac33b0f52)</sub> | <sub>[780572c](https://github.com/SimplioOfficial/simplio-mobile/commit/780572ca7b43acb1c2a3b4383bc31c7cba3254c3) [DEVELOPMENT-139][FEATURE] Google analytics - jvrastil<br>[203ac33](https://github.com/SimplioOfficial/simplio-mobile/commit/203ac33b0f528c5bb47c660deadf6840b6bd9c82) [DEVELOPMENT-91] Fix api calls on phones - jvrastil</sub> |
 | <sub>2021-10-01 08:08:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8fe674ba8dcb67e1dcc7f3aec7ae6f4fde5c6fb0)</sub> | <sub>[8fe674b](https://github.com/SimplioOfficial/simplio-mobile/commit/8fe674ba8dcb67e1dcc7f3aec7ae6f4fde5c6fb0) Fix z-index in swap page - jvrastil</sub> |
 | <sub>2021-10-01 08:02:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4fe4d522c484...3d1c61b6014e)</sub> | <sub>[7d602d8](https://github.com/SimplioOfficial/simplio-mobile/commit/7d602d87d1473906717e7582588c148feb18e867) fix ios build - jvrastil<br>[3d1c61b](https://github.com/SimplioOfficial/simplio-mobile/commit/3d1c61b6014ec7178679c73806c6890cdbe7c5de) [DEVELOPMENT-145] Fix progress bar in swap page - jvrastil</sub> |
 | <sub>2021-10-01 07:29:04</sub> | <sub>[[simplio-mobile:google\_analytics] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/379d042a19bc^...da21a1bf97e4)</sub> | <sub>[379d042](https://github.com/SimplioOfficial/simplio-mobile/commit/379d042a19bc43475dc6023d43a58bec34c655f0) fix ios build - jvrastil<br>[da21a1b](https://github.com/SimplioOfficial/simplio-mobile/commit/da21a1bf97e45450cc69b9f2b4551e69241a5a1f) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 285 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-29 20:07:55</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0)</sub> | <sub>[c427fac](https://github.com/ciripel/available_swaps_script/commit/c427facdac293ea29a64a8ae4f88d431701fddf0) Added 3 (3)[0] coins - ciripel</sub> |
 | <sub>2021-09-29 20:05:59</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1)</sub> | <sub>[a34138d](https://github.com/ciripel/script_generated_files/commit/a34138d691e4a1914feb061775a86e266a4af8a1) Updated at 29-09-2021 20:05 - ciripel</sub> |
 | <sub>2021-09-29 18:35:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce)</sub> | <sub>[ab093b9](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce) Added 12 (16)[0] coins + some fixes - ciripel</sub> |
-| <sub>2021-09-29 18:34:35</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb)</sub> | <sub>[364d39a](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb) Updated at 29-09-2021 18:34 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -5128,5 +5128,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8fe674ba8dcb67e1dcc7f3aec7ae6f4fde5c6fb0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 10:36:36.966000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`780572c`](https://github.com/SimplioOfficial/simplio-mobile/commit/780572ca7b43acb1c2a3b4383bc31c7cba3254c3) [DEVELOPMENT-139][FEATURE] Google analytics - jvrastil\n[`203ac33`](https://github.com/SimplioOfficial/simplio-mobile/commit/203ac33b0f528c5bb47c660deadf6840b6bd9c82) [DEVELOPMENT-91] Fix api calls on phones - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8fe674ba8dcb...203ac33b0f52"
+    }
   }
 ]
