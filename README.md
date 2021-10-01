@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 312 commits since 10/09/2021. You can see the complete history in
+There is a total of 313 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-01 15:45:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/285c48de1b6a05f8fe1947820a416820790ed3ec)</sub> | <sub>[285c48d](https://github.com/SimplioOfficial/simplio-mobile/commit/285c48de1b6a05f8fe1947820a416820790ed3ec) Create script for automatic versioning - jvrastil</sub> |
 | <sub>2021-10-01 15:32:13</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/429ef5018579...463058d76834)</sub> | <sub>[8273dcf](https://github.com/SimplioOfficial/simplio-mobile/commit/8273dcf858e83e1375dff27f0db3a6b0e7e53467) build fix - jvrastil<br>[463058d](https://github.com/SimplioOfficial/simplio-mobile/commit/463058d76834b053d774862eb9a38cbb7b0eb342) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-01 15:31:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8273dcf858e83e1375dff27f0db3a6b0e7e53467)</sub> | <sub>[8273dcf](https://github.com/SimplioOfficial/simplio-mobile/commit/8273dcf858e83e1375dff27f0db3a6b0e7e53467) build fix - jvrastil</sub> |
 | <sub>2021-10-01 15:10:52</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/944f7befbf51...429ef5018579)</sub> | <sub>[fe29bd2](https://github.com/SimplioOfficial/simplio-mobile/commit/fe29bd23f487d24b1c453328968e4ccb4db928e6) build fix - jvrastil<br>[429ef50](https://github.com/SimplioOfficial/simplio-mobile/commit/429ef501857940786c1c67a2c04c72f1eedea8f7) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 312 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-01 14:29:25</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/eccce7129509...01603cc5a088)</sub> | <sub>[f6184f8](https://github.com/SimplioOfficial/simplio-mobile/commit/f6184f8836d4742861f94013b383ceb2777273e7) build fix - jvrastil<br>[01603cc](https://github.com/SimplioOfficial/simplio-mobile/commit/01603cc5a0883281686698ad1318689cbbdbaf80) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-01 14:28:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f6184f8836d4742861f94013b383ceb2777273e7)</sub> | <sub>[f6184f8](https://github.com/SimplioOfficial/simplio-mobile/commit/f6184f8836d4742861f94013b383ceb2777273e7) build fix - jvrastil</sub> |
 | <sub>2021-10-01 14:12:32</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d21731cf71cc...eccce7129509)</sub> | <sub>[301574d](https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f) build fix - jvrastil<br>[eccce71](https://github.com/SimplioOfficial/simplio-mobile/commit/eccce7129509385b051296945912a5c1e9ebc034) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
-| <sub>2021-10-01 14:12:13</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f)</sub> | <sub>[301574d](https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f) build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
