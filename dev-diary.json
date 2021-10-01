@@ -5110,5 +5110,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4fe4d522c484...3d1c61b6014e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 08:08:25.212000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8fe674b`](https://github.com/SimplioOfficial/simplio-mobile/commit/8fe674ba8dcb67e1dcc7f3aec7ae6f4fde5c6fb0) Fix z-index in swap page - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8fe674ba8dcb67e1dcc7f3aec7ae6f4fde5c6fb0"
+    }
   }
 ]
