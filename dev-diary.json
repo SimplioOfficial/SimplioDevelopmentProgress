@@ -5632,5 +5632,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/285c48de1b6a05f8fe1947820a416820790ed3ec"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 20:17:27.368000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e8854ef`](https://github.com/SimplioOfficial/simplio-mobile/commit/e8854ef0b9deb1b84fc57133a9e0aecbc4bf89a4) build fix - jvrastil\n[`280d71e`](https://github.com/SimplioOfficial/simplio-mobile/commit/280d71e38ad9f2059bc6cc89bc74d7417037816f) increase version - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/285c48de1b6a...280d71e38ad9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 20:17:42.751000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`285c48d`](https://github.com/SimplioOfficial/simplio-mobile/commit/285c48de1b6a05f8fe1947820a416820790ed3ec) Create script for automatic versioning - jvrastil\n[`e8854ef`](https://github.com/SimplioOfficial/simplio-mobile/commit/e8854ef0b9deb1b84fc57133a9e0aecbc4bf89a4) build fix - jvrastil\n[`280d71e`](https://github.com/SimplioOfficial/simplio-mobile/commit/280d71e38ad9f2059bc6cc89bc74d7417037816f) increase version - jvrastil\n[`60a1d5c`](https://github.com/SimplioOfficial/simplio-mobile/commit/60a1d5c2ee880e31a9b344f08f83d5cb15cfaf3d) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/463058d76834...60a1d5c2ee88"
+    }
   }
 ]
