@@ -5092,5 +5092,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/379d042a19bc^...da21a1bf97e4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 08:02:17.464000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7d602d8`](https://github.com/SimplioOfficial/simplio-mobile/commit/7d602d87d1473906717e7582588c148feb18e867) fix ios build - jvrastil\n[`3d1c61b`](https://github.com/SimplioOfficial/simplio-mobile/commit/3d1c61b6014ec7178679c73806c6890cdbe7c5de) [DEVELOPMENT-145] Fix progress bar in swap page - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4fe4d522c484...3d1c61b6014e"
+    }
   }
 ]

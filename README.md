@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 283 commits since 10/09/2021. You can see the complete history in
+There is a total of 284 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-01 08:02:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4fe4d522c484...3d1c61b6014e)</sub> | <sub>[7d602d8](https://github.com/SimplioOfficial/simplio-mobile/commit/7d602d87d1473906717e7582588c148feb18e867) fix ios build - jvrastil<br>[3d1c61b](https://github.com/SimplioOfficial/simplio-mobile/commit/3d1c61b6014ec7178679c73806c6890cdbe7c5de) [DEVELOPMENT-145] Fix progress bar in swap page - jvrastil</sub> |
 | <sub>2021-10-01 07:29:04</sub> | <sub>[[simplio-mobile:google\_analytics] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/379d042a19bc^...da21a1bf97e4)</sub> | <sub>[379d042](https://github.com/SimplioOfficial/simplio-mobile/commit/379d042a19bc43475dc6023d43a58bec34c655f0) fix ios build - jvrastil<br>[da21a1b](https://github.com/SimplioOfficial/simplio-mobile/commit/da21a1bf97e45450cc69b9f2b4551e69241a5a1f) wip - jvrastil</sub> |
 | <sub>2021-10-01 04:03:31</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f7bba69b0301...ec3cba9986d7)</sub> | <sub>[89e22e8](https://github.com/SimplioOfficial/simplio-mobile/commit/89e22e889e59fc2ff22714c072359bab1410145c) fix undefine source wallet new2 - PitTxid<br>[c05ff8b](https://github.com/SimplioOfficial/simplio-mobile/commit/c05ff8b42ed40d0368eb800179678575b7689a10) [DEVELOPMENT-119] get fee from server side - PitTxid<br>[ec3cba9](https://github.com/SimplioOfficial/simplio-mobile/commit/ec3cba9986d7198c974f8f484b652df92c539edb) update env for fee program - PitTxid</sub> |
 | <sub>2021-09-30 14:56:12</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f7bba69b0301ae94fbe354f9928ffd193d7dddde)</sub> | <sub>[f7bba69](https://github.com/SimplioOfficial/simplio-mobile/commit/f7bba69b0301ae94fbe354f9928ffd193d7dddde) merge squash with v0.1.0 - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 283 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-09-29 18:35:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce)</sub> | <sub>[ab093b9](https://github.com/ciripel/available_swaps_script/commit/ab093b9ce7d75777093d9f98cacd8a61358cd9ce) Added 12 (16)[0] coins + some fixes - ciripel</sub> |
 | <sub>2021-09-29 18:34:35</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb)</sub> | <sub>[364d39a](https://github.com/ciripel/script_generated_files/commit/364d39acc21c63a7d2854b2c7bb2cdc05af32ceb) Updated at 29-09-2021 18:34 - ciripel</sub> |
 | <sub>2021-09-29 18:33:24</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/aacd6369ae0f7db94d89d7b42e4c874bde4b2294)</sub> | <sub>[aacd636](https://github.com/ciripel/script_generated_files/commit/aacd6369ae0f7db94d89d7b42e4c874bde4b2294) Updated at 29-09-2021 18:33 - ciripel</sub> |
-| <sub>2021-09-29 11:36:47</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd)</sub> | <sub>[68fb78a](https://github.com/SimplioOfficial/simplio-mobile/commit/68fb78ab22f5702541904e2f92a24ca052220bcd) [DEVELOPMENT-25] Add notification about unread ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
