@@ -5146,5 +5146,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8fe674ba8dcb...203ac33b0f52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 10:59:57.134000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7410a84`](https://github.com/SimplioOfficial/fee-program/commit/7410a84c465133683455a03344a4889f5d413415) check rent exempt for pool, check fee account - PitTxid\n[`4d23d71`](https://github.com/SimplioOfficial/fee-program/commit/4d23d71da8602a08d756e3f2976b999c56b0232f) update ui and update price - PitTxid\n[`92b101d`](https://github.com/SimplioOfficial/fee-program/commit/92b101d9e5623ba678460dded7b277778dcd191b) fix wrong receiver info - PitTxid\n[`2cf12cf`](https://github.com/SimplioOfficial/fee-program/commit/2cf12cf6806adfc8ad39bd7a840112fcf469360f) update coinlist test - PitTxid\n[`b30cf7f`](https://github.com/SimplioOfficial/fee-program/commit/b30cf7f52e5c763838a8f3e875e215afdc120305) update UI - PitTxid",
+      "title": "[fee-program:v2] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/fee-program/compare/7410a84c4651^...a9617940482f"
+    }
   }
 ]
