@@ -5524,5 +5524,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/76845183f971e616ccb606391f0827e8020fb306"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 14:54:24.516000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7684518`](https://github.com/SimplioOfficial/simplio-mobile/commit/76845183f971e616ccb606391f0827e8020fb306) build fix - jvrastil\n[`944f7be`](https://github.com/SimplioOfficial/simplio-mobile/commit/944f7befbf51cd98f44f5595de936416db3a3f42) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/01603cc5a088...944f7befbf51"
+    }
   }
 ]
