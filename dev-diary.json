@@ -5434,5 +5434,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/44037e084d5e...d21731cf71cc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 14:12:13.093000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`301574d`](https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f) build fix - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 14:12:32.042000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`301574d`](https://github.com/SimplioOfficial/simplio-mobile/commit/301574dab71a45e52cfb0a3c0b38651efd99e85f) build fix - jvrastil\n[`eccce71`](https://github.com/SimplioOfficial/simplio-mobile/commit/eccce7129509385b051296945912a5c1e9ebc034) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d21731cf71cc...eccce7129509"
+    }
   }
 ]
