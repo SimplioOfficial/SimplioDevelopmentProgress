@@ -5380,5 +5380,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/73f0ee513199354d5f0e8f03bac2167688dbafd9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 13:43:35.762000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a1a9b1b`](https://github.com/SimplioOfficial/simplio-mobile/commit/a1a9b1b1bb28929a45159bccd9b0198c0022d4aa) add solana dev data - PitTxid\n[`b917470`](https://github.com/SimplioOfficial/simplio-mobile/commit/b917470956d6b758f6d301f008ad146008fab31b) add loading screen when initializing token - PitTxid\n[`d6e7404`](https://github.com/SimplioOfficial/simplio-mobile/commit/d6e740417f79f606b4c2b67567fa901ccce6bea1) update \u00ed solana token - PitTxid\n[`b0f85be`](https://github.com/SimplioOfficial/simplio-mobile/commit/b0f85bee7dbfe1255bfe497df81866ca50597356) udate token fee list - PitTxid\n[`30051eb`](https://github.com/SimplioOfficial/simplio-mobile/commit/30051eb8284be5a87bf9f0532c16944d6941a70f) do not get fee wallet if it's there already - PitTxid",
+      "title": "[simplio-mobile:testing] 18 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f9ae44c320c0...44037e084d5e"
+    }
   }
 ]
