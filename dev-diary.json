@@ -5182,5 +5182,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/compare/b05231554720...a8828c555259"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-01 11:58:42.988000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0623626`](https://github.com/SimplioOfficial/simplio-mobile/commit/0623626f4598c63675790d9c08166210e6e9e58b) uncomment send function - PitTxid\n[`dc4b8c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/dc4b8c066e00a01837b544a88c150a0c2630ed92) scan wallet after adding - PitTxid\n[`355e4f9`](https://github.com/SimplioOfficial/simplio-mobile/commit/355e4f90673527a599f9e2adce5b1863101cb615) [DEVELOPMENT-136] Unable to init SIO wallet - PitTxid\n[`8387d7a`](https://github.com/SimplioOfficial/simplio-mobile/commit/8387d7a4a840ea3f790c68b5b906ca49a432d277) [DEVELOPMENT-134] No block explorer for BTC ! - PitTxid\n[`89fb29a`](https://github.com/SimplioOfficial/simplio-mobile/commit/89fb29a628198bbc190f0e6a0d84c7fded40637a) add SOLANA token to valid type - PitTxid",
+      "title": "[simplio-mobile:testing] 38 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ec3cba9986d7...14ba0cb7092f"
+    }
   }
 ]
