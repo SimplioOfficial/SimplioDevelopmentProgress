@@ -5668,5 +5668,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/463058d76834...60a1d5c2ee88"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-02 03:17:42.340000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b3ab2cf`](https://github.com/SimplioOfficial/simplio-mobile/commit/b3ab2cf6cc7ae8440bf857cea2845ff98fd35d87) add sender address to send page - PitTxid\n[`8067037`](https://github.com/SimplioOfficial/simplio-mobile/commit/80670379bd486cbae219f0ae90e34181db0b1e93) add timeout 2 sec for refresh behavior - PitTxid\n[`472c7b4`](https://github.com/SimplioOfficial/simplio-mobile/commit/472c7b4df635a1caabf236b5571be8a8c112134f) add retry for sol txs and sol bal - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/280d71e38ad9...472c7b4df635"
+    }
   }
 ]
