@@ -5866,5 +5866,41 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/c9731af07656f30414700c9222c62702f3328ecb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-04 11:06:21.702000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`bf42603`](https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69) Updated at 04-10-2021 11:06 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-04 11:07:25.966000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`79797a6`](https://github.com/ciripel/available_swaps_script/commit/79797a67b8e6765b6d3c0f052ac2238c7dc465dd) fixed COPE logo - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/79797a67b8e6765b6d3c0f052ac2238c7dc465dd"
+    }
   }
 ]
