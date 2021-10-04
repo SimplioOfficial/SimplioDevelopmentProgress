@@ -5902,5 +5902,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/79797a67b8e6765b6d3c0f052ac2238c7dc465dd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-04 11:13:57.187000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a10457`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a1045782ff8bd07340840dca8eb06deaf2a476c) [DEVELOPMENT-26] Use enter key to submit forms - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0a1045782ff8bd07340840dca8eb06deaf2a476c"
+    }
   }
 ]
