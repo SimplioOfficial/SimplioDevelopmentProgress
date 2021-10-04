@@ -5704,5 +5704,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/03a93cb7b5cd314361c46765b0d89f10295a059f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-04 04:16:34.564000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`2fac3a3`](https://github.com/SimplioOfficial/simplio-mobile/commit/2fac3a30752b5a6bab97ab1f94e0527959382322) fix display estimated fee sol - PitTxid\n[`a115db7`](https://github.com/SimplioOfficial/simplio-mobile/commit/a115db7efd2e533d045615bfb2b7410647119943) fix null explorer in exchange page - PitTxid\n[`0149292`](https://github.com/SimplioOfficial/simplio-mobile/commit/0149292ea1a0491b77e8d455f7817bfe3870d1c6) correct parse sol token transaction - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/472c7b4df635...0149292ea1a0"
+    }
   }
 ]
