@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-05 12:26:02</sub> | <sub>[[simplio-mobile:bonus] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c7f4873feba834aa2a18bb652db027d31334f836)</sub> | <sub>[c7f4873](https://github.com/SimplioOfficial/simplio-mobile/commit/c7f4873feba834aa2a18bb652db027d31334f836) [DEVELOPMENT-64][FEATURE] Bonus page - jvrastil</sub> |
 | <sub>2021-10-05 11:40:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/ff2ef68b8fae...196f9a6756d8)</sub> |
 | <sub>2021-10-05 11:40:06</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/14a01929ae40...64b2e5d409df)</sub> | <sub>[c7e591d](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2) revert dev changes - jvrastil<br>[64b2e5d](https://github.com/SimplioOfficial/simplio-mobile/commit/64b2e5d409dfda40a8ec4fc002a2554a2121623d) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-05 11:39:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2)</sub> | <sub>[c7e591d](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2) revert dev changes - jvrastil</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 336 commits since 10/09/2021. You can see the complete history in
+There is a total of 337 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-05 12:26:02</sub> | <sub>[[simplio-mobile:bonus] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c7f4873feba834aa2a18bb652db027d31334f836)</sub> | <sub>[c7f4873](https://github.com/SimplioOfficial/simplio-mobile/commit/c7f4873feba834aa2a18bb652db027d31334f836) [DEVELOPMENT-64][FEATURE] Bonus page - jvrastil</sub> |
 | <sub>2021-10-05 11:40:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/ff2ef68b8fae...196f9a6756d8)</sub> |
 | <sub>2021-10-05 11:40:06</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/14a01929ae40...64b2e5d409df)</sub> | <sub>[c7e591d](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2) revert dev changes - jvrastil<br>[64b2e5d](https://github.com/SimplioOfficial/simplio-mobile/commit/64b2e5d409dfda40a8ec4fc002a2554a2121623d) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-05 11:39:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2)</sub> | <sub>[c7e591d](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2) revert dev changes - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 336 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-05 11:23:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b)</sub> | <sub>[a93ceb1](https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b) [DEVELOPMENT-115][FEATURE] Fix scrollable walle... - jvrastil</sub> |
 | <sub>2021-10-04 11:13:57</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a1045782ff8bd07340840dca8eb06deaf2a476c)</sub> | <sub>[0a10457](https://github.com/SimplioOfficial/simplio-mobile/commit/0a1045782ff8bd07340840dca8eb06deaf2a476c) [DEVELOPMENT-26] Use enter key to submit forms - jvrastil</sub> |
 | <sub>2021-10-04 11:07:25</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/79797a67b8e6765b6d3c0f052ac2238c7dc465dd)</sub> | <sub>[79797a6](https://github.com/ciripel/available_swaps_script/commit/79797a67b8e6765b6d3c0f052ac2238c7dc465dd) fixed COPE logo - ciripel</sub> |
-| <sub>2021-10-04 11:06:21</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69)</sub> | <sub>[bf42603](https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69) Updated at 04-10-2021 11:06 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
