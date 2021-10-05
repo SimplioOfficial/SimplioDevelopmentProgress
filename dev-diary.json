@@ -5920,5 +5920,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0a1045782ff8bd07340840dca8eb06deaf2a476c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-05 11:23:49.788000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a93ceb1`](https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b) [DEVELOPMENT-115][FEATURE] Fix scrollable walle... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b"
+    }
   }
 ]
