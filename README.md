@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 332 commits since 10/09/2021. You can see the complete history in
+There is a total of 334 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-05 11:39:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2)</sub> | <sub>[c7e591d](https://github.com/SimplioOfficial/simplio-mobile/commit/c7e591d124cc7642ce7f9fd04be4287419cdccf2) revert dev changes - jvrastil</sub> |
+| <sub>2021-10-05 11:36:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/073de00d42fb...ff2ef68b8fae)</sub> |
 | <sub>2021-10-05 11:31:47</sub> | <sub>[[simplio-mobile:testing] 13 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/60a1d5c2ee88...14a01929ae40)</sub> | <sub>[b3ab2cf](https://github.com/SimplioOfficial/simplio-mobile/commit/b3ab2cf6cc7ae8440bf857cea2845ff98fd35d87) add sender address to send page - PitTxid<br>[8067037](https://github.com/SimplioOfficial/simplio-mobile/commit/80670379bd486cbae219f0ae90e34181db0b1e93) add timeout 2 sec for refresh behavior - PitTxid<br>[472c7b4](https://github.com/SimplioOfficial/simplio-mobile/commit/472c7b4df635a1caabf236b5571be8a8c112134f) add retry for sol txs and sol bal - PitTxid<br>[2fac3a3](https://github.com/SimplioOfficial/simplio-mobile/commit/2fac3a30752b5a6bab97ab1f94e0527959382322) fix display estimated fee sol - PitTxid<br>[a115db7](https://github.com/SimplioOfficial/simplio-mobile/commit/a115db7efd2e533d045615bfb2b7410647119943) fix null explorer in exchange page - PitTxid</sub> |
 | <sub>2021-10-05 11:30:35</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/82539ce4a1876a232d11742b620611fabd8c47fe)</sub> | <sub>[82539ce](https://github.com/SimplioOfficial/simplio-mobile/commit/82539ce4a1876a232d11742b620611fabd8c47fe) increase versions - jvrastil</sub> |
 | <sub>2021-10-05 11:23:49</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b)</sub> | <sub>[a93ceb1](https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b) [DEVELOPMENT-115][FEATURE] Fix scrollable walle... - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 332 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-04 11:06:21</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69)</sub> | <sub>[bf42603](https://github.com/ciripel/script_generated_files/commit/bf426031df22aad9a1556fc1e1a5c3a1a74caa69) Updated at 04-10-2021 11:06 - ciripel</sub> |
 | <sub>2021-10-04 10:58:42</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c9731af07656f30414700c9222c62702f3328ecb)</sub> | <sub>[c9731af](https://github.com/ciripel/available_swaps_script/commit/c9731af07656f30414700c9222c62702f3328ecb) Fixed PAXG and XRP logos - ciripel</sub> |
 | <sub>2021-10-04 10:58:24</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/1374ec9c69b2bf06d16e7d519524e7f52a00d073)</sub> | <sub>[1374ec9](https://github.com/ciripel/script_generated_files/commit/1374ec9c69b2bf06d16e7d519524e7f52a00d073) Updated at 04-10-2021 10:58 - ciripel</sub> |
-| <sub>2021-10-04 10:55:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4b6a32e8c6e7d112dfe694c1f6beff475b073f7d)</sub> | <sub>[4b6a32e](https://github.com/SimplioOfficial/simplio-mobile/commit/4b6a32e8c6e7d112dfe694c1f6beff475b073f7d) [DEVELOPMENT-146] Fix word-break in popups - jvrastil</sub> |
-| <sub>2021-10-04 10:37:41</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/9c0d600cb5250b6bea1490647b35af1b514e3a39)</sub> | <sub>[9c0d600](https://github.com/ciripel/available_swaps_script/commit/9c0d600cb5250b6bea1490647b35af1b514e3a39) Completed coins lists - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
