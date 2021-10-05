@@ -5938,5 +5938,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a93ceb1f9671f042027e0bb93950645a8eb68e8b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-05 11:30:35.036000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`82539ce`](https://github.com/SimplioOfficial/simplio-mobile/commit/82539ce4a1876a232d11742b620611fabd8c47fe) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/82539ce4a1876a232d11742b620611fabd8c47fe"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-05 11:31:47.829000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b3ab2cf`](https://github.com/SimplioOfficial/simplio-mobile/commit/b3ab2cf6cc7ae8440bf857cea2845ff98fd35d87) add sender address to send page - PitTxid\n[`8067037`](https://github.com/SimplioOfficial/simplio-mobile/commit/80670379bd486cbae219f0ae90e34181db0b1e93) add timeout 2 sec for refresh behavior - PitTxid\n[`472c7b4`](https://github.com/SimplioOfficial/simplio-mobile/commit/472c7b4df635a1caabf236b5571be8a8c112134f) add retry for sol txs and sol bal - PitTxid\n[`2fac3a3`](https://github.com/SimplioOfficial/simplio-mobile/commit/2fac3a30752b5a6bab97ab1f94e0527959382322) fix display estimated fee sol - PitTxid\n[`a115db7`](https://github.com/SimplioOfficial/simplio-mobile/commit/a115db7efd2e533d045615bfb2b7410647119943) fix null explorer in exchange page - PitTxid",
+      "title": "[simplio-mobile:testing] 13 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/60a1d5c2ee88...14a01929ae40"
+    }
   }
 ]
