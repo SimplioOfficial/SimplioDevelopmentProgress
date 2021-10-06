@@ -6188,5 +6188,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9760be90d929...e54167832b07"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-06 09:04:01.667000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fa79001`](https://github.com/SimplioOfficial/simplio-mobile/commit/fa79001b0ecbbbc469121a7ff527fb71ee3c26c5) [DEVELOPMENT-144] update message related to add... - PitTxid\n[`b296a45`](https://github.com/SimplioOfficial/simplio-mobile/commit/b296a458b00f203094410bffd2d74ef68baa63ae) correct disable button behavior on receive page - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e54167832b07...b296a458b00f"
+    }
   }
 ]
