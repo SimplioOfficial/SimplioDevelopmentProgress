@@ -6224,5 +6224,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f12c1a0666aa9c05f639fd298778657598823ce6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-06 10:54:15.634000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`42eb52c`](https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb) [DEVELOPMENT-148] Fix dark mode colors in walle... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb"
+    }
   }
 ]
