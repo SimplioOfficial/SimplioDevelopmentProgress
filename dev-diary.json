@@ -6332,5 +6332,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/343e144bf2d3b732748aa5044eeee853f52e8725"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-06 16:12:00.003000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7bae597`](https://github.com/SimplioOfficial/simplio-mobile/commit/7bae597a2b0f56975e2051f07af13f0353693afc) [DEVELOPMENT-147] show error for user - PitTxid\n[`262f097`](https://github.com/SimplioOfficial/simplio-mobile/commit/262f097fb6e96bb4e9c60cf02097b2f5fbfc23c9) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`a0737d8`](https://github.com/SimplioOfficial/simplio-mobile/commit/a0737d82b24065c3c47a10dc3a376a827ccb3ef0) [DEVELOPMENT-93] fix default pair for swap from... - PitTxid\n[`11220d5`](https://github.com/SimplioOfficial/simplio-mobile/commit/11220d59ba91d950cc6db9c7ada7bb85b907cc6e) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`9760be9`](https://github.com/SimplioOfficial/simplio-mobile/commit/9760be90d929ad43533632b16faee9239694cf66) [DEVELOPMENT-93] fix exception when going back ... - PitTxid",
+      "title": "[simplio-mobile:testing] 18 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/343e144bf2d3...d613fa11d96d"
+    }
   }
 ]
