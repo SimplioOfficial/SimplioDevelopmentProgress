@@ -6278,5 +6278,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6810cef5ee0aa0c4361e1f13bb6d1009a9c7dcc1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-06 14:58:16.339000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`5193e32`](https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7) Fix header title in transaction overview - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7"
+    }
   }
 ]

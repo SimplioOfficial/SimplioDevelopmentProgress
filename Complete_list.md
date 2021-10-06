@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-06 14:58:16</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7)</sub> | <sub>[5193e32](https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7) Fix header title in transaction overview - jvrastil</sub> |
 | <sub>2021-10-06 10:59:33</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6810cef5ee0aa0c4361e1f13bb6d1009a9c7dcc1)</sub> | <sub>[6810cef](https://github.com/SimplioOfficial/simplio-mobile/commit/6810cef5ee0aa0c4361e1f13bb6d1009a9c7dcc1) MERGE v0.1.0 - jvrastil</sub> |
 | <sub>2021-10-06 10:57:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f87bf9b1017d0f357038490be0390edf885eda4)</sub> | <sub>[8f87bf9](https://github.com/SimplioOfficial/simplio-mobile/commit/8f87bf9b1017d0f357038490be0390edf885eda4) increase versions - jvrastil</sub> |
 | <sub>2021-10-06 10:54:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb)</sub> | <sub>[42eb52c](https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb) [DEVELOPMENT-148] Fix dark mode colors in walle... - jvrastil</sub> |
