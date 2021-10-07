@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 356 commits since 10/09/2021. You can see the complete history in
+There is a total of 357 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-07 06:43:32</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ccb259e5698389492fdb0eabd18125e018bf2beb)</sub> | <sub>[ccb259e](https://github.com/SimplioOfficial/simplio-mobile/commit/ccb259e5698389492fdb0eabd18125e018bf2beb) changed BSC20 to BEP20 to respect naming standard - ciripel</sub> |
 | <sub>2021-10-07 06:39:34</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/0eca6b2f5063d7cae35b30ce65be397656f5d50e)</sub> | <sub>[0eca6b2](https://github.com/ciripel/available_swaps_script/commit/0eca6b2f5063d7cae35b30ce65be397656f5d50e) Added 1 (1)[0] coins - ciripel</sub> |
 | <sub>2021-10-07 06:38:51</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/86575b634fb42cd863a1f2e894b177d0bed3adcc)</sub> | <sub>[86575b6](https://github.com/ciripel/script_generated_files/commit/86575b634fb42cd863a1f2e894b177d0bed3adcc) Updated at 07-10-2021 06:38 - ciripel</sub> |
 | <sub>2021-10-07 06:33:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2bb8fc3bbb17eae17891c0e5e62c9bafa2f43c7f)</sub> | <sub>[2bb8fc3](https://github.com/SimplioOfficial/simplio-mobile/commit/2bb8fc3bbb17eae17891c0e5e62c9bafa2f43c7f) Added SBR - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 356 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-06 14:58:16</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7)</sub> | <sub>[5193e32](https://github.com/SimplioOfficial/simplio-mobile/commit/5193e326c30c1f063b4a57332f8b63ffcfe00fb7) Fix header title in transaction overview - jvrastil</sub> |
 | <sub>2021-10-06 10:59:33</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6810cef5ee0aa0c4361e1f13bb6d1009a9c7dcc1)</sub> | <sub>[6810cef](https://github.com/SimplioOfficial/simplio-mobile/commit/6810cef5ee0aa0c4361e1f13bb6d1009a9c7dcc1) MERGE v0.1.0 - jvrastil</sub> |
 | <sub>2021-10-06 10:57:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f87bf9b1017d0f357038490be0390edf885eda4)</sub> | <sub>[8f87bf9](https://github.com/SimplioOfficial/simplio-mobile/commit/8f87bf9b1017d0f357038490be0390edf885eda4) increase versions - jvrastil</sub> |
-| <sub>2021-10-06 10:54:15</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb)</sub> | <sub>[42eb52c](https://github.com/SimplioOfficial/simplio-mobile/commit/42eb52cc1a51c6f7aad605103a57d1dd3ba01fdb) [DEVELOPMENT-148] Fix dark mode colors in walle... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

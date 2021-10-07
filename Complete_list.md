@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-07 06:43:32</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ccb259e5698389492fdb0eabd18125e018bf2beb)</sub> | <sub>[ccb259e](https://github.com/SimplioOfficial/simplio-mobile/commit/ccb259e5698389492fdb0eabd18125e018bf2beb) changed BSC20 to BEP20 to respect naming standard - ciripel</sub> |
 | <sub>2021-10-07 06:39:34</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/0eca6b2f5063d7cae35b30ce65be397656f5d50e)</sub> | <sub>[0eca6b2](https://github.com/ciripel/available_swaps_script/commit/0eca6b2f5063d7cae35b30ce65be397656f5d50e) Added 1 (1)[0] coins - ciripel</sub> |
 | <sub>2021-10-07 06:38:51</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/86575b634fb42cd863a1f2e894b177d0bed3adcc)</sub> | <sub>[86575b6](https://github.com/ciripel/script_generated_files/commit/86575b634fb42cd863a1f2e894b177d0bed3adcc) Updated at 07-10-2021 06:38 - ciripel</sub> |
 | <sub>2021-10-07 06:33:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2bb8fc3bbb17eae17891c0e5e62c9bafa2f43c7f)</sub> | <sub>[2bb8fc3](https://github.com/SimplioOfficial/simplio-mobile/commit/2bb8fc3bbb17eae17891c0e5e62c9bafa2f43c7f) Added SBR - ciripel</sub> |
