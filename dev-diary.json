@@ -6710,5 +6710,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5d261940878ca34ca18cad3532039a3fcff3c295"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-08 09:41:44.813000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b4e4e2d`](https://github.com/SimplioOfficial/simplio-mobile/commit/b4e4e2dc1a7918bd997e72ad1d513053747a14ae) [DEVELOPMENT-159] Automatically open keyboard i... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b4e4e2dc1a7918bd997e72ad1d513053747a14ae"
+    }
   }
 ]
