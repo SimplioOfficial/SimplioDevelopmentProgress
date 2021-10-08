@@ -6620,5 +6620,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/5cf897a4384e49bef7477462674bc22fde6a6abf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-08 08:44:10.871000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ed4f86c`](https://github.com/SimplioOfficial/simplio-mobile/commit/ed4f86ce9615c14c1d9e09cc255bee73c4026b49) [DEVELOPMENT-160] Fix header animation in walle... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ed4f86ce9615c14c1d9e09cc255bee73c4026b49"
+    }
   }
 ]

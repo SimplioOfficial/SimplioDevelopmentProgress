@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 368 commits since 10/09/2021. You can see the complete history in
+There is a total of 369 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-08 08:44:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ed4f86ce9615c14c1d9e09cc255bee73c4026b49)</sub> | <sub>[ed4f86c](https://github.com/SimplioOfficial/simplio-mobile/commit/ed4f86ce9615c14c1d9e09cc255bee73c4026b49) [DEVELOPMENT-160] Fix header animation in walle... - jvrastil</sub> |
 | <sub>2021-10-08 07:04:43</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/5cf897a4384e49bef7477462674bc22fde6a6abf)</sub> | <sub>[5cf897a](https://github.com/ciripel/available_swaps_script/commit/5cf897a4384e49bef7477462674bc22fde6a6abf) Added 3 (3)[0] - ciripel</sub> |
 | <sub>2021-10-08 07:03:40</sub> | <sub>[[script_generated_files:master] 3 new commits](https://github.com/ciripel/script_generated_files/compare/86575b634fb4...0eab0aa361fe)</sub> | <sub>[1306e36](https://github.com/ciripel/script_generated_files/commit/1306e36e6c4e0a3bbf49ee59a26bf3965580b607) Updated at 08-10-2021 05:34 - ciripel<br>[7f98ac1](https://github.com/ciripel/script_generated_files/commit/7f98ac17ed42e9cc4eaf54e76e4e6172c41bdf3a) Updated at 08-10-2021 06:36 - ciripel<br>[0eab0aa](https://github.com/ciripel/script_generated_files/commit/0eab0aa361fe3e036230419e13abac95e26e8f11) Updated at 08-10-2021 07:03 - ciripel</sub> |
 | <sub>2021-10-08 06:58:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/15a1ac1311bf14162379f2b31bf9d9a607de0c04)</sub> | <sub>[15a1ac1](https://github.com/SimplioOfficial/simplio-mobile/commit/15a1ac1311bf14162379f2b31bf9d9a607de0c04) Added LRC, UBT, FEI - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 368 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-07 14:31:16</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/831bc62118e6290d663ced7d12f11269028e40e5)</sub> | <sub>[831bc62](https://github.com/SimplioOfficial/simplio-mobile/commit/831bc62118e6290d663ced7d12f11269028e40e5) increase versions - jvrastil</sub> |
 | <sub>2021-10-07 14:29:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bc70b7363245d81b24c0ddb0b66807c61f2f8440)</sub> | <sub>[bc70b73](https://github.com/SimplioOfficial/simplio-mobile/commit/bc70b7363245d81b24c0ddb0b66807c61f2f8440) [DEVELOPMENT-154] Display dev version - jvrastil</sub> |
 | <sub>2021-10-07 13:08:35</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2289415700b84a6d31632de7563d3dedeaf726db)</sub> | <sub>[2289415](https://github.com/SimplioOfficial/simplio-mobile/commit/2289415700b84a6d31632de7563d3dedeaf726db) [DEVELOPMENT-140] Add another page after the la... - jvrastil</sub> |
-| <sub>2021-10-07 09:34:21</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3c71ce611e213135d8319218314e2ef36d208d6d)</sub> | <sub>[3c71ce6](https://github.com/SimplioOfficial/simplio-mobile/commit/3c71ce611e213135d8319218314e2ef36d208d6d) [DEVELOPMENT-157] Fix top margin for different ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
