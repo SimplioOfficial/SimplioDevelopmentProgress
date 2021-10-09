@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 380 commits since 10/09/2021. You can see the complete history in
+There is a total of 381 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-09 02:31:29</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425)</sub> | <sub>[895a503](https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425) fix conflict - PitTxid</sub> |
 | <sub>2021-10-09 02:28:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/15ef1158a8d06bbd3913e2e0cf05b968ab3c62b2)</sub> | <sub>[15ef115](https://github.com/SimplioOfficial/simplio-mobile/commit/15ef1158a8d06bbd3913e2e0cf05b968ab3c62b2) update opacity for header - PitTxid</sub> |
 | <sub>2021-10-09 01:34:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/34b960fd0779671ed0a0262267b4e82435b54dd1)</sub> | <sub>[34b960f](https://github.com/SimplioOfficial/simplio-mobile/commit/34b960fd0779671ed0a0262267b4e82435b54dd1) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-09 01:31:35</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3b80ad4b76f891ff898b619009869ebd9c5eb28a)</sub> | <sub>[3b80ad4](https://github.com/SimplioOfficial/simplio-mobile/commit/3b80ad4b76f891ff898b619009869ebd9c5eb28a) increase version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 380 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-08 09:41:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b4e4e2dc1a7918bd997e72ad1d513053747a14ae)</sub> | <sub>[b4e4e2d](https://github.com/SimplioOfficial/simplio-mobile/commit/b4e4e2dc1a7918bd997e72ad1d513053747a14ae) [DEVELOPMENT-159] Automatically open keyboard i... - jvrastil</sub> |
 | <sub>2021-10-08 08:57:51</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5d261940878ca34ca18cad3532039a3fcff3c295)</sub> | <sub>[5d26194](https://github.com/SimplioOfficial/simplio-mobile/commit/5d261940878ca34ca18cad3532039a3fcff3c295) V0.1.0 (#50) - PitTxid</sub> |
 | <sub>2021-10-08 08:57:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 28 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/72ad53f756f3...0544557f3071)</sub> | <sub>[cd667ef](https://github.com/SimplioOfficial/simplio-mobile/commit/cd667efb9248112467347e4759fa67817265cc72) V0.1.0 (#48) - PitTxid<br>[f7bba69](https://github.com/SimplioOfficial/simplio-mobile/commit/f7bba69b0301ae94fbe354f9928ffd193d7dddde) merge squash with v0.1.0 - PitTxid<br>[89e22e8](https://github.com/SimplioOfficial/simplio-mobile/commit/89e22e889e59fc2ff22714c072359bab1410145c) fix undefine source wallet new2 - PitTxid<br>[c05ff8b](https://github.com/SimplioOfficial/simplio-mobile/commit/c05ff8b42ed40d0368eb800179678575b7689a10) [DEVELOPMENT-119] get fee from server side - PitTxid<br>[ec3cba9](https://github.com/SimplioOfficial/simplio-mobile/commit/ec3cba9986d7198c974f8f484b652df92c539edb) update env for fee program - PitTxid</sub> |
-| <sub>2021-10-08 08:53:48</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/72ad53f756f367727a86240a1a766cf13e148ee1)</sub> | <sub>[72ad53f](https://github.com/SimplioOfficial/simplio-mobile/commit/72ad53f756f367727a86240a1a766cf13e148ee1) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
