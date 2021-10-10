@@ -6854,5 +6854,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-10 13:59:05.635000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`896b6e0`](https://github.com/SimplioOfficial/simplio-mobile/commit/896b6e08fad9e30d08c72475eec70ca28d4d6384) increase version - PitTxid\n[`7d1e171`](https://github.com/SimplioOfficial/simplio-mobile/commit/7d1e171a86e00624f0d9a5abcb36cc76ebcd7175) disable send if address is invalid - PitTxid\n[`ed0ce95`](https://github.com/SimplioOfficial/simplio-mobile/commit/ed0ce9552ac1042949e293cd3337f82213f38071) [DEVELOPMENT-171] Return from send page goes to... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/15ef1158a8d0...ed0ce9552ac1"
+    }
   }
 ]
