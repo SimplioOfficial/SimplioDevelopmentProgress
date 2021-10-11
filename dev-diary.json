@@ -6890,5 +6890,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a92cd788d41bcdec30be50412f8d253f69d9f493"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 03:12:26.882000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`55c9f12`](https://github.com/SimplioOfficial/simplio-mobile/commit/55c9f12ca4442469eeae6dc1f2ede175332bf098) fix get last block web3 exception - PitTxid\n[`43419bd`](https://github.com/SimplioOfficial/simplio-mobile/commit/43419bda2d03a67f9ba372227552ea5d7b5b7ba0) [DEVELOPMENT-181][DEVELOPMENT-164 fix swap input - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a92cd788d41b...43419bda2d03"
+    }
   }
 ]
