@@ -6908,5 +6908,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a92cd788d41b...43419bda2d03"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 04:14:44.350000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0b231a9`](https://github.com/SimplioOfficial/simplio-mobile/commit/0b231a93b68681386dbcec50f592117a7d5ad2ba) [DEVELOPMENT-175] Get properties error on excha... - PitTxid\n[`bafafdf`](https://github.com/SimplioOfficial/simplio-mobile/commit/bafafdf66f71e555a0a31bf78e6c87ef27d8da21) do not display no utxo message - PitTxid\n[`efccb2e`](https://github.com/SimplioOfficial/simplio-mobile/commit/efccb2ecfbee720715287f3bfc0143302b2cf127) sort swap history and pending active - PitTxid\n[`1b3bc79`](https://github.com/SimplioOfficial/simplio-mobile/commit/1b3bc79eda1a0f7589d3f696ff4e10c56a113c2d) add open detail for finished transaction - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/43419bda2d03...1b3bc79eda1a"
+    }
   }
 ]
