@@ -6998,5 +6998,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6907b81cd7573d7825f9975f5607dea5da790954"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 10:56:36.424000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1ba3fcf`](https://github.com/SimplioOfficial/simplio-mobile/commit/1ba3fcfe187f7e6c93f7d31362ddad1637292482) correct last updated time in pending swap - PitTxid\n[`be81d1b`](https://github.com/SimplioOfficial/simplio-mobile/commit/be81d1b4c5c7f805f301422ab82cbe35ab06af4f) add copy saga id button - PitTxid\n[`974604b`](https://github.com/SimplioOfficial/simplio-mobile/commit/974604b572dde3b5f0481633a04ac462ce66534b) throw exception if sign tx error for web3 - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6907b81cd757...974604b572dd"
+    }
   }
 ]
