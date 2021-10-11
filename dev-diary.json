@@ -7106,5 +7106,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 14:26:35.409000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1160a0f`](https://github.com/SimplioOfficial/simplio-mobile/commit/1160a0f569d4dd63c65fd4a6545fb83d96abd7b3) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1160a0f569d4dd63c65fd4a6545fb83d96abd7b3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 14:28:25.677000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a4c5d55`](https://github.com/SimplioOfficial/simplio-mobile/commit/a4c5d559e62142f5a62e8f4584433871212c2396) [DEVELOPMENT-166] Wrong sender/receiver address... - PitTxid\n[`33670ac`](https://github.com/SimplioOfficial/simplio-mobile/commit/33670ac3eb21af366640df6cdd149b0d00d1832b) update scroll animation in wallet-overview page - PitTxid\n[`dd63a82`](https://github.com/SimplioOfficial/simplio-mobile/commit/dd63a82a6a3f2150beb36e13a6ebb5b46a0e7197) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`3b80ad4`](https://github.com/SimplioOfficial/simplio-mobile/commit/3b80ad4b76f891ff898b619009869ebd9c5eb28a) increase version - PitTxid\n[`15ef115`](https://github.com/SimplioOfficial/simplio-mobile/commit/15ef1158a8d06bbd3913e2e0cf05b968ab3c62b2) update opacity for header - PitTxid",
+      "title": "[simplio-mobile:testing] 29 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0a2b6bd58e72...cdc15c90309d"
+    }
   }
 ]
