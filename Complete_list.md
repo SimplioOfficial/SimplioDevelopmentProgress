@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-11 13:35:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb)</sub> | <sub>[e83578b](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb) [DEVELOPMENT-170] Remove search button from add... - jvrastil</sub> |
 | <sub>2021-10-11 12:53:56</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71)</sub> | <sub>[0045e30](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71) [DEVELOPMENT-182] Running app in the background - jvrastil</sub> |
 | <sub>2021-10-11 11:07:39</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08)</sub> | <sub>[0a2b6bd](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-11 11:06:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b1f7e8dc4380ed49a2c0442d6df3338d6b9cfbcf)</sub> | <sub>[b1f7e8d](https://github.com/SimplioOfficial/simplio-mobile/commit/b1f7e8dc4380ed49a2c0442d6df3338d6b9cfbcf) increase version - PitTxid</sub> |
