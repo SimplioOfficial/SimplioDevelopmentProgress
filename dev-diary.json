@@ -7088,5 +7088,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 14:22:06.676000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`982d5bc`](https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35) [DEVELOPMENT-138] Update texts in the application - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 394 commits since 10/09/2021. You can see the complete history in
+There is a total of 395 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-11 14:22:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35)</sub> | <sub>[982d5bc](https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35) [DEVELOPMENT-138] Update texts in the application - jvrastil</sub> |
 | <sub>2021-10-11 13:35:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb)</sub> | <sub>[e83578b](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb) [DEVELOPMENT-170] Remove search button from add... - jvrastil</sub> |
 | <sub>2021-10-11 12:53:56</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71)</sub> | <sub>[0045e30](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71) [DEVELOPMENT-182] Running app in the background - jvrastil</sub> |
 | <sub>2021-10-11 11:07:39</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08)</sub> | <sub>[0a2b6bd](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08) Squashed commit of the following: - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 394 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-11 06:55:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a410c5e5611...3245454d68a1)</sub> | <sub>[9f0a52e](https://github.com/SimplioOfficial/simplio-mobile/commit/9f0a52ef5d1af105f876d322237d6c1b963c6652) Update swap ordering by created time - PitTxid<br>[3245454](https://github.com/SimplioOfficial/simplio-mobile/commit/3245454d68a165cb57df6c0adff947dffcb69ad8) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-10-11 06:55:02</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3a410c5e5611705b2e1704cf74495f9b48acbc21)</sub> | <sub>[3a410c5](https://github.com/SimplioOfficial/simplio-mobile/commit/3a410c5e5611705b2e1704cf74495f9b48acbc21) Added ATOM - ciripel</sub> |
 | <sub>2021-10-11 06:22:08</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6c383380b9afb1918322a739885d9e87d065b909)</sub> | <sub>[6c38338](https://github.com/SimplioOfficial/simplio-mobile/commit/6c383380b9afb1918322a739885d9e87d065b909) [DEVELOPMENT-180] - Remove DASH wallet - ciripel</sub> |
-| <sub>2021-10-11 04:14:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/43419bda2d03...1b3bc79eda1a)</sub> | <sub>[0b231a9](https://github.com/SimplioOfficial/simplio-mobile/commit/0b231a93b68681386dbcec50f592117a7d5ad2ba) [DEVELOPMENT-175] Get properties error on excha... - PitTxid<br>[bafafdf](https://github.com/SimplioOfficial/simplio-mobile/commit/bafafdf66f71e555a0a31bf78e6c87ef27d8da21) do not display no utxo message - PitTxid<br>[efccb2e](https://github.com/SimplioOfficial/simplio-mobile/commit/efccb2ecfbee720715287f3bfc0143302b2cf127) sort swap history and pending active - PitTxid<br>[1b3bc79](https://github.com/SimplioOfficial/simplio-mobile/commit/1b3bc79eda1a0f7589d3f696ff4e10c56a113c2d) add open detail for finished transaction - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
