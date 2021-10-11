@@ -7052,5 +7052,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-11 12:53:56.427000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0045e30`](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71) [DEVELOPMENT-182] Running app in the background - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71"
+    }
   }
 ]
