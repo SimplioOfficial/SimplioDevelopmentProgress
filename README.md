@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 388 commits since 10/09/2021. You can see the complete history in
+There is a total of 389 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-11 10:26:50</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6907b81cd7573d7825f9975f5607dea5da790954)</sub> | <sub>[6907b81](https://github.com/SimplioOfficial/simplio-mobile/commit/6907b81cd7573d7825f9975f5607dea5da790954) correct destination address in swap-summary page - PitTxid</sub> |
 | <sub>2021-10-11 06:55:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a410c5e5611...3245454d68a1)</sub> | <sub>[9f0a52e](https://github.com/SimplioOfficial/simplio-mobile/commit/9f0a52ef5d1af105f876d322237d6c1b963c6652) Update swap ordering by created time - PitTxid<br>[3245454](https://github.com/SimplioOfficial/simplio-mobile/commit/3245454d68a165cb57df6c0adff947dffcb69ad8) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-10-11 06:55:02</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3a410c5e5611705b2e1704cf74495f9b48acbc21)</sub> | <sub>[3a410c5](https://github.com/SimplioOfficial/simplio-mobile/commit/3a410c5e5611705b2e1704cf74495f9b48acbc21) Added ATOM - ciripel</sub> |
 | <sub>2021-10-11 06:22:08</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6c383380b9afb1918322a739885d9e87d065b909)</sub> | <sub>[6c38338](https://github.com/SimplioOfficial/simplio-mobile/commit/6c383380b9afb1918322a739885d9e87d065b909) [DEVELOPMENT-180] - Remove DASH wallet - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 388 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-10 13:59:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/15ef1158a8d0...ed0ce9552ac1)</sub> | <sub>[896b6e0](https://github.com/SimplioOfficial/simplio-mobile/commit/896b6e08fad9e30d08c72475eec70ca28d4d6384) increase version - PitTxid<br>[7d1e171](https://github.com/SimplioOfficial/simplio-mobile/commit/7d1e171a86e00624f0d9a5abcb36cc76ebcd7175) disable send if address is invalid - PitTxid<br>[ed0ce95](https://github.com/SimplioOfficial/simplio-mobile/commit/ed0ce9552ac1042949e293cd3337f82213f38071) [DEVELOPMENT-171] Return from send page goes to... - PitTxid</sub> |
 | <sub>2021-10-09 02:31:29</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425)</sub> | <sub>[895a503](https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425) fix conflict - PitTxid</sub> |
 | <sub>2021-10-09 02:28:28</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/15ef1158a8d06bbd3913e2e0cf05b968ab3c62b2)</sub> | <sub>[15ef115](https://github.com/SimplioOfficial/simplio-mobile/commit/15ef1158a8d06bbd3913e2e0cf05b968ab3c62b2) update opacity for header - PitTxid</sub> |
-| <sub>2021-10-09 01:34:07</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/34b960fd0779671ed0a0262267b4e82435b54dd1)</sub> | <sub>[34b960f](https://github.com/SimplioOfficial/simplio-mobile/commit/34b960fd0779671ed0a0262267b4e82435b54dd1) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
