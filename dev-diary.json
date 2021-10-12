@@ -7322,5 +7322,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/4cac6fce63696a30fbe92e3e4957e9a39f921eea"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 13:37:53.625000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`32ec88f`](https://github.com/SimplioOfficial/simplio-mobile/commit/32ec88fa7ecea4eda903c2051a16100f3008b7c2) only clean data if source or destination wallet... - PitTxid\n[`793c518`](https://github.com/SimplioOfficial/simplio-mobile/commit/793c518c91db61e1b59b318a6d08ab277df6d15c) filter swap pair correctly - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e72396ecd21a...793c518c91db"
+    }
   }
 ]
