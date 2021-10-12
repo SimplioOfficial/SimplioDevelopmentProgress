@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 401 commits since 10/09/2021. You can see the complete history in
+There is a total of 402 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-12 06:38:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e11e779d5621f0a9238ce4e652f4b5aaf9ee2ab7)</sub> | <sub>[e11e779](https://github.com/SimplioOfficial/simplio-mobile/commit/e11e779d5621f0a9238ce4e652f4b5aaf9ee2ab7) filter swap list with source currency network - PitTxid</sub> |
 | <sub>2021-10-12 06:16:36</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/00103f9e9cad...2acdf3d405d5)</sub> | <sub>[b259996](https://github.com/SimplioOfficial/simplio-mobile/commit/b2599960097cf61c1c4a9675a2159147d3fab3c5) [DEVELOPMENT-172] Swap BUSD>BAND failed - PitTxid<br>[2acdf3d](https://github.com/SimplioOfficial/simplio-mobile/commit/2acdf3d405d5a64c2027d8aead2e29e743013267) update copy swap id text - PitTxid</sub> |
 | <sub>2021-10-12 04:21:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c646405104d7...00103f9e9cad)</sub> | <sub>[db660d2](https://github.com/SimplioOfficial/simplio-mobile/commit/db660d243ca62b06e068b4101c53da166dfeb04a) correct receiver address in swap-summary page - PitTxid<br>[31e0851](https://github.com/SimplioOfficial/simplio-mobile/commit/31e0851147c30ce2c5dca9232e4f7155cde7bae3) add backup server - PitTxid<br>[00103f9](https://github.com/SimplioOfficial/simplio-mobile/commit/00103f9e9cad79934ec57787d7a2fa382218e7e2) correct function when clicking on swap button - PitTxid</sub> |
 | <sub>2021-10-12 02:41:13</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c646405104d7e047358f3c9810ea636f7b6d4f24)</sub> | <sub>[c646405](https://github.com/SimplioOfficial/simplio-mobile/commit/c646405104d7e047358f3c9810ea636f7b6d4f24) [DEVELOPMENT-186] correct chain for binance on bsc - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 401 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-11 14:22:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35)</sub> | <sub>[982d5bc](https://github.com/SimplioOfficial/simplio-mobile/commit/982d5bcec5afb749ab6e11ac9885e4c032082f35) [DEVELOPMENT-138] Update texts in the application - jvrastil</sub> |
 | <sub>2021-10-11 13:35:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb)</sub> | <sub>[e83578b](https://github.com/SimplioOfficial/simplio-mobile/commit/e83578bad6ac84524487d60edcce0b0c5e6dc3fb) [DEVELOPMENT-170] Remove search button from add... - jvrastil</sub> |
 | <sub>2021-10-11 12:53:56</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71)</sub> | <sub>[0045e30](https://github.com/SimplioOfficial/simplio-mobile/commit/0045e30a393b39b7fa0fbbe25faaa393a443be71) [DEVELOPMENT-182] Running app in the background - jvrastil</sub> |
-| <sub>2021-10-11 11:07:39</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08)</sub> | <sub>[0a2b6bd](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
