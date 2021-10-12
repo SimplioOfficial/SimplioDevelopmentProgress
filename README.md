@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 409 commits since 10/09/2021. You can see the complete history in
+There is a total of 410 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-12 14:27:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/561cc475fa55f36425628637c4f099c0479c465b)</sub> | <sub>[561cc47](https://github.com/SimplioOfficial/simplio-mobile/commit/561cc475fa55f36425628637c4f099c0479c465b) [DEVELOPMENT-168] Update wallet overview animat... - jvrastil</sub> |
 | <sub>2021-10-12 13:54:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/30d1cdd9583d1e6112be9bc42349af527e6ca203)</sub> | <sub>[30d1cdd](https://github.com/SimplioOfficial/simplio-mobile/commit/30d1cdd9583d1e6112be9bc42349af527e6ca203) [DEVELOPMENT-152] Missing correct message on SO... - PitTxid</sub> |
 | <sub>2021-10-12 13:37:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e72396ecd21a...793c518c91db)</sub> | <sub>[32ec88f](https://github.com/SimplioOfficial/simplio-mobile/commit/32ec88fa7ecea4eda903c2051a16100f3008b7c2) only clean data if source or destination wallet... - PitTxid<br>[793c518](https://github.com/SimplioOfficial/simplio-mobile/commit/793c518c91db61e1b59b318a6d08ab277df6d15c) filter swap pair correctly - PitTxid</sub> |
 | <sub>2021-10-12 13:27:08</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/4cac6fce63696a30fbe92e3e4957e9a39f921eea)</sub> | <sub>[4cac6fc](https://github.com/ciripel/available_swaps_script/commit/4cac6fce63696a30fbe92e3e4957e9a39f921eea) Multiple updates - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 409 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-12 08:26:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e11e779d5621...e3ee2deb5933)</sub> | <sub>[94d54c0](https://github.com/SimplioOfficial/simplio-mobile/commit/94d54c0ab94547b7513541525047d671d3827dc8) update swap detail text - PitTxid<br>[e3ee2de](https://github.com/SimplioOfficial/simplio-mobile/commit/e3ee2deb593368344e8aa438f4b6224f3acae1dc) fix wrong swap amount - PitTxid</sub> |
 | <sub>2021-10-12 06:38:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e11e779d5621f0a9238ce4e652f4b5aaf9ee2ab7)</sub> | <sub>[e11e779](https://github.com/SimplioOfficial/simplio-mobile/commit/e11e779d5621f0a9238ce4e652f4b5aaf9ee2ab7) filter swap list with source currency network - PitTxid</sub> |
 | <sub>2021-10-12 06:16:36</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/00103f9e9cad...2acdf3d405d5)</sub> | <sub>[b259996](https://github.com/SimplioOfficial/simplio-mobile/commit/b2599960097cf61c1c4a9675a2159147d3fab3c5) [DEVELOPMENT-172] Swap BUSD>BAND failed - PitTxid<br>[2acdf3d](https://github.com/SimplioOfficial/simplio-mobile/commit/2acdf3d405d5a64c2027d8aead2e29e743013267) update copy swap id text - PitTxid</sub> |
-| <sub>2021-10-12 04:21:44</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c646405104d7...00103f9e9cad)</sub> | <sub>[db660d2](https://github.com/SimplioOfficial/simplio-mobile/commit/db660d243ca62b06e068b4101c53da166dfeb04a) correct receiver address in swap-summary page - PitTxid<br>[31e0851](https://github.com/SimplioOfficial/simplio-mobile/commit/31e0851147c30ce2c5dca9232e4f7155cde7bae3) add backup server - PitTxid<br>[00103f9](https://github.com/SimplioOfficial/simplio-mobile/commit/00103f9e9cad79934ec57787d7a2fa382218e7e2) correct function when clicking on swap button - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
