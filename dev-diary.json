@@ -7196,5 +7196,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c646405104d7...00103f9e9cad"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 06:16:36.377000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b259996`](https://github.com/SimplioOfficial/simplio-mobile/commit/b2599960097cf61c1c4a9675a2159147d3fab3c5) [DEVELOPMENT-172] Swap BUSD>BAND failed - PitTxid\n[`2acdf3d`](https://github.com/SimplioOfficial/simplio-mobile/commit/2acdf3d405d5a64c2027d8aead2e29e743013267) update copy swap id text - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/00103f9e9cad...2acdf3d405d5"
+    }
   }
 ]
