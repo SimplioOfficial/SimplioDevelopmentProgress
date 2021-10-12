@@ -7232,5 +7232,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e11e779d5621f0a9238ce4e652f4b5aaf9ee2ab7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 08:26:53.170000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`94d54c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/94d54c0ab94547b7513541525047d671d3827dc8) update swap detail text - PitTxid\n[`e3ee2de`](https://github.com/SimplioOfficial/simplio-mobile/commit/e3ee2deb593368344e8aa438f4b6224f3acae1dc) fix wrong swap amount - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e11e779d5621...e3ee2deb5933"
+    }
   }
 ]
