@@ -7484,5 +7484,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/74815c19e50b...9ed0c4c5f72f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 19:14:26.447000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`0818cee`](https://github.com/SimplioOfficial/simplio-mobile/commit/0818cee274de9118c9e54ce167088bd203df0119) Button color correction in dark mode - Juliana Souza",
+      "title": "[simplio-mobile:bug/button\\-dark\\-mode\\-184] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0818cee274de9118c9e54ce167088bd203df0119"
+    }
   }
 ]

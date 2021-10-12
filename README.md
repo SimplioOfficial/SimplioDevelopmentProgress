@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 416 commits since 10/09/2021. You can see the complete history in
+There is a total of 417 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-12 19:14:26</sub> | <sub>[[simplio-mobile:bug/button\-dark\-mode\-184] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0818cee274de9118c9e54ce167088bd203df0119)</sub> | <sub>[0818cee](https://github.com/SimplioOfficial/simplio-mobile/commit/0818cee274de9118c9e54ce167088bd203df0119) Button color correction in dark mode - Juliana Souza</sub> |
 | <sub>2021-10-12 18:53:50</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/74815c19e50b...9ed0c4c5f72f)</sub> | <sub>[f8d1b54](https://github.com/SimplioOfficial/simplio-mobile/commit/f8d1b5441d54c2bbcf8c6a423da933ccd57ffffa) Fix wallet overview animation - jvrastil<br>[be38b0d](https://github.com/SimplioOfficial/simplio-mobile/commit/be38b0d599e394e39e8e813ebc0521e68ba1d77f) increase versions - jvrastil<br>[9ed0c4c](https://github.com/SimplioOfficial/simplio-mobile/commit/9ed0c4c5f72f800595faee952d3c6fd39b18e1df) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-12 18:53:32</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/be38b0d599e394e39e8e813ebc0521e68ba1d77f)</sub> | <sub>[be38b0d](https://github.com/SimplioOfficial/simplio-mobile/commit/be38b0d599e394e39e8e813ebc0521e68ba1d77f) increase versions - jvrastil</sub> |
 | <sub>2021-10-12 18:53:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f8d1b5441d54c2bbcf8c6a423da933ccd57ffffa)</sub> | <sub>[f8d1b54](https://github.com/SimplioOfficial/simplio-mobile/commit/f8d1b5441d54c2bbcf8c6a423da933ccd57ffffa) Fix wallet overview animation - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 416 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-12 14:27:46</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/561cc475fa55f36425628637c4f099c0479c465b)</sub> | <sub>[561cc47](https://github.com/SimplioOfficial/simplio-mobile/commit/561cc475fa55f36425628637c4f099c0479c465b) [DEVELOPMENT-168] Update wallet overview animat... - jvrastil</sub> |
 | <sub>2021-10-12 13:54:58</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/30d1cdd9583d1e6112be9bc42349af527e6ca203)</sub> | <sub>[30d1cdd](https://github.com/SimplioOfficial/simplio-mobile/commit/30d1cdd9583d1e6112be9bc42349af527e6ca203) [DEVELOPMENT-152] Missing correct message on SO... - PitTxid</sub> |
 | <sub>2021-10-12 13:37:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e72396ecd21a...793c518c91db)</sub> | <sub>[32ec88f](https://github.com/SimplioOfficial/simplio-mobile/commit/32ec88fa7ecea4eda903c2051a16100f3008b7c2) only clean data if source or destination wallet... - PitTxid<br>[793c518](https://github.com/SimplioOfficial/simplio-mobile/commit/793c518c91db61e1b59b318a6d08ab277df6d15c) filter swap pair correctly - PitTxid</sub> |
-| <sub>2021-10-12 13:27:08</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/4cac6fce63696a30fbe92e3e4957e9a39f921eea)</sub> | <sub>[4cac6fc](https://github.com/ciripel/available_swaps_script/commit/4cac6fce63696a30fbe92e3e4957e9a39f921eea) Multiple updates - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
