@@ -7376,5 +7376,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/561cc475fa55f36425628637c4f099c0479c465b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 14:53:04.085000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b10f3c3`](https://github.com/SimplioOfficial/simplio-mobile/commit/b10f3c365e17acdbb24d7ad976591e20f6cd0742) [DEVELOPMENT-170] Change padding for address in... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b10f3c365e17acdbb24d7ad976591e20f6cd0742"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 14:53:26.585000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`25792c3`](https://github.com/SimplioOfficial/simplio-mobile/commit/25792c3ea3b65b4e75374a6d73a5674b17c6ec9c) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/25792c3ea3b65b4e75374a6d73a5674b17c6ec9c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-12 14:54:00.047000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e818582`](https://github.com/SimplioOfficial/simplio-mobile/commit/e81858228ff75bbc8a80ad68ef4971d193cabc9c) show maximum 8 decimals for balance - PitTxid\n[`026de68`](https://github.com/SimplioOfficial/simplio-mobile/commit/026de6818b56fd28985ac9993b4a09dc13814f03) fix platform swap - PitTxid\n[`b916174`](https://github.com/SimplioOfficial/simplio-mobile/commit/b916174fd4c04027d2a74472681c2603d45d15f2) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`c646405`](https://github.com/SimplioOfficial/simplio-mobile/commit/c646405104d7e047358f3c9810ea636f7b6d4f24) [DEVELOPMENT-186] correct chain for binance on bsc - PitTxid\n[`db660d2`](https://github.com/SimplioOfficial/simplio-mobile/commit/db660d243ca62b06e068b4101c53da166dfeb04a) correct receiver address in swap-summary page - PitTxid",
+      "title": "[simplio-mobile:testing] 21 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/cdc15c90309d...74815c19e50b"
+    }
   }
 ]
