@@ -8006,5 +8006,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/f455033004701fe4b4309067fb83ce0b6304ea74"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 13:58:35.693000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5d26194`](https://github.com/SimplioOfficial/simplio-mobile/commit/5d261940878ca34ca18cad3532039a3fcff3c295) V0.1.0 (#50) - PitTxid\n[`5256d45`](https://github.com/SimplioOfficial/simplio-mobile/commit/5256d45b49e03a7ebb7bd30f32ad45e2b15946b7) Merge branch 'v0.1.0' into testing - jvrastil\n[`34b960f`](https://github.com/SimplioOfficial/simplio-mobile/commit/34b960fd0779671ed0a0262267b4e82435b54dd1) Squashed commit of the following: - PitTxid\n[`895a503`](https://github.com/SimplioOfficial/simplio-mobile/commit/895a5030e0bfe5b17650ad3715c09ad2fc767425) fix conflict - PitTxid\n[`0a2b6bd`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a2b6bd58e7242a7b1f92e43fb86559bb20e1a08) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 19 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e77562ab4c93...a4d0dd059f0e"
+    }
   }
 ]
