@@ -7718,5 +7718,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/36d478a5010f5cb070f0229ed707b283d1aa999b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 08:25:18.970000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f70371b`](https://github.com/SimplioOfficial/simplio-mobile/commit/f70371ba7d44d93a61a1cf0e844aa89f7f9f979e) filter swap pair with destination network - PitTxid\n[`e321350`](https://github.com/SimplioOfficial/simplio-mobile/commit/e32135053903b4174827aa0d277482cbec991689) increase version - PitTxid",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/745a27431cee...e32135053903"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 08:28:50.731000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a5164b`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a5164bcf342ed778f54978bc978c8e9e686f478) Fix logout button position for iphones without ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0a5164bcf342ed778f54978bc978c8e9e686f478"
+    }
   }
 ]
