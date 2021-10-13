@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 449 commits since 10/09/2021. You can see the complete history in
+There is a total of 450 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-13 15:15:46</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/458f35da07872be98a0073af58677891db41a743)</sub> | <sub>[458f35d](https://github.com/SimplioOfficial/simplio-go/commit/458f35da07872be98a0073af58677891db41a743) updating build config - image - storkandstars</sub> |
 | <sub>2021-10-13 15:12:42</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/68c914b72a2f0dd3b87b2e04d8bd312b63e6a2de)</sub> | <sub>[68c914b](https://github.com/SimplioOfficial/simplio-go/commit/68c914b72a2f0dd3b87b2e04d8bd312b63e6a2de) updating build config - docker - storkandstars</sub> |
 | <sub>2021-10-13 14:32:24</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/9d0372976f3f41be1adc5a4a93cadbabf16734d9)</sub> | <sub>[9d03729](https://github.com/SimplioOfficial/simplio-go/commit/9d0372976f3f41be1adc5a4a93cadbabf16734d9) updating build config - error - storkandstars</sub> |
 | <sub>2021-10-13 14:30:35</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fa51984e002c0b6378b1efb38551204cf448d698)</sub> | <sub>[fa51984](https://github.com/SimplioOfficial/simplio-go/commit/fa51984e002c0b6378b1efb38551204cf448d698) updating build config - build - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 449 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-13 13:27:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/97c640de7596ecc99a79b7770739cc874a83eee1)</sub> | <sub>[97c640d](https://github.com/SimplioOfficial/simplio-go/commit/97c640de7596ecc99a79b7770739cc874a83eee1) updating build config - images - storkandstars</sub> |
 | <sub>2021-10-13 13:17:11</sub> | <sub>[[simplio-go:dev] 31 new commits](https://github.com/SimplioOfficial/simplio-go/compare/413e06ad2fdc...da75045f111f)</sub> | <sub>[8a716dd](https://github.com/SimplioOfficial/simplio-go/commit/8a716ddfb623eeac28047023976fdbd8718977c8) tools prep - storkandstars<br>[eed7cf4](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897) file structure update - storkandstars<br>[4e030ef](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02) adding wrap error - storkandstars<br>[caf7203](https://github.com/SimplioOfficial/simplio-go/commit/caf72033a0d77b80f35e0d0ad09715de6592469c) removing custom error status - storkandstars<br>[f88d970](https://github.com/SimplioOfficial/simplio-go/commit/f88d9708c793736337ff6286694e07183beee7cc) removing shared entries - storkandstars</sub> |
 | <sub>2021-10-13 13:14:18</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/82e015de4cfb0c0eebb105494f7b54c52f665f6d)</sub> | <sub>[82e015d](https://github.com/SimplioOfficial/simplio-go/commit/82e015de4cfb0c0eebb105494f7b54c52f665f6d) image builders - storkandstars</sub> |
-| <sub>2021-10-13 13:13:50</sub> | <sub>[[simplio-go:wip/settings\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/8cc5f21f7cbaf59ba32ad2e532c8e76c71f946bd)</sub> | <sub>[8cc5f21](https://github.com/SimplioOfficial/simplio-go/commit/8cc5f21f7cbaf59ba32ad2e532c8e76c71f946bd) updating amount format - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
