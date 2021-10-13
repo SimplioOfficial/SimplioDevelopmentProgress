@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 431 commits since 10/09/2021. You can see the complete history in
+There is a total of 432 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-13 08:30:07</sub> | <sub>[[simplio-mobile:v0\.1\.0\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/77583078d157c5fdd2cacab131ec3a58ca227914)</sub> | <sub>[7758307](https://github.com/SimplioOfficial/simplio-mobile/commit/77583078d157c5fdd2cacab131ec3a58ca227914) xsg- renamed to sio- - ciripel</sub> |
 | <sub>2021-10-13 08:28:50</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a5164bcf342ed778f54978bc978c8e9e686f478)</sub> | <sub>[0a5164b](https://github.com/SimplioOfficial/simplio-mobile/commit/0a5164bcf342ed778f54978bc978c8e9e686f478) Fix logout button position for iphones without ... - jvrastil</sub> |
 | <sub>2021-10-13 08:25:18</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/745a27431cee...e32135053903)</sub> | <sub>[f70371b](https://github.com/SimplioOfficial/simplio-mobile/commit/f70371ba7d44d93a61a1cf0e844aa89f7f9f979e) filter swap pair with destination network - PitTxid<br>[e321350](https://github.com/SimplioOfficial/simplio-mobile/commit/e32135053903b4174827aa0d277482cbec991689) increase version - PitTxid</sub> |
 | <sub>2021-10-13 07:57:59</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/36d478a5010f5cb070f0229ed707b283d1aa999b)</sub> | <sub>[36d478a](https://github.com/SimplioOfficial/simplio-mobile/commit/36d478a5010f5cb070f0229ed707b283d1aa999b) fixed favico.svg file - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 431 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-13 06:47:51</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb2eb3581e502e5e1037ce2606a5029c2f97bfe)</sub> | <sub>[0bb2eb3](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb2eb3581e502e5e1037ce2606a5029c2f97bfe) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-13 06:39:16</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bd25d29b418d1321794d87678b665abd1fcf4f)</sub> | <sub>[a5bd25d](https://github.com/SimplioOfficial/simplio-mobile/commit/a5bd25d29b418d1321794d87678b665abd1fcf4f) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-13 06:34:22</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4ee5804c36a2...8d0977df2d10)</sub> | <sub>[10eb496](https://github.com/SimplioOfficial/simplio-mobile/commit/10eb4961cc149744dc3f6091e265b53df23a9a21) update form field - PitTxid<br>[8d0977d](https://github.com/SimplioOfficial/simplio-mobile/commit/8d0977df2d102fca01d0c7e0018fc854b4411c51) increase version - PitTxid</sub> |
-| <sub>2021-10-13 04:22:42</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5f6b23ba655e...4ee5804c36a2)</sub> | <sub>[66b74d9](https://github.com/SimplioOfficial/simplio-mobile/commit/66b74d98adc9534eaec0114e40e1faa0e5aef956) disable force overscroll - PitTxid<br>[4ee5804](https://github.com/SimplioOfficial/simplio-mobile/commit/4ee5804c36a289791841ffe54a82316ca1288c03) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
