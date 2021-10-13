@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 444 commits since 10/09/2021. You can see the complete history in
+There is a total of 445 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-13 13:37:04</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f455033004701fe4b4309067fb83ce0b6304ea74)</sub> | <sub>[f455033](https://github.com/SimplioOfficial/simplio-go/commit/f455033004701fe4b4309067fb83ce0b6304ea74) updating build config - dir - storkandstars</sub> |
 | <sub>2021-10-13 13:31:21</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0f4166f95d8053a32d55872b5c49f7856258c43b)</sub> | <sub>[0f4166f](https://github.com/SimplioOfficial/simplio-go/commit/0f4166f95d8053a32d55872b5c49f7856258c43b) updating build config - path - storkandstars</sub> |
 | <sub>2021-10-13 13:27:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/97c640de7596ecc99a79b7770739cc874a83eee1)</sub> | <sub>[97c640d](https://github.com/SimplioOfficial/simplio-go/commit/97c640de7596ecc99a79b7770739cc874a83eee1) updating build config - images - storkandstars</sub> |
 | <sub>2021-10-13 13:17:11</sub> | <sub>[[simplio-go:dev] 31 new commits](https://github.com/SimplioOfficial/simplio-go/compare/413e06ad2fdc...da75045f111f)</sub> | <sub>[8a716dd](https://github.com/SimplioOfficial/simplio-go/commit/8a716ddfb623eeac28047023976fdbd8718977c8) tools prep - storkandstars<br>[eed7cf4](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897) file structure update - storkandstars<br>[4e030ef](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02) adding wrap error - storkandstars<br>[caf7203](https://github.com/SimplioOfficial/simplio-go/commit/caf72033a0d77b80f35e0d0ad09715de6592469c) removing custom error status - storkandstars<br>[f88d970](https://github.com/SimplioOfficial/simplio-go/commit/f88d9708c793736337ff6286694e07183beee7cc) removing shared entries - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 444 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-13 10:05:33</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e77562ab4c936a3e1bc354a2b1c47ab153475de0)</sub> | <sub>[e77562a](https://github.com/SimplioOfficial/simplio-mobile/commit/e77562ab4c936a3e1bc354a2b1c47ab153475de0) increase versions - jvrastil</sub> |
 | <sub>2021-10-13 10:03:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/060f733b40c92723f866670a5141879c8316e270)</sub> | <sub>[060f733](https://github.com/SimplioOfficial/simplio-mobile/commit/060f733b40c92723f866670a5141879c8316e270) increase versions - jvrastil</sub> |
 | <sub>2021-10-13 10:02:35</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d4b94254dd5ef42c9fa77b7ea0ae78e5e8438)</sub> | <sub>[ec8d4b9](https://github.com/SimplioOfficial/simplio-mobile/commit/ec8d4b94254dd5ef42c9fa77b7ea0ae78e5e8438) [DEVELOPMENT-168] Increase padding in wallet ov... - jvrastil</sub> |
-| <sub>2021-10-13 09:11:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/00242265be3e18df0ffb418b9da1867d22c9b662)</sub> | <sub>[0024226](https://github.com/SimplioOfficial/simplio-mobile/commit/00242265be3e18df0ffb418b9da1867d22c9b662) [DEVELOPMENT-138] Update localization strings - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
