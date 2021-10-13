@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 434 commits since 10/09/2021. You can see the complete history in
+There is a total of 435 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-13 09:11:07</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/00242265be3e18df0ffb418b9da1867d22c9b662)</sub> | <sub>[0024226](https://github.com/SimplioOfficial/simplio-mobile/commit/00242265be3e18df0ffb418b9da1867d22c9b662) [DEVELOPMENT-138] Update localization strings - jvrastil</sub> |
 | <sub>2021-10-13 08:48:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/16ba99c148da10c25a86a21691c882666d27fd4e)</sub> | <sub>[16ba99c](https://github.com/SimplioOfficial/simplio-mobile/commit/16ba99c148da10c25a86a21691c882666d27fd4e) [DEVELOPMENT-184] Fix get started button color ... - jvrastil</sub> |
 | <sub>2021-10-13 08:37:36</sub> | <sub>[[simplio-mobile:v0\.1\.0\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/155c9a93f2686fe70e659f45d17e73dfbfd45abd)</sub> | <sub>[155c9a9](https://github.com/SimplioOfficial/simplio-mobile/commit/155c9a93f2686fe70e659f45d17e73dfbfd45abd) renamed multimple components - ciripel</sub> |
 | <sub>2021-10-13 08:30:07</sub> | <sub>[[simplio-mobile:v0\.1\.0\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/77583078d157c5fdd2cacab131ec3a58ca227914)</sub> | <sub>[7758307](https://github.com/SimplioOfficial/simplio-mobile/commit/77583078d157c5fdd2cacab131ec3a58ca227914) xsg- renamed to sio- - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 434 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-13 07:52:59</sub> | <sub>[[simplio-mobile:v0\.1\.0\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/539898110c656b7c53c4f83f3600ea97af156b56)</sub> | <sub>[5398981](https://github.com/SimplioOfficial/simplio-mobile/commit/539898110c656b7c53c4f83f3600ea97af156b56) corrected/cleared old icons - ciripel</sub> |
 | <sub>2021-10-13 07:40:42</sub> | <sub>[[simplio-mobile:testing] 7 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0bb2eb3581e5...745a27431cee)</sub> | <sub>[10eb496](https://github.com/SimplioOfficial/simplio-mobile/commit/10eb4961cc149744dc3f6091e265b53df23a9a21) update form field - PitTxid<br>[8d0977d](https://github.com/SimplioOfficial/simplio-mobile/commit/8d0977df2d102fca01d0c7e0018fc854b4411c51) increase version - PitTxid<br>[08f7e93](https://github.com/SimplioOfficial/simplio-mobile/commit/08f7e93dd4316f0f4e2cc7e19594682baaef03ba) test disable bounce - PitTxid<br>[02744f5](https://github.com/SimplioOfficial/simplio-mobile/commit/02744f5f06a6ae62373110b7e032a71e2eb1eda1) increase version - PitTxid<br>[08fd1f6](https://github.com/SimplioOfficial/simplio-mobile/commit/08fd1f6aa48c20d0acb32a520ce7dbf711171f95) fix infinitive loop - PitTxid</sub> |
 | <sub>2021-10-13 06:47:57</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8d0977df2d10...02744f5f06a6)</sub> | <sub>[08f7e93](https://github.com/SimplioOfficial/simplio-mobile/commit/08f7e93dd4316f0f4e2cc7e19594682baaef03ba) test disable bounce - PitTxid<br>[02744f5](https://github.com/SimplioOfficial/simplio-mobile/commit/02744f5f06a6ae62373110b7e032a71e2eb1eda1) increase version - PitTxid</sub> |
-| <sub>2021-10-13 06:47:51</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb2eb3581e502e5e1037ce2606a5029c2f97bfe)</sub> | <sub>[0bb2eb3](https://github.com/SimplioOfficial/simplio-mobile/commit/0bb2eb3581e502e5e1037ce2606a5029c2f97bfe) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
