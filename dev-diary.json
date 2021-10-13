@@ -8186,5 +8186,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/c2713bc09201dfae1948a2b7669565d744a43ed2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 23:16:54.144000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`071caac`](https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a) Listening to defined port - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a"
+    }
   }
 ]
