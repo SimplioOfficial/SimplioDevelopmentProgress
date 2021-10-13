@@ -7664,5 +7664,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8d0977df2d10...02744f5f06a6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 07:40:42.383000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`10eb496`](https://github.com/SimplioOfficial/simplio-mobile/commit/10eb4961cc149744dc3f6091e265b53df23a9a21) update form field - PitTxid\n[`8d0977d`](https://github.com/SimplioOfficial/simplio-mobile/commit/8d0977df2d102fca01d0c7e0018fc854b4411c51) increase version - PitTxid\n[`08f7e93`](https://github.com/SimplioOfficial/simplio-mobile/commit/08f7e93dd4316f0f4e2cc7e19594682baaef03ba) test disable bounce - PitTxid\n[`02744f5`](https://github.com/SimplioOfficial/simplio-mobile/commit/02744f5f06a6ae62373110b7e032a71e2eb1eda1) increase version - PitTxid\n[`08fd1f6`](https://github.com/SimplioOfficial/simplio-mobile/commit/08fd1f6aa48c20d0acb32a520ce7dbf711171f95) fix infinitive loop - PitTxid",
+      "title": "[simplio-mobile:testing] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0bb2eb3581e5...745a27431cee"
+    }
   }
 ]
