@@ -7592,5 +7592,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5f6b23ba655e...4ee5804c36a2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 06:34:22.135000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`10eb496`](https://github.com/SimplioOfficial/simplio-mobile/commit/10eb4961cc149744dc3f6091e265b53df23a9a21) update form field - PitTxid\n[`8d0977d`](https://github.com/SimplioOfficial/simplio-mobile/commit/8d0977df2d102fca01d0c7e0018fc854b4411c51) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4ee5804c36a2...8d0977df2d10"
+    }
   }
 ]
