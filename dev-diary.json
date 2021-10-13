@@ -7538,5 +7538,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5f6b23ba655e5f1b3cc158a3e4db273431b411be"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 02:20:08.930000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e152926`](https://github.com/SimplioOfficial/simplio-mobile/commit/e1529263bc98f68b202b26b6d1e73fcd4c4cd70e) Squashed commit of the following: - PitTxid\n[`fe8b1a5`](https://github.com/SimplioOfficial/simplio-mobile/commit/fe8b1a517399b9deaa63a87c6feed1a71338382c) Merge branch 'testing' of https://github.com/Si... - PitTxid",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9ed0c4c5f72f...fe8b1a517399"
+    }
   }
 ]
