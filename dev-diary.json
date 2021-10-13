@@ -7898,5 +7898,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e32135053903...9491d51ed76f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 13:13:50.665000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`8cc5f21`](https://github.com/SimplioOfficial/simplio-go/commit/8cc5f21f7cbaf59ba32ad2e532c8e76c71f946bd) updating amount format - storkandstars",
+      "title": "[simplio-go:wip/settings\\-env] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/8cc5f21f7cbaf59ba32ad2e532c8e76c71f946bd"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-13 13:14:18.326000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`82e015d`](https://github.com/SimplioOfficial/simplio-go/commit/82e015de4cfb0c0eebb105494f7b54c52f665f6d) image builders - storkandstars",
+      "title": "[simplio-go:wip/settings\\-env] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/82e015de4cfb0c0eebb105494f7b54c52f665f6d"
+    }
   }
 ]
