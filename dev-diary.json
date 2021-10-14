@@ -8636,5 +8636,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-14 17:57:21.175000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6006a73`](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0) updated USDP contract address for BEP20 - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0"
+    }
   }
 ]
