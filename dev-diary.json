@@ -8330,5 +8330,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ccbc61581741d98436302c7e9e1a4b011c11463b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-14 08:23:11.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1e80b3b`](https://github.com/SimplioOfficial/simplio-mobile/commit/1e80b3bf0580e15cb2df87a0915a4f10c8c9314a) [DEVELOPMENT-195] Fix biometrics issue in Android - jvrastil\n[`21296d2`](https://github.com/SimplioOfficial/simplio-mobile/commit/21296d22c4b523b2ce546cc947691668d08e5ade) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ccbc61581741...21296d22c4b5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-14 08:23:30.202000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ccbc615`](https://github.com/SimplioOfficial/simplio-mobile/commit/ccbc61581741d98436302c7e9e1a4b011c11463b) [DEVELOPMENT-202] Missing list of swaps in prog... - PitTxid\n[`1e80b3b`](https://github.com/SimplioOfficial/simplio-mobile/commit/1e80b3bf0580e15cb2df87a0915a4f10c8c9314a) [DEVELOPMENT-195] Fix biometrics issue in Android - jvrastil\n[`21296d2`](https://github.com/SimplioOfficial/simplio-mobile/commit/21296d22c4b523b2ce546cc947691668d08e5ade) increase versions - jvrastil\n[`3a8ea27`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a8ea2763e5c7837993dab67e8fcdddb0cc761f5) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c584203483cb...3a8ea2763e5c"
+    }
   }
 ]
