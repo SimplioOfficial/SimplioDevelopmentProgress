@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 468 commits since 10/09/2021. You can see the complete history in
+There is a total of 469 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-14 11:30:11</sub> | <sub>[[simplio-mobile:testing] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a8ea2763e5c...6fd192559338)</sub> | <sub>[e638281](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368) [DEVELOPMENT-204] Fix incorrect login label pos... - jvrastil<br>[7ca2d67](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211) [DEVELOPMENT-196] Use final version of Terms an... - jvrastil<br>[00eebb6](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5) increase versions - jvrastil<br>[6fd1925](https://github.com/SimplioOfficial/simplio-mobile/commit/6fd1925593386ea16c960deaae5a659cb50251c1) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-14 11:29:41</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5)</sub> | <sub>[00eebb6](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5) increase versions - jvrastil</sub> |
 | <sub>2021-10-14 11:27:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211)</sub> | <sub>[7ca2d67](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211) [DEVELOPMENT-196] Use final version of Terms an... - jvrastil</sub> |
 | <sub>2021-10-14 08:52:45</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368)</sub> | <sub>[e638281](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368) [DEVELOPMENT-204] Fix incorrect login label pos... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 468 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-14 07:34:32</sub> | <sub>[[simplio-mobile:dev\-195] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e7d0d00f28100b7acb1be18b5548096fdfb045de)</sub> | <sub>[e7d0d00](https://github.com/SimplioOfficial/simplio-mobile/commit/e7d0d00f28100b7acb1be18b5548096fdfb045de) [DEVELOPMENT-195] Fix biometrics issue in Android - jvrastil</sub> |
 | <sub>2021-10-14 02:15:22</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0351547474ae19df1dc465b6894a1ff73f1c75ca)</sub> | <sub>[0351547](https://github.com/SimplioOfficial/simplio-go/commit/0351547474ae19df1dc465b6894a1ff73f1c75ca) Connection name - storkandstars</sub> |
 | <sub>2021-10-14 01:11:43</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/3f02155e0b869da4fc16e427adae130a4878e8c1)</sub> | <sub>[3f02155](https://github.com/SimplioOfficial/simplio-go/commit/3f02155e0b869da4fc16e427adae130a4878e8c1) Debugging sql error - storkandstars</sub> |
-| <sub>2021-10-14 00:35:56</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b)</sub> | <sub>[7261896](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b) Debugging gcp - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
