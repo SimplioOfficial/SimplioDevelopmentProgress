@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-14 00:35:56</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b)</sub> | <sub>[7261896](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b) Debugging gcp - storkandstars</sub> |
 | <sub>2021-10-14 00:10:03</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/68d35f5c1f0fce1780a82f3a153e72e7c47aaf6b)</sub> | <sub>[68d35f5](https://github.com/SimplioOfficial/simplio-go/commit/68d35f5c1f0fce1780a82f3a153e72e7c47aaf6b) listening on all net interfaces - storkandstars</sub> |
 | <sub>2021-10-13 23:56:26</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/5d5022dcb7d60be3c65107d307cb78eedfbf5d58)</sub> | <sub>[5d5022d](https://github.com/SimplioOfficial/simplio-go/commit/5d5022dcb7d60be3c65107d307cb78eedfbf5d58) Updating db connection - storkandstars</sub> |
 | <sub>2021-10-13 23:16:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a)</sub> | <sub>[071caac](https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a) Listening to defined port - storkandstars</sub> |
