@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 475 commits since 10/09/2021. You can see the complete history in
+There is a total of 476 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-14 16:27:43</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/8fa3002628f706633eea30a624beb072bbd25b9b)</sub> | <sub>[8fa3002](https://github.com/SimplioOfficial/simplio-go/commit/8fa3002628f706633eea30a624beb072bbd25b9b) topic id as a constant - storkandstars</sub> |
 | <sub>2021-10-14 16:04:50</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/15e02816ccfe97238a6cded08c246e7c43a3d4d5)</sub> | <sub>[15e0281](https://github.com/SimplioOfficial/simplio-go/commit/15e02816ccfe97238a6cded08c246e7c43a3d4d5) db connection string over dns - storkandstars</sub> |
 | <sub>2021-10-14 13:42:17</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/971b2af02092ef72ebcbad21fcc51a2979b24202)</sub> | <sub>[971b2af](https://github.com/SimplioOfficial/simplio-mobile/commit/971b2af02092ef72ebcbad21fcc51a2979b24202) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-14 13:41:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b34e9deb20b67a197f9adeaebde06a3c2f6fdbe0)</sub> | <sub>[b34e9de](https://github.com/SimplioOfficial/simplio-mobile/commit/b34e9deb20b67a197f9adeaebde06a3c2f6fdbe0) increase version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 475 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-14 11:30:11</sub> | <sub>[[simplio-mobile:testing] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a8ea2763e5c...6fd192559338)</sub> | <sub>[e638281](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368) [DEVELOPMENT-204] Fix incorrect login label pos... - jvrastil<br>[7ca2d67](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211) [DEVELOPMENT-196] Use final version of Terms an... - jvrastil<br>[00eebb6](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5) increase versions - jvrastil<br>[6fd1925](https://github.com/SimplioOfficial/simplio-mobile/commit/6fd1925593386ea16c960deaae5a659cb50251c1) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-14 11:29:41</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5)</sub> | <sub>[00eebb6](https://github.com/SimplioOfficial/simplio-mobile/commit/00eebb6492a5640dd005834639d29e21d5b81bb5) increase versions - jvrastil</sub> |
 | <sub>2021-10-14 11:27:38</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211)</sub> | <sub>[7ca2d67](https://github.com/SimplioOfficial/simplio-mobile/commit/7ca2d67e947ac7527846fa135cbb479c9a896211) [DEVELOPMENT-196] Use final version of Terms an... - jvrastil</sub> |
-| <sub>2021-10-14 08:52:45</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368)</sub> | <sub>[e638281](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368) [DEVELOPMENT-204] Fix incorrect login label pos... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
