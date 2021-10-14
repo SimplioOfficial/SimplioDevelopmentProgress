@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 465 commits since 10/09/2021. You can see the complete history in
+There is a total of 466 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-14 08:52:45</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368)</sub> | <sub>[e638281](https://github.com/SimplioOfficial/simplio-mobile/commit/e638281b18470820b2f8b118f3c4d93434b0b368) [DEVELOPMENT-204] Fix incorrect login label pos... - jvrastil</sub> |
 | <sub>2021-10-14 08:23:30</sub> | <sub>[[simplio-mobile:testing] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c584203483cb...3a8ea2763e5c)</sub> | <sub>[ccbc615](https://github.com/SimplioOfficial/simplio-mobile/commit/ccbc61581741d98436302c7e9e1a4b011c11463b) [DEVELOPMENT-202] Missing list of swaps in prog... - PitTxid<br>[1e80b3b](https://github.com/SimplioOfficial/simplio-mobile/commit/1e80b3bf0580e15cb2df87a0915a4f10c8c9314a) [DEVELOPMENT-195] Fix biometrics issue in Android - jvrastil<br>[21296d2](https://github.com/SimplioOfficial/simplio-mobile/commit/21296d22c4b523b2ce546cc947691668d08e5ade) increase versions - jvrastil<br>[3a8ea27](https://github.com/SimplioOfficial/simplio-mobile/commit/3a8ea2763e5c7837993dab67e8fcdddb0cc761f5) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-10-14 08:23:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ccbc61581741...21296d22c4b5)</sub> | <sub>[1e80b3b](https://github.com/SimplioOfficial/simplio-mobile/commit/1e80b3bf0580e15cb2df87a0915a4f10c8c9314a) [DEVELOPMENT-195] Fix biometrics issue in Android - jvrastil<br>[21296d2](https://github.com/SimplioOfficial/simplio-mobile/commit/21296d22c4b523b2ce546cc947691668d08e5ade) increase versions - jvrastil</sub> |
 | <sub>2021-10-14 07:54:21</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ccbc61581741d98436302c7e9e1a4b011c11463b)</sub> | <sub>[ccbc615](https://github.com/SimplioOfficial/simplio-mobile/commit/ccbc61581741d98436302c7e9e1a4b011c11463b) [DEVELOPMENT-202] Missing list of swaps in prog... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 465 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-14 00:35:56</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b)</sub> | <sub>[7261896](https://github.com/SimplioOfficial/simplio-go/commit/726189657f48d36d52bd944fcd426d674fcfa50b) Debugging gcp - storkandstars</sub> |
 | <sub>2021-10-14 00:10:03</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/68d35f5c1f0fce1780a82f3a153e72e7c47aaf6b)</sub> | <sub>[68d35f5](https://github.com/SimplioOfficial/simplio-go/commit/68d35f5c1f0fce1780a82f3a153e72e7c47aaf6b) listening on all net interfaces - storkandstars</sub> |
 | <sub>2021-10-13 23:56:26</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/5d5022dcb7d60be3c65107d307cb78eedfbf5d58)</sub> | <sub>[5d5022d](https://github.com/SimplioOfficial/simplio-go/commit/5d5022dcb7d60be3c65107d307cb78eedfbf5d58) Updating db connection - storkandstars</sub> |
-| <sub>2021-10-13 23:16:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a)</sub> | <sub>[071caac](https://github.com/SimplioOfficial/simplio-go/commit/071caac629545dc2ae2b97f531be74684f5bb30a) Listening to defined port - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
