@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 502 commits since 10/09/2021. You can see the complete history in
+There is a total of 503 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 13:21:40</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/90b3b5a6182a...623263925600)</sub> | <sub>[84f4818](https://github.com/SimplioOfficial/simplio-mobile/commit/84f481858e842f9bddfa25ce1f74fd9017125d34) update ios splash screen - PitTxid<br>[6232639](https://github.com/SimplioOfficial/simplio-mobile/commit/623263925600037758dec784c2540408dc508c90) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-10-15 12:43:57</sub> | <sub>[[simplio-mobile:testing] 19 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7201ae964a0f...5a540b0a8e38)</sub> | <sub>[d4d87eb](https://github.com/SimplioOfficial/simplio-mobile/commit/d4d87eb902acb6a9ddb853e05fc2dbae744a2cf5) Added CUSTOM token icon - ciripel<br>[8107ade](https://github.com/SimplioOfficial/simplio-mobile/commit/8107adef2823f3c54069d7f320c661b5c1e1a663) add retry for txsolana - PitTxid<br>[7dee9f5](https://github.com/SimplioOfficial/simplio-mobile/commit/7dee9f58472975d361b17a1ed09fc529f1178767) update animation on overview page - PitTxid<br>[fd7a8bc](https://github.com/SimplioOfficial/simplio-mobile/commit/fd7a8bc7026dd87aa96bfaf1536520b2a1497264) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[ce6ff35](https://github.com/SimplioOfficial/simplio-mobile/commit/ce6ff3540b35b5b13b9ce20458cd05521fe81ce7) check null in acc.lvl settings page - PitTxid</sub> |
 | <sub>2021-10-15 12:42:56</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/90b3b5a6182abde4932bf3c8258db33dbe40bd86)</sub> | <sub>[90b3b5a](https://github.com/SimplioOfficial/simplio-mobile/commit/90b3b5a6182abde4932bf3c8258db33dbe40bd86) increase versions - jvrastil</sub> |
 | <sub>2021-10-15 12:08:23</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/23f02fb6df4b16be94422d6b875fefac97987056)</sub> | <sub>[23f02fb](https://github.com/SimplioOfficial/simplio-mobile/commit/23f02fb6df4b16be94422d6b875fefac97987056) [DEVELOPMENT-204] Fix login label positions whe... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 502 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-15 09:48:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52)</sub> | <sub>[176c889](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52) Update background image - jvrastil</sub> |
 | <sub>2021-10-15 09:13:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e)</sub> | <sub>[9a7b05d](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e) Update initial screen - jvrastil</sub> |
 | <sub>2021-10-15 09:07:26</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029)</sub> | <sub>[89047f2](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-10-15 09:03:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601)</sub> | <sub>[d484795](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
