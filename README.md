@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 514 commits since 10/09/2021. You can see the complete history in
+There is a total of 515 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 19:49:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/efe56011b4b20f15e5a8948fcd3978dcb21771a2)</sub> | <sub>[efe5601](https://github.com/SimplioOfficial/simplio-go/commit/efe56011b4b20f15e5a8948fcd3978dcb21771a2) updating build - storkandstars</sub> |
 | <sub>2021-10-15 19:39:21</sub> | <sub>[[simplio-go:testing] 5 new commits](https://github.com/SimplioOfficial/simplio-go/compare/2ed035081755...33a0825e13c0)</sub> | <sub>[cf96822](https://github.com/SimplioOfficial/simplio-go/commit/cf96822e8a426332fa3b3d74256856ca8d83dbad) typo - storkandstars<br>[2e67a2c](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171) typo - storkandstars<br>[bd2cf04](https://github.com/SimplioOfficial/simplio-go/commit/bd2cf045e4c696f20d484d126d68c5f11ca4c202) updated migration file - storkandstars<br>[b6478bd](https://github.com/SimplioOfficial/simplio-go/commit/b6478bdd5eda48f220b0b9bbc281ee2c3ccc1504) updating build - storkandstars<br>[33a0825](https://github.com/SimplioOfficial/simplio-go/commit/33a0825e13c07eb192f0453025f346332ef1edb4) Merge pull request #6 from SimplioOfficial/dev - storkandstars</sub> |
 | <sub>2021-10-15 19:31:21</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b6478bdd5eda48f220b0b9bbc281ee2c3ccc1504)</sub> | <sub>[b6478bd](https://github.com/SimplioOfficial/simplio-go/commit/b6478bdd5eda48f220b0b9bbc281ee2c3ccc1504) updating build - storkandstars</sub> |
 | <sub>2021-10-15 19:30:56</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/bd2cf045e4c696f20d484d126d68c5f11ca4c202)</sub> | <sub>[bd2cf04](https://github.com/SimplioOfficial/simplio-go/commit/bd2cf045e4c696f20d484d126d68c5f11ca4c202) updated migration file - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 514 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-15 14:05:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/601de6104d32b0882bc833f1d1ecc5fb8979089f)</sub> | <sub>[601de61](https://github.com/SimplioOfficial/simplio-mobile/commit/601de6104d32b0882bc833f1d1ecc5fb8979089f) increase versions - jvrastil</sub> |
 | <sub>2021-10-15 14:01:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d59276f637c1983587b420ea7481cdcb91f71562)</sub> | <sub>[d59276f](https://github.com/SimplioOfficial/simplio-mobile/commit/d59276f637c1983587b420ea7481cdcb91f71562) [DEVELOPMENT-89] Open email client with button ... - jvrastil</sub> |
 | <sub>2021-10-15 13:58:54</sub> | <sub>[[simplio-mobile:dev\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a)</sub> | <sub>[987ffa5](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a) [DEVELOPMENT-89] Open email client with button ... - jvrastil</sub> |
-| <sub>2021-10-15 13:47:52</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3a44bd84073aaf846a8f9bcc8d971ebfd9a0c7)</sub> | <sub>[ac3a44b](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3a44bd84073aaf846a8f9bcc8d971ebfd9a0c7) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
