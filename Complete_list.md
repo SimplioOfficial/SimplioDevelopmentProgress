@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 10:07:47</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6aa67464eab43c4f35d9b8eb69e0247b856f4264)</sub> | <sub>[6aa6746](https://github.com/SimplioOfficial/simplio-mobile/commit/6aa67464eab43c4f35d9b8eb69e0247b856f4264) [DEVELOPMENT-211] Fix text overflow in swaps page - jvrastil</sub> |
 | <sub>2021-10-15 09:48:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52)</sub> | <sub>[176c889](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52) Update background image - jvrastil</sub> |
 | <sub>2021-10-15 09:13:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e)</sub> | <sub>[9a7b05d](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e) Update initial screen - jvrastil</sub> |
 | <sub>2021-10-15 09:07:26</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029)</sub> | <sub>[89047f2](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029) Squashed commit of the following: - PitTxid</sub> |
