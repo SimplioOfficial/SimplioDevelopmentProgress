@@ -9230,5 +9230,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/b6478bdd5eda48f220b0b9bbc281ee2c3ccc1504"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-15 19:39:21.447000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`cf96822`](https://github.com/SimplioOfficial/simplio-go/commit/cf96822e8a426332fa3b3d74256856ca8d83dbad) typo - storkandstars\n[`2e67a2c`](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171) typo - storkandstars\n[`bd2cf04`](https://github.com/SimplioOfficial/simplio-go/commit/bd2cf045e4c696f20d484d126d68c5f11ca4c202) updated migration file - storkandstars\n[`b6478bd`](https://github.com/SimplioOfficial/simplio-go/commit/b6478bdd5eda48f220b0b9bbc281ee2c3ccc1504) updating build - storkandstars\n[`33a0825`](https://github.com/SimplioOfficial/simplio-go/commit/33a0825e13c07eb192f0453025f346332ef1edb4) Merge pull request #6 from SimplioOfficial/dev - storkandstars",
+      "title": "[simplio-go:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/2ed035081755...33a0825e13c0"
+    }
   }
 ]
