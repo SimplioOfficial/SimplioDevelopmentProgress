@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 482 commits since 10/09/2021. You can see the complete history in
+There is a total of 483 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 03:07:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 5 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/6006a735b4b9...a623e12156c5)</sub> | <sub>[c2d6f3f](https://github.com/SimplioOfficial/simplio-mobile/commit/c2d6f3f1f5689e4879deb0691aaf38f548bfacb2) update animation - PitTxid<br>[9843bb0](https://github.com/SimplioOfficial/simplio-mobile/commit/9843bb018ae7baa8f21d5b82694f544743b7b021) [DEVELOPMENT-209] Different time format - PitTxid<br>[f6740e7](https://github.com/SimplioOfficial/simplio-mobile/commit/f6740e7fbfce6aba985495338dac3bf48391a99e) increase version - PitTxid<br>[4b40741](https://github.com/SimplioOfficial/simplio-mobile/commit/4b4074114870a846c027a4f3bb652be36636e3e0) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[a623e12](https://github.com/SimplioOfficial/simplio-mobile/commit/a623e12156c58facd1f2ad5d1798a3e693b3cecc) increase page size to 20 - PitTxid</sub> |
 | <sub>2021-10-15 03:01:18</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b4ff0d85cb6d9ad28287e9e8c2fb3ae2cfb3e70)</sub> | <sub>[5b4ff0d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b4ff0d85cb6d9ad28287e9e8c2fb3ae2cfb3e70) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-14 17:57:21</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0)</sub> | <sub>[6006a73](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0) updated USDP contract address for BEP20 - ciripel</sub> |
 | <sub>2021-10-14 17:54:36</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171)</sub> | <sub>[2e67a2c](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171) typo - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 482 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-14 16:27:43</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/8fa3002628f706633eea30a624beb072bbd25b9b)</sub> | <sub>[8fa3002](https://github.com/SimplioOfficial/simplio-go/commit/8fa3002628f706633eea30a624beb072bbd25b9b) topic id as a constant - storkandstars</sub> |
 | <sub>2021-10-14 16:04:50</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/15e02816ccfe97238a6cded08c246e7c43a3d4d5)</sub> | <sub>[15e0281](https://github.com/SimplioOfficial/simplio-go/commit/15e02816ccfe97238a6cded08c246e7c43a3d4d5) db connection string over dns - storkandstars</sub> |
 | <sub>2021-10-14 13:42:17</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/971b2af02092ef72ebcbad21fcc51a2979b24202)</sub> | <sub>[971b2af](https://github.com/SimplioOfficial/simplio-mobile/commit/971b2af02092ef72ebcbad21fcc51a2979b24202) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-10-14 13:41:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b34e9deb20b67a197f9adeaebde06a3c2f6fdbe0)</sub> | <sub>[b34e9de](https://github.com/SimplioOfficial/simplio-mobile/commit/b34e9deb20b67a197f9adeaebde06a3c2f6fdbe0) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
