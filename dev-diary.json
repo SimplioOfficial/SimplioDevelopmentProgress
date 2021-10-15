@@ -8978,5 +8978,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7201ae964a0f181d35b256941f6cd0d6100de329"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-15 12:08:23.168000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`23f02fb`](https://github.com/SimplioOfficial/simplio-mobile/commit/23f02fb6df4b16be94422d6b875fefac97987056) [DEVELOPMENT-204] Fix login label positions whe... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/23f02fb6df4b16be94422d6b875fefac97987056"
+    }
   }
 ]
