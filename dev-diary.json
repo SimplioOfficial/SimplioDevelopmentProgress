@@ -8708,5 +8708,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a623e12156c5...ae517f3b2d97"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-15 04:19:47.673000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`cab2151`](https://github.com/SimplioOfficial/simplio-mobile/commit/cab2151ff0abefa5fa4af9a9cb3d5083e9df3419) [DEVELOPMENT-206] get swap pair with currency n... - PitTxid\n[`8c680c5`](https://github.com/SimplioOfficial/simplio-mobile/commit/8c680c5892889e0a2891d057d0673e867355aefd) update swap page behavior, update swap detail f... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ae517f3b2d97...8c680c589288"
+    }
   }
 ]
