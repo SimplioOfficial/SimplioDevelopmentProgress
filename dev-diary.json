@@ -8942,5 +8942,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6aa67464eab43c4f35d9b8eb69e0247b856f4264"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-15 10:59:43.630000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`501bd12`](https://github.com/SimplioOfficial/simplio-mobile/commit/501bd12b7ab63060baeeb9168f99edca33a1af33) update ios icons - PitTxid\n[`ff0bf34`](https://github.com/SimplioOfficial/simplio-mobile/commit/ff0bf3466f069a4847586a89a625679056eb1976) update android icons - PitTxid\n[`eb348c3`](https://github.com/SimplioOfficial/simplio-mobile/commit/eb348c3e24993a2dca52d33578095f15a42a1342) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`f54b8be`](https://github.com/SimplioOfficial/simplio-mobile/commit/f54b8be0b037cbccdca4a1532c8f3b214fd037a1) update icon - PitTxid\n[`772b296`](https://github.com/SimplioOfficial/simplio-mobile/commit/772b2964bd22f7f016a1bbb04ca99cbd124f8b9f) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6aa67464eab4...2b11fc226b9c"
+    }
   }
 ]
