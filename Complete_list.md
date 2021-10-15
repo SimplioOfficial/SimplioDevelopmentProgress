@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 09:07:26</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029)</sub> | <sub>[89047f2](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-15 09:03:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601)</sub> | <sub>[d484795](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601) increase version - PitTxid</sub> |
 | <sub>2021-10-15 09:00:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7458e395cd35ceb3b538d30f2a399c5955690fa9)</sub> | <sub>[7458e39](https://github.com/SimplioOfficial/simplio-mobile/commit/7458e395cd35ceb3b538d30f2a399c5955690fa9) [DEVELOPMENT-208] add message when max button c... - PitTxid</sub> |
 | <sub>2021-10-15 08:24:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ce6ff3540b35b5b13b9ce20458cd05521fe81ce7)</sub> | <sub>[ce6ff35](https://github.com/SimplioOfficial/simplio-mobile/commit/ce6ff3540b35b5b13b9ce20458cd05521fe81ce7) check null in acc.lvl settings page - PitTxid</sub> |

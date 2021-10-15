@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 493 commits since 10/09/2021. You can see the complete history in
+There is a total of 494 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 09:07:26</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029)</sub> | <sub>[89047f2](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-15 09:03:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601)</sub> | <sub>[d484795](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601) increase version - PitTxid</sub> |
 | <sub>2021-10-15 09:00:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7458e395cd35ceb3b538d30f2a399c5955690fa9)</sub> | <sub>[7458e39](https://github.com/SimplioOfficial/simplio-mobile/commit/7458e395cd35ceb3b538d30f2a399c5955690fa9) [DEVELOPMENT-208] add message when max button c... - PitTxid</sub> |
 | <sub>2021-10-15 08:24:26</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ce6ff3540b35b5b13b9ce20458cd05521fe81ce7)</sub> | <sub>[ce6ff35](https://github.com/SimplioOfficial/simplio-mobile/commit/ce6ff3540b35b5b13b9ce20458cd05521fe81ce7) check null in acc.lvl settings page - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 493 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-15 06:07:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/45ec283a69b5ba15c3943ddbfb00bd770bc2bfdb)</sub> | <sub>[45ec283](https://github.com/SimplioOfficial/simplio-mobile/commit/45ec283a69b5ba15c3943ddbfb00bd770bc2bfdb) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-15 06:06:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8c680c589288...a355b0d3439f)</sub> | <sub>[91bebc6](https://github.com/SimplioOfficial/simplio-mobile/commit/91bebc6907529708063220712ced77ad407ff3c7) update scroll effect #2 - PitTxid<br>[a355b0d](https://github.com/SimplioOfficial/simplio-mobile/commit/a355b0d3439ffd99afc3bb9396c8b7957b606007) increase version - PitTxid</sub> |
 | <sub>2021-10-15 04:19:47</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ae517f3b2d97...8c680c589288)</sub> | <sub>[cab2151](https://github.com/SimplioOfficial/simplio-mobile/commit/cab2151ff0abefa5fa4af9a9cb3d5083e9df3419) [DEVELOPMENT-206] get swap pair with currency n... - PitTxid<br>[8c680c5](https://github.com/SimplioOfficial/simplio-mobile/commit/8c680c5892889e0a2891d057d0673e867355aefd) update swap page behavior, update swap detail f... - PitTxid</sub> |
-| <sub>2021-10-15 03:31:23</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a623e12156c5...ae517f3b2d97)</sub> | <sub>[dc19635](https://github.com/SimplioOfficial/simplio-mobile/commit/dc19635eb1cece2edfa313cc6b87f138eecf212d) refresh wallets after adding new - PitTxid<br>[ae517f3](https://github.com/SimplioOfficial/simplio-mobile/commit/ae517f3b2d973a16c6bad3b7fe0853ac369f00a4) [DEVELOPMENT-202] force update pending list - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
