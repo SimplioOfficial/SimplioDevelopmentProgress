@@ -9086,5 +9086,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac3a44bd84073aaf846a8f9bcc8d971ebfd9a0c7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-15 13:58:54.701000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`987ffa5`](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a) [DEVELOPMENT-89] Open email client with button ... - jvrastil",
+      "title": "[simplio-mobile:dev\\-89] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a"
+    }
   }
 ]
