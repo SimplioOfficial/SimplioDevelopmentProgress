@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 03:01:18</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b4ff0d85cb6d9ad28287e9e8c2fb3ae2cfb3e70)</sub> | <sub>[5b4ff0d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b4ff0d85cb6d9ad28287e9e8c2fb3ae2cfb3e70) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-14 17:57:21</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0)</sub> | <sub>[6006a73](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0) updated USDP contract address for BEP20 - ciripel</sub> |
 | <sub>2021-10-14 17:54:36</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171)</sub> | <sub>[2e67a2c](https://github.com/SimplioOfficial/simplio-go/commit/2e67a2c77d2c28b764acfa9edf2947a9ae6fd171) typo - storkandstars</sub> |
 | <sub>2021-10-14 17:53:26</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/cf96822e8a426332fa3b3d74256856ca8d83dbad)</sub> | <sub>[cf96822](https://github.com/SimplioOfficial/simplio-go/commit/cf96822e8a426332fa3b3d74256856ca8d83dbad) typo - storkandstars</sub> |
