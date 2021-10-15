@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 495 commits since 10/09/2021. You can see the complete history in
+There is a total of 496 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 09:48:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52)</sub> | <sub>[176c889](https://github.com/SimplioOfficial/simplio-mobile/commit/176c88965095af5c9edc5bcb78db24406ac58b52) Update background image - jvrastil</sub> |
 | <sub>2021-10-15 09:13:05</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e)</sub> | <sub>[9a7b05d](https://github.com/SimplioOfficial/simplio-mobile/commit/9a7b05db4c42f1cf5a81be1abe87a417f64e206e) Update initial screen - jvrastil</sub> |
 | <sub>2021-10-15 09:07:26</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029)</sub> | <sub>[89047f2](https://github.com/SimplioOfficial/simplio-mobile/commit/89047f23731f62045f6f909cc1da06a5f7ea4029) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-15 09:03:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601)</sub> | <sub>[d484795](https://github.com/SimplioOfficial/simplio-mobile/commit/d48479528251bb8d31ce2e41413d4a1baaab7601) increase version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 495 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-15 07:39:27</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d4d87eb902acb6a9ddb853e05fc2dbae744a2cf5)</sub> | <sub>[d4d87eb](https://github.com/SimplioOfficial/simplio-mobile/commit/d4d87eb902acb6a9ddb853e05fc2dbae744a2cf5) Added CUSTOM token icon - ciripel</sub> |
 | <sub>2021-10-15 06:43:30</sub> | <sub>[[simplio-mobile:testing] 18 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/45ec283a69b5...1351b7db4782)</sub> | <sub>[507b801](https://github.com/SimplioOfficial/simplio-mobile/commit/507b801be929ea179a1a2f9b690c9bc758ee7766) add calculating screen when clicking on max button - PitTxid<br>[62cc638](https://github.com/SimplioOfficial/simplio-mobile/commit/62cc6382a398259d5ffb016e756c98ba8773a926) show loading in swap page when fetching data - PitTxid<br>[a56ea53](https://github.com/SimplioOfficial/simplio-mobile/commit/a56ea5324564eeca56bd5e27f4f1fea948628496) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[b34e9de](https://github.com/SimplioOfficial/simplio-mobile/commit/b34e9deb20b67a197f9adeaebde06a3c2f6fdbe0) increase version - PitTxid<br>[6006a73](https://github.com/SimplioOfficial/simplio-mobile/commit/6006a735b4b9d7d4203ea04e6d0d73883a0c6ef0) updated USDP contract address for BEP20 - ciripel</sub> |
 | <sub>2021-10-15 06:07:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/45ec283a69b5ba15c3943ddbfb00bd770bc2bfdb)</sub> | <sub>[45ec283](https://github.com/SimplioOfficial/simplio-mobile/commit/45ec283a69b5ba15c3943ddbfb00bd770bc2bfdb) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-10-15 06:06:54</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8c680c589288...a355b0d3439f)</sub> | <sub>[91bebc6](https://github.com/SimplioOfficial/simplio-mobile/commit/91bebc6907529708063220712ced77ad407ff3c7) update scroll effect #2 - PitTxid<br>[a355b0d](https://github.com/SimplioOfficial/simplio-mobile/commit/a355b0d3439ffd99afc3bb9396c8b7957b606007) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
