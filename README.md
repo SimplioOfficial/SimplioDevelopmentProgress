@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 543 commits since 10/09/2021. You can see the complete history in
+There is a total of 544 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-15 22:14:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f1b3a04d0418e3c31049f8f6f42d80734c0e5556)</sub> | <sub>[f1b3a04](https://github.com/SimplioOfficial/simplio-go/commit/f1b3a04d0418e3c31049f8f6f42d80734c0e5556) wip debugging - storkandstars</sub> |
 | <sub>2021-10-15 22:02:48</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ce69cbc7c6025acca58ef0a1e990c982d9b45e85)</sub> | <sub>[ce69cbc](https://github.com/SimplioOfficial/simplio-go/commit/ce69cbc7c6025acca58ef0a1e990c982d9b45e85) wip debugging - storkandstars</sub> |
 | <sub>2021-10-15 21:59:04</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/42c0a170db9d3059d1702bae1016162c8c417212)</sub> | <sub>[42c0a17](https://github.com/SimplioOfficial/simplio-go/commit/42c0a170db9d3059d1702bae1016162c8c417212) wip debugging - storkandstars</sub> |
 | <sub>2021-10-15 21:58:09</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c942978e8e9b69e82beca2b03c4a990ed5b7a85c)</sub> | <sub>[c942978](https://github.com/SimplioOfficial/simplio-go/commit/c942978e8e9b69e82beca2b03c4a990ed5b7a85c) wip debugging - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 543 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-15 21:48:45</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/714d5723e89ac7c4e9076073831b2bf60abf80e8)</sub> | <sub>[714d572](https://github.com/SimplioOfficial/simplio-go/commit/714d5723e89ac7c4e9076073831b2bf60abf80e8) wip debugging - storkandstars</sub> |
 | <sub>2021-10-15 21:45:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/cc697a54faa763c59132d33dca41106110a16d84)</sub> | <sub>[cc697a5](https://github.com/SimplioOfficial/simplio-go/commit/cc697a54faa763c59132d33dca41106110a16d84) wip debugging - storkandstars</sub> |
 | <sub>2021-10-15 21:44:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a50ea3e234b9d3c0ee001e01f5b18f6de073832e)</sub> | <sub>[a50ea3e](https://github.com/SimplioOfficial/simplio-go/commit/a50ea3e234b9d3c0ee001e01f5b18f6de073832e) wip debugging - storkandstars</sub> |
-| <sub>2021-10-15 21:41:34</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/7c82a5d01365d0011e343dd4e2f421fd242b159e)</sub> | <sub>[7c82a5d](https://github.com/SimplioOfficial/simplio-go/commit/7c82a5d01365d0011e343dd4e2f421fd242b159e) wip debugging - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
