@@ -9878,5 +9878,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/8bcb0671ea32c02c4bab4fe6ce3a13a6a1bd8f2c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 00:28:12.290000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`2a58bd8`](https://github.com/SimplioOfficial/simplio-go/commit/2a58bd898ec8a8e9e096364d4d0d52025bc1cba7) wip debugging - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/2a58bd898ec8a8e9e096364d4d0d52025bc1cba7"
+    }
   }
 ]
