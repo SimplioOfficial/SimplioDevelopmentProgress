@@ -9932,5 +9932,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/399da99faeff2f26a1bcb77031c72fdde0dcd8ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 07:45:31.095000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`842aca8`](https://github.com/SimplioOfficial/simplio-mobile/commit/842aca8999914a27d193503007c2f67ffd5da566) update about page - PitTxid\n[`de67351`](https://github.com/SimplioOfficial/simplio-mobile/commit/de67351304f591b9f86e3efc8a5453922f54356a) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`302e843`](https://github.com/SimplioOfficial/simplio-mobile/commit/302e84344a725371d8e4a30a3f27f85ceb1802e4) display ticker in header overview page - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c8dc92a43732...302e84344a72"
+    }
   }
 ]
