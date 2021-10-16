@@ -10112,5 +10112,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/bcf367a1d5a4b3fbb46621a38dd77385a7aef6b7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 14:23:47.420000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`dbaba5a`](https://github.com/SimplioOfficial/simplio-mobile/commit/dbaba5ad68405d68d0c6674cb72ba540ec8c1c7a) update error message in linked email page - PitTxid\n[`3fc1e0e`](https://github.com/SimplioOfficial/simplio-mobile/commit/3fc1e0e8129a6f62c07e231f45d0a3ffe6f97567) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/1915f74661b0...3fc1e0e8129a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 14:24:49.298000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`25f2c0c`](https://github.com/SimplioOfficial/simplio-mobile/commit/25f2c0cbcd37d992a08caa2ac697524eaf3139bf) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/25f2c0cbcd37d992a08caa2ac697524eaf3139bf"
+    }
   }
 ]
