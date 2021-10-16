@@ -10202,5 +10202,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 17:22:41.439000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fcbbb28`](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d) update prod build command - PitTxid",
+      "title": "[simplio-mobile:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-16 17:23:52.442000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b917eec`](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc) update prod build command - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc"
+    }
   }
 ]
