@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 569 commits since 10/09/2021. You can see the complete history in
+There is a total of 570 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-17 22:23:44</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0953c4613a3f7371dd26933e6c4494764e148688)</sub> | <sub>[0953c46](https://github.com/SimplioOfficial/simplio-go/commit/0953c4613a3f7371dd26933e6c4494764e148688) wip debugging - storkandstars</sub> |
 | <sub>2021-10-16 17:23:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc)</sub> | <sub>[b917eec](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc) update prod build command - PitTxid</sub> |
 | <sub>2021-10-16 17:22:41</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d)</sub> | <sub>[fcbbb28](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d) update prod build command - PitTxid</sub> |
 | <sub>2021-10-16 17:14:28</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69)</sub> | <sub>[5c1c25d](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69) First release candidate - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 569 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-16 14:23:47</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/1915f74661b0...3fc1e0e8129a)</sub> | <sub>[dbaba5a](https://github.com/SimplioOfficial/simplio-mobile/commit/dbaba5ad68405d68d0c6674cb72ba540ec8c1c7a) update error message in linked email page - PitTxid<br>[3fc1e0e](https://github.com/SimplioOfficial/simplio-mobile/commit/3fc1e0e8129a6f62c07e231f45d0a3ffe6f97567) increase version - PitTxid</sub> |
 | <sub>2021-10-16 14:05:12</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bcf367a1d5a4b3fbb46621a38dd77385a7aef6b7)</sub> | <sub>[bcf367a](https://github.com/SimplioOfficial/simplio-mobile/commit/bcf367a1d5a4b3fbb46621a38dd77385a7aef6b7) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-16 14:04:45</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1915f74661b00392c4e7905027406d9655d0273d)</sub> | <sub>[1915f74](https://github.com/SimplioOfficial/simplio-mobile/commit/1915f74661b00392c4e7905027406d9655d0273d) correct unlink function name - PitTxid</sub> |
-| <sub>2021-10-16 14:01:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1a76de2fff098c55362c1901241ae25ecfa5396a)</sub> | <sub>[1a76de2](https://github.com/SimplioOfficial/simplio-mobile/commit/1a76de2fff098c55362c1901241ae25ecfa5396a) update unknown link status #3 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
