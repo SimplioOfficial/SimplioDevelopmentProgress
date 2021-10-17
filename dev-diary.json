@@ -10310,5 +10310,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/91f61ed531dcf7c131afded2c07f80623898b2bb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-17 23:03:15.091000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d3a12ab`](https://github.com/SimplioOfficial/simplio-go/commit/d3a12aba4045d1578bb5251eff2205a9e9c4df92) adding listener in subscriber - storkandstars\n[`dd9d079`](https://github.com/SimplioOfficial/simplio-go/commit/dd9d079ba109ff7d087c69fa0f3ce96730718934) adding subscriber in build - storkandstars",
+      "title": "[simplio-go:dev] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/91f61ed531dc...dd9d079ba109"
+    }
   }
 ]

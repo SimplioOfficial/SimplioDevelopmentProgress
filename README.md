@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 573 commits since 10/09/2021. You can see the complete history in
+There is a total of 574 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-17 23:03:15</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/91f61ed531dc...dd9d079ba109)</sub> | <sub>[d3a12ab](https://github.com/SimplioOfficial/simplio-go/commit/d3a12aba4045d1578bb5251eff2205a9e9c4df92) adding listener in subscriber - storkandstars<br>[dd9d079](https://github.com/SimplioOfficial/simplio-go/commit/dd9d079ba109ff7d087c69fa0f3ce96730718934) adding subscriber in build - storkandstars</sub> |
 | <sub>2021-10-17 22:53:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/91f61ed531dcf7c131afded2c07f80623898b2bb)</sub> | <sub>[91f61ed](https://github.com/SimplioOfficial/simplio-go/commit/91f61ed531dcf7c131afded2c07f80623898b2bb) adding env variable to api - storkandstars</sub> |
 | <sub>2021-10-17 22:52:02</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fd4e0b69f9f9d3749b7ac4a2beba266c7f9c3ffc)</sub> | <sub>[fd4e0b6](https://github.com/SimplioOfficial/simplio-go/commit/fd4e0b69f9f9d3749b7ac4a2beba266c7f9c3ffc) updating build - storkandstars</sub> |
 | <sub>2021-10-17 22:51:40</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ce7a947a36d20a32cd3b96c5cffe991cb46c0562)</sub> | <sub>[ce7a947](https://github.com/SimplioOfficial/simplio-go/commit/ce7a947a36d20a32cd3b96c5cffe991cb46c0562) wip debugging - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 573 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-16 17:14:28</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69)</sub> | <sub>[5c1c25d](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69) First release candidate - PitTxid</sub> |
 | <sub>2021-10-16 17:04:07</sub> | <sub>[[simplio-mobile:testing] 15 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/25f2c0cbcd37...aaac8d48c36f)</sub> | <sub>[34139e5](https://github.com/SimplioOfficial/simplio-mobile/commit/34139e567cbff14aa0d0d8ac3ddf30efa1fd0a12) add error status to login fail message - PitTxid<br>[d523d37](https://github.com/SimplioOfficial/simplio-mobile/commit/d523d37753c12c63b46c5ec632bf18fcc7dbe470) add get link account for address and unlink add... - PitTxid<br>[e7066bd](https://github.com/SimplioOfficial/simplio-mobile/commit/e7066bd01960f38067c72f24eb8396bbb3142bb9) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[d0e2b80](https://github.com/SimplioOfficial/simplio-mobile/commit/d0e2b801c096df204e4a8266888fe6bedfee4644) update unknown link status - PitTxid<br>[369c348](https://github.com/SimplioOfficial/simplio-mobile/commit/369c34805c79308738148b71308c9354b4aa23a0) update prod env - PitTxid</sub> |
 | <sub>2021-10-16 17:02:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3fc1e0e8129a...c9304edcff45)</sub> | <sub>[157ac77](https://github.com/SimplioOfficial/simplio-mobile/commit/157ac7782e7f1fa958795d2c0faf96e3af88c8d4) update env - PitTxid<br>[c9304ed](https://github.com/SimplioOfficial/simplio-mobile/commit/c9304edcff45df5fd8950167b13ea1e2aa0294d8) increase version - PitTxid</sub> |
-| <sub>2021-10-16 14:24:49</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/25f2c0cbcd37d992a08caa2ac697524eaf3139bf)</sub> | <sub>[25f2c0c](https://github.com/SimplioOfficial/simplio-mobile/commit/25f2c0cbcd37d992a08caa2ac697524eaf3139bf) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
