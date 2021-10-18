@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 577 commits since 10/09/2021. You can see the complete history in
+There is a total of 579 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-18 06:02:47</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aaac8d48c36f...e1ce474db7a1)</sub> | <sub>[02408f6](https://github.com/SimplioOfficial/simplio-mobile/commit/02408f60b8ef0ca534d2ee446577d0bda48efb7a) Squashed commit of the following: - PitTxid<br>[e1ce474](https://github.com/SimplioOfficial/simplio-mobile/commit/e1ce474db7a10ebf054705163f0e5b1de56d6c29) Merge branch 'testing' of https://github.com/Si... - PitTxid</sub> |
+| <sub>2021-10-18 06:00:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/85caa751cc5c...2469b3963c4a)</sub> | <sub>[a8312b2](https://github.com/SimplioOfficial/simplio-mobile/commit/a8312b2b33fead45b99a1e67c0d513a8622781af) increase version - PitTxid<br>[2469b39](https://github.com/SimplioOfficial/simplio-mobile/commit/2469b3963c4a07e0cb11a4dd2522a77ff7ff70c5) add connection issue message when adding address - PitTxid</sub> |
 | <sub>2021-10-18 04:32:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ad8a917b46a6...85caa751cc5c)</sub> | <sub>[fe5d49b](https://github.com/SimplioOfficial/simplio-mobile/commit/fe5d49b4457cc5d3cab8058fc42e4ad1b43d605d) add increase fee question when fee is too low - PitTxid<br>[85caa75](https://github.com/SimplioOfficial/simplio-mobile/commit/85caa751cc5c2f8d2144e521bda0cc66c6f18968) fix price in swap detail and swap summary page,... - PitTxid</sub> |
 | <sub>2021-10-18 01:06:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c)</sub> | <sub>[ad8a917](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c) add mfa to unlink page - PitTxid</sub> |
 | <sub>2021-10-17 23:20:09</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90)</sub> | <sub>[89917e9](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90) removing subscription from api - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 577 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-17 22:52:02</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fd4e0b69f9f9d3749b7ac4a2beba266c7f9c3ffc)</sub> | <sub>[fd4e0b6](https://github.com/SimplioOfficial/simplio-go/commit/fd4e0b69f9f9d3749b7ac4a2beba266c7f9c3ffc) updating build - storkandstars</sub> |
 | <sub>2021-10-17 22:51:40</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ce7a947a36d20a32cd3b96c5cffe991cb46c0562)</sub> | <sub>[ce7a947](https://github.com/SimplioOfficial/simplio-go/commit/ce7a947a36d20a32cd3b96c5cffe991cb46c0562) wip debugging - storkandstars</sub> |
 | <sub>2021-10-17 22:23:44</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0953c4613a3f7371dd26933e6c4494764e148688)</sub> | <sub>[0953c46](https://github.com/SimplioOfficial/simplio-go/commit/0953c4613a3f7371dd26933e6c4494764e148688) wip debugging - storkandstars</sub> |
-| <sub>2021-10-16 17:23:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc)</sub> | <sub>[b917eec](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc) update prod build command - PitTxid</sub> |
-| <sub>2021-10-16 17:22:41</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d)</sub> | <sub>[fcbbb28](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d) update prod build command - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

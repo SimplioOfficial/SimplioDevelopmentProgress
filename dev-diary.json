@@ -10382,5 +10382,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ad8a917b46a6...85caa751cc5c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 06:00:55.420000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`a8312b2`](https://github.com/SimplioOfficial/simplio-mobile/commit/a8312b2b33fead45b99a1e67c0d513a8622781af) increase version - PitTxid\n[`2469b39`](https://github.com/SimplioOfficial/simplio-mobile/commit/2469b3963c4a07e0cb11a4dd2522a77ff7ff70c5) add connection issue message when adding address - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/85caa751cc5c...2469b3963c4a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 06:02:47.190000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`02408f6`](https://github.com/SimplioOfficial/simplio-mobile/commit/02408f60b8ef0ca534d2ee446577d0bda48efb7a) Squashed commit of the following: - PitTxid\n[`e1ce474`](https://github.com/SimplioOfficial/simplio-mobile/commit/e1ce474db7a10ebf054705163f0e5b1de56d6c29) Merge branch 'testing' of https://github.com/Si... - PitTxid",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aaac8d48c36f...e1ce474db7a1"
+    }
   }
 ]
