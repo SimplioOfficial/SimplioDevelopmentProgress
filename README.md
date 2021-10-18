@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 583 commits since 10/09/2021. You can see the complete history in
+There is a total of 584 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-18 09:43:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c6ea918c129c3e3a84d59aae442ac69cd9b82e0)</sub> | <sub>[5c6ea91](https://github.com/SimplioOfficial/simplio-mobile/commit/5c6ea918c129c3e3a84d59aae442ac69cd9b82e0) Swap detail minor css fixes - jvrastil</sub> |
 | <sub>2021-10-18 09:04:55</sub> | <sub>[[simplio-mobile:master] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4e66924598e3...54a7a6b61e8f)</sub> | <sub>[f62709c](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83) Squashed commit of the following: - PitTxid<br>[54a7a6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54a7a6b61e8f4c4864c5e92d9f991870eacea30b) Merge branch 'testing' - PitTxid</sub> |
 | <sub>2021-10-18 09:04:42</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83)</sub> | <sub>[f62709c](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-18 09:04:11</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/2469b3963c4a...0af8511acdea)</sub> | <sub>[f142083](https://github.com/SimplioOfficial/simplio-mobile/commit/f1420837ba5238bbe9cb1f824ec38852ffac88a4) update images - PitTxid<br>[0af8511](https://github.com/SimplioOfficial/simplio-mobile/commit/0af8511acdeaac1a35458fe8dbef0ed4ff0e2484) update app name - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 583 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-18 04:32:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ad8a917b46a6...85caa751cc5c)</sub> | <sub>[fe5d49b](https://github.com/SimplioOfficial/simplio-mobile/commit/fe5d49b4457cc5d3cab8058fc42e4ad1b43d605d) add increase fee question when fee is too low - PitTxid<br>[85caa75](https://github.com/SimplioOfficial/simplio-mobile/commit/85caa751cc5c2f8d2144e521bda0cc66c6f18968) fix price in swap detail and swap summary page,... - PitTxid</sub> |
 | <sub>2021-10-18 01:06:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c)</sub> | <sub>[ad8a917](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c) add mfa to unlink page - PitTxid</sub> |
 | <sub>2021-10-17 23:20:09</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90)</sub> | <sub>[89917e9](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90) removing subscription from api - storkandstars</sub> |
-| <sub>2021-10-17 23:03:15</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/91f61ed531dc...dd9d079ba109)</sub> | <sub>[d3a12ab](https://github.com/SimplioOfficial/simplio-go/commit/d3a12aba4045d1578bb5251eff2205a9e9c4df92) adding listener in subscriber - storkandstars<br>[dd9d079](https://github.com/SimplioOfficial/simplio-go/commit/dd9d079ba109ff7d087c69fa0f3ce96730718934) adding subscriber in build - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
