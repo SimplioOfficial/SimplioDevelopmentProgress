@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 575 commits since 10/09/2021. You can see the complete history in
+There is a total of 576 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-18 01:06:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c)</sub> | <sub>[ad8a917](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c) add mfa to unlink page - PitTxid</sub> |
 | <sub>2021-10-17 23:20:09</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90)</sub> | <sub>[89917e9](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90) removing subscription from api - storkandstars</sub> |
 | <sub>2021-10-17 23:03:15</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/91f61ed531dc...dd9d079ba109)</sub> | <sub>[d3a12ab](https://github.com/SimplioOfficial/simplio-go/commit/d3a12aba4045d1578bb5251eff2205a9e9c4df92) adding listener in subscriber - storkandstars<br>[dd9d079](https://github.com/SimplioOfficial/simplio-go/commit/dd9d079ba109ff7d087c69fa0f3ce96730718934) adding subscriber in build - storkandstars</sub> |
 | <sub>2021-10-17 22:53:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/91f61ed531dcf7c131afded2c07f80623898b2bb)</sub> | <sub>[91f61ed](https://github.com/SimplioOfficial/simplio-go/commit/91f61ed531dcf7c131afded2c07f80623898b2bb) adding env variable to api - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 575 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-16 17:23:52</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc)</sub> | <sub>[b917eec](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc) update prod build command - PitTxid</sub> |
 | <sub>2021-10-16 17:22:41</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d)</sub> | <sub>[fcbbb28](https://github.com/SimplioOfficial/simplio-mobile/commit/fcbbb286ba4e9e817d46c03717130eb806c2d25d) update prod build command - PitTxid</sub> |
 | <sub>2021-10-16 17:14:28</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69)</sub> | <sub>[5c1c25d](https://github.com/SimplioOfficial/simplio-mobile/commit/5c1c25ded43c56864771b5278f551f10f2e6ef69) First release candidate - PitTxid</sub> |
-| <sub>2021-10-16 17:04:07</sub> | <sub>[[simplio-mobile:testing] 15 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/25f2c0cbcd37...aaac8d48c36f)</sub> | <sub>[34139e5](https://github.com/SimplioOfficial/simplio-mobile/commit/34139e567cbff14aa0d0d8ac3ddf30efa1fd0a12) add error status to login fail message - PitTxid<br>[d523d37](https://github.com/SimplioOfficial/simplio-mobile/commit/d523d37753c12c63b46c5ec632bf18fcc7dbe470) add get link account for address and unlink add... - PitTxid<br>[e7066bd](https://github.com/SimplioOfficial/simplio-mobile/commit/e7066bd01960f38067c72f24eb8396bbb3142bb9) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid<br>[d0e2b80](https://github.com/SimplioOfficial/simplio-mobile/commit/d0e2b801c096df204e4a8266888fe6bedfee4644) update unknown link status - PitTxid<br>[369c348](https://github.com/SimplioOfficial/simplio-mobile/commit/369c34805c79308738148b71308c9354b4aa23a0) update prod env - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
