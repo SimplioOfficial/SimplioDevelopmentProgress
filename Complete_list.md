@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-18 13:48:57</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fab9182a8420c328f57788fe82f6422038d04bf0)</sub> | <sub>[fab9182](https://github.com/SimplioOfficial/simplio-mobile/commit/fab9182a8420c328f57788fe82f6422038d04bf0) wip (2) - jvrastil</sub> |
 | <sub>2021-10-18 13:25:36</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/481279c9cfb710fd9b6d911cb51bd5585574b54b)</sub> | <sub>[481279c](https://github.com/SimplioOfficial/simplio-mobile/commit/481279c9cfb710fd9b6d911cb51bd5585574b54b) wip - jvrastil</sub> |
 | <sub>2021-10-18 12:46:38</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/da4ffb7ff1adf86d6b8d4d5f6ca26963f3ede4bc)</sub> | <sub>[da4ffb7](https://github.com/SimplioOfficial/simplio-mobile/commit/da4ffb7ff1adf86d6b8d4d5f6ca26963f3ede4bc) Fix lockscreen issue on Android - jvrastil</sub> |
 | <sub>2021-10-18 11:31:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/40e2e49d83e577df94448adf430743b94c0e394b)</sub> | <sub>[40e2e49](https://github.com/SimplioOfficial/simplio-mobile/commit/40e2e49d83e577df94448adf430743b94c0e394b) [DEVELOPMENT-191] Fix color of 'Copy swap ID' b... - jvrastil</sub> |
