@@ -10418,5 +10418,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aaac8d48c36f...e1ce474db7a1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 06:07:28.633000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`288293b`](https://github.com/SimplioOfficial/simplio-mobile/commit/288293b299fef58a69f57909d2f49a14e8577f49) fix pending swap worker issue - PitTxid\n[`82bae7e`](https://github.com/SimplioOfficial/simplio-mobile/commit/82bae7eb8e156a2f1c8225a1a77a27cda64e33c6) fix swap pair not display - PitTxid\n[`7359864`](https://github.com/SimplioOfficial/simplio-mobile/commit/735986452af8f5bdd3c2f5e0ca52df90f06dffe3) fix lint in swap-connection - PitTxid\n[`a6271bd`](https://github.com/SimplioOfficial/simplio-mobile/commit/a6271bdf81a3e3591cb398c106450ee6747cde7c) add get abi dynamically - PitTxid\n[`aa3b61a`](https://github.com/SimplioOfficial/simplio-mobile/commit/aa3b61a9c9940969178af982d65c0085b86b516e) remove platform in wallet - PitTxid",
+      "title": "[simplio-mobile:master] 854 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/fcbbb286ba4e...4e66924598e3"
+    }
   }
 ]
