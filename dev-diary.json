@@ -10634,5 +10634,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f62709c5dd43...2663df1fce80"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 15:34:35.315000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4717fdf`](https://github.com/SimplioOfficial/Cicerone/commit/4717fdfe0a329cb8c9e7a95f51b98bac717994b7) updated protected ids list - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/4717fdfe0a329cb8c9e7a95f51b98bac717994b7"
+    }
   }
 ]
