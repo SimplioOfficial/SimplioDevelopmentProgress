@@ -10652,5 +10652,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/4717fdfe0a329cb8c9e7a95f51b98bac717994b7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 20:15:11.460000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b917eec`](https://github.com/SimplioOfficial/simplio-mobile/commit/b917eec6029fcb0e675b6705be55274c6b084edc) update prod build command - PitTxid\n[`ad8a917`](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c) add mfa to unlink page - PitTxid\n[`fe5d49b`](https://github.com/SimplioOfficial/simplio-mobile/commit/fe5d49b4457cc5d3cab8058fc42e4ad1b43d605d) add increase fee question when fee is too low - PitTxid\n[`85caa75`](https://github.com/SimplioOfficial/simplio-mobile/commit/85caa751cc5c2f8d2144e521bda0cc66c6f18968) fix price in swap detail and swap summary page,... - PitTxid\n[`a8312b2`](https://github.com/SimplioOfficial/simplio-mobile/commit/a8312b2b33fead45b99a1e67c0d513a8622781af) increase version - PitTxid",
+      "title": "[simplio-mobile:master] 14 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/54a7a6b61e8f...3554a7d8289e"
+    }
   }
 ]
