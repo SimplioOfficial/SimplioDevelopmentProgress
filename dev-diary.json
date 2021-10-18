@@ -10364,5 +10364,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-18 04:32:25.705000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fe5d49b`](https://github.com/SimplioOfficial/simplio-mobile/commit/fe5d49b4457cc5d3cab8058fc42e4ad1b43d605d) add increase fee question when fee is too low - PitTxid\n[`85caa75`](https://github.com/SimplioOfficial/simplio-mobile/commit/85caa751cc5c2f8d2144e521bda0cc66c6f18968) fix price in swap detail and swap summary page,... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ad8a917b46a6...85caa751cc5c"
+    }
   }
 ]
