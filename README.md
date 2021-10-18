@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 584 commits since 10/09/2021. You can see the complete history in
+There is a total of 585 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-18 11:31:43</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/40e2e49d83e577df94448adf430743b94c0e394b)</sub> | <sub>[40e2e49](https://github.com/SimplioOfficial/simplio-mobile/commit/40e2e49d83e577df94448adf430743b94c0e394b) [DEVELOPMENT-191] Fix color of 'Copy swap ID' b... - jvrastil</sub> |
 | <sub>2021-10-18 09:43:17</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c6ea918c129c3e3a84d59aae442ac69cd9b82e0)</sub> | <sub>[5c6ea91](https://github.com/SimplioOfficial/simplio-mobile/commit/5c6ea918c129c3e3a84d59aae442ac69cd9b82e0) Swap detail minor css fixes - jvrastil</sub> |
 | <sub>2021-10-18 09:04:55</sub> | <sub>[[simplio-mobile:master] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4e66924598e3...54a7a6b61e8f)</sub> | <sub>[f62709c](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83) Squashed commit of the following: - PitTxid<br>[54a7a6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54a7a6b61e8f4c4864c5e92d9f991870eacea30b) Merge branch 'testing' - PitTxid</sub> |
 | <sub>2021-10-18 09:04:42</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83)</sub> | <sub>[f62709c](https://github.com/SimplioOfficial/simplio-mobile/commit/f62709c5dd439fef0e2ead0f81fb96d58b300f83) Squashed commit of the following: - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 584 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-18 06:00:55</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/85caa751cc5c...2469b3963c4a)</sub> | <sub>[a8312b2](https://github.com/SimplioOfficial/simplio-mobile/commit/a8312b2b33fead45b99a1e67c0d513a8622781af) increase version - PitTxid<br>[2469b39](https://github.com/SimplioOfficial/simplio-mobile/commit/2469b3963c4a07e0cb11a4dd2522a77ff7ff70c5) add connection issue message when adding address - PitTxid</sub> |
 | <sub>2021-10-18 04:32:25</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ad8a917b46a6...85caa751cc5c)</sub> | <sub>[fe5d49b](https://github.com/SimplioOfficial/simplio-mobile/commit/fe5d49b4457cc5d3cab8058fc42e4ad1b43d605d) add increase fee question when fee is too low - PitTxid<br>[85caa75](https://github.com/SimplioOfficial/simplio-mobile/commit/85caa751cc5c2f8d2144e521bda0cc66c6f18968) fix price in swap detail and swap summary page,... - PitTxid</sub> |
 | <sub>2021-10-18 01:06:31</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c)</sub> | <sub>[ad8a917](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8a917b46a6f89cfd6ced675f52a1e96e52887c) add mfa to unlink page - PitTxid</sub> |
-| <sub>2021-10-17 23:20:09</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90)</sub> | <sub>[89917e9](https://github.com/SimplioOfficial/simplio-go/commit/89917e965e971620362a6078abe064f98701ce90) removing subscription from api - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
