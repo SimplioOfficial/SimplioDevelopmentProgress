@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 596 commits since 10/09/2021. You can see the complete history in
+There is a total of 597 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-19 08:18:12</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4098688462a9918741e21325ec6fa2f371d4f211)</sub> | <sub>[4098688](https://github.com/SimplioOfficial/simplio-mobile/commit/4098688462a9918741e21325ec6fa2f371d4f211) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-10-19 08:13:50</sub> | <sub>[[simplio-mobile:v0\.1\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7a1ff516a905...b1518be84d28)</sub> | <sub>[38ac0b2](https://github.com/SimplioOfficial/simplio-mobile/commit/38ac0b2264862fed330de2f74b583da7be8d9a5c) add check seed in change masterseed page - PitTxid<br>[4f88aae](https://github.com/SimplioOfficial/simplio-mobile/commit/4f88aaeae27c7183a11b4d4fc6ae88ab18e19599) fix swap connection behavior when resuming app - PitTxid<br>[b1518be](https://github.com/SimplioOfficial/simplio-mobile/commit/b1518be84d2851225cdcbef617e84f2d61b45402) increase version - PitTxid</sub> |
 | <sub>2021-10-19 06:11:04</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7a1ff516a905de15f0995c9b29853ebfc921aded)</sub> | <sub>[7a1ff51](https://github.com/SimplioOfficial/simplio-mobile/commit/7a1ff516a905de15f0995c9b29853ebfc921aded) add unlink no permission message - PitTxid</sub> |
 | <sub>2021-10-19 05:59:19</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8d4bbfd83734abe878d631088dad446b912f662a)</sub> | <sub>[8d4bbfd](https://github.com/SimplioOfficial/simplio-mobile/commit/8d4bbfd83734abe878d631088dad446b912f662a) update get link email and unlink address - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 596 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-18 14:37:10</sub> | <sub>[[simplio-mobile:v0\.1\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/40e2e49d83e5...0a95307ff92c)</sub> | <sub>[1822fd6](https://github.com/SimplioOfficial/simplio-mobile/commit/1822fd61f0a31b52af4c3ae293e199521bcd51e6) Remove background app run - jvrastil<br>[0a95307](https://github.com/SimplioOfficial/simplio-mobile/commit/0a95307ff92c71abfd5a5c205ccbbbb2a0e6be6a) increase versions - jvrastil</sub> |
 | <sub>2021-10-18 14:07:50</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2e711721ca4497926d6b0861c534cc367010a696)</sub> | <sub>[2e71172](https://github.com/SimplioOfficial/simplio-mobile/commit/2e711721ca4497926d6b0861c534cc367010a696) wip (3) - jvrastil</sub> |
 | <sub>2021-10-18 13:48:57</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fab9182a8420c328f57788fe82f6422038d04bf0)</sub> | <sub>[fab9182](https://github.com/SimplioOfficial/simplio-mobile/commit/fab9182a8420c328f57788fe82f6422038d04bf0) wip (2) - jvrastil</sub> |
-| <sub>2021-10-18 13:25:36</sub> | <sub>[[simplio-mobile:lock\_screen\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/481279c9cfb710fd9b6d911cb51bd5585574b54b)</sub> | <sub>[481279c](https://github.com/SimplioOfficial/simplio-mobile/commit/481279c9cfb710fd9b6d911cb51bd5585574b54b) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
