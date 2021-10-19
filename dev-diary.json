@@ -10886,5 +10886,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5a088d3a263b...68bdeabcbf9a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 13:10:20.832000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`90aaa59`](https://github.com/SimplioOfficial/simplio-mobile/commit/90aaa5937089e6c45e89d7b5ad44428cc848dd2f) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/90aaa5937089e6c45e89d7b5ad44428cc848dd2f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 13:10:35.855000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`90aaa59`](https://github.com/SimplioOfficial/simplio-mobile/commit/90aaa5937089e6c45e89d7b5ad44428cc848dd2f) Squashed commit of the following: - PitTxid\n[`3a5e460`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a5e460c55b9b977c3c75f55aca1a8ce3dfa30f1) Merge branch 'testing' - PitTxid",
+      "title": "[simplio-mobile:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/b6f95f75d4e0...3a5e460c55b9"
+    }
   }
 ]
