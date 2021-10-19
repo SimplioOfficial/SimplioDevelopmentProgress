@@ -10922,5 +10922,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/b6f95f75d4e0...3a5e460c55b9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 14:35:08.830000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f6e101d`](https://github.com/SimplioOfficial/simplio-mobile/commit/f6e101db0dc869fc9e429d3075d5e9ff444179d3) Fix logout issue after app is minimized - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f6e101db0dc869fc9e429d3075d5e9ff444179d3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 14:35:36.117000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b16d3aa`](https://github.com/SimplioOfficial/simplio-mobile/commit/b16d3aaab999ba3e30963b60db9bac436b0966ca) test - PitTxid\n[`3ebf502`](https://github.com/SimplioOfficial/simplio-mobile/commit/3ebf5023f41136540ebb0098e4af5a77aa0b340e) improve solana txs - PitTxid\n[`32ce559`](https://github.com/SimplioOfficial/simplio-mobile/commit/32ce55902af1fa58a5e88b47f2f01ed6026088c3) update text - PitTxid\n[`af31eda`](https://github.com/SimplioOfficial/simplio-mobile/commit/af31eda2235fc280cb77d2dd96300a8b6d48e0d9) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`ca2abb7`](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2abb7fd395df2009611f0b71f0d74c55bc8243) update link text - PitTxid",
+      "title": "[simplio-mobile:testing] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/90aaa5937089...39c6c6c43816"
+    }
   }
 ]
