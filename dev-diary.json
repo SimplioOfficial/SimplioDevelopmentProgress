@@ -10958,5 +10958,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/90aaa5937089...39c6c6c43816"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 14:42:07.437000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`65756fb`](https://github.com/SimplioOfficial/simplio-mobile/commit/65756fb3a205249c8a93f7bbdf7359ffaa6c8ede) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/65756fb3a205249c8a93f7bbdf7359ffaa6c8ede"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 14:42:17.764000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`65756fb`](https://github.com/SimplioOfficial/simplio-mobile/commit/65756fb3a205249c8a93f7bbdf7359ffaa6c8ede) increase versions - jvrastil\n[`50b4491`](https://github.com/SimplioOfficial/simplio-mobile/commit/50b4491d255f7f70c7d214313c408bb70035ee94) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/39c6c6c43816...50b4491d255f"
+    }
   }
 ]
