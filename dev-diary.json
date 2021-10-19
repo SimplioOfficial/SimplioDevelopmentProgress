@@ -10868,5 +10868,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3554a7d8289e...b6f95f75d4e0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 13:09:29.024000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b16d3aa`](https://github.com/SimplioOfficial/simplio-mobile/commit/b16d3aaab999ba3e30963b60db9bac436b0966ca) test - PitTxid\n[`3ebf502`](https://github.com/SimplioOfficial/simplio-mobile/commit/3ebf5023f41136540ebb0098e4af5a77aa0b340e) improve solana txs - PitTxid\n[`16e85e5`](https://github.com/SimplioOfficial/simplio-mobile/commit/16e85e50550c25cdd40855945b02286ca602244d) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid\n[`51ec437`](https://github.com/SimplioOfficial/simplio-mobile/commit/51ec4372587e6738a47a6945dc4b6a00eff1a8c2) only update refresh url if it's connected - PitTxid\n[`68bdeab`](https://github.com/SimplioOfficial/simplio-mobile/commit/68bdeabcbf9ad68f2bc6fb7d165346dbef098643) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5a088d3a263b...68bdeabcbf9a"
+    }
   }
 ]
