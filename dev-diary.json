@@ -10994,5 +10994,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/39c6c6c43816...50b4491d255f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-19 15:31:17.564000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7e3c838`](https://github.com/SimplioOfficial/simplio-mobile/commit/7e3c838030afba9e0c45b0e13d29cdfa408944f3) clean timeoutoccurs in homepage if logging out - PitTxid\n[`0c14c45`](https://github.com/SimplioOfficial/simplio-mobile/commit/0c14c4502c9cfe63d46a9d1ee16b0133ed7a60a0) Merge branch 'v0.1.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/65756fb3a205...0c14c4502c9c"
+    }
   }
 ]
