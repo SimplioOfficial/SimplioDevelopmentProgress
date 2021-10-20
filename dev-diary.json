@@ -11353,5 +11353,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e85eb89a92812d74fc4cc4113405532e7ca2cbae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-20 12:11:16.047000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f3fc9e8`](https://github.com/SimplioOfficial/simplio-mobile/commit/f3fc9e8ecd98cba553a5b8c1503d5bd2590a4c09) [DEVELOPMENT-89] Fix 'Open mail' button in Android - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f3fc9e8ecd98cba553a5b8c1503d5bd2590a4c09"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-20 12:13:21.276000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3b4dd24`](https://github.com/SimplioOfficial/simplio-mobile/commit/3b4dd24e6c6b3f3d38359a48d1a256bd4f24ce76) Bonus - wip - jvrastil\n[`bfac913`](https://github.com/SimplioOfficial/simplio-mobile/commit/bfac91354d558bcc67416bc2f94e77af9854ed55) wip - jvrastil\n[`6f91bf8`](https://github.com/SimplioOfficial/simplio-mobile/commit/6f91bf8986daba5094dff7946b900c268afa8245) [DEVELOPMENT-64][FEATURE] Bonus page - jvrastil",
+      "title": "[simplio-mobile:DEV\\-64\\-Bonus\\_page] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3b4dd24e6c6b^...6f91bf8986da"
+    }
   }
 ]
