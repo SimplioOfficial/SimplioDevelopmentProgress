@@ -11443,5 +11443,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d2f417d9bffc50ac59fb37ea651b5c27c003b6b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-24 16:52:42.638000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1aebead`](https://github.com/SimplioOfficial/simplio-go/commit/1aebead65222cecf984cd8ae4f6df4eb00d3da07) adding swagger for api gateway - storkandstars\n[`7b672c0`](https://github.com/SimplioOfficial/simplio-go/commit/7b672c0aeaed9c4614a67fe3fd561e206b47f065) adding user api - storkandstars",
+      "title": "[simplio-go:dev] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/89917e965e97...7b672c0aeaed"
+    }
   }
 ]
