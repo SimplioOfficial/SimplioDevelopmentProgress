@@ -11479,5 +11479,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/5eb45708169ee909d576d45b08055d081abd91b3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-24 17:23:47.337000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e8a4e92`](https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b) updating user build config - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b"
+    }
   }
 ]

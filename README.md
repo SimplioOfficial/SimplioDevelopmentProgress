@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 638 commits since 10/09/2021. You can see the complete history in
+There is a total of 639 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-24 17:23:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b)</sub> | <sub>[e8a4e92](https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b) updating user build config - storkandstars</sub> |
 | <sub>2021-10-24 17:02:05</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/5eb45708169ee909d576d45b08055d081abd91b3)</sub> | <sub>[5eb4570](https://github.com/SimplioOfficial/simplio-go/commit/5eb45708169ee909d576d45b08055d081abd91b3) updating user build config - storkandstars</sub> |
 | <sub>2021-10-24 16:52:42</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/89917e965e97...7b672c0aeaed)</sub> | <sub>[1aebead](https://github.com/SimplioOfficial/simplio-go/commit/1aebead65222cecf984cd8ae4f6df4eb00d3da07) adding swagger for api gateway - storkandstars<br>[7b672c0](https://github.com/SimplioOfficial/simplio-go/commit/7b672c0aeaed9c4614a67fe3fd561e206b47f065) adding user api - storkandstars</sub> |
 | <sub>2021-10-24 02:44:06</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d2f417d9bffc50ac59fb37ea651b5c27c003b6b2)</sub> | <sub>[d2f417d](https://github.com/SimplioOfficial/simplio-mobile/commit/d2f417d9bffc50ac59fb37ea651b5c27c003b6b2) Squashed commit of the following: - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 638 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-20 12:11:16</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f3fc9e8ecd98cba553a5b8c1503d5bd2590a4c09)</sub> | <sub>[f3fc9e8](https://github.com/SimplioOfficial/simplio-mobile/commit/f3fc9e8ecd98cba553a5b8c1503d5bd2590a4c09) [DEVELOPMENT-89] Fix 'Open mail' button in Android - jvrastil</sub> |
 | <sub>2021-10-20 11:54:53</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e85eb89a92812d74fc4cc4113405532e7ca2cbae)</sub> | <sub>[e85eb89](https://github.com/SimplioOfficial/simplio-mobile/commit/e85eb89a92812d74fc4cc4113405532e7ca2cbae) [DEVELOPMENT-89] Fix 'Open mail' button in Android - jvrastil</sub> |
 | <sub>2021-10-20 11:54:29</sub> | <sub>[[simplio-mobile:v0\.1\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/185eee2bacf36f00ec44d0d26195ac74526dfb3c)</sub> | <sub>[185eee2](https://github.com/SimplioOfficial/simplio-mobile/commit/185eee2bacf36f00ec44d0d26195ac74526dfb3c) [DEVELOPMENT-89] Fix 'Open mail' button in Android - jvrastil</sub> |
-| <sub>2021-10-20 09:53:42</sub> | <sub>[[simplio-mobile:TEST\_BRANCH] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8ecd4635ba629750caa7c2bf91ef1dc91470be30)</sub> | <sub>[8ecd463](https://github.com/SimplioOfficial/simplio-mobile/commit/8ecd4635ba629750caa7c2bf91ef1dc91470be30) test branch version - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
