@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 646 commits since 10/09/2021. You can see the complete history in
+There is a total of 647 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-25 01:25:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/aec369ae551515bb5225f48bfdad8f2b1617338c)</sub> | <sub>[aec369a](https://github.com/SimplioOfficial/simplio-go/commit/aec369ae551515bb5225f48bfdad8f2b1617338c) wip - token generation - storkandstars</sub> |
 | <sub>2021-10-24 21:57:24</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/9ca473d5dcbc...1761ecce95a2)</sub> | <sub>[1455a0b](https://github.com/SimplioOfficial/simplio-go/commit/1455a0b488cbae4e4c5c5d09cc60b2f10b892aba) sumsub token expiration env var - storkandstars<br>[1761ecc](https://github.com/SimplioOfficial/simplio-go/commit/1761ecce95a21ea464885d5920549b9c1b3ac989) exposing sumsub create applicant error - storkandstars</sub> |
 | <sub>2021-10-24 21:08:07</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/9ca473d5dcbc29138c3c6d3d52262d91dce5eb9b)</sub> | <sub>[9ca473d](https://github.com/SimplioOfficial/simplio-go/commit/9ca473d5dcbc29138c3c6d3d52262d91dce5eb9b) exposing ca cert - storkandstars</sub> |
 | <sub>2021-10-24 18:51:16</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c9c60647c02a64b8ff263c124f8cd0a45b9b1408)</sub> | <sub>[c9c6064](https://github.com/SimplioOfficial/simplio-go/commit/c9c60647c02a64b8ff263c124f8cd0a45b9b1408) adding debug log - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 646 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-24 17:26:30</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/26550bf6c813c32cd43317070be6ebda296e1ae9)</sub> | <sub>[26550bf](https://github.com/SimplioOfficial/simplio-go/commit/26550bf6c813c32cd43317070be6ebda296e1ae9) updating user build config - storkandstars</sub> |
 | <sub>2021-10-24 17:23:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b)</sub> | <sub>[e8a4e92](https://github.com/SimplioOfficial/simplio-go/commit/e8a4e92e6947ca59c6cec0be940178bdd9fab37b) updating user build config - storkandstars</sub> |
 | <sub>2021-10-24 17:02:05</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/5eb45708169ee909d576d45b08055d081abd91b3)</sub> | <sub>[5eb4570](https://github.com/SimplioOfficial/simplio-go/commit/5eb45708169ee909d576d45b08055d081abd91b3) updating user build config - storkandstars</sub> |
-| <sub>2021-10-24 16:52:42</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/89917e965e97...7b672c0aeaed)</sub> | <sub>[1aebead](https://github.com/SimplioOfficial/simplio-go/commit/1aebead65222cecf984cd8ae4f6df4eb00d3da07) adding swagger for api gateway - storkandstars<br>[7b672c0](https://github.com/SimplioOfficial/simplio-go/commit/7b672c0aeaed9c4614a67fe3fd561e206b47f065) adding user api - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
