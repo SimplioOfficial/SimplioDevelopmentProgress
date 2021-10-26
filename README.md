@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 649 commits since 10/09/2021. You can see the complete history in
+There is a total of 650 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-26 14:04:39</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/21aad15b2766^...6ecc6be4016d)</sub> | <sub>[21aad15](https://github.com/SimplioOfficial/simplio-mobile/commit/21aad15b2766e5beffaec063f91b9f297edb536a) [DEVELOPMENT-215] Integrate SumSub identity ver... - jvrastil<br>[6ecc6be](https://github.com/SimplioOfficial/simplio-mobile/commit/6ecc6be4016dfb00aef523dca40066b3111c7ed9) wip - jvrastil</sub> |
 | <sub>2021-10-26 12:31:53</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/088650b3111f87ee76566ca09d3a3eae8b8642b9)</sub> | <sub>[088650b](https://github.com/SimplioOfficial/simplio-mobile/commit/088650b3111f87ee76566ca09d3a3eae8b8642b9) [DEVELOPMENT-196] Fix terms and conditions disp... - jvrastil</sub> |
 | <sub>2021-10-26 10:12:21</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/987a9252b0c1d8359304907d4f8dd086557dd308)</sub> | <sub>[987a925](https://github.com/SimplioOfficial/simplio-mobile/commit/987a9252b0c1d8359304907d4f8dd086557dd308) [DEVELOPMENT-225] Use textarea for address inpu... - jvrastil</sub> |
 | <sub>2021-10-25 01:25:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/aec369ae551515bb5225f48bfdad8f2b1617338c)</sub> | <sub>[aec369a](https://github.com/SimplioOfficial/simplio-go/commit/aec369ae551515bb5225f48bfdad8f2b1617338c) wip - token generation - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 649 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-24 18:44:24</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4f3cf1cab35e082c5e8afd38812dd82e37cee04c)</sub> | <sub>[4f3cf1c](https://github.com/SimplioOfficial/simplio-go/commit/4f3cf1cab35e082c5e8afd38812dd82e37cee04c) adding debug log - storkandstars</sub> |
 | <sub>2021-10-24 17:57:21</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b4a70e43d705871c011d65879d8a8bee8ad7dfcb)</sub> | <sub>[b4a70e4](https://github.com/SimplioOfficial/simplio-go/commit/b4a70e43d705871c011d65879d8a8bee8ad7dfcb) adding image name - storkandstars</sub> |
 | <sub>2021-10-24 17:54:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/23ee3f3ad540136a8444d3c1dd1805910c557fc9)</sub> | <sub>[23ee3f3](https://github.com/SimplioOfficial/simplio-go/commit/23ee3f3ad540136a8444d3c1dd1805910c557fc9) updating user build config - storkandstars</sub> |
-| <sub>2021-10-24 17:26:30</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/26550bf6c813c32cd43317070be6ebda296e1ae9)</sub> | <sub>[26550bf](https://github.com/SimplioOfficial/simplio-go/commit/26550bf6c813c32cd43317070be6ebda296e1ae9) updating user build config - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

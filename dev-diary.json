@@ -11677,5 +11677,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/088650b3111f87ee76566ca09d3a3eae8b8642b9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-26 14:04:39.923000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`21aad15`](https://github.com/SimplioOfficial/simplio-mobile/commit/21aad15b2766e5beffaec063f91b9f297edb536a) [DEVELOPMENT-215] Integrate SumSub identity ver... - jvrastil\n[`6ecc6be`](https://github.com/SimplioOfficial/simplio-mobile/commit/6ecc6be4016dfb00aef523dca40066b3111c7ed9) wip - jvrastil",
+      "title": "[simplio-mobile:feature/215\\-sumsub] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/21aad15b2766^...6ecc6be4016d"
+    }
   }
 ]
