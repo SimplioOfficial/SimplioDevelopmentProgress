@@ -11695,5 +11695,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/21aad15b2766^...6ecc6be4016d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-26 14:40:01.778000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`9d7ccb0`](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7ccb078df9fdc831e5ac081d90264c00bddb45) increase version - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9d7ccb078df9fdc831e5ac081d90264c00bddb45"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-26 14:41:37.865000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`23016b7`](https://github.com/SimplioOfficial/simplio-mobile/commit/23016b7c50b198c15282e0cfb31877c285f491bd) update delete function - PitTxid\n[`5ee4ade`](https://github.com/SimplioOfficial/simplio-mobile/commit/5ee4ade2b3a1081d5e4de90591235c5c2331a87a) increase version - PitTxid\n[`3eebf40`](https://github.com/SimplioOfficial/simplio-mobile/commit/3eebf40402eaec28f75772bf2f05a08fbde9ee99) increase version - PitTxid\n[`7fc8e7e`](https://github.com/SimplioOfficial/simplio-mobile/commit/7fc8e7efc20f24c9ea185ac61ec24cf7b8d9cd2d) update appconfig location - PitTxid\n[`39fb738`](https://github.com/SimplioOfficial/simplio-mobile/commit/39fb738eff11390beb9f7f8ea46f1b93cdc65a02) increase version - PitTxid",
+      "title": "[simplio-mobile:testing] 15 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a451b2bcdbed...5ef1de4e75d6"
+    }
   }
 ]
