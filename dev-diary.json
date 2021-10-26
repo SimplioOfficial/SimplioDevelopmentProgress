@@ -11659,5 +11659,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/987a9252b0c1d8359304907d4f8dd086557dd308"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-26 12:31:53.159000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`088650b`](https://github.com/SimplioOfficial/simplio-mobile/commit/088650b3111f87ee76566ca09d3a3eae8b8642b9) [DEVELOPMENT-196] Fix terms and conditions disp... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/088650b3111f87ee76566ca09d3a3eae8b8642b9"
+    }
   }
 ]
