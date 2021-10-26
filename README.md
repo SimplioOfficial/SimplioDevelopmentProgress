@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 652 commits since 10/09/2021. You can see the complete history in
+There is a total of 653 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-26 15:01:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c8e7a41b685deb40e7592bb0e051ee66b3bd4e04)</sub> | <sub>[c8e7a41](https://github.com/SimplioOfficial/simplio-go/commit/c8e7a41b685deb40e7592bb0e051ee66b3bd4e04) allowing cors for testing - storkandstars</sub> |
 | <sub>2021-10-26 14:41:37</sub> | <sub>[[simplio-mobile:testing] 15 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a451b2bcdbed...5ef1de4e75d6)</sub> | <sub>[23016b7](https://github.com/SimplioOfficial/simplio-mobile/commit/23016b7c50b198c15282e0cfb31877c285f491bd) update delete function - PitTxid<br>[5ee4ade](https://github.com/SimplioOfficial/simplio-mobile/commit/5ee4ade2b3a1081d5e4de90591235c5c2331a87a) increase version - PitTxid<br>[3eebf40](https://github.com/SimplioOfficial/simplio-mobile/commit/3eebf40402eaec28f75772bf2f05a08fbde9ee99) increase version - PitTxid<br>[7fc8e7e](https://github.com/SimplioOfficial/simplio-mobile/commit/7fc8e7efc20f24c9ea185ac61ec24cf7b8d9cd2d) update appconfig location - PitTxid<br>[39fb738](https://github.com/SimplioOfficial/simplio-mobile/commit/39fb738eff11390beb9f7f8ea46f1b93cdc65a02) increase version - PitTxid</sub> |
 | <sub>2021-10-26 14:40:01</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7ccb078df9fdc831e5ac081d90264c00bddb45)</sub> | <sub>[9d7ccb0](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7ccb078df9fdc831e5ac081d90264c00bddb45) increase version - jvrastil</sub> |
 | <sub>2021-10-26 14:04:39</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/21aad15b2766^...6ecc6be4016d)</sub> | <sub>[21aad15](https://github.com/SimplioOfficial/simplio-mobile/commit/21aad15b2766e5beffaec063f91b9f297edb536a) [DEVELOPMENT-215] Integrate SumSub identity ver... - jvrastil<br>[6ecc6be](https://github.com/SimplioOfficial/simplio-mobile/commit/6ecc6be4016dfb00aef523dca40066b3111c7ed9) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 652 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-24 21:57:24</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/9ca473d5dcbc...1761ecce95a2)</sub> | <sub>[1455a0b](https://github.com/SimplioOfficial/simplio-go/commit/1455a0b488cbae4e4c5c5d09cc60b2f10b892aba) sumsub token expiration env var - storkandstars<br>[1761ecc](https://github.com/SimplioOfficial/simplio-go/commit/1761ecce95a21ea464885d5920549b9c1b3ac989) exposing sumsub create applicant error - storkandstars</sub> |
 | <sub>2021-10-24 21:08:07</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/9ca473d5dcbc29138c3c6d3d52262d91dce5eb9b)</sub> | <sub>[9ca473d](https://github.com/SimplioOfficial/simplio-go/commit/9ca473d5dcbc29138c3c6d3d52262d91dce5eb9b) exposing ca cert - storkandstars</sub> |
 | <sub>2021-10-24 18:51:16</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c9c60647c02a64b8ff263c124f8cd0a45b9b1408)</sub> | <sub>[c9c6064](https://github.com/SimplioOfficial/simplio-go/commit/c9c60647c02a64b8ff263c124f8cd0a45b9b1408) adding debug log - storkandstars</sub> |
-| <sub>2021-10-24 18:44:24</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4f3cf1cab35e082c5e8afd38812dd82e37cee04c)</sub> | <sub>[4f3cf1c](https://github.com/SimplioOfficial/simplio-go/commit/4f3cf1cab35e082c5e8afd38812dd82e37cee04c) adding debug log - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
