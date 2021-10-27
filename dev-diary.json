@@ -11785,5 +11785,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9d7ccb078df9...cfe98e45468a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-27 09:06:48.049000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b500caf`](https://github.com/SimplioOfficial/simplio-mobile/commit/b500caf0b4da5331592e678ff96c4123fac83973) add transaction cache - PitTxid\n[`871d104`](https://github.com/SimplioOfficial/simplio-mobile/commit/871d1047a8bf56f06a78a376c780b1d0fd993155) update transactions for wallet - PitTxid",
+      "title": "[simplio-mobile:feature/transaction\\-cache] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/b500caf0b4da^...871d1047a8bf"
+    }
   }
 ]
