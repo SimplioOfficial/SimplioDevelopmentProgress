@@ -11911,5 +11911,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/429fa0cd095acbcc80760bf1377126422dd3b34d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-28 10:38:44.114000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`718a3f4`](https://github.com/SimplioOfficial/simplio-mobile/commit/718a3f4df772fc0fb9fd9d293969b6dbb00bf2d8) [DEVELOPMENT-238] Fix lover-case address issue - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/718a3f4df772fc0fb9fd9d293969b6dbb00bf2d8"
+    }
   }
 ]
