@@ -11929,5 +11929,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/718a3f4df772fc0fb9fd9d293969b6dbb00bf2d8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-28 19:24:11.231000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`2ae6032`](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37) button to redirect user - Juliana Souza",
+      "title": "[simplio-mobile:task\\-89] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37"
+    }
   }
 ]
