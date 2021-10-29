@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 678 commits since 10/09/2021. You can see the complete history in
+There is a total of 679 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-29 13:22:26</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8)</sub> | <sub>[2fa73fb](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8) updating build repository - storkandstars</sub> |
 | <sub>2021-10-29 13:14:43</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5355b081bf14...5142e8a3ce51)</sub> | <sub>[e50fca5](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil<br>[5142e8a](https://github.com/SimplioOfficial/simplio-mobile/commit/5142e8a3ce5116a0c617000f4b4963fad85402d5) Merge branch 'v0.1.4' into testing - jvrastil</sub> |
 | <sub>2021-10-29 13:14:29</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8)</sub> | <sub>[e50fca5](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil</sub> |
 | <sub>2021-10-29 13:12:12</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2b91f3d5693a4345e631ddd45f63155deaba9fe9)</sub> | <sub>[2b91f3d](https://github.com/SimplioOfficial/simplio-mobile/commit/2b91f3d5693a4345e631ddd45f63155deaba9fe9) [DEVELOPMENT-89] Fix open mail button - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 678 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-29 10:16:55</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/13987682cbe5be2beaa659cc257fd3d3564a23b5)</sub> | <sub>[1398768](https://github.com/SimplioOfficial/simplio-mobile/commit/13987682cbe5be2beaa659cc257fd3d3564a23b5) increase versions - jvrastil</sub> |
 | <sub>2021-10-29 09:57:17</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/85d815c2e0c5...8d132c538190)</sub> |
 | <sub>2021-10-29 09:56:00</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/85d815c2e0c5ba59fc7f2587830558e09b09bd56)</sub> | <sub>[85d815c](https://github.com/SimplioOfficial/simplio-mobile/commit/85d815c2e0c5ba59fc7f2587830558e09b09bd56) fix updateFeePipe issue - PitTxid</sub> |
-| <sub>2021-10-29 09:42:57</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e65ccc2f8000...0238bce48f77)</sub> | <sub>[0a39fa7](https://github.com/SimplioOfficial/simplio-mobile/commit/0a39fa793f7cdce38e51845a247f3b272d3a70b2) display number in send page correctly - PitTxid<br>[0238bce](https://github.com/SimplioOfficial/simplio-mobile/commit/0238bce48f7741398b1c5fc411e493b214b5faa4) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
