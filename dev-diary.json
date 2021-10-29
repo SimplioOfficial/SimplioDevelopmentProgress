@@ -12269,5 +12269,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/2458708d291e19b8c30415c77917398708c4b81b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 17:51:54.353000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a4ffc1e`](https://github.com/SimplioOfficial/simplio-go/commit/a4ffc1ede6e515283c10c2a7b32857000c315a15) providing access token with applicant - storkandstars\n[`e4e126c`](https://github.com/SimplioOfficial/simplio-go/commit/e4e126c49abd081d1b51ac974312d930475dd940) exposing webhook secret env var - storkandstars\n[`7382bdf`](https://github.com/SimplioOfficial/simplio-go/commit/7382bdfac25d4e9efda9f2b39fac4411cc061348) removing log - storkandstars\n[`56000b9`](https://github.com/SimplioOfficial/simplio-go/commit/56000b930f1e5c238fe8dacaeb06a4fb703899fc) adding shutdown - storkandstars",
+      "title": "[simplio-go:feature/accounts\\-service] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/2fa73fb95632...56000b930f1e"
+    }
   }
 ]
