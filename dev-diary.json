@@ -12216,5 +12216,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 13:25:48.696000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6ecc6be4016d...3b754a687e33)",
+      "title": "[simplio-mobile] Branch feature/215\\-sumsub was force-pushed to `3b754a6`",
+      "type": "rich"
+    }
   }
 ]
