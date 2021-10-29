@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-29 13:46:00</sub> | <sub>[[simplio-mobile:task\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37)</sub> | <sub>[2ae6032](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37) button to redirect user - Juliana Souza</sub> |
 | <sub>2021-10-29 13:25:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6ecc6be4016d...3b754a687e33)</sub> |
 | <sub>2021-10-29 13:22:26</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8)</sub> | <sub>[2fa73fb](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8) updating build repository - storkandstars</sub> |
 | <sub>2021-10-29 13:14:43</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5355b081bf14...5142e8a3ce51)</sub> | <sub>[e50fca5](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil<br>[5142e8a](https://github.com/SimplioOfficial/simplio-mobile/commit/5142e8a3ce5116a0c617000f4b4963fad85402d5) Merge branch 'v0.1.4' into testing - jvrastil</sub> |
