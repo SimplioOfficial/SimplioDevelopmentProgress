@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 665 commits since 10/09/2021. You can see the complete history in
+There is a total of 666 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-29 09:00:29</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8826c8f81531a1a448919d097afbfb807de76456)</sub> | <sub>[8826c8f](https://github.com/SimplioOfficial/simplio-mobile/commit/8826c8f81531a1a448919d097afbfb807de76456) fix wrong wallet data on overview page when goi... - PitTxid</sub> |
 | <sub>2021-10-29 07:07:26</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c50818561d3fcd9d3c468548c235e070bf269481)</sub> | <sub>[c508185](https://github.com/SimplioOfficial/simplio-mobile/commit/c50818561d3fcd9d3c468548c235e070bf269481) fix undefined issue for transaction - PitTxid</sub> |
 | <sub>2021-10-28 19:24:11</sub> | <sub>[[simplio-mobile:task\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37)</sub> | <sub>[2ae6032](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37) button to redirect user - Juliana Souza</sub> |
 | <sub>2021-10-28 10:38:44</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/718a3f4df772fc0fb9fd9d293969b6dbb00bf2d8)</sub> | <sub>[718a3f4](https://github.com/SimplioOfficial/simplio-mobile/commit/718a3f4df772fc0fb9fd9d293969b6dbb00bf2d8) [DEVELOPMENT-238] Fix lover-case address issue - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 665 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-27 09:18:16</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c93ac21e3c84bb924971f3dc61abe3a72a19dc5d)</sub> | <sub>[c93ac21](https://github.com/SimplioOfficial/simplio-mobile/commit/c93ac21e3c84bb924971f3dc61abe3a72a19dc5d) fix error in account-wallet resolver of updatew... - PitTxid</sub> |
 | <sub>2021-10-27 09:13:36</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/daea05441bd4f21ab95744b2446d95a00e303123)</sub> | <sub>[daea054](https://github.com/SimplioOfficial/simplio-mobile/commit/daea05441bd4f21ab95744b2446d95a00e303123) increase version - PitTxid</sub> |
 | <sub>2021-10-27 09:11:24</sub> | <sub>[[simplio-mobile:v0\.1\.4] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/cfe98e45468a...6076bc4b0fb7)</sub> | <sub>[a12a709](https://github.com/SimplioOfficial/simplio-mobile/commit/a12a7095e27c240ba81d36313781e53371e06f08) check txs length before parsing - PitTxid<br>[4d642bd](https://github.com/SimplioOfficial/simplio-mobile/commit/4d642bd6545fe739c5ededdefaed7e49c762042b) Squashed commit of the following: - PitTxid<br>[6076bc4](https://github.com/SimplioOfficial/simplio-mobile/commit/6076bc4b0fb72c61600d2c3431dab6116996541d) load token address from database - PitTxid</sub> |
-| <sub>2021-10-27 09:06:48</sub> | <sub>[[simplio-mobile:feature/transaction\-cache] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b500caf0b4da^...871d1047a8bf)</sub> | <sub>[b500caf](https://github.com/SimplioOfficial/simplio-mobile/commit/b500caf0b4da5331592e678ff96c4123fac83973) add transaction cache - PitTxid<br>[871d104](https://github.com/SimplioOfficial/simplio-mobile/commit/871d1047a8bf56f06a78a376c780b1d0fd993155) update transactions for wallet - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
