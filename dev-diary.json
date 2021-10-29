@@ -12072,5 +12072,41 @@
       "title": "[simplio-mobile] Branch v0\\.1\\.4 was force-pushed to `8d132c5`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 10:16:55.614000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1398768`](https://github.com/SimplioOfficial/simplio-mobile/commit/13987682cbe5be2beaa659cc257fd3d3564a23b5) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/13987682cbe5be2beaa659cc257fd3d3564a23b5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 10:17:41.174000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a39fa7`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a39fa793f7cdce38e51845a247f3b272d3a70b2) display number in send page correctly - PitTxid\n[`0238bce`](https://github.com/SimplioOfficial/simplio-mobile/commit/0238bce48f7741398b1c5fc411e493b214b5faa4) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid\n[`8d132c5`](https://github.com/SimplioOfficial/simplio-mobile/commit/8d132c53819054e4970f5be637d524befe5f3b60) [DEVELOPMENT-243]fix updateFeePipe issue - PitTxid\n[`1398768`](https://github.com/SimplioOfficial/simplio-mobile/commit/13987682cbe5be2beaa659cc257fd3d3564a23b5) increase versions - jvrastil\n[`5355b08`](https://github.com/SimplioOfficial/simplio-mobile/commit/5355b081bf144e6cb886e58dac78f20be5218d90) Merge branch 'v0.1.4' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/1df3b7550773...5355b081bf14"
+    }
   }
 ]
