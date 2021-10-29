@@ -12126,5 +12126,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/compare/c95ce1041ce2^...ae76e2bae02d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 13:11:16.953000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f147307`](https://github.com/SimplioOfficial/simplio-go/commit/f147307bdab7153c2fa062e318c1fcd1ca764359) updating build file - storkandstars",
+      "title": "[simplio-go:feature/accounts\\-service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/f147307bdab7153c2fa062e318c1fcd1ca764359"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 13:12:12.545000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2b91f3d`](https://github.com/SimplioOfficial/simplio-mobile/commit/2b91f3d5693a4345e631ddd45f63155deaba9fe9) [DEVELOPMENT-89] Fix open mail button - jvrastil",
+      "title": "[simplio-mobile:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2b91f3d5693a4345e631ddd45f63155deaba9fe9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 13:14:29.472000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e50fca5`](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 13:14:43.624000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e50fca5`](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil\n[`5142e8a`](https://github.com/SimplioOfficial/simplio-mobile/commit/5142e8a3ce5116a0c617000f4b4963fad85402d5) Merge branch 'v0.1.4' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5355b081bf14...5142e8a3ce51"
+    }
   }
 ]
