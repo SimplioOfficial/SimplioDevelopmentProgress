@@ -11983,5 +11983,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8826c8f81531a1a448919d097afbfb807de76456"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 09:26:03.376000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e65ccc2`](https://github.com/SimplioOfficial/simplio-mobile/commit/e65ccc2f8000d68f87c20d86db8d6e5e9011f068) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e65ccc2f8000d68f87c20d86db8d6e5e9011f068"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-29 09:26:31.921000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`da1ee50`](https://github.com/SimplioOfficial/simplio-mobile/commit/da1ee50ba738ae10ea321444476da1c714eee603) save solana token address to database - PitTxid\n[`5a5e20f`](https://github.com/SimplioOfficial/simplio-mobile/commit/5a5e20f9907df3c8ccbc834f6cff65988fc16d64) get txs multiple for sol token - PitTxid\n[`14f4c83`](https://github.com/SimplioOfficial/simplio-mobile/commit/14f4c830031bb2f5461b9689a51112cc4f92d601) fix get spl token txs - PitTxid\n[`8e1d047`](https://github.com/SimplioOfficial/simplio-mobile/commit/8e1d047cfad6b78e2ffe0b61822f382f6c30051a) update sql for token_address - PitTxid\n[`f032ab7`](https://github.com/SimplioOfficial/simplio-mobile/commit/f032ab73c34a70292ff0fafc79dfd0a4468e5b38) get token address for spl if it's not available - PitTxid",
+      "title": "[simplio-mobile:testing] 19 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5ef1de4e75d6...1df3b7550773"
+    }
   }
 ]
