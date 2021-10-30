@@ -12377,5 +12377,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-10-30 04:13:49.202000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7e74efd`](https://github.com/SimplioOfficial/simplio-mobile/commit/7e74efd1704d4c1a6c25c10999c4128d8a47fbbc) Merge branch 'feature/serum-dex' into feature/s... - PitTxid\n[`fd1ba82`](https://github.com/SimplioOfficial/simplio-mobile/commit/fd1ba82ad038dddba0f5a23026b6007de52f1602) Merge branch 'v0.1.4' into feature/serum-dex2 - PitTxid\n[`943eba4`](https://github.com/SimplioOfficial/simplio-mobile/commit/943eba46bebd33da5cece9aa0eb8fb44ee05bc09) separate dex swap and single swap - PitTxid\n[`acb7d2a`](https://github.com/SimplioOfficial/simplio-mobile/commit/acb7d2a6fd958bfcf1be0523045f068281e57dad) fix get pair wallet from home page incorrect fo... - PitTxid\n[`7e10c3e`](https://github.com/SimplioOfficial/simplio-mobile/commit/7e10c3e11f3932066e191a315bb96a96f396817d) correct validate swap wallet function - PitTxid",
+      "title": "[simplio-mobile:feature/serum\\-dex2] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7e74efd1704d^...8e770e855f63"
+    }
   }
 ]
