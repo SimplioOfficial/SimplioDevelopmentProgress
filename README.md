@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 687 commits since 10/09/2021. You can see the complete history in
+There is a total of 688 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-30 01:32:02</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b)</sub> | <sub>[79fca8f](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b) getting bytes for debug - storkandstars</sub> |
 | <sub>2021-10-30 01:12:43</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496)</sub> | <sub>[36cd2e0](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 01:04:53</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12)</sub> | <sub>[c4a187a](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 00:47:46</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed)</sub> | <sub>[e246343](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed) moving debugs to a middleware - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 687 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-29 13:46:00</sub> | <sub>[[simplio-mobile:task\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37)</sub> | <sub>[2ae6032](https://github.com/SimplioOfficial/simplio-mobile/commit/2ae6032477f94ff8de10434d49985cc59702fd37) button to redirect user - Juliana Souza</sub> |
 | <sub>2021-10-29 13:25:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6ecc6be4016d...3b754a687e33)</sub> |
 | <sub>2021-10-29 13:22:26</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8)</sub> | <sub>[2fa73fb](https://github.com/SimplioOfficial/simplio-go/commit/2fa73fb95632a13330a5cf18ced5035df37ff4b8) updating build repository - storkandstars</sub> |
-| <sub>2021-10-29 13:14:43</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5355b081bf14...5142e8a3ce51)</sub> | <sub>[e50fca5](https://github.com/SimplioOfficial/simplio-mobile/commit/e50fca5da01ad32f3f6e99e0d3d1dbb4fec62ac8) increase versions - jvrastil<br>[5142e8a](https://github.com/SimplioOfficial/simplio-mobile/commit/5142e8a3ce5116a0c617000f4b4963fad85402d5) Merge branch 'v0.1.4' into testing - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

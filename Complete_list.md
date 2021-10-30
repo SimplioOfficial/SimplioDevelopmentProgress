@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-10-30 01:32:02</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b)</sub> | <sub>[79fca8f](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b) getting bytes for debug - storkandstars</sub> |
 | <sub>2021-10-30 01:12:43</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496)</sub> | <sub>[36cd2e0](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 01:04:53</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12)</sub> | <sub>[c4a187a](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 00:47:46</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed)</sub> | <sub>[e246343](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed) moving debugs to a middleware - storkandstars</sub> |
