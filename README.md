@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 694 commits since 10/09/2021. You can see the complete history in
+There is a total of 695 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-01 10:21:12</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2)</sub> | <sub>[6a51e30](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2) add common apis for staking - PitTxid</sub> |
 | <sub>2021-11-01 09:44:03</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c)</sub> | <sub>[f6a7a31](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c) added error printing - ciripel</sub> |
 | <sub>2021-11-01 09:03:19</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0)</sub> | <sub>[b1018b5](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel</sub> |
 | <sub>2021-11-01 07:49:22</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813)</sub> | <sub>[c571128](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813) updated swaps list - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 694 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-30 01:32:02</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b)</sub> | <sub>[79fca8f](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b) getting bytes for debug - storkandstars</sub> |
 | <sub>2021-10-30 01:12:43</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496)</sub> | <sub>[36cd2e0](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 01:04:53</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12)</sub> | <sub>[c4a187a](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12) adding debugs - storkandstars</sub> |
-| <sub>2021-10-30 00:47:46</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed)</sub> | <sub>[e246343](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed) moving debugs to a middleware - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

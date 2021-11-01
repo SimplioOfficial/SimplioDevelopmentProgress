@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-01 10:21:12</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2)</sub> | <sub>[6a51e30](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2) add common apis for staking - PitTxid</sub> |
 | <sub>2021-11-01 09:44:03</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c)</sub> | <sub>[f6a7a31](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c) added error printing - ciripel</sub> |
 | <sub>2021-11-01 09:03:19</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0)</sub> | <sub>[b1018b5](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel</sub> |
 | <sub>2021-11-01 07:49:22</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813)</sub> | <sub>[c571128](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813) updated swaps list - ciripel</sub> |
