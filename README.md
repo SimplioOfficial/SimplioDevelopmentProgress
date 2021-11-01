@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 692 commits since 10/09/2021. You can see the complete history in
+There is a total of 693 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-01 09:03:19</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0)</sub> | <sub>[b1018b5](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel</sub> |
 | <sub>2021-11-01 07:49:22</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813)</sub> | <sub>[c571128](https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813) updated swaps list - ciripel</sub> |
 | <sub>2021-11-01 07:47:14</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/10e92bce66862df73be80c374f80b24df085b5c2)</sub> | <sub>[10e92bc](https://github.com/ciripel/script_generated_files/commit/10e92bce66862df73be80c374f80b24df085b5c2) Updated at 01-11-2021 07:47 - ciripel</sub> |
 | <sub>2021-10-30 23:38:27</sub> | <sub>[[simplio-go:feature/accounts\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/79fca8fad5ef...6319245fc5a5)</sub> | <sub>[3c0550c](https://github.com/SimplioOfficial/simplio-go/commit/3c0550c9db8b7389c9e4467b1d52962494dee011) removing prints - storkandstars<br>[6319245](https://github.com/SimplioOfficial/simplio-go/commit/6319245fc5a575cf0496eb6c8cdaf65f0a999091) adding check call to sumsub - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 692 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-30 01:04:53</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12)</sub> | <sub>[c4a187a](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12) adding debugs - storkandstars</sub> |
 | <sub>2021-10-30 00:47:46</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed)</sub> | <sub>[e246343](https://github.com/SimplioOfficial/simplio-go/commit/e24634393406db2322207669d88c1ef88b8f90ed) moving debugs to a middleware - storkandstars</sub> |
 | <sub>2021-10-30 00:27:58</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/8ed6af4f0c7ebb5c302dcdfd70a32b9f481f2e31)</sub> | <sub>[8ed6af4](https://github.com/SimplioOfficial/simplio-go/commit/8ed6af4f0c7ebb5c302dcdfd70a32b9f481f2e31) printing out data for debug - storkandstars</sub> |
-| <sub>2021-10-29 17:51:54</sub> | <sub>[[simplio-go:feature/accounts\-service] 4 new commits](https://github.com/SimplioOfficial/simplio-go/compare/2fa73fb95632...56000b930f1e)</sub> | <sub>[a4ffc1e](https://github.com/SimplioOfficial/simplio-go/commit/a4ffc1ede6e515283c10c2a7b32857000c315a15) providing access token with applicant - storkandstars<br>[e4e126c](https://github.com/SimplioOfficial/simplio-go/commit/e4e126c49abd081d1b51ac974312d930475dd940) exposing webhook secret env var - storkandstars<br>[7382bdf](https://github.com/SimplioOfficial/simplio-go/commit/7382bdfac25d4e9efda9f2b39fac4411cc061348) removing log - storkandstars<br>[56000b9](https://github.com/SimplioOfficial/simplio-go/commit/56000b930f1e5c238fe8dacaeb06a4fb703899fc) adding shutdown - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

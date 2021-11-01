@@ -12449,5 +12449,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/c571128283bd87d9aaebc3083a30cca2e5efe813"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 09:03:19.827000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b1018b5`](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel",
+      "title": "[stake-program:fixes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0"
+    }
   }
 ]
