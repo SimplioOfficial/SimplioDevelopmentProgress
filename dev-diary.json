@@ -12629,5 +12629,58 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/fee-program/commit/6c1b06f1dabec6280552aa72b5fce47360854acc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 13:43:54.295000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e98ec4f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 13:44:11.857000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e98ec4f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d) increase versions - jvrastil\n[`d2a535d`](https://github.com/SimplioOfficial/simplio-mobile/commit/d2a535d406839bf766854a392df940351ec0eba4) Merge branch 'v0.1.4' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/833841a9112c...d2a535d40683"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 13:44:41.063000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3b754a687e33...6781a0bfba3f)",
+      "title": "[simplio-mobile] Branch feature/215\\-sumsub was force-pushed to `6781a0b`",
+      "type": "rich"
+    }
   }
 ]
