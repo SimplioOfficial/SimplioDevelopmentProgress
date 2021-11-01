@@ -12539,5 +12539,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/aa28f911668b74308814e984e5300ac8c3fc1971"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 11:47:10.485000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`793eab5`](https://github.com/SimplioOfficial/simplio-mobile/commit/793eab5622096d27df6661f904d2342dfe2648d5) Fix Info.plist items - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/793eab5622096d27df6661f904d2342dfe2648d5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 11:47:38.766000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`793eab5`](https://github.com/SimplioOfficial/simplio-mobile/commit/793eab5622096d27df6661f904d2342dfe2648d5) Fix Info.plist items - jvrastil\n[`833841a`](https://github.com/SimplioOfficial/simplio-mobile/commit/833841a9112cae2acaf98d4ce1cc2e732b1d53c9) Merge branch 'v0.1.4' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5142e8a3ce51...833841a9112c"
+    }
   }
 ]
