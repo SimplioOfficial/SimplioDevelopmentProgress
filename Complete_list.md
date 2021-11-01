@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-01 11:36:21</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/aa28f911668b74308814e984e5300ac8c3fc1971)</sub> | <sub>[aa28f91](https://github.com/SimplioOfficial/stake-program/commit/aa28f911668b74308814e984e5300ac8c3fc1971) remove travis CI - ciripel</sub> |
 | <sub>2021-11-01 11:22:55</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6)</sub> | <sub>[127d66f](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6) further linting and CI implementation - ciripel</sub> |
 | <sub>2021-11-01 10:21:12</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2)</sub> | <sub>[6a51e30](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2) add common apis for staking - PitTxid</sub> |
 | <sub>2021-11-01 09:44:03</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c)</sub> | <sub>[f6a7a31](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c) added error printing - ciripel</sub> |
