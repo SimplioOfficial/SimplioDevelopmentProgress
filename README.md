@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 695 commits since 10/09/2021. You can see the complete history in
+There is a total of 696 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-01 11:22:55</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6)</sub> | <sub>[127d66f](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6) further linting and CI implementation - ciripel</sub> |
 | <sub>2021-11-01 10:21:12</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2)</sub> | <sub>[6a51e30](https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2) add common apis for staking - PitTxid</sub> |
 | <sub>2021-11-01 09:44:03</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c)</sub> | <sub>[f6a7a31](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c) added error printing - ciripel</sub> |
 | <sub>2021-11-01 09:03:19</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0)</sub> | <sub>[b1018b5](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 695 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-10-30 04:13:49</sub> | <sub>[[simplio-mobile:feature/serum\-dex2] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7e74efd1704d^...8e770e855f63)</sub> | <sub>[7e74efd](https://github.com/SimplioOfficial/simplio-mobile/commit/7e74efd1704d4c1a6c25c10999c4128d8a47fbbc) Merge branch 'feature/serum-dex' into feature/s... - PitTxid<br>[fd1ba82](https://github.com/SimplioOfficial/simplio-mobile/commit/fd1ba82ad038dddba0f5a23026b6007de52f1602) Merge branch 'v0.1.4' into feature/serum-dex2 - PitTxid<br>[943eba4](https://github.com/SimplioOfficial/simplio-mobile/commit/943eba46bebd33da5cece9aa0eb8fb44ee05bc09) separate dex swap and single swap - PitTxid<br>[acb7d2a](https://github.com/SimplioOfficial/simplio-mobile/commit/acb7d2a6fd958bfcf1be0523045f068281e57dad) fix get pair wallet from home page incorrect fo... - PitTxid<br>[7e10c3e](https://github.com/SimplioOfficial/simplio-mobile/commit/7e10c3e11f3932066e191a315bb96a96f396817d) correct validate swap wallet function - PitTxid</sub> |
 | <sub>2021-10-30 01:32:02</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b)</sub> | <sub>[79fca8f](https://github.com/SimplioOfficial/simplio-go/commit/79fca8fad5ef5b7e546e3e2e5b2df9037d04005b) getting bytes for debug - storkandstars</sub> |
 | <sub>2021-10-30 01:12:43</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496)</sub> | <sub>[36cd2e0](https://github.com/SimplioOfficial/simplio-go/commit/36cd2e001dce0090d09c948f53cd70b2e12ff496) adding debugs - storkandstars</sub> |
-| <sub>2021-10-30 01:04:53</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12)</sub> | <sub>[c4a187a](https://github.com/SimplioOfficial/simplio-go/commit/c4a187a2721e3dde0f54350b47f52a2751539d12) adding debugs - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

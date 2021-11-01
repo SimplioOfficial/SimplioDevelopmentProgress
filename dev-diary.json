@@ -12503,5 +12503,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6a51e3080ccd50d2b6ecb1625620e09116d965d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-01 11:22:55.175000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`127d66f`](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6) further linting and CI implementation - ciripel",
+      "title": "[stake-program:fixes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6"
+    }
   }
 ]
