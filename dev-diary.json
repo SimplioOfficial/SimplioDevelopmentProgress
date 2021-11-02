@@ -12790,5 +12790,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/1063b90e858d16f3de9593f4f2455e5d56ad62a6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 10:12:42.221000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4f0febb`](https://github.com/SimplioOfficial/stake-program/commit/4f0febbcc193a2eb128f54e69b55a2a1fd9008bd) add tier account - PitTxid",
+      "title": "[stake-program:v2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/4f0febbcc193a2eb128f54e69b55a2a1fd9008bd"
+    }
   }
 ]
