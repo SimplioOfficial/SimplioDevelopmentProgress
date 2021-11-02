@@ -12934,5 +12934,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/3090f986e4bfcbfcc821f0fb21eede78ddbd24f8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 12:45:29.701000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c8e7a41`](https://github.com/SimplioOfficial/simplio-go/commit/c8e7a41b685deb40e7592bb0e051ee66b3bd4e04) allowing cors for testing - storkandstars\n[`c7b47d7`](https://github.com/SimplioOfficial/simplio-go/commit/c7b47d7c9381043f806b1d04da00edead986c6b9) Merge branch 'dev' into feature/accounts-service - storkandstars",
+      "title": "[simplio-go:feature/accounts\\-service] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/3090f986e4bf...c7b47d7c9381"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 12:45:39.810000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c95ce10`](https://github.com/SimplioOfficial/simplio-go/commit/c95ce1041ce29a590d5c70ceb8c5fbab0eb70549) account service with wip db - storkandstars\n[`7bd911d`](https://github.com/SimplioOfficial/simplio-go/commit/7bd911d3179092eeb3194bc95cc51357dd366a42) exposing sumsub applicant endpoint - storkandstars\n[`63811ad`](https://github.com/SimplioOfficial/simplio-go/commit/63811ad313c82daa0a4c50359694098871120da8) simplifying db - storkandstars\n[`88f9f23`](https://github.com/SimplioOfficial/simplio-go/commit/88f9f233c2e01639232aeb1918f2fe033fdd5b4a) removing unnecessary definitions - storkandstars\n[`51a640b`](https://github.com/SimplioOfficial/simplio-go/commit/51a640bad3fce74cbc0c41c25438ee98df10c63d) adding postgres connection - storkandstars",
+      "title": "[simplio-go:dev] 24 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/c8e7a41b685d...8b5aa64b4a89"
+    }
   }
 ]
