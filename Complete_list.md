@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-02 01:08:47</sub> | <sub>[[simplio-mobile:task\-228] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab)</sub> | <sub>[ebc659f](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab) task 228 - Juliana Souza</sub> |
 | <sub>2021-11-01 17:11:43</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/3824be30df2b34df43f9731826eb03375ba4b0a0)</sub> | <sub>[3824be3](https://github.com/SimplioOfficial/simplio-go/commit/3824be30df2b34df43f9731826eb03375ba4b0a0) defining a substituting var for build - storkandstars</sub> |
 | <sub>2021-11-01 13:44:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3b754a687e33...6781a0bfba3f)</sub> |
 | <sub>2021-11-01 13:44:11</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/833841a9112c...d2a535d40683)</sub> | <sub>[e98ec4f](https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d) increase versions - jvrastil<br>[d2a535d](https://github.com/SimplioOfficial/simplio-mobile/commit/d2a535d406839bf766854a392df940351ec0eba4) Merge branch 'v0.1.4' into testing - jvrastil</sub> |
