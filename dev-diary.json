@@ -12808,5 +12808,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/4f0febbcc193a2eb128f54e69b55a2a1fd9008bd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 10:16:53.724000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b1018b5`](https://github.com/SimplioOfficial/stake-program/commit/b1018b58ae62f96d2d64accddd00b43e290520f0) fixed borrowing and linting warnings - ciripel\n[`f6a7a31`](https://github.com/SimplioOfficial/stake-program/commit/f6a7a314ecc812d25df3ea2ca79f1abbf78d419c) added error printing - ciripel\n[`127d66f`](https://github.com/SimplioOfficial/stake-program/commit/127d66fb5b3003ff8a3ebb431f710085a751e2f6) further linting and CI implementation - ciripel\n[`aa28f91`](https://github.com/SimplioOfficial/stake-program/commit/aa28f911668b74308814e984e5300ac8c3fc1971) remove travis CI - ciripel\n[`3c6c41d`](https://github.com/SimplioOfficial/stake-program/commit/3c6c41d677b009f1944e38cdf36974cd4a8d8a6c) modified current_time variable name - ciripel",
+      "title": "[stake-program:master] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/compare/880f59852499...ff38cc2039ec"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 10:18:24.496000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ac7baef`](https://github.com/SimplioOfficial/simplio-mobile/commit/ac7baef5a0a9f94578578bb8200ee00100cc729d) [DEVELOPMENT-225] Fix send address input when u... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac7baef5a0a9f94578578bb8200ee00100cc729d"
+    }
   }
 ]
