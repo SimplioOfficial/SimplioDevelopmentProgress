@@ -12880,5 +12880,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d2a535d40683...4f1c6fe24eaa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 12:04:30.446000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`617381e`](https://github.com/SimplioOfficial/simplio-mobile/commit/617381ec5ab2491f6a50658e33d73c2172ee10a3) [DEVELOPMENT-250] Add responsibility agreement ... - jvrastil\n[`7eeb8b6`](https://github.com/SimplioOfficial/simplio-mobile/commit/7eeb8b614987a99f342daee3815d7aaf3f7c0a72) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/298cf868310a...7eeb8b614987"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-02 12:04:54.885000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`617381e`](https://github.com/SimplioOfficial/simplio-mobile/commit/617381ec5ab2491f6a50658e33d73c2172ee10a3) [DEVELOPMENT-250] Add responsibility agreement ... - jvrastil\n[`7eeb8b6`](https://github.com/SimplioOfficial/simplio-mobile/commit/7eeb8b614987a99f342daee3815d7aaf3f7c0a72) increase versions - jvrastil\n[`66e6390`](https://github.com/SimplioOfficial/simplio-mobile/commit/66e63901e9c02a6d98b3c5c3bdebb482479640f5) Merge branch 'v0.1.4' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4f1c6fe24eaa...66e63901e9c0"
+    }
   }
 ]
