@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-02 09:56:16</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/3c6c41d677b009f1944e38cdf36974cd4a8d8a6c)</sub> | <sub>[3c6c41d](https://github.com/SimplioOfficial/stake-program/commit/3c6c41d677b009f1944e38cdf36974cd4a8d8a6c) modified current_time variable name - ciripel</sub> |
 | <sub>2021-11-02 08:25:34</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dca2717fe82a62763ee1badfc69492a452af8fc7)</sub> | <sub>[dca2717](https://github.com/SimplioOfficial/simplio-mobile/commit/dca2717fe82a62763ee1badfc69492a452af8fc7) check if amount is > 0 or not - PitTxid</sub> |
 | <sub>2021-11-02 07:06:55</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9b0047cece53700bd85dd0b7c40a06b27c85aa3c)</sub> | <sub>[9b0047c](https://github.com/SimplioOfficial/simplio-mobile/commit/9b0047cece53700bd85dd0b7c40a06b27c85aa3c) [DEVELOPMENT-224] Max button in BNB issue - PitTxid</sub> |
 | <sub>2021-11-02 01:08:47</sub> | <sub>[[simplio-mobile:task\-228] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab)</sub> | <sub>[ebc659f](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab) task 228 - Juliana Souza</sub> |

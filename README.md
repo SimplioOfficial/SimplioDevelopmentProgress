@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 709 commits since 10/09/2021. You can see the complete history in
+There is a total of 710 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-02 09:56:16</sub> | <sub>[[stake-program:fixes] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/3c6c41d677b009f1944e38cdf36974cd4a8d8a6c)</sub> | <sub>[3c6c41d](https://github.com/SimplioOfficial/stake-program/commit/3c6c41d677b009f1944e38cdf36974cd4a8d8a6c) modified current_time variable name - ciripel</sub> |
 | <sub>2021-11-02 08:25:34</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dca2717fe82a62763ee1badfc69492a452af8fc7)</sub> | <sub>[dca2717](https://github.com/SimplioOfficial/simplio-mobile/commit/dca2717fe82a62763ee1badfc69492a452af8fc7) check if amount is > 0 or not - PitTxid</sub> |
 | <sub>2021-11-02 07:06:55</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9b0047cece53700bd85dd0b7c40a06b27c85aa3c)</sub> | <sub>[9b0047c](https://github.com/SimplioOfficial/simplio-mobile/commit/9b0047cece53700bd85dd0b7c40a06b27c85aa3c) [DEVELOPMENT-224] Max button in BNB issue - PitTxid</sub> |
 | <sub>2021-11-02 01:08:47</sub> | <sub>[[simplio-mobile:task\-228] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab)</sub> | <sub>[ebc659f](https://github.com/SimplioOfficial/simplio-mobile/commit/ebc659f8756d440c64ea58a3e719f5e4d2a658ab) task 228 - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 709 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-01 13:43:54</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d)</sub> | <sub>[e98ec4f](https://github.com/SimplioOfficial/simplio-mobile/commit/e98ec4fcaa829eec5456a1c2b9f1ff19a2dd842d) increase versions - jvrastil</sub> |
 | <sub>2021-11-01 12:46:58</sub> | <sub>[[fee-program:error\_printing] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/6c1b06f1dabec6280552aa72b5fce47360854acc)</sub> | <sub>[6c1b06f](https://github.com/SimplioOfficial/fee-program/commit/6c1b06f1dabec6280552aa72b5fce47360854acc) fixed clippy warnings - ciripel</sub> |
 | <sub>2021-11-01 12:25:16</sub> | <sub>[[fee-program:error\_printing] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/7063d3d7f0a80b2addc40a6ba9690e2e09e0f4ec)</sub> | <sub>[7063d3d](https://github.com/SimplioOfficial/fee-program/commit/7063d3d7f0a80b2addc40a6ba9690e2e09e0f4ec) is_enabled from is_enableds typo - ciripel</sub> |
-| <sub>2021-11-01 12:20:30</sub> | <sub>[[fee-program:error\_printing] 1 new commit](https://github.com/SimplioOfficial/fee-program/commit/ce307237d3c953854d218810d8b3834b89f62b34)</sub> | <sub>[ce30723](https://github.com/SimplioOfficial/fee-program/commit/ce307237d3c953854d218810d8b3834b89f62b34) format standard - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
