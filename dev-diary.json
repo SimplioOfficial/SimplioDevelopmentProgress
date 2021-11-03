@@ -13150,5 +13150,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/edd6e15c07fc44605832d510a9ccb056ad6f5853"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 16:45:44.811000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`830a806`](https://github.com/SimplioOfficial/simplio-mobile/commit/830a806cb9fddd581c6e50fe23baa9ab51c675cd) [DEVELOPMENT-227] Display fee calculation on sw... - jvrastil",
+      "title": "[simplio-mobile:dev\\-227] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/830a806cb9fddd581c6e50fe23baa9ab51c675cd"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 16:49:46.377000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9fa3180`](https://github.com/SimplioOfficial/simplio-mobile/commit/9fa3180140020032bd84627db09958953ff231c5) Update readme.md - PitTxid\n[`318042a`](https://github.com/SimplioOfficial/simplio-mobile/commit/318042acb1b7c86008a3af71cc3aaab6a85b00aa) Update readme. - daxicek\n[`339ec19`](https://github.com/SimplioOfficial/simplio-mobile/commit/339ec19d85244368269cc69f80bd8ed3c5968f11) Merge branch 'v0.1.0' into testing - jvrastil\n[`9491d51`](https://github.com/SimplioOfficial/simplio-mobile/commit/9491d51ed76f01fe1e17fd500a25e68e2503f173) Merge branch 'v0.1.0' into testing - jvrastil\n[`c584203`](https://github.com/SimplioOfficial/simplio-mobile/commit/c584203483cbbb1721cfdcfd1b06fa81b6760e64) Merge branch 'v0.1.0' into testing - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 51 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/88dc90482753...d5d520f28751"
+    }
   }
 ]
