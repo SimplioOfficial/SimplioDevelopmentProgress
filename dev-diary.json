@@ -12988,5 +12988,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7eeb8b614987...b7bce9ff048e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 02:57:47.917000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fa8f45e`](https://github.com/SimplioOfficial/stake-program/commit/fa8f45e5f731380ab77000833b5d861dfec53d01) add update interest instruction - PitTxid\n[`eac2c08`](https://github.com/SimplioOfficial/stake-program/commit/eac2c08c3c487b53cc7621af1ad9be352a602d08) Merge branch 'master' of https://github.com/Sim... - PitTxid\n[`4aecddb`](https://github.com/SimplioOfficial/stake-program/commit/4aecddb9f813842df466dd09700e550a510317e3) add update interest ratio - PitTxid\n[`a342273`](https://github.com/SimplioOfficial/stake-program/commit/a34227377243c09081c604468b4e5de2ce07511b) prepare params for prod - PitTxid\n[`ec5576d`](https://github.com/SimplioOfficial/stake-program/commit/ec5576d78a3b303baf29f5848ccaa894af3ed77f) correct data of updating ratio - PitTxid",
+      "title": "[stake-program:master] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/compare/ff38cc2039ec...7de008a4156e"
+    }
   }
 ]
