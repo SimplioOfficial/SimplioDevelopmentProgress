@@ -13186,5 +13186,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/88dc90482753...d5d520f28751"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 19:23:46.953000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`933eb30`](https://github.com/SimplioOfficial/stake-program/commit/933eb301d23d3dd2ed1687bd4c5673c11b92d777) fixed Errors enum - ciripel",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/933eb301d23d3dd2ed1687bd4c5673c11b92d777"
+    }
   }
 ]
