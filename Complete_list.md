@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-03 10:30:12</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923)</sub> | <sub>[3394d8d](https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil</sub> |
 | <sub>2021-11-03 10:28:57</sub> | <sub>[[simplio-mobile:dev\-228] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb)</sub> | <sub>[e150f8f](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil</sub> |
 | <sub>2021-11-03 10:15:05</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8)</sub> | <sub>[f2a9972](https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8) - update calculate staking reward function - PitTxid</sub> |
 | <sub>2021-11-03 08:44:04</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/db348743ccb6f3ca95c62e9d83777b65d7fad1ab)</sub> | <sub>[db34874](https://github.com/SimplioOfficial/Cicerone/commit/db348743ccb6f3ca95c62e9d83777b65d7fad1ab) finxing the infinite while loop - ciripel</sub> |

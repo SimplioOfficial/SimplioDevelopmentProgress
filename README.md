@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 726 commits since 10/09/2021. You can see the complete history in
+There is a total of 727 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-03 10:30:12</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923)</sub> | <sub>[3394d8d](https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil</sub> |
 | <sub>2021-11-03 10:28:57</sub> | <sub>[[simplio-mobile:dev\-228] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb)</sub> | <sub>[e150f8f](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil</sub> |
 | <sub>2021-11-03 10:15:05</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8)</sub> | <sub>[f2a9972](https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8) - update calculate staking reward function - PitTxid</sub> |
 | <sub>2021-11-03 08:44:04</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/db348743ccb6f3ca95c62e9d83777b65d7fad1ab)</sub> | <sub>[db34874](https://github.com/SimplioOfficial/Cicerone/commit/db348743ccb6f3ca95c62e9d83777b65d7fad1ab) finxing the infinite while loop - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 726 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-02 12:45:29</sub> | <sub>[[simplio-go:feature/accounts\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/3090f986e4bf...c7b47d7c9381)</sub> | <sub>[c8e7a41](https://github.com/SimplioOfficial/simplio-go/commit/c8e7a41b685deb40e7592bb0e051ee66b3bd4e04) allowing cors for testing - storkandstars<br>[c7b47d7](https://github.com/SimplioOfficial/simplio-go/commit/c7b47d7c9381043f806b1d04da00edead986c6b9) Merge branch 'dev' into feature/accounts-service - storkandstars</sub> |
 | <sub>2021-11-02 12:35:22</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/3090f986e4bfcbfcc821f0fb21eede78ddbd24f8)</sub> | <sub>[3090f98](https://github.com/SimplioOfficial/simplio-go/commit/3090f986e4bfcbfcc821f0fb21eede78ddbd24f8) removing check signature from middleware - storkandstars</sub> |
 | <sub>2021-11-02 12:04:54</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4f1c6fe24eaa...66e63901e9c0)</sub> | <sub>[617381e](https://github.com/SimplioOfficial/simplio-mobile/commit/617381ec5ab2491f6a50658e33d73c2172ee10a3) [DEVELOPMENT-250] Add responsibility agreement ... - jvrastil<br>[7eeb8b6](https://github.com/SimplioOfficial/simplio-mobile/commit/7eeb8b614987a99f342daee3815d7aaf3f7c0a72) increase versions - jvrastil<br>[66e6390](https://github.com/SimplioOfficial/simplio-mobile/commit/66e63901e9c02a6d98b3c5c3bdebb482479640f5) Merge branch 'v0.1.4' into testing - jvrastil</sub> |
-| <sub>2021-11-02 12:04:30</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/298cf868310a...7eeb8b614987)</sub> | <sub>[617381e](https://github.com/SimplioOfficial/simplio-mobile/commit/617381ec5ab2491f6a50658e33d73c2172ee10a3) [DEVELOPMENT-250] Add responsibility agreement ... - jvrastil<br>[7eeb8b6](https://github.com/SimplioOfficial/simplio-mobile/commit/7eeb8b614987a99f342daee3815d7aaf3f7c0a72) increase versions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

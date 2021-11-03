@@ -13060,5 +13060,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 10:30:12.253000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3394d8d`](https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/3394d8de164c82b992250d41ea3426978c900923"
+    }
   }
 ]
