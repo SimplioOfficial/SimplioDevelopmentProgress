@@ -13042,5 +13042,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 10:28:57.960000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e150f8f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil",
+      "title": "[simplio-mobile:dev\\-228] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb"
+    }
   }
 ]
