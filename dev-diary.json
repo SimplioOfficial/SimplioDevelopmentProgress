@@ -13024,5 +13024,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/db348743ccb6f3ca95c62e9d83777b65d7fad1ab"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-03 10:15:05.464000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f2a9972`](https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8) - update calculate staking reward function - PitTxid",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/f2a9972cfecc6b13b0e58f6bdf3e1802a3dc0ed8"
+    }
   }
 ]
