@@ -13348,5 +13348,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 16:19:23.686000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b5b527f`](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb) fix get pool info, deposit/withdrawal liquidity... - PitTxid",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb"
+    }
   }
 ]
