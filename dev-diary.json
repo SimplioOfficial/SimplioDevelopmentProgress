@@ -13366,5 +13366,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 18:14:48.157000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`ecf4e6f`](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d) new recovery seed page - Juliana Souza",
+      "title": "[simplio-mobile:feature\\-185] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d"
+    }
   }
 ]

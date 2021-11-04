@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 743 commits since 10/09/2021. You can see the complete history in
+There is a total of 744 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-04 18:14:48</sub> | <sub>[[simplio-mobile:feature\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d)</sub> | <sub>[ecf4e6f](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d) new recovery seed page - Juliana Souza</sub> |
 | <sub>2021-11-04 16:19:23</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb)</sub> | <sub>[b5b527f](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb) fix get pool info, deposit/withdrawal liquidity... - PitTxid</sub> |
 | <sub>2021-11-04 16:03:20</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b)</sub> | <sub>[489264b](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b) correct swap fee in summary page - PitTxid</sub> |
 | <sub>2021-11-04 14:45:20</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d8118d62a34dca14ef3e76b13d224b9d6d4b9c3a)</sub> | <sub>[d8118d6](https://github.com/SimplioOfficial/simplio-mobile/commit/d8118d62a34dca14ef3e76b13d224b9d6d4b9c3a) [DEVELOPMENT-227] Fix header position - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 743 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-04 10:02:06</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/37d84bf3454889239716b84aa2a5e5c566b1bbd6)</sub> | <sub>[37d84bf](https://github.com/SimplioOfficial/simplio-mobile/commit/37d84bf3454889239716b84aa2a5e5c566b1bbd6) [DEVELOPMENT-252] Add source network to swap li... - jvrastil</sub> |
 | <sub>2021-11-04 07:56:50</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/31ac2728d782e2d078d65f85f5b9faff9ff3f87f)</sub> | <sub>[31ac272](https://github.com/SimplioOfficial/simplio-mobile/commit/31ac2728d782e2d078d65f85f5b9faff9ff3f87f) [DEVELOPMENT-248] show token transaction to dif... - PitTxid</sub> |
 | <sub>2021-11-04 07:20:47</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d5d520f28751...50e3bf5fab2b)</sub> | <sub>[c3b485e](https://github.com/SimplioOfficial/simplio-mobile/commit/c3b485e6a1eba8569808b3b7b45d1d03df6fd66c) support encrypt data from server side - PitTxid<br>[50e3bf5](https://github.com/SimplioOfficial/simplio-mobile/commit/50e3bf5fab2bb54c46f077d42fb6462999a0f280) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid</sub> |
-| <sub>2021-11-03 19:23:46</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/933eb301d23d3dd2ed1687bd4c5673c11b92d777)</sub> | <sub>[933eb30](https://github.com/SimplioOfficial/stake-program/commit/933eb301d23d3dd2ed1687bd4c5673c11b92d777) fixed Errors enum - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
