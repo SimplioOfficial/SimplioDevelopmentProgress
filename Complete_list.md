@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-04 20:12:23</sub> | <sub>[[simplio-mobile:task\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3373d1787c663973fc5cc5f494caa9b64737b093)</sub> | <sub>[3373d17](https://github.com/SimplioOfficial/simplio-mobile/commit/3373d1787c663973fc5cc5f494caa9b64737b093) correction of dependencies - Juliana Souza</sub> |
 | <sub>2021-11-04 19:56:15</sub> | <sub>[[simplio-mobile:task\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f094b4d8674f08ef9d1c8d6ef5bd78eb5f6b449d)</sub> | <sub>[f094b4d](https://github.com/SimplioOfficial/simplio-mobile/commit/f094b4d8674f08ef9d1c8d6ef5bd78eb5f6b449d) new seed page - Juliana Souza</sub> |
 | <sub>2021-11-04 19:29:30</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c54ac83156542c4e3e7ba2bd69bd62f9daaae93)</sub> | <sub>[1c54ac8](https://github.com/SimplioOfficial/simplio-mobile/commit/1c54ac83156542c4e3e7ba2bd69bd62f9daaae93) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
 | <sub>2021-11-04 18:14:48</sub> | <sub>[[simplio-mobile:feature\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d)</sub> | <sub>[ecf4e6f](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d) new recovery seed page - Juliana Souza</sub> |
