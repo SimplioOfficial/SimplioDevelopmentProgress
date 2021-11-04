@@ -13294,5 +13294,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/79e06701b2d028d8142e3525ea3715005090b59c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 14:33:47.918000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2505f2a`](https://github.com/SimplioOfficial/simplio-mobile/commit/2505f2a12e90c3fa023fd9f1e8f608f65e7c2f21) [DEVELOPMENT-227] Change color of expand button... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2505f2a12e90c3fa023fd9f1e8f608f65e7c2f21"
+    }
   }
 ]
