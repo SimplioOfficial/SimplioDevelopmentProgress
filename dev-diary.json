@@ -13456,5 +13456,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fb84be7711a3b1f4f63858618b7313dfe3d62a0d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 22:05:45.008000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d91d378`](https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 22:07:00.768000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`fc985c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647"
+    }
   }
 ]

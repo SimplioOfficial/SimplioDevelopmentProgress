@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 748 commits since 10/09/2021. You can see the complete history in
+There is a total of 750 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-04 22:07:00</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647)</sub> | <sub>[fc985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
+| <sub>2021-11-04 22:05:45</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5)</sub> | <sub>[d91d378](https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
 | <sub>2021-11-04 21:15:06</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fb84be7711a3b1f4f63858618b7313dfe3d62a0d)</sub> | <sub>[fb84be7](https://github.com/SimplioOfficial/simplio-mobile/commit/fb84be7711a3b1f4f63858618b7313dfe3d62a0d) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
 | <sub>2021-11-04 20:12:23</sub> | <sub>[[simplio-mobile:task\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3373d1787c663973fc5cc5f494caa9b64737b093)</sub> | <sub>[3373d17](https://github.com/SimplioOfficial/simplio-mobile/commit/3373d1787c663973fc5cc5f494caa9b64737b093) correction of dependencies - Juliana Souza</sub> |
 | <sub>2021-11-04 19:56:15</sub> | <sub>[[simplio-mobile:task\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f094b4d8674f08ef9d1c8d6ef5bd78eb5f6b449d)</sub> | <sub>[f094b4d](https://github.com/SimplioOfficial/simplio-mobile/commit/f094b4d8674f08ef9d1c8d6ef5bd78eb5f6b449d) new seed page - Juliana Souza</sub> |
@@ -16,7 +18,5 @@ There is a total of 748 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-04 16:19:23</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb)</sub> | <sub>[b5b527f](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb) fix get pool info, deposit/withdrawal liquidity... - PitTxid</sub> |
 | <sub>2021-11-04 16:03:20</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b)</sub> | <sub>[489264b](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b) correct swap fee in summary page - PitTxid</sub> |
 | <sub>2021-11-04 14:45:20</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d8118d62a34dca14ef3e76b13d224b9d6d4b9c3a)</sub> | <sub>[d8118d6](https://github.com/SimplioOfficial/simplio-mobile/commit/d8118d62a34dca14ef3e76b13d224b9d6d4b9c3a) [DEVELOPMENT-227] Fix header position - jvrastil</sub> |
-| <sub>2021-11-04 14:33:47</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2505f2a12e90c3fa023fd9f1e8f608f65e7c2f21)</sub> | <sub>[2505f2a](https://github.com/SimplioOfficial/simplio-mobile/commit/2505f2a12e90c3fa023fd9f1e8f608f65e7c2f21) [DEVELOPMENT-227] Change color of expand button... - jvrastil</sub> |
-| <sub>2021-11-04 13:55:33</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/79e06701b2d028d8142e3525ea3715005090b59c)</sub> | <sub>[79e0670](https://github.com/SimplioOfficial/simplio-mobile/commit/79e06701b2d028d8142e3525ea3715005090b59c) [DEVELOPMENT-227] Display fee calculation on sw... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
