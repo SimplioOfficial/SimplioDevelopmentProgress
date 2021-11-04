@@ -13240,5 +13240,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/31ac2728d782e2d078d65f85f5b9faff9ff3f87f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 10:02:06.495000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`37d84bf`](https://github.com/SimplioOfficial/simplio-mobile/commit/37d84bf3454889239716b84aa2a5e5c566b1bbd6) [DEVELOPMENT-252] Add source network to swap li... - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/37d84bf3454889239716b84aa2a5e5c566b1bbd6"
+    }
   }
 ]
