@@ -13258,5 +13258,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/37d84bf3454889239716b84aa2a5e5c566b1bbd6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 10:25:03.898000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6369107`](https://github.com/SimplioOfficial/stake-program/commit/6369107be5d2dea3a4af5115e13f2a27826db9cc) update get pool info algorithm - PitTxid\n[`1e63785`](https://github.com/SimplioOfficial/stake-program/commit/1e637853aa35f42ef9cdd0c0f8a51834cc9f0efb) Merge branch 'master' of https://github.com/Sim... - PitTxid",
+      "title": "[stake-program:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/compare/933eb301d23d...1e637853aa35"
+    }
   }
 ]
