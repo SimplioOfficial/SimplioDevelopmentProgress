@@ -13222,5 +13222,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d5d520f28751...50e3bf5fab2b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-04 07:56:50.391000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`31ac272`](https://github.com/SimplioOfficial/simplio-mobile/commit/31ac2728d782e2d078d65f85f5b9faff9ff3f87f) [DEVELOPMENT-248] show token transaction to dif... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/31ac2728d782e2d078d65f85f5b9faff9ff3f87f"
+    }
   }
 ]
