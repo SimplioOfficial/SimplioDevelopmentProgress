@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 751 commits since 10/09/2021. You can see the complete history in
+There is a total of 752 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-05 04:00:50</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/31f9979cdb255637289076fd63bb78b4c26a170e)</sub> | <sub>[31f9979](https://github.com/SimplioOfficial/simplio-mobile/commit/31f9979cdb255637289076fd63bb78b4c26a170e) don't need wallet to calculate the fee - PitTxid</sub> |
 | <sub>2021-11-05 03:47:41</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/608825c202934d4b3614086898f359f49f049fd4)</sub> | <sub>[608825c](https://github.com/SimplioOfficial/simplio-mobile/commit/608825c202934d4b3614086898f359f49f049fd4) fix fee in swap-detail modal - PitTxid</sub> |
 | <sub>2021-11-04 22:07:00</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647)</sub> | <sub>[fc985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/fc985c0ec62c532e1c923fd367c23b61c85d3647) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
 | <sub>2021-11-04 22:05:45</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5)</sub> | <sub>[d91d378](https://github.com/SimplioOfficial/simplio-mobile/commit/d91d378304b8ee3f57eea9a754253877f65f7fc5) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 751 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-04 19:29:30</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c54ac83156542c4e3e7ba2bd69bd62f9daaae93)</sub> | <sub>[1c54ac8](https://github.com/SimplioOfficial/simplio-mobile/commit/1c54ac83156542c4e3e7ba2bd69bd62f9daaae93) [DEVELOPMENT-227] Display fees in swap history ... - jvrastil</sub> |
 | <sub>2021-11-04 18:14:48</sub> | <sub>[[simplio-mobile:feature\-185] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d)</sub> | <sub>[ecf4e6f](https://github.com/SimplioOfficial/simplio-mobile/commit/ecf4e6f3fcc8cb04e026e9b8b900cfd83b32cd1d) new recovery seed page - Juliana Souza</sub> |
 | <sub>2021-11-04 16:19:23</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb)</sub> | <sub>[b5b527f](https://github.com/SimplioOfficial/stake-program/commit/b5b527fdcda498bd3202989bcf44cee5d45d6ddb) fix get pool info, deposit/withdrawal liquidity... - PitTxid</sub> |
-| <sub>2021-11-04 16:03:20</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b)</sub> | <sub>[489264b](https://github.com/SimplioOfficial/simplio-mobile/commit/489264b2d110ee046980c0a8d3934fdc5bc1393b) correct swap fee in summary page - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
