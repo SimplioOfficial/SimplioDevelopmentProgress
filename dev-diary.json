@@ -13528,5 +13528,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/31f9979cdb255637289076fd63bb78b4c26a170e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-05 07:47:24.726000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`06c6f5e`](https://github.com/SimplioOfficial/simplio-mobile/commit/06c6f5ef1b15464fb09c8fb790bffb335703b77d) [feature] implement priority request for solana... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/06c6f5ef1b15464fb09c8fb790bffb335703b77d"
+    }
   }
 ]
