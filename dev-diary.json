@@ -13654,5 +13654,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/1857bf78d53f8cfb281cb36f2b88714239ae14a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-05 11:00:56.067000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5eb671c`](https://github.com/SimplioOfficial/simplio-mobile/commit/5eb671cfddb519210033c5a851422712a9826280) fix check fee when putting address - PitTxid\n[`70bc02c`](https://github.com/SimplioOfficial/simplio-mobile/commit/70bc02c4ecd65b12a973066c60ff37da0d1527a5) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.4] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c311e523e2c4...70bc02c4ecd6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-05 11:04:25.782000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4e7ed68`](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f"
+    }
   }
 ]
