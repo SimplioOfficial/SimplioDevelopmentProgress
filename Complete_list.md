@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-05 15:10:55</sub> | <sub>[[simplio-mobile:feature/seed\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f)</sub> | <sub>[0247725](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f) new seed page - Juliana Souza</sub> |
 | <sub>2021-11-05 11:21:01</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97)</sub> | <sub>[c848193](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97) wip - jvrastil</sub> |
 | <sub>2021-11-05 11:16:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6781a0bfba3f...156631497952)</sub> |
 | <sub>2021-11-05 11:04:25</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f)</sub> | <sub>[4e7ed68](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid</sub> |

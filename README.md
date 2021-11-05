@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 763 commits since 10/09/2021. You can see the complete history in
+There is a total of 764 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-05 15:10:55</sub> | <sub>[[simplio-mobile:feature/seed\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f)</sub> | <sub>[0247725](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f) new seed page - Juliana Souza</sub> |
 | <sub>2021-11-05 11:21:01</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97)</sub> | <sub>[c848193](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97) wip - jvrastil</sub> |
 | <sub>2021-11-05 11:16:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6781a0bfba3f...156631497952)</sub> |
 | <sub>2021-11-05 11:04:25</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f)</sub> | <sub>[4e7ed68](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 763 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-05 08:44:43</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c311e523e2c494556f41a46b897d58f1c8dcfeea)</sub> | <sub>[c311e52](https://github.com/SimplioOfficial/simplio-mobile/commit/c311e523e2c494556f41a46b897d58f1c8dcfeea) increase versions - jvrastil</sub> |
 | <sub>2021-11-05 08:33:47</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/89db18640691ce457c669deae7510c30442712f1)</sub> | <sub>[89db186](https://github.com/SimplioOfficial/simplio-mobile/commit/89db18640691ce457c669deae7510c30442712f1) [DEVELOPMENT-227] Fix destination amount in swa... - jvrastil</sub> |
 | <sub>2021-11-05 08:28:47</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2642f88c654b8abb739e0e3226d498de2dfb6e23)</sub> | <sub>[2642f88](https://github.com/SimplioOfficial/simplio-mobile/commit/2642f88c654b8abb739e0e3226d498de2dfb6e23) [DEVELOPMENT-227] Fix destination amount in swa... - jvrastil</sub> |
-| <sub>2021-11-05 08:20:33</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac596304e70113d41af865a8b691cac337502c25)</sub> | <sub>[ac59630](https://github.com/SimplioOfficial/simplio-mobile/commit/ac596304e70113d41af865a8b691cac337502c25) add priority for checking balance - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
