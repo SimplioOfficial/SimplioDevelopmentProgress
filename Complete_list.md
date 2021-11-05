@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-05 16:15:37</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/bd145da1caa6b41c4a1d4cc5efc53ae3114a1f7b)</sub> | <sub>[bd145da](https://github.com/SimplioOfficial/stake-program/commit/bd145da1caa6b41c4a1d4cc5efc53ae3114a1f7b) withdraw reward successfully - PitTxid</sub> |
 | <sub>2021-11-05 15:10:55</sub> | <sub>[[simplio-mobile:feature/seed\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f)</sub> | <sub>[0247725](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f) new seed page - Juliana Souza</sub> |
 | <sub>2021-11-05 11:21:01</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97)</sub> | <sub>[c848193](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97) wip - jvrastil</sub> |
 | <sub>2021-11-05 11:16:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6781a0bfba3f...156631497952)</sub> |

@@ -13743,5 +13743,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-05 16:15:37.777000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`bd145da`](https://github.com/SimplioOfficial/stake-program/commit/bd145da1caa6b41c4a1d4cc5efc53ae3114a1f7b) withdraw reward successfully - PitTxid",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/bd145da1caa6b41c4a1d4cc5efc53ae3114a1f7b"
+    }
   }
 ]
