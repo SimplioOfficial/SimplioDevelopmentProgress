@@ -14011,5 +14011,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ce50cbe29cbdc6e273955f7a9ff9a94b3a00c903"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-08 18:46:05.637000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3898df4`](https://github.com/SimplioOfficial/simplio-mobile/commit/3898df4fb2ff0a5bb4e67147313614da10aa1bd0) xsg- renamed to sio- - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.4\\-purged] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/3898df4fb2ff0a5bb4e67147313614da10aa1bd0"
+    }
   }
 ]
