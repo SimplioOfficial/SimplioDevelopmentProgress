@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 770 commits since 10/09/2021. You can see the complete history in
+There is a total of 771 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-08 09:44:45</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f)</sub> | <sub>[f2615fd](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f) [DEVELOPMENT-261] Fix finished swaps on ios - jvrastil</sub> |
 | <sub>2021-11-08 08:14:19</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773)</sub> | <sub>[e2aa97f](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773) [DEVELOPMENT-258] Remove open email button - jvrastil</sub> |
 | <sub>2021-11-08 07:27:48</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db)</sub> | <sub>[20a7d23](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db) [DEVELOPMENT-254] When EUR chosen in some still... - PitTxid</sub> |
 | <sub>2021-11-08 06:44:58</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4e7ed688480e...07850f548ada)</sub> | <sub>[7bfba75](https://github.com/SimplioOfficial/simplio-mobile/commit/7bfba75d7a1ab7d71a3a21f794a8d6e72baf6d1a) filter null tx solana - PitTxid<br>[07850f5](https://github.com/SimplioOfficial/simplio-mobile/commit/07850f548ada331c4e74ac19557465f4377c8c75) [DEVELOPMENT-260] increase modal timeout to 25 ... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 770 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-05 15:10:55</sub> | <sub>[[simplio-mobile:feature/seed\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f)</sub> | <sub>[0247725](https://github.com/SimplioOfficial/simplio-mobile/commit/024772536904c1dfd4ae6a187c68346f419a954f) new seed page - Juliana Souza</sub> |
 | <sub>2021-11-05 11:21:01</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97)</sub> | <sub>[c848193](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97) wip - jvrastil</sub> |
 | <sub>2021-11-05 11:16:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6781a0bfba3f...156631497952)</sub> |
-| <sub>2021-11-05 11:04:25</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f)</sub> | <sub>[4e7ed68](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

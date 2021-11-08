@@ -13851,5 +13851,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-08 09:44:45.952000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f2615fd`](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f) [DEVELOPMENT-261] Fix finished swaps on ios - jvrastil",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f"
+    }
   }
 ]
