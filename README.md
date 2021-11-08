@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 776 commits since 10/09/2021. You can see the complete history in
+There is a total of 778 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-08 15:58:19</sub> | <sub>[[stake-program:master] 6 new commits](https://github.com/SimplioOfficial/stake-program/compare/9b189793a588...621a703f7e79)</sub> | <sub>[b4ea187](https://github.com/SimplioOfficial/stake-program/commit/b4ea18715a46f18e2b272f65311e34368396fcf3) add check liquidity, update interest percentage - PitTxid<br>[92535c1](https://github.com/SimplioOfficial/stake-program/commit/92535c11a9c55154c4e6dfff2e5411c48cba0d33) calculate staking reward v2 - PitTxid<br>[af2a6d9](https://github.com/SimplioOfficial/stake-program/commit/af2a6d91732b4724f783881569141d5b5623ae0e) update ui to support new code - PitTxid<br>[8e5a014](https://github.com/SimplioOfficial/stake-program/commit/8e5a0145a5ae32f4ea71e6cb3a5ac119ea80ec54) add add new rate feature - PitTxid<br>[6b6bb68](https://github.com/SimplioOfficial/stake-program/commit/6b6bb68c4e74786bd09219d41d753156ba5eb7a2) remove rent from instruction - PitTxid</sub> |
+| <sub>2021-11-08 15:56:05</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/303a443d23629e420356ba7247fb841c1a27b644)</sub> | <sub>[303a443](https://github.com/SimplioOfficial/Cicerone/commit/303a443d23629e420356ba7247fb841c1a27b644) fixed on_member_join function - ciripel</sub> |
 | <sub>2021-11-08 15:54:52</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246)</sub> | <sub>[f7d97cb](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246) added ignored_ids list to on_member_join - ciripel</sub> |
 | <sub>2021-11-08 12:37:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c84819377d16...c31b5a81b585)</sub> |
 | <sub>2021-11-08 12:35:44</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2b91f3d5693a...007f9b6ff029)</sub> |
@@ -16,7 +18,5 @@ There is a total of 776 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-08 09:44:45</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f)</sub> | <sub>[f2615fd](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f) [DEVELOPMENT-261] Fix finished swaps on ios - jvrastil</sub> |
 | <sub>2021-11-08 08:14:19</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773)</sub> | <sub>[e2aa97f](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773) [DEVELOPMENT-258] Remove open email button - jvrastil</sub> |
 | <sub>2021-11-08 07:27:48</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db)</sub> | <sub>[20a7d23](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db) [DEVELOPMENT-254] When EUR chosen in some still... - PitTxid</sub> |
-| <sub>2021-11-08 06:44:58</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4e7ed688480e...07850f548ada)</sub> | <sub>[7bfba75](https://github.com/SimplioOfficial/simplio-mobile/commit/7bfba75d7a1ab7d71a3a21f794a8d6e72baf6d1a) filter null tx solana - PitTxid<br>[07850f5](https://github.com/SimplioOfficial/simplio-mobile/commit/07850f548ada331c4e74ac19557465f4377c8c75) [DEVELOPMENT-260] increase modal timeout to 25 ... - PitTxid</sub> |
-| <sub>2021-11-06 03:12:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/9b189793a588ed02a83b5c833971011042000d3d)</sub> | <sub>[9b18979](https://github.com/SimplioOfficial/stake-program/commit/9b189793a588ed02a83b5c833971011042000d3d) cancel stake successfully - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
