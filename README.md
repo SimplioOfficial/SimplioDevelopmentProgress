@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 769 commits since 10/09/2021. You can see the complete history in
+There is a total of 770 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-08 08:14:19</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773)</sub> | <sub>[e2aa97f](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773) [DEVELOPMENT-258] Remove open email button - jvrastil</sub> |
 | <sub>2021-11-08 07:27:48</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db)</sub> | <sub>[20a7d23](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db) [DEVELOPMENT-254] When EUR chosen in some still... - PitTxid</sub> |
 | <sub>2021-11-08 06:44:58</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4e7ed688480e...07850f548ada)</sub> | <sub>[7bfba75](https://github.com/SimplioOfficial/simplio-mobile/commit/7bfba75d7a1ab7d71a3a21f794a8d6e72baf6d1a) filter null tx solana - PitTxid<br>[07850f5](https://github.com/SimplioOfficial/simplio-mobile/commit/07850f548ada331c4e74ac19557465f4377c8c75) [DEVELOPMENT-260] increase modal timeout to 25 ... - PitTxid</sub> |
 | <sub>2021-11-06 03:12:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/9b189793a588ed02a83b5c833971011042000d3d)</sub> | <sub>[9b18979](https://github.com/SimplioOfficial/stake-program/commit/9b189793a588ed02a83b5c833971011042000d3d) cancel stake successfully - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 769 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-05 11:21:01</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97)</sub> | <sub>[c848193](https://github.com/SimplioOfficial/simplio-mobile/commit/c84819377d166bbd48100ca8bdf9ee3fb3053c97) wip - jvrastil</sub> |
 | <sub>2021-11-05 11:16:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6781a0bfba3f...156631497952)</sub> |
 | <sub>2021-11-05 11:04:25</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f)</sub> | <sub>[4e7ed68](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid</sub> |
-| <sub>2021-11-05 11:00:56</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c311e523e2c4...70bc02c4ecd6)</sub> | <sub>[5eb671c](https://github.com/SimplioOfficial/simplio-mobile/commit/5eb671cfddb519210033c5a851422712a9826280) fix check fee when putting address - PitTxid<br>[70bc02c](https://github.com/SimplioOfficial/simplio-mobile/commit/70bc02c4ecd65b12a973066c60ff37da0d1527a5) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
