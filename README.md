@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 778 commits since 10/09/2021. You can see the complete history in
+There is a total of 779 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-08 17:23:19</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ce50cbe29cbdc6e273955f7a9ff9a94b3a00c903)</sub> | <sub>[ce50cbe](https://github.com/SimplioOfficial/simplio-mobile/commit/ce50cbe29cbdc6e273955f7a9ff9a94b3a00c903) corrected/cleared old icons - ciripel</sub> |
 | <sub>2021-11-08 15:58:19</sub> | <sub>[[stake-program:master] 6 new commits](https://github.com/SimplioOfficial/stake-program/compare/9b189793a588...621a703f7e79)</sub> | <sub>[b4ea187](https://github.com/SimplioOfficial/stake-program/commit/b4ea18715a46f18e2b272f65311e34368396fcf3) add check liquidity, update interest percentage - PitTxid<br>[92535c1](https://github.com/SimplioOfficial/stake-program/commit/92535c11a9c55154c4e6dfff2e5411c48cba0d33) calculate staking reward v2 - PitTxid<br>[af2a6d9](https://github.com/SimplioOfficial/stake-program/commit/af2a6d91732b4724f783881569141d5b5623ae0e) update ui to support new code - PitTxid<br>[8e5a014](https://github.com/SimplioOfficial/stake-program/commit/8e5a0145a5ae32f4ea71e6cb3a5ac119ea80ec54) add add new rate feature - PitTxid<br>[6b6bb68](https://github.com/SimplioOfficial/stake-program/commit/6b6bb68c4e74786bd09219d41d753156ba5eb7a2) remove rent from instruction - PitTxid</sub> |
 | <sub>2021-11-08 15:56:05</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/303a443d23629e420356ba7247fb841c1a27b644)</sub> | <sub>[303a443](https://github.com/SimplioOfficial/Cicerone/commit/303a443d23629e420356ba7247fb841c1a27b644) fixed on_member_join function - ciripel</sub> |
 | <sub>2021-11-08 15:54:52</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246)</sub> | <sub>[f7d97cb](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246) added ignored_ids list to on_member_join - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 778 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-08 10:38:27</sub> | <sub>[[simplio-mobile:v0\.1\.4] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f2615fd397db...a0772c19dbca)</sub> | <sub>[ec68daa](https://github.com/SimplioOfficial/simplio-mobile/commit/ec68daa8425b9850a6ad5093c695380084f1cd04) notification issue fix - jvrastil<br>[a0772c1](https://github.com/SimplioOfficial/simplio-mobile/commit/a0772c19dbca45caef1ca1b23ad7f27f941e38f6) increase versions - jvrastil</sub> |
 | <sub>2021-11-08 09:44:45</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f)</sub> | <sub>[f2615fd](https://github.com/SimplioOfficial/simplio-mobile/commit/f2615fd397db919962430d5bd4ffe242af75039f) [DEVELOPMENT-261] Fix finished swaps on ios - jvrastil</sub> |
 | <sub>2021-11-08 08:14:19</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773)</sub> | <sub>[e2aa97f](https://github.com/SimplioOfficial/simplio-mobile/commit/e2aa97ff46c1fe18d588bd33c218ce336396d773) [DEVELOPMENT-258] Remove open email button - jvrastil</sub> |
-| <sub>2021-11-08 07:27:48</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db)</sub> | <sub>[20a7d23](https://github.com/SimplioOfficial/simplio-mobile/commit/20a7d2368f7755913bbeb63978da90667b0736db) [DEVELOPMENT-254] When EUR chosen in some still... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
