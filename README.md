@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 782 commits since 10/09/2021. You can see the complete history in
+There is a total of 783 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-08 19:36:49</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9c1e89f1331f688c95537c3ef59812c0115814e4)</sub> | <sub>[9c1e89f](https://github.com/SimplioOfficial/simplio-mobile/commit/9c1e89f1331f688c95537c3ef59812c0115814e4) cleared old icons - ciripel</sub> |
 | <sub>2021-11-08 19:06:00</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2b0b8c3d46aea5831d670e7d3eada11185d391)</sub> | <sub>[ca2b0b8](https://github.com/SimplioOfficial/simplio-mobile/commit/ca2b0b8c3d46aea5831d670e7d3eada11185d391) renamed multimple components - ciripel</sub> |
 | <sub>2021-11-08 18:54:52</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/55de5365b18fb4f785c9635a617cc5ed8ba493c7)</sub> | <sub>[55de536](https://github.com/SimplioOfficial/simplio-mobile/commit/55de5365b18fb4f785c9635a617cc5ed8ba493c7) xsg- renamed to sio- - ciripel</sub> |
 | <sub>2021-11-08 18:46:05</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3898df4fb2ff0a5bb4e67147313614da10aa1bd0)</sub> | <sub>[3898df4](https://github.com/SimplioOfficial/simplio-mobile/commit/3898df4fb2ff0a5bb4e67147313614da10aa1bd0) xsg- renamed to sio- - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 782 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-08 15:54:52</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246)</sub> | <sub>[f7d97cb](https://github.com/SimplioOfficial/Cicerone/commit/f7d97cb916383f55c62617670e28e65b8cce1246) added ignored_ids list to on_member_join - ciripel</sub> |
 | <sub>2021-11-08 12:37:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c84819377d16...c31b5a81b585)</sub> |
 | <sub>2021-11-08 12:35:44</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2b91f3d5693a...007f9b6ff029)</sub> |
-| <sub>2021-11-08 10:38:53</sub> | <sub>[[simplio-mobile:testing] 11 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0f75ee5d0212...7fada830ba26)</sub> | <sub>[5eb671c](https://github.com/SimplioOfficial/simplio-mobile/commit/5eb671cfddb519210033c5a851422712a9826280) fix check fee when putting address - PitTxid<br>[70bc02c](https://github.com/SimplioOfficial/simplio-mobile/commit/70bc02c4ecd65b12a973066c60ff37da0d1527a5) Merge branch 'v0.1.4' of https://github.com/Sim... - PitTxid<br>[4e7ed68](https://github.com/SimplioOfficial/simplio-mobile/commit/4e7ed688480ebf275a50d709260209eb5c549e6f) correct INSUFFICIENT_AMOUNT text - PitTxid<br>[7bfba75](https://github.com/SimplioOfficial/simplio-mobile/commit/7bfba75d7a1ab7d71a3a21f794a8d6e72baf6d1a) filter null tx solana - PitTxid<br>[07850f5](https://github.com/SimplioOfficial/simplio-mobile/commit/07850f548ada331c4e74ac19557465f4377c8c75) [DEVELOPMENT-260] increase modal timeout to 25 ... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
