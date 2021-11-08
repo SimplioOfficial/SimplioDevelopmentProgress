@@ -13905,5 +13905,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0f75ee5d0212...7fada830ba26"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-08 12:35:44.046000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2b91f3d5693a...007f9b6ff029)",
+      "title": "[simplio-mobile] Branch master was force-pushed to `007f9b6`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-08 12:37:10.681000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c84819377d16...c31b5a81b585)",
+      "title": "[simplio-mobile] Branch feature/215\\-sumsub was force-pushed to `c31b5a8`",
+      "type": "rich"
+    }
   }
 ]
