@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-09 07:17:46</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ec45217c08644fefa2c69f8f694bc308bc7fc241)</sub> | <sub>[ec45217](https://github.com/SimplioOfficial/simplio-mobile/commit/ec45217c08644fefa2c69f8f694bc308bc7fc241) added data.simplio.io into feev2Url - ciripel</sub> |
 | <sub>2021-11-09 04:24:48</sub> | <sub>[[simplio-mobile:v0\.1\.4] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2478b9556b4ef43abc28071ae77f8c7f2148b39e)</sub> | <sub>[2478b95](https://github.com/SimplioOfficial/simplio-mobile/commit/2478b9556b4ef43abc28071ae77f8c7f2148b39e) use http client for simplio service - PitTxid</sub> |
 | <sub>2021-11-08 20:25:50</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fddd628d1e3969f94ef406f668d80cd78e04228c)</sub> | <sub>[fddd628](https://github.com/SimplioOfficial/simplio-mobile/commit/fddd628d1e3969f94ef406f668d80cd78e04228c) removed feev2Url link - ciripel</sub> |
 | <sub>2021-11-08 20:22:37</sub> | <sub>[[simplio-mobile:v0\.1\.4\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/26e3962878cfeac3afb1e10d2cc8802a0966599a)</sub> | <sub>[26e3962](https://github.com/SimplioOfficial/simplio-mobile/commit/26e3962878cfeac3afb1e10d2cc8802a0966599a) removed route - ciripel</sub> |
