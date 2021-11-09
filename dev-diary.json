@@ -14352,5 +14352,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/207a8fe91753ce95fa8d10311998e92254d858dc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-09 19:29:38.094000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1c8238e`](https://github.com/SimplioOfficial/simplio-mobile/commit/1c8238ede2c1cb0c394319dbc311a55ed17e725a) wip - jvrastil",
+      "title": "[simplio-mobile:feature/215\\-sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1c8238ede2c1cb0c394319dbc311a55ed17e725a"
+    }
   }
 ]
