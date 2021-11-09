@@ -14227,5 +14227,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ec45217c08644fefa2c69f8f694bc308bc7fc241"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-09 07:33:38.728000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`de16380`](https://github.com/SimplioOfficial/simplio-mobile/commit/de163803fdad84d26195329a37642d8c67a24d1d) add http fallback - PitTxid",
+      "title": "[simplio-mobile:http\\-fallback] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/de163803fdad84d26195329a37642d8c67a24d1d"
+    }
   }
 ]
