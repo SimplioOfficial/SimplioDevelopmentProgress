@@ -14245,5 +14245,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/de163803fdad84d26195329a37642d8c67a24d1d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-09 07:57:40.407000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`a28ac22`](https://github.com/SimplioOfficial/simplio-mobile/commit/a28ac22e5fb9c1633d5e1b033c1a7d36966a6818) [DEVELOPMENT-245] show error if cannot initiali... - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a28ac22e5fb9c1633d5e1b033c1a7d36966a6818"
+    }
   }
 ]
