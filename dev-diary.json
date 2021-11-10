@@ -14406,5 +14406,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/02c978890a0b8c4768a527b2b88a9e544634a06d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-10 07:41:39.107000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3f58e43`](https://github.com/SimplioOfficial/simplio-mobile/commit/3f58e43252298702643a3e4f3ab00189174d8330) renamed multimple components - ciripel",
+      "title": "[simplio-mobile:master\\-purged] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/3f58e43252298702643a3e4f3ab00189174d8330"
+    }
   }
 ]
