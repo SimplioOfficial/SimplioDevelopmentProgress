@@ -14460,5 +14460,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6a51e3080ccd...be621d3c89b6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-10 15:12:09.523000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`51096cd`](https://github.com/SimplioOfficial/simplio-mobile/commit/51096cd466b37af4401e5af39dc4619bdeaa90f0) fix reference functions - PitTxid\n[`4748682`](https://github.com/SimplioOfficial/simplio-mobile/commit/474868299117c0585318da6e4ab5c8cfaf669d92) init stake successfully - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/be621d3c89b6...474868299117"
+    }
   }
 ]
