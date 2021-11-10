@@ -14370,5 +14370,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1c8238ede2c1cb0c394319dbc311a55ed17e725a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-10 07:35:06.620000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c638415`](https://github.com/SimplioOfficial/simplio-mobile/commit/c63841558318492f9b890b1cf38e9830ed2f120e) cleared old icons - ciripel",
+      "title": "[simplio-mobile:master\\-purged] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/c63841558318492f9b890b1cf38e9830ed2f120e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-10 07:38:54.529000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`02c9788`](https://github.com/SimplioOfficial/simplio-mobile/commit/02c978890a0b8c4768a527b2b88a9e544634a06d) xsg- renamed to sio- - ciripel",
+      "title": "[simplio-mobile:master\\-purged] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/02c978890a0b8c4768a527b2b88a9e544634a06d"
+    }
   }
 ]
