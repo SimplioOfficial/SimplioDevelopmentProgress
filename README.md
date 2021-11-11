@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 807 commits since 10/09/2021. You can see the complete history in
+There is a total of 808 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-11 18:14:24</sub> | <sub>[[simplio-mobile:feature\-263] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d477a277559e^...8162069209a7)</sub> | <sub>[d477a27](https://github.com/SimplioOfficial/simplio-mobile/commit/d477a277559e84f7659f1cfba4f19590094784e2) tab sections layout - Juliana Souza<br>[949e5cc](https://github.com/SimplioOfficial/simplio-mobile/commit/949e5cc0e9e972b118322fa388fc4431f6de471e) Editing the icon and changing the trade title - Juliana Souza<br>[8162069](https://github.com/SimplioOfficial/simplio-mobile/commit/8162069209a7a541d76aa4527dd3571008ae31ce) tabs in trade page - Juliana Souza</sub> |
 | <sub>2021-11-11 07:46:11</sub> | <sub>[[simplio-mobile:v0\.1\.5] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6bd4755fa128cb660711ba4820b25d2573c2b0db)</sub> | <sub>[6bd4755](https://github.com/SimplioOfficial/simplio-mobile/commit/6bd4755fa128cb660711ba4820b25d2573c2b0db) fix login failed wait too long - PitTxid</sub> |
 | <sub>2021-11-11 04:11:39</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/aa0d16f7219711089bfdddc3994bde3f192617cd)</sub> | <sub>[aa0d16f](https://github.com/SimplioOfficial/simplio-mobile/commit/aa0d16f7219711089bfdddc3994bde3f192617cd) get staking list for wallet - PitTxid</sub> |
 | <sub>2021-11-10 15:12:09</sub> | <sub>[[simplio-mobile:feature/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/be621d3c89b6...474868299117)</sub> | <sub>[51096cd](https://github.com/SimplioOfficial/simplio-mobile/commit/51096cd466b37af4401e5af39dc4619bdeaa90f0) fix reference functions - PitTxid<br>[4748682](https://github.com/SimplioOfficial/simplio-mobile/commit/474868299117c0585318da6e4ab5c8cfaf669d92) init stake successfully - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 807 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-10 07:38:54</sub> | <sub>[[simplio-mobile:master\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/02c978890a0b8c4768a527b2b88a9e544634a06d)</sub> | <sub>[02c9788](https://github.com/SimplioOfficial/simplio-mobile/commit/02c978890a0b8c4768a527b2b88a9e544634a06d) xsg- renamed to sio- - ciripel</sub> |
 | <sub>2021-11-10 07:35:06</sub> | <sub>[[simplio-mobile:master\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c63841558318492f9b890b1cf38e9830ed2f120e)</sub> | <sub>[c638415](https://github.com/SimplioOfficial/simplio-mobile/commit/c63841558318492f9b890b1cf38e9830ed2f120e) cleared old icons - ciripel</sub> |
 | <sub>2021-11-09 19:29:38</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c8238ede2c1cb0c394319dbc311a55ed17e725a)</sub> | <sub>[1c8238e](https://github.com/SimplioOfficial/simplio-mobile/commit/1c8238ede2c1cb0c394319dbc311a55ed17e725a) wip - jvrastil</sub> |
-| <sub>2021-11-09 14:59:17</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/207a8fe91753ce95fa8d10311998e92254d858dc)</sub> | <sub>[207a8fe](https://github.com/SimplioOfficial/simplio-mobile/commit/207a8fe91753ce95fa8d10311998e92254d858dc) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -14514,5 +14514,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6bd4755fa128cb660711ba4820b25d2573c2b0db"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-11 18:14:24.020000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`d477a27`](https://github.com/SimplioOfficial/simplio-mobile/commit/d477a277559e84f7659f1cfba4f19590094784e2) tab sections layout - Juliana Souza\n[`949e5cc`](https://github.com/SimplioOfficial/simplio-mobile/commit/949e5cc0e9e972b118322fa388fc4431f6de471e) Editing the icon and changing the trade title - Juliana Souza\n[`8162069`](https://github.com/SimplioOfficial/simplio-mobile/commit/8162069209a7a541d76aa4527dd3571008ae31ce) tabs in trade page - Juliana Souza",
+      "title": "[simplio-mobile:feature\\-263] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d477a277559e^...8162069209a7"
+    }
   }
 ]
