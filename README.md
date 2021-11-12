@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 811 commits since 10/09/2021. You can see the complete history in
+There is a total of 812 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-12 09:10:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f)</sub> | <sub>[f673faf](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f) update pda for ui: - PitTxid</sub> |
 | <sub>2021-11-12 09:05:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30)</sub> | <sub>[5f9d0e6](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30) fix pda issue - PitTxid</sub> |
 | <sub>2021-11-12 08:34:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/94a50b4227e0...736e89657f21)</sub> |
 | <sub>2021-11-12 08:33:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c8238ede2c1...94a50b4227e0)</sub> |
@@ -17,6 +18,5 @@ There is a total of 811 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-10 15:12:09</sub> | <sub>[[simplio-mobile:feature/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/be621d3c89b6...474868299117)</sub> | <sub>[51096cd](https://github.com/SimplioOfficial/simplio-mobile/commit/51096cd466b37af4401e5af39dc4619bdeaa90f0) fix reference functions - PitTxid<br>[4748682](https://github.com/SimplioOfficial/simplio-mobile/commit/474868299117c0585318da6e4ab5c8cfaf669d92) init stake successfully - PitTxid</sub> |
 | <sub>2021-11-10 10:11:10</sub> | <sub>[[simplio-mobile:feature/staking] 110 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/6a51e3080ccd...be621d3c89b6)</sub> | <sub>[9fa3180](https://github.com/SimplioOfficial/simplio-mobile/commit/9fa3180140020032bd84627db09958953ff231c5) Update readme.md - PitTxid<br>[318042a](https://github.com/SimplioOfficial/simplio-mobile/commit/318042acb1b7c86008a3af71cc3aaab6a85b00aa) Update readme. - daxicek<br>[339ec19](https://github.com/SimplioOfficial/simplio-mobile/commit/339ec19d85244368269cc69f80bd8ed3c5968f11) Merge branch 'v0.1.0' into testing - jvrastil<br>[9491d51](https://github.com/SimplioOfficial/simplio-mobile/commit/9491d51ed76f01fe1e17fd500a25e68e2503f173) Merge branch 'v0.1.0' into testing - jvrastil<br>[c584203](https://github.com/SimplioOfficial/simplio-mobile/commit/c584203483cbbb1721cfdcfd1b06fa81b6760e64) Merge branch 'v0.1.0' into testing - jvrastil</sub> |
 | <sub>2021-11-10 07:54:46</sub> | <sub>[[simplio-mobile:master\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3baca904d9349be4daf12cf9fc123b825a3d0859)</sub> | <sub>[3baca90](https://github.com/SimplioOfficial/simplio-mobile/commit/3baca904d9349be4daf12cf9fc123b825a3d0859) Fixed artefacts - ciripel</sub> |
-| <sub>2021-11-10 07:41:39</sub> | <sub>[[simplio-mobile:master\-purged] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3f58e43252298702643a3e4f3ab00189174d8330)</sub> | <sub>[3f58e43](https://github.com/SimplioOfficial/simplio-mobile/commit/3f58e43252298702643a3e4f3ab00189174d8330) renamed multimple components - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

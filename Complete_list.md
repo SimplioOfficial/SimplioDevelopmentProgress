@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-12 09:10:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f)</sub> | <sub>[f673faf](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f) update pda for ui: - PitTxid</sub> |
 | <sub>2021-11-12 09:05:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30)</sub> | <sub>[5f9d0e6](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30) fix pda issue - PitTxid</sub> |
 | <sub>2021-11-12 08:34:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/94a50b4227e0...736e89657f21)</sub> |
 | <sub>2021-11-12 08:33:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c8238ede2c1...94a50b4227e0)</sub> |
