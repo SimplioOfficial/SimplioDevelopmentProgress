@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-12 09:05:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30)</sub> | <sub>[5f9d0e6](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30) fix pda issue - PitTxid</sub> |
 | <sub>2021-11-12 08:34:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/94a50b4227e0...736e89657f21)</sub> |
 | <sub>2021-11-12 08:33:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c8238ede2c1...94a50b4227e0)</sub> |
 | <sub>2021-11-11 18:14:24</sub> | <sub>[[simplio-mobile:feature\-263] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d477a277559e^...8162069209a7)</sub> | <sub>[d477a27](https://github.com/SimplioOfficial/simplio-mobile/commit/d477a277559e84f7659f1cfba4f19590094784e2) tab sections layout - Juliana Souza<br>[949e5cc](https://github.com/SimplioOfficial/simplio-mobile/commit/949e5cc0e9e972b118322fa388fc4431f6de471e) Editing the icon and changing the trade title - Juliana Souza<br>[8162069](https://github.com/SimplioOfficial/simplio-mobile/commit/8162069209a7a541d76aa4527dd3571008ae31ce) tabs in trade page - Juliana Souza</sub> |

@@ -14566,5 +14566,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-sumsub was force-pushed to `736e896`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-12 09:05:27.997000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5f9d0e6`](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30) fix pda issue - PitTxid",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30"
+    }
   }
 ]
