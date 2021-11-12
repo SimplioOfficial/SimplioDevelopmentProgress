@@ -14638,5 +14638,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6bd4755fa128...a74b549263c0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-12 15:24:35.672000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`9de3959`](https://github.com/SimplioOfficial/simplio-mobile/commit/9de39591dc23867232d8ff1cf63c8a35b9a46451) Feature 263 rebased (#57) - jvrastil",
+      "title": "[simplio-mobile:feature/215\\-sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9de39591dc23867232d8ff1cf63c8a35b9a46451"
+    }
   }
 ]
