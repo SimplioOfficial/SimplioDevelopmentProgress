@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-15 12:23:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7b474a70ec22a67526e93585142ab767d17fd7)</sub> | <sub>[9d7b474](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7b474a70ec22a67526e93585142ab767d17fd7) init - Txid</sub> |
 | <sub>2021-11-15 10:11:07</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64)</sub> | <sub>[9cffb5d](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64) add 3 dots when calculation - PitTxid</sub> |
 | <sub>2021-11-15 10:08:26</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb)</sub> | <sub>[66f370a](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb) remove log - PitTxid</sub> |
 | <sub>2021-11-15 10:07:45</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad2975346ace6c0209eac1325d7fdd274b878b1c)</sub> | <sub>[ad29753](https://github.com/SimplioOfficial/simplio-mobile/commit/ad2975346ace6c0209eac1325d7fdd274b878b1c) add staking estimation - PitTxid</sub> |
