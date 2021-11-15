@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 818 commits since 10/09/2021. You can see the complete history in
+There is a total of 819 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-15 10:11:07</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64)</sub> | <sub>[9cffb5d](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64) add 3 dots when calculation - PitTxid</sub> |
 | <sub>2021-11-15 10:08:26</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb)</sub> | <sub>[66f370a](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb) remove log - PitTxid</sub> |
 | <sub>2021-11-15 10:07:45</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad2975346ace6c0209eac1325d7fdd274b878b1c)</sub> | <sub>[ad29753](https://github.com/SimplioOfficial/simplio-mobile/commit/ad2975346ace6c0209eac1325d7fdd274b878b1c) add staking estimation - PitTxid</sub> |
 | <sub>2021-11-12 15:25:16</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d0354b0834fcce1cbf0c1f86d55b39738a46610)</sub> | <sub>[9d0354b](https://github.com/SimplioOfficial/simplio-mobile/commit/9d0354b0834fcce1cbf0c1f86d55b39738a46610) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 818 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-12 09:10:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f)</sub> | <sub>[f673faf](https://github.com/SimplioOfficial/stake-program/commit/f673faf26f2b48468c4c68898721419707aa512f) update pda for ui: - PitTxid</sub> |
 | <sub>2021-11-12 09:05:27</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30)</sub> | <sub>[5f9d0e6](https://github.com/SimplioOfficial/stake-program/commit/5f9d0e6c1610304c70c748193109c18644a17d30) fix pda issue - PitTxid</sub> |
 | <sub>2021-11-12 08:34:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/94a50b4227e0...736e89657f21)</sub> |
-| <sub>2021-11-12 08:33:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c8238ede2c1...94a50b4227e0)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
