@@ -14782,5 +14782,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-16 09:13:12.003000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d6b156c`](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779"
+    }
   }
 ]
