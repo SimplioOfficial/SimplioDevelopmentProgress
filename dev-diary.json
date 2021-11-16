@@ -14764,5 +14764,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/65f5e354beff9099474a6085e695c1de7a5c5870"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-16 04:09:59.451000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`848c1c6`](https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002) add loading when harvesting and unstaking - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002"
+    }
   }
 ]
