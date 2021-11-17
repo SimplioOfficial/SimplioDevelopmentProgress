@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-17 02:57:05</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7)</sub> | <sub>[1753661](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7) increase version - PitTxid</sub> |
 | <sub>2021-11-16 09:13:12</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779)</sub> | <sub>[d6b156c](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779) increase version - PitTxid</sub> |
 | <sub>2021-11-16 04:09:59</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002)</sub> | <sub>[848c1c6](https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002) add loading when harvesting and unstaking - PitTxid</sub> |
 | <sub>2021-11-15 12:50:37</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/65f5e354beff9099474a6085e695c1de7a5c5870)</sub> | <sub>[65f5e35](https://github.com/SimplioOfficial/simplio-mobile/commit/65f5e354beff9099474a6085e695c1de7a5c5870) init - Txid</sub> |

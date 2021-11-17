@@ -14800,5 +14800,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-17 02:57:05.536000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1753661`](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7) increase version - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7"
+    }
   }
 ]
