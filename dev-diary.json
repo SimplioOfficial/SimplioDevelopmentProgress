@@ -14854,5 +14854,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-18 03:26:21.493000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8eda9a5`](https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b) reload stake if changing wallet in stake page - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b"
+    }
   }
 ]
