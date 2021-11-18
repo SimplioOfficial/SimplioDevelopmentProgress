@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-18 03:10:32</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373)</sub> | <sub>[e268a2d](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373) update parse staking error info - PitTxid</sub> |
 | <sub>2021-11-17 08:26:40</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874)</sub> | <sub>[7a0a59c](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874) [DEVELOPMENT-215] Integrate SumSub KYC & Paymen... - jvrastil</sub> |
 | <sub>2021-11-17 02:57:05</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7)</sub> | <sub>[1753661](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7) increase version - PitTxid</sub> |
 | <sub>2021-11-16 09:13:12</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779)</sub> | <sub>[d6b156c](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779) increase version - PitTxid</sub> |

@@ -14836,5 +14836,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-18 03:10:32.092000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e268a2d`](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373) update parse staking error info - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373"
+    }
   }
 ]
