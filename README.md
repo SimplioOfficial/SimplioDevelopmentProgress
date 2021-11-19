@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 831 commits since 10/09/2021. You can see the complete history in
+There is a total of 832 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-19 20:44:22</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e)</sub> | <sub>[946c00a](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e) Purchase section - Juliana Souza</sub> |
 | <sub>2021-11-19 20:27:08</sub> | <sub>[[simplio-mobile:feature/264] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/df09a7e6ba42472173e0edc62b64c5456baab7ef)</sub> | <sub>[df09a7e](https://github.com/SimplioOfficial/simplio-mobile/commit/df09a7e6ba42472173e0edc62b64c5456baab7ef) Button labels variable - Juliana Souza</sub> |
 | <sub>2021-11-19 20:20:46</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 8 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/9d0354b0834f...ab8a5cf375fc)</sub> | <sub>[2b91f3d](https://github.com/SimplioOfficial/simplio-mobile/commit/2b91f3d5693a4345e631ddd45f63155deaba9fe9) [DEVELOPMENT-89] Fix open mail button - jvrastil<br>[d477a27](https://github.com/SimplioOfficial/simplio-mobile/commit/d477a277559e84f7659f1cfba4f19590094784e2) tab sections layout - Juliana Souza<br>[949e5cc](https://github.com/SimplioOfficial/simplio-mobile/commit/949e5cc0e9e972b118322fa388fc4431f6de471e) Editing the icon and changing the trade title - Juliana Souza<br>[8162069](https://github.com/SimplioOfficial/simplio-mobile/commit/8162069209a7a541d76aa4527dd3571008ae31ce) tabs in trade page - Juliana Souza<br>[3dcf6dc](https://github.com/SimplioOfficial/simplio-mobile/commit/3dcf6dca538d1cb878325a43eb83dc42637ec0ae) merge branch - Juliana Souza</sub> |
 | <sub>2021-11-19 16:56:30</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/88ca318494943f27978d93e2535b667a4191c972)</sub> | <sub>[88ca318](https://github.com/SimplioOfficial/simplio-mobile/commit/88ca318494943f27978d93e2535b667a4191c972) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 831 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-17 08:26:40</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874)</sub> | <sub>[7a0a59c](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874) [DEVELOPMENT-215] Integrate SumSub KYC & Paymen... - jvrastil</sub> |
 | <sub>2021-11-17 02:57:05</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7)</sub> | <sub>[1753661](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7) increase version - PitTxid</sub> |
 | <sub>2021-11-16 09:13:12</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779)</sub> | <sub>[d6b156c](https://github.com/SimplioOfficial/simplio-mobile/commit/d6b156c6bc49870d65f34d223f4bb9c185e48779) increase version - PitTxid</sub> |
-| <sub>2021-11-16 04:09:59</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002)</sub> | <sub>[848c1c6](https://github.com/SimplioOfficial/simplio-mobile/commit/848c1c69596876361d2ab60e5402396c40946002) add loading when harvesting and unstaking - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
