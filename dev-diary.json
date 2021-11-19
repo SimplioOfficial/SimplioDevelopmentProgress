@@ -14872,5 +14872,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-19 16:34:16.289000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`0c9ad8c`](https://github.com/SimplioOfficial/simplio-mobile/commit/0c9ad8ca09016d0a74f4c7b1fc52f6eb70d2fb87) Merge branch 'feature/215-sumsub' of github.com... - Juliana Souza\n[`44bb632`](https://github.com/SimplioOfficial/simplio-mobile/commit/44bb632b8ccf3c062229cbb6f7e698d76ba745bd) Buttons in wallet page - Juliana Souza\n[`7bc4640`](https://github.com/SimplioOfficial/simplio-mobile/commit/7bc46407b5ac600e614a58cdb22ee1b63758af61) icon with related blockchain - Juliana Souza\n[`46c989a`](https://github.com/SimplioOfficial/simplio-mobile/commit/46c989a807277be2f9f915d64fde5eedcd7af796) correction in the icon - Juliana Souza",
+      "title": "[simplio-mobile:feature/264] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0c9ad8ca0901^...46c989a80727"
+    }
   }
 ]

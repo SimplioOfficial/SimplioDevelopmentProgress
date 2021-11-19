@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 827 commits since 10/09/2021. You can see the complete history in
+There is a total of 828 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-19 16:34:16</sub> | <sub>[[simplio-mobile:feature/264] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0c9ad8ca0901^...46c989a80727)</sub> | <sub>[0c9ad8c](https://github.com/SimplioOfficial/simplio-mobile/commit/0c9ad8ca09016d0a74f4c7b1fc52f6eb70d2fb87) Merge branch 'feature/215-sumsub' of github.com... - Juliana Souza<br>[44bb632](https://github.com/SimplioOfficial/simplio-mobile/commit/44bb632b8ccf3c062229cbb6f7e698d76ba745bd) Buttons in wallet page - Juliana Souza<br>[7bc4640](https://github.com/SimplioOfficial/simplio-mobile/commit/7bc46407b5ac600e614a58cdb22ee1b63758af61) icon with related blockchain - Juliana Souza<br>[46c989a](https://github.com/SimplioOfficial/simplio-mobile/commit/46c989a807277be2f9f915d64fde5eedcd7af796) correction in the icon - Juliana Souza</sub> |
 | <sub>2021-11-18 03:26:21</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b)</sub> | <sub>[8eda9a5](https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b) reload stake if changing wallet in stake page - PitTxid</sub> |
 | <sub>2021-11-18 03:10:32</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373)</sub> | <sub>[e268a2d](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373) update parse staking error info - PitTxid</sub> |
 | <sub>2021-11-17 08:26:40</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874)</sub> | <sub>[7a0a59c](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874) [DEVELOPMENT-215] Integrate SumSub KYC & Paymen... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 827 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-15 12:50:37</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/65f5e354beff9099474a6085e695c1de7a5c5870)</sub> | <sub>[65f5e35](https://github.com/SimplioOfficial/simplio-mobile/commit/65f5e354beff9099474a6085e695c1de7a5c5870) init - Txid</sub> |
 | <sub>2021-11-15 12:23:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7b474a70ec22a67526e93585142ab767d17fd7)</sub> | <sub>[9d7b474](https://github.com/SimplioOfficial/simplio-mobile/commit/9d7b474a70ec22a67526e93585142ab767d17fd7) init - Txid</sub> |
 | <sub>2021-11-15 10:11:07</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64)</sub> | <sub>[9cffb5d](https://github.com/SimplioOfficial/simplio-mobile/commit/9cffb5d22851956707c6b43c72a08eb712af7d64) add 3 dots when calculation - PitTxid</sub> |
-| <sub>2021-11-15 10:08:26</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb)</sub> | <sub>[66f370a](https://github.com/SimplioOfficial/simplio-mobile/commit/66f370a928e3f6a164bbd17b2275471899b3d7cb) remove log - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
