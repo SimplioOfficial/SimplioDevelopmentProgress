@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 833 commits since 10/09/2021. You can see the complete history in
+There is a total of 834 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-22 11:56:53</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c)</sub> | <sub>[fd9feab](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c) clippy and format fixes - ciripel</sub> |
 | <sub>2021-11-22 11:08:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd103e2cf48dfcd52f5bdd3eeda1be0c69ad195)</sub> | <sub>[9fd103e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd103e2cf48dfcd52f5bdd3eeda1be0c69ad195) fixed solana contractAddress for C98 - ciripel</sub> |
 | <sub>2021-11-19 20:44:22</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e)</sub> | <sub>[946c00a](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e) Purchase section - Juliana Souza</sub> |
 | <sub>2021-11-19 20:27:08</sub> | <sub>[[simplio-mobile:feature/264] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/df09a7e6ba42472173e0edc62b64c5456baab7ef)</sub> | <sub>[df09a7e](https://github.com/SimplioOfficial/simplio-mobile/commit/df09a7e6ba42472173e0edc62b64c5456baab7ef) Button labels variable - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 833 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-18 03:26:21</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b)</sub> | <sub>[8eda9a5](https://github.com/SimplioOfficial/simplio-mobile/commit/8eda9a5ebcd6d2f6628ea47cd8cdc7ee994e099b) reload stake if changing wallet in stake page - PitTxid</sub> |
 | <sub>2021-11-18 03:10:32</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373)</sub> | <sub>[e268a2d](https://github.com/SimplioOfficial/simplio-mobile/commit/e268a2dd7238a40087bddcca7e6727ce4d9a1373) update parse staking error info - PitTxid</sub> |
 | <sub>2021-11-17 08:26:40</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874)</sub> | <sub>[7a0a59c](https://github.com/SimplioOfficial/simplio-mobile/commit/7a0a59cef64d13c7c7d11b9f24f03d8b98929874) [DEVELOPMENT-215] Integrate SumSub KYC & Paymen... - jvrastil</sub> |
-| <sub>2021-11-17 02:57:05</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7)</sub> | <sub>[1753661](https://github.com/SimplioOfficial/simplio-mobile/commit/1753661e747593b4ed9842e0d36cd4d0a2150ae7) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
