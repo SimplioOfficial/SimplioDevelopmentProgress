@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-23 10:59:56</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad46bd18d35a43f3dc356031fdaea07e8fcb5597)</sub> | <sub>[ad46bd1](https://github.com/SimplioOfficial/simplio-mobile/commit/ad46bd18d35a43f3dc356031fdaea07e8fcb5597) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil</sub> |
 | <sub>2021-11-23 10:53:30</sub> | <sub>[[simplio-mobile:dev\-267\-wallet\_reordering] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d)</sub> | <sub>[703d0c0](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil</sub> |
 | <sub>2021-11-23 08:55:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/88ca31849494...bc576450553d)</sub> |
 | <sub>2021-11-23 08:16:39</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9)</sub> | <sub>[1c482de](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9) updated wallet links in readme - ciripel</sub> |
