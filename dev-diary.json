@@ -14998,5 +14998,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-23 08:16:39.083000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1c482de`](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9) updated wallet links in readme - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9"
+    }
   }
 ]

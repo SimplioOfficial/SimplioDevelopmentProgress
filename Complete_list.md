@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-23 08:16:39</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9)</sub> | <sub>[1c482de](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9) updated wallet links in readme - ciripel</sub> |
 | <sub>2021-11-22 11:56:53</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c)</sub> | <sub>[fd9feab](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c) clippy and format fixes - ciripel</sub> |
 | <sub>2021-11-22 11:08:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd103e2cf48dfcd52f5bdd3eeda1be0c69ad195)</sub> | <sub>[9fd103e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd103e2cf48dfcd52f5bdd3eeda1be0c69ad195) fixed solana contractAddress for C98 - ciripel</sub> |
 | <sub>2021-11-19 20:44:22</sub> | <sub>[[simplio-mobile:feature/215\-sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e)</sub> | <sub>[946c00a](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e) Purchase section - Juliana Souza</sub> |
