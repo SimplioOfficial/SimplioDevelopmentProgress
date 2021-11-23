@@ -15033,5 +15033,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-sumsub\\-v2\\.0 was force-pushed to `bc57645`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-23 10:53:30.519000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`703d0c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil",
+      "title": "[simplio-mobile:dev\\-267\\-wallet\\_reordering] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d"
+    }
   }
 ]

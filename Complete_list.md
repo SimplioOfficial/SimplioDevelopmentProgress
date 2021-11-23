@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-23 10:53:30</sub> | <sub>[[simplio-mobile:dev\-267\-wallet\_reordering] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d)</sub> | <sub>[703d0c0](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil</sub> |
 | <sub>2021-11-23 08:55:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/88ca31849494...bc576450553d)</sub> |
 | <sub>2021-11-23 08:16:39</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9)</sub> | <sub>[1c482de](https://github.com/SimplioOfficial/simplio-mobile/commit/1c482de0578a2e9d880aa64932c37051a0bc34a9) updated wallet links in readme - ciripel</sub> |
 | <sub>2021-11-22 11:56:53</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c)</sub> | <sub>[fd9feab](https://github.com/SimplioOfficial/stake-program/commit/fd9feabcda9140f0b9b1c1a6fc29d23373e6a12c) clippy and format fixes - ciripel</sub> |
