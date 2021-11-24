@@ -15105,5 +15105,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/6e0adf193f6a133f434e6f20070f2e1a583efeb6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-24 15:27:13.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`8ad5dd0`](https://github.com/SimplioOfficial/simplio-mobile/commit/8ad5dd0fef4ab7835692f3f03f378797eaf77fd1) butons in wallet page and icon blockchain - Juliana Souza\n[`7cc0e7f`](https://github.com/SimplioOfficial/simplio-mobile/commit/7cc0e7f78b7dc87d4284d5b88572e4f44cf9d8d4) tab sections and purchase component - Juliana Souza",
+      "title": "[simplio-mobile:feature/264\\-new] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8ad5dd0fef4a^...7cc0e7f78b7d"
+    }
   }
 ]
