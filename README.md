@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 864 commits since 10/09/2021. You can see the complete history in
+There is a total of 866 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 19:58:45</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e)</sub> | <sub>[61c6fac](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e) logging for debug - storkandstars</sub> |
+| <sub>2021-11-25 19:57:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d)</sub> | <sub>[03e940d](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d) removing auth middleware - storkandstars</sub> |
 | <sub>2021-11-25 19:39:13</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04)</sub> | <sub>[4e34a18](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04) removing auth middleware for debugging - storkandstars</sub> |
 | <sub>2021-11-25 16:49:45</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/c315bc35ae92...d167403f905d)</sub> | <sub>[412b744](https://github.com/SimplioOfficial/simplio-go/commit/412b74474cec3dcaebf602ce98cc432956ea1bcc) removing waitFor - storkandstars<br>[d167403](https://github.com/SimplioOfficial/simplio-go/commit/d167403f905d6621bb50341dcc74eacbe1a7e870) extending build timeout to 12 mins - storkandstars</sub> |
 | <sub>2021-11-25 16:37:14</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c315bc35ae92a0bce65edc5ab5eb8bf54559ae2b)</sub> | <sub>[c315bc3](https://github.com/SimplioOfficial/simplio-go/commit/c315bc35ae92a0bce65edc5ab5eb8bf54559ae2b) fixing typo - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 864 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-25 16:00:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675)</sub> | <sub>[da0b69d](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675) exposing ca certificates for bonus services - storkandstars</sub> |
 | <sub>2021-11-25 15:49:46</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5)</sub> | <sub>[fc0eb3c](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5) adding subscriber and grpc service deploy steps - storkandstars</sub> |
 | <sub>2021-11-25 14:38:07</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052)</sub> | <sub>[212f2d6](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052) wip - jvrastil</sub> |
-| <sub>2021-11-25 14:13:08</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416)</sub> | <sub>[a0123c1](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416) adding region to deploy steps - storkandstars</sub> |
-| <sub>2021-11-25 13:31:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fdeb23053cf75275037de18d3eb6eb83addc6942)</sub> | <sub>[fdeb230](https://github.com/SimplioOfficial/simplio-go/commit/fdeb23053cf75275037de18d3eb6eb83addc6942) testing build with deploy - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
