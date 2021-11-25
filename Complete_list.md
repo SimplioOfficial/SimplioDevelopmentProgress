@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 12:08:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fa4fcbee3e1c840b07e68f74c87036024d1a5f72)</sub> | <sub>[fa4fcbe](https://github.com/SimplioOfficial/simplio-go/commit/fa4fcbee3e1c840b07e68f74c87036024d1a5f72) debug all steps - storkandstars</sub> |
 | <sub>2021-11-25 12:04:19</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460)</sub> | <sub>[751812b](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460) debug build strep for migrator - storkandstars</sub> |
 | <sub>2021-11-25 11:58:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f)</sub> | <sub>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars</sub> |
 | <sub>2021-11-25 10:07:47</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c)</sub> | <sub>[55274c7](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c) added test_account_sized and rearanged process fns - ciripel</sub> |
