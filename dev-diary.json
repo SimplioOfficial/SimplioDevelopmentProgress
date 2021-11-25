@@ -15249,5 +15249,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-25 10:07:47.637000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`55274c7`](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c) added test_account_sized and rearanged process fns - ciripel",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c"
+    }
   }
 ]

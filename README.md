@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 848 commits since 10/09/2021. You can see the complete history in
+There is a total of 849 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 10:07:47</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c)</sub> | <sub>[55274c7](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c) added test_account_sized and rearanged process fns - ciripel</sub> |
 | <sub>2021-11-24 23:24:01</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2)</sub> | <sub>[b92f063](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars</sub> |
 | <sub>2021-11-24 23:10:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa)</sub> | <sub>[62d3ca1](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars</sub> |
 | <sub>2021-11-24 23:08:32</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/02bd8ce93d367265002c245bfc042a05bb29b63d)</sub> | <sub>[02bd8ce](https://github.com/SimplioOfficial/simplio-go/commit/02bd8ce93d367265002c245bfc042a05bb29b63d) fixing typo in build config - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 848 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-24 22:57:08</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f8fb83a09a6db8e1920d9f3ad14ad78805ca93b4)</sub> | <sub>[f8fb83a](https://github.com/SimplioOfficial/simplio-go/commit/f8fb83a09a6db8e1920d9f3ad14ad78805ca93b4) adding db migrator - storkandstars</sub> |
 | <sub>2021-11-24 15:27:13</sub> | <sub>[[simplio-mobile:feature/264\-new] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8ad5dd0fef4a^...7cc0e7f78b7d)</sub> | <sub>[8ad5dd0](https://github.com/SimplioOfficial/simplio-mobile/commit/8ad5dd0fef4ab7835692f3f03f378797eaf77fd1) butons in wallet page and icon blockchain - Juliana Souza<br>[7cc0e7f](https://github.com/SimplioOfficial/simplio-mobile/commit/7cc0e7f78b7dc87d4284d5b88572e4f44cf9d8d4) tab sections and purchase component - Juliana Souza</sub> |
 | <sub>2021-11-24 07:24:05</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/6e0adf193f6a133f434e6f20070f2e1a583efeb6)</sub> | <sub>[6e0adf1](https://github.com/SimplioOfficial/stake-program/commit/6e0adf193f6a133f434e6f20070f2e1a583efeb6) implemented unit_tests - ciripel</sub> |
-| <sub>2021-11-23 18:32:24</sub> | <sub>[[simplio-mobile:feature/264] 7 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/df09a7e6ba42...c0aed1d542c3)</sub> | <sub>[ab8a5cf](https://github.com/SimplioOfficial/simplio-mobile/commit/ab8a5cf375fc76770d79cd0bdb89034458cae47b) Purchase section components - Juliana Souza<br>[946c00a](https://github.com/SimplioOfficial/simplio-mobile/commit/946c00a090bfaa48ebddf7daefe10ae055797d6e) Purchase section - Juliana Souza<br>[def5e50](https://github.com/SimplioOfficial/simplio-mobile/commit/def5e50029cd828ac7f27f437ac7021a92a32cbf) Buttons in wallet page - Juliana Souza<br>[7e2d0d0](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2d0d0a39b6a60fd3cf06a53a4c5df9e3d408a9) icon with related blockchain - Juliana Souza<br>[c334a67](https://github.com/SimplioOfficial/simplio-mobile/commit/c334a673f17e163c5f93f06d9faacdcdae9bcae8) correction in the icon - Juliana Souza</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
