@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 12:41:57</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/6f3d6c3fa531e49863086832c9ef5612e8cc3ad1)</sub> | <sub>[6f3d6c3](https://github.com/SimplioOfficial/simplio-go/commit/6f3d6c3fa531e49863086832c9ef5612e8cc3ad1) make a server from a migrator - storkandstars</sub> |
 | <sub>2021-11-25 12:08:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fa4fcbee3e1c840b07e68f74c87036024d1a5f72)</sub> | <sub>[fa4fcbe](https://github.com/SimplioOfficial/simplio-go/commit/fa4fcbee3e1c840b07e68f74c87036024d1a5f72) debug all steps - storkandstars</sub> |
 | <sub>2021-11-25 12:04:19</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460)</sub> | <sub>[751812b](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460) debug build strep for migrator - storkandstars</sub> |
 | <sub>2021-11-25 11:58:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f)</sub> | <sub>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars</sub> |
