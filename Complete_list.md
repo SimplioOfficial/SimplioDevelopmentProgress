@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 11:58:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f)</sub> | <sub>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars</sub> |
 | <sub>2021-11-25 10:07:47</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c)</sub> | <sub>[55274c7](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c) added test_account_sized and rearanged process fns - ciripel</sub> |
 | <sub>2021-11-24 23:24:01</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2)</sub> | <sub>[b92f063](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars</sub> |
 | <sub>2021-11-24 23:10:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa)</sub> | <sub>[62d3ca1](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 849 commits since 10/09/2021. You can see the complete history in
+There is a total of 850 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 11:58:52</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f)</sub> | <sub>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars</sub> |
 | <sub>2021-11-25 10:07:47</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c)</sub> | <sub>[55274c7](https://github.com/SimplioOfficial/stake-program/commit/55274c7df24d5696bfe5bd7ceacd2388c540ce1c) added test_account_sized and rearanged process fns - ciripel</sub> |
 | <sub>2021-11-24 23:24:01</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2)</sub> | <sub>[b92f063](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars</sub> |
 | <sub>2021-11-24 23:10:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa)</sub> | <sub>[62d3ca1](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 849 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-24 23:02:06</sub> | <sub>[[simplio-go:testing] 84 new commits](https://github.com/SimplioOfficial/simplio-go/compare/33a0825e13c0...b95a9754d44c)</sub> | <sub>[efe5601](https://github.com/SimplioOfficial/simplio-go/commit/efe56011b4b20f15e5a8948fcd3978dcb21771a2) updating build - storkandstars<br>[34c1772](https://github.com/SimplioOfficial/simplio-go/commit/34c1772b24206531bada1852da29c70e29c0d639) updating build volumes - storkandstars<br>[7819dd1](https://github.com/SimplioOfficial/simplio-go/commit/7819dd181f171e006d265750be54b55c94a2ef70) updating build volumes - storkandstars<br>[ace21c4](https://github.com/SimplioOfficial/simplio-go/commit/ace21c4b2ac88adfa7c8646484699dd71793776f) updating build volumes - storkandstars<br>[e90e388](https://github.com/SimplioOfficial/simplio-go/commit/e90e3881f838c292f4a598f10ddd759f7c89e387) updating build volumes - storkandstars</sub> |
 | <sub>2021-11-24 22:57:08</sub> | <sub>[[simplio-go:feature/accounts\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f8fb83a09a6db8e1920d9f3ad14ad78805ca93b4)</sub> | <sub>[f8fb83a](https://github.com/SimplioOfficial/simplio-go/commit/f8fb83a09a6db8e1920d9f3ad14ad78805ca93b4) adding db migrator - storkandstars</sub> |
 | <sub>2021-11-24 15:27:13</sub> | <sub>[[simplio-mobile:feature/264\-new] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8ad5dd0fef4a^...7cc0e7f78b7d)</sub> | <sub>[8ad5dd0](https://github.com/SimplioOfficial/simplio-mobile/commit/8ad5dd0fef4ab7835692f3f03f378797eaf77fd1) butons in wallet page and icon blockchain - Juliana Souza<br>[7cc0e7f](https://github.com/SimplioOfficial/simplio-mobile/commit/7cc0e7f78b7dc87d4284d5b88572e4f44cf9d8d4) tab sections and purchase component - Juliana Souza</sub> |
-| <sub>2021-11-24 07:24:05</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/6e0adf193f6a133f434e6f20070f2e1a583efeb6)</sub> | <sub>[6e0adf1](https://github.com/SimplioOfficial/stake-program/commit/6e0adf193f6a133f434e6f20070f2e1a583efeb6) implemented unit_tests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
