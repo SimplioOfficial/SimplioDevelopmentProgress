@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 16:00:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675)</sub> | <sub>[da0b69d](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675) exposing ca certificates for bonus services - storkandstars</sub> |
 | <sub>2021-11-25 15:49:46</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5)</sub> | <sub>[fc0eb3c](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5) adding subscriber and grpc service deploy steps - storkandstars</sub> |
 | <sub>2021-11-25 14:38:07</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052)</sub> | <sub>[212f2d6](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052) wip - jvrastil</sub> |
 | <sub>2021-11-25 14:13:08</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416)</sub> | <sub>[a0123c1](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416) adding region to deploy steps - storkandstars</sub> |
