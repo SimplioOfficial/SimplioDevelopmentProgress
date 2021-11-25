@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-25 14:38:07</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052)</sub> | <sub>[212f2d6](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052) wip - jvrastil</sub> |
 | <sub>2021-11-25 14:13:08</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416)</sub> | <sub>[a0123c1](https://github.com/SimplioOfficial/simplio-go/commit/a0123c1bed826162d7b9183fb167eeb5db9be416) adding region to deploy steps - storkandstars</sub> |
 | <sub>2021-11-25 13:31:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fdeb23053cf75275037de18d3eb6eb83addc6942)</sub> | <sub>[fdeb230](https://github.com/SimplioOfficial/simplio-go/commit/fdeb23053cf75275037de18d3eb6eb83addc6942) testing build with deploy - storkandstars</sub> |
 | <sub>2021-11-25 13:21:58</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c355756457d8d7d0684d3453718f7f26df93b735)</sub> | <sub>[c355756](https://github.com/SimplioOfficial/simplio-go/commit/c355756457d8d7d0684d3453718f7f26df93b735) post method for migration - storkandstars</sub> |
