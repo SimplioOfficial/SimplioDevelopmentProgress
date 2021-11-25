@@ -15519,5 +15519,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/compare/c315bc35ae92...d167403f905d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-25 19:39:13.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4e34a18`](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04) removing auth middleware for debugging - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04"
+    }
   }
 ]
