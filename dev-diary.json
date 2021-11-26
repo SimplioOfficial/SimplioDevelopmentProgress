@@ -15609,5 +15609,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/compare/55274c7df24d...fe646c45f99b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-26 12:52:00.185000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c1a5873`](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398"
+    }
   }
 ]
