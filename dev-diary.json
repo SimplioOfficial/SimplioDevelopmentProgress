@@ -15591,5 +15591,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-26 09:13:57.760000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3609eb6`](https://github.com/SimplioOfficial/stake-program/commit/3609eb641ff1dbed2773a18298b5cbc74d7d5e34) check deposit amount when staking - PitTxid\n[`64faa7e`](https://github.com/SimplioOfficial/stake-program/commit/64faa7e6df7f5b4e3d5867ba16c490e3a1185038) update order of all functions - PitTxid\n[`fe646c4`](https://github.com/SimplioOfficial/stake-program/commit/fe646c45f99b0036018d5cb7b34c657096da36c9) Merge branch 'master' of https://github.com/Sim... - PitTxid",
+      "title": "[stake-program:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/compare/55274c7df24d...fe646c45f99b"
+    }
   }
 ]
