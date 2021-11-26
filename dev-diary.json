@@ -15681,5 +15681,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-26 23:11:26.677000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`0a0ffe1`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a0ffe1a53326a237a19e25c3e3ba611001255af) corrections - Juliana Souza\n[`fb8e094`](https://github.com/SimplioOfficial/simplio-mobile/commit/fb8e09493710988fcd4058d6dd31e9c05539f7e0) add the puchase module to the list module - Juliana Souza\n[`a54d42f`](https://github.com/SimplioOfficial/simplio-mobile/commit/a54d42f2dc98601e1403d8aef9f6a196a0ad547c) corrections purchase module - Juliana Souza",
+      "title": "[simplio-mobile:feature/264\\-new] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7cc0e7f78b7d...a54d42f2dc98"
+    }
   }
 ]
