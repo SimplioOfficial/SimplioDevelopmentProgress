@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-26 07:06:16</sub> | <sub>[[simplio-mobile:v0\.1\.6] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766)</sub> | <sub>[ad8ab39](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766) fix btcz send coin issue - PitTxid</sub> |
 | <sub>2021-11-25 19:58:45</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e)</sub> | <sub>[61c6fac](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e) logging for debug - storkandstars</sub> |
 | <sub>2021-11-25 19:57:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d)</sub> | <sub>[03e940d](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d) removing auth middleware - storkandstars</sub> |
 | <sub>2021-11-25 19:39:13</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04)</sub> | <sub>[4e34a18](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04) removing auth middleware for debugging - storkandstars</sub> |

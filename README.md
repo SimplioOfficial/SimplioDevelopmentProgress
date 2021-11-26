@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 866 commits since 10/09/2021. You can see the complete history in
+There is a total of 867 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-26 07:06:16</sub> | <sub>[[simplio-mobile:v0\.1\.6] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766)</sub> | <sub>[ad8ab39](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766) fix btcz send coin issue - PitTxid</sub> |
 | <sub>2021-11-25 19:58:45</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e)</sub> | <sub>[61c6fac](https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e) logging for debug - storkandstars</sub> |
 | <sub>2021-11-25 19:57:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d)</sub> | <sub>[03e940d](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d) removing auth middleware - storkandstars</sub> |
 | <sub>2021-11-25 19:39:13</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04)</sub> | <sub>[4e34a18](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04) removing auth middleware for debugging - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 866 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-25 16:17:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ade9477c94541d33b35bbc0902518899b421d0d9)</sub> | <sub>[ade9477](https://github.com/SimplioOfficial/simplio-go/commit/ade9477c94541d33b35bbc0902518899b421d0d9) removing 'waitfor' in build - storkandstars</sub> |
 | <sub>2021-11-25 16:00:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675)</sub> | <sub>[da0b69d](https://github.com/SimplioOfficial/simplio-go/commit/da0b69d10249610f919bc7eed857e5ce8d3bd675) exposing ca certificates for bonus services - storkandstars</sub> |
 | <sub>2021-11-25 15:49:46</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5)</sub> | <sub>[fc0eb3c](https://github.com/SimplioOfficial/simplio-go/commit/fc0eb3c6a6a7711b9eb59ea2e7f4312bf1c2b2e5) adding subscriber and grpc service deploy steps - storkandstars</sub> |
-| <sub>2021-11-25 14:38:07</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052)</sub> | <sub>[212f2d6](https://github.com/SimplioOfficial/simplio-mobile/commit/212f2d6017e31eba6e211d411accb636628d7052) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

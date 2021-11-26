@@ -15573,5 +15573,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/61c6facfd2b312d6e5544cbd6da3ed335d08251e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-26 07:06:16.295000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ad8ab39`](https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766) fix btcz send coin issue - PitTxid",
+      "title": "[simplio-mobile:v0\\.1\\.6] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ad8ab39fe5aa2de0bf8cb1065948723b09903766"
+    }
   }
 ]
