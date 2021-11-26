@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-26 14:33:41</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7)</sub> | <sub>[5c2b18a](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7) wip - PitTxid</sub> |
 | <sub>2021-11-26 13:26:15</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
 | <sub>2021-11-26 13:25:40</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
 | <sub>2021-11-26 12:52:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398)</sub> | <sub>[c1a5873](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398) increase versions - jvrastil</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 871 commits since 10/09/2021. You can see the complete history in
+There is a total of 872 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-26 14:33:41</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7)</sub> | <sub>[5c2b18a](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7) wip - PitTxid</sub> |
 | <sub>2021-11-26 13:26:15</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
 | <sub>2021-11-26 13:25:40</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
 | <sub>2021-11-26 12:52:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398)</sub> | <sub>[c1a5873](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398) increase versions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 871 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-25 19:57:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d)</sub> | <sub>[03e940d](https://github.com/SimplioOfficial/simplio-go/commit/03e940d63d5b6b5734e43ec6213cb0d5c125960d) removing auth middleware - storkandstars</sub> |
 | <sub>2021-11-25 19:39:13</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04)</sub> | <sub>[4e34a18](https://github.com/SimplioOfficial/simplio-go/commit/4e34a189ff98fe43f8014bf41ec657df35439f04) removing auth middleware for debugging - storkandstars</sub> |
 | <sub>2021-11-25 16:49:45</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/c315bc35ae92...d167403f905d)</sub> | <sub>[412b744](https://github.com/SimplioOfficial/simplio-go/commit/412b74474cec3dcaebf602ce98cc432956ea1bcc) removing waitFor - storkandstars<br>[d167403](https://github.com/SimplioOfficial/simplio-go/commit/d167403f905d6621bb50341dcc74eacbe1a7e870) extending build timeout to 12 mins - storkandstars</sub> |
-| <sub>2021-11-25 16:37:14</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/c315bc35ae92a0bce65edc5ab5eb8bf54559ae2b)</sub> | <sub>[c315bc3](https://github.com/SimplioOfficial/simplio-go/commit/c315bc35ae92a0bce65edc5ab5eb8bf54559ae2b) fixing typo - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
