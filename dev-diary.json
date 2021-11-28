@@ -15807,5 +15807,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/ca2d8cd5179ccecd23773c5f6bc679e63b5f106b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-28 23:40:08.370000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`68bdfa4`](https://github.com/SimplioOfficial/simplio-go/commit/68bdfa494b933396d9e89cfc60b657790d6b580f) removing api versioning for all services - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/68bdfa494b933396d9e89cfc60b657790d6b580f"
+    }
   }
 ]
