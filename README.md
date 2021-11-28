@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 878 commits since 10/09/2021. You can see the complete history in
+There is a total of 879 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-11-28 22:49:41</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ca2d8cd5179ccecd23773c5f6bc679e63b5f106b)</sub> | <sub>[ca2d8cd](https://github.com/SimplioOfficial/simplio-go/commit/ca2d8cd5179ccecd23773c5f6bc679e63b5f106b) activating account automatic deploys - storkandstars</sub> |
 | <sub>2021-11-28 20:30:33</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/ba067e541a7811a980489a4e9e56b557d195e0cb)</sub> | <sub>[ba067e5](https://github.com/SimplioOfficial/simplio-go/commit/ba067e541a7811a980489a4e9e56b557d195e0cb) disabling automatic deploy for account - storkandstars</sub> |
 | <sub>2021-11-28 20:21:49</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f19ee33f18777a4ff8988962106d25249f51ca1e)</sub> | <sub>[f19ee33](https://github.com/SimplioOfficial/simplio-go/commit/f19ee33f18777a4ff8988962106d25249f51ca1e) missing build location - storkandstars</sub> |
 | <sub>2021-11-28 20:12:06</sub> | <sub>[[simplio-go:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/dd53136f7851...ce2fd1fdff3a)</sub> | <sub>[5a04f63](https://github.com/SimplioOfficial/simplio-go/commit/5a04f637daa5ee75cdbded279de685ce4216370c) updating bonus dependencies - storkandstars<br>[ce2fd1f](https://github.com/SimplioOfficial/simplio-go/commit/ce2fd1fdff3a8a8cd0f1a1ad4f9a8202556d5f1c) updating account dependencies - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 878 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-26 14:33:41</sub> | <sub>[[simplio-mobile:feature/215\-sumsub\-v2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7)</sub> | <sub>[5c2b18a](https://github.com/SimplioOfficial/simplio-mobile/commit/5c2b18a7e24f8a8863ac85c03647411c2c4aeee7) wip - PitTxid</sub> |
 | <sub>2021-11-26 13:26:15</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
 | <sub>2021-11-26 13:25:40</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934)</sub> | <sub>[9fd5c8e](https://github.com/SimplioOfficial/simplio-mobile/commit/9fd5c8ec7c3875b5ee4e7582af6db328ce52f934) increase versions - jvrastil</sub> |
-| <sub>2021-11-26 12:52:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398)</sub> | <sub>[c1a5873](https://github.com/SimplioOfficial/simplio-mobile/commit/c1a587327efa3d4e3ce82e94efeccd73471c3398) increase versions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
