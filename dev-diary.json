@@ -15717,5 +15717,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9fd5c8ec7c38...f63948d914fa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-28 15:48:16.571000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a72f9c0`](https://github.com/SimplioOfficial/simplio-go/commit/a72f9c0f33218b50adc474d505ce2ac1a53987ea) sumsub share token - storkandstars\n[`a000bfd`](https://github.com/SimplioOfficial/simplio-go/commit/a000bfd1f3aac61bb344adf499a481a841a0c094) reformatting modules - storkandstars\n[`f231a7f`](https://github.com/SimplioOfficial/simplio-go/commit/f231a7fc8dce3a212ecca0859643407dca9386fb) clean removing obsolete files - storkandstars\n[`6094645`](https://github.com/SimplioOfficial/simplio-go/commit/6094645bf9e90238a901e68fd9f80f8a2f976b86) removing custom jwt validation - storkandstars\n[`c8c277f`](https://github.com/SimplioOfficial/simplio-go/commit/c8c277f95ae9667843268db3b1b9ef2d9afd1f03) removing openapi specs from repo - storkandstars",
+      "title": "[simplio-go:dev] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/61c6facfd2b3...dd53136f7851"
+    }
   }
 ]
