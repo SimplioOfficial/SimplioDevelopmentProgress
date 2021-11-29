@@ -15825,5 +15825,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/68bdfa494b933396d9e89cfc60b657790d6b580f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-29 08:45:46.695000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`71328f9`](https://github.com/SimplioOfficial/simplio-mobile/commit/71328f99c086ac00507de5cb305586f96efb7682) after code review changes - jvrastil",
+      "title": "[simplio-mobile:feature/264\\-new] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/71328f99c086ac00507de5cb305586f96efb7682"
+    }
   }
 ]
