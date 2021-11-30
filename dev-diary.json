@@ -15933,5 +15933,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0b6c007a6d99be34e19467d9aeadcfcf35da0abb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-30 09:38:01.433000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2c385a0`](https://github.com/SimplioOfficial/simplio-mobile/commit/2c385a091ec411534f5e70b8d846c3ffe1fc49a2) increase version - jvrastil",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2c385a091ec411534f5e70b8d846c3ffe1fc49a2"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-11-30 09:38:12.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e7f79da`](https://github.com/SimplioOfficial/simplio-mobile/commit/e7f79da0a6cbb3a11f7818d4afaf0ed1a41f9602) clean transaction when rescanning - PitTxid\n[`43b2cff`](https://github.com/SimplioOfficial/simplio-mobile/commit/43b2cff78393d89e1a427379d8332970bddc8edd) fix transaction display in solana - PitTxid\n[`6d7173c`](https://github.com/SimplioOfficial/simplio-mobile/commit/6d7173c53e5cbd1451159a5ca57472ba2f284300) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid\n[`0b6c007`](https://github.com/SimplioOfficial/simplio-mobile/commit/0b6c007a6d99be34e19467d9aeadcfcf35da0abb) hide last updated if it's not existed - PitTxid\n[`2c385a0`](https://github.com/SimplioOfficial/simplio-mobile/commit/2c385a091ec411534f5e70b8d846c3ffe1fc49a2) increase version - jvrastil",
+      "title": "[simplio-mobile:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6ccad7de3e20...2c385a091ec4"
+    }
   }
 ]
