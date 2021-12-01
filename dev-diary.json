@@ -16077,5 +16077,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/47085e42c8717716cd406eb73d13ed9498058c6f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-01 14:15:27.998000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`6d34321`](https://github.com/SimplioOfficial/simplio-go/commit/6d34321985f03bfc1473b5a518f2cfbb363c5af8) updated sum dependencies - storkandstars\n[`8aac71d`](https://github.com/SimplioOfficial/simplio-go/commit/8aac71d34eb0d158f7c996b04bba2c65cfde66e4) deploying latest images - storkandstars",
+      "title": "[simplio-go:dev] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/157f07c7ab11...8aac71d34eb0"
+    }
   }
 ]
