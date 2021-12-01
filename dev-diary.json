@@ -16023,5 +16023,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/71328f99c086...bf5335475656"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-01 13:25:09.202000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`48628b1`](https://github.com/SimplioOfficial/simplio-mobile/commit/48628b1627e6cec42ccd2915dece86fb6b4176cd) Squashed commit of the following: - PitTxid\n[`61d8c15`](https://github.com/SimplioOfficial/simplio-mobile/commit/61d8c156049649c44d1d9fc45db5fc764797937e) fix backend issue - PitTxid",
+      "title": "[simplio-mobile:feature/staking] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8eda9a5ebcd6...61d8c1560496"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-01 13:25:54.626000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`2540720`](https://github.com/SimplioOfficial/simplio-mobile/commit/254072039049c990ae45b46db6fe857274af07e4) fix backend issue - PitTxid\n[`f000820`](https://github.com/SimplioOfficial/simplio-mobile/commit/f0008206643c758054fe18bd79f4c04b1a000536) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.2\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/66cfd3b5fc8a...f0008206643c"
+    }
   }
 ]
