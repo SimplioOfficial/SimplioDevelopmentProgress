@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 893 commits since 10/09/2021. You can see the complete history in
+There is a total of 894 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-01 13:34:25</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/47085e42c8717716cd406eb73d13ed9498058c6f)</sub> | <sub>[47085e4](https://github.com/SimplioOfficial/simplio-mobile/commit/47085e42c8717716cd406eb73d13ed9498058c6f) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-01 13:25:54</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/66cfd3b5fc8a...f0008206643c)</sub> | <sub>[2540720](https://github.com/SimplioOfficial/simplio-mobile/commit/254072039049c990ae45b46db6fe857274af07e4) fix backend issue - PitTxid<br>[f000820](https://github.com/SimplioOfficial/simplio-mobile/commit/f0008206643c758054fe18bd79f4c04b1a000536) increase version - PitTxid</sub> |
 | <sub>2021-12-01 13:25:09</sub> | <sub>[[simplio-mobile:feature/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8eda9a5ebcd6...61d8c1560496)</sub> | <sub>[48628b1](https://github.com/SimplioOfficial/simplio-mobile/commit/48628b1627e6cec42ccd2915dece86fb6b4176cd) Squashed commit of the following: - PitTxid<br>[61d8c15](https://github.com/SimplioOfficial/simplio-mobile/commit/61d8c156049649c44d1d9fc45db5fc764797937e) fix backend issue - PitTxid</sub> |
 | <sub>2021-12-01 12:52:27</sub> | <sub>[[simplio-mobile:feature/264\-new] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/71328f99c086...bf5335475656)</sub> | <sub>[4b7e618](https://github.com/SimplioOfficial/simplio-mobile/commit/4b7e618f64efcbf4b5e89a920395218a78e10854) purchase tab corrections - Juliana Souza<br>[bf53354](https://github.com/SimplioOfficial/simplio-mobile/commit/bf53354756567c9ea809781ba6c85f607422cae3) Merge branch 'feature/264-new' of github.com:Si... - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 893 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-11-30 09:38:01</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2c385a091ec411534f5e70b8d846c3ffe1fc49a2)</sub> | <sub>[2c385a0](https://github.com/SimplioOfficial/simplio-mobile/commit/2c385a091ec411534f5e70b8d846c3ffe1fc49a2) increase version - jvrastil</sub> |
 | <sub>2021-11-30 07:55:26</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0b6c007a6d99be34e19467d9aeadcfcf35da0abb)</sub> | <sub>[0b6c007](https://github.com/SimplioOfficial/simplio-mobile/commit/0b6c007a6d99be34e19467d9aeadcfcf35da0abb) hide last updated if it's not existed - PitTxid</sub> |
 | <sub>2021-11-30 00:07:58</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/157f07c7ab11ff04c4377aa932e08c28f127ce19)</sub> | <sub>[157f07c](https://github.com/SimplioOfficial/simplio-go/commit/157f07c7ab11ff04c4377aa932e08c28f127ce19) health check copy update - storkandstars</sub> |
-| <sub>2021-11-29 09:16:30</sub> | <sub>[[simplio-mobile:v0\.2\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/6ccad7de3e20...6d7173c53e5c)</sub> | <sub>[e7f79da](https://github.com/SimplioOfficial/simplio-mobile/commit/e7f79da0a6cbb3a11f7818d4afaf0ed1a41f9602) clean transaction when rescanning - PitTxid<br>[43b2cff](https://github.com/SimplioOfficial/simplio-mobile/commit/43b2cff78393d89e1a427379d8332970bddc8edd) fix transaction display in solana - PitTxid<br>[6d7173c](https://github.com/SimplioOfficial/simplio-mobile/commit/6d7173c53e5cbd1451159a5ca57472ba2f284300) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

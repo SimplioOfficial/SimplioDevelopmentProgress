@@ -16059,5 +16059,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/66cfd3b5fc8a...f0008206643c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-01 13:34:25.767000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`47085e4`](https://github.com/SimplioOfficial/simplio-mobile/commit/47085e42c8717716cd406eb73d13ed9498058c6f) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/47085e42c8717716cd406eb73d13ed9498058c6f"
+    }
   }
 ]
