@@ -16203,5 +16203,113 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:06:46.472000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`99ff8b4`](https://github.com/SimplioOfficial/simplio-mobile/commit/99ff8b4f3d0acd71dfe1f2376f32186f58170761) Android dev fix - jvrastil\n[`42acdf3`](https://github.com/SimplioOfficial/simplio-mobile/commit/42acdf3464f9a384294ecfcf14ca3852d37944cb) Remove unused imports - jvrastil\n[`09a7334`](https://github.com/SimplioOfficial/simplio-mobile/commit/09a7334c19f30e5ecd252528b7605872c8cc86d5) Remove unused parameters & constants - jvrastil\n[`b398cd2`](https://github.com/SimplioOfficial/simplio-mobile/commit/b398cd2c69f393aa86753a540594c739a60f43d4) Remove unused parameters & constants - fix - jvrastil\n[`095df02`](https://github.com/SimplioOfficial/simplio-mobile/commit/095df0216edcb274363f309ff20ea0c8c90b642b) Fix html attributes - jvrastil",
+      "title": "[simplio-mobile:new\\-api] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/99ff8b4f3d0a^...095df0216edc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:07:19.611000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`703d0c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil",
+      "title": "[simplio-mobile:dev\\-267\\-wallet\\_reordering] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:07:39.481000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5398981`](https://github.com/SimplioOfficial/simplio-mobile/commit/539898110c656b7c53c4f83f3600ea97af156b56) corrected/cleared old icons - ciripel\n[`7758307`](https://github.com/SimplioOfficial/simplio-mobile/commit/77583078d157c5fdd2cacab131ec3a58ca227914) xsg- renamed to sio- - ciripel\n[`155c9a9`](https://github.com/SimplioOfficial/simplio-mobile/commit/155c9a93f2686fe70e659f45d17e73dfbfd45abd) renamed multimple components - ciripel",
+      "title": "[simplio-mobile:v0\\.1\\.0\\-purged] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/539898110c65^...155c9a93f268"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:07:42.699000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`edd6e15`](https://github.com/SimplioOfficial/simplio-mobile/commit/edd6e15c07fc44605832d510a9ccb056ad6f5853) Revert \"[DEVELOPMENT-89] Fix open mail button\" - storkandstars",
+      "title": "[simplio-mobile:revert\\-52\\-task\\-89] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/edd6e15c07fc44605832d510a9ccb056ad6f5853"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:07:45.680000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e150f8f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb) [DEVELOPMENT-228] Implement new endpoints for a... - jvrastil",
+      "title": "[simplio-mobile:dev\\-228] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e150f8f0ab2e8aed7827190dd7b0fa413a44f0fb"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:07:53.280000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`987ffa5`](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a) [DEVELOPMENT-89] Open email client with button ... - jvrastil",
+      "title": "[simplio-mobile:dev\\-89] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a"
+    }
   }
 ]
