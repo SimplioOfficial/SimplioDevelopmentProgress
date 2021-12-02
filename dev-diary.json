@@ -16149,5 +16149,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ed45135378a28787c87995f31f076eb4933ae1a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:03:31.714000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8ad5dd0`](https://github.com/SimplioOfficial/simplio-mobile/commit/8ad5dd0fef4ab7835692f3f03f378797eaf77fd1) butons in wallet page and icon blockchain - Juliana Souza\n[`7cc0e7f`](https://github.com/SimplioOfficial/simplio-mobile/commit/7cc0e7f78b7dc87d4284d5b88572e4f44cf9d8d4) tab sections and purchase component - Juliana Souza\n[`0a0ffe1`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a0ffe1a53326a237a19e25c3e3ba611001255af) corrections - Juliana Souza\n[`fb8e094`](https://github.com/SimplioOfficial/simplio-mobile/commit/fb8e09493710988fcd4058d6dd31e9c05539f7e0) add the puchase module to the list module - Juliana Souza\n[`a54d42f`](https://github.com/SimplioOfficial/simplio-mobile/commit/a54d42f2dc98601e1403d8aef9f6a196a0ad547c) corrections purchase module - Juliana Souza",
+      "title": "[simplio-mobile:feature/264\\-new] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8ad5dd0fef4a^...06d3854bff26"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:03:52.751000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3f308c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/3f308c04c5a3a798248855953c22d7ec2ffef6c6) init - storkandstars\n[`7eb1919`](https://github.com/SimplioOfficial/simplio-mobile/commit/7eb191948d99eee21c4c32528fbcc42915bb16ad) init new api - PitTxid\n[`f6444cc`](https://github.com/SimplioOfficial/simplio-mobile/commit/f6444ccee3ce58ddb135cba6e803692a743d4ee8) add creating testnet wallet - PitTxid\n[`deca739`](https://github.com/SimplioOfficial/simplio-mobile/commit/deca73956c351e61c0023332a5215705424e42a9) add spl token - PitTxid\n[`0780e94`](https://github.com/SimplioOfficial/simplio-mobile/commit/0780e94258de83a4940d3718875bf5d163d19a52) update .gitignore - PitTxid",
+      "title": "[simplio-mobile:feature/264] 1104 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3f308c04c5a3^...c0aed1d542c3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-02 09:04:18.749000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`703d0c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d) [DEVELOPMENT-267] Fix wallet reordering bug on ... - jvrastil",
+      "title": "[simplio-mobile:dev\\-267\\-wallet\\_reordering] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/703d0c06cd146e0331e100657ea687338e11636d"
+    }
   }
 ]
