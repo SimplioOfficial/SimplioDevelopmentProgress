@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-06 17:33:42</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9e6962778ec4537e22306a48097f38e07eab1d89)</sub> | <sub>[9e69627](https://github.com/SimplioOfficial/simplio-mobile/commit/9e6962778ec4537e22306a48097f38e07eab1d89) wip - Jan Vraštil</sub> |
 | <sub>2021-12-06 15:40:02</sub> | <sub>[[simplio-mobile:task\-268] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d06e7237272d530b3c53ce820ad43371f319ea0)</sub> | <sub>[6d06e72](https://github.com/SimplioOfficial/simplio-mobile/commit/6d06e7237272d530b3c53ce820ad43371f319ea0) spacing correction - Juliana Souza</sub> |
 | <sub>2021-12-06 15:00:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/b6afa6fc652a...645c949369cc)</sub> |
 | <sub>2021-12-06 13:59:22</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/2a73a6ddec38faa598a484d0506dc244cc889aa5)</sub> | <sub>[2a73a6d](https://github.com/ciripel/script_generated_files/commit/2a73a6ddec38faa598a484d0506dc244cc889aa5) Updated at 06-12-2021 13:59 - ciripel</sub> |
