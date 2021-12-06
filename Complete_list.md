@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-06 09:49:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b0da89b7cfc3...f7a04eb01234)</sub> | <sub>[78c1592](https://github.com/SimplioOfficial/simplio-mobile/commit/78c1592d3f916399375ce6c7fc7f8923b61e6b03) [DEVELOPMENT-275] Fix scrolling on receive page - Jan Vraštil<br>[f7a04eb](https://github.com/SimplioOfficial/simplio-mobile/commit/f7a04eb0123419f33fe6719215b57737a06b34d8) Add ITSAppUsesNonExemptEncryption settings - Jan Vraštil</sub> |
 | <sub>2021-12-02 09:21:22</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f1abdeed71bebcf5c4491fa30501e627cb6741a2)</sub> | <sub>[f1abdee](https://github.com/SimplioOfficial/simplio-mobile/commit/f1abdeed71bebcf5c4491fa30501e627cb6741a2) init - PitTxid</sub> |
 | <sub>2021-12-02 09:16:37</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2c385a091ec4...dbb1dea35a62)</sub> |
 | <sub>2021-12-02 09:07:53</sub> | <sub>[[simplio-mobile:dev\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a)</sub> | <sub>[987ffa5](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a) [DEVELOPMENT-89] Open email client with button ... - jvrastil</sub> |
