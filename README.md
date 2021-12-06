@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 916 commits since 10/09/2021. You can see the complete history in
+There is a total of 917 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-06 19:45:11</sub> | <sub>[[simplio-mobile:wip/staking] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f76bf9c16bba...b8bc34c32c5e)</sub> | <sub>[46b075d](https://github.com/SimplioOfficial/simplio-mobile/commit/46b075dcc1efcb541a6e4b7f11bf01ff629a6866) adding embeded chart color - storkandstars<br>[ac5ce31](https://github.com/SimplioOfficial/simplio-mobile/commit/ac5ce31a4e1dc75455e87ffa8b0ebf3faf2b54b6) adding floating tapbar - storkandstars<br>[b8bc34c](https://github.com/SimplioOfficial/simplio-mobile/commit/b8bc34c32c5ed55c685541781135bfe275c73d9c) adding stake details page - storkandstars</sub> |
 | <sub>2021-12-06 17:33:42</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9e6962778ec4537e22306a48097f38e07eab1d89)</sub> | <sub>[9e69627](https://github.com/SimplioOfficial/simplio-mobile/commit/9e6962778ec4537e22306a48097f38e07eab1d89) wip - Jan Vraštil</sub> |
 | <sub>2021-12-06 15:40:02</sub> | <sub>[[simplio-mobile:task\-268] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d06e7237272d530b3c53ce820ad43371f319ea0)</sub> | <sub>[6d06e72](https://github.com/SimplioOfficial/simplio-mobile/commit/6d06e7237272d530b3c53ce820ad43371f319ea0) spacing correction - Juliana Souza</sub> |
 | <sub>2021-12-06 15:00:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/b6afa6fc652a...645c949369cc)</sub> |
@@ -17,6 +18,5 @@ There is a total of 916 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-06 09:49:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b0da89b7cfc3...f7a04eb01234)</sub> | <sub>[78c1592](https://github.com/SimplioOfficial/simplio-mobile/commit/78c1592d3f916399375ce6c7fc7f8923b61e6b03) [DEVELOPMENT-275] Fix scrolling on receive page - Jan Vraštil<br>[f7a04eb](https://github.com/SimplioOfficial/simplio-mobile/commit/f7a04eb0123419f33fe6719215b57737a06b34d8) Add ITSAppUsesNonExemptEncryption settings - Jan Vraštil</sub> |
 | <sub>2021-12-02 09:21:22</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f1abdeed71bebcf5c4491fa30501e627cb6741a2)</sub> | <sub>[f1abdee](https://github.com/SimplioOfficial/simplio-mobile/commit/f1abdeed71bebcf5c4491fa30501e627cb6741a2) init - PitTxid</sub> |
 | <sub>2021-12-02 09:16:37</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2c385a091ec4...dbb1dea35a62)</sub> |
-| <sub>2021-12-02 09:07:53</sub> | <sub>[[simplio-mobile:dev\-89] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a)</sub> | <sub>[987ffa5](https://github.com/SimplioOfficial/simplio-mobile/commit/987ffa5947ef9523c5876803a97d037332f9071a) [DEVELOPMENT-89] Open email client with button ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
