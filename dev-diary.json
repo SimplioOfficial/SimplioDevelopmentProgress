@@ -16669,5 +16669,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-07 08:57:04.577000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`abd2e3f`](https://github.com/SimplioOfficial/simplio-mobile/commit/abd2e3f2fbb6b11ebb012368e9e54185085a1531) renaming stake page - storkandstars\n[`08f8d3a`](https://github.com/SimplioOfficial/simplio-mobile/commit/08f8d3a063bda4143cc8f7cb20bb3fa4d27ccd54) adding basic stake flow pages - storkandstars",
+      "title": "[simplio-mobile:wip/staking] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/b8bc34c32c5e...08f8d3a063bd"
+    }
   }
 ]

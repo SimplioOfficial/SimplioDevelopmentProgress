@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 927 commits since 10/09/2021. You can see the complete history in
+There is a total of 928 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-07 08:57:04</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b8bc34c32c5e...08f8d3a063bd)</sub> | <sub>[abd2e3f](https://github.com/SimplioOfficial/simplio-mobile/commit/abd2e3f2fbb6b11ebb012368e9e54185085a1531) renaming stake page - storkandstars<br>[08f8d3a](https://github.com/SimplioOfficial/simplio-mobile/commit/08f8d3a063bda4143cc8f7cb20bb3fa4d27ccd54) adding basic stake flow pages - storkandstars</sub> |
 | <sub>2021-12-07 08:48:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8)</sub> | <sub>[9130f40](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-07 08:47:51</sub> | <sub>[[simplio-mobile:feature/DEVELOPMENT\-273] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729)</sub> | <sub>[97b9f1c](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729) add cache tx for erc tokens/coins - PitTxid</sub> |
 | <sub>2021-12-07 07:46:19</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c36405b919f0...81705e3d7719)</sub> | <sub>[12a0cf3](https://github.com/SimplioOfficial/simplio-mobile/commit/12a0cf3a5c3b30955110f50481865b61fb03c952) update package lock - PitTxid<br>[81705e3](https://github.com/SimplioOfficial/simplio-mobile/commit/81705e3d771997566587bf534fc6f6084b35a117) Merge branch 'v0.2.0' into testing - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 927 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-07 07:03:17</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b)</sub> | <sub>[0c07612](https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b) updated cicerone to core team role name change - ciripel</sub> |
 | <sub>2021-12-07 01:22:22</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b3b9e86d7203e5d97a259706c4f3434fb70ace04)</sub> | <sub>[b3b9e86](https://github.com/SimplioOfficial/simplio-mobile/commit/b3b9e86d7203e5d97a259706c4f3434fb70ace04) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-07 01:22:01</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f067dbeaf7a2825a3d3ad9c69095f2880726923a)</sub> | <sub>[f067dbe](https://github.com/SimplioOfficial/simplio-mobile/commit/f067dbeaf7a2825a3d3ad9c69095f2880726923a) increase version - PitTxid</sub> |
-| <sub>2021-12-07 01:18:35</sub> | <sub>[[simplio-mobile:v0\.2\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f7a04eb01234...4730774b5221)</sub> | <sub>[e452723](https://github.com/SimplioOfficial/simplio-mobile/commit/e452723319091558b8e66b7a6745d5ca4eab12d7) update backend lib - PitTxid<br>[0f6f0d3](https://github.com/SimplioOfficial/simplio-mobile/commit/0f6f0d3094722d4c121e28122ed4e362c620909a) add package-lock to ignore - PitTxid<br>[4730774](https://github.com/SimplioOfficial/simplio-mobile/commit/4730774b5221496a301021d81f54cad0381fa985) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
