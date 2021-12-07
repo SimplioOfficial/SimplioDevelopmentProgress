@@ -16543,5 +16543,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b3b9e86d7203e5d97a259706c4f3434fb70ace04"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-07 07:03:17.318000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0c07612`](https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b) updated cicerone to core team role name change - ciripel",
+      "title": "[Cicerone:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b"
+    }
   }
 ]
