@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 928 commits since 10/09/2021. You can see the complete history in
+There is a total of 929 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-07 16:39:53</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c31fa272f0736dd014a86be65f3120288bc8098)</sub> | <sub>[5c31fa2](https://github.com/SimplioOfficial/simplio-mobile/commit/5c31fa272f0736dd014a86be65f3120288bc8098) support sol HD wallet - PitTxid</sub> |
 | <sub>2021-12-07 08:57:04</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b8bc34c32c5e...08f8d3a063bd)</sub> | <sub>[abd2e3f](https://github.com/SimplioOfficial/simplio-mobile/commit/abd2e3f2fbb6b11ebb012368e9e54185085a1531) renaming stake page - storkandstars<br>[08f8d3a](https://github.com/SimplioOfficial/simplio-mobile/commit/08f8d3a063bda4143cc8f7cb20bb3fa4d27ccd54) adding basic stake flow pages - storkandstars</sub> |
 | <sub>2021-12-07 08:48:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8)</sub> | <sub>[9130f40](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-07 08:47:51</sub> | <sub>[[simplio-mobile:feature/DEVELOPMENT\-273] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729)</sub> | <sub>[97b9f1c](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729) add cache tx for erc tokens/coins - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 928 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-07 07:28:59</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0e2f1814e764de9a87f0a3dc2d7b0eb891857d35)</sub> | <sub>[0e2f181](https://github.com/SimplioOfficial/simplio-mobile/commit/0e2f1814e764de9a87f0a3dc2d7b0eb891857d35) remove angular/http from dependency - PitTxid</sub> |
 | <sub>2021-12-07 07:03:17</sub> | <sub>[[Cicerone:master] 1 new commit](https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b)</sub> | <sub>[0c07612](https://github.com/SimplioOfficial/Cicerone/commit/0c07612587b50ea453b9d1f1cbd0130ea3f9ed1b) updated cicerone to core team role name change - ciripel</sub> |
 | <sub>2021-12-07 01:22:22</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b3b9e86d7203e5d97a259706c4f3434fb70ace04)</sub> | <sub>[b3b9e86](https://github.com/SimplioOfficial/simplio-mobile/commit/b3b9e86d7203e5d97a259706c4f3434fb70ace04) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-12-07 01:22:01</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f067dbeaf7a2825a3d3ad9c69095f2880726923a)</sub> | <sub>[f067dbe](https://github.com/SimplioOfficial/simplio-mobile/commit/f067dbeaf7a2825a3d3ad9c69095f2880726923a) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
