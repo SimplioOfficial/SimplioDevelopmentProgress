@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 944 commits since 10/09/2021. You can see the complete history in
+There is a total of 945 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-08 17:45:31</sub> | <sub>[[simplio-go:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-go/compare/2eab499deaa7...6ee4e789cf76)</sub> | <sub>[df609ed](https://github.com/SimplioOfficial/simplio-go/commit/df609ed5b3412f5cbc2ab0a293dcca3f983c5e00) adding auth middleware for gateway - storkandstars<br>[6ee4e78](https://github.com/SimplioOfficial/simplio-go/commit/6ee4e789cf76c3d41a328f7d6229a5b6228bccae) Merge pull request #14 from SimplioOfficial/dev - storkandstars</sub> |
 | <sub>2021-12-08 17:41:11</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/df609ed5b3412f5cbc2ab0a293dcca3f983c5e00)</sub> | <sub>[df609ed](https://github.com/SimplioOfficial/simplio-go/commit/df609ed5b3412f5cbc2ab0a293dcca3f983c5e00) adding auth middleware for gateway - storkandstars</sub> |
 | <sub>2021-12-08 16:47:41</sub> | <sub>[[simplio-go:testing] 41 new commits](https://github.com/SimplioOfficial/simplio-go/compare/3d98647d2009...2eab499deaa7)</sub> | <sub>[02bd8ce](https://github.com/SimplioOfficial/simplio-go/commit/02bd8ce93d367265002c245bfc042a05bb29b63d) fixing typo in build config - storkandstars<br>[62d3ca1](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars<br>[b92f063](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars<br>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars<br>[751812b](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460) debug build strep for migrator - storkandstars</sub> |
 | <sub>2021-12-08 16:44:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/099bc5526d0ff430c7853672719916b09a25fc8e)</sub> | <sub>[099bc55](https://github.com/SimplioOfficial/simplio-go/commit/099bc5526d0ff430c7853672719916b09a25fc8e) variable for api gateway authorization header p... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 944 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-08 13:05:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c2403377810...49f88eb1ac6f)</sub> |
 | <sub>2021-12-08 12:16:34</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48)</sub> | <sub>[538c904](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-08 12:15:44</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/9130f4064602...13ac1e1a0d12)</sub> | <sub>[286e92c](https://github.com/SimplioOfficial/simplio-mobile/commit/286e92cc8d7fec49ac99bc08fca69983470dcb2d) Squashed commit of the following: - PitTxid<br>[13ac1e1](https://github.com/SimplioOfficial/simplio-mobile/commit/13ac1e1a0d122647367751a46fdae1c029c9481d) increase version - PitTxid</sub> |
-| <sub>2021-12-08 11:03:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/9e6962778ec4...1c2403377810)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

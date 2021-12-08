@@ -16973,5 +16973,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/df609ed5b3412f5cbc2ab0a293dcca3f983c5e00"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-08 17:45:31.217000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`df609ed`](https://github.com/SimplioOfficial/simplio-go/commit/df609ed5b3412f5cbc2ab0a293dcca3f983c5e00) adding auth middleware for gateway - storkandstars\n[`6ee4e78`](https://github.com/SimplioOfficial/simplio-go/commit/6ee4e789cf76c3d41a328f7d6229a5b6228bccae) Merge pull request #14 from SimplioOfficial/dev - storkandstars",
+      "title": "[simplio-go:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/2eab499deaa7...6ee4e789cf76"
+    }
   }
 ]
