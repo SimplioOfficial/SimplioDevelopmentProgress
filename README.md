@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 935 commits since 10/09/2021. You can see the complete history in
+There is a total of 937 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-08 12:16:34</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48)</sub> | <sub>[538c904](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48) Squashed commit of the following: - PitTxid</sub> |
+| <sub>2021-12-08 12:15:44</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/9130f4064602...13ac1e1a0d12)</sub> | <sub>[286e92c](https://github.com/SimplioOfficial/simplio-mobile/commit/286e92cc8d7fec49ac99bc08fca69983470dcb2d) Squashed commit of the following: - PitTxid<br>[13ac1e1](https://github.com/SimplioOfficial/simplio-mobile/commit/13ac1e1a0d122647367751a46fdae1c029c9481d) increase version - PitTxid</sub> |
 | <sub>2021-12-08 11:03:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/9e6962778ec4...1c2403377810)</sub> |
 | <sub>2021-12-08 07:58:49</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/67139e1cdc1c3edc36efaa3af2c47ca9d99051ea)</sub> | <sub>[67139e1](https://github.com/SimplioOfficial/simplio-mobile/commit/67139e1cdc1c3edc36efaa3af2c47ca9d99051ea) implemented SOL1 - ciripel</sub> |
 | <sub>2021-12-08 07:43:11</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8)</sub> | <sub>[db09f15](https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8) Added: 60 coins (partially) - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 935 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-08 07:20:07</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cbc33457f915cfbc123b0fbf7f24f0f5660c3a03)</sub> | <sub>[cbc3345](https://github.com/SimplioOfficial/simplio-mobile/commit/cbc33457f915cfbc123b0fbf7f24f0f5660c3a03) update backend package to support hd wallet on ... - PitTxid</sub> |
 | <sub>2021-12-07 16:39:53</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5c31fa272f0736dd014a86be65f3120288bc8098)</sub> | <sub>[5c31fa2](https://github.com/SimplioOfficial/simplio-mobile/commit/5c31fa272f0736dd014a86be65f3120288bc8098) support sol HD wallet - PitTxid</sub> |
 | <sub>2021-12-07 08:57:04</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b8bc34c32c5e...08f8d3a063bd)</sub> | <sub>[abd2e3f](https://github.com/SimplioOfficial/simplio-mobile/commit/abd2e3f2fbb6b11ebb012368e9e54185085a1531) renaming stake page - storkandstars<br>[08f8d3a](https://github.com/SimplioOfficial/simplio-mobile/commit/08f8d3a063bda4143cc8f7cb20bb3fa4d27ccd54) adding basic stake flow pages - storkandstars</sub> |
-| <sub>2021-12-07 08:48:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8)</sub> | <sub>[9130f40](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-12-07 08:47:51</sub> | <sub>[[simplio-mobile:feature/DEVELOPMENT\-273] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729)</sub> | <sub>[97b9f1c](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729) add cache tx for erc tokens/coins - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -16812,5 +16812,41 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `1c24033`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-08 12:15:44.147000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`286e92c`](https://github.com/SimplioOfficial/simplio-mobile/commit/286e92cc8d7fec49ac99bc08fca69983470dcb2d) Squashed commit of the following: - PitTxid\n[`13ac1e1`](https://github.com/SimplioOfficial/simplio-mobile/commit/13ac1e1a0d122647367751a46fdae1c029c9481d) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.2\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/9130f4064602...13ac1e1a0d12"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-08 12:16:34.513000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`538c904`](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48"
+    }
   }
 ]
