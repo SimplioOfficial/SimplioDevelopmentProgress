@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-08 16:16:22</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/60284e5b5c43489d8794d84669d3b25e25340995)</sub> | <sub>[60284e5](https://github.com/SimplioOfficial/simplio-go/commit/60284e5b5c43489d8794d84669d3b25e25340995) debugging authz - storkandstars</sub> |
 | <sub>2021-12-08 15:45:28</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/3867ff0943fd2dbad91bfb8d430a5c7f631b201a)</sub> | <sub>[3867ff0](https://github.com/SimplioOfficial/simplio-go/commit/3867ff0943fd2dbad91bfb8d430a5c7f631b201a) debugging authz - storkandstars</sub> |
 | <sub>2021-12-08 15:12:24</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/eeeaf92f5ba8d95e89d3b676702dc466c6993f3e)</sub> | <sub>[eeeaf92](https://github.com/SimplioOfficial/simplio-go/commit/eeeaf92f5ba8d95e89d3b676702dc466c6993f3e) debugging authz - storkandstars</sub> |
 | <sub>2021-12-08 13:05:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c2403377810...49f88eb1ac6f)</sub> |
