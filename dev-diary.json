@@ -16937,5 +16937,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/099bc5526d0ff430c7853672719916b09a25fc8e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-08 16:47:41.535000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`02bd8ce`](https://github.com/SimplioOfficial/simplio-go/commit/02bd8ce93d367265002c245bfc042a05bb29b63d) fixing typo in build config - storkandstars\n[`62d3ca1`](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars\n[`b92f063`](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars\n[`1ddc147`](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars\n[`751812b`](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460) debug build strep for migrator - storkandstars",
+      "title": "[simplio-go:testing] 41 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/3d98647d2009...2eab499deaa7"
+    }
   }
 ]
