@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 933 commits since 10/09/2021. You can see the complete history in
+There is a total of 934 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-08 07:58:49</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/67139e1cdc1c3edc36efaa3af2c47ca9d99051ea)</sub> | <sub>[67139e1](https://github.com/SimplioOfficial/simplio-mobile/commit/67139e1cdc1c3edc36efaa3af2c47ca9d99051ea) implemented SOL1 - ciripel</sub> |
 | <sub>2021-12-08 07:43:11</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8)</sub> | <sub>[db09f15](https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8) Added: 60 coins (partially) - ciripel</sub> |
 | <sub>2021-12-08 07:29:18</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ff7dad92dceaec49f9fc83569a0a69f6b2906663)</sub> | <sub>[ff7dad9](https://github.com/SimplioOfficial/simplio-mobile/commit/ff7dad92dceaec49f9fc83569a0a69f6b2906663) create wallet with address type - PitTxid</sub> |
 | <sub>2021-12-08 07:24:23</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4992d6b234ae77fa9b60c16440cd696f780e5941)</sub> | <sub>[4992d6b](https://github.com/SimplioOfficial/simplio-mobile/commit/4992d6b234ae77fa9b60c16440cd696f780e5941) add address type to coinitem - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 933 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-07 08:48:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8)</sub> | <sub>[9130f40](https://github.com/SimplioOfficial/simplio-mobile/commit/9130f4064602f4f747213e677ec42cd903ac8da8) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-07 08:47:51</sub> | <sub>[[simplio-mobile:feature/DEVELOPMENT\-273] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729)</sub> | <sub>[97b9f1c](https://github.com/SimplioOfficial/simplio-mobile/commit/97b9f1ce8f5085e964ac30731ec8efc7ec153729) add cache tx for erc tokens/coins - PitTxid</sub> |
 | <sub>2021-12-07 07:46:19</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c36405b919f0...81705e3d7719)</sub> | <sub>[12a0cf3](https://github.com/SimplioOfficial/simplio-mobile/commit/12a0cf3a5c3b30955110f50481865b61fb03c952) update package lock - PitTxid<br>[81705e3](https://github.com/SimplioOfficial/simplio-mobile/commit/81705e3d771997566587bf534fc6f6084b35a117) Merge branch 'v0.2.0' into testing - PitTxid</sub> |
-| <sub>2021-12-07 07:42:15</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/12a0cf3a5c3b30955110f50481865b61fb03c952)</sub> | <sub>[12a0cf3](https://github.com/SimplioOfficial/simplio-mobile/commit/12a0cf3a5c3b30955110f50481865b61fb03c952) update package lock - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
