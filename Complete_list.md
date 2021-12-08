@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-08 15:12:24</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/eeeaf92f5ba8d95e89d3b676702dc466c6993f3e)</sub> | <sub>[eeeaf92](https://github.com/SimplioOfficial/simplio-go/commit/eeeaf92f5ba8d95e89d3b676702dc466c6993f3e) debugging authz - storkandstars</sub> |
 | <sub>2021-12-08 13:05:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1c2403377810...49f88eb1ac6f)</sub> |
 | <sub>2021-12-08 12:16:34</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48)</sub> | <sub>[538c904](https://github.com/SimplioOfficial/simplio-mobile/commit/538c904dfddb399d18bf6998f21ad26e8cff7d48) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-08 12:15:44</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/9130f4064602...13ac1e1a0d12)</sub> | <sub>[286e92c](https://github.com/SimplioOfficial/simplio-mobile/commit/286e92cc8d7fec49ac99bc08fca69983470dcb2d) Squashed commit of the following: - PitTxid<br>[13ac1e1](https://github.com/SimplioOfficial/simplio-mobile/commit/13ac1e1a0d122647367751a46fdae1c029c9481d) increase version - PitTxid</sub> |
