@@ -16759,5 +16759,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ff7dad92dceaec49f9fc83569a0a69f6b2906663"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-08 07:43:11.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`db09f15`](https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8) Added: 60 coins (partially) - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0\\-new\\_tokens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/db09f15c065b08c4249e8a7ad60c02fd90aa50c8"
+    }
   }
 ]
