@@ -17386,5 +17386,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `9342c84`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 15:24:14.516000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`013a072`](https://github.com/SimplioOfficial/simplio-mobile/commit/013a0720ce773b8b5019a7acc79c1925d55c9bde) fix not display staking list - PitTxid\n[`53da9dd`](https://github.com/SimplioOfficial/simplio-mobile/commit/53da9dd7ab9f1bac5781c053c5a5bfd809fb95eb) add estimate staking reward - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a21a36266dff...53da9dd7ab9f"
+    }
   }
 ]
