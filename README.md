@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 961 commits since 10/09/2021. You can see the complete history in
+There is a total of 962 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 13:45:16</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/206eb29d7e2e419ba1a53ab1bf9b1db34ba9c969)</sub> | <sub>[206eb29](https://github.com/SimplioOfficial/simplio-go/commit/206eb29d7e2e419ba1a53ab1bf9b1db34ba9c969) updating build with commit sha - storkandstars</sub> |
 | <sub>2021-12-09 13:44:30</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/59503c1230437f18b02b7962228f0852242521e5)</sub> | <sub>[59503c1](https://github.com/SimplioOfficial/simplio-go/commit/59503c1230437f18b02b7962228f0852242521e5) fixing sumsub definition - storkandstars</sub> |
 | <sub>2021-12-09 13:40:19</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/505e1594f06cde0c288dd7bce01c2a9e1a4896b6)</sub> | <sub>[505e159](https://github.com/SimplioOfficial/simplio-go/commit/505e1594f06cde0c288dd7bce01c2a9e1a4896b6) debugging build pipeline - storkandstars</sub> |
 | <sub>2021-12-09 13:35:44</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/52557bc4a6d73269c19a7eb53fbb43cb76b7b3ba)</sub> | <sub>[52557bc](https://github.com/SimplioOfficial/simplio-go/commit/52557bc4a6d73269c19a7eb53fbb43cb76b7b3ba) debugging build pipeline - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 961 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-09 10:22:20</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f)</sub> | <sub>[6ccda0f](https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f) Added COBAN token - ciripel</sub> |
 | <sub>2021-12-09 07:59:29</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a096bf9d3b1f1b1e6ece042cfe4da64ae06d65da)</sub> | <sub>[a096bf9](https://github.com/SimplioOfficial/simplio-mobile/commit/a096bf9d3b1f1b1e6ece042cfe4da64ae06d65da) Added all contracts till LINA - ciripel</sub> |
 | <sub>2021-12-09 04:53:38</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cc9f17cfea5b16ceaf5f206e90c202a80f0ca149)</sub> | <sub>[cc9f17c](https://github.com/SimplioOfficial/simplio-mobile/commit/cc9f17cfea5b16ceaf5f206e90c202a80f0ca149) Squashed commit of the following: - PitTxid</sub> |
-| <sub>2021-12-09 04:53:09</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/13ac1e1a0d12...76727d999181)</sub> | <sub>[b819de2](https://github.com/SimplioOfficial/simplio-mobile/commit/b819de2c46ce4ea35591769e4122fd5c1b8a9635) Squashed commit of the following: - PitTxid<br>[76727d9](https://github.com/SimplioOfficial/simplio-mobile/commit/76727d99918102496f04a45b40e8836f2bc8cd25) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

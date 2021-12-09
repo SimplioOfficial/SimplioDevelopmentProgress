@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 13:45:16</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/206eb29d7e2e419ba1a53ab1bf9b1db34ba9c969)</sub> | <sub>[206eb29](https://github.com/SimplioOfficial/simplio-go/commit/206eb29d7e2e419ba1a53ab1bf9b1db34ba9c969) updating build with commit sha - storkandstars</sub> |
 | <sub>2021-12-09 13:44:30</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/59503c1230437f18b02b7962228f0852242521e5)</sub> | <sub>[59503c1](https://github.com/SimplioOfficial/simplio-go/commit/59503c1230437f18b02b7962228f0852242521e5) fixing sumsub definition - storkandstars</sub> |
 | <sub>2021-12-09 13:40:19</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/505e1594f06cde0c288dd7bce01c2a9e1a4896b6)</sub> | <sub>[505e159](https://github.com/SimplioOfficial/simplio-go/commit/505e1594f06cde0c288dd7bce01c2a9e1a4896b6) debugging build pipeline - storkandstars</sub> |
 | <sub>2021-12-09 13:35:44</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/52557bc4a6d73269c19a7eb53fbb43cb76b7b3ba)</sub> | <sub>[52557bc](https://github.com/SimplioOfficial/simplio-go/commit/52557bc4a6d73269c19a7eb53fbb43cb76b7b3ba) debugging build pipeline - storkandstars</sub> |
