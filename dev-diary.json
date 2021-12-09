@@ -17171,5 +17171,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 10:50:48.442000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d028d64`](https://github.com/SimplioOfficial/simplio-mobile/commit/d028d64fb3b9239242fa581ca035714644ffd087) Squashed commit of the following: - PitTxid\n[`187f36d`](https://github.com/SimplioOfficial/simplio-mobile/commit/187f36d42050067713c6cf6b81f98efd10a62c39) Squashed commit of the following: - PitTxid\n[`3a92fb7`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a92fb7ba53ca22100bf68217d8ab54f2185f070) Add staking code - PitTxid\n[`8ede6af`](https://github.com/SimplioOfficial/simplio-mobile/commit/8ede6afc36f2b132e38b5289ba5cd3bf62bd9fe3) Squashed commit of the following: - PitTxid\n[`2590773`](https://github.com/SimplioOfficial/simplio-mobile/commit/2590773e31ea36f0cf5ba1b28a52527b5c12d960) init staking successfully - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/08f8d3a063bd...1a5ebdbb2845"
+    }
   }
 ]
