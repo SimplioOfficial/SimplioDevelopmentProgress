@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 949 commits since 10/09/2021. You can see the complete history in
+There is a total of 950 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 04:27:32</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741)</sub> | <sub>[8f0377f](https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741) skip check balance for dev tokens - PitTxid</sub> |
 | <sub>2021-12-09 04:20:27</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66)</sub> | <sub>[7e28e8c](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66) add address type to sqlite - PitTxid</sub> |
 | <sub>2021-12-08 19:44:27</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624)</sub> | <sub>[b0a7a27](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars</sub> |
 | <sub>2021-12-08 19:36:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50)</sub> | <sub>[d9a06fd](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 949 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-08 16:47:41</sub> | <sub>[[simplio-go:testing] 41 new commits](https://github.com/SimplioOfficial/simplio-go/compare/3d98647d2009...2eab499deaa7)</sub> | <sub>[02bd8ce](https://github.com/SimplioOfficial/simplio-go/commit/02bd8ce93d367265002c245bfc042a05bb29b63d) fixing typo in build config - storkandstars<br>[62d3ca1](https://github.com/SimplioOfficial/simplio-go/commit/62d3ca164ed292f45146ffe443f592ba03426dfa) adding a substitution variable - storkandstars<br>[b92f063](https://github.com/SimplioOfficial/simplio-go/commit/b92f0631e144bb366672e300215ddb625be21af2) adding a substitution variable - storkandstars<br>[1ddc147](https://github.com/SimplioOfficial/simplio-go/commit/1ddc1477f1477ed95dc3f5fe65302990f06fd62f) debug build - storkandstars<br>[751812b](https://github.com/SimplioOfficial/simplio-go/commit/751812b55fc3467c9d8da1bb7b0459840e240460) debug build strep for migrator - storkandstars</sub> |
 | <sub>2021-12-08 16:44:54</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/099bc5526d0ff430c7853672719916b09a25fc8e)</sub> | <sub>[099bc55](https://github.com/SimplioOfficial/simplio-go/commit/099bc5526d0ff430c7853672719916b09a25fc8e) variable for api gateway authorization header p... - storkandstars</sub> |
 | <sub>2021-12-08 16:16:22</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/60284e5b5c43489d8794d84669d3b25e25340995)</sub> | <sub>[60284e5](https://github.com/SimplioOfficial/simplio-go/commit/60284e5b5c43489d8794d84669d3b25e25340995) debugging authz - storkandstars</sub> |
-| <sub>2021-12-08 15:45:28</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/3867ff0943fd2dbad91bfb8d430a5c7f631b201a)</sub> | <sub>[3867ff0](https://github.com/SimplioOfficial/simplio-go/commit/3867ff0943fd2dbad91bfb8d430a5c7f631b201a) debugging authz - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

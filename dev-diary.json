@@ -17063,5 +17063,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 04:27:32.917000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8f0377f`](https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741) skip check balance for dev tokens - PitTxid",
+      "title": "[simplio-mobile:feature/hd\\-wallet\\-solana] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741"
+    }
   }
 ]
