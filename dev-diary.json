@@ -17045,5 +17045,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 04:20:27.797000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7e28e8c`](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66) add address type to sqlite - PitTxid",
+      "title": "[simplio-mobile:feature/hd\\-wallet\\-solana] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66"
+    }
   }
 ]

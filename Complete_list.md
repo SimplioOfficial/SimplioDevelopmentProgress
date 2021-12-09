@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 04:20:27</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66)</sub> | <sub>[7e28e8c](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66) add address type to sqlite - PitTxid</sub> |
 | <sub>2021-12-08 19:44:27</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624)</sub> | <sub>[b0a7a27](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars</sub> |
 | <sub>2021-12-08 19:36:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50)</sub> | <sub>[d9a06fd](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars</sub> |
 | <sub>2021-12-08 18:46:28</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/4cd2506dd993255112378971fa769b3afed91891)</sub> | <sub>[4cd2506](https://github.com/SimplioOfficial/simplio-go/commit/4cd2506dd993255112378971fa769b3afed91891) changing to url decode - storkandstars</sub> |
