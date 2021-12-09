@@ -17351,5 +17351,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/3773f2c205e924911edf1853f4d0c9e93cc3c4b1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 14:23:54.213000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3208161`](https://github.com/SimplioOfficial/simplio-mobile/commit/32081610587591fd6bce9be2d2b34bc655952fcf) update backend lib - PitTxid\n[`55ccae5`](https://github.com/SimplioOfficial/simplio-mobile/commit/55ccae5d909d682d1bb3eb46083bff8005affb67) add package-lock to ignore - PitTxid\n[`57ef486`](https://github.com/SimplioOfficial/simplio-mobile/commit/57ef4861f8340e39c31cd356ef3976bf8700a8da) [DEVELOPMENT-275] Fix scrolling on receive page - Jan Vra\u0161til\n[`f3c1441`](https://github.com/SimplioOfficial/simplio-mobile/commit/f3c1441d10363164104587f8a5d073c74fa96e42) Add ITSAppUsesNonExemptEncryption settings - Jan Vra\u0161til\n[`2369dbf`](https://github.com/SimplioOfficial/simplio-mobile/commit/2369dbf7042c0b500c7ea21b5e77c5daf2d5ffcf) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.2\\.0\\-new\\_tokens] 13 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a096bf9d3b1f...350f3844bfbc"
+    }
   }
 ]
