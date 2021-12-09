@@ -17189,5 +17189,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/08f8d3a063bd...1a5ebdbb2845"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 10:58:39.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`a21a362`](https://github.com/SimplioOfficial/simplio-mobile/commit/a21a36266dff3e0b3492b232477a2b024ba4624c) update backend package - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a21a36266dff3e0b3492b232477a2b024ba4624c"
+    }
   }
 ]

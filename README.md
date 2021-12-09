@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 956 commits since 10/09/2021. You can see the complete history in
+There is a total of 957 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 10:58:39</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a21a36266dff3e0b3492b232477a2b024ba4624c)</sub> | <sub>[a21a362](https://github.com/SimplioOfficial/simplio-mobile/commit/a21a36266dff3e0b3492b232477a2b024ba4624c) update backend package - PitTxid</sub> |
 | <sub>2021-12-09 10:50:48</sub> | <sub>[[simplio-mobile:wip/staking] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/08f8d3a063bd...1a5ebdbb2845)</sub> | <sub>[d028d64](https://github.com/SimplioOfficial/simplio-mobile/commit/d028d64fb3b9239242fa581ca035714644ffd087) Squashed commit of the following: - PitTxid<br>[187f36d](https://github.com/SimplioOfficial/simplio-mobile/commit/187f36d42050067713c6cf6b81f98efd10a62c39) Squashed commit of the following: - PitTxid<br>[3a92fb7](https://github.com/SimplioOfficial/simplio-mobile/commit/3a92fb7ba53ca22100bf68217d8ab54f2185f070) Add staking code - PitTxid<br>[8ede6af](https://github.com/SimplioOfficial/simplio-mobile/commit/8ede6afc36f2b132e38b5289ba5cd3bf62bd9fe3) Squashed commit of the following: - PitTxid<br>[2590773](https://github.com/SimplioOfficial/simplio-mobile/commit/2590773e31ea36f0cf5ba1b28a52527b5c12d960) init staking successfully - PitTxid</sub> |
 | <sub>2021-12-09 10:22:20</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f)</sub> | <sub>[6ccda0f](https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f) Added COBAN token - ciripel</sub> |
 | <sub>2021-12-09 07:59:29</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a096bf9d3b1f1b1e6ece042cfe4da64ae06d65da)</sub> | <sub>[a096bf9](https://github.com/SimplioOfficial/simplio-mobile/commit/a096bf9d3b1f1b1e6ece042cfe4da64ae06d65da) Added all contracts till LINA - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 956 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-09 04:27:32</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741)</sub> | <sub>[8f0377f](https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741) skip check balance for dev tokens - PitTxid</sub> |
 | <sub>2021-12-09 04:20:27</sub> | <sub>[[simplio-mobile:feature/hd\-wallet\-solana] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66)</sub> | <sub>[7e28e8c](https://github.com/SimplioOfficial/simplio-mobile/commit/7e28e8cc6661659bbd39bf2eca0e02b6a1170c66) add address type to sqlite - PitTxid</sub> |
 | <sub>2021-12-08 19:44:27</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624)</sub> | <sub>[b0a7a27](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars</sub> |
-| <sub>2021-12-08 19:36:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50)</sub> | <sub>[d9a06fd](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
