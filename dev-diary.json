@@ -17081,5 +17081,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8f0377f16b84dd12c12a3fe9f265b793935d0741"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 04:52:30.314000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`df9bcf0`](https://github.com/SimplioOfficial/simplio-mobile/commit/df9bcf02ac0f9dca18441c8eb6270998410c7544) user can delete SOL wallet until version 0.4.0 - PitTxid",
+      "title": "[simplio-mobile:feature/hd\\-wallet\\-solana] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/df9bcf02ac0f9dca18441c8eb6270998410c7544"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 04:53:09.650000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b819de2`](https://github.com/SimplioOfficial/simplio-mobile/commit/b819de2c46ce4ea35591769e4122fd5c1b8a9635) Squashed commit of the following: - PitTxid\n[`76727d9`](https://github.com/SimplioOfficial/simplio-mobile/commit/76727d99918102496f04a45b40e8836f2bc8cd25) increase version - PitTxid",
+      "title": "[simplio-mobile:v0\\.2\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/13ac1e1a0d12...76727d999181"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 04:53:38.033000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`cc9f17c`](https://github.com/SimplioOfficial/simplio-mobile/commit/cc9f17cfea5b16ceaf5f206e90c202a80f0ca149) Squashed commit of the following: - PitTxid",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/cc9f17cfea5b16ceaf5f206e90c202a80f0ca149"
+    }
   }
 ]
