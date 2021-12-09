@@ -17440,5 +17440,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/65f5e354beff^...bf5335475656"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 17:08:54.934000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`fd369bc`](https://github.com/SimplioOfficial/simplio-mobile/commit/fd369bcf74df84adba7eb5453380bc1bb73825b1) purchase - Juliana Souza",
+      "title": "[simplio-mobile:task/purchase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/fd369bcf74df84adba7eb5453380bc1bb73825b1"
+    }
   }
 ]
