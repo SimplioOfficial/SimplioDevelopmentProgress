@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 21:21:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62)</sub> | <sub>[0ec263e](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62) removing custom jwt verification - storkandstars</sub> |
 | <sub>2021-12-09 2</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5)</sub> | <sub>[d6403b1](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5) updating subject middleware - storkandstars</sub> |
 | <sub>2021-12-09 20:18:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a)</sub> | <sub>[d159097](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a) updating subject middleware - storkandstars</sub> |
 | <sub>2021-12-09 18:42:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec)</sub> | <sub>[89a64dd](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec) testing headers of gateway - storkandstars</sub> |
