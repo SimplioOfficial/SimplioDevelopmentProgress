@@ -17153,5 +17153,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a096bf9d3b1f1b1e6ece042cfe4da64ae06d65da"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 10:22:20.462000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6ccda0f`](https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f) Added COBAN token - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6ccda0f1e2a2818d25517d44c039b5a57753741f"
+    }
   }
 ]
