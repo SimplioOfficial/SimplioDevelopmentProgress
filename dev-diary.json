@@ -17297,5 +17297,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/206eb29d7e2e419ba1a53ab1bf9b1db34ba9c969"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 13:56:05.187000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`36eaf90`](https://github.com/SimplioOfficial/simplio-go/commit/36eaf90a914b9880a5b3278ceef5b8813b3f6d7b) relocating hook - storkandstars",
+      "title": "[simplio-go:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/36eaf90a914b9880a5b3278ceef5b8813b3f6d7b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-09 13:59:12.987000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5217954`](https://github.com/SimplioOfficial/simplio-mobile/commit/52179547d2ab96cccbbb84be0b259b280195707f) Added 3 (3)[0] - ciripel\n[`d682cb7`](https://github.com/SimplioOfficial/simplio-mobile/commit/d682cb7492efd32a7867358171c68d29694af379) Added: 60 coins (partially) - ciripel\n[`8b8e7f8`](https://github.com/SimplioOfficial/simplio-mobile/commit/8b8e7f8f11af0a72e3687be948d64dcb948d1c94) Added all contracts till LINA - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/6ccda0f1e2a2...8b8e7f8f11af"
+    }
   }
 ]
