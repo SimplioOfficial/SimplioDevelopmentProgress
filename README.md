@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 974 commits since 10/09/2021. You can see the complete history in
+There is a total of 975 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-09 20:18:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a)</sub> | <sub>[d159097](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a) updating subject middleware - storkandstars</sub> |
 | <sub>2021-12-09 18:42:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec)</sub> | <sub>[89a64dd](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec) testing headers of gateway - storkandstars</sub> |
 | <sub>2021-12-09 18:26:47</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/b730ad26e2c67b862b6fec195ccdfd7c8fbc5fc8)</sub> | <sub>[b730ad2](https://github.com/SimplioOfficial/simplio-go/commit/b730ad26e2c67b862b6fec195ccdfd7c8fbc5fc8) testing headers of gateway - storkandstars</sub> |
 | <sub>2021-12-09 17:11:43</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/407b48a065e8fb3198ea42c0f56e3460bd638d2f)</sub> | <sub>[407b48a](https://github.com/SimplioOfficial/simplio-go/commit/407b48a065e8fb3198ea42c0f56e3460bd638d2f) testing headers of gateway - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 974 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-09 15:24:14</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a21a36266dff...53da9dd7ab9f)</sub> | <sub>[013a072](https://github.com/SimplioOfficial/simplio-mobile/commit/013a0720ce773b8b5019a7acc79c1925d55c9bde) fix not display staking list - PitTxid<br>[53da9dd](https://github.com/SimplioOfficial/simplio-mobile/commit/53da9dd7ab9f1bac5781c053c5a5bfd809fb95eb) add estimate staking reward - PitTxid</sub> |
 | <sub>2021-12-09 15:09:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3773f2c205e9...9342c844d135)</sub> |
 | <sub>2021-12-09 14:23:54</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 13 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a096bf9d3b1f...350f3844bfbc)</sub> | <sub>[3208161](https://github.com/SimplioOfficial/simplio-mobile/commit/32081610587591fd6bce9be2d2b34bc655952fcf) update backend lib - PitTxid<br>[55ccae5](https://github.com/SimplioOfficial/simplio-mobile/commit/55ccae5d909d682d1bb3eb46083bff8005affb67) add package-lock to ignore - PitTxid<br>[57ef486](https://github.com/SimplioOfficial/simplio-mobile/commit/57ef4861f8340e39c31cd356ef3976bf8700a8da) [DEVELOPMENT-275] Fix scrolling on receive page - Jan Vraštil<br>[f3c1441](https://github.com/SimplioOfficial/simplio-mobile/commit/f3c1441d10363164104587f8a5d073c74fa96e42) Add ITSAppUsesNonExemptEncryption settings - Jan Vraštil<br>[2369dbf](https://github.com/SimplioOfficial/simplio-mobile/commit/2369dbf7042c0b500c7ea21b5e77c5daf2d5ffcf) increase version - PitTxid</sub> |
-| <sub>2021-12-09 14:08:00</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3773f2c205e924911edf1853f4d0c9e93cc3c4b1)</sub> | <sub>[3773f2c](https://github.com/SimplioOfficial/simplio-mobile/commit/3773f2c205e924911edf1853f4d0c9e93cc3c4b1) wip - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
