@@ -17566,5 +17566,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-10 04:11:54.275000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d14a69b`](https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff) display staking page with correct number - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff"
+    }
   }
 ]
