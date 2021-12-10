@@ -17655,5 +17655,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aaa3c6342f4b...a800e94751b0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-10 16:21:22.239000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c96997d`](https://github.com/SimplioOfficial/simplio-mobile/commit/c96997d5c6801031ddeb12a92bff935feda1a941) fix get balance solana token - PitTxid\n[`ffb61b7`](https://github.com/SimplioOfficial/simplio-mobile/commit/ffb61b75e180c95b085ae35ff1074d18960feb84) fix parse transaction sol and sol token - PitTxid\n[`3a64ad6`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a64ad675ab701033a1f6dca60dd388deab84b91) add unstake code - PitTxid\n[`f82aa0b`](https://github.com/SimplioOfficial/simplio-mobile/commit/f82aa0b04f7d52f36f00cd879dcda8ed65b56b5f) close stake from stake detail page go back to home - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a800e94751b0...f82aa0b04f7d"
+    }
   }
 ]
