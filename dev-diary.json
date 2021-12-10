@@ -17584,5 +17584,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-10 11:08:13.998000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/fd369bcf74df...3a7571cf3d7d)",
+      "title": "[simplio-mobile] Branch task/purchase was force-pushed to `3a7571c`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-10 11:08:31.737000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7dbc70e`](https://github.com/SimplioOfficial/simplio-mobile/commit/7dbc70e8e336f6f3a68ea6c58647889da27a90d4) Task/purchase (#5) - Juvi3eira",
+      "title": "[simplio-mobile:feature/215\\-payment\\_gatevay\\_and\\_sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7dbc70e8e336f6f3a68ea6c58647889da27a90d4"
+    }
   }
 ]
