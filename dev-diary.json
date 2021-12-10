@@ -17637,5 +17637,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d14a69b29882...aaa3c6342f4b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-10 14:56:47.501000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`2163e56`](https://github.com/SimplioOfficial/simplio-mobile/commit/2163e566e76dbe7351cea3928319db38b3d059cd) update backend package - PitTxid\n[`a800e94`](https://github.com/SimplioOfficial/simplio-mobile/commit/a800e94751b02b392e37dbdcefd724e7f874838d) correct date time style in stake detail page - PitTxid",
+      "title": "[simplio-mobile:wip/staking] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aaa3c6342f4b...a800e94751b0"
+    }
   }
 ]
