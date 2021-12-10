@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 983 commits since 10/09/2021. You can see the complete history in
+There is a total of 984 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-10 16:37:46</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87)</sub> | <sub>[7cb3ce7](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87) add craeted time to stake detail page - PitTxid</sub> |
 | <sub>2021-12-10 16:21:22</sub> | <sub>[[simplio-mobile:wip/staking] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a800e94751b0...f82aa0b04f7d)</sub> | <sub>[c96997d](https://github.com/SimplioOfficial/simplio-mobile/commit/c96997d5c6801031ddeb12a92bff935feda1a941) fix get balance solana token - PitTxid<br>[ffb61b7](https://github.com/SimplioOfficial/simplio-mobile/commit/ffb61b75e180c95b085ae35ff1074d18960feb84) fix parse transaction sol and sol token - PitTxid<br>[3a64ad6](https://github.com/SimplioOfficial/simplio-mobile/commit/3a64ad675ab701033a1f6dca60dd388deab84b91) add unstake code - PitTxid<br>[f82aa0b](https://github.com/SimplioOfficial/simplio-mobile/commit/f82aa0b04f7d52f36f00cd879dcda8ed65b56b5f) close stake from stake detail page go back to home - PitTxid</sub> |
 | <sub>2021-12-10 14:56:47</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aaa3c6342f4b...a800e94751b0)</sub> | <sub>[2163e56](https://github.com/SimplioOfficial/simplio-mobile/commit/2163e566e76dbe7351cea3928319db38b3d059cd) update backend package - PitTxid<br>[a800e94](https://github.com/SimplioOfficial/simplio-mobile/commit/a800e94751b02b392e37dbdcefd724e7f874838d) correct date time style in stake detail page - PitTxid</sub> |
 | <sub>2021-12-10 14:44:57</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d14a69b29882...aaa3c6342f4b)</sub> | <sub>[48dff7c](https://github.com/SimplioOfficial/simplio-mobile/commit/48dff7c5eec1fe59b240f97654877f3e12a36723) harvesting successfully - PitTxid<br>[aaa3c63](https://github.com/SimplioOfficial/simplio-mobile/commit/aaa3c6342f4b2ac9c03bcb64d6a1b8fb5f9b681a) harvest ok, sort staking by last payment time - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 983 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-09 21:21:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62)</sub> | <sub>[0ec263e](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62) removing custom jwt verification - storkandstars</sub> |
 | <sub>2021-12-09 2</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5)</sub> | <sub>[d6403b1](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5) updating subject middleware - storkandstars</sub> |
 | <sub>2021-12-09 20:18:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a)</sub> | <sub>[d159097](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a) updating subject middleware - storkandstars</sub> |
-| <sub>2021-12-09 18:42:37</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec)</sub> | <sub>[89a64dd](https://github.com/SimplioOfficial/simplio-go/commit/89a64dd336068df8d0005d6aabd83dba22852bec) testing headers of gateway - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
