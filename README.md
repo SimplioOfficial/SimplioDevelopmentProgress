@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 984 commits since 10/09/2021. You can see the complete history in
+There is a total of 986 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-13 09:38:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82)</sub> | <sub>[6d524da](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82) Squashed commit of the following: - PitTxid</sub> |
+| <sub>2021-12-13 09:38:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6)</sub> | <sub>[58c2594](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6) increase version - PitTxid</sub> |
 | <sub>2021-12-10 16:37:46</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87)</sub> | <sub>[7cb3ce7](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87) add craeted time to stake detail page - PitTxid</sub> |
 | <sub>2021-12-10 16:21:22</sub> | <sub>[[simplio-mobile:wip/staking] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a800e94751b0...f82aa0b04f7d)</sub> | <sub>[c96997d](https://github.com/SimplioOfficial/simplio-mobile/commit/c96997d5c6801031ddeb12a92bff935feda1a941) fix get balance solana token - PitTxid<br>[ffb61b7](https://github.com/SimplioOfficial/simplio-mobile/commit/ffb61b75e180c95b085ae35ff1074d18960feb84) fix parse transaction sol and sol token - PitTxid<br>[3a64ad6](https://github.com/SimplioOfficial/simplio-mobile/commit/3a64ad675ab701033a1f6dca60dd388deab84b91) add unstake code - PitTxid<br>[f82aa0b](https://github.com/SimplioOfficial/simplio-mobile/commit/f82aa0b04f7d52f36f00cd879dcda8ed65b56b5f) close stake from stake detail page go back to home - PitTxid</sub> |
 | <sub>2021-12-10 14:56:47</sub> | <sub>[[simplio-mobile:wip/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aaa3c6342f4b...a800e94751b0)</sub> | <sub>[2163e56](https://github.com/SimplioOfficial/simplio-mobile/commit/2163e566e76dbe7351cea3928319db38b3d059cd) update backend package - PitTxid<br>[a800e94](https://github.com/SimplioOfficial/simplio-mobile/commit/a800e94751b02b392e37dbdcefd724e7f874838d) correct date time style in stake detail page - PitTxid</sub> |
@@ -16,7 +18,5 @@ There is a total of 984 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-10 11:08:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/fd369bcf74df...3a7571cf3d7d)</sub> |
 | <sub>2021-12-10 04:11:54</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff)</sub> | <sub>[d14a69b](https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff) display staking page with correct number - PitTxid</sub> |
 | <sub>2021-12-09 21:21:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62)</sub> | <sub>[0ec263e](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62) removing custom jwt verification - storkandstars</sub> |
-| <sub>2021-12-09 2</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5)</sub> | <sub>[d6403b1](https://github.com/SimplioOfficial/simplio-go/commit/d6403b145fbed06831dd2a9f803b98629f6fa8f5) updating subject middleware - storkandstars</sub> |
-| <sub>2021-12-09 20:18:17</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a)</sub> | <sub>[d159097](https://github.com/SimplioOfficial/simplio-go/commit/d1590977eab2c71d059c825c675f304ce23b708a) updating subject middleware - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
