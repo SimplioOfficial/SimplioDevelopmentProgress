@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 995 commits since 10/09/2021. You can see the complete history in
+There is a total of 996 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-13 21:45:46</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021)</sub> | <sub>[ac28d41](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021) adding staking - storkandstars</sub> |
 | <sub>2021-12-13 21:22:29</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e)</sub> | <sub>[bb4b08c](https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e) adding staking - storkandstars</sub> |
 | <sub>2021-12-13 20:31:34</sub> | <sub>[[simplio-mobile:wip/staking] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7cb3ce749a94...09c6aad1f856)</sub> | <sub>[99da70e](https://github.com/SimplioOfficial/simplio-mobile/commit/99da70e83deb1c4b7a8cc0ae782996c863952521) upadting simplio package - storkandstars<br>[1ca14e6](https://github.com/SimplioOfficial/simplio-mobile/commit/1ca14e6483a9bd93c55a67c21810aae56d67d824) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars<br>[0b8cfa0](https://github.com/SimplioOfficial/simplio-mobile/commit/0b8cfa08c9dd52cdaf04e14ee936719f4fdec4b8) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars<br>[09c6aad](https://github.com/SimplioOfficial/simplio-mobile/commit/09c6aad1f856127cb36785ae7d87e2025345542d) adding stake flow - storkandstars</sub> |
 | <sub>2021-12-13 14:13:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20bfc68a82817db0da2cb886d826ae686816e36a)</sub> | <sub>[20bfc68](https://github.com/SimplioOfficial/simplio-mobile/commit/20bfc68a82817db0da2cb886d826ae686816e36a) change pin timeout to 15 mins - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 995 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-13 10:47:22</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d545ad8d2d1a9cf63d72056fe5ae181c24665e7)</sub> | <sub>[9d545ad](https://github.com/SimplioOfficial/simplio-mobile/commit/9d545ad8d2d1a9cf63d72056fe5ae181c24665e7) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-13 10:24:41</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c90e47e3ce267a0b95abb9bf030460ce675ac3a8)</sub> | <sub>[c90e47e](https://github.com/SimplioOfficial/simplio-mobile/commit/c90e47e3ce267a0b95abb9bf030460ce675ac3a8) updated backend to 1.0.12 - ciripel</sub> |
 | <sub>2021-12-13 10:18:57</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c)</sub> | <sub>[72c91a8](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c) Added icons till CTSI - ciripel</sub> |
-| <sub>2021-12-13 09:38:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82)</sub> | <sub>[6d524da](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
