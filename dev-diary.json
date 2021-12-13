@@ -17906,5 +17906,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-13 21:57:02.409000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0b55833`](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363) fixing background for dark mode - storkandstars",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363"
+    }
   }
 ]
