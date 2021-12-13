@@ -17924,5 +17924,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-13 22:01:00.017000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`6b5f632`](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae) fixing primary tint colors for dark mode - storkandstars",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae"
+    }
   }
 ]

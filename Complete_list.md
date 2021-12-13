@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-13 22:01:00</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae)</sub> | <sub>[6b5f632](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae) fixing primary tint colors for dark mode - storkandstars</sub> |
 | <sub>2021-12-13 21:57:02</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363)</sub> | <sub>[0b55833](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363) fixing background for dark mode - storkandstars</sub> |
 | <sub>2021-12-13 21:45:46</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021)</sub> | <sub>[ac28d41](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021) adding staking - storkandstars</sub> |
 | <sub>2021-12-13 21:22:29</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e)</sub> | <sub>[bb4b08c](https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e) adding staking - storkandstars</sub> |
