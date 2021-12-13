@@ -17870,5 +17870,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7cb3ce749a94...09c6aad1f856"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-13 21:22:29.922000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`bb4b08c`](https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e) adding staking - storkandstars",
+      "title": "[simplio-mobile:feature/staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/bb4b08c74fb33d2c8e206ab816993951417c820e"
+    }
   }
 ]
