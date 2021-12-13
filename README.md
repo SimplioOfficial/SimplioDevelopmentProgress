@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 986 commits since 10/09/2021. You can see the complete history in
+There is a total of 987 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-13 10:18:57</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c)</sub> | <sub>[72c91a8](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c) Added icons till CTSI - ciripel</sub> |
 | <sub>2021-12-13 09:38:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82)</sub> | <sub>[6d524da](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-13 09:38:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6)</sub> | <sub>[58c2594](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6) increase version - PitTxid</sub> |
 | <sub>2021-12-10 16:37:46</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87)</sub> | <sub>[7cb3ce7](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87) add craeted time to stake detail page - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 986 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-10 11:08:31</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7dbc70e8e336f6f3a68ea6c58647889da27a90d4)</sub> | <sub>[7dbc70e](https://github.com/SimplioOfficial/simplio-mobile/commit/7dbc70e8e336f6f3a68ea6c58647889da27a90d4) Task/purchase (#5) - Juvi3eira</sub> |
 | <sub>2021-12-10 11:08:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/fd369bcf74df...3a7571cf3d7d)</sub> |
 | <sub>2021-12-10 04:11:54</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff)</sub> | <sub>[d14a69b](https://github.com/SimplioOfficial/simplio-mobile/commit/d14a69b29882fe3ae5978d79f3a3f3c9002516ff) display staking page with correct number - PitTxid</sub> |
-| <sub>2021-12-09 21:21:06</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62)</sub> | <sub>[0ec263e](https://github.com/SimplioOfficial/simplio-go/commit/0ec263e9d5b9e58151f9f3974728d590243b3a62) removing custom jwt verification - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

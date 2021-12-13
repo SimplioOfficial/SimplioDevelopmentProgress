@@ -17727,5 +17727,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-13 10:18:57.002000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`72c91a8`](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c) Added icons till CTSI - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0\\-new\\_tokens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c"
+    }
   }
 ]

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-13 10:18:57</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c)</sub> | <sub>[72c91a8](https://github.com/SimplioOfficial/simplio-mobile/commit/72c91a8c337a83d9aeee1d1b2a17b4be3e9ddb7c) Added icons till CTSI - ciripel</sub> |
 | <sub>2021-12-13 09:38:55</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82)</sub> | <sub>[6d524da](https://github.com/SimplioOfficial/simplio-mobile/commit/6d524da131d8e214b66e30ac43b7f20c16441e82) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-13 09:38:00</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6)</sub> | <sub>[58c2594](https://github.com/SimplioOfficial/simplio-mobile/commit/58c259490937605263dc9094551d268feb19f7e6) increase version - PitTxid</sub> |
 | <sub>2021-12-10 16:37:46</sub> | <sub>[[simplio-mobile:wip/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87)</sub> | <sub>[7cb3ce7](https://github.com/SimplioOfficial/simplio-mobile/commit/7cb3ce749a94322b5ea618c5ce1685debd0bef87) add craeted time to stake detail page - PitTxid</sub> |
