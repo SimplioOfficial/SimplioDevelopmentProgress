@@ -17852,5 +17852,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/20bfc68a82817db0da2cb886d826ae686816e36a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-13 20:31:34.831000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`99da70e`](https://github.com/SimplioOfficial/simplio-mobile/commit/99da70e83deb1c4b7a8cc0ae782996c863952521) upadting simplio package - storkandstars\n[`1ca14e6`](https://github.com/SimplioOfficial/simplio-mobile/commit/1ca14e6483a9bd93c55a67c21810aae56d67d824) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars\n[`0b8cfa0`](https://github.com/SimplioOfficial/simplio-mobile/commit/0b8cfa08c9dd52cdaf04e14ee936719f4fdec4b8) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars\n[`09c6aad`](https://github.com/SimplioOfficial/simplio-mobile/commit/09c6aad1f856127cb36785ae7d87e2025345542d) adding stake flow - storkandstars",
+      "title": "[simplio-mobile:wip/staking] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7cb3ce749a94...09c6aad1f856"
+    }
   }
 ]
