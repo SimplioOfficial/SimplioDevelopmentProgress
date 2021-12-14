@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1000 commits since 10/09/2021. You can see the complete history in
+There is a total of 1001 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-14 06:44:59</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f2a478434a307340c4df6a8884aec4a94ca807b9)</sub> | <sub>[f2a4784](https://github.com/SimplioOfficial/simplio-mobile/commit/f2a478434a307340c4df6a8884aec4a94ca807b9) icons till NU - ciripel</sub> |
 | <sub>2021-12-14 02:25:10</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fde4ccd7733cb9e39e455cc645d166d47cab1aa2)</sub> | <sub>[fde4ccd](https://github.com/SimplioOfficial/simplio-mobile/commit/fde4ccd7733cb9e39e455cc645d166d47cab1aa2) updated wallet resolvers - storkandstars</sub> |
 | <sub>2021-12-14 02:04:14</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/20bfc68a8281...66fb6c0f3a75)</sub> | <sub>[03baa59](https://github.com/SimplioOfficial/simplio-mobile/commit/03baa599114852ed66904175728d77de8d91bf5e) fix parse transaction sol and sol token - PitTxid<br>[66fb6c0](https://github.com/SimplioOfficial/simplio-mobile/commit/66fb6c0f3a753dee91799d94b0a4d8d44a2ace77) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-12-13 22:01:00</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae)</sub> | <sub>[6b5f632](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae) fixing primary tint colors for dark mode - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 1000 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-13 20:31:34</sub> | <sub>[[simplio-mobile:wip/staking] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7cb3ce749a94...09c6aad1f856)</sub> | <sub>[99da70e](https://github.com/SimplioOfficial/simplio-mobile/commit/99da70e83deb1c4b7a8cc0ae782996c863952521) upadting simplio package - storkandstars<br>[1ca14e6](https://github.com/SimplioOfficial/simplio-mobile/commit/1ca14e6483a9bd93c55a67c21810aae56d67d824) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars<br>[0b8cfa0](https://github.com/SimplioOfficial/simplio-mobile/commit/0b8cfa08c9dd52cdaf04e14ee936719f4fdec4b8) Merge branch 'wip/staking' of github.com:Simpli... - storkandstars<br>[09c6aad](https://github.com/SimplioOfficial/simplio-mobile/commit/09c6aad1f856127cb36785ae7d87e2025345542d) adding stake flow - storkandstars</sub> |
 | <sub>2021-12-13 14:13:29</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/20bfc68a82817db0da2cb886d826ae686816e36a)</sub> | <sub>[20bfc68](https://github.com/SimplioOfficial/simplio-mobile/commit/20bfc68a82817db0da2cb886d826ae686816e36a) change pin timeout to 15 mins - PitTxid</sub> |
 | <sub>2021-12-13 13:03:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1aac5ae715c7...4618fd89a2c2)</sub> |
-| <sub>2021-12-13 13:02:31</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1aac5ae715c757ffba7143522b3e39a2bcbdd5c1)</sub> | <sub>[1aac5ae](https://github.com/SimplioOfficial/simplio-mobile/commit/1aac5ae715c757ffba7143522b3e39a2bcbdd5c1) wip - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
