@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 998 commits since 10/09/2021. You can see the complete history in
+There is a total of 999 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-14 02:04:14</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/20bfc68a8281...66fb6c0f3a75)</sub> | <sub>[03baa59](https://github.com/SimplioOfficial/simplio-mobile/commit/03baa599114852ed66904175728d77de8d91bf5e) fix parse transaction sol and sol token - PitTxid<br>[66fb6c0](https://github.com/SimplioOfficial/simplio-mobile/commit/66fb6c0f3a753dee91799d94b0a4d8d44a2ace77) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-12-13 22:01:00</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae)</sub> | <sub>[6b5f632](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae) fixing primary tint colors for dark mode - storkandstars</sub> |
 | <sub>2021-12-13 21:57:02</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363)</sub> | <sub>[0b55833](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363) fixing background for dark mode - storkandstars</sub> |
 | <sub>2021-12-13 21:45:46</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021)</sub> | <sub>[ac28d41](https://github.com/SimplioOfficial/simplio-mobile/commit/ac28d4141f3ccd94bbfecae9ec8c3482621b1021) adding staking - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 998 commits since 10/09/2021. You can see the complete histo
 | <sub>2021-12-13 13:03:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1aac5ae715c7...4618fd89a2c2)</sub> |
 | <sub>2021-12-13 13:02:31</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1aac5ae715c757ffba7143522b3e39a2bcbdd5c1)</sub> | <sub>[1aac5ae](https://github.com/SimplioOfficial/simplio-mobile/commit/1aac5ae715c757ffba7143522b3e39a2bcbdd5c1) wip - Jan Vraštil</sub> |
 | <sub>2021-12-13 12:06:09</sub> | <sub>[[simplio-mobile:v0\.2\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c90e47e3ce26...95d7dc9c3bd5)</sub> | <sub>[4d3ee71](https://github.com/SimplioOfficial/simplio-mobile/commit/4d3ee713f2c1e8e02b4f974ef016ff192d0036ea) [DEVELOPMENT-284] fix create SOL1 - PitTxid<br>[83286f9](https://github.com/SimplioOfficial/simplio-mobile/commit/83286f9c0937ba64c87c8fbd6fe962aa1d3a7c7f) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid<br>[95d7dc9](https://github.com/SimplioOfficial/simplio-mobile/commit/95d7dc9c3bd5a1d6ba77e294946e329910dca7e5) increase version - PitTxid</sub> |
-| <sub>2021-12-13 10:47:22</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9d545ad8d2d1a9cf63d72056fe5ae181c24665e7)</sub> | <sub>[9d545ad](https://github.com/SimplioOfficial/simplio-mobile/commit/9d545ad8d2d1a9cf63d72056fe5ae181c24665e7) Squashed commit of the following: - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
