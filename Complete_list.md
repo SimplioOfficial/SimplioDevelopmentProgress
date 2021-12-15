@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-15 18:45:55</sub> | <sub>[[simplio-mobile:feature/staking] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/fde4ccd7733c...a78e9d316ba4)</sub> | <sub>[b244ddf](https://github.com/SimplioOfficial/simplio-mobile/commit/b244ddf4206c363fc2483643e034a4a46652734a) rename swap.page to trade.page - Juliana Souza<br>[a78e9d3](https://github.com/SimplioOfficial/simplio-mobile/commit/a78e9d316ba4516e2a6809537c21f53da249baa3) rename swap.page to trade.page - Juliana Souza</sub> |
 | <sub>2021-12-15 15:24:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3ce9e0d4ab27...2b9d52af5ff6)</sub> |
 | <sub>2021-12-15 14:54:13</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf)</sub> | <sub>[11b8d4b](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf) updated CHANGELOG.md - ciripel</sub> |
 | <sub>2021-12-15 14:43:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/de1d28bf3894...3ce9e0d4ab27)</sub> |
