@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1006 commits since 10/09/2021. You can see the complete history in
+There is a total of 1007 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-15 14:17:38</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed)</sub> | <sub>[3489ec0](https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed) Added all except DAR - ciripel</sub> |
 | <sub>2021-12-15 11:14:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/4618fd89a2c2...de1d28bf3894)</sub> |
 | <sub>2021-12-15 10:35:19</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/81612fd0c4f1...06102ffb1941)</sub> | <sub>[c2a0b32](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92) [DEVELOPMENT-283] Improve performance for large... - Jan Vraštil<br>[06102ff](https://github.com/SimplioOfficial/simplio-mobile/commit/06102ffb194161c39d73ffd96cc6868e0a855bb7) Merge branch 'v0.2.0' into testing - Jan Vraštil</sub> |
 | <sub>2021-12-15 10:34:55</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92)</sub> | <sub>[c2a0b32](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92) [DEVELOPMENT-283] Improve performance for large... - Jan Vraštil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1006 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-14 02:25:10</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fde4ccd7733cb9e39e455cc645d166d47cab1aa2)</sub> | <sub>[fde4ccd](https://github.com/SimplioOfficial/simplio-mobile/commit/fde4ccd7733cb9e39e455cc645d166d47cab1aa2) updated wallet resolvers - storkandstars</sub> |
 | <sub>2021-12-14 02:04:14</sub> | <sub>[[simplio-mobile:v0\.2\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/20bfc68a8281...66fb6c0f3a75)</sub> | <sub>[03baa59](https://github.com/SimplioOfficial/simplio-mobile/commit/03baa599114852ed66904175728d77de8d91bf5e) fix parse transaction sol and sol token - PitTxid<br>[66fb6c0](https://github.com/SimplioOfficial/simplio-mobile/commit/66fb6c0f3a753dee91799d94b0a4d8d44a2ace77) Merge branch 'v0.2.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-12-13 22:01:00</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae)</sub> | <sub>[6b5f632](https://github.com/SimplioOfficial/simplio-mobile/commit/6b5f632357ebb58b5ebac1ff0dd3d12671692dae) fixing primary tint colors for dark mode - storkandstars</sub> |
-| <sub>2021-12-13 21:57:02</sub> | <sub>[[simplio-mobile:feature/staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363)</sub> | <sub>[0b55833](https://github.com/SimplioOfficial/simplio-mobile/commit/0b55833e8d92dd94d56d74d9ae49c6bda1d66363) fixing background for dark mode - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -18085,5 +18085,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `de1d28b`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-15 14:17:38.796000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3489ec0`](https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed) Added all except DAR - ciripel",
+      "title": "[simplio-mobile:v0\\.2\\.0\\-new\\_tokens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed"
+    }
   }
 ]

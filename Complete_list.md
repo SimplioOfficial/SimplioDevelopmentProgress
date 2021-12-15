@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-15 14:17:38</sub> | <sub>[[simplio-mobile:v0\.2\.0\-new\_tokens] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed)</sub> | <sub>[3489ec0](https://github.com/SimplioOfficial/simplio-mobile/commit/3489ec0b770c47eb0de5c9784c44a4faa0294fed) Added all except DAR - ciripel</sub> |
 | <sub>2021-12-15 11:14:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/4618fd89a2c2...de1d28bf3894)</sub> |
 | <sub>2021-12-15 10:35:19</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/81612fd0c4f1...06102ffb1941)</sub> | <sub>[c2a0b32](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92) [DEVELOPMENT-283] Improve performance for large... - Jan Vraštil<br>[06102ff](https://github.com/SimplioOfficial/simplio-mobile/commit/06102ffb194161c39d73ffd96cc6868e0a855bb7) Merge branch 'v0.2.0' into testing - Jan Vraštil</sub> |
 | <sub>2021-12-15 10:34:55</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92)</sub> | <sub>[c2a0b32](https://github.com/SimplioOfficial/simplio-mobile/commit/c2a0b32bd0f2e9745e92cc212e79f7a1f87f7a92) [DEVELOPMENT-283] Improve performance for large... - Jan Vraštil</sub> |
