@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-16 11:15:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0)</sub> | <sub>[a208137](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0) updating cors - storkandstars</sub> |
 | <sub>2021-12-16 10:24:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/11ab714eae36916e60966f05c94d4622922d1b40)</sub> | <sub>[11ab714](https://github.com/SimplioOfficial/simplio-go/commit/11ab714eae36916e60966f05c94d4622922d1b40) updating cors - storkandstars</sub> |
 | <sub>2021-12-16 09:31:58</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16)</sub> | <sub>[e64d204](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16) Updated changelog - ciripel</sub> |
 | <sub>2021-12-16 09:27:03</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6fefeb82a31e856fefdf31f7ca501165040cae4b)</sub> | <sub>[6fefeb8](https://github.com/SimplioOfficial/simplio-mobile/commit/6fefeb82a31e856fefdf31f7ca501165040cae4b) Squashed commit of the following: - ciripel</sub> |
