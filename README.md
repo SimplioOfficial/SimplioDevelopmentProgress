@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1019 commits since 10/09/2021. You can see the complete history in
+There is a total of 1020 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-16 11:35:57</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f11f3a9fd2d092a74aa54bec1e92cbb791f63693)</sub> | <sub>[f11f3a9](https://github.com/SimplioOfficial/simplio-go/commit/f11f3a9fd2d092a74aa54bec1e92cbb791f63693) updating origin port - storkandstars</sub> |
 | <sub>2021-12-16 11:15:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0)</sub> | <sub>[a208137](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0) updating cors - storkandstars</sub> |
 | <sub>2021-12-16 10:24:55</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/11ab714eae36916e60966f05c94d4622922d1b40)</sub> | <sub>[11ab714](https://github.com/SimplioOfficial/simplio-go/commit/11ab714eae36916e60966f05c94d4622922d1b40) updating cors - storkandstars</sub> |
 | <sub>2021-12-16 09:31:58</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16)</sub> | <sub>[e64d204](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16) Updated changelog - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1019 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-15 15:24:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3ce9e0d4ab27...2b9d52af5ff6)</sub> |
 | <sub>2021-12-15 14:54:13</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf)</sub> | <sub>[11b8d4b](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf) updated CHANGELOG.md - ciripel</sub> |
 | <sub>2021-12-15 14:43:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/de1d28bf3894...3ce9e0d4ab27)</sub> |
-| <sub>2021-12-15 14:42:52</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/06102ffb1941...4acce24616b8)</sub> | <sub>[2be41da](https://github.com/SimplioOfficial/simplio-mobile/commit/2be41da797eee8d985912af5e02402e923ff245a) Squashed commit of the following: - ciripel<br>[95fa7aa](https://github.com/SimplioOfficial/simplio-mobile/commit/95fa7aa9713a80aa435e5d667edb80addcd3e2a1) increase versions - Jan Vraštil<br>[4acce24](https://github.com/SimplioOfficial/simplio-mobile/commit/4acce24616b8b7ee5e362aab0efff3e39d0a6af9) Merge branch 'v0.2.0' into testing - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
