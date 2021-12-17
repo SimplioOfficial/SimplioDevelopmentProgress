@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-17 13:13:31</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e5af416cd5f74ff06367c2b11d2657b4a39d74b4)</sub> | <sub>[e5af416](https://github.com/SimplioOfficial/simplio-mobile/commit/e5af416cd5f74ff06367c2b11d2657b4a39d74b4) wip - Jan Vraštil</sub> |
 | <sub>2021-12-17 12:52:21</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/57e73257650487c9b97461a11d527ceb4262a5cb)</sub> | <sub>[57e7325](https://github.com/SimplioOfficial/simplio-mobile/commit/57e73257650487c9b97461a11d527ceb4262a5cb) wip - Jan Vraštil</sub> |
 | <sub>2021-12-16 11:35:57</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/f11f3a9fd2d092a74aa54bec1e92cbb791f63693)</sub> | <sub>[f11f3a9](https://github.com/SimplioOfficial/simplio-go/commit/f11f3a9fd2d092a74aa54bec1e92cbb791f63693) updating origin port - storkandstars</sub> |
 | <sub>2021-12-16 11:15:39</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0)</sub> | <sub>[a208137](https://github.com/SimplioOfficial/simplio-go/commit/a208137e2bdaa09670d04be0d1914572b9d235a0) updating cors - storkandstars</sub> |
