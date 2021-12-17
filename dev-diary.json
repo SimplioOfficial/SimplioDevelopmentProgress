@@ -18335,5 +18335,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/f11f3a9fd2d092a74aa54bec1e92cbb791f63693"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-17 12:52:21.453000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`57e7325`](https://github.com/SimplioOfficial/simplio-mobile/commit/57e73257650487c9b97461a11d527ceb4262a5cb) wip - Jan Vra\u0161til",
+      "title": "[simplio-mobile:feature/215\\-payment\\_gatevay\\_and\\_sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/57e73257650487c9b97461a11d527ceb4262a5cb"
+    }
   }
 ]
