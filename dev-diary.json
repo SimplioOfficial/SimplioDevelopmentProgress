@@ -18371,5 +18371,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e5af416cd5f74ff06367c2b11d2657b4a39d74b4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-19 15:32:33.086000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`52dd036`](https://github.com/SimplioOfficial/simplio-go/commit/52dd036402fe9943449097ea60cf6b20ee462ad9) updating sumsub implementation - storkandstars\n[`3dab6a1`](https://github.com/SimplioOfficial/simplio-go/commit/3dab6a1ceb7bbbb9bb87abab04ccb351bbbbdc1f) removing sumsub applicant - storkandstars\n[`db0f3e9`](https://github.com/SimplioOfficial/simplio-go/commit/db0f3e91450105e5bdfb82b0b1474ea456719ef6) removing unused sumsub implementation - storkandstars\n[`2b39771`](https://github.com/SimplioOfficial/simplio-go/commit/2b397713ee99d767d0b3fd0cf587fcee4f3714e0) updating sumsub implementation - storkandstars\n[`901e540`](https://github.com/SimplioOfficial/simplio-go/commit/901e54096cedafbc662f59faeee0f0daef96ef44) updating sumsub implementation - storkandstars",
+      "title": "[simplio-go:dev] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/f11f3a9fd2d0...b04155f66356"
+    }
   }
 ]
