@@ -18407,5 +18407,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8d364529a87348021f0dc68c2d9b8062b9a89f19"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-20 08:11:27.883000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/e5af416cd5f7...60883b8566af)",
+      "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `60883b8`",
+      "type": "rich"
+    }
   }
 ]
