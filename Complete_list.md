@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-20 18:18:15</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0cfda0dac07b79168d02752461b1668a3bff7b95)</sub> | <sub>[0cfda0d](https://github.com/SimplioOfficial/simplio-mobile/commit/0cfda0dac07b79168d02752461b1668a3bff7b95) wip - Jan Vraštil</sub> |
 | <sub>2021-12-20 12:33:01</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d9315bb5ab4fb27547f00810f617febac74bed06)</sub> | <sub>[d9315bb](https://github.com/SimplioOfficial/simplio-mobile/commit/d9315bb5ab4fb27547f00810f617febac74bed06) wip - Jan Vraštil</sub> |
 | <sub>2021-12-20 08:11:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/e5af416cd5f7...60883b8566af)</sub> |
 | <sub>2021-12-20 07:55:27</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8d364529a87348021f0dc68c2d9b8062b9a89f19)</sub> | <sub>[8d36452](https://github.com/SimplioOfficial/simplio-mobile/commit/8d364529a87348021f0dc68c2d9b8062b9a89f19) Added tokens: - ciripel</sub> |
