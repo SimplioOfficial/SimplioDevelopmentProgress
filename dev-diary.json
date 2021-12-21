@@ -18460,5 +18460,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0cfda0dac07b79168d02752461b1668a3bff7b95"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-21 08:24:28.140000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`11b8d4b`](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf) updated CHANGELOG.md - ciripel\n[`6fefeb8`](https://github.com/SimplioOfficial/simplio-mobile/commit/6fefeb82a31e856fefdf31f7ca501165040cae4b) Squashed commit of the following: - ciripel\n[`e64d204`](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16) Updated changelog - ciripel\n[`8d36452`](https://github.com/SimplioOfficial/simplio-mobile/commit/8d364529a87348021f0dc68c2d9b8062b9a89f19) Added tokens: - ciripel\n[`d495fde`](https://github.com/SimplioOfficial/simplio-mobile/commit/d495fdebfec0741d8d6dd14516ad3d8588242f36) increase versions by 2 (sumsub package has alre... - Jan Vra\u0161til",
+      "title": "[simplio-mobile:testing] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4acce24616b8...79a03f1aa48a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-12-21 08:24:35.063000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d495fde`](https://github.com/SimplioOfficial/simplio-mobile/commit/d495fdebfec0741d8d6dd14516ad3d8588242f36) increase versions by 2 (sumsub package has alre... - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d495fdebfec0741d8d6dd14516ad3d8588242f36"
+    }
   }
 ]
