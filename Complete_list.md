@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-21 15:17:07</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/03a16949c446c6c6a172a29dc8dfddc40da4f814)</sub> | <sub>[03a1694](https://github.com/SimplioOfficial/simplio-mobile/commit/03a16949c446c6c6a172a29dc8dfddc40da4f814) fix red page - Jan Vraštil</sub> |
 | <sub>2021-12-21 12:21:41</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9c518c4fe6482110b678bb3f283f73e84d4f04ba)</sub> | <sub>[9c518c4](https://github.com/SimplioOfficial/simplio-mobile/commit/9c518c4fe6482110b678bb3f283f73e84d4f04ba) add red page - Jan Vraštil</sub> |
 | <sub>2021-12-21 12:15:43</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ec9be5f79eab692be859b4159401d4f88e6d48e9)</sub> | <sub>[ec9be5f](https://github.com/SimplioOfficial/simplio-mobile/commit/ec9be5f79eab692be859b4159401d4f88e6d48e9) add red page - Jan Vraštil</sub> |
 | <sub>2021-12-21 11:42:40</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/0cfda0dac07b...6468c16c982f)</sub> |
