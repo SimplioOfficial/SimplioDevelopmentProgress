@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1034 commits since 10/09/2021. You can see the complete history in
+There is a total of 1035 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-22 12:12:24</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9616a3308473b75c276c7f650532294809c82a23)</sub> | <sub>[9616a33](https://github.com/SimplioOfficial/simplio-mobile/commit/9616a3308473b75c276c7f650532294809c82a23) fix loading for purchase page - Jan Vraštil</sub> |
 | <sub>2021-12-21 15:33:56</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/81d6848a5813bd9bb3bbd02767537dc538e094ec)</sub> | <sub>[81d6848](https://github.com/SimplioOfficial/simplio-mobile/commit/81d6848a5813bd9bb3bbd02767537dc538e094ec) fix red page - Jan Vraštil</sub> |
 | <sub>2021-12-21 15:17:07</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/03a16949c446c6c6a172a29dc8dfddc40da4f814)</sub> | <sub>[03a1694](https://github.com/SimplioOfficial/simplio-mobile/commit/03a16949c446c6c6a172a29dc8dfddc40da4f814) fix red page - Jan Vraštil</sub> |
 | <sub>2021-12-21 12:21:41</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9c518c4fe6482110b678bb3f283f73e84d4f04ba)</sub> | <sub>[9c518c4](https://github.com/SimplioOfficial/simplio-mobile/commit/9c518c4fe6482110b678bb3f283f73e84d4f04ba) add red page - Jan Vraštil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1034 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-21 08:24:28</sub> | <sub>[[simplio-mobile:testing] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/4acce24616b8...79a03f1aa48a)</sub> | <sub>[11b8d4b](https://github.com/SimplioOfficial/simplio-mobile/commit/11b8d4bcdffb7c43432f4667549053dc4133fbdf) updated CHANGELOG.md - ciripel<br>[6fefeb8](https://github.com/SimplioOfficial/simplio-mobile/commit/6fefeb82a31e856fefdf31f7ca501165040cae4b) Squashed commit of the following: - ciripel<br>[e64d204](https://github.com/SimplioOfficial/simplio-mobile/commit/e64d20442667cdc23d3deb6a46d1be3a2fd3fd16) Updated changelog - ciripel<br>[8d36452](https://github.com/SimplioOfficial/simplio-mobile/commit/8d364529a87348021f0dc68c2d9b8062b9a89f19) Added tokens: - ciripel<br>[d495fde](https://github.com/SimplioOfficial/simplio-mobile/commit/d495fdebfec0741d8d6dd14516ad3d8588242f36) increase versions by 2 (sumsub package has alre... - Jan Vraštil</sub> |
 | <sub>2021-12-20 18:18:15</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0cfda0dac07b79168d02752461b1668a3bff7b95)</sub> | <sub>[0cfda0d](https://github.com/SimplioOfficial/simplio-mobile/commit/0cfda0dac07b79168d02752461b1668a3bff7b95) wip - Jan Vraštil</sub> |
 | <sub>2021-12-20 12:33:01</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d9315bb5ab4fb27547f00810f617febac74bed06)</sub> | <sub>[d9315bb](https://github.com/SimplioOfficial/simplio-mobile/commit/d9315bb5ab4fb27547f00810f617febac74bed06) wip - Jan Vraštil</sub> |
-| <sub>2021-12-20 08:11:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/e5af416cd5f7...60883b8566af)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
