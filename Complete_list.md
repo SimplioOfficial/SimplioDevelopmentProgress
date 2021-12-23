@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-23 07:46:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/9616a3308473...c82f839a6e6a)</sub> |
 | <sub>2021-12-23 01:03:25</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/00a51d3a3f6a1caf1304e36e5e7b97fc610b82b5)</sub> | <sub>[00a51d3](https://github.com/SimplioOfficial/simplio-mobile/commit/00a51d3a3f6a1caf1304e36e5e7b97fc610b82b5) show error when swapping if no estimated price - PitTxid</sub> |
 | <sub>2021-12-22 12:46:54</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/896cceea176d2f430da461aa1f8c04827ae4037c)</sub> | <sub>[896ccee](https://github.com/SimplioOfficial/simplio-mobile/commit/896cceea176d2f430da461aa1f8c04827ae4037c) Added tokens: - ciripel</sub> |
 | <sub>2021-12-22 12:12:24</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9616a3308473b75c276c7f650532294809c82a23)</sub> | <sub>[9616a33](https://github.com/SimplioOfficial/simplio-mobile/commit/9616a3308473b75c276c7f650532294809c82a23) fix loading for purchase page - Jan Vraštil</sub> |
