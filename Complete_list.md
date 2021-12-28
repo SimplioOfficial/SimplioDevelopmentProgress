@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-28 13:03:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/db47bb8e4b82...8898122edba7)</sub> |
 | <sub>2021-12-27 11:16:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c82f839a6e6a...db47bb8e4b82)</sub> |
 | <sub>2021-12-23 14:35:19</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0)</sub> | <sub>[ba4b561](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0) Squashed commit of the following: - PitTxid</sub> |
 | <sub>2021-12-23 14:34:43</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5a68f923804c...c7f884680c34)</sub> | <sub>[077ba8b](https://github.com/SimplioOfficial/simplio-mobile/commit/077ba8bf21435ffcea2778e1f6067ac94f19b3ad) increase version to 0.2.1 - PitTxid<br>[c7f8846](https://github.com/SimplioOfficial/simplio-mobile/commit/c7f884680c34ba7ce6520aff55264b44e5c8c310) Merge branch 'v0.2.1' into testing - PitTxid</sub> |
