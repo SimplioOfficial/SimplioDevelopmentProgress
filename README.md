@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1051 commits since 10/09/2021. You can see the complete history in
+There is a total of 1052 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-29 17:50:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68)</sub> | <sub>[c72c919](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68) Added tokens: - ciripel</sub> |
 | <sub>2021-12-28 13:03:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/db47bb8e4b82...8898122edba7)</sub> |
 | <sub>2021-12-27 11:16:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c82f839a6e6a...db47bb8e4b82)</sub> |
 | <sub>2021-12-23 14:35:19</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0)</sub> | <sub>[ba4b561](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0) Squashed commit of the following: - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 1051 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-23 09:51:47</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b5707a0c527e...5a68f923804c)</sub> | <sub>[defd87e](https://github.com/SimplioOfficial/simplio-mobile/commit/defd87eb63883e026183596227a16e4c83286aac) increase version - PitTxid<br>[5a68f92](https://github.com/SimplioOfficial/simplio-mobile/commit/5a68f923804cfbe326967eceafc833133078a678) Merge branch 'v0.2.0' into testing - PitTxid</sub> |
 | <sub>2021-12-23 09:51:34</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/defd87eb63883e026183596227a16e4c83286aac)</sub> | <sub>[defd87e](https://github.com/SimplioOfficial/simplio-mobile/commit/defd87eb63883e026183596227a16e4c83286aac) increase version - PitTxid</sub> |
 | <sub>2021-12-23 09:49:57</sub> | <sub>[[simplio-mobile:testing] 6 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c644bfecc3bf...b5707a0c527e)</sub> | <sub>[896ccee](https://github.com/SimplioOfficial/simplio-mobile/commit/896cceea176d2f430da461aa1f8c04827ae4037c) Added tokens: - ciripel<br>[00a51d3](https://github.com/SimplioOfficial/simplio-mobile/commit/00a51d3a3f6a1caf1304e36e5e7b97fc610b82b5) show error when swapping if no estimated price - PitTxid<br>[7be0318](https://github.com/SimplioOfficial/simplio-mobile/commit/7be031814b4296ddd7ad58db787cc5fda7a26bbf) check source and target fiat value, update message - PitTxid<br>[6293839](https://github.com/SimplioOfficial/simplio-mobile/commit/6293839e4262f25797e251b653d64891c75f73d4) increase version - PitTxid<br>[c43520e](https://github.com/SimplioOfficial/simplio-mobile/commit/c43520e06834f31231900bf1bc396487b3392f23) increase version - PitTxid</sub> |
-| <sub>2021-12-23 09:49:11</sub> | <sub>[[simplio-mobile:v0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c43520e06834f31231900bf1bc396487b3392f23)</sub> | <sub>[c43520e](https://github.com/SimplioOfficial/simplio-mobile/commit/c43520e06834f31231900bf1bc396487b3392f23) increase version - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

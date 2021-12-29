@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-29 17:50:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68)</sub> | <sub>[c72c919](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68) Added tokens: - ciripel</sub> |
 | <sub>2021-12-28 13:03:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/db47bb8e4b82...8898122edba7)</sub> |
 | <sub>2021-12-27 11:16:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c82f839a6e6a...db47bb8e4b82)</sub> |
 | <sub>2021-12-23 14:35:19</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0)</sub> | <sub>[ba4b561](https://github.com/SimplioOfficial/simplio-mobile/commit/ba4b56174e26a2f23eeebe9dc75a827a5f2590d0) Squashed commit of the following: - PitTxid</sub> |
