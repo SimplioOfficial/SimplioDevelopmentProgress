@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-12-30 13:43:47</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5273634a53cbdc197d890617731582eb99fe03fc)</sub> | <sub>[5273634](https://github.com/SimplioOfficial/simplio-mobile/commit/5273634a53cbdc197d890617731582eb99fe03fc) disable sensitive log - PitTxid</sub> |
 | <sub>2021-12-30 12:50:33</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c72c91918f84...f57bb21adaa1)</sub> | <sub>[72f930a](https://github.com/SimplioOfficial/simplio-mobile/commit/72f930a9024954c55ab8854d3408f26f74d923d7) fix parse prive transaction for bitcore-zcashy - PitTxid<br>[f57bb21](https://github.com/SimplioOfficial/simplio-mobile/commit/f57bb21adaa157ddaf4460ef687ff28c03e11aff) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2021-12-29 17:50:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68)</sub> | <sub>[c72c919](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68) Added tokens: - ciripel</sub> |
 | <sub>2021-12-28 13:03:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/db47bb8e4b82...8898122edba7)</sub> |
