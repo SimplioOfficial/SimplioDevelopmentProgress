@@ -19140,5 +19140,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/938441fa37bded1ea816f80ac60d3ab84fac3c0f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-03 16:14:25.954000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8e985c0`](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05) [DEVELOPMENT-282] Fix solana swaps in dark mode - Jan Vra\u0161til",
+      "title": "[simplio-mobile:bug/282\\-solana\\_swaps\\_in\\_dark\\_mode] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05"
+    }
   }
 ]
