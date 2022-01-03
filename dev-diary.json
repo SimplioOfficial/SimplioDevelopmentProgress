@@ -18978,5 +18978,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/f0c6bbb827adfc119587e33f4b22ccf883adb04e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-03 11:56:39.692000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`dd8589e`](https://github.com/SimplioOfficial/simplio-mobile/commit/dd8589e6aed758fcc3d270d2bf87e5b61b9c0c17) [DEVELOPMENT-292] Fix wallet reordering for _p = 0 - Jan Vra\u0161til\n[`316d09f`](https://github.com/SimplioOfficial/simplio-mobile/commit/316d09fe9f4dda6f7ce9c9933e19ad3116d2241e) update changelog - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/2775956e43b0...316d09fe9f4d"
+    }
   }
 ]
