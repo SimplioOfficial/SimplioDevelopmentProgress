@@ -19014,5 +19014,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-03 13:14:24.180000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`83afe78`](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631) [DEVELOPMENT-277] Add automatic move to next wo... - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631"
+    }
   }
 ]
