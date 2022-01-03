@@ -18996,5 +18996,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/2775956e43b0...316d09fe9f4d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-03 13:02:00.158000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8f48c5f`](https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d) [DEVELOPMENT-289] Fix HTTP Post retries - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d"
+    }
   }
 ]
