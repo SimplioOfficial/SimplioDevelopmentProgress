@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1060 commits since 10/09/2021. You can see the complete history in
+There is a total of 1062 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-03 14:19:10</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f6a07b87ed44...0f7356095554)</sub> | <sub>[fa69322](https://github.com/SimplioOfficial/simplio-mobile/commit/fa693220812417fba93d6f625308540342c6c754) [DEVELOPMENT-285] Automatically scroll to previ... - Jan Vraštil<br>[0f73560](https://github.com/SimplioOfficial/simplio-mobile/commit/0f7356095554aea9e2a9b992edbfc7b8e46310ba) increase versions - Jan Vraštil</sub> |
+| <sub>2022-01-03 14:18:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f6a07b87ed44...0f7356095554)</sub> | <sub>[fa69322](https://github.com/SimplioOfficial/simplio-mobile/commit/fa693220812417fba93d6f625308540342c6c754) [DEVELOPMENT-285] Automatically scroll to previ... - Jan Vraštil<br>[0f73560](https://github.com/SimplioOfficial/simplio-mobile/commit/0f7356095554aea9e2a9b992edbfc7b8e46310ba) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:16:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3)</sub> | <sub>[f6a07b8](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:14:24</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631)</sub> | <sub>[83afe78](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631) [DEVELOPMENT-277] Add automatic move to next wo... - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:02:00</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d)</sub> | <sub>[8f48c5f](https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d) [DEVELOPMENT-289] Fix HTTP Post retries - Jan Vraštil</sub> |
@@ -16,7 +18,5 @@ There is a total of 1060 commits since 10/09/2021. You can see the complete hist
 | <sub>2021-12-31 08:45:17</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2775956e43b07a4e681d0c69011364da1739cbcd)</sub> | <sub>[2775956](https://github.com/SimplioOfficial/simplio-mobile/commit/2775956e43b07a4e681d0c69011364da1739cbcd) fix check balance for token - PitTxid</sub> |
 | <sub>2021-12-30 13:43:47</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5273634a53cbdc197d890617731582eb99fe03fc)</sub> | <sub>[5273634](https://github.com/SimplioOfficial/simplio-mobile/commit/5273634a53cbdc197d890617731582eb99fe03fc) disable sensitive log - PitTxid</sub> |
 | <sub>2021-12-30 12:50:33</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/c72c91918f84...f57bb21adaa1)</sub> | <sub>[72f930a](https://github.com/SimplioOfficial/simplio-mobile/commit/72f930a9024954c55ab8854d3408f26f74d923d7) fix parse prive transaction for bitcore-zcashy - PitTxid<br>[f57bb21](https://github.com/SimplioOfficial/simplio-mobile/commit/f57bb21adaa157ddaf4460ef687ff28c03e11aff) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
-| <sub>2021-12-29 17:50:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68)</sub> | <sub>[c72c919](https://github.com/SimplioOfficial/simplio-mobile/commit/c72c91918f846bf89f218afd8fc14085353cdd68) Added tokens: - ciripel</sub> |
-| <sub>2021-12-28 13:03:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/db47bb8e4b82...8898122edba7)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
