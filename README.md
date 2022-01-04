@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1066 commits since 10/09/2021. You can see the complete history in
+There is a total of 1067 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-04 08:26:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f0c6bbb827ad...c3644d692c8b)</sub> |
 | <sub>2022-01-03 16:14:25</sub> | <sub>[[simplio-mobile:bug/282\-solana\_swaps\_in\_dark\_mode] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05)</sub> | <sub>[8e985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05) [DEVELOPMENT-282] Fix solana swaps in dark mode - Jan Vraštil</sub> |
 | <sub>2022-01-03 16:07:34</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/938441fa37bded1ea816f80ac60d3ab84fac3c0f)</sub> | <sub>[938441f](https://github.com/ciripel/available_swaps_script/commit/938441fa37bded1ea816f80ac60d3ab84fac3c0f) Added 10 (12)[0] - ciripel</sub> |
 | <sub>2022-01-03 16:07:22</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/7d2b981e4da2418dbad0b08f0533bc319608852c)</sub> | <sub>[7d2b981](https://github.com/ciripel/script_generated_files/commit/7d2b981e4da2418dbad0b08f0533bc319608852c) Updated at 03-01-2022 16:07 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1066 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-03 13:16:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3)</sub> | <sub>[f6a07b8](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:14:24</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631)</sub> | <sub>[83afe78](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631) [DEVELOPMENT-277] Add automatic move to next wo... - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:02:00</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d)</sub> | <sub>[8f48c5f](https://github.com/SimplioOfficial/simplio-mobile/commit/8f48c5fd55e34369c0a0cb90edecd32aa1a6951d) [DEVELOPMENT-289] Fix HTTP Post retries - Jan Vraštil</sub> |
-| <sub>2022-01-03 11:56:39</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/2775956e43b0...316d09fe9f4d)</sub> | <sub>[dd8589e](https://github.com/SimplioOfficial/simplio-mobile/commit/dd8589e6aed758fcc3d270d2bf87e5b61b9c0c17) [DEVELOPMENT-292] Fix wallet reordering for _p = 0 - Jan Vraštil<br>[316d09f](https://github.com/SimplioOfficial/simplio-mobile/commit/316d09fe9f4dda6f7ce9c9933e19ad3116d2241e) update changelog - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
