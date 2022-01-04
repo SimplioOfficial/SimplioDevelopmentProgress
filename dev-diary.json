@@ -19300,5 +19300,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `8841f46`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 14:15:56.106000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6728c8f`](https://github.com/SimplioOfficial/simplio-mobile/commit/6728c8f25d86a8ab5994095c2ed07a5c062e3e28) prepare UI for dark color - Jan Vra\u0161til",
+      "title": "[simplio-mobile:dev\\-293/dark\\_mode\\_coin\\_colors] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6728c8f25d86a8ab5994095c2ed07a5c062e3e28"
+    }
   }
 ]
