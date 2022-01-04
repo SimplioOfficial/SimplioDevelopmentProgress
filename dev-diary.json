@@ -19426,5 +19426,77 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/56c4d4b0ebf47e434415c4ba20dfe3b7ae7d48ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 15:10:13.291000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`215d29e`](https://github.com/ciripel/script_generated_files/commit/215d29e9477d67d042177070a6f749540294a403) Updated at 04-01-2022 15:10 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/215d29e9477d67d042177070a6f749540294a403"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 15:10:19.542000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`51d29c7`](https://github.com/ciripel/available_swaps_script/commit/51d29c7a7b1b21f364c822c7d1ab246096cc25f2) Added 10 (13)[0] - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/51d29c7a7b1b21f364c822c7d1ab246096cc25f2"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 15:12:46.378000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3c5028a`](https://github.com/ciripel/script_generated_files/commit/3c5028ab3d5c0705255bb2ac936146a58646e63c) Updated at 04-01-2022 15:12 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/3c5028ab3d5c0705255bb2ac936146a58646e63c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 15:13:05.187000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7d35885`](https://github.com/ciripel/available_swaps_script/commit/7d35885e5c9f5e6af7d195e60b44b6d70ec8b46e) Fixed icon of PYR - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/7d35885e5c9f5e6af7d195e60b44b6d70ec8b46e"
+    }
   }
 ]
