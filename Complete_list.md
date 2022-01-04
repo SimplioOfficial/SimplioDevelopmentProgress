@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-04 10:38:13</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188)</sub> | <sub>[5238b44](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188) [DEVELOPMENT-292] Fix wallet ordering - Jan Vraštil</sub> |
 | <sub>2022-01-04 09:56:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11)</sub> | <sub>[1f37d84](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11) [DEVELOPMENT-277] Fix automatic opening of the ... - Jan Vraštil</sub> |
 | <sub>2022-01-04 08:26:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f0c6bbb827ad...c3644d692c8b)</sub> |
 | <sub>2022-01-03 16:14:25</sub> | <sub>[[simplio-mobile:bug/282\-solana\_swaps\_in\_dark\_mode] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05)</sub> | <sub>[8e985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05) [DEVELOPMENT-282] Fix solana swaps in dark mode - Jan Vraštil</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1068 commits since 10/09/2021. You can see the complete history in
+There is a total of 1069 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-04 10:38:13</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188)</sub> | <sub>[5238b44](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188) [DEVELOPMENT-292] Fix wallet ordering - Jan Vraštil</sub> |
 | <sub>2022-01-04 09:56:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11)</sub> | <sub>[1f37d84](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11) [DEVELOPMENT-277] Fix automatic opening of the ... - Jan Vraštil</sub> |
 | <sub>2022-01-04 08:26:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f0c6bbb827ad...c3644d692c8b)</sub> |
 | <sub>2022-01-03 16:14:25</sub> | <sub>[[simplio-mobile:bug/282\-solana\_swaps\_in\_dark\_mode] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05)</sub> | <sub>[8e985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05) [DEVELOPMENT-282] Fix solana swaps in dark mode - Jan Vraštil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1068 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-03 14:19:10</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f6a07b87ed44...0f7356095554)</sub> | <sub>[fa69322](https://github.com/SimplioOfficial/simplio-mobile/commit/fa693220812417fba93d6f625308540342c6c754) [DEVELOPMENT-285] Automatically scroll to previ... - Jan Vraštil<br>[0f73560](https://github.com/SimplioOfficial/simplio-mobile/commit/0f7356095554aea9e2a9b992edbfc7b8e46310ba) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-03 14:18:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f6a07b87ed44...0f7356095554)</sub> | <sub>[fa69322](https://github.com/SimplioOfficial/simplio-mobile/commit/fa693220812417fba93d6f625308540342c6c754) [DEVELOPMENT-285] Automatically scroll to previ... - Jan Vraštil<br>[0f73560](https://github.com/SimplioOfficial/simplio-mobile/commit/0f7356095554aea9e2a9b992edbfc7b8e46310ba) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-03 13:16:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3)</sub> | <sub>[f6a07b8](https://github.com/SimplioOfficial/simplio-mobile/commit/f6a07b87ed44d9ff4467b7cd1ea00573e6c98ca3) increase versions - Jan Vraštil</sub> |
-| <sub>2022-01-03 13:14:24</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631)</sub> | <sub>[83afe78](https://github.com/SimplioOfficial/simplio-mobile/commit/83afe78ed585ef6e834357f4b60d06c4d07c4631) [DEVELOPMENT-277] Add automatic move to next wo... - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

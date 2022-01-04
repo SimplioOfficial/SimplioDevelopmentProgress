@@ -19193,5 +19193,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 10:38:13.456000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`5238b44`](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188) [DEVELOPMENT-292] Fix wallet ordering - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188"
+    }
   }
 ]
