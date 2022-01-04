@@ -19534,5 +19534,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/25c0199396fdb3acd03a5304124ad1513efefa23"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 18:31:24.610000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`d7e9bfc`](https://github.com/SimplioOfficial/simplio-mobile/commit/d7e9bfcaaf21e3bf042f7ad84cf506fa0efd17b6) add dark_graph to all icons constants - Juliana Souza",
+      "title": "[simplio-mobile:dev\\-293/dark\\_mode\\_coin\\_colors] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d7e9bfcaaf21e3bf042f7ad84cf506fa0efd17b6"
+    }
   }
 ]
