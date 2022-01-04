@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1075 commits since 10/09/2021. You can see the complete history in
+There is a total of 1077 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-04 14:53:13</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/59679494d0a699e094fe21f5ed79cad005edcbbb)</sub> | <sub>[5967949](https://github.com/ciripel/available_swaps_script/commit/59679494d0a699e094fe21f5ed79cad005edcbbb) Added 10 (13)[0] - ciripel</sub> |
+| <sub>2022-01-04 14:50:26</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/98513768e3989edc252320063274c27b82fa292f)</sub> | <sub>[9851376](https://github.com/ciripel/script_generated_files/commit/98513768e3989edc252320063274c27b82fa292f) Updated at 04-01-2022 14:50 - ciripel</sub> |
 | <sub>2022-01-04 14:15:56</sub> | <sub>[[simplio-mobile:dev\-293/dark\_mode\_coin\_colors] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6728c8f25d86a8ab5994095c2ed07a5c062e3e28)</sub> | <sub>[6728c8f](https://github.com/SimplioOfficial/simplio-mobile/commit/6728c8f25d86a8ab5994095c2ed07a5c062e3e28) prepare UI for dark color - Jan Vraštil</sub> |
 | <sub>2022-01-04 12:30:44</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c3644d692c8b...8841f46c00c0)</sub> |
 | <sub>2022-01-04 12:20:48</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/9f69dca2083a6b33411de22f301c519c4979898b)</sub> | <sub>[9f69dca](https://github.com/ciripel/available_swaps_script/commit/9f69dca2083a6b33411de22f301c519c4979898b) Added 10 (11)[0] - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 1075 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-04 11:48:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5238b44f9f87...0da00af62c89)</sub> | <sub>[745be0b](https://github.com/SimplioOfficial/simplio-mobile/commit/745be0b8be7bd5d43aff15d516e091642e3013b7) [DEVELOPMENT-278] Add possibility to copy entir... - Jan Vraštil<br>[0da00af](https://github.com/SimplioOfficial/simplio-mobile/commit/0da00af62c89a20517c47ce80dde7628fb7d30cc) increase versions - Jan Vraštil</sub> |
 | <sub>2022-01-04 10:38:13</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188)</sub> | <sub>[5238b44](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188) [DEVELOPMENT-292] Fix wallet ordering - Jan Vraštil</sub> |
 | <sub>2022-01-04 09:56:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11)</sub> | <sub>[1f37d84](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11) [DEVELOPMENT-277] Fix automatic opening of the ... - Jan Vraštil</sub> |
-| <sub>2022-01-04 08:26:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f0c6bbb827ad...c3644d692c8b)</sub> |
-| <sub>2022-01-03 16:14:25</sub> | <sub>[[simplio-mobile:bug/282\-solana\_swaps\_in\_dark\_mode] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05)</sub> | <sub>[8e985c0](https://github.com/SimplioOfficial/simplio-mobile/commit/8e985c04ad3c51a29e4df2eb8a66c2f26d7e1e05) [DEVELOPMENT-282] Fix solana swaps in dark mode - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
