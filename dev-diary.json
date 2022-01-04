@@ -19211,5 +19211,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 11:48:11.809000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`745be0b`](https://github.com/SimplioOfficial/simplio-mobile/commit/745be0b8be7bd5d43aff15d516e091642e3013b7) [DEVELOPMENT-278] Add possibility to copy entir... - Jan Vra\u0161til\n[`0da00af`](https://github.com/SimplioOfficial/simplio-mobile/commit/0da00af62c89a20517c47ce80dde7628fb7d30cc) increase versions - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/5238b44f9f87...0da00af62c89"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-04 11:48:22.655000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1f37d84`](https://github.com/SimplioOfficial/simplio-mobile/commit/1f37d84d78516fb97292bc212e6fc185cc4f5d11) [DEVELOPMENT-277] Fix automatic opening of the ... - Jan Vra\u0161til\n[`5238b44`](https://github.com/SimplioOfficial/simplio-mobile/commit/5238b44f9f871070c8e14e7328d4967d30312188) [DEVELOPMENT-292] Fix wallet ordering - Jan Vra\u0161til\n[`745be0b`](https://github.com/SimplioOfficial/simplio-mobile/commit/745be0b8be7bd5d43aff15d516e091642e3013b7) [DEVELOPMENT-278] Add possibility to copy entir... - Jan Vra\u0161til\n[`0da00af`](https://github.com/SimplioOfficial/simplio-mobile/commit/0da00af62c89a20517c47ce80dde7628fb7d30cc) increase versions - Jan Vra\u0161til",
+      "title": "[simplio-mobile:testing] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0f7356095554...0da00af62c89"
+    }
   }
 ]
