@@ -19948,5 +19948,59 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/490a80b18230e89d3d6f9867230f85ed6dbb1b5f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 09:21:03.094000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2d4a111`](https://github.com/SimplioOfficial/simplio-mobile/commit/2d4a111f0c44ded50b8e6b4cffef6e81730c2d4d) wip - Jan Vra\u0161til\n[`1b1daf8`](https://github.com/SimplioOfficial/simplio-mobile/commit/1b1daf88a50dff50e62240e9bc198b74b2d7d2f5) implement new swipelux flow - Jan Vra\u0161til",
+      "title": "[simplio-mobile:feature/215\\-payment\\_gatevay\\_and\\_sumsub] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/8841f46c00c0...1b1daf88a50d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 09:21:31.468000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`794fb9d`](https://github.com/ciripel/script_generated_files/commit/794fb9d163be1476400b48b06f22c4eef5c3fecc) Updated at 05-01-2022 09:21 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/794fb9d163be1476400b48b06f22c4eef5c3fecc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 09:21:38.609000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`01a90ef`](https://github.com/ciripel/available_swaps_script/commit/01a90ef46b93295c02864327856b31789783fe73) updated DOT logo - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/01a90ef46b93295c02864327856b31789783fe73"
+    }
   }
 ]
