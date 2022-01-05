@@ -19786,5 +19786,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/script_generated_files/commit/e505ac14a67969b6538af470c21b539cdc869fe3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 08:35:05.682000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fbed829`](https://github.com/ciripel/available_swaps_script/commit/fbed8297451e55a84f60b620ec121c445741c32f) reduced SOL height to 27 - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/fbed8297451e55a84f60b620ec121c445741c32f"
+    }
   }
 ]

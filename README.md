@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1101 commits since 10/09/2021. You can see the complete history in
+There is a total of 1102 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-05 08:35:05</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/fbed8297451e55a84f60b620ec121c445741c32f)</sub> | <sub>[fbed829](https://github.com/ciripel/available_swaps_script/commit/fbed8297451e55a84f60b620ec121c445741c32f) reduced SOL height to 27 - ciripel</sub> |
 | <sub>2022-01-05 08:34:03</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/e505ac14a67969b6538af470c21b539cdc869fe3)</sub> | <sub>[e505ac1](https://github.com/ciripel/script_generated_files/commit/e505ac14a67969b6538af470c21b539cdc869fe3) Updated at 05-01-2022 08:33 - ciripel</sub> |
 | <sub>2022-01-05 08:32:29</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/8178107eafa6a388cd7b9e9237d4b391be57e0f1)</sub> | <sub>[8178107](https://github.com/ciripel/available_swaps_script/commit/8178107eafa6a388cd7b9e9237d4b391be57e0f1) Updated SOL logo - ciripel</sub> |
 | <sub>2022-01-05 08:32:09</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/79d30d1b1f28383f4140ff191e35c99fa2e1fd79)</sub> | <sub>[79d30d1](https://github.com/ciripel/script_generated_files/commit/79d30d1b1f28383f4140ff191e35c99fa2e1fd79) Updated at 05-01-2022 08:32 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1101 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-05 08:27:14</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/364b4aece740da85c402933b616a94b6a3b7bca2)</sub> | <sub>[364b4ae](https://github.com/ciripel/script_generated_files/commit/364b4aece740da85c402933b616a94b6a3b7bca2) Updated at 05-01-2022 08:27 - ciripel</sub> |
 | <sub>2022-01-05 08:21:41</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/b133c6c81fcdef194ae46c5b7a786c440ff094e9)</sub> | <sub>[b133c6c](https://github.com/ciripel/available_swaps_script/commit/b133c6c81fcdef194ae46c5b7a786c440ff094e9) Changed LIT icon and removed doubled SOLR - ciripel</sub> |
 | <sub>2022-01-05 08:21:30</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/ea2bb679a86b5d29649f136aa71d74f02ad7f0da)</sub> | <sub>[ea2bb67](https://github.com/ciripel/script_generated_files/commit/ea2bb679a86b5d29649f136aa71d74f02ad7f0da) Updated at 05-01-2022 08:21 - ciripel</sub> |
-| <sub>2022-01-05 08:11:15</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a7654e618cc62f29493ceefce978eeb0275717bf)</sub> | <sub>[a7654e6](https://github.com/ciripel/available_swaps_script/commit/a7654e618cc62f29493ceefce978eeb0275717bf) Added 10 (15)[0] - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
