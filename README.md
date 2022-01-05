@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1088 commits since 10/09/2021. You can see the complete history in
+There is a total of 1090 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-05 07:27:18</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/ea895733d6ec37487fcb0ecb68f28a41b4deaf12)</sub> | <sub>[ea89573](https://github.com/ciripel/available_swaps_script/commit/ea895733d6ec37487fcb0ecb68f28a41b4deaf12) Added 10 (10)[0] - ciripel</sub> |
+| <sub>2022-01-05 07:27:07</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/c1275d077467fe663cb42794563f6c4182068199)</sub> | <sub>[c1275d0](https://github.com/ciripel/script_generated_files/commit/c1275d077467fe663cb42794563f6c4182068199) Updated at 05-01-2022 07:27 - ciripel</sub> |
 | <sub>2022-01-04 18:31:24</sub> | <sub>[[simplio-mobile:dev\-293/dark\_mode\_coin\_colors] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d7e9bfcaaf21e3bf042f7ad84cf506fa0efd17b6)</sub> | <sub>[d7e9bfc](https://github.com/SimplioOfficial/simplio-mobile/commit/d7e9bfcaaf21e3bf042f7ad84cf506fa0efd17b6) add dark_graph to all icons constants - Juliana Souza</sub> |
 | <sub>2022-01-04 15:32:55</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/25c0199396fdb3acd03a5304124ad1513efefa23)</sub> | <sub>[25c0199](https://github.com/ciripel/available_swaps_script/commit/25c0199396fdb3acd03a5304124ad1513efefa23) Added 10 (10)[0] - ciripel</sub> |
 | <sub>2022-01-04 15:32:47</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/bcba2487d4d4bbbdcbc0da076ae3d4d94d131c3e)</sub> | <sub>[bcba248](https://github.com/ciripel/script_generated_files/commit/bcba2487d4d4bbbdcbc0da076ae3d4d94d131c3e) Updated at 04-01-2022 15:32 - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 1088 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-04 15:10:19</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/51d29c7a7b1b21f364c822c7d1ab246096cc25f2)</sub> | <sub>[51d29c7](https://github.com/ciripel/available_swaps_script/commit/51d29c7a7b1b21f364c822c7d1ab246096cc25f2) Added 10 (13)[0] - ciripel</sub> |
 | <sub>2022-01-04 15:10:13</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/215d29e9477d67d042177070a6f749540294a403)</sub> | <sub>[215d29e](https://github.com/ciripel/script_generated_files/commit/215d29e9477d67d042177070a6f749540294a403) Updated at 04-01-2022 15:10 - ciripel</sub> |
 | <sub>2022-01-04 14:59:50</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/56c4d4b0ebf47e434415c4ba20dfe3b7ae7d48ac)</sub> | <sub>[56c4d4b](https://github.com/ciripel/available_swaps_script/commit/56c4d4b0ebf47e434415c4ba20dfe3b7ae7d48ac) Reduced REQ icon to 27 - ciripel</sub> |
-| <sub>2022-01-04 14:59:33</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/470e3dc2bdbceba8b77686f193bd56ace2c19adc)</sub> | <sub>[470e3dc](https://github.com/ciripel/script_generated_files/commit/470e3dc2bdbceba8b77686f193bd56ace2c19adc) Updated at 04-01-2022 14:59 - ciripel</sub> |
-| <sub>2022-01-04 14:58:12</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a5e294db560ebf4511c0829879c8d6d91b1bcdb5)</sub> | <sub>[a5e294d](https://github.com/ciripel/available_swaps_script/commit/a5e294db560ebf4511c0829879c8d6d91b1bcdb5) Fixed SIO icon - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
