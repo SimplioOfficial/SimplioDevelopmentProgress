@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1121 commits since 10/09/2021. You can see the complete history in
+There is a total of 1122 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-05 10:59:31</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2)</sub> | <sub>[6365cd3](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2) [DEVELOPMENT-278] Fix seeds page with bigger he... - Jan Vraštil</sub> |
 | <sub>2022-01-05 10:24:20</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a0846acda5427a386c6c3aaf9690fe986e2b56ae)</sub> | <sub>[a0846ac](https://github.com/ciripel/available_swaps_script/commit/a0846acda5427a386c6c3aaf9690fe986e2b56ae) Added 10 (13)[0] - ciripel</sub> |
 | <sub>2022-01-05 10:24:12</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/6bbe96d81b7437751c868c95ef6641034201723b)</sub> | <sub>[6bbe96d](https://github.com/ciripel/script_generated_files/commit/6bbe96d81b7437751c868c95ef6641034201723b) Updated at 05-01-2022 10:24 - ciripel</sub> |
 | <sub>2022-01-05 09:48:42</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/eff426ebcf53a86905104d0da5e81cecb8316863)</sub> | <sub>[eff426e](https://github.com/ciripel/available_swaps_script/commit/eff426ebcf53a86905104d0da5e81cecb8316863) updated TKO logo - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1121 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-05 09:41:50</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/28cbfd6cc9e22e66594009b54a13ab478111b085)</sub> | <sub>[28cbfd6](https://github.com/ciripel/available_swaps_script/commit/28cbfd6cc9e22e66594009b54a13ab478111b085) Added 10 (12)[0] - ciripel</sub> |
 | <sub>2022-01-05 09:41:12</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/97deb5406606189a2ea0d3507dbc422e9c9142e0)</sub> | <sub>[97deb54](https://github.com/ciripel/script_generated_files/commit/97deb5406606189a2ea0d3507dbc422e9c9142e0) Updated at 05-01-2022 09:41 - ciripel</sub> |
 | <sub>2022-01-05 09:21:38</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/01a90ef46b93295c02864327856b31789783fe73)</sub> | <sub>[01a90ef](https://github.com/ciripel/available_swaps_script/commit/01a90ef46b93295c02864327856b31789783fe73) updated DOT logo - ciripel</sub> |
-| <sub>2022-01-05 09:21:31</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/794fb9d163be1476400b48b06f22c4eef5c3fecc)</sub> | <sub>[794fb9d](https://github.com/ciripel/script_generated_files/commit/794fb9d163be1476400b48b06f22c4eef5c3fecc) Updated at 05-01-2022 09:21 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

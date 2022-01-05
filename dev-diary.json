@@ -20146,5 +20146,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/a0846acda5427a386c6c3aaf9690fe986e2b56ae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 10:59:31.036000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6365cd3`](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2) [DEVELOPMENT-278] Fix seeds page with bigger he... - Jan Vra\u0161til",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2"
+    }
   }
 ]
