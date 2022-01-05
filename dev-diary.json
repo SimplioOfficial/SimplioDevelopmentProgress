@@ -19840,5 +19840,41 @@
       "type": "rich",
       "url": "https://github.com/ciripel/available_swaps_script/commit/e2fead7ac44d96e91fbacd25e4c189687dcf821e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 09:07:40.449000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2f209e2`](https://github.com/ciripel/script_generated_files/commit/2f209e2d47362f22848b5a7eb47298ce655adea9) Updated at 05-01-2022 09:07 - ciripel",
+      "title": "[script_generated_files:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/script_generated_files/commit/2f209e2d47362f22848b5a7eb47298ce655adea9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-05 09:08:01.958000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`eddb08d`](https://github.com/ciripel/available_swaps_script/commit/eddb08db751fe2d3478cc2a12c8c4f44624eb1cf) updated KP3R logo - ciripel",
+      "title": "[available_swaps_script:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/available_swaps_script/commit/eddb08db751fe2d3478cc2a12c8c4f44624eb1cf"
+    }
   }
 ]
