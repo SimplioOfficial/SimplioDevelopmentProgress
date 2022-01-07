@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1131 commits since 10/09/2021. You can see the complete history in
+There is a total of 1132 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-07 16:40:02</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed)</sub> | <sub>[7e2e04d](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed) Fixed Txes, working on Balance - ciripel</sub> |
 | <sub>2022-01-07 16:21:04</sub> | <sub>[[simplio-mobile:v0\.3\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/96be62ee3ad4...165df79cd8c1)</sub> | <sub>[9f5f132](https://github.com/SimplioOfficial/simplio-mobile/commit/9f5f13208b9a8231c790abd512e7289029237a08) fix parse blockbook tx - PitTxid<br>[02cec46](https://github.com/SimplioOfficial/simplio-mobile/commit/02cec46126b653bf072470ad0ebd8e21d5283bf2) fix calculate fee for coin - PitTxid<br>[256274b](https://github.com/SimplioOfficial/simplio-mobile/commit/256274bedd3d18e9d1757ea2567a2ee9459e4bc1) fix broadcast bitcoin testnet - PitTxid<br>[165df79](https://github.com/SimplioOfficial/simplio-mobile/commit/165df79cd8c1df68c82400cda65a634312ed33b9) fix safe - PitTxid</sub> |
 | <sub>2022-01-07 14:17:51</sub> | <sub>[[simplio-mobile:v0\.3\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a86325d4ab67...96be62ee3ad4)</sub> | <sub>[9e0932d](https://github.com/SimplioOfficial/simplio-mobile/commit/9e0932d9e1c6e460c6b90058791366647d2da842) import coins data from backend - PitTxid<br>[c94416d](https://github.com/SimplioOfficial/simplio-mobile/commit/c94416d59e7e3826f7397a0732fe16204413d7de) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid<br>[96be62e](https://github.com/SimplioOfficial/simplio-mobile/commit/96be62ee3ad47c44c7fda2a89a606205fccadb07) fix build and add bitcoin testnet" - PitTxid</sub> |
 | <sub>2022-01-07 12:51:14</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d)</sub> | <sub>[37eeebb](https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d) Wallet creation implementation done - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1131 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-07 08:31:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438)</sub> | <sub>[a86325d](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil</sub> |
 | <sub>2022-01-07 07:56:58</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d7ecb7fde738...f7f11df972be)</sub> | <sub>[3d5f5f9](https://github.com/SimplioOfficial/simplio-mobile/commit/3d5f5f9cdb479b84735d263103ccacf843e824a7) wip - Jan Vraštil<br>[f7f11df](https://github.com/SimplioOfficial/simplio-mobile/commit/f7f11df972bebf51122154504a38b9b6f47c5794) wip - Jan Vraštil</sub> |
 | <sub>2022-01-05 11:00:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1b1daf88a50d...d7ecb7fde738)</sub> |
-| <sub>2022-01-05 10:59:31</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2)</sub> | <sub>[6365cd3](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2) [DEVELOPMENT-278] Fix seeds page with bigger he... - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
