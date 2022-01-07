@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-07 08:31:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438)</sub> | <sub>[a86325d](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil</sub> |
 | <sub>2022-01-07 07:56:58</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d7ecb7fde738...f7f11df972be)</sub> | <sub>[3d5f5f9](https://github.com/SimplioOfficial/simplio-mobile/commit/3d5f5f9cdb479b84735d263103ccacf843e824a7) wip - Jan Vraštil<br>[f7f11df](https://github.com/SimplioOfficial/simplio-mobile/commit/f7f11df972bebf51122154504a38b9b6f47c5794) wip - Jan Vraštil</sub> |
 | <sub>2022-01-05 11:00:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/1b1daf88a50d...d7ecb7fde738)</sub> |
 | <sub>2022-01-05 10:59:31</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2)</sub> | <sub>[6365cd3](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2) [DEVELOPMENT-278] Fix seeds page with bigger he... - Jan Vraštil</sub> |

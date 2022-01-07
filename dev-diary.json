@@ -20199,5 +20199,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/d7ecb7fde738...f7f11df972be"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-07 08:31:21.461000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a86325d`](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438"
+    }
   }
 ]
