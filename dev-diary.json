@@ -20306,5 +20306,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/a86325d4ab67...96be62ee3ad4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-07 16:21:04.476000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9f5f132`](https://github.com/SimplioOfficial/simplio-mobile/commit/9f5f13208b9a8231c790abd512e7289029237a08) fix parse blockbook tx - PitTxid\n[`02cec46`](https://github.com/SimplioOfficial/simplio-mobile/commit/02cec46126b653bf072470ad0ebd8e21d5283bf2) fix calculate fee for coin - PitTxid\n[`256274b`](https://github.com/SimplioOfficial/simplio-mobile/commit/256274bedd3d18e9d1757ea2567a2ee9459e4bc1) fix broadcast bitcoin testnet - PitTxid\n[`165df79`](https://github.com/SimplioOfficial/simplio-mobile/commit/165df79cd8c1df68c82400cda65a634312ed33b9) fix safe - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/96be62ee3ad4...165df79cd8c1"
+    }
   }
 ]
