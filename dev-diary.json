@@ -20270,5 +20270,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/compare/6ee4e789cf76...fce0fd5570ce"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-07 12:51:14.168000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`37eeebb`](https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d) Wallet creation implementation done - ciripel",
+      "title": "[simplio-mobile:feature/safecoin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d"
+    }
   }
 ]
