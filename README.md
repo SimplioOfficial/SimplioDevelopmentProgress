@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1127 commits since 10/09/2021. You can see the complete history in
+There is a total of 1128 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-07 12:10:34</sub> | <sub>[[simplio-go:testing] 28 new commits](https://github.com/SimplioOfficial/simplio-go/compare/6ee4e789cf76...fce0fd5570ce)</sub> | <sub>[4cd2506](https://github.com/SimplioOfficial/simplio-go/commit/4cd2506dd993255112378971fa769b3afed91891) changing to url decode - storkandstars<br>[d9a06fd](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars<br>[b0a7a27](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars<br>[5314384](https://github.com/SimplioOfficial/simplio-go/commit/5314384b2682d125db513bca208a4375ee854609) adding route groups - storkandstars<br>[2ee594d](https://github.com/SimplioOfficial/simplio-go/commit/2ee594de8965027b5e0c9bdaf67b2c5a51e2ecae) deploying latest version - storkandstars</sub> |
 | <sub>2022-01-07 12:06:00</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f)</sub> | <sub>[30a8f8c](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f) updating timeout status - storkandstars</sub> |
 | <sub>2022-01-07 11:30:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f7f11df972be...a093b08f279c)</sub> |
 | <sub>2022-01-07 08:31:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438)</sub> | <sub>[a86325d](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1127 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-05 10:24:20</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a0846acda5427a386c6c3aaf9690fe986e2b56ae)</sub> | <sub>[a0846ac](https://github.com/ciripel/available_swaps_script/commit/a0846acda5427a386c6c3aaf9690fe986e2b56ae) Added 10 (13)[0] - ciripel</sub> |
 | <sub>2022-01-05 10:24:12</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/6bbe96d81b7437751c868c95ef6641034201723b)</sub> | <sub>[6bbe96d](https://github.com/ciripel/script_generated_files/commit/6bbe96d81b7437751c868c95ef6641034201723b) Updated at 05-01-2022 10:24 - ciripel</sub> |
 | <sub>2022-01-05 09:48:42</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/eff426ebcf53a86905104d0da5e81cecb8316863)</sub> | <sub>[eff426e](https://github.com/ciripel/available_swaps_script/commit/eff426ebcf53a86905104d0da5e81cecb8316863) updated TKO logo - ciripel</sub> |
-| <sub>2022-01-05 09:48:23</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/fefb32a2d43102d6756f16725ceaa66cd9ea4886)</sub> | <sub>[fefb32a](https://github.com/ciripel/script_generated_files/commit/fefb32a2d43102d6756f16725ceaa66cd9ea4886) Updated at 05-01-2022 09:48 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

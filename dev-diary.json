@@ -20252,5 +20252,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-07 12:10:34.704000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4cd2506`](https://github.com/SimplioOfficial/simplio-go/commit/4cd2506dd993255112378971fa769b3afed91891) changing to url decode - storkandstars\n[`d9a06fd`](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars\n[`b0a7a27`](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars\n[`5314384`](https://github.com/SimplioOfficial/simplio-go/commit/5314384b2682d125db513bca208a4375ee854609) adding route groups - storkandstars\n[`2ee594d`](https://github.com/SimplioOfficial/simplio-go/commit/2ee594de8965027b5e0c9bdaf67b2c5a51e2ecae) deploying latest version - storkandstars",
+      "title": "[simplio-go:testing] 28 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/6ee4e789cf76...fce0fd5570ce"
+    }
   }
 ]
