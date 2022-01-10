@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1135 commits since 10/09/2021. You can see the complete history in
+There is a total of 1136 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-10 12:36:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/c1a869f729a5...790b1930b00b)</sub> |
 | <sub>2022-01-10 12:30:32</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e42575e15d0b8007646a6c186951f1ca5c101fee)</sub> | <sub>[e42575e](https://github.com/SimplioOfficial/simplio-mobile/commit/e42575e15d0b8007646a6c186951f1ca5c101fee) [DEVELOPMENT-277] Allow user to use capitals in... - Jan Vraštil</sub> |
 | <sub>2022-01-10 10:49:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/a093b08f279c...c1a869f729a5)</sub> |
 | <sub>2022-01-10 09:11:14</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1)</sub> | <sub>[7bf065f](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1) update packages and add test coin list - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 1135 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-07 12:51:14</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d)</sub> | <sub>[37eeebb](https://github.com/SimplioOfficial/simplio-mobile/commit/37eeebbf1786b9f9281b93ae2ecb8492928a541d) Wallet creation implementation done - ciripel</sub> |
 | <sub>2022-01-07 12:10:34</sub> | <sub>[[simplio-go:testing] 28 new commits](https://github.com/SimplioOfficial/simplio-go/compare/6ee4e789cf76...fce0fd5570ce)</sub> | <sub>[4cd2506](https://github.com/SimplioOfficial/simplio-go/commit/4cd2506dd993255112378971fa769b3afed91891) changing to url decode - storkandstars<br>[d9a06fd](https://github.com/SimplioOfficial/simplio-go/commit/d9a06fd9300aeb2f9cb56d4f1ba4279cef887f50) authentication on api side - storkandstars<br>[b0a7a27](https://github.com/SimplioOfficial/simplio-go/commit/b0a7a2709a0512fddea725c1238637e371bb9624) testing gateway authorization - storkandstars<br>[5314384](https://github.com/SimplioOfficial/simplio-go/commit/5314384b2682d125db513bca208a4375ee854609) adding route groups - storkandstars<br>[2ee594d](https://github.com/SimplioOfficial/simplio-go/commit/2ee594de8965027b5e0c9bdaf67b2c5a51e2ecae) deploying latest version - storkandstars</sub> |
 | <sub>2022-01-07 12:06:00</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f)</sub> | <sub>[30a8f8c](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f) updating timeout status - storkandstars</sub> |
-| <sub>2022-01-07 11:30:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f7f11df972be...a093b08f279c)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
