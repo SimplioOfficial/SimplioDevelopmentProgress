@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-10 12:30:32</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e42575e15d0b8007646a6c186951f1ca5c101fee)</sub> | <sub>[e42575e](https://github.com/SimplioOfficial/simplio-mobile/commit/e42575e15d0b8007646a6c186951f1ca5c101fee) [DEVELOPMENT-277] Allow user to use capitals in... - Jan Vraštil</sub> |
 | <sub>2022-01-10 10:49:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/a093b08f279c...c1a869f729a5)</sub> |
 | <sub>2022-01-10 09:11:14</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1)</sub> | <sub>[7bf065f](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1) update packages and add test coin list - PitTxid</sub> |
 | <sub>2022-01-07 16:40:02</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed)</sub> | <sub>[7e2e04d](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed) Fixed Txes, working on Balance - ciripel</sub> |
