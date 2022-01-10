@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1133 commits since 10/09/2021. You can see the complete history in
+There is a total of 1134 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-10 10:49:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/a093b08f279c...c1a869f729a5)</sub> |
 | <sub>2022-01-10 09:11:14</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1)</sub> | <sub>[7bf065f](https://github.com/SimplioOfficial/simplio-mobile/commit/7bf065f89058a4936e7ff100bd5e3259923ffff1) update packages and add test coin list - PitTxid</sub> |
 | <sub>2022-01-07 16:40:02</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed)</sub> | <sub>[7e2e04d](https://github.com/SimplioOfficial/simplio-mobile/commit/7e2e04d0a562776e5b13256568b5557073d424ed) Fixed Txes, working on Balance - ciripel</sub> |
 | <sub>2022-01-07 16:21:04</sub> | <sub>[[simplio-mobile:v0\.3\.0] 4 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/96be62ee3ad4...165df79cd8c1)</sub> | <sub>[9f5f132](https://github.com/SimplioOfficial/simplio-mobile/commit/9f5f13208b9a8231c790abd512e7289029237a08) fix parse blockbook tx - PitTxid<br>[02cec46](https://github.com/SimplioOfficial/simplio-mobile/commit/02cec46126b653bf072470ad0ebd8e21d5283bf2) fix calculate fee for coin - PitTxid<br>[256274b](https://github.com/SimplioOfficial/simplio-mobile/commit/256274bedd3d18e9d1757ea2567a2ee9459e4bc1) fix broadcast bitcoin testnet - PitTxid<br>[165df79](https://github.com/SimplioOfficial/simplio-mobile/commit/165df79cd8c1df68c82400cda65a634312ed33b9) fix safe - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 1133 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-07 12:06:00</sub> | <sub>[[simplio-go:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f)</sub> | <sub>[30a8f8c](https://github.com/SimplioOfficial/simplio-go/commit/30a8f8ce4e323e274d8be0a9cbe6e6926f29812f) updating timeout status - storkandstars</sub> |
 | <sub>2022-01-07 11:30:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/f7f11df972be...a093b08f279c)</sub> |
 | <sub>2022-01-07 08:31:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438)</sub> | <sub>[a86325d](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil</sub> |
-| <sub>2022-01-07 07:56:58</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/d7ecb7fde738...f7f11df972be)</sub> | <sub>[3d5f5f9](https://github.com/SimplioOfficial/simplio-mobile/commit/3d5f5f9cdb479b84735d263103ccacf843e824a7) wip - Jan Vraštil<br>[f7f11df](https://github.com/SimplioOfficial/simplio-mobile/commit/f7f11df972bebf51122154504a38b9b6f47c5794) wip - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
