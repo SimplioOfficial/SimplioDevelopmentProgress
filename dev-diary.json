@@ -20499,5 +20499,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `eab328d`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-11 11:06:17.679000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8d7f89c`](https://github.com/SimplioOfficial/simplio-mobile/commit/8d7f89c109efa2012877ee1dae448642783ef04d) Squashed commit of the following: - PitTxid\n[`bdec267`](https://github.com/SimplioOfficial/simplio-mobile/commit/bdec2676eb54cdc4f652bb60c1c1c9453cbfeaa4) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aa3b69044e0a...bdec2676eb54"
+    }
   }
 ]

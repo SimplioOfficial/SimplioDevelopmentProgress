@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-11 11:06:17</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aa3b69044e0a...bdec2676eb54)</sub> | <sub>[8d7f89c](https://github.com/SimplioOfficial/simplio-mobile/commit/8d7f89c109efa2012877ee1dae448642783ef04d) Squashed commit of the following: - PitTxid<br>[bdec267](https://github.com/SimplioOfficial/simplio-mobile/commit/bdec2676eb54cdc4f652bb60c1c1c9453cbfeaa4) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-01-11 10:40:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/dc3d2a303548...eab328d70416)</sub> |
 | <sub>2022-01-11 10:37:45</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/aa3b69044e0a5cd928734e95bab7af6a59d3efbf)</sub> | <sub>[aa3b690](https://github.com/SimplioOfficial/simplio-mobile/commit/aa3b69044e0a5cd928734e95bab7af6a59d3efbf) update CHANGELOG.md - jvrastil</sub> |
 | <sub>2022-01-11 10:34:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/318aec0b5845...dc3d2a303548)</sub> |
