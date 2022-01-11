@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-11 14:36:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/54ccc6b08279...6026e3903beb)</sub> |
 | <sub>2022-01-11 14:31:25</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a)</sub> | <sub>[54ccc6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a) disable purchase if there is no pair - jvrastil</sub> |
 | <sub>2022-01-11 13:39:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce)</sub> | <sub>[cb507cd](https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce) fix navigate stake - PitTxid</sub> |
 | <sub>2022-01-11 13:39:24</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5)</sub> | <sub>[b5f8c06](https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5) fix swap issue - PitTxid</sub> |
