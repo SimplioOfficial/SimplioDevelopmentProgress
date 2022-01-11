@@ -20517,5 +20517,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/aa3b69044e0a...bdec2676eb54"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-11 13:39:24.270000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b5f8c06`](https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5) fix swap issue - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-11 13:39:57.487000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`cb507cd`](https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce) fix navigate stake - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce"
+    }
   }
 ]
