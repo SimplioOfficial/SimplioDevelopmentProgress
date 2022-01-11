@@ -20553,5 +20553,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-11 14:31:25.658000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`54ccc6b`](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a) disable purchase if there is no pair - jvrastil",
+      "title": "[simplio-mobile:feature/215\\-payment\\_gatevay\\_and\\_sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a"
+    }
   }
 ]
