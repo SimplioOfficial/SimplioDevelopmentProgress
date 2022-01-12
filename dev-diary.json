@@ -20713,5 +20713,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/4c6e70e4309e1519c7b0848a13291e94d221bf67"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-12 13:03:25.084000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`64d788f`](https://github.com/SimplioOfficial/simplio-mobile/commit/64d788f7d62440af9c437f10402c7600ca5cb5be) navigating to staking page from staking detail - PitTxid\n[`a61347e`](https://github.com/SimplioOfficial/simplio-mobile/commit/a61347e51d9c2aae994cd0ad85fac8bc1c7b0249) fix multiple subscrible - PitTxid\n[`e168ec6`](https://github.com/SimplioOfficial/simplio-mobile/commit/e168ec6d99c2f861e059e4667a74478d5941d5bd) fix check new transactions - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4c6e70e4309e...e168ec6d99c2"
+    }
   }
 ]
