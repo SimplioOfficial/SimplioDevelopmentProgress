@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-12 15:37:52</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/12daf1ab382e...3c7f9090bb93)</sub> |
+| <sub>2022-01-12 15:36:02</sub> | <sub>[[simplio-mobile:FIX\_VULNERABITIES] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784)</sub> | <sub>[d55bba6](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784) fix most of packages dependency errors - jvrastil</sub> |
 | <sub>2022-01-12 14:38:48</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/800b72fa3dc7ceedc8d6c98013862a7713898d20)</sub> | <sub>[800b72f](https://github.com/SimplioOfficial/simplio-mobile/commit/800b72fa3dc7ceedc8d6c98013862a7713898d20) fix empty staking error - PitTxid</sub> |
 | <sub>2022-01-12 13:47:15</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/680516a8ca613995ff35c9d06c0c8c3ab64f7569)</sub> | <sub>[680516a](https://github.com/SimplioOfficial/simplio-mobile/commit/680516a8ca613995ff35c9d06c0c8c3ab64f7569) Added Safe chain icon on SAFE tokens - ciripel</sub> |
 | <sub>2022-01-12 13:17:27</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4e52f96f6da1524680fc8991f982e5768efe5732)</sub> | <sub>[4e52f96](https://github.com/SimplioOfficial/simplio-mobile/commit/4e52f96f6da1524680fc8991f982e5768efe5732) fix mnemo of undefined bug - jvrastil</sub> |
