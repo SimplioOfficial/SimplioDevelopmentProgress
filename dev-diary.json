@@ -20641,5 +20641,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7ae1dadce26369bae519188b35edc66936315482"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-12 10:45:06.199000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7e44e3e`](https://github.com/SimplioOfficial/simplio-mobile/commit/7e44e3e4fccc51910ce15a88bbe9783d3bdc03ef) Update README.md - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/7e44e3e4fccc51910ce15a88bbe9783d3bdc03ef"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-12 10:49:01.206000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7f1d3dc`](https://github.com/SimplioOfficial/simplio-mobile/commit/7f1d3dc8cf2be64003686c1c787a7e40a9e53797) implement subscrible for data change of sol pla... - PitTxid\n[`1f878bc`](https://github.com/SimplioOfficial/simplio-mobile/commit/1f878bc20bfc8085ced668298086a5003397eb67) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7e44e3e4fccc...1f878bc20bfc"
+    }
   }
 ]
