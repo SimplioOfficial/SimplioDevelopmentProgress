@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1147 commits since 10/09/2021. You can see the complete history in
+There is a total of 1148 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-12 10:03:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6026e3903beb...12daf1ab382e)</sub> |
 | <sub>2022-01-11 15:18:07</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9)</sub> | <sub>[0ad1b6a](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9) finished SAFE implementation - ciripel</sub> |
 | <sub>2022-01-11 14:36:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/54ccc6b08279...6026e3903beb)</sub> |
 | <sub>2022-01-11 14:31:25</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a)</sub> | <sub>[54ccc6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a) disable purchase if there is no pair - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1147 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-11 10:40:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/dc3d2a303548...eab328d70416)</sub> |
 | <sub>2022-01-11 10:37:45</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/aa3b69044e0a5cd928734e95bab7af6a59d3efbf)</sub> | <sub>[aa3b690](https://github.com/SimplioOfficial/simplio-mobile/commit/aa3b69044e0a5cd928734e95bab7af6a59d3efbf) update CHANGELOG.md - jvrastil</sub> |
 | <sub>2022-01-11 10:34:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/318aec0b5845...dc3d2a303548)</sub> |
-| <sub>2022-01-10 13:52:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/790b1930b00b...318aec0b5845)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

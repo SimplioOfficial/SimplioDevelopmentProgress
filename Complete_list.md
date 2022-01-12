@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-12 10:03:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6026e3903beb...12daf1ab382e)</sub> |
 | <sub>2022-01-11 15:18:07</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9)</sub> | <sub>[0ad1b6a](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9) finished SAFE implementation - ciripel</sub> |
 | <sub>2022-01-11 14:36:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/54ccc6b08279...6026e3903beb)</sub> |
 | <sub>2022-01-11 14:31:25</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a)</sub> | <sub>[54ccc6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a) disable purchase if there is no pair - jvrastil</sub> |
