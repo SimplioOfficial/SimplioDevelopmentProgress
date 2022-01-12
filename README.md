@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1151 commits since 10/09/2021. You can see the complete history in
+There is a total of 1152 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-12 12:09:44</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/428d7349df8a02f5b28ce716a23697405ea0a16a)</sub> | <sub>[428d734](https://github.com/SimplioOfficial/simplio-mobile/commit/428d7349df8a02f5b28ce716a23697405ea0a16a) update ws for sol - PitTxid</sub> |
 | <sub>2022-01-12 10:49:01</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7e44e3e4fccc...1f878bc20bfc)</sub> | <sub>[7f1d3dc](https://github.com/SimplioOfficial/simplio-mobile/commit/7f1d3dc8cf2be64003686c1c787a7e40a9e53797) implement subscrible for data change of sol pla... - PitTxid<br>[1f878bc](https://github.com/SimplioOfficial/simplio-mobile/commit/1f878bc20bfc8085ced668298086a5003397eb67) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-01-12 10:45:06</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7e44e3e4fccc51910ce15a88bbe9783d3bdc03ef)</sub> | <sub>[7e44e3e](https://github.com/SimplioOfficial/simplio-mobile/commit/7e44e3e4fccc51910ce15a88bbe9783d3bdc03ef) Update README.md - jvrastil</sub> |
 | <sub>2022-01-12 10:42:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7ae1dadce26369bae519188b35edc66936315482)</sub> | <sub>[7ae1dad](https://github.com/SimplioOfficial/simplio-mobile/commit/7ae1dadce26369bae519188b35edc66936315482) Delete readme.md - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1151 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-11 14:31:25</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a)</sub> | <sub>[54ccc6b](https://github.com/SimplioOfficial/simplio-mobile/commit/54ccc6b082791b91e24e827f8c6d979d6b3a717a) disable purchase if there is no pair - jvrastil</sub> |
 | <sub>2022-01-11 13:39:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce)</sub> | <sub>[cb507cd](https://github.com/SimplioOfficial/simplio-mobile/commit/cb507cd5748f04f99042155141f593cb0d155cce) fix navigate stake - PitTxid</sub> |
 | <sub>2022-01-11 13:39:24</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5)</sub> | <sub>[b5f8c06](https://github.com/SimplioOfficial/simplio-mobile/commit/b5f8c06e1075fa474c64468c459928a81af216f5) fix swap issue - PitTxid</sub> |
-| <sub>2022-01-11 11:06:17</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aa3b69044e0a...bdec2676eb54)</sub> | <sub>[8d7f89c](https://github.com/SimplioOfficial/simplio-mobile/commit/8d7f89c109efa2012877ee1dae448642783ef04d) Squashed commit of the following: - PitTxid<br>[bdec267](https://github.com/SimplioOfficial/simplio-mobile/commit/bdec2676eb54cdc4f652bb60c1c1c9453cbfeaa4) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
