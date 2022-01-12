@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-12 10:42:21</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/7ae1dadce26369bae519188b35edc66936315482)</sub> | <sub>[7ae1dad](https://github.com/SimplioOfficial/simplio-mobile/commit/7ae1dadce26369bae519188b35edc66936315482) Delete readme.md - jvrastil</sub> |
 | <sub>2022-01-12 10:03:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/6026e3903beb...12daf1ab382e)</sub> |
 | <sub>2022-01-11 15:18:07</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9)</sub> | <sub>[0ad1b6a](https://github.com/SimplioOfficial/simplio-mobile/commit/0ad1b6a5ff4a32b806360b5089fcf841bada4db9) finished SAFE implementation - ciripel</sub> |
 | <sub>2022-01-11 14:36:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/54ccc6b08279...6026e3903beb)</sub> |
