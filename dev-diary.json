@@ -21157,5 +21157,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/551594a29a08445e6238204718448eed2e5257d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-13 12:07:17.247000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c12f5f4`](https://github.com/SimplioOfficial/simplio-mobile/commit/c12f5f4df3d7174f8d72a98cf09bf9d5eadb0bd8) fix most of packages dependency errors - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/c12f5f4df3d7174f8d72a98cf09bf9d5eadb0bd8"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-13 12:08:20.964000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`8a716dd`](https://github.com/SimplioOfficial/simplio-go/commit/8a716ddfb623eeac28047023976fdbd8718977c8) tools prep - storkandstars\n[`eed7cf4`](https://github.com/SimplioOfficial/simplio-go/commit/eed7cf4fc95d343aa224c201b9557bc412ca8897) file structure update - storkandstars\n[`4e030ef`](https://github.com/SimplioOfficial/simplio-go/commit/4e030ef83666bedc98776101464fb62320a88e02) adding wrap error - storkandstars\n[`caf7203`](https://github.com/SimplioOfficial/simplio-go/commit/caf72033a0d77b80f35e0d0ad09715de6592469c) removing custom error status - storkandstars\n[`f88d970`](https://github.com/SimplioOfficial/simplio-go/commit/f88d9708c793736337ff6286694e07183beee7cc) removing shared entries - storkandstars",
+      "title": "[simplio-go:master] 214 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/compare/413e06ad2fdc...67033bf80b09"
+    }
   }
 ]
