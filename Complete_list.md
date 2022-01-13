@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 04:02:30</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b8b34a2753df25516ca1ee188b433a4fb9e70fe4)</sub> | <sub>[b8b34a2](https://github.com/SimplioOfficial/simplio-mobile/commit/b8b34a2753df25516ca1ee188b433a4fb9e70fe4) clean timer when socket is closed - PitTxid</sub> |
 | <sub>2022-01-12 15:37:52</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/12daf1ab382e...3c7f9090bb93)</sub> |
 | <sub>2022-01-12 15:36:02</sub> | <sub>[[simplio-mobile:FIX\_VULNERABITIES] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784)</sub> | <sub>[d55bba6](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784) fix most of packages dependency errors - jvrastil</sub> |
 | <sub>2022-01-12 14:38:48</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/800b72fa3dc7ceedc8d6c98013862a7713898d20)</sub> | <sub>[800b72f](https://github.com/SimplioOfficial/simplio-mobile/commit/800b72fa3dc7ceedc8d6c98013862a7713898d20) fix empty staking error - PitTxid</sub> |
