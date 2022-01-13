@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 09:49:11</sub> | <sub>[[simplio-mobile:feature/215\-payment\_gatevay\_and\_sumsub] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/83324a9dd596afdd91d3a7f625cefe43f203154c)</sub> | <sub>[83324a9](https://github.com/SimplioOfficial/simplio-mobile/commit/83324a9dd596afdd91d3a7f625cefe43f203154c) Fix swap-wallet.modal.ts error - jvrastil</sub> |
 | <sub>2022-01-13 09:42:32</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/42b6b8871dba...c5649b8baf0c)</sub> |
 | <sub>2022-01-13 09:32:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/75494c0fa0df...970c10ba0930)</sub> |
 | <sub>2022-01-13 09:15:23</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2290966ec96cd6c62485414e7bf0bebc0b2b0abf)</sub> | <sub>[2290966](https://github.com/SimplioOfficial/simplio-mobile/commit/2290966ec96cd6c62485414e7bf0bebc0b2b0abf) fix get token transaction on send page - PitTxid</sub> |
