@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 07:31:38</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/19a53d92c4a57d0785b10ad2ae7f6d898bc27f05)</sub> | <sub>[19a53d9](https://github.com/ciripel/available_swaps_script/commit/19a53d92c4a57d0785b10ad2ae7f6d898bc27f05) updated MC logo, fixed Site list of coins - ciripel</sub> |
+| <sub>2022-01-13 07:31:04</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/84ad721f5c2cc1e4fc619aa26cb4c2dec35830d0)</sub> | <sub>[84ad721](https://github.com/ciripel/script_generated_files/commit/84ad721f5c2cc1e4fc619aa26cb4c2dec35830d0) Updated at 13-01-2022 07:30 - ciripel</sub> |
 | <sub>2022-01-13 04:02:30</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b8b34a2753df25516ca1ee188b433a4fb9e70fe4)</sub> | <sub>[b8b34a2](https://github.com/SimplioOfficial/simplio-mobile/commit/b8b34a2753df25516ca1ee188b433a4fb9e70fe4) clean timer when socket is closed - PitTxid</sub> |
 | <sub>2022-01-12 15:37:52</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/12daf1ab382e...3c7f9090bb93)</sub> |
 | <sub>2022-01-12 15:36:02</sub> | <sub>[[simplio-mobile:FIX\_VULNERABITIES] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784)</sub> | <sub>[d55bba6](https://github.com/SimplioOfficial/simplio-mobile/commit/d55bba60130850c97635b63b9e24e92fe038f784) fix most of packages dependency errors - jvrastil</sub> |
