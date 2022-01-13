@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 08:36:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/d55bba601308...75494c0fa0df)</sub> |
+| <sub>2022-01-13 08:35:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/3c7f9090bb93...42b6b8871dba)</sub> |
 | <sub>2022-01-13 08:27:27</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a1324e9cd0b8980225b266ad90a190149348f4f5)</sub> | <sub>[a1324e9](https://github.com/ciripel/available_swaps_script/commit/a1324e9cd0b8980225b266ad90a190149348f4f5) fixed YGG logo - ciripel</sub> |
 | <sub>2022-01-13 08:26:55</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/45093afc9f43e1226f7b8d07c82c8ee697d8e0ac)</sub> | <sub>[45093af](https://github.com/ciripel/script_generated_files/commit/45093afc9f43e1226f7b8d07c82c8ee697d8e0ac) Updated at 13-01-2022 08:26 - ciripel</sub> |
 | <sub>2022-01-13 07:52:29</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fc3b5c2cfe5a956a9ab0a34ba737a1ff353b01ba)</sub> | <sub>[fc3b5c2](https://github.com/SimplioOfficial/simplio-mobile/commit/fc3b5c2cfe5a956a9ab0a34ba737a1ff353b01ba) Updated README.md - ciripel</sub> |
