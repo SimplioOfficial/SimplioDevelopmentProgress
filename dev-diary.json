@@ -21247,5 +21247,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/048d02f6353323e4617b47fbf0f9b046559742c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-13 18:43:45.677000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`08dcb89`](https://github.com/SimplioOfficial/simplio-mobile/commit/08dcb8955f9902551353e41cea4dbd4bd61634e3) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/08dcb8955f9902551353e41cea4dbd4bd61634e3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-13 18:44:00.424000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6365cd3`](https://github.com/SimplioOfficial/simplio-mobile/commit/6365cd3ab1a062912f155633f62dd4c6243f27d2) [DEVELOPMENT-278] Fix seeds page with bigger he... - jvrastil\n[`a86325d`](https://github.com/SimplioOfficial/simplio-mobile/commit/a86325d4ab6754621226026c5d172a61ceaae438) Dev 293/dark mode coin colors (#7) - jvrastil\n[`9e0932d`](https://github.com/SimplioOfficial/simplio-mobile/commit/9e0932d9e1c6e460c6b90058791366647d2da842) import coins data from backend - PitTxid\n[`c94416d`](https://github.com/SimplioOfficial/simplio-mobile/commit/c94416d59e7e3826f7397a0732fe16204413d7de) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid\n[`96be62e`](https://github.com/SimplioOfficial/simplio-mobile/commit/96be62ee3ad47c44c7fda2a89a606205fccadb07) fix build and add bitcoin testnet\" - PitTxid",
+      "title": "[simplio-mobile:testing] 38 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0da00af62c89...08dcb8955f99"
+    }
   }
 ]
