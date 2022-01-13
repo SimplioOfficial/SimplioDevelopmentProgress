@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 07:52:29</sub> | <sub>[[simplio-mobile:master] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/fc3b5c2cfe5a956a9ab0a34ba737a1ff353b01ba)</sub> | <sub>[fc3b5c2](https://github.com/SimplioOfficial/simplio-mobile/commit/fc3b5c2cfe5a956a9ab0a34ba737a1ff353b01ba) Updated README.md - ciripel</sub> |
 | <sub>2022-01-13 07:39:40</sub> | <sub>[[available_swaps_script:master] 1 new commit](https://github.com/ciripel/available_swaps_script/commit/a912a6626331e361ef69585193ba70b2b3b34716)</sub> | <sub>[a912a66](https://github.com/ciripel/available_swaps_script/commit/a912a6626331e361ef69585193ba70b2b3b34716) Added 1 (3)[1] - ciripel</sub> |
 | <sub>2022-01-13 07:38:36</sub> | <sub>[[script_generated_files:master] 1 new commit](https://github.com/ciripel/script_generated_files/commit/0dad106c65790bd618a1e98768cb5262e3c129eb)</sub> | <sub>[0dad106](https://github.com/ciripel/script_generated_files/commit/0dad106c65790bd618a1e98768cb5262e3c129eb) Updated at 13-01-2022 07:38 - ciripel</sub> |
 | <sub>2022-01-13 07:36:51</sub> | <sub>[[simplio-mobile:feature/safecoin] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a6745ea943787dd1de27afc8dc342dc068ca74b)</sub> | <sub>[6a6745e](https://github.com/SimplioOfficial/simplio-mobile/commit/6a6745ea943787dd1de27afc8dc342dc068ca74b) removed Test Token for SAFE chain from coinlist - ciripel</sub> |
