@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-13 09:32:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/75494c0fa0df...970c10ba0930)</sub> |
 | <sub>2022-01-13 09:15:23</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2290966ec96cd6c62485414e7bf0bebc0b2b0abf)</sub> | <sub>[2290966](https://github.com/SimplioOfficial/simplio-mobile/commit/2290966ec96cd6c62485414e7bf0bebc0b2b0abf) fix get token transaction on send page - PitTxid</sub> |
 | <sub>2022-01-13 08:40:40</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/965fca44e8a9ab4cf11bbce41f62dd8850bf18db)</sub> | <sub>[965fca4](https://github.com/SimplioOfficial/simplio-mobile/commit/965fca44e8a9ab4cf11bbce41f62dd8850bf18db) update backend - PitTxid</sub> |
 | <sub>2022-01-13 08:36:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/d55bba601308...75494c0fa0df)</sub> |
