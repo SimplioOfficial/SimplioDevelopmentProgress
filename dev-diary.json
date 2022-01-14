@@ -21426,5 +21426,23 @@
       "title": "[simplio-mobile] Branch feature/215\\-payment\\_gatevay\\_and\\_sumsub was force-pushed to `a7ee2cf`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-14 21:03:03.290000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`87dfb47`](https://github.com/SimplioOfficial/simplio-mobile/commit/87dfb470226878ac8c1016955a45aa52c5695111) fix after swipelux change - jvrastil",
+      "title": "[simplio-mobile:feature/215\\-payment\\_gatevay\\_and\\_sumsub] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/87dfb470226878ac8c1016955a45aa52c5695111"
+    }
   }
 ]
