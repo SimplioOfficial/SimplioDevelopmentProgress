@@ -21283,5 +21283,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0da00af62c89...08dcb8955f99"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-14 08:45:38.767000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b0f5082`](https://github.com/SimplioOfficial/simplio-mobile/commit/b0f5082c442bf82a1cd81ceaee5a1c905db3a218) build fix - jvrastil\n[`0eeb06b`](https://github.com/SimplioOfficial/simplio-mobile/commit/0eeb06bbb8346a2b93f79a45b5f510ab52802cb5) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/08dcb8955f99...0eeb06bbb834"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-14 08:45:54.890000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b0f5082`](https://github.com/SimplioOfficial/simplio-mobile/commit/b0f5082c442bf82a1cd81ceaee5a1c905db3a218) build fix - jvrastil\n[`0eeb06b`](https://github.com/SimplioOfficial/simplio-mobile/commit/0eeb06bbb8346a2b93f79a45b5f510ab52802cb5) increase versions - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/08dcb8955f99...0eeb06bbb834"
+    }
   }
 ]
