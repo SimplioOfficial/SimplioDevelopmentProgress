@@ -21623,5 +21623,23 @@
       "title": "[simplio-mobile] Branch fixes was force-pushed to `181efdd`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-18 15:29:15.205000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`aa29079`](https://github.com/SimplioOfficial/simplio-mobile/commit/aa2907954c7ffa9672ba0fbbd702d246816ef11b) update - jvrastil",
+      "title": "[simplio-mobile:fixes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/aa2907954c7ffa9672ba0fbbd702d246816ef11b"
+    }
   }
 ]
