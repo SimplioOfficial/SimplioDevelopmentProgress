@@ -21552,5 +21552,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/716115c2adc079ad497de0e8f4d240eb4de81340"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-18 14:06:14.852000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`be6c56e`](https://github.com/SimplioOfficial/simplio-go/commit/be6c56ea7c134de61354a80e22de1cccb18828d4) removing encoded external id for getting an app... - storkandstars",
+      "title": "[simplio-go:fix/encoded\\-external\\-id] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-go/commit/be6c56ea7c134de61354a80e22de1cccb18828d4"
+    }
   }
 ]
