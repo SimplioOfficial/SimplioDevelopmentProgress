@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-19 12:15:20</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c)</sub> | <sub>[c4b8ba6](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c) [DEVELOPMENT-215] Fixes (2) - jvrastil</sub> |
 | <sub>2022-01-19 12:14:44</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c)</sub> | <sub>[c4b8ba6](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c) [DEVELOPMENT-215] Fixes (2) - jvrastil</sub> |
 | <sub>2022-01-19 12:14:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2950e383ece8...8b0ecd4ea59b)</sub> |
 | <sub>2022-01-19 11:44:27</sub> | <sub>[[simplio-mobile:android\_build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354)</sub> | <sub>[2950e38](https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354) pokus - jvrastil</sub> |

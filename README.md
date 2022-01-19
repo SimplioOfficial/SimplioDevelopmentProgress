@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1213 commits since 10/09/2021. You can see the complete history in
+There is a total of 1214 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-19 12:15:20</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c)</sub> | <sub>[c4b8ba6](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c) [DEVELOPMENT-215] Fixes (2) - jvrastil</sub> |
 | <sub>2022-01-19 12:14:44</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c)</sub> | <sub>[c4b8ba6](https://github.com/SimplioOfficial/simplio-mobile/commit/c4b8ba6687709c4cf7e801e9bd4db8075c4f641c) [DEVELOPMENT-215] Fixes (2) - jvrastil</sub> |
 | <sub>2022-01-19 12:14:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/2950e383ece8...8b0ecd4ea59b)</sub> |
 | <sub>2022-01-19 11:44:27</sub> | <sub>[[simplio-mobile:android\_build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354)</sub> | <sub>[2950e38](https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354) pokus - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1213 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-18 16:14:14</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c1ac035192cdd6b671792e9d4959144c9a849e39)</sub> | <sub>[c1ac035](https://github.com/SimplioOfficial/simplio-mobile/commit/c1ac035192cdd6b671792e9d4959144c9a849e39) Fixes (#9) - jvrastil</sub> |
 | <sub>2022-01-18 16:13:43</sub> | <sub>[[simplio-mobile:fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3591e6e5338728648247b3c03fc4715795879374)</sub> | <sub>[3591e6e](https://github.com/SimplioOfficial/simplio-mobile/commit/3591e6e5338728648247b3c03fc4715795879374) update - jvrastil</sub> |
 | <sub>2022-01-18 15:29:15</sub> | <sub>[[simplio-mobile:fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/aa2907954c7ffa9672ba0fbbd702d246816ef11b)</sub> | <sub>[aa29079](https://github.com/SimplioOfficial/simplio-mobile/commit/aa2907954c7ffa9672ba0fbbd702d246816ef11b) update - jvrastil</sub> |
-| <sub>2022-01-18 14:21:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-mobile/compare/18b103016893...181efdddf8ab)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
