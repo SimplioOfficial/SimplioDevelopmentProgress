@@ -21731,5 +21731,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/9571ce052e12cf589016c49f0938cbcfedeb1040"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-19 11:44:27.416000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2950e38`](https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354) pokus - jvrastil",
+      "title": "[simplio-mobile:android\\_build\\_fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/2950e383ece8b561a64ca10e82df6856e9714354"
+    }
   }
 ]
