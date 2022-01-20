@@ -21892,5 +21892,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/d25660e7eb8b8c9ce7ebc70ec504251cd7ff7c1c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-20 15:38:59.824000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e397c61`](https://github.com/SimplioOfficial/simplio-mobile/commit/e397c6149cc910fdc86da6e21b9d74b6b7921c21) minor fixes & version increase - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e397c6149cc910fdc86da6e21b9d74b6b7921c21"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-20 15:39:20.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`248272b`](https://github.com/SimplioOfficial/simplio-mobile/commit/248272b21d700d63e2024643d7116ba4bc0d106e) [DEVELOPMENT-303] staking done page - PitTxid\n[`6a49710`](https://github.com/SimplioOfficial/simplio-mobile/commit/6a49710101c60010d1ccc0ade8625b08323efcc6) show staking list again - PitTxid\n[`e397c61`](https://github.com/SimplioOfficial/simplio-mobile/commit/e397c6149cc910fdc86da6e21b9d74b6b7921c21) minor fixes & version increase - jvrastil",
+      "title": "[simplio-mobile:testing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/87f4e02bd2d3...e397c6149cc9"
+    }
   }
 ]
