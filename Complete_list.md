@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-20 10:09:42</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/d25660e7eb8b8c9ce7ebc70ec504251cd7ff7c1c)</sub> | <sub>[d25660e](https://github.com/SimplioOfficial/stake-program/commit/d25660e7eb8b8c9ce7ebc70ec504251cd7ff7c1c) adjusted comments and msgs of some instructions - ciripel</sub> |
 | <sub>2022-01-19 15:47:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6a49710101c60010d1ccc0ade8625b08323efcc6)</sub> | <sub>[6a49710](https://github.com/SimplioOfficial/simplio-mobile/commit/6a49710101c60010d1ccc0ade8625b08323efcc6) show staking list again - PitTxid</sub> |
 | <sub>2022-01-19 15:37:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/248272b21d700d63e2024643d7116ba4bc0d106e)</sub> | <sub>[248272b](https://github.com/SimplioOfficial/simplio-mobile/commit/248272b21d700d63e2024643d7116ba4bc0d106e) [DEVELOPMENT-303] staking done page - PitTxid</sub> |
 | <sub>2022-01-19 13:56:02</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/87f4e02bd2d342d2272dc800643af04e089b6e33)</sub> | <sub>[87f4e02](https://github.com/SimplioOfficial/simplio-mobile/commit/87f4e02bd2d342d2272dc800643af04e089b6e33) [DEVELOPMENT-215] Remove unnecessary error message - jvrastil</sub> |
