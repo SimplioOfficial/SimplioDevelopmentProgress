@@ -22036,5 +22036,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/stake-program/commit/dd95abad790852d48f3f163dd339afac4acb933e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-21 19:04:05.001000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1a1b0f0`](https://github.com/SimplioOfficial/simplio-mobile/commit/1a1b0f0657f3515881590af964761ead3df63c7d) Staking UI fixes - jvrastil\n[`570ddd9`](https://github.com/SimplioOfficial/simplio-mobile/commit/570ddd9133a768ac537937dc20906947e1bf1378) capacitor/ios update - jvrastil\n[`0409c2a`](https://github.com/SimplioOfficial/simplio-mobile/commit/0409c2ae79e813cb85d3253b3b017648b2148320) [DEVELOPMENT-285] Fix iphone issue with scrolli... - jvrastil\n[`cf88d1b`](https://github.com/SimplioOfficial/simplio-mobile/commit/cf88d1b63083f494727644b1bd488bb4bd663ec4) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/4e28db8f8154...cf88d1b63083"
+    }
   }
 ]
