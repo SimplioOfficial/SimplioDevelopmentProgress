@@ -22018,5 +22018,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f450d94e69c2...4e28db8f8154"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-01-21 12:02:25.124000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dd95aba`](https://github.com/SimplioOfficial/stake-program/commit/dd95abad790852d48f3f163dd339afac4acb933e) fixed some typos - ciripel",
+      "title": "[stake-program:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/stake-program/commit/dd95abad790852d48f3f163dd339afac4acb933e"
+    }
   }
 ]
