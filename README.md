@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1233 commits since 10/09/2021. You can see the complete history in
+There is a total of 1234 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-24 14:06:47</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b1a4483ec8f00aeb83bd2854ebd6b0f5bbf819e8)</sub> | <sub>[b1a4483](https://github.com/SimplioOfficial/simplio-mobile/commit/b1a4483ec8f00aeb83bd2854ebd6b0f5bbf819e8) [DEVELOPMENT-308] Fix color highlighting for in... - jvrastil</sub> |
 | <sub>2022-01-24 13:40:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1030c09eaa0119cab648a91fe562ab7f2219bfb0)</sub> | <sub>[1030c09](https://github.com/SimplioOfficial/simplio-mobile/commit/1030c09eaa0119cab648a91fe562ab7f2219bfb0) [DEVELOPMENT-215] Purchase flow fixes - jvrastil</sub> |
 | <sub>2022-01-24 09:27:12</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3db69bd1e861224e78423f48f018f80570a2a5)</sub> | <sub>[ac3db69](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3db69bd1e861224e78423f48f018f80570a2a5) [DEVELOPMENT-311] Fix wallet selection in purch... - jvrastil</sub> |
 | <sub>2022-01-24 07:03:20</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c725b9c627a406a5f8a3e058faec74728b736758)</sub> | <sub>[c725b9c](https://github.com/SimplioOfficial/simplio-mobile/commit/c725b9c627a406a5f8a3e058faec74728b736758) correct apiurl for sol balance - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 1233 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-21 12:02:25</sub> | <sub>[[stake-program:master] 1 new commit](https://github.com/SimplioOfficial/stake-program/commit/dd95abad790852d48f3f163dd339afac4acb933e)</sub> | <sub>[dd95aba](https://github.com/SimplioOfficial/stake-program/commit/dd95abad790852d48f3f163dd339afac4acb933e) fixed some typos - ciripel</sub> |
 | <sub>2022-01-21 08:41:09</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f450d94e69c2...4e28db8f8154)</sub> | <sub>[ad4d936](https://github.com/SimplioOfficial/simplio-mobile/commit/ad4d936f5e59ae149d052468fdf05c4e755fd3ed) improve staking styling - jvrastil<br>[4e28db8](https://github.com/SimplioOfficial/simplio-mobile/commit/4e28db8f815446584c6bd7fb1e15c539304a19fe) increase versions - jvrastil</sub> |
 | <sub>2022-01-21 08:40:51</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f450d94e69c2...4e28db8f8154)</sub> | <sub>[ad4d936](https://github.com/SimplioOfficial/simplio-mobile/commit/ad4d936f5e59ae149d052468fdf05c4e755fd3ed) improve staking styling - jvrastil<br>[4e28db8](https://github.com/SimplioOfficial/simplio-mobile/commit/4e28db8f815446584c6bd7fb1e15c539304a19fe) increase versions - jvrastil</sub> |
-| <sub>2022-01-20 17:48:04</sub> | <sub>[[simplio-mobile:android\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/4cc248bc05cc4ec657b201e1d57d661a9d72ddb8)</sub> | <sub>[4cc248b](https://github.com/SimplioOfficial/simplio-mobile/commit/4cc248bc05cc4ec657b201e1d57d661a9d72ddb8) android build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
