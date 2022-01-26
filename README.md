@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1240 commits since 10/09/2021. You can see the complete history in
+There is a total of 1241 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-01-26 09:24:59</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/9fe2c061978be741ce169f2e07eb18a08f65f3eb)</sub> | <sub>[9fe2c06](https://github.com/SimplioOfficial/simplio-mobile/commit/9fe2c061978be741ce169f2e07eb18a08f65f3eb) [DEVELOPMENT-298] Change route after canceling ... - jvrastil</sub> |
 | <sub>2022-01-25 14:34:45</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/90132acbd801...542d4a736333)</sub> | <sub>[141fed5](https://github.com/SimplioOfficial/simplio-mobile/commit/141fed5a2adc24d1be6d85ffb200010f0b666dc8) [DEVELOPMENT-308] Fix color highlighting for in... - jvrastil<br>[e5f47e1](https://github.com/SimplioOfficial/simplio-mobile/commit/e5f47e17ab2cc3df2a7dcc602c0fdc3f9f9d8c28) [DEVELOPMENT-305] Fix NaN issue for staking fro... - jvrastil<br>[542d4a7](https://github.com/SimplioOfficial/simplio-mobile/commit/542d4a736333aeb6d45e4474719d07a236fe4517) increase versions - jvrastil</sub> |
 | <sub>2022-01-25 14:34:14</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/542d4a736333aeb6d45e4474719d07a236fe4517)</sub> | <sub>[542d4a7](https://github.com/SimplioOfficial/simplio-mobile/commit/542d4a736333aeb6d45e4474719d07a236fe4517) increase versions - jvrastil</sub> |
 | <sub>2022-01-25 14:33:35</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e5f47e17ab2cc3df2a7dcc602c0fdc3f9f9d8c28)</sub> | <sub>[e5f47e1](https://github.com/SimplioOfficial/simplio-mobile/commit/e5f47e17ab2cc3df2a7dcc602c0fdc3f9f9d8c28) [DEVELOPMENT-305] Fix NaN issue for staking fro... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1240 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-01-24 14:06:47</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b1a4483ec8f00aeb83bd2854ebd6b0f5bbf819e8)</sub> | <sub>[b1a4483](https://github.com/SimplioOfficial/simplio-mobile/commit/b1a4483ec8f00aeb83bd2854ebd6b0f5bbf819e8) [DEVELOPMENT-308] Fix color highlighting for in... - jvrastil</sub> |
 | <sub>2022-01-24 13:40:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/1030c09eaa0119cab648a91fe562ab7f2219bfb0)</sub> | <sub>[1030c09](https://github.com/SimplioOfficial/simplio-mobile/commit/1030c09eaa0119cab648a91fe562ab7f2219bfb0) [DEVELOPMENT-215] Purchase flow fixes - jvrastil</sub> |
 | <sub>2022-01-24 09:27:12</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3db69bd1e861224e78423f48f018f80570a2a5)</sub> | <sub>[ac3db69](https://github.com/SimplioOfficial/simplio-mobile/commit/ac3db69bd1e861224e78423f48f018f80570a2a5) [DEVELOPMENT-311] Fix wallet selection in purch... - jvrastil</sub> |
-| <sub>2022-01-24 07:03:20</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c725b9c627a406a5f8a3e058faec74728b736758)</sub> | <sub>[c725b9c](https://github.com/SimplioOfficial/simplio-mobile/commit/c725b9c627a406a5f8a3e058faec74728b736758) correct apiurl for sol balance - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
