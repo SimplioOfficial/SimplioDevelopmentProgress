@@ -22324,5 +22324,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/542d4a736333...db3062b8faca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-03 10:59:09.790000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ccedd76`](https://github.com/SimplioOfficial/simplio-mobile/commit/ccedd7628529198ae605f56c078724c7ba218839) [DEVELOPMENT-215] Purchase history improvements - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ccedd7628529198ae605f56c078724c7ba218839"
+    }
   }
 ]
