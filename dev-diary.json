@@ -22342,5 +22342,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ccedd7628529198ae605f56c078724c7ba218839"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-07 15:36:51.898000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ac47439`](https://github.com/SimplioOfficial/simplio-mobile/commit/ac4743960b90928a19462b3ae3d6d3c2a95952dc) hot-fix for Jakub - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/ac4743960b90928a19462b3ae3d6d3c2a95952dc"
+    }
   }
 ]
