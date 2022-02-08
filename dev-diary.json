@@ -22378,5 +22378,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Cicerone/commit/f00a768a27305b927628b170d08d7cc71e839c82"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-08 13:10:09.316000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4b0f7d3`](https://github.com/SimplioOfficial/simplio-mobile/commit/4b0f7d32442bd96381d5cbc588a7498af5692251) [DEVELOPMENT-215] Swipelux improvements - jvrastil\n[`daf4c55`](https://github.com/SimplioOfficial/simplio-mobile/commit/daf4c552f72fcc02c2229ea07ed5427ef30271ae) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ac4743960b90...daf4c552f72f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-08 13:10:31.536000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ccedd76`](https://github.com/SimplioOfficial/simplio-mobile/commit/ccedd7628529198ae605f56c078724c7ba218839) [DEVELOPMENT-215] Purchase history improvements - jvrastil\n[`ac47439`](https://github.com/SimplioOfficial/simplio-mobile/commit/ac4743960b90928a19462b3ae3d6d3c2a95952dc) hot-fix for Jakub - jvrastil\n[`4b0f7d3`](https://github.com/SimplioOfficial/simplio-mobile/commit/4b0f7d32442bd96381d5cbc588a7498af5692251) [DEVELOPMENT-215] Swipelux improvements - jvrastil\n[`daf4c55`](https://github.com/SimplioOfficial/simplio-mobile/commit/daf4c552f72fcc02c2229ea07ed5427ef30271ae) increase versions - jvrastil",
+      "title": "[simplio-mobile:testing] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/db3062b8faca...daf4c552f72f"
+    }
   }
 ]
