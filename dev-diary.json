@@ -22558,5 +22558,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/fc3b5c2cfe5a...f93627ab2310"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-11 13:23:23.472000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`bca28ad`](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil\n[`56ef556`](https://github.com/SimplioOfficial/simplio-mobile/commit/56ef55605ee305407d6daa2ec46dbaac12665f98) Merge branch 'testing' into master - jvrastil",
+      "title": "[simplio-mobile:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f93627ab2310...56ef55605ee3"
+    }
   }
 ]
