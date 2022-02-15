@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1259 commits since 10/09/2021. You can see the complete history in
+There is a total of 1260 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-02-15 11:13:01</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/bca28ad3976c...7140ca3018c7)</sub> | <sub>[ce2574c](https://github.com/SimplioOfficial/simplio-mobile/commit/ce2574ca397a7b4ad3ae4d1b765e9590060f0be4) minor changes in swap page & remove unused code - jvrastil<br>[7140ca3](https://github.com/SimplioOfficial/simplio-mobile/commit/7140ca3018c7d0f2c0f22702413917e5811e3da8) [DEVELOPMENT-318] Remove blinking for changing ... - jvrastil</sub> |
 | <sub>2022-02-11 13:25:13</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0)</sub> | <sub>[bca28ad](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil</sub> |
 | <sub>2022-02-11 13:25:06</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0)</sub> | <sub>[bca28ad](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil</sub> |
 | <sub>2022-02-11 13:23:23</sub> | <sub>[[simplio-mobile:master] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f93627ab2310...56ef55605ee3)</sub> | <sub>[bca28ad](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil<br>[56ef556](https://github.com/SimplioOfficial/simplio-mobile/commit/56ef55605ee305407d6daa2ec46dbaac12665f98) Merge branch 'testing' into master - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1259 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-02-11 10:00:08</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ae665a77ab8f20f5b0a9ad0e000e955c4e681796)</sub> | <sub>[ae665a7](https://github.com/SimplioOfficial/simplio-mobile/commit/ae665a77ab8f20f5b0a9ad0e000e955c4e681796) disable swipelux on production - jvrastil</sub> |
 | <sub>2022-02-11 08:11:41</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0b0a42a2131b40ed6e12aa042bc28aa75b910c47)</sub> | <sub>[0b0a42a](https://github.com/SimplioOfficial/simplio-mobile/commit/0b0a42a2131b40ed6e12aa042bc28aa75b910c47) [DEVELOPMENT-316] Moving to PURCHASE history af... - jvrastil</sub> |
 | <sub>2022-02-10 13:13:12</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/daf4c552f72f...85d2222487d3)</sub> | <sub>[8b187f4](https://github.com/SimplioOfficial/simplio-mobile/commit/8b187f4c5f8df222e85b96a8c84e9b23a5236bbe) [DEVELOPMENT-215] Handle swipelux error on summ... - jvrastil<br>[4d04a8b](https://github.com/SimplioOfficial/simplio-mobile/commit/4d04a8bcd3b218bb2fd55fe48508f7213ef6bfc2) [DEVELOPMENT-215] Disable order history in prod... - jvrastil<br>[85d2222](https://github.com/SimplioOfficial/simplio-mobile/commit/85d2222487d3abc14b79c0e7fc93a984d7a38296) increase versions - jvrastil</sub> |
-| <sub>2022-02-10 13:12:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/8b187f4c5f8d...85d2222487d3)</sub> | <sub>[4d04a8b](https://github.com/SimplioOfficial/simplio-mobile/commit/4d04a8bcd3b218bb2fd55fe48508f7213ef6bfc2) [DEVELOPMENT-215] Disable order history in prod... - jvrastil<br>[85d2222](https://github.com/SimplioOfficial/simplio-mobile/commit/85d2222487d3abc14b79c0e7fc93a984d7a38296) increase versions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

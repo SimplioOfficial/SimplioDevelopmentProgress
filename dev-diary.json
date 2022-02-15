@@ -22612,5 +22612,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-02-15 11:13:01.512000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ce2574c`](https://github.com/SimplioOfficial/simplio-mobile/commit/ce2574ca397a7b4ad3ae4d1b765e9590060f0be4) minor changes in swap page & remove unused code - jvrastil\n[`7140ca3`](https://github.com/SimplioOfficial/simplio-mobile/commit/7140ca3018c7d0f2c0f22702413917e5811e3da8) [DEVELOPMENT-318] Remove blinking for changing ... - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/bca28ad3976c...7140ca3018c7"
+    }
   }
 ]
