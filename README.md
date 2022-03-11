@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1277 commits since 10/09/2021. You can see the complete history in
+There is a total of 1278 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-11 16:48:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/b03ac79747e6...435ec03f1201)</sub> | <sub>[50ad2c4](https://github.com/SimplioOfficial/simplio-mobile/commit/50ad2c44e0e40c3dc57ef4e4060021bc88fd70fd) update ws register - PitTxid<br>[f1475cd](https://github.com/SimplioOfficial/simplio-mobile/commit/f1475cd899c066d25fe93a012884ae42b10cb7cc) update capacitor server host for soltx - PitTxid<br>[435ec03](https://github.com/SimplioOfficial/simplio-mobile/commit/435ec03f1201f8cf25d9e324e175b92a78b02ad0) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-03-11 15:15:04</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b03ac79747e6f93fb17789bf69105ac1771a5d57)</sub> | <sub>[b03ac79](https://github.com/SimplioOfficial/simplio-mobile/commit/b03ac79747e6f93fb17789bf69105ac1771a5d57) Disable BUSD-BNB swaps on frontend - jvrastil</sub> |
 | <sub>2022-03-11 14:56:29</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4c4e82d9b90495fef1a1d68333bd8b95a09911a8)</sub> | <sub>[4c4e82d](https://github.com/SimplioOfficial/sio_core/commit/4c4e82d9b90495fef1a1d68333bd8b95a09911a8) ci: fixed pub_login.sh - ciripel</sub> |
 | <sub>2022-03-11 14:40:10</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5)</sub> | <sub>[45815ef](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5) ci: fixed publish.yml - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1277 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-11 13:24:49</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aed39fd7ec12...8034012e0d1b)</sub> | <sub>[5b2ee3d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid<br>[feeab6e](https://github.com/SimplioOfficial/simplio-mobile/commit/feeab6ec6278cd1874e49e85f32240b62ba854fa) Disable swipelux & staking content according to... - jvrastil<br>[8034012](https://github.com/SimplioOfficial/simplio-mobile/commit/8034012e0d1b56a5d79517859dddeefb36ef467e) increase versions - jvrastil</sub> |
 | <sub>2022-03-11 13:23:32</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/5b2ee3d94609...8034012e0d1b)</sub> | <sub>[feeab6e](https://github.com/SimplioOfficial/simplio-mobile/commit/feeab6ec6278cd1874e49e85f32240b62ba854fa) Disable swipelux & staking content according to... - jvrastil<br>[8034012](https://github.com/SimplioOfficial/simplio-mobile/commit/8034012e0d1b56a5d79517859dddeefb36ef467e) increase versions - jvrastil</sub> |
 | <sub>2022-03-11 13:09:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444)</sub> | <sub>[5b2ee3d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid</sub> |
-| <sub>2022-03-11 13:08:56</sub> | <sub>[[simplio-mobile:feature/disable\-staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444)</sub> | <sub>[5b2ee3d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
