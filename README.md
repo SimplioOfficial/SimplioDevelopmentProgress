@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1267 commits since 10/09/2021. You can see the complete history in
+There is a total of 1269 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-11 13:09:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444)</sub> | <sub>[5b2ee3d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid</sub> |
+| <sub>2022-03-11 13:08:56</sub> | <sub>[[simplio-mobile:feature/disable\-staking] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444)</sub> | <sub>[5b2ee3d](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid</sub> |
 | <sub>2022-03-11 10:32:15</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/01e3141ce6e335cb0c5aa5c8f97debb6e8653c6c)</sub> | <sub>[01e3141](https://github.com/SimplioOfficial/sio_core/commit/01e3141ce6e335cb0c5aa5c8f97debb6e8653c6c) Init/continous delivery (#7) - ciripel</sub> |
 | <sub>2022-03-11 10:27:43</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/da64a54d805547213a9d7770138622b80c076b90)</sub> | <sub>[da64a54](https://github.com/SimplioOfficial/sio_core/commit/da64a54d805547213a9d7770138622b80c076b90) cd: script to set pub.dev credentials - ciripel</sub> |
 | <sub>2022-03-11 09:12:01</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22cf415e06f8159aaec6531269c5147ce2816c13)</sub> | <sub>[22cf415](https://github.com/SimplioOfficial/sio_core/commit/22cf415e06f8159aaec6531269c5147ce2816c13) fix: transitioned completely to sio_core - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 1267 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-02-22 08:02:54</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/aed39fd7ec125ceb6972a1265df97f1e90312b9e)</sub> | <sub>[aed39fd](https://github.com/SimplioOfficial/simplio-mobile/commit/aed39fd7ec125ceb6972a1265df97f1e90312b9e) increase versions - jvrastil</sub> |
 | <sub>2022-02-17 08:46:36</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7140ca3018c7...b758e8f6638d)</sub> | <sub>[687bee0](https://github.com/SimplioOfficial/simplio-mobile/commit/687bee023431f78038590d97945eea2b22b9b1d4) fix parse txblockbook with private tx - PitTxid<br>[b758e8f](https://github.com/SimplioOfficial/simplio-mobile/commit/b758e8f6638dd5971a53f7d96de1e49eb2b6ba87) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-02-15 11:13:01</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/bca28ad3976c...7140ca3018c7)</sub> | <sub>[ce2574c](https://github.com/SimplioOfficial/simplio-mobile/commit/ce2574ca397a7b4ad3ae4d1b765e9590060f0be4) minor changes in swap page & remove unused code - jvrastil<br>[7140ca3](https://github.com/SimplioOfficial/simplio-mobile/commit/7140ca3018c7d0f2c0f22702413917e5811e3da8) [DEVELOPMENT-318] Remove blinking for changing ... - jvrastil</sub> |
-| <sub>2022-02-11 13:25:13</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0)</sub> | <sub>[bca28ad](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil</sub> |
-| <sub>2022-02-11 13:25:06</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0)</sub> | <sub>[bca28ad](https://github.com/SimplioOfficial/simplio-mobile/commit/bca28ad3976cac988cf33e83d98c87d275db3be0) increase versions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

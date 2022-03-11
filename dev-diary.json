@@ -22756,5 +22756,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/01e3141ce6e335cb0c5aa5c8f97debb6e8653c6c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-11 13:08:56.797000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5b2ee3d`](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid",
+      "title": "[simplio-mobile:feature/disable\\-staking] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-11 13:09:57.067000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5b2ee3d`](https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444) rename backend -> blockchain - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/5b2ee3d94609db703ca687791fd80c208d7a6444"
+    }
   }
 ]
