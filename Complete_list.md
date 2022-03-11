@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-11 14:56:29</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4c4e82d9b90495fef1a1d68333bd8b95a09911a8)</sub> | <sub>[4c4e82d](https://github.com/SimplioOfficial/sio_core/commit/4c4e82d9b90495fef1a1d68333bd8b95a09911a8) ci: fixed pub_login.sh - ciripel</sub> |
 | <sub>2022-03-11 14:40:10</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5)</sub> | <sub>[45815ef](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5) ci: fixed publish.yml - ciripel</sub> |
 | <sub>2022-03-11 14:21:38</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b)</sub> | <sub>[b9f9e0c](https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b) ci: Implemeted cd on release (close #5) (#8) - ciripel</sub> |
 | <sub>2022-03-11 14:19:07</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6ae0937ada72884895f87bf247e44ff9323943b2)</sub> | <sub>[6ae0937](https://github.com/SimplioOfficial/sio_core/commit/6ae0937ada72884895f87bf247e44ff9323943b2) ci: Implemeted cd on release (close #5) - ciripel</sub> |
