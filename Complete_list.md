@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-11 10:32:15</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/01e3141ce6e335cb0c5aa5c8f97debb6e8653c6c)</sub> | <sub>[01e3141](https://github.com/SimplioOfficial/sio_core/commit/01e3141ce6e335cb0c5aa5c8f97debb6e8653c6c) Init/continous delivery (#7) - ciripel</sub> |
 | <sub>2022-03-11 10:27:43</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/da64a54d805547213a9d7770138622b80c076b90)</sub> | <sub>[da64a54](https://github.com/SimplioOfficial/sio_core/commit/da64a54d805547213a9d7770138622b80c076b90) cd: script to set pub.dev credentials - ciripel</sub> |
 | <sub>2022-03-11 09:12:01</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22cf415e06f8159aaec6531269c5147ce2816c13)</sub> | <sub>[22cf415](https://github.com/SimplioOfficial/sio_core/commit/22cf415e06f8159aaec6531269c5147ce2816c13) fix: transitioned completely to sio_core - ciripel</sub> |
 | <sub>2022-03-11 07:58:07</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/acdb98c9f5952795e1d6772964117ed53c9258ee)</sub> | <sub>[acdb98c](https://github.com/SimplioOfficial/sio_core/commit/acdb98c9f5952795e1d6772964117ed53c9258ee) ci: added verify formatting - ciripel</sub> |
