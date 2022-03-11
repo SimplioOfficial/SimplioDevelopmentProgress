@@ -22864,5 +22864,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/6ae0937ada72884895f87bf247e44ff9323943b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-11 14:21:38.232000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b9f9e0c`](https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b) ci: Implemeted cd on release (close #5) (#8) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b"
+    }
   }
 ]
