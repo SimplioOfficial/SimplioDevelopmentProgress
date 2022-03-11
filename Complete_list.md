@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-11 14:40:10</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5)</sub> | <sub>[45815ef](https://github.com/SimplioOfficial/sio_core/commit/45815ef534c9230007076e67839498ad0c1051e5) ci: fixed publish.yml - ciripel</sub> |
 | <sub>2022-03-11 14:21:38</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b)</sub> | <sub>[b9f9e0c](https://github.com/SimplioOfficial/sio_core/commit/b9f9e0cb549361c65d1b0a895ba56278b5c95e6b) ci: Implemeted cd on release (close #5) (#8) - ciripel</sub> |
 | <sub>2022-03-11 14:19:07</sub> | <sub>[[sio_core:init/continous\_delivery] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6ae0937ada72884895f87bf247e44ff9323943b2)</sub> | <sub>[6ae0937](https://github.com/SimplioOfficial/sio_core/commit/6ae0937ada72884895f87bf247e44ff9323943b2) ci: Implemeted cd on release (close #5) - ciripel</sub> |
 | <sub>2022-03-11 13:32:02</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/b39ad59338fbe8a3b1e387e886f7bd7b2c480915)</sub> | <sub>[b39ad59](https://github.com/SimplioOfficial/simplio-mobile/commit/b39ad59338fbe8a3b1e387e886f7bd7b2c480915) Introscreens - coming soon for staking - jvrastil</sub> |
