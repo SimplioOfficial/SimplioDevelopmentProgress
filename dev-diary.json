@@ -22990,5 +22990,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/56ef55605ee3...3b215ddecc23"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-12 08:22:13.585000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`981ebdd`](https://github.com/SimplioOfficial/simplio-mobile/commit/981ebdd2ea8b7fb7c6f19f23ea8ae71c863417af) apply prettier - jvrastil\n[`9ff6a07`](https://github.com/SimplioOfficial/simplio-mobile/commit/9ff6a07bf61ff83131b6ec3cf25a81beaa02cb71) Disable additional swap pairs & add chain filte... - jvrastil\n[`b880740`](https://github.com/SimplioOfficial/simplio-mobile/commit/b8807403f165b7271a1727e412dfbcf0aaf72d74) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/435ec03f1201...b8807403f165"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-12 08:22:30.802000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`981ebdd`](https://github.com/SimplioOfficial/simplio-mobile/commit/981ebdd2ea8b7fb7c6f19f23ea8ae71c863417af) apply prettier - jvrastil\n[`9ff6a07`](https://github.com/SimplioOfficial/simplio-mobile/commit/9ff6a07bf61ff83131b6ec3cf25a81beaa02cb71) Disable additional swap pairs & add chain filte... - jvrastil\n[`b880740`](https://github.com/SimplioOfficial/simplio-mobile/commit/b8807403f165b7271a1727e412dfbcf0aaf72d74) increase versions - jvrastil\n[`8b291be`](https://github.com/SimplioOfficial/simplio-mobile/commit/8b291beac3f3b7787d52306ed457b25e6b92a472) Merge branch 'v0.3.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/ff0c88e4905e...8b291beac3f3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-12 08:23:29.035000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`981ebdd`](https://github.com/SimplioOfficial/simplio-mobile/commit/981ebdd2ea8b7fb7c6f19f23ea8ae71c863417af) apply prettier - jvrastil\n[`9ff6a07`](https://github.com/SimplioOfficial/simplio-mobile/commit/9ff6a07bf61ff83131b6ec3cf25a81beaa02cb71) Disable additional swap pairs & add chain filte... - jvrastil\n[`b880740`](https://github.com/SimplioOfficial/simplio-mobile/commit/b8807403f165b7271a1727e412dfbcf0aaf72d74) increase versions - jvrastil\n[`8b291be`](https://github.com/SimplioOfficial/simplio-mobile/commit/8b291beac3f3b7787d52306ed457b25e6b92a472) Merge branch 'v0.3.0' into testing - jvrastil\n[`5178755`](https://github.com/SimplioOfficial/simplio-mobile/commit/51787559a3230ee8378b34a5c70ca3473202acb1) Merge branch 'testing' - jvrastil",
+      "title": "[simplio-mobile:master] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3b215ddecc23...51787559a323"
+    }
   }
 ]
