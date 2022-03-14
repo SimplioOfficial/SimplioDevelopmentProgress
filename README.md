@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1296 commits since 10/09/2021. You can see the complete history in
+There is a total of 1297 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-14 17:49:47</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9bec411465e8c9fffcb9d6f4dd2f2892a1e6a92)</sub> | <sub>[f9bec41](https://github.com/SimplioOfficial/simplio-app/commit/f9bec411465e8c9fffcb9d6f4dd2f2892a1e6a92) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-14 17:35:59</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b5990d1b0b80b997dcec65907d095d41cb8cce4)</sub> | <sub>[4b5990d](https://github.com/SimplioOfficial/simplio-app/commit/4b5990d1b0b80b997dcec65907d095d41cb8cce4) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-14 17:34:20</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e344045d3d5b57a89deaa6538a478d38a6f71f09)</sub> | <sub>[e344045](https://github.com/SimplioOfficial/simplio-app/commit/e344045d3d5b57a89deaa6538a478d38a6f71f09) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-14 17:02:13</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/964a21ede1a6a2592be20b6bc531968ac625fb94)</sub> | <sub>[964a21e](https://github.com/SimplioOfficial/simplio-app/commit/964a21ede1a6a2592be20b6bc531968ac625fb94) [#10] Add github actions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1296 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-13 19:26:38</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e1e92ddd1e63...5833a5a0ade6)</sub> | <sub>[3828a8b](https://github.com/SimplioOfficial/simplio-mobile/commit/3828a8b0d0ab995c98250a1ce5cfabc891bbd3ca) Change ios camera permission string - jvrastil<br>[5833a5a](https://github.com/SimplioOfficial/simplio-mobile/commit/5833a5a0ade650ee8547ee1067c810853c7b43c3) increase versions - jvrastil</sub> |
 | <sub>2022-03-13 11:29:56</sub> | <sub>[[simplio-mobile:master] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/838a62f214dd...3e7c85256e00)</sub> | <sub>[e1e92dd](https://github.com/SimplioOfficial/simplio-mobile/commit/e1e92ddd1e636ff2b9a9673af28ca36016654f53) fix ios deploy - jvrastil<br>[e37a16d](https://github.com/SimplioOfficial/simplio-mobile/commit/e37a16df5736c3b83fcc64ba22882c63845c9f30) Merge branch 'v0.3.0' into testing - jvrastil<br>[3e7c852](https://github.com/SimplioOfficial/simplio-mobile/commit/3e7c85256e0098e7bdd62255e20eb7a2d3b4fd93) Merge branch 'testing' - jvrastil</sub> |
 | <sub>2022-03-13 11:29:46</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/900508753be2...e37a16df5736)</sub> | <sub>[e1e92dd](https://github.com/SimplioOfficial/simplio-mobile/commit/e1e92ddd1e636ff2b9a9673af28ca36016654f53) fix ios deploy - jvrastil<br>[e37a16d](https://github.com/SimplioOfficial/simplio-mobile/commit/e37a16df5736c3b83fcc64ba22882c63845c9f30) Merge branch 'v0.3.0' into testing - jvrastil</sub> |
-| <sub>2022-03-13 11:29:30</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/e1e92ddd1e636ff2b9a9673af28ca36016654f53)</sub> | <sub>[e1e92dd](https://github.com/SimplioOfficial/simplio-mobile/commit/e1e92ddd1e636ff2b9a9673af28ca36016654f53) fix ios deploy - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
