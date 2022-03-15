@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1318 commits since 10/09/2021. You can see the complete history in
+There is a total of 1319 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-15 15:31:03</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/697b92975bd6b2dbde5ef5c8dcfecabff03728e9)</sub> | <sub>[697b929](https://github.com/SimplioOfficial/simplio-app/commit/697b92975bd6b2dbde5ef5c8dcfecabff03728e9) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 13:39:34</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aa96169346590fe0087c1a588e28adfc8a737b91)</sub> | <sub>[aa96169](https://github.com/SimplioOfficial/simplio-app/commit/aa96169346590fe0087c1a588e28adfc8a737b91) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-15 13:30:42</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0bb915ff175f2992621816663bb797dbd59ee552)</sub> | <sub>[0bb915f](https://github.com/SimplioOfficial/simplio-app/commit/0bb915ff175f2992621816663bb797dbd59ee552) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-15 13:15:39</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6d55cc89706844418f3a1f4b3e513b2b54f511a)</sub> | <sub>[f6d55cc](https://github.com/SimplioOfficial/simplio-app/commit/f6d55cc89706844418f3a1f4b3e513b2b54f511a) [#10] Add github actions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1318 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-14 19:28:39</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/172cf294e96ce9f97d5ac5021c840b62a254b8e1)</sub> | <sub>[172cf29](https://github.com/SimplioOfficial/simplio-app/commit/172cf294e96ce9f97d5ac5021c840b62a254b8e1) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-14 19:23:52</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac2c8d2fc79e77d2f3a5fe5b960264870acc71d7)</sub> | <sub>[ac2c8d2](https://github.com/SimplioOfficial/simplio-app/commit/ac2c8d2fc79e77d2f3a5fe5b960264870acc71d7) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-14 19:18:44</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5c18d6c81a19b739fcf881e1715ac0dab3746965)</sub> | <sub>[5c18d6c](https://github.com/SimplioOfficial/simplio-app/commit/5c18d6c81a19b739fcf881e1715ac0dab3746965) [#10] Add github actions - jvrastil</sub> |
-| <sub>2022-03-14 19:16:22</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abaacd19773ddddc74a0f4dd63beb24b45640b3d)</sub> | <sub>[abaacd1](https://github.com/SimplioOfficial/simplio-app/commit/abaacd19773ddddc74a0f4dd63beb24b45640b3d) [#10] Add github actions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
