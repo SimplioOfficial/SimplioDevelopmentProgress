@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-15 13:39:34</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aa96169346590fe0087c1a588e28adfc8a737b91)</sub> | <sub>[aa96169](https://github.com/SimplioOfficial/simplio-app/commit/aa96169346590fe0087c1a588e28adfc8a737b91) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-15 13:30:42</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0bb915ff175f2992621816663bb797dbd59ee552)</sub> | <sub>[0bb915f](https://github.com/SimplioOfficial/simplio-app/commit/0bb915ff175f2992621816663bb797dbd59ee552) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-15 13:15:39</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6d55cc89706844418f3a1f4b3e513b2b54f511a)</sub> | <sub>[f6d55cc](https://github.com/SimplioOfficial/simplio-app/commit/f6d55cc89706844418f3a1f4b3e513b2b54f511a) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-15 13:08:11</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4f55444836261753fe9eaf74ac6bf1f88f7afd4)</sub> | <sub>[e4f5544](https://github.com/SimplioOfficial/simplio-app/commit/e4f55444836261753fe9eaf74ac6bf1f88f7afd4) [#10] Add github actions - jvrastil</sub> |
