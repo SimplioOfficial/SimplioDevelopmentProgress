@@ -24178,5 +24178,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/e535e0aaae53...0de98f702507"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 13:52:56.771000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4f0b0ec`](https://github.com/SimplioOfficial/sio_core/commit/4f0b0ec88c38ba87ff1798147711ada25c44e79c) added trust_wallet_core dependency to check ci - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/4f0b0ec88c38ba87ff1798147711ada25c44e79c"
+    }
   }
 ]
