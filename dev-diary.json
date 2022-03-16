@@ -24034,5 +24034,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3c4e487838bf...91f119809d0c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 11:44:34.047000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`32b6dbf`](https://github.com/SimplioOfficial/simplio-mobile/commit/32b6dbf4d6f11ef0f26131e4170d01100772b788) updated build script - storkandstars",
+      "title": "[simplio-mobile:hotfix/unifying\\-build\\-script] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/32b6dbf4d6f11ef0f26131e4170d01100772b788"
+    }
   }
 ]
