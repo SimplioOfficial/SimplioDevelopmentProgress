@@ -23998,5 +23998,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/2e4c4f2aff4a...194f2f2760c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 11:10:17.005000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`fc3b5c2`](https://github.com/SimplioOfficial/simplio-mobile/commit/fc3b5c2cfe5a956a9ab0a34ba737a1ff353b01ba) Updated README.md - ciripel\n[`f93627a`](https://github.com/SimplioOfficial/simplio-mobile/commit/f93627ab2310a9f97bf146bda51b0ff4fd4b5dbe) Merge branch 'testing' into master - jvrastil\n[`56ef556`](https://github.com/SimplioOfficial/simplio-mobile/commit/56ef55605ee305407d6daa2ec46dbaac12665f98) Merge branch 'testing' into master - jvrastil\n[`3b215dd`](https://github.com/SimplioOfficial/simplio-mobile/commit/3b215ddecc23ead468d8b22da6bca5352e2cab74) Merge branch 'testing' - jvrastil\n[`5178755`](https://github.com/SimplioOfficial/simplio-mobile/commit/51787559a3230ee8378b34a5c70ca3473202acb1) Merge branch 'testing' - jvrastil",
+      "title": "[simplio-mobile:testing] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/194f2f2760c2...1a7780511cf7"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 11:10:31.006000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0a9d21f`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0) HOTFIX: remove solana server - jvrastil\n[`194f2f2`](https://github.com/SimplioOfficial/simplio-mobile/commit/194f2f2760c25225f176da6ca43fa19e461bac3d) Merge pull request #11 from SimplioOfficial/v0.3.0 - storkandstars\n[`1a77805`](https://github.com/SimplioOfficial/simplio-mobile/commit/1a7780511cf78fbb4ebfa1371e478232305156ef) Merge branch 'master' into testing - storkandstars\n[`91f1198`](https://github.com/SimplioOfficial/simplio-mobile/commit/91f119809d0caeeaa3d2f6d42808607297a49a66) Merge pull request #12 from SimplioOfficial/tes... - storkandstars",
+      "title": "[simplio-mobile:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/3c4e487838bf...91f119809d0c"
+    }
   }
 ]
