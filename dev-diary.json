@@ -24232,5 +24232,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/4d4a3de68247d989da0a1c048fd4c180495138c4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 16:58:31.212000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e601e0c`](https://github.com/SimplioOfficial/simplio-mobile/commit/e601e0cbcb9d004e1554d71780e23355b9e15830) Revert \"increase versions\" - jvrastil\n[`c902b41`](https://github.com/SimplioOfficial/simplio-mobile/commit/c902b419d16c3a7f037283305e50f70c05cfcd5d) Revert \"switching http provider for register\" - jvrastil\n[`a7290d9`](https://github.com/SimplioOfficial/simplio-mobile/commit/a7290d92fcb6002b58de458496a435441bd82663) Revert \"updated build script\" - jvrastil\n[`3bb2cd9`](https://github.com/SimplioOfficial/simplio-mobile/commit/3bb2cd9d34808a986cdb1c0317cc781ee3c2820f) Revert \"HOTFIX: remove solana server\" - jvrastil\n[`ea76a85`](https://github.com/SimplioOfficial/simplio-mobile/commit/ea76a859473531cbb3563c4cb1168ee81fb66c9e) \"Fix\" register agreements on Android - jvrastil",
+      "title": "[simplio-mobile:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/0de98f702507...ea76a8594735"
+    }
   }
 ]
