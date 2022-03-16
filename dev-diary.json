@@ -24052,5 +24052,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/32b6dbf4d6f11ef0f26131e4170d01100772b788"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 11:46:06.234000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`91f1198`](https://github.com/SimplioOfficial/simplio-mobile/commit/91f119809d0caeeaa3d2f6d42808607297a49a66) Merge pull request #12 from SimplioOfficial/tes... - storkandstars\n[`32b6dbf`](https://github.com/SimplioOfficial/simplio-mobile/commit/32b6dbf4d6f11ef0f26131e4170d01100772b788) updated build script - storkandstars\n[`7b62e9f`](https://github.com/SimplioOfficial/simplio-mobile/commit/7b62e9fba6d6ed525e8a665cfed293e6f0d40a99) Merge pull request #13 from SimplioOfficial/hot... - storkandstars",
+      "title": "[simplio-mobile:testing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/1a7780511cf7...7b62e9fba6d6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 11:46:39.365000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`32b6dbf`](https://github.com/SimplioOfficial/simplio-mobile/commit/32b6dbf4d6f11ef0f26131e4170d01100772b788) updated build script - storkandstars\n[`7b62e9f`](https://github.com/SimplioOfficial/simplio-mobile/commit/7b62e9fba6d6ed525e8a665cfed293e6f0d40a99) Merge pull request #13 from SimplioOfficial/hot... - storkandstars\n[`68e0f7e`](https://github.com/SimplioOfficial/simplio-mobile/commit/68e0f7e67ebe294011d3700c4ee357b5eb2ca0e1) Merge pull request #14 from SimplioOfficial/tes... - storkandstars",
+      "title": "[simplio-mobile:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/91f119809d0c...68e0f7e67ebe"
+    }
   }
 ]
