@@ -24196,5 +24196,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/4f0b0ec88c38ba87ff1798147711ada25c44e79c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 16:00:20.248000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c6e8413`](https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec) mnemonic test fails - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec"
+    }
   }
 ]
