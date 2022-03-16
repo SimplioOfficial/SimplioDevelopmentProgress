@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1335 commits since 10/09/2021. You can see the complete history in
+There is a total of 1336 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-16 11:08:23</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/2e4c4f2aff4a...194f2f2760c2)</sub> | <sub>[0a9d21f](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0) HOTFIX: remove solana server - jvrastil<br>[194f2f2](https://github.com/SimplioOfficial/simplio-mobile/commit/194f2f2760c25225f176da6ca43fa19e461bac3d) Merge pull request #11 from SimplioOfficial/v0.3.0 - storkandstars</sub> |
 | <sub>2022-03-16 10:22:26</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0)</sub> | <sub>[0a9d21f](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0) HOTFIX: remove solana server - jvrastil</sub> |
 | <sub>2022-03-16 08:57:01</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/803de8f2147559d76d4c066bcf68509a1862be78)</sub> | <sub>[803de8f](https://github.com/SimplioOfficial/simplio-app/commit/803de8f2147559d76d4c066bcf68509a1862be78) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-16 08:46:13</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/660aa751dd8e4b8a23dda26e7cb7b27f880f6c4a)</sub> | <sub>[660aa75](https://github.com/SimplioOfficial/simplio-app/commit/660aa751dd8e4b8a23dda26e7cb7b27f880f6c4a) ios beta build test - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1335 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-15 21:00:15</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/142fdaa059d314a2e5e6b19935a99b622e05bc3a)</sub> | <sub>[142fdaa](https://github.com/SimplioOfficial/simplio-app/commit/142fdaa059d314a2e5e6b19935a99b622e05bc3a) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 20:43:27</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec68df08b38ec84803d19e64f58adfbc34f30a59)</sub> | <sub>[ec68df0](https://github.com/SimplioOfficial/simplio-app/commit/ec68df08b38ec84803d19e64f58adfbc34f30a59) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 20:12:26</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b72b7c36fc6d956f6de033dd1a75e9bd6be7f1f)</sub> | <sub>[9b72b7c](https://github.com/SimplioOfficial/simplio-app/commit/9b72b7c36fc6d956f6de033dd1a75e9bd6be7f1f) ios beta build test - jvrastil</sub> |
-| <sub>2022-03-15 20:04:58</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e62b5acfb1ce1d175f9760a72cdf145948e2d2ce)</sub> | <sub>[e62b5ac](https://github.com/SimplioOfficial/simplio-app/commit/e62b5acfb1ce1d175f9760a72cdf145948e2d2ce) ios beta build test - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
