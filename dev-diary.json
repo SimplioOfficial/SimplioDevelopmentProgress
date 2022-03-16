@@ -24088,5 +24088,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/91f119809d0c...68e0f7e67ebe"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 12:40:16.384000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e55861f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e55861f64e6782079a30a1fcdc6eb34cdff6bc98) switching http provider for register - storkandstars",
+      "title": "[simplio-mobile:hotfix/http\\-provider\\-registration] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/e55861f64e6782079a30a1fcdc6eb34cdff6bc98"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 12:41:09.720000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`68e0f7e`](https://github.com/SimplioOfficial/simplio-mobile/commit/68e0f7e67ebe294011d3700c4ee357b5eb2ca0e1) Merge pull request #14 from SimplioOfficial/tes... - storkandstars\n[`e55861f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e55861f64e6782079a30a1fcdc6eb34cdff6bc98) switching http provider for register - storkandstars\n[`e535e0a`](https://github.com/SimplioOfficial/simplio-mobile/commit/e535e0aaae5364a629f68eb7b8ad381f03d14dfc) Merge pull request #15 from SimplioOfficial/hot... - storkandstars",
+      "title": "[simplio-mobile:testing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/7b62e9fba6d6...e535e0aaae53"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 12:41:55.855000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e55861f`](https://github.com/SimplioOfficial/simplio-mobile/commit/e55861f64e6782079a30a1fcdc6eb34cdff6bc98) switching http provider for register - storkandstars\n[`e535e0a`](https://github.com/SimplioOfficial/simplio-mobile/commit/e535e0aaae5364a629f68eb7b8ad381f03d14dfc) Merge pull request #15 from SimplioOfficial/hot... - storkandstars\n[`ba3fa5e`](https://github.com/SimplioOfficial/simplio-mobile/commit/ba3fa5ebf0f918d5c837a18a96075b0ae6d5266d) Merge pull request #16 from SimplioOfficial/tes... - storkandstars",
+      "title": "[simplio-mobile:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/68e0f7e67ebe...ba3fa5ebf0f9"
+    }
   }
 ]
