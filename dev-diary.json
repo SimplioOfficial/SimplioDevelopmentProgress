@@ -24304,5 +24304,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/19bbcc9aa121fff666f9a0960cb78caadd4e6c22"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 21:23:47.763000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`dd30502`](https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3) force production build - jvrastil",
+      "title": "[simplio-mobile:testing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3"
+    }
   }
 ]

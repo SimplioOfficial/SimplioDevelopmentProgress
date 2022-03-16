@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-16 21:23:47</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3)</sub> | <sub>[dd30502](https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3) force production build - jvrastil</sub> |
 | <sub>2022-03-16 21:01:20</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/19bbcc9aa121fff666f9a0960cb78caadd4e6c22)</sub> | <sub>[19bbcc9](https://github.com/SimplioOfficial/simplio-mobile/commit/19bbcc9aa121fff666f9a0960cb78caadd4e6c22) Revert "Revert "updated build script"" - jvrastil</sub> |
 | <sub>2022-03-16 18:50:43</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a50e08f96df542a802a788b4dfc07ff5821c53c7)</sub> | <sub>[a50e08f](https://github.com/SimplioOfficial/simplio-mobile/commit/a50e08f96df542a802a788b4dfc07ff5821c53c7) increase versions - jvrastil</sub> |
 | <sub>2022-03-16 17:41:04</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8eaef9c7d85211f06b86c043460a1c6edf3062f7)</sub> | <sub>[8eaef9c](https://github.com/SimplioOfficial/simplio-mobile/commit/8eaef9c7d85211f06b86c043460a1c6edf3062f7) increase versions - jvrastil</sub> |
