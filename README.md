@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1329 commits since 10/09/2021. You can see the complete history in
+There is a total of 1330 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-16 08:12:32</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08c8a84ab5d47392c6b5848ab5419e800352921c)</sub> | <sub>[08c8a84](https://github.com/SimplioOfficial/simplio-app/commit/08c8a84ab5d47392c6b5848ab5419e800352921c) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 21:00:15</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/142fdaa059d314a2e5e6b19935a99b622e05bc3a)</sub> | <sub>[142fdaa](https://github.com/SimplioOfficial/simplio-app/commit/142fdaa059d314a2e5e6b19935a99b622e05bc3a) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 20:43:27</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec68df08b38ec84803d19e64f58adfbc34f30a59)</sub> | <sub>[ec68df0](https://github.com/SimplioOfficial/simplio-app/commit/ec68df08b38ec84803d19e64f58adfbc34f30a59) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 20:12:26</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b72b7c36fc6d956f6de033dd1a75e9bd6be7f1f)</sub> | <sub>[9b72b7c](https://github.com/SimplioOfficial/simplio-app/commit/9b72b7c36fc6d956f6de033dd1a75e9bd6be7f1f) ios beta build test - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1329 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-15 19:34:41</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/459f16305fdc144fabda50b4dcf01e0a14194fee)</sub> | <sub>[459f163](https://github.com/SimplioOfficial/simplio-app/commit/459f16305fdc144fabda50b4dcf01e0a14194fee) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 19:18:32</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8b33eefea8410126bc4f567effbd1781e5b01336)</sub> | <sub>[8b33eef](https://github.com/SimplioOfficial/simplio-app/commit/8b33eefea8410126bc4f567effbd1781e5b01336) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-15 19:02:36</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/15c67157ae85f5b47b9d8785d49eee7ebf0db0fe)</sub> | <sub>[15c6715](https://github.com/SimplioOfficial/simplio-app/commit/15c67157ae85f5b47b9d8785d49eee7ebf0db0fe) ios beta build test - jvrastil</sub> |
-| <sub>2022-03-15 15:36:38</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/760277131a4fecde28704047635e9d3fb6bccf53)</sub> | <sub>[7602771](https://github.com/SimplioOfficial/simplio-app/commit/760277131a4fecde28704047635e9d3fb6bccf53) ios beta build test - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
