@@ -23962,5 +23962,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/803de8f2147559d76d4c066bcf68509a1862be78"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-16 10:22:26.636000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a9d21f`](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0) HOTFIX: remove solana server - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0"
+    }
   }
 ]

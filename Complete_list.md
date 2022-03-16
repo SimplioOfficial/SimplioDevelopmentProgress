@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-16 10:22:26</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0)</sub> | <sub>[0a9d21f](https://github.com/SimplioOfficial/simplio-mobile/commit/0a9d21f89d2b81bbdf3c194a0bff40cae0ad7db0) HOTFIX: remove solana server - jvrastil</sub> |
 | <sub>2022-03-16 08:57:01</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/803de8f2147559d76d4c066bcf68509a1862be78)</sub> | <sub>[803de8f](https://github.com/SimplioOfficial/simplio-app/commit/803de8f2147559d76d4c066bcf68509a1862be78) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-16 08:46:13</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/660aa751dd8e4b8a23dda26e7cb7b27f880f6c4a)</sub> | <sub>[660aa75](https://github.com/SimplioOfficial/simplio-app/commit/660aa751dd8e4b8a23dda26e7cb7b27f880f6c4a) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-16 08:45:55</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2a582aa48d9228067749a428e75790b4cdc80f95)</sub> | <sub>[2a582aa](https://github.com/SimplioOfficial/simplio-app/commit/2a582aa48d9228067749a428e75790b4cdc80f95) ios beta build test - jvrastil</sub> |
