@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1357 commits since 10/09/2021. You can see the complete history in
+There is a total of 1358 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-17 12:38:09</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/114304904eab63ddcb0bc56e4890e28e528e62a3)</sub> | <sub>[1143049](https://github.com/SimplioOfficial/simplio-app/commit/114304904eab63ddcb0bc56e4890e28e528e62a3) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-17 09:44:07</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f72f66654ce6d0d49b819161698ccc5d817ef7e0)</sub> | <sub>[f72f666](https://github.com/SimplioOfficial/simplio-app/commit/f72f66654ce6d0d49b819161698ccc5d817ef7e0) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-17 09:25:25</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b050d89196f2b97f6ff66b795a9dd49b9ef7764b)</sub> | <sub>[b050d89](https://github.com/SimplioOfficial/simplio-app/commit/b050d89196f2b97f6ff66b795a9dd49b9ef7764b) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-17 09:16:09</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63cea4e0e1eac238dd75d658540026e76843b44c)</sub> | <sub>[63cea4e](https://github.com/SimplioOfficial/simplio-app/commit/63cea4e0e1eac238dd75d658540026e76843b44c) ios beta build test - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1357 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-16 17:41:04</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8eaef9c7d85211f06b86c043460a1c6edf3062f7)</sub> | <sub>[8eaef9c](https://github.com/SimplioOfficial/simplio-mobile/commit/8eaef9c7d85211f06b86c043460a1c6edf3062f7) increase versions - jvrastil</sub> |
 | <sub>2022-03-16 16:58:31</sub> | <sub>[[simplio-mobile:testing] 5 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/0de98f702507...ea76a8594735)</sub> | <sub>[e601e0c](https://github.com/SimplioOfficial/simplio-mobile/commit/e601e0cbcb9d004e1554d71780e23355b9e15830) Revert "increase versions" - jvrastil<br>[c902b41](https://github.com/SimplioOfficial/simplio-mobile/commit/c902b419d16c3a7f037283305e50f70c05cfcd5d) Revert "switching http provider for register" - jvrastil<br>[a7290d9](https://github.com/SimplioOfficial/simplio-mobile/commit/a7290d92fcb6002b58de458496a435441bd82663) Revert "updated build script" - jvrastil<br>[3bb2cd9](https://github.com/SimplioOfficial/simplio-mobile/commit/3bb2cd9d34808a986cdb1c0317cc781ee3c2820f) Revert "HOTFIX: remove solana server" - jvrastil<br>[ea76a85](https://github.com/SimplioOfficial/simplio-mobile/commit/ea76a859473531cbb3563c4cb1168ee81fb66c9e) "Fix" register agreements on Android - jvrastil</sub> |
 | <sub>2022-03-16 16:08:29</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4d4a3de68247d989da0a1c048fd4c180495138c4)</sub> | <sub>[4d4a3de](https://github.com/SimplioOfficial/sio_core/commit/4d4a3de68247d989da0a1c048fd4c180495138c4) chore: flutter format - ciripel</sub> |
-| <sub>2022-03-16 16:00:20</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec)</sub> | <sub>[c6e8413](https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec) mnemonic test fails - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
