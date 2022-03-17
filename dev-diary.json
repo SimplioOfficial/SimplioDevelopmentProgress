@@ -24394,5 +24394,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/114304904eab63ddcb0bc56e4890e28e528e62a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-17 12:56:56.062000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`84476e1`](https://github.com/SimplioOfficial/simplio-app/commit/84476e1cfbadc06ec3d84d19b32d51c010e9a426) ios beta build test - jvrastil",
+      "title": "[simplio-app:10\\_ci\\_cd\\_setup] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/84476e1cfbadc06ec3d84d19b32d51c010e9a426"
+    }
   }
 ]
