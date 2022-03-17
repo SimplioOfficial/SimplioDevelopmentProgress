@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1355 commits since 10/09/2021. You can see the complete history in
+There is a total of 1356 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-17 09:25:25</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b050d89196f2b97f6ff66b795a9dd49b9ef7764b)</sub> | <sub>[b050d89](https://github.com/SimplioOfficial/simplio-app/commit/b050d89196f2b97f6ff66b795a9dd49b9ef7764b) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-17 09:16:09</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63cea4e0e1eac238dd75d658540026e76843b44c)</sub> | <sub>[63cea4e](https://github.com/SimplioOfficial/simplio-app/commit/63cea4e0e1eac238dd75d658540026e76843b44c) ios beta build test - jvrastil</sub> |
 | <sub>2022-03-16 21:23:47</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3)</sub> | <sub>[dd30502](https://github.com/SimplioOfficial/simplio-mobile/commit/dd30502d5626c497281b7fc18ca1cd29421740e3) force production build - jvrastil</sub> |
 | <sub>2022-03-16 21:01:20</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/19bbcc9aa121fff666f9a0960cb78caadd4e6c22)</sub> | <sub>[19bbcc9](https://github.com/SimplioOfficial/simplio-mobile/commit/19bbcc9aa121fff666f9a0960cb78caadd4e6c22) Revert "Revert "updated build script"" - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1355 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-16 16:08:29</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4d4a3de68247d989da0a1c048fd4c180495138c4)</sub> | <sub>[4d4a3de](https://github.com/SimplioOfficial/sio_core/commit/4d4a3de68247d989da0a1c048fd4c180495138c4) chore: flutter format - ciripel</sub> |
 | <sub>2022-03-16 16:00:20</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec)</sub> | <sub>[c6e8413](https://github.com/SimplioOfficial/sio_core/commit/c6e84132e6fc15059785169a4a5d7ad7907724ec) mnemonic test fails - ciripel</sub> |
 | <sub>2022-03-16 13:52:56</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4f0b0ec88c38ba87ff1798147711ada25c44e79c)</sub> | <sub>[4f0b0ec](https://github.com/SimplioOfficial/sio_core/commit/4f0b0ec88c38ba87ff1798147711ada25c44e79c) added trust_wallet_core dependency to check ci - ciripel</sub> |
-| <sub>2022-03-16 13:09:22</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/e535e0aaae53...0de98f702507)</sub> | <sub>[0ede705](https://github.com/SimplioOfficial/simplio-mobile/commit/0ede705a6589252e649100a6d26b45edb2edfd20) increase versions - jvrastil<br>[0de98f7](https://github.com/SimplioOfficial/simplio-mobile/commit/0de98f702507fa7efcea2938255a845f8cb6a909) Merge branch 'v0.3.0' into testing - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
