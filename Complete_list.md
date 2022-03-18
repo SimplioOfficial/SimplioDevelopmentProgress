@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-18 13:33:59</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f9237e8f4264f8f13b1145f9c61824dad11333cb)</sub> | <sub>[f9237e8](https://github.com/SimplioOfficial/sio_core/commit/f9237e8f4264f8f13b1145f9c61824dad11333cb) ci: fixed typo in integration test - ciripel</sub> |
 | <sub>2022-03-18 13:23:15</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ad9d126e9177dd30ed32173abce08f2e600cc651)</sub> | <sub>[ad9d126](https://github.com/SimplioOfficial/sio_core/commit/ad9d126e9177dd30ed32173abce08f2e600cc651) ci: integration_tests to check coverage - ciripel</sub> |
 | <sub>2022-03-18 13:23:06</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be36a54f4a8e71b63bd07647eb5ad2a93feaab3c)</sub> | <sub>[be36a54](https://github.com/SimplioOfficial/simplio-app/commit/be36a54f4a8e71b63bd07647eb5ad2a93feaab3c) Test A: dfghsfgsdf - jvrastil</sub> |
 | <sub>2022-03-18 13:11:56</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/123d768d4d682c2d6d74da65c5977ca41a6dc82f)</sub> | <sub>[123d768](https://github.com/SimplioOfficial/simplio-app/commit/123d768d4d682c2d6d74da65c5977ca41a6dc82f) POKUS - jvrastil</sub> |

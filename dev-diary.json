@@ -24735,5 +24735,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/ad9d126e9177dd30ed32173abce08f2e600cc651"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 13:33:59.591000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f9237e8`](https://github.com/SimplioOfficial/sio_core/commit/f9237e8f4264f8f13b1145f9c61824dad11333cb) ci: fixed typo in integration test - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f9237e8f4264f8f13b1145f9c61824dad11333cb"
+    }
   }
 ]
