@@ -24771,5 +24771,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fff7cc481495e652d069bf2e15e35e2aa75faa9c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 13:57:14.070000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f9b9616`](https://github.com/SimplioOfficial/sio_core/commit/f9b961649808a3ae090e2b2cd64b45976d5df9de) ci: added android emulator - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f9b961649808a3ae090e2b2cd64b45976d5df9de"
+    }
   }
 ]
