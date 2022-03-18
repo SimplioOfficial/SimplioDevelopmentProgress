@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-18 10:12:39</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9e81b4b65030b9ee980d805375e120973841b78c)</sub> | <sub>[9e81b4b](https://github.com/SimplioOfficial/sio_core/commit/9e81b4b65030b9ee980d805375e120973841b78c) ci: implemented integration test simulation - ciripel</sub> |
 | <sub>2022-03-18 10:09:33</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2481f3e372c4b2a6a615277203b27ea838c5991c)</sub> | <sub>[2481f3e](https://github.com/SimplioOfficial/simplio-app/commit/2481f3e372c4b2a6a615277203b27ea838c5991c) deploy test version - jvrastil</sub> |
 | <sub>2022-03-18 09:58:26</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfde08a52e75470cb0e56ff40fceb45e9508328e)</sub> | <sub>[bfde08a](https://github.com/SimplioOfficial/simplio-app/commit/bfde08a52e75470cb0e56ff40fceb45e9508328e) deploy test version - jvrastil</sub> |
 | <sub>2022-03-17 19:23:50</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65eae3335f0a1437d28bb9d00b679cfe7ce4ae19)</sub> | <sub>[65eae33](https://github.com/SimplioOfficial/simplio-app/commit/65eae3335f0a1437d28bb9d00b679cfe7ce4ae19) deploy test version - jvrastil</sub> |
