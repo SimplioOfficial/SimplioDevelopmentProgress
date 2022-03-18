@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1383 commits since 10/09/2021. You can see the complete history in
+There is a total of 1384 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-18 14:31:40</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031)</sub> | <sub>[c3dcf69](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031) ci: removed connected check - ciripel</sub> |
 | <sub>2022-03-18 14:20:14</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0)</sub> | <sub>[6152676](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0) Update pubspec.yaml - jvrastil</sub> |
 | <sub>2022-03-18 14:10:02</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8)</sub> | <sub>[558a775](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8) Test A: dfghsfgsdf - jvrastil</sub> |
 | <sub>2022-03-18 14:03:12</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350)</sub> | <sub>[e2b4aa1](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350) ci: changed api-level from 31 to 28 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1383 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-18 13:23:15</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ad9d126e9177dd30ed32173abce08f2e600cc651)</sub> | <sub>[ad9d126](https://github.com/SimplioOfficial/sio_core/commit/ad9d126e9177dd30ed32173abce08f2e600cc651) ci: integration_tests to check coverage - ciripel</sub> |
 | <sub>2022-03-18 13:23:06</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be36a54f4a8e71b63bd07647eb5ad2a93feaab3c)</sub> | <sub>[be36a54](https://github.com/SimplioOfficial/simplio-app/commit/be36a54f4a8e71b63bd07647eb5ad2a93feaab3c) Test A: dfghsfgsdf - jvrastil</sub> |
 | <sub>2022-03-18 13:11:56</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/123d768d4d682c2d6d74da65c5977ca41a6dc82f)</sub> | <sub>[123d768](https://github.com/SimplioOfficial/simplio-app/commit/123d768d4d682c2d6d74da65c5977ca41a6dc82f) POKUS - jvrastil</sub> |
-| <sub>2022-03-18 12:44:45</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1013f3cdda8ad0e8454420aad6390b10586955ca)</sub> | <sub>[1013f3c](https://github.com/SimplioOfficial/simplio-app/commit/1013f3cdda8ad0e8454420aad6390b10586955ca) POKUS - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

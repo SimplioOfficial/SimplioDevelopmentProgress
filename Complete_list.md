@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-18 14:31:40</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031)</sub> | <sub>[c3dcf69](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031) ci: removed connected check - ciripel</sub> |
 | <sub>2022-03-18 14:20:14</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0)</sub> | <sub>[6152676](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0) Update pubspec.yaml - jvrastil</sub> |
 | <sub>2022-03-18 14:10:02</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8)</sub> | <sub>[558a775](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8) Test A: dfghsfgsdf - jvrastil</sub> |
 | <sub>2022-03-18 14:03:12</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350)</sub> | <sub>[e2b4aa1](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350) ci: changed api-level from 31 to 28 - ciripel</sub> |
