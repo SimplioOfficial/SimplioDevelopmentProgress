@@ -24933,5 +24933,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/94deb59092c381c587cf82d7b42196d58d8d161f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 18:05:18.408000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`059f42d`](https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38) fix: switched to our trust_wallet_core_lib - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38"
+    }
   }
 ]

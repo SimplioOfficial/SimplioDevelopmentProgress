@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1388 commits since 10/09/2021. You can see the complete history in
+There is a total of 1389 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-18 18:05:18</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38)</sub> | <sub>[059f42d](https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38) fix: switched to our trust_wallet_core_lib - ciripel</sub> |
 | <sub>2022-03-18 17:33:18</sub> | <sub>[[simplio-app:task/11\-setup\_basic\_ci\_cd\_pipelines] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/94deb59092c381c587cf82d7b42196d58d8d161f)</sub> | <sub>[94deb59](https://github.com/SimplioOfficial/simplio-app/commit/94deb59092c381c587cf82d7b42196d58d8d161f) [#11] Create basic CI/CD flows - jvrastil</sub> |
 | <sub>2022-03-18 14:38:21</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a68de6921e3b4c2b0051a087c13e5639ead63eb8)</sub> | <sub>[a68de69](https://github.com/SimplioOfficial/sio_core/commit/a68de6921e3b4c2b0051a087c13e5639ead63eb8) ci: new script - ciripel</sub> |
 | <sub>2022-03-18 14:35:54</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9)</sub> | <sub>[a0c8402](https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9) is it working? - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1388 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-18 14:10:02</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8)</sub> | <sub>[558a775](https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8) Test A: dfghsfgsdf - jvrastil</sub> |
 | <sub>2022-03-18 14:03:12</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350)</sub> | <sub>[e2b4aa1](https://github.com/SimplioOfficial/sio_core/commit/e2b4aa1ce2fcf451af867ae0fc0ea05ffcc55350) ci: changed api-level from 31 to 28 - ciripel</sub> |
 | <sub>2022-03-18 13:57:14</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f9b961649808a3ae090e2b2cd64b45976d5df9de)</sub> | <sub>[f9b9616](https://github.com/SimplioOfficial/sio_core/commit/f9b961649808a3ae090e2b2cd64b45976d5df9de) ci: added android emulator - ciripel</sub> |
-| <sub>2022-03-18 13:43:16</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fff7cc481495e652d069bf2e15e35e2aa75faa9c)</sub> | <sub>[fff7cc4](https://github.com/SimplioOfficial/simplio-app/commit/fff7cc481495e652d069bf2e15e35e2aa75faa9c) Test A: dfghsfgsdf - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
