@@ -24825,5 +24825,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/558a77507a28d4e71c9debebe8e9685ba91ca5c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 14:20:14.224000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6152676`](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0) Update pubspec.yaml - jvrastil",
+      "title": "[simplio-app:10\\_ci\\_cd\\_setup] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0"
+    }
   }
 ]
