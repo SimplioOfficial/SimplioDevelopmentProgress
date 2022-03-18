@@ -24861,5 +24861,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 14:35:24.865000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c470d7a`](https://github.com/SimplioOfficial/simplio-app/commit/c470d7abc59702e363a3ce6dd31efa16c5a4ca86) Update Fastfile - jvrastil",
+      "title": "[simplio-app:10\\_ci\\_cd\\_setup] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c470d7abc59702e363a3ce6dd31efa16c5a4ca86"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 14:35:54.238000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a0c8402`](https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9) is it working? - jvrastil",
+      "title": "[simplio-app:10\\_ci\\_cd\\_setup] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-18 14:38:21.574000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a68de69`](https://github.com/SimplioOfficial/sio_core/commit/a68de6921e3b4c2b0051a087c13e5639ead63eb8) ci: new script - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/a68de6921e3b4c2b0051a087c13e5639ead63eb8"
+    }
   }
 ]
