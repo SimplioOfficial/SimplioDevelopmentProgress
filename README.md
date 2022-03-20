@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1392 commits since 10/09/2021. You can see the complete history in
+There is a total of 1393 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-20 16:34:10</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38fa8351a99f6e14e299eb98f0d3ddea5f2062a1)</sub> | <sub>[38fa835](https://github.com/SimplioOfficial/simplio-app/commit/38fa8351a99f6e14e299eb98f0d3ddea5f2062a1) adding navigation - storkandstars</sub> |
 | <sub>2022-03-18 19:26:56</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97)</sub> | <sub>[962552c](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97) ci: trying only API 28 - ciripel</sub> |
 | <sub>2022-03-18 19:10:13</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256)</sub> | <sub>[4abc9f1](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256) ci: test on macos - ciripel</sub> |
 | <sub>2022-03-18 18:43:18</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/12709e3fad0b3fe250ab86cec3bebbe045091cfa)</sub> | <sub>[12709e3](https://github.com/SimplioOfficial/sio_core/commit/12709e3fad0b3fe250ab86cec3bebbe045091cfa) ci: Added emulator caching - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1392 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-18 14:35:54</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9)</sub> | <sub>[a0c8402](https://github.com/SimplioOfficial/simplio-app/commit/a0c8402bf68d4655d5d31d9f75eb76cd1e375fc9) is it working? - jvrastil</sub> |
 | <sub>2022-03-18 14:35:24</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c470d7abc59702e363a3ce6dd31efa16c5a4ca86)</sub> | <sub>[c470d7a](https://github.com/SimplioOfficial/simplio-app/commit/c470d7abc59702e363a3ce6dd31efa16c5a4ca86) Update Fastfile - jvrastil</sub> |
 | <sub>2022-03-18 14:31:40</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031)</sub> | <sub>[c3dcf69](https://github.com/SimplioOfficial/sio_core/commit/c3dcf69766b3614e76e52c70e601f0bb54ccd031) ci: removed connected check - ciripel</sub> |
-| <sub>2022-03-18 14:20:14</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0)</sub> | <sub>[6152676](https://github.com/SimplioOfficial/simplio-app/commit/6152676e7bd373398e4d6b1d248e31eb06c6bab0) Update pubspec.yaml - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
