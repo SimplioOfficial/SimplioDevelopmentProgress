@@ -25059,5 +25059,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/38fa8351a99f...e34c1349325b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-20 18:11:52.229000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1261114`](https://github.com/SimplioOfficial/simplio-app/commit/1261114d4fd8d4e801dd5993e60b341bd6e749e9) Subtask/setup bloc 23 (#27) - storkandstars\n[`eb3c917`](https://github.com/SimplioOfficial/simplio-app/commit/eb3c917e64a345be09abd3dedb7339bd860930bc) adding navigation - storkandstars\n[`7819d3e`](https://github.com/SimplioOfficial/simplio-app/commit/7819d3ee7dadb5cf51c73b9776fe46dfc8109da2) refactoring enabling/disabling project - storkandstars\n[`4d81a98`](https://github.com/SimplioOfficial/simplio-app/commit/4d81a98c2e137bd27b058db12b9bbb7f6f2b3510) adding comments - storkandstars\n[`406c78d`](https://github.com/SimplioOfficial/simplio-app/commit/406c78d3aa77b9aab5baadba44592ce1314dc88d) Merge branch 'subtask/24-setup-navigation' of g... - storkandstars",
+      "title": "[simplio-app:subtask/24\\-setup\\-navigation] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e34c1349325b...406c78d3aa77"
+    }
   }
 ]
