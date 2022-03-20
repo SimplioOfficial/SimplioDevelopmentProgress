@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-20 16:35:09</sub> | <sub>[[simplio-app:task/scaffilding\-app\-13] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1261114d4fd8d4e801dd5993e60b341bd6e749e9)</sub> | <sub>[1261114](https://github.com/SimplioOfficial/simplio-app/commit/1261114d4fd8d4e801dd5993e60b341bd6e749e9) Subtask/setup bloc 23 (#27) - storkandstars</sub> |
 | <sub>2022-03-20 16:34:10</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38fa8351a99f6e14e299eb98f0d3ddea5f2062a1)</sub> | <sub>[38fa835](https://github.com/SimplioOfficial/simplio-app/commit/38fa8351a99f6e14e299eb98f0d3ddea5f2062a1) adding navigation - storkandstars</sub> |
 | <sub>2022-03-18 19:26:56</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97)</sub> | <sub>[962552c](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97) ci: trying only API 28 - ciripel</sub> |
 | <sub>2022-03-18 19:10:13</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256)</sub> | <sub>[4abc9f1](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256) ci: test on macos - ciripel</sub> |
