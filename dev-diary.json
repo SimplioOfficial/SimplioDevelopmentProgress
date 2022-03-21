@@ -25167,5 +25167,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e1d2d48b3ed150549e9c5db691590285ba0c6668"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-21 02:11:20.144000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`bac12d9`](https://github.com/SimplioOfficial/simplio-app/commit/bac12d9e1e5ad99419734c1715974ac6d13d20c1) following bloc name convention - storkandstars",
+      "title": "[simplio-app:subtask/24\\-setup\\-navigation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bac12d9e1e5ad99419734c1715974ac6d13d20c1"
+    }
   }
 ]
