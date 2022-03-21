@@ -25221,5 +25221,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/550c8c6574ddc73e91b113e89f443e20c660bece"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-21 08:07:45.451000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`daadd3a`](https://github.com/SimplioOfficial/sio_core/commit/daadd3ac45c947098883c4bdc7e5300508abad68) ci: install lcov - ciripel",
+      "title": "[sio_core:infrastructure/continous\\_integration\\-\\#4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/daadd3ac45c947098883c4bdc7e5300508abad68"
+    }
   }
 ]
