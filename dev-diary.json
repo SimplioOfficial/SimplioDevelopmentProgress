@@ -26264,5 +26264,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8707264f0266f4e13d6cdfbb58680edcffc18268"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-21 21:33:16.023000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`390155a`](https://github.com/SimplioOfficial/simplio-app/commit/390155a02bb83aa16628eeb4f5a854030c3916cd) adding launcher icon - storkandstars",
+      "title": "[simplio-app:subtask/26\\-change\\-default\\-app\\-icon\\-and\\-title] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/390155a02bb83aa16628eeb4f5a854030c3916cd"
+    }
   }
 ]
