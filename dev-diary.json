@@ -25832,5 +25832,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/59ac4e533a27b5b204d82e91e90b5a80dcb85a76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-21 18:15:47.002000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`65bfd72`](https://github.com/SimplioOfficial/simplio-app/commit/65bfd72b384ca072c6153c2c310cf5c17b88f862) update to CI/CD pipelines - Automatic version i... - jvrastil",
+      "title": "[simplio-app:subtask/11\\-automatic\\_version\\_increase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/65bfd72b384ca072c6153c2c310cf5c17b88f862"
+    }
   }
 ]
