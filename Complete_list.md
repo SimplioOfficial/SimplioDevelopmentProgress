@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-21 15:32:47</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df2f04c822c0de770bd934c5325df6b7fb3f95ff)</sub> | <sub>[df2f04c](https://github.com/SimplioOfficial/simplio-app/commit/df2f04c822c0de770bd934c5325df6b7fb3f95ff) Automatic version increase - jvrastil</sub> |
 | <sub>2022-03-21 15:29:40</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f3127949d60dae139ab6ab847d3608dfdfa21bf)</sub> | <sub>[5f31279](https://github.com/SimplioOfficial/simplio-app/commit/5f3127949d60dae139ab6ab847d3608dfdfa21bf) Automatic version increase - jvrastil</sub> |
 | <sub>2022-03-21 15:28:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d0cea04f061b...5d41c0ab5875)</sub> |
 | <sub>2022-03-21 14:59:16</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/acfe83a1bc721c35539b2034e1f428aa3661f373)</sub> | <sub>[acfe83a](https://github.com/SimplioOfficial/sio_core/commit/acfe83a1bc721c35539b2034e1f428aa3661f373) docs: implemented documentation & v0.0.4 - ciripel</sub> |
