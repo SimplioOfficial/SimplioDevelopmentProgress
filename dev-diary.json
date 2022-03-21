@@ -25239,5 +25239,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/daadd3ac45c947098883c4bdc7e5300508abad68"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-21 09:12:33.675000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b87da55`](https://github.com/SimplioOfficial/simplio-app/commit/b87da55ff814a6cd75837a399954b92cdfcb6bc4) changes after code review - jvrastil",
+      "title": "[simplio-app:task/11\\-setup\\_basic\\_ci\\_cd\\_pipelines] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b87da55ff814a6cd75837a399954b92cdfcb6bc4"
+    }
   }
 ]

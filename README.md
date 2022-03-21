@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1405 commits since 10/09/2021. You can see the complete history in
+There is a total of 1406 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-21 09:12:33</sub> | <sub>[[simplio-app:task/11\-setup\_basic\_ci\_cd\_pipelines] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b87da55ff814a6cd75837a399954b92cdfcb6bc4)</sub> | <sub>[b87da55](https://github.com/SimplioOfficial/simplio-app/commit/b87da55ff814a6cd75837a399954b92cdfcb6bc4) changes after code review - jvrastil</sub> |
 | <sub>2022-03-21 08:07:45</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/daadd3ac45c947098883c4bdc7e5300508abad68)</sub> | <sub>[daadd3a](https://github.com/SimplioOfficial/sio_core/commit/daadd3ac45c947098883c4bdc7e5300508abad68) ci: install lcov - ciripel</sub> |
 | <sub>2022-03-21 07:50:31</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/550c8c6574ddc73e91b113e89f443e20c660bece)</sub> | <sub>[550c8c6](https://github.com/SimplioOfficial/sio_core/commit/550c8c6574ddc73e91b113e89f443e20c660bece) cd: added emulator testing on publishing - ciripel</sub> |
 | <sub>2022-03-21 07:43:06</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/23542b0774a76846427b495e4025ea967ab7fe27)</sub> | <sub>[23542b0](https://github.com/SimplioOfficial/sio_core/commit/23542b0774a76846427b495e4025ea967ab7fe27) ci: further improving testing - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1405 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-21 00:18:29</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1beb4fbdaa586fdff98cd45ac15e4a4272cc1bcd)</sub> | <sub>[1beb4fb](https://github.com/SimplioOfficial/simplio-app/commit/1beb4fbdaa586fdff98cd45ac15e4a4272cc1bcd) improving state management - storkandstars</sub> |
 | <sub>2022-03-20 21:49:00</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e491df3d48a80c9d91beaadd7203b614a9a0725)</sub> | <sub>[8e491df](https://github.com/SimplioOfficial/simplio-app/commit/8e491df3d48a80c9d91beaadd7203b614a9a0725) updating folder structure - storkandstars</sub> |
 | <sub>2022-03-20 20:41:27</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26258d46c133bcd1111cbd49b394e35ce16c1d76)</sub> | <sub>[26258d4](https://github.com/SimplioOfficial/simplio-app/commit/26258d46c133bcd1111cbd49b394e35ce16c1d76) implementing new router - storkandstars</sub> |
-| <sub>2022-03-20 18:11:52</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e34c1349325b...406c78d3aa77)</sub> | <sub>[1261114](https://github.com/SimplioOfficial/simplio-app/commit/1261114d4fd8d4e801dd5993e60b341bd6e749e9) Subtask/setup bloc 23 (#27) - storkandstars<br>[eb3c917](https://github.com/SimplioOfficial/simplio-app/commit/eb3c917e64a345be09abd3dedb7339bd860930bc) adding navigation - storkandstars<br>[7819d3e](https://github.com/SimplioOfficial/simplio-app/commit/7819d3ee7dadb5cf51c73b9776fe46dfc8109da2) refactoring enabling/disabling project - storkandstars<br>[4d81a98](https://github.com/SimplioOfficial/simplio-app/commit/4d81a98c2e137bd27b058db12b9bbb7f6f2b3510) adding comments - storkandstars<br>[406c78d](https://github.com/SimplioOfficial/simplio-app/commit/406c78d3aa77b9aab5baadba44592ce1314dc88d) Merge branch 'subtask/24-setup-navigation' of g... - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
