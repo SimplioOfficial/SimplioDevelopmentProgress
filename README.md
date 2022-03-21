@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1398 commits since 10/09/2021. You can see the complete history in
+There is a total of 1399 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-21 00:18:29</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1beb4fbdaa586fdff98cd45ac15e4a4272cc1bcd)</sub> | <sub>[1beb4fb](https://github.com/SimplioOfficial/simplio-app/commit/1beb4fbdaa586fdff98cd45ac15e4a4272cc1bcd) improving state management - storkandstars</sub> |
 | <sub>2022-03-20 21:49:00</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e491df3d48a80c9d91beaadd7203b614a9a0725)</sub> | <sub>[8e491df](https://github.com/SimplioOfficial/simplio-app/commit/8e491df3d48a80c9d91beaadd7203b614a9a0725) updating folder structure - storkandstars</sub> |
 | <sub>2022-03-20 20:41:27</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26258d46c133bcd1111cbd49b394e35ce16c1d76)</sub> | <sub>[26258d4](https://github.com/SimplioOfficial/simplio-app/commit/26258d46c133bcd1111cbd49b394e35ce16c1d76) implementing new router - storkandstars</sub> |
 | <sub>2022-03-20 18:11:52</sub> | <sub>[[simplio-app:subtask/24\-setup\-navigation] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e34c1349325b...406c78d3aa77)</sub> | <sub>[1261114](https://github.com/SimplioOfficial/simplio-app/commit/1261114d4fd8d4e801dd5993e60b341bd6e749e9) Subtask/setup bloc 23 (#27) - storkandstars<br>[eb3c917](https://github.com/SimplioOfficial/simplio-app/commit/eb3c917e64a345be09abd3dedb7339bd860930bc) adding navigation - storkandstars<br>[7819d3e](https://github.com/SimplioOfficial/simplio-app/commit/7819d3ee7dadb5cf51c73b9776fe46dfc8109da2) refactoring enabling/disabling project - storkandstars<br>[4d81a98](https://github.com/SimplioOfficial/simplio-app/commit/4d81a98c2e137bd27b058db12b9bbb7f6f2b3510) adding comments - storkandstars<br>[406c78d](https://github.com/SimplioOfficial/simplio-app/commit/406c78d3aa77b9aab5baadba44592ce1314dc88d) Merge branch 'subtask/24-setup-navigation' of g... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 1398 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-18 19:26:56</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97)</sub> | <sub>[962552c](https://github.com/SimplioOfficial/sio_core/commit/962552c67e7e71499dded54f8af275194d10cd97) ci: trying only API 28 - ciripel</sub> |
 | <sub>2022-03-18 19:10:13</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256)</sub> | <sub>[4abc9f1](https://github.com/SimplioOfficial/sio_core/commit/4abc9f1007595dabb5abab1e2aa779cc9a495256) ci: test on macos - ciripel</sub> |
 | <sub>2022-03-18 18:43:18</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/12709e3fad0b3fe250ab86cec3bebbe045091cfa)</sub> | <sub>[12709e3](https://github.com/SimplioOfficial/sio_core/commit/12709e3fad0b3fe250ab86cec3bebbe045091cfa) ci: Added emulator caching - ciripel</sub> |
-| <sub>2022-03-18 18:05:18</sub> | <sub>[[sio_core:infrastructure/continous\_integration\-\#4] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38)</sub> | <sub>[059f42d](https://github.com/SimplioOfficial/sio_core/commit/059f42d7b77c74d3ccff2107a69878fef3507c38) fix: switched to our trust_wallet_core_lib - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
