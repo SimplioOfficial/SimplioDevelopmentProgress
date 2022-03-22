@@ -26444,5 +26444,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6bcd905f6cb841a7fbc96b8a04495a4d36c162d6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-22 09:18:46.322000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`83146e2`](https://github.com/SimplioOfficial/documentation/commit/83146e2563c7996fb78eb6060f915d3d304123cb) docs: redirected documentation to official pub doc - ciripel",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/83146e2563c7996fb78eb6060f915d3d304123cb"
+    }
   }
 ]
