@@ -26858,5 +26858,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/80d99675f2f5b6b27326bc7158aeac19cb093476"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-22 14:50:30.861000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "name": "github-actions[bot]",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/_CwfCdplc_-IM7gzSEItjRU05cQVWLm8aOcdAZgswG8/%3Fv%3D4/https/avatars.githubusercontent.com/in/15368",
+        "url": "https://github.com/apps/github-actions"
+      },
+      "color": 7506394,
+      "description": "[`2708a15`](https://github.com/SimplioOfficial/simplio-app/commit/2708a156d68835faec7caf21a0b4794d59076e18) [automated commit] Version increase - GitHub bot",
+      "title": "[simplio-app:subtask/11\\-automatic\\_version\\_increase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2708a156d68835faec7caf21a0b4794d59076e18"
+    }
   }
 ]
