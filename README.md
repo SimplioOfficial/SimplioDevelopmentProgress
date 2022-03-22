@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1506 commits since 10/09/2021. You can see the complete history in
+There is a total of 1507 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-22 18:06:36</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/629db6aa7294b077c2162233e236dabf1cb9c7a3)</sub> | <sub>[629db6a](https://github.com/SimplioOfficial/simplio-app/commit/629db6aa7294b077c2162233e236dabf1cb9c7a3) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 18:03:13</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee660f2d5b4f4ffa1df68826a5ea8be993dd3bcd)</sub> | <sub>[ee660f2](https://github.com/SimplioOfficial/simplio-app/commit/ee660f2d5b4f4ffa1df68826a5ea8be993dd3bcd) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 18:00:41</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7eeab92449d3...b09bcbc24cb4)</sub> | <sub>[72516f3](https://github.com/SimplioOfficial/simplio-app/commit/72516f3f1ff9a6ddd1dc8684f3a07e02ca4d219f) update to CI/CD pipelines - Automatic version i... - jvrastil<br>[b09bcbc](https://github.com/SimplioOfficial/simplio-app/commit/b09bcbc24cb46af876f6dae1c6cb9fdbfc6afd84) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 17:53:45</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d3543f3fc2c8...7eeab92449d3)</sub> | <sub>[e23ca35](https://github.com/SimplioOfficial/simplio-app/commit/e23ca35ac88fd56f63206a98df899ee9f4454a21) update to CI/CD pipelines - Automatic version i... - jvrastil<br>[7eeab92](https://github.com/SimplioOfficial/simplio-app/commit/7eeab92449d36fa054954e469bc2c35461d93c04) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1506 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-22 17:45:41</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/31ea46cb61e725211326c6f6edb5c99aaaaf33c7)</sub> | <sub>[31ea46c](https://github.com/SimplioOfficial/simplio-app/commit/31ea46cb61e725211326c6f6edb5c99aaaaf33c7) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 17:44:21</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51b9912a0f075cf541fc6470b86228c60b8e8f97)</sub> | <sub>[51b9912](https://github.com/SimplioOfficial/simplio-app/commit/51b9912a0f075cf541fc6470b86228c60b8e8f97) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 17:33:30</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5728eac80e91b65daf7bbdcf1ff2da095e6f2ef9)</sub> | <sub>[5728eac](https://github.com/SimplioOfficial/simplio-app/commit/5728eac80e91b65daf7bbdcf1ff2da095e6f2ef9) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
-| <sub>2022-03-22 15:38:48</sub> | <sub>[[simplio-app:10\_ci\_cd\_setup] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a0c8402bf68d...56948cee6843)</sub> | <sub>[0c74223](https://github.com/SimplioOfficial/simplio-app/commit/0c74223217f66ca714c1d7b61db093f37f8c87d2) basic integration test - Juliana Souza<br>[56948ce](https://github.com/SimplioOfficial/simplio-app/commit/56948cee68432a01cd3a6de09041efe778e26fad) add dependencies - Juliana Souza</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
