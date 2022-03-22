@@ -26732,5 +26732,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e97bb8609dcf...adf5379501ad"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-22 12:12:12.179000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "name": "github-actions[bot]",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/_CwfCdplc_-IM7gzSEItjRU05cQVWLm8aOcdAZgswG8/%3Fv%3D4/https/avatars.githubusercontent.com/in/15368",
+        "url": "https://github.com/apps/github-actions"
+      },
+      "color": 7506394,
+      "description": "[`a40b549`](https://github.com/SimplioOfficial/simplio-app/commit/a40b549d392114d098fbaf897afcdf31589e1e53) [automated commit] Version increase - Jan Vra\u0161til",
+      "title": "[simplio-app:subtask/11\\-automatic\\_version\\_increase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a40b549d392114d098fbaf897afcdf31589e1e53"
+    }
   }
 ]
