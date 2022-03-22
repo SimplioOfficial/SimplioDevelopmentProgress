@@ -26876,5 +26876,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2708a156d68835faec7caf21a0b4794d59076e18"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-22 15:38:48.444000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`0c74223`](https://github.com/SimplioOfficial/simplio-app/commit/0c74223217f66ca714c1d7b61db093f37f8c87d2) basic integration test - Juliana Souza\n[`56948ce`](https://github.com/SimplioOfficial/simplio-app/commit/56948cee68432a01cd3a6de09041efe778e26fad) add dependencies - Juliana Souza",
+      "title": "[simplio-app:10\\_ci\\_cd\\_setup] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a0c8402bf68d...56948cee6843"
+    }
   }
 ]
