@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1467 commits since 10/09/2021. You can see the complete history in
+There is a total of 1468 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-22 08:20:32</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0248aadec5dea59afb3f9ccdb40fd22c506dac7a)</sub> | <sub>[0248aad](https://github.com/SimplioOfficial/simplio-app/commit/0248aadec5dea59afb3f9ccdb40fd22c506dac7a) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 08:18:00</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd48dd83defe9617617b0720323df883bd928307)</sub> | <sub>[dd48dd8](https://github.com/SimplioOfficial/simplio-app/commit/dd48dd83defe9617617b0720323df883bd928307) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-22 08:12:43</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5583a9987bc5c2fec12b5f1f465fed7626409c80)</sub> | <sub>[5583a99](https://github.com/SimplioOfficial/documentation/commit/5583a9987bc5c2fec12b5f1f465fed7626409c80) docs: removed double links - ciripel</sub> |
 | <sub>2022-03-22 08:08:35</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3d9510e1bf3f4a702a9159d7da9ed292d2fc37f3)</sub> | <sub>[3d9510e](https://github.com/SimplioOfficial/simplio-app/commit/3d9510e1bf3f4a702a9159d7da9ed292d2fc37f3) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1467 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-21 21:21:11</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3c31feeec1774467cbbde6b2d601fe925863fdf)</sub> | <sub>[a3c31fe](https://github.com/SimplioOfficial/simplio-app/commit/a3c31feeec1774467cbbde6b2d601fe925863fdf) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-21 21:16:07</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83adc088820d0ad828da80f317341cbccbc69c56)</sub> | <sub>[83adc08](https://github.com/SimplioOfficial/simplio-app/commit/83adc088820d0ad828da80f317341cbccbc69c56) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 | <sub>2022-03-21 21:14:16</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfff056b04c77134a7f0d617dd4558775b840cad)</sub> | <sub>[dfff056](https://github.com/SimplioOfficial/simplio-app/commit/dfff056b04c77134a7f0d617dd4558775b840cad) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
-| <sub>2022-03-21 21:06:32</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5bd536a158a278e8be0e5d3b75b0156e3005a0ea)</sub> | <sub>[5bd536a](https://github.com/SimplioOfficial/simplio-app/commit/5bd536a158a278e8be0e5d3b75b0156e3005a0ea) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
