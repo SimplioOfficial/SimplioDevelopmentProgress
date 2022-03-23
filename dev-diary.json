@@ -27524,5 +27524,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/57cdaae78edac43916f191c84e71e9e8b0197ccb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-23 16:29:55.462000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`78339bd`](https://github.com/SimplioOfficial/sio_core/commit/78339bd815c2c50d77c108037f08060525ea6b4c) feat: implemented solana and SolanaToken methods - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/78339bd815c2c50d77c108037f08060525ea6b4c"
+    }
   }
 ]
