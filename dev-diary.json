@@ -27614,5 +27614,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 07:11:35.351000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`744e336`](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e) fix: fixed avoid_print in example - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 07:13:11.005000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f84899c`](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c) chore: updated .vscode settings - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c"
+    }
   }
 ]
