@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 15:29:03</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f)</sub> | <sub>[d94940b](https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f) fix: Fixed SolanaToken transaction - ciripel</sub> |
 | <sub>2022-03-24 12:25:39</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39)</sub> | <sub>[4eb66f4](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39) removing doc examples - storkandstars</sub> |
 | <sub>2022-03-24 12:23:28</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609)</sub> | <sub>[461b5a2](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609) getting started with frontend - storkandstars</sub> |
 | <sub>2022-03-24 10:46:26</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291)</sub> | <sub>[efa3854](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil</sub> |

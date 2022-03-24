@@ -27740,5 +27740,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 15:29:03.628000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d94940b`](https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f) fix: Fixed SolanaToken transaction - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f"
+    }
   }
 ]
