@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 09:12:31</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2)</sub> | <sub>[77e1374](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2) fix: add confirmed commitment to getBlockHash - ciripel</sub> |
 | <sub>2022-03-24 07:13:11</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c)</sub> | <sub>[f84899c](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c) chore: updated .vscode settings - ciripel</sub> |
 | <sub>2022-03-24 07:11:35</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e)</sub> | <sub>[744e336](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e) fix: fixed avoid_print in example - ciripel</sub> |
 | <sub>2022-03-24 06:59:30</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1)</sub> | <sub>[3090c8f](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1) fix: removed example tests - ciripel</sub> |

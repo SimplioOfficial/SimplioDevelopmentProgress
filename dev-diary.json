@@ -27650,5 +27650,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 09:12:31.185000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`77e1374`](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2) fix: add confirmed commitment to getBlockHash - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2"
+    }
   }
 ]
