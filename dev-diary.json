@@ -27704,5 +27704,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 12:23:28.306000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`461b5a2`](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609) getting started with frontend - storkandstars",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609"
+    }
   }
 ]

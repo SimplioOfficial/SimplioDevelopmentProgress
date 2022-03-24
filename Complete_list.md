@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 12:23:28</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609)</sub> | <sub>[461b5a2](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609) getting started with frontend - storkandstars</sub> |
 | <sub>2022-03-24 10:46:26</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291)</sub> | <sub>[efa3854](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil</sub> |
 | <sub>2022-03-24 09:46:15</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051)</sub> | <sub>[ce9b49f](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051) feature: added broadcast solana - ciripel</sub> |
 | <sub>2022-03-24 09:12:31</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2)</sub> | <sub>[77e1374](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2) fix: add confirmed commitment to getBlockHash - ciripel</sub> |
