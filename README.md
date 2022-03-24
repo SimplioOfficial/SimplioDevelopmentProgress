@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1543 commits since 10/09/2021. You can see the complete history in
+There is a total of 1544 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 12:25:39</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39)</sub> | <sub>[4eb66f4](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39) removing doc examples - storkandstars</sub> |
 | <sub>2022-03-24 12:23:28</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609)</sub> | <sub>[461b5a2](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609) getting started with frontend - storkandstars</sub> |
 | <sub>2022-03-24 10:46:26</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291)</sub> | <sub>[efa3854](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil</sub> |
 | <sub>2022-03-24 09:46:15</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051)</sub> | <sub>[ce9b49f](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051) feature: added broadcast solana - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1543 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-24 06:59:30</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1)</sub> | <sub>[3090c8f](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1) fix: removed example tests - ciripel</sub> |
 | <sub>2022-03-24 06:59:14</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9fdeccb6c60ad12cff2aa05dfa5bcb55099f6a4d)</sub> | <sub>[9fdeccb](https://github.com/SimplioOfficial/sio_core/commit/9fdeccb6c60ad12cff2aa05dfa5bcb55099f6a4d) refactor: use @internal and move requests to utils - ciripel</sub> |
 | <sub>2022-03-23 19:44:55</sub> | <sub>[[documentation:master] 2 new commits](https://github.com/SimplioOfficial/documentation/compare/83146e2563c7...f7a03c900fa3)</sub> | <sub>[21befdb](https://github.com/SimplioOfficial/documentation/commit/21befdbab02d475a1a9340c6586607eb4f60a0c7) updating changing api gateway provider - storkandstars<br>[f7a03c9](https://github.com/SimplioOfficial/documentation/commit/f7a03c900fa387affb3b211002616c8905b147c4) Merge branch 'master' of github.com:SimplioOffi... - storkandstars</sub> |
-| <sub>2022-03-23 16:30:25</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f4a5dfdf9000dbe41e03546aca5476cc291d2251)</sub> | <sub>[f4a5dfd](https://github.com/SimplioOfficial/sio_core/commit/f4a5dfdf9000dbe41e03546aca5476cc291d2251) feat: add example app - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
