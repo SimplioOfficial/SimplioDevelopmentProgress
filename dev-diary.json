@@ -27758,5 +27758,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 16:15:48.212000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`eea506a`](https://github.com/SimplioOfficial/sio_core/commit/eea506a5dcda694dfffc09aa210c50319de9126e) subtask: implement broadcast test - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/eea506a5dcda694dfffc09aa210c50319de9126e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 16:16:54.457000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`371aeaf`](https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48) fix: removed comments in broadcast - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48"
+    }
   }
 ]

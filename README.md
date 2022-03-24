@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1545 commits since 10/09/2021. You can see the complete history in
+There is a total of 1547 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 16:16:54</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48)</sub> | <sub>[371aeaf](https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48) fix: removed comments in broadcast - ciripel</sub> |
+| <sub>2022-03-24 16:15:48</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/eea506a5dcda694dfffc09aa210c50319de9126e)</sub> | <sub>[eea506a](https://github.com/SimplioOfficial/sio_core/commit/eea506a5dcda694dfffc09aa210c50319de9126e) subtask: implement broadcast test - ciripel</sub> |
 | <sub>2022-03-24 15:29:03</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f)</sub> | <sub>[d94940b](https://github.com/SimplioOfficial/sio_core/commit/d94940bba6caa9ba4446f4b7f49bf57fd2372e7f) fix: Fixed SolanaToken transaction - ciripel</sub> |
 | <sub>2022-03-24 12:25:39</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39)</sub> | <sub>[4eb66f4](https://github.com/SimplioOfficial/documentation/commit/4eb66f43f2dd27393124e3cf28cef401e04a9f39) removing doc examples - storkandstars</sub> |
 | <sub>2022-03-24 12:23:28</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609)</sub> | <sub>[461b5a2](https://github.com/SimplioOfficial/documentation/commit/461b5a20eb27d81e6a6e4ba6bad6f360bb07a609) getting started with frontend - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 1545 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-24 09:12:31</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2)</sub> | <sub>[77e1374](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2) fix: add confirmed commitment to getBlockHash - ciripel</sub> |
 | <sub>2022-03-24 07:13:11</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c)</sub> | <sub>[f84899c](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c) chore: updated .vscode settings - ciripel</sub> |
 | <sub>2022-03-24 07:11:35</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e)</sub> | <sub>[744e336](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e) fix: fixed avoid_print in example - ciripel</sub> |
-| <sub>2022-03-24 06:59:30</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1)</sub> | <sub>[3090c8f](https://github.com/SimplioOfficial/sio_core/commit/3090c8f36bb138d7ab557583be96a3a9563165c1) fix: removed example tests - ciripel</sub> |
-| <sub>2022-03-24 06:59:14</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9fdeccb6c60ad12cff2aa05dfa5bcb55099f6a4d)</sub> | <sub>[9fdeccb](https://github.com/SimplioOfficial/sio_core/commit/9fdeccb6c60ad12cff2aa05dfa5bcb55099f6a4d) refactor: use @internal and move requests to utils - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
