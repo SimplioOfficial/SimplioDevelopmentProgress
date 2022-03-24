@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1540 commits since 10/09/2021. You can see the complete history in
+There is a total of 1541 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-24 09:46:15</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051)</sub> | <sub>[ce9b49f](https://github.com/SimplioOfficial/sio_core/commit/ce9b49fbd136d722aa050b9d20848158d9a5b051) feature: added broadcast solana - ciripel</sub> |
 | <sub>2022-03-24 09:12:31</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2)</sub> | <sub>[77e1374](https://github.com/SimplioOfficial/sio_core/commit/77e1374b510a791a32f42d349f5e996a2f3fdfe2) fix: add confirmed commitment to getBlockHash - ciripel</sub> |
 | <sub>2022-03-24 07:13:11</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c)</sub> | <sub>[f84899c](https://github.com/SimplioOfficial/sio_core/commit/f84899c4c50ea22e3bea5732cb1521a0c619c13c) chore: updated .vscode settings - ciripel</sub> |
 | <sub>2022-03-24 07:11:35</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e)</sub> | <sub>[744e336](https://github.com/SimplioOfficial/sio_core/commit/744e33600515fdc1d1fddf206c4d304eb65ab47e) fix: fixed avoid_print in example - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1540 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-23 16:30:25</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f4a5dfdf9000dbe41e03546aca5476cc291d2251)</sub> | <sub>[f4a5dfd](https://github.com/SimplioOfficial/sio_core/commit/f4a5dfdf9000dbe41e03546aca5476cc291d2251) feat: add example app - ciripel</sub> |
 | <sub>2022-03-23 16:29:55</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/78339bd815c2c50d77c108037f08060525ea6b4c)</sub> | <sub>[78339bd](https://github.com/SimplioOfficial/sio_core/commit/78339bd815c2c50d77c108037f08060525ea6b4c) feat: implemented solana and SolanaToken methods - ciripel</sub> |
 | <sub>2022-03-23 15:22:42</sub> | <sub>[[simplio-app:task/11\-setup\_basic\_ci\_cd\_pipelines] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57cdaae78edac43916f191c84e71e9e8b0197ccb)</sub> | <sub>[57cdaae](https://github.com/SimplioOfficial/simplio-app/commit/57cdaae78edac43916f191c84e71e9e8b0197ccb) Subtask/11 automatic version increase (#30) - jvrastil</sub> |
-| <sub>2022-03-23 15:13:19</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cd08621b9a18440e23acc411ce662d3ed6ddbce7)</sub> | <sub>[cd08621](https://github.com/SimplioOfficial/simplio-app/commit/cd08621b9a18440e23acc411ce662d3ed6ddbce7) update to CI/CD pipelines - Automatic version i... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
