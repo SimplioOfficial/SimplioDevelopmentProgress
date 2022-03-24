@@ -27812,5 +27812,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/4c53adb46d5da9fe7aaa087470af613be288e3b5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-24 17:18:26.400000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ddef366`](https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59) fix: fixed ci with example dependency fix - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59"
+    }
   }
 ]
