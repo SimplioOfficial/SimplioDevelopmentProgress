@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-25 13:08:19</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1)</sub> | <sub>[03f6a64](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1) coverage: implement utils_test - ciripel</sub> |
 | <sub>2022-03-25 12:33:52</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4)</sub> | <sub>[55c388b](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4) coverage: implement tests for solana txes - ciripel</sub> |
 | <sub>2022-03-25 09:39:46</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e)</sub> | <sub>[51be151](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e) fix: removed example sad_face - ciripel</sub> |
 | <sub>2022-03-25 09:17:34</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd)</sub> | <sub>[5d533bf](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd) fix: removed pubspecs in example - ciripel</sub> |
