@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-25 13:15:41</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015)</sub> | <sub>[5679f47](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015) Task/solana transaction (#13) - ciripel</sub> |
 | <sub>2022-03-25 13:13:36</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8)</sub> | <sub>[e5a862a](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8) feat: increased version to 0.0.5 - ciripel</sub> |
 | <sub>2022-03-25 13:08:19</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1)</sub> | <sub>[03f6a64](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1) coverage: implement utils_test - ciripel</sub> |
 | <sub>2022-03-25 12:33:52</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4)</sub> | <sub>[55c388b](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4) coverage: implement tests for solana txes - ciripel</sub> |

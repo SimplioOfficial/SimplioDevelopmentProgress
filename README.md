@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1558 commits since 10/09/2021. You can see the complete history in
+There is a total of 1559 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-25 13:15:41</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015)</sub> | <sub>[5679f47](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015) Task/solana transaction (#13) - ciripel</sub> |
 | <sub>2022-03-25 13:13:36</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8)</sub> | <sub>[e5a862a](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8) feat: increased version to 0.0.5 - ciripel</sub> |
 | <sub>2022-03-25 13:08:19</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1)</sub> | <sub>[03f6a64](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1) coverage: implement utils_test - ciripel</sub> |
 | <sub>2022-03-25 12:33:52</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4)</sub> | <sub>[55c388b](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4) coverage: implement tests for solana txes - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1558 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-25 08:33:48</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cd033eb1f803698829b25242007dd8a6e2b79e68)</sub> | <sub>[cd033eb](https://github.com/SimplioOfficial/sio_core/commit/cd033eb1f803698829b25242007dd8a6e2b79e68) fix: example again with modified build.gradle - ciripel</sub> |
 | <sub>2022-03-25 08:15:21</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9c463751310876a6e20fc215cd05aeae7a2cf0f4)</sub> | <sub>[9c46375](https://github.com/SimplioOfficial/sio_core/commit/9c463751310876a6e20fc215cd05aeae7a2cf0f4) test: removed example to test push CI - ciripel</sub> |
 | <sub>2022-03-25 08:04:24</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/588c05a0de97311f2adbb5bcdb0bdec773ca7abd)</sub> | <sub>[588c05a](https://github.com/SimplioOfficial/sio_core/commit/588c05a0de97311f2adbb5bcdb0bdec773ca7abd) fix: corrected example to reflect sio_core 0.0.4 - ciripel</sub> |
-| <sub>2022-03-24 17:18:26</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59)</sub> | <sub>[ddef366](https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59) fix: fixed ci with example dependency fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
