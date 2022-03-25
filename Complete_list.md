@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-25 08:04:24</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/588c05a0de97311f2adbb5bcdb0bdec773ca7abd)</sub> | <sub>[588c05a](https://github.com/SimplioOfficial/sio_core/commit/588c05a0de97311f2adbb5bcdb0bdec773ca7abd) fix: corrected example to reflect sio_core 0.0.4 - ciripel</sub> |
 | <sub>2022-03-24 17:18:26</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59)</sub> | <sub>[ddef366](https://github.com/SimplioOfficial/sio_core/commit/ddef366144867eed467a61efbd9f447980c3dc59) fix: fixed ci with example dependency fix - ciripel</sub> |
 | <sub>2022-03-24 16:35:53</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4c53adb46d5da9fe7aaa087470af613be288e3b5)</sub> | <sub>[4c53adb](https://github.com/SimplioOfficial/sio_core/commit/4c53adb46d5da9fe7aaa087470af613be288e3b5) chore: documentation - ciripel</sub> |
 | <sub>2022-03-24 16:16:54</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48)</sub> | <sub>[371aeaf](https://github.com/SimplioOfficial/sio_core/commit/371aeaf96873467fa97d41ff40937f5c54a98b48) fix: removed comments in broadcast - ciripel</sub> |
