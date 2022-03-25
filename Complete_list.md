@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-25 09:39:46</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e)</sub> | <sub>[51be151](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e) fix: removed example sad_face - ciripel</sub> |
 | <sub>2022-03-25 09:17:34</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd)</sub> | <sub>[5d533bf](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd) fix: removed pubspecs in example - ciripel</sub> |
 | <sub>2022-03-25 08:58:17</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1fbdcc7f3c865a43262f6a2400e43fdea03c426c)</sub> | <sub>[1fbdcc7](https://github.com/SimplioOfficial/sio_core/commit/1fbdcc7f3c865a43262f6a2400e43fdea03c426c) fix: simplified example big time - ciripel</sub> |
 | <sub>2022-03-25 08:33:48</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cd033eb1f803698829b25242007dd8a6e2b79e68)</sub> | <sub>[cd033eb](https://github.com/SimplioOfficial/sio_core/commit/cd033eb1f803698829b25242007dd8a6e2b79e68) fix: example again with modified build.gradle - ciripel</sub> |
