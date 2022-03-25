@@ -27902,5 +27902,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/1fbdcc7f3c865a43262f6a2400e43fdea03c426c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-25 09:17:34.432000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5d533bf`](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd) fix: removed pubspecs in example - ciripel",
+      "title": "[sio_core:task/solana\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd"
+    }
   }
 ]
