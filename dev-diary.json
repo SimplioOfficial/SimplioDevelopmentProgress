@@ -28064,5 +28064,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c381dddebf0f98a3aa6d1fd2b9bb51157203d60a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-27 22:00:16.959000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`aeb0aae`](https://github.com/SimplioOfficial/simplio-app/commit/aeb0aae985884fd33a4982df2d27600ff2a8cd77) Changes to run integration tests. - Mariusz",
+      "title": "[simplio-app:Mario\\_Tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aeb0aae985884fd33a4982df2d27600ff2a8cd77"
+    }
   }
 ]
