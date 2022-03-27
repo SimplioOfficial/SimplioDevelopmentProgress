@@ -28082,5 +28082,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/aeb0aae985884fd33a4982df2d27600ff2a8cd77"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-27 22:13:11.307000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5193790`](https://github.com/SimplioOfficial/simplio-app/commit/51937909b14680fb66c631ea7ab411ab23de2298) [#10] Add github actions - jvrastil\n[`0da53a6`](https://github.com/SimplioOfficial/simplio-app/commit/0da53a63e2f90144962c658817f900e254b9e7c8) [#10] Add github actions - jvrastil\n[`6774559`](https://github.com/SimplioOfficial/simplio-app/commit/67745591bcde555142de33ab2e2369a26d18a387) [#10] Add github actions - jvrastil\n[`8e66331`](https://github.com/SimplioOfficial/simplio-app/commit/8e66331842eaa895d0aae4df91bfceaacbd9d79c) [#10] Add github actions - jvrastil\n[`04a892e`](https://github.com/SimplioOfficial/simplio-app/commit/04a892e53dc4a8b6d6906e6b2a3d4d655fcadc7a) [#10] Add github actions - jvrastil",
+      "title": "[simplio-app:Mario\\_Tests] 116 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/aeb0aae98588...b7d371386d91"
+    }
   }
 ]

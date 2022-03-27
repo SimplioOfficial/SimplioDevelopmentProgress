@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1563 commits since 10/09/2021. You can see the complete history in
+There is a total of 1564 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-27 22:13:11</sub> | <sub>[[simplio-app:Mario\_Tests] 116 new commits](https://github.com/SimplioOfficial/simplio-app/compare/aeb0aae98588...b7d371386d91)</sub> | <sub>[5193790](https://github.com/SimplioOfficial/simplio-app/commit/51937909b14680fb66c631ea7ab411ab23de2298) [#10] Add github actions - jvrastil<br>[0da53a6](https://github.com/SimplioOfficial/simplio-app/commit/0da53a63e2f90144962c658817f900e254b9e7c8) [#10] Add github actions - jvrastil<br>[6774559](https://github.com/SimplioOfficial/simplio-app/commit/67745591bcde555142de33ab2e2369a26d18a387) [#10] Add github actions - jvrastil<br>[8e66331](https://github.com/SimplioOfficial/simplio-app/commit/8e66331842eaa895d0aae4df91bfceaacbd9d79c) [#10] Add github actions - jvrastil<br>[04a892e](https://github.com/SimplioOfficial/simplio-app/commit/04a892e53dc4a8b6d6906e6b2a3d4d655fcadc7a) [#10] Add github actions - jvrastil</sub> |
 | <sub>2022-03-27 22:00:16</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aeb0aae985884fd33a4982df2d27600ff2a8cd77)</sub> | <sub>[aeb0aae](https://github.com/SimplioOfficial/simplio-app/commit/aeb0aae985884fd33a4982df2d27600ff2a8cd77) Changes to run integration tests. - Mariusz</sub> |
 | <sub>2022-03-27 19:41:00</sub> | <sub>[[simplio-app:task/scaffilding\-app\-13] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c381dddebf0f98a3aa6d1fd2b9bb51157203d60a)</sub> | <sub>[c381ddd](https://github.com/SimplioOfficial/simplio-app/commit/c381dddebf0f98a3aa6d1fd2b9bb51157203d60a) removing tests for initial infrastructure - storkandstars</sub> |
 | <sub>2022-03-27 18:14:31</sub> | <sub>[[simplio-app:task/scaffilding\-app\-13] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/625a0de1e04b...38e0bbe9cb9a)</sub> | <sub>[efa3854](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil<br>[38e0bbe](https://github.com/SimplioOfficial/simplio-app/commit/38e0bbe9cb9a8f55fde845a0e710f08fc9774e1e) Merge branch 'feature/initial-infrastructure' i... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 1563 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-25 13:08:19</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1)</sub> | <sub>[03f6a64](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1) coverage: implement utils_test - ciripel</sub> |
 | <sub>2022-03-25 12:33:52</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4)</sub> | <sub>[55c388b](https://github.com/SimplioOfficial/sio_core/commit/55c388bd5d613c8d2821fd6ec1ca22ebd07a74b4) coverage: implement tests for solana txes - ciripel</sub> |
 | <sub>2022-03-25 09:39:46</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e)</sub> | <sub>[51be151](https://github.com/SimplioOfficial/sio_core/commit/51be15159147b3bb23e01f78ded2820460f32a4e) fix: removed example sad_face - ciripel</sub> |
-| <sub>2022-03-25 09:17:34</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd)</sub> | <sub>[5d533bf](https://github.com/SimplioOfficial/sio_core/commit/5d533bfc6799f31caa25bf49c06e2e37be6930fd) fix: removed pubspecs in example - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
