@@ -28028,5 +28028,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/362b8da72bafa692019d77717976fb818faf709c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-27 18:14:31.744000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`efa3854`](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil\n[`38e0bbe`](https://github.com/SimplioOfficial/simplio-app/commit/38e0bbe9cb9a8f55fde845a0e710f08fc9774e1e) Merge branch 'feature/initial-infrastructure' i... - storkandstars",
+      "title": "[simplio-app:task/scaffilding\\-app\\-13] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/625a0de1e04b...38e0bbe9cb9a"
+    }
   }
 ]
