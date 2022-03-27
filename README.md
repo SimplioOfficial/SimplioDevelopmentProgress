@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1566 commits since 10/09/2021. You can see the complete history in
+There is a total of 1567 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-27 22:47:05</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3f3bb2d09d59a5a6fe08b22d3ce59cc7c32ef1a)</sub> | <sub>[b3f3bb2](https://github.com/SimplioOfficial/simplio-app/commit/b3f3bb2d09d59a5a6fe08b22d3ce59cc7c32ef1a) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 22:32:06</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce94f6f5f57f93f29bfd76138c34fc588a041c79)</sub> | <sub>[ce94f6f](https://github.com/SimplioOfficial/simplio-app/commit/ce94f6f5f57f93f29bfd76138c34fc588a041c79) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 22:23:45</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c8dfab2184510bee4f6c28e79fb81296bb4e0c8)</sub> | <sub>[0c8dfab](https://github.com/SimplioOfficial/simplio-app/commit/0c8dfab2184510bee4f6c28e79fb81296bb4e0c8) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 22:13:11</sub> | <sub>[[simplio-app:Mario\_Tests] 116 new commits](https://github.com/SimplioOfficial/simplio-app/compare/aeb0aae98588...b7d371386d91)</sub> | <sub>[5193790](https://github.com/SimplioOfficial/simplio-app/commit/51937909b14680fb66c631ea7ab411ab23de2298) [#10] Add github actions - jvrastil<br>[0da53a6](https://github.com/SimplioOfficial/simplio-app/commit/0da53a63e2f90144962c658817f900e254b9e7c8) [#10] Add github actions - jvrastil<br>[6774559](https://github.com/SimplioOfficial/simplio-app/commit/67745591bcde555142de33ab2e2369a26d18a387) [#10] Add github actions - jvrastil<br>[8e66331](https://github.com/SimplioOfficial/simplio-app/commit/8e66331842eaa895d0aae4df91bfceaacbd9d79c) [#10] Add github actions - jvrastil<br>[04a892e](https://github.com/SimplioOfficial/simplio-app/commit/04a892e53dc4a8b6d6906e6b2a3d4d655fcadc7a) [#10] Add github actions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1566 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-25 15:54:40</sub> | <sub>[[simplio-app:subtask/16\-setup\-ee\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/362b8da72bafa692019d77717976fb818faf709c)</sub> | <sub>[362b8da](https://github.com/SimplioOfficial/simplio-app/commit/362b8da72bafa692019d77717976fb818faf709c) created simple integration test - Juliana Souza</sub> |
 | <sub>2022-03-25 13:15:41</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015)</sub> | <sub>[5679f47](https://github.com/SimplioOfficial/sio_core/commit/5679f476c7223eb92a64b7483a48891817dc7015) Task/solana transaction (#13) - ciripel</sub> |
 | <sub>2022-03-25 13:13:36</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8)</sub> | <sub>[e5a862a](https://github.com/SimplioOfficial/sio_core/commit/e5a862a81256c0c79be160f1de67011a50d9abe8) feat: increased version to 0.0.5 - ciripel</sub> |
-| <sub>2022-03-25 13:08:19</sub> | <sub>[[sio_core:task/solana\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1)</sub> | <sub>[03f6a64](https://github.com/SimplioOfficial/sio_core/commit/03f6a6402d0863c8c72473b58e60c6083f943ce1) coverage: implement utils_test - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
