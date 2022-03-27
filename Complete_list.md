@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-27 23:21:15</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6492c5514e835540cf144d22d43686dde81b4bc7)</sub> | <sub>[6492c55](https://github.com/SimplioOfficial/simplio-app/commit/6492c5514e835540cf144d22d43686dde81b4bc7) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 23:17:08</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7ec9156f595e5be12dab55e78d61dfa9cbb633d7)</sub> | <sub>[7ec9156](https://github.com/SimplioOfficial/simplio-app/commit/7ec9156f595e5be12dab55e78d61dfa9cbb633d7) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 23:13:01</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbe895cf6db0820ca4770070ab1ba22150ab5856)</sub> | <sub>[cbe895c](https://github.com/SimplioOfficial/simplio-app/commit/cbe895cf6db0820ca4770070ab1ba22150ab5856) Changes in workflows - Mariusz</sub> |
 | <sub>2022-03-27 23:08:16</sub> | <sub>[[simplio-app:Mario\_Tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772675dbd34dd60e9ad1b99e3c872181766eca06)</sub> | <sub>[772675d](https://github.com/SimplioOfficial/simplio-app/commit/772675dbd34dd60e9ad1b99e3c872181766eca06) Changes in workflows - Mariusz</sub> |
