@@ -28154,5 +28154,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b3f3bb2d09d59a5a6fe08b22d3ce59cc7c32ef1a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-27 23:03:03.382000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a5067cb`](https://github.com/SimplioOfficial/simplio-app/commit/a5067cbe715ed06f0aae59107826712cdb2385e5) Changes in workflows - Mariusz",
+      "title": "[simplio-app:Mario\\_Tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a5067cbe715ed06f0aae59107826712cdb2385e5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-27 23:04:17.758000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`06aea75`](https://github.com/SimplioOfficial/simplio-app/commit/06aea750a157bc4c6b774163502fa13164a750a7) Changes in workflows - Mariusz",
+      "title": "[simplio-app:Mario\\_Tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/06aea750a157bc4c6b774163502fa13164a750a7"
+    }
   }
 ]
