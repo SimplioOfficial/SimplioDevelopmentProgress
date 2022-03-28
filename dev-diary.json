@@ -28298,5 +28298,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/eff7641458848c81017828abe7e0fdb03b9ba149"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-28 08:10:36.627000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f4de406`](https://github.com/SimplioOfficial/sio_core/commit/f4de406a8d7f0fa9f6efa6e0cdf5a5fb059d43d4) fix: add Sol & SolToken tx length tests - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f4de406a8d7f0fa9f6efa6e0cdf5a5fb059d43d4"
+    }
   }
 ]
