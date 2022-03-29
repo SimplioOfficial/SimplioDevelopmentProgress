@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1589 commits since 10/09/2021. You can see the complete history in
+There is a total of 1590 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-29 23:51:31</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a889172695d013aa141fea6cc1c64e0fcde08cc4)</sub> | <sub>[a889172](https://github.com/SimplioOfficial/simplio-app/commit/a889172695d013aa141fea6cc1c64e0fcde08cc4) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-29 23:44:29</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/733dac5d767a771b363f48bc65d4a88ae6730bb9)</sub> | <sub>[733dac5](https://github.com/SimplioOfficial/simplio-app/commit/733dac5d767a771b363f48bc65d4a88ae6730bb9) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-29 23:35:19</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/565609b6619dfd08bbf436c4dc0330ca516dbb60)</sub> | <sub>[565609b](https://github.com/SimplioOfficial/simplio-app/commit/565609b6619dfd08bbf436c4dc0330ca516dbb60) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-29 23:34:38</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/908541f7e9e069b902826bba1652812ba2924af1)</sub> | <sub>[908541f](https://github.com/SimplioOfficial/simplio-app/commit/908541f7e9e069b902826bba1652812ba2924af1) Fixing framework - Mariusz</sub> |
@@ -17,6 +18,5 @@ There is a total of 1589 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-29 23:20:27</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a01553ff70c4f75cc3eeedcbaabd3c6b5e5042a7)</sub> | <sub>[a01553f](https://github.com/SimplioOfficial/simplio-app/commit/a01553ff70c4f75cc3eeedcbaabd3c6b5e5042a7) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-29 23:13:42</sub> | <sub>[[simplio-app:MarioTest] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a01be5ca6ef9^...82c2e21d36cd)</sub> | <sub>[a01be5c](https://github.com/SimplioOfficial/simplio-app/commit/a01be5ca6ef948ca8067cb2a38b9e30c84abfcf8) Fixing framework - Mariusz<br>[7f8d3d3](https://github.com/SimplioOfficial/simplio-app/commit/7f8d3d3aa57a6ebb49a17ed7f38eec70292bcad0) Fixing framework - Mariusz<br>[82c2e21](https://github.com/SimplioOfficial/simplio-app/commit/82c2e21d36cd67ebf0a1ec96487b4e86f628b04e) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-29 15:47:40</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4fb195b60c403f8547845e9b4096af9255ceae1c)</sub> | <sub>[4fb195b](https://github.com/SimplioOfficial/sio_core/commit/4fb195b60c403f8547845e9b4096af9255ceae1c) task: implement utxo tx build - ciripel</sub> |
-| <sub>2022-03-29 14:54:09</sub> | <sub>[[simplio-mobile:master] 23 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ba3fa5ebf0f9...13d794643f7e)</sub> | <sub>[0ede705](https://github.com/SimplioOfficial/simplio-mobile/commit/0ede705a6589252e649100a6d26b45edb2edfd20) increase versions - jvrastil<br>[0de98f7](https://github.com/SimplioOfficial/simplio-mobile/commit/0de98f702507fa7efcea2938255a845f8cb6a909) Merge branch 'v0.3.0' into testing - jvrastil<br>[e601e0c](https://github.com/SimplioOfficial/simplio-mobile/commit/e601e0cbcb9d004e1554d71780e23355b9e15830) Revert "increase versions" - jvrastil<br>[c902b41](https://github.com/SimplioOfficial/simplio-mobile/commit/c902b419d16c3a7f037283305e50f70c05cfcd5d) Revert "switching http provider for register" - jvrastil<br>[a7290d9](https://github.com/SimplioOfficial/simplio-mobile/commit/a7290d92fcb6002b58de458496a435441bd82663) Revert "updated build script" - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
