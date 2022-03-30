@@ -29162,5 +29162,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/092835311f03c4fd9ae65b121aca1b20bab8efcb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-30 10:13:00.041000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`420bff0`](https://github.com/SimplioOfficial/simplio-app/commit/420bff0983a97215a1ed33c76501d78f1732e5de) pokus - jvrastil",
+      "title": "[simplio-app:subtask/11\\-automatic\\_version\\_increase\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/420bff0983a97215a1ed33c76501d78f1732e5de"
+    }
   }
 ]
