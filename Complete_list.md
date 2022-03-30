@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-30 12:37:43</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b)</sub> | <sub>[ab434e2](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b) fix: Migrate to Blockbook v2 - ciripel</sub> |
 | <sub>2022-03-30 12:21:19</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1)</sub> | <sub>[992ab1f](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1) fix: Refactor exceptions - ciripel</sub> |
 | <sub>2022-03-30 12:09:31</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5)</sub> | <sub>[2697c8a](https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5) test: Add utxoCoin transaction exception tests - ciripel</sub> |
 | <sub>2022-03-30 10:44:39</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9f122442e535c88c5dcad6dae178e60d04c51e6)</sub> | <sub>[c9f1224](https://github.com/SimplioOfficial/simplio-app/commit/c9f122442e535c88c5dcad6dae178e60d04c51e6) fixes before review - jvrastil</sub> |
