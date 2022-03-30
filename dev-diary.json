@@ -29411,5 +29411,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-30 14:35:31.284000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2e987c9`](https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331) subtask: add broadcast litecoin method and test - ciripel",
+      "title": "[sio_core:task/litecoin\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331"
+    }
   }
 ]
