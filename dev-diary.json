@@ -29357,5 +29357,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c9f122442e535c88c5dcad6dae178e60d04c51e6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-30 12:09:31.840000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2697c8a`](https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5) test: Add utxoCoin transaction exception tests - ciripel",
+      "title": "[sio_core:task/litecoin\\_transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5"
+    }
   }
 ]
