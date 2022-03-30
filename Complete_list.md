@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-30 07:05:00</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/313cad8d58d26dd09b60277e259653a9042cad83)</sub> | <sub>[313cad8](https://github.com/SimplioOfficial/sio_core/commit/313cad8d58d26dd09b60277e259653a9042cad83) test: Add valid utxoCoin transaction - ciripel</sub> |
 | <sub>2022-03-30 06:31:23</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/239ac0f8281c6ea22d6e027da80eaf80d2978d3d)</sub> | <sub>[239ac0f](https://github.com/SimplioOfficial/sio_core/commit/239ac0f8281c6ea22d6e027da80eaf80d2978d3d) test: add getUtxo test - ciripel</sub> |
 | <sub>2022-03-30 00:52:37</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38bbed31d11d8ec5302b403e1ad86437e69e67a6)</sub> | <sub>[38bbed3](https://github.com/SimplioOfficial/simplio-app/commit/38bbed31d11d8ec5302b403e1ad86437e69e67a6) Fixing framework - Mariusz</sub> |
 | <sub>2022-03-30 00:42:17</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf5a17bda7744622d65a9e0bbf05402c18bda70f)</sub> | <sub>[bf5a17b](https://github.com/SimplioOfficial/simplio-app/commit/bf5a17bda7744622d65a9e0bbf05402c18bda70f) Fixing framework - Mariusz</sub> |
