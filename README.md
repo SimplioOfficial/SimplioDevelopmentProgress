@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1660 commits since 10/09/2021. You can see the complete history in
+There is a total of 1661 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 22:42:28</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54cdd4fade5548d8b8ebcf337c50930e3b0e51c5)</sub> | <sub>[54cdd4f](https://github.com/SimplioOfficial/simplio-app/commit/54cdd4fade5548d8b8ebcf337c50930e3b0e51c5) Test iOS - Mariusz</sub> |
 | <sub>2022-03-31 22:28:37</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a)</sub> | <sub>[89c059d](https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a) Adding new iOS to tests - Mariusz</sub> |
 | <sub>2022-03-31 22:21:45</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/441d9a271b769ba838a062396a52cadcc73718a8)</sub> | <sub>[441d9a2](https://github.com/SimplioOfficial/simplio-app/commit/441d9a271b769ba838a062396a52cadcc73718a8) Improve running iOS - Mariusz</sub> |
 | <sub>2022-03-31 20:59:54</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e)</sub> | <sub>[5dc50ea](https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e) Breaking Test to check flow - Mariusz</sub> |
@@ -17,6 +18,5 @@ There is a total of 1660 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-31 20:07:47</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf)</sub> | <sub>[e9656e0](https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 20:00:20</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63862ea65bae3cf49bd163c2fc928894cd118ffe)</sub> | <sub>[63862ea](https://github.com/SimplioOfficial/simplio-app/commit/63862ea65bae3cf49bd163c2fc928894cd118ffe) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 19:50:49</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b6117499ec803fe037f3f9797132b3322915affb)</sub> | <sub>[b611749](https://github.com/SimplioOfficial/simplio-app/commit/b6117499ec803fe037f3f9797132b3322915affb) Fixing frameworkmmm - Mariusz</sub> |
-| <sub>2022-03-31 15:05:38</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/394e5b6df23d74f4225992d706098f60e9ee18f3)</sub> | <sub>[394e5b6](https://github.com/SimplioOfficial/simplio-app/commit/394e5b6df23d74f4225992d706098f60e9ee18f3) Fixing frameworkmmm - Mariusz</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

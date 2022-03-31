@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 22:42:28</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54cdd4fade5548d8b8ebcf337c50930e3b0e51c5)</sub> | <sub>[54cdd4f](https://github.com/SimplioOfficial/simplio-app/commit/54cdd4fade5548d8b8ebcf337c50930e3b0e51c5) Test iOS - Mariusz</sub> |
 | <sub>2022-03-31 22:28:37</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a)</sub> | <sub>[89c059d](https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a) Adding new iOS to tests - Mariusz</sub> |
 | <sub>2022-03-31 22:21:45</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/441d9a271b769ba838a062396a52cadcc73718a8)</sub> | <sub>[441d9a2](https://github.com/SimplioOfficial/simplio-app/commit/441d9a271b769ba838a062396a52cadcc73718a8) Improve running iOS - Mariusz</sub> |
 | <sub>2022-03-31 20:59:54</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e)</sub> | <sub>[5dc50ea](https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e) Breaking Test to check flow - Mariusz</sub> |
