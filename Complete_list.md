@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 15:05:38</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/394e5b6df23d74f4225992d706098f60e9ee18f3)</sub> | <sub>[394e5b6](https://github.com/SimplioOfficial/simplio-app/commit/394e5b6df23d74f4225992d706098f60e9ee18f3) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 14:10:35</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6c0b8490917798f2d1a8435e040e99da57ee21d5)</sub> | <sub>[6c0b849](https://github.com/SimplioOfficial/sio_core/commit/6c0b8490917798f2d1a8435e040e99da57ee21d5) task: Add BSC native tx - ciripel</sub> |
 | <sub>2022-03-31 08:13:48</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0)</sub> | <sub>[2740b00](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0) Utxo coins broadcasting (#25) - ciripel</sub> |
 | <sub>2022-03-31 08:03:15</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125)</sub> | <sub>[7e215e1](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125) fix: deprecated BlockHashRequest for solana - ciripel</sub> |
