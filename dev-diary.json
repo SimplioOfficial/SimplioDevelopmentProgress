@@ -29969,5 +29969,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/653a68d6911fce7fd7decc3cbf91516cba0bc1d0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 23:20:51.931000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`7a5550d`](https://github.com/SimplioOfficial/simplio-app/commit/7a5550db941fec751a315ccdeb2518fd365087bc) Test iOS #9 - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7a5550db941fec751a315ccdeb2518fd365087bc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 23:22:29.221000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f5aac84`](https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5) Test iOS #10 - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5"
+    }
   }
 ]
