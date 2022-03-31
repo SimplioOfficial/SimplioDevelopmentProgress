@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 07:57:14</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940)</sub> | <sub>[0e783d2](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940) subtask: Add FLUX transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:21:41</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e)</sub> | <sub>[60cfb13](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e) subtask: add BCH transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:13:31</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7c990efa72e86337ec160b98e600693597a0e51c)</sub> | <sub>[7c990ef](https://github.com/SimplioOfficial/sio_core/commit/7c990efa72e86337ec160b98e600693597a0e51c) subtask: Add ZEC transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:03:20</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701)</sub> | <sub>[5adaeca](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701) subtask: Add DGB transaction broadcast - ciripel</sub> |
