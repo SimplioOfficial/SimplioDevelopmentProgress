@@ -29753,5 +29753,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/52c8e772e94114b1d715617833326ddcf01d9d32"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 20:58:26.053000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a685899`](https://github.com/SimplioOfficial/simplio-app/commit/a6858992dc257855f41de1a83ccf468e339c8089) Breaking Test to check flow - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a6858992dc257855f41de1a83ccf468e339c8089"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 20:59:54.413000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5dc50ea`](https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e) Breaking Test to check flow - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5dc50ea3b325ce6a7dfa56aa37b70f1bac70070e"
+    }
   }
 ]
