@@ -30023,5 +30023,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/afdcda740a4ce1ccb28ec8650cb2c8166a321a76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 23:47:46.075000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`56b594a`](https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269) Last changes on test pipeline. - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269"
+    }
   }
 ]
