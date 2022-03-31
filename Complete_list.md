@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 20:28:07</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/52c8e772e94114b1d715617833326ddcf01d9d32)</sub> | <sub>[52c8e77](https://github.com/SimplioOfficial/simplio-app/commit/52c8e772e94114b1d715617833326ddcf01d9d32) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 20:14:35</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d2be74d1f288498fe25fd4a05628da0f6b08c6f)</sub> | <sub>[4d2be74](https://github.com/SimplioOfficial/simplio-app/commit/4d2be74d1f288498fe25fd4a05628da0f6b08c6f) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 20:07:47</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf)</sub> | <sub>[e9656e0](https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf) Fixing frameworkmmm - Mariusz</sub> |
 | <sub>2022-03-31 20:00:20</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63862ea65bae3cf49bd163c2fc928894cd118ffe)</sub> | <sub>[63862ea](https://github.com/SimplioOfficial/simplio-app/commit/63862ea65bae3cf49bd163c2fc928894cd118ffe) Fixing frameworkmmm - Mariusz</sub> |
