@@ -29699,5 +29699,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/63862ea65bae3cf49bd163c2fc928894cd118ffe"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 20:07:47.671000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`e9656e0`](https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf) Fixing frameworkmmm - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e9656e0b99719c7b817164bc16e8ea75bbbd3bbf"
+    }
   }
 ]
