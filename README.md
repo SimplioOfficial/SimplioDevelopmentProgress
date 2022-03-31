@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1648 commits since 10/09/2021. You can see the complete history in
+There is a total of 1649 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 08:13:48</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0)</sub> | <sub>[2740b00](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0) Utxo coins broadcasting (#25) - ciripel</sub> |
 | <sub>2022-03-31 08:03:15</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125)</sub> | <sub>[7e215e1](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125) fix: deprecated BlockHashRequest for solana - ciripel</sub> |
 | <sub>2022-03-31 07:57:14</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940)</sub> | <sub>[0e783d2](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940) subtask: Add FLUX transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:21:41</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e)</sub> | <sub>[60cfb13](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e) subtask: add BCH transaction broadcast - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1648 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-31 06:58:03</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa)</sub> | <sub>[fb7e0ed](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa) subtask: Add DASH transactions broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:49:58</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af)</sub> | <sub>[8d43ee2](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af) subtask: Add BTC transaction broadcast (#24) - ciripel</sub> |
 | <sub>2022-03-31 06:40:55</sub> | <sub>[[sio_core:task/btc\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8)</sub> | <sub>[218d256](https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8) subtask: Add BTC transaction broadcast - ciripel</sub> |
-| <sub>2022-03-31 05:57:11</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425)</sub> | <sub>[c485017](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425) Task/litecoin transaction (#16) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

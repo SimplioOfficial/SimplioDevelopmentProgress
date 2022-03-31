@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 08:13:48</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0)</sub> | <sub>[2740b00](https://github.com/SimplioOfficial/sio_core/commit/2740b001e53839bc87a8cec9485e2b8f636c93c0) Utxo coins broadcasting (#25) - ciripel</sub> |
 | <sub>2022-03-31 08:03:15</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125)</sub> | <sub>[7e215e1](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125) fix: deprecated BlockHashRequest for solana - ciripel</sub> |
 | <sub>2022-03-31 07:57:14</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940)</sub> | <sub>[0e783d2](https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940) subtask: Add FLUX transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:21:41</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e)</sub> | <sub>[60cfb13](https://github.com/SimplioOfficial/sio_core/commit/60cfb13dbfa47cbea0b3d476f02b9fb42bab437e) subtask: add BCH transaction broadcast - ciripel</sub> |
