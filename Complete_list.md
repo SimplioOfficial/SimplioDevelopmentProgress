@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 07:13:31</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7c990efa72e86337ec160b98e600693597a0e51c)</sub> | <sub>[7c990ef](https://github.com/SimplioOfficial/sio_core/commit/7c990efa72e86337ec160b98e600693597a0e51c) subtask: Add ZEC transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 07:03:20</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701)</sub> | <sub>[5adaeca](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701) subtask: Add DGB transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:59:46</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6)</sub> | <sub>[6dce098](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6) subtask: Add DOGE transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:58:03</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa)</sub> | <sub>[fb7e0ed](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa) subtask: Add DASH transactions broadcast - ciripel</sub> |
