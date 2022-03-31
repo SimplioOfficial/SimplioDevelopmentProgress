@@ -29591,5 +29591,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/0e783d2da914dfe33fdbbd0d2e3983d8809c1940"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 08:03:15.841000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7e215e1`](https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125) fix: deprecated BlockHashRequest for solana - ciripel",
+      "title": "[sio_core:task/dash\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/7e215e124a5fbab61b9c6953af0c6f7692680125"
+    }
   }
 ]
