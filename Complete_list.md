@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 23:08:05</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0e6fe535234e40dda5f4d54b0f7fe3915da86e5)</sub> | <sub>[d0e6fe5](https://github.com/SimplioOfficial/simplio-app/commit/d0e6fe535234e40dda5f4d54b0f7fe3915da86e5) Test iOS #7 - Mariusz</sub> |
 | <sub>2022-03-31 23:03:36</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb8bfcd2dee5985dda400892776463d7c3ec3ff8)</sub> | <sub>[bb8bfcd](https://github.com/SimplioOfficial/simplio-app/commit/bb8bfcd2dee5985dda400892776463d7c3ec3ff8) Test iOS #6 - Mariusz</sub> |
 | <sub>2022-03-31 23:02:32</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/595df9c3fe0361b62af8d9b706a81da917801449)</sub> | <sub>[595df9c](https://github.com/SimplioOfficial/simplio-app/commit/595df9c3fe0361b62af8d9b706a81da917801449) Test iOS #5 - Mariusz</sub> |
 | <sub>2022-03-31 22:54:53</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a922259a056e78102c693057469b414f37fa5347)</sub> | <sub>[a922259](https://github.com/SimplioOfficial/simplio-app/commit/a922259a056e78102c693057469b414f37fa5347) Test iOS #4 - Mariusz</sub> |
