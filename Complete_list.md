@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 05:57:11</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425)</sub> | <sub>[c485017](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425) Task/litecoin transaction (#16) - ciripel</sub> |
 | <sub>2022-03-30 14:35:31</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331)</sub> | <sub>[2e987c9](https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331) subtask: add broadcast litecoin method and test - ciripel</sub> |
 | <sub>2022-03-30 12:37:43</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b)</sub> | <sub>[ab434e2](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b) fix: Migrate to Blockbook v2 - ciripel</sub> |
 | <sub>2022-03-30 12:21:19</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1)</sub> | <sub>[992ab1f](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1) fix: Refactor exceptions - ciripel</sub> |
