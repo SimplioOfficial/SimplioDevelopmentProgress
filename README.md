@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1643 commits since 10/09/2021. You can see the complete history in
+There is a total of 1644 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 07:03:20</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701)</sub> | <sub>[5adaeca](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701) subtask: Add DGB transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:59:46</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6)</sub> | <sub>[6dce098](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6) subtask: Add DOGE transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:58:03</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa)</sub> | <sub>[fb7e0ed](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa) subtask: Add DASH transactions broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:49:58</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af)</sub> | <sub>[8d43ee2](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af) subtask: Add BTC transaction broadcast (#24) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1643 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-03-30 12:37:43</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b)</sub> | <sub>[ab434e2](https://github.com/SimplioOfficial/sio_core/commit/ab434e285e900b92a6d50742cd965adc74f0762b) fix: Migrate to Blockbook v2 - ciripel</sub> |
 | <sub>2022-03-30 12:21:19</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1)</sub> | <sub>[992ab1f](https://github.com/SimplioOfficial/sio_core/commit/992ab1f765b4c6b53d8726aaaae1f05c503fb4d1) fix: Refactor exceptions - ciripel</sub> |
 | <sub>2022-03-30 12:09:31</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5)</sub> | <sub>[2697c8a](https://github.com/SimplioOfficial/sio_core/commit/2697c8acc0f5101e0ae2d487912c51d22704fdc5) test: Add utxoCoin transaction exception tests - ciripel</sub> |
-| <sub>2022-03-30 10:44:39</sub> | <sub>[[simplio-app:subtask/11\-automatic\_version\_increase\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9f122442e535c88c5dcad6dae178e60d04c51e6)</sub> | <sub>[c9f1224](https://github.com/SimplioOfficial/simplio-app/commit/c9f122442e535c88c5dcad6dae178e60d04c51e6) fixes before review - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

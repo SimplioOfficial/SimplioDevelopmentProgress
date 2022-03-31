@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 07:03:20</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701)</sub> | <sub>[5adaeca](https://github.com/SimplioOfficial/sio_core/commit/5adaecaf63ffb741d720a84f8f908c42c537c701) subtask: Add DGB transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:59:46</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6)</sub> | <sub>[6dce098](https://github.com/SimplioOfficial/sio_core/commit/6dce098e2ed96d59d485a39c307782c3dc1561d6) subtask: Add DOGE transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:58:03</sub> | <sub>[[sio_core:task/dash\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa)</sub> | <sub>[fb7e0ed](https://github.com/SimplioOfficial/sio_core/commit/fb7e0edea9e18a5b92527bbd00f0502ef0970aaa) subtask: Add DASH transactions broadcast - ciripel</sub> |
 | <sub>2022-03-31 06:49:58</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af)</sub> | <sub>[8d43ee2](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af) subtask: Add BTC transaction broadcast (#24) - ciripel</sub> |
