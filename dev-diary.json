@@ -29447,5 +29447,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 06:40:55.313000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`218d256`](https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8) subtask: Add BTC transaction broadcast - ciripel",
+      "title": "[sio_core:task/btc\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8"
+    }
   }
 ]
