@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-03-31 06:49:58</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af)</sub> | <sub>[8d43ee2](https://github.com/SimplioOfficial/sio_core/commit/8d43ee21531f4abe055dad43f6e810d8fb1701af) subtask: Add BTC transaction broadcast (#24) - ciripel</sub> |
 | <sub>2022-03-31 06:40:55</sub> | <sub>[[sio_core:task/btc\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8)</sub> | <sub>[218d256](https://github.com/SimplioOfficial/sio_core/commit/218d256236e4efd28b0d186d2e811cb1c9aceba8) subtask: Add BTC transaction broadcast - ciripel</sub> |
 | <sub>2022-03-31 05:57:11</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425)</sub> | <sub>[c485017](https://github.com/SimplioOfficial/sio_core/commit/c485017b3f2238d4c358c1206a6b2a2c02af4425) Task/litecoin transaction (#16) - ciripel</sub> |
 | <sub>2022-03-30 14:35:31</sub> | <sub>[[sio_core:task/litecoin\_transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331)</sub> | <sub>[2e987c9](https://github.com/SimplioOfficial/sio_core/commit/2e987c920925843d70a45747f22fd852dbef6331) subtask: add broadcast litecoin method and test - ciripel</sub> |
