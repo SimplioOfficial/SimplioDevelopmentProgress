@@ -29807,5 +29807,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/441d9a271b769ba838a062396a52cadcc73718a8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-03-31 22:28:37.700000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`89c059d`](https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a) Adding new iOS to tests - Mariusz",
+      "title": "[simplio-app:MarioTest] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/89c059de512e047e4b5c6e79ceb8ad007f20f23a"
+    }
   }
 ]
