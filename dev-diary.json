@@ -30113,5 +30113,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4095db8fbca4bbf5fe151f72657c75fdc42b212f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-01 18:15:38.075000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`019f79f`](https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86) add unit tests for ToggleItem widget - jvrastil",
+      "title": "[simplio-app:task/scaffilding\\-app\\-13] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86"
+    }
   }
 ]
