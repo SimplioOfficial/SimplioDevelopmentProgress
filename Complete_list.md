@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-01 07:50:37</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8f7ef8d7c16332b98bb0b8bb9982ffd0948a714)</sub> | <sub>[d8f7ef8](https://github.com/SimplioOfficial/sio_core/commit/d8f7ef8d7c16332b98bb0b8bb9982ffd0948a714) subtask: add BSC native tx tests - ciripel</sub> |
 | <sub>2022-03-31 23:47:46</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269)</sub> | <sub>[56b594a](https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269) Last changes on test pipeline. - Mariusz</sub> |
 | <sub>2022-03-31 23:29:49</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/afdcda740a4ce1ccb28ec8650cb2c8166a321a76)</sub> | <sub>[afdcda7](https://github.com/SimplioOfficial/simplio-app/commit/afdcda740a4ce1ccb28ec8650cb2c8166a321a76) Test iOS #11 - Mariusz</sub> |
 | <sub>2022-03-31 23:22:29</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5)</sub> | <sub>[f5aac84](https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5) Test iOS #10 - Mariusz</sub> |
