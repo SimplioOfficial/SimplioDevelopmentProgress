@@ -30059,5 +30059,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/d8f7ef8d7c16332b98bb0b8bb9982ffd0948a714"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-01 08:52:02.387000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b35e7b5`](https://github.com/SimplioOfficial/simplio-app/commit/b35e7b58a186856df0aff27bef48ed3c119dccd5) [#34] Add basic splashscreen - jvrastil",
+      "title": "[simplio-app:task/34\\-splashscreen\\_setup] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b35e7b58a186856df0aff27bef48ed3c119dccd5"
+    }
   }
 ]
