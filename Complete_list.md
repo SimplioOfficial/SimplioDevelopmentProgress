@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-04 07:27:26</sub> | <sub>[[simplio-app:task/34\-splashscreen\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81617114f59fd965ae5ea7949fdae45503c15287)</sub> | <sub>[8161711](https://github.com/SimplioOfficial/simplio-app/commit/81617114f59fd965ae5ea7949fdae45503c15287) remove empty file - jvrastil</sub> |
 | <sub>2022-04-04 06:58:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b35e7b58a186...1a1bed3f6b33)</sub> |
 | <sub>2022-04-01 19:09:45</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc)</sub> | <sub>[0cfad07](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-01 19:07:11</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05)</sub> | <sub>[e0ea63b](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05) Task/scaffolding app 13 (#32) - storkandstars</sub> |
