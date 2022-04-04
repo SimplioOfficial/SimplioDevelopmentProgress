@@ -30167,5 +30167,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-04 06:58:09.792000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b35e7b58a186...1a1bed3f6b33)",
+      "title": "[simplio-app] Branch task/34\\-splashscreen\\_setup was force-pushed to `1a1bed3`",
+      "type": "rich"
+    }
   }
 ]

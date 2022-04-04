@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1679 commits since 10/09/2021. You can see the complete history in
+There is a total of 1680 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-04 06:58:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b35e7b58a186...1a1bed3f6b33)</sub> |
 | <sub>2022-04-01 19:09:45</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc)</sub> | <sub>[0cfad07](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-01 19:07:11</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05)</sub> | <sub>[e0ea63b](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05) Task/scaffolding app 13 (#32) - storkandstars</sub> |
 | <sub>2022-04-01 18:15:38</sub> | <sub>[[simplio-app:task/scaffilding\-app\-13] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86)</sub> | <sub>[019f79f](https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86) add unit tests for ToggleItem widget - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1679 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-01 07:50:37</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8f7ef8d7c16332b98bb0b8bb9982ffd0948a714)</sub> | <sub>[d8f7ef8](https://github.com/SimplioOfficial/sio_core/commit/d8f7ef8d7c16332b98bb0b8bb9982ffd0948a714) subtask: add BSC native tx tests - ciripel</sub> |
 | <sub>2022-03-31 23:47:46</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269)</sub> | <sub>[56b594a](https://github.com/SimplioOfficial/simplio-app/commit/56b594a6eba9e3e0c808c0e319a45850230aa269) Last changes on test pipeline. - Mariusz</sub> |
 | <sub>2022-03-31 23:29:49</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/afdcda740a4ce1ccb28ec8650cb2c8166a321a76)</sub> | <sub>[afdcda7](https://github.com/SimplioOfficial/simplio-app/commit/afdcda740a4ce1ccb28ec8650cb2c8166a321a76) Test iOS #11 - Mariusz</sub> |
-| <sub>2022-03-31 23:22:29</sub> | <sub>[[simplio-app:MarioTest] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5)</sub> | <sub>[f5aac84](https://github.com/SimplioOfficial/simplio-app/commit/f5aac849eec32b301a46432fa5341e1018bdd4d5) Test iOS #10 - Mariusz</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
