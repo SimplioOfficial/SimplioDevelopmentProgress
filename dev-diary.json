@@ -30202,5 +30202,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/81617114f59fd965ae5ea7949fdae45503c15287"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-05 08:12:38.646000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`13a019a`](https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a) subtast: broadcast BSC transaction - ciripel",
+      "title": "[sio_core:task/eth\\_bsc\\_transactions] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a"
+    }
   }
 ]
