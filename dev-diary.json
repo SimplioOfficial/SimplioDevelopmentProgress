@@ -30220,5 +30220,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-05 15:01:03.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4e112ed`](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944) task: Add BSC token tx and tests - ciripel",
+      "title": "[sio_core:task/eth\\_bsc\\_transactions] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944"
+    }
   }
 ]
