@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-06 08:01:51</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel</sub> |
 | <sub>2022-04-06 07:34:42</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72)</sub> | <sub>[cf338d8](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72) task: ETH tx, ETH_ERC20 tx, ETC tx and broadcasts - ciripel</sub> |
 | <sub>2022-04-05 15:01:03</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944)</sub> | <sub>[4e112ed](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944) task: Add BSC token tx and tests - ciripel</sub> |
 | <sub>2022-04-05 08:12:38</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a)</sub> | <sub>[13a019a](https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a) subtast: broadcast BSC transaction - ciripel</sub> |
