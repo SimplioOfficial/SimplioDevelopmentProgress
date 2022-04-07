@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-07 13:39:48</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8)</sub> | <sub>[f1db274](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8) chore: refactor latestBlockHash - ciripel</sub> |
 | <sub>2022-04-07 13:17:38</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5)</sub> | <sub>[aa8f511](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel</sub> |
 | <sub>2022-04-07 13:00:28</sub> | <sub>[[sio_core:refactor/split\_online\_offline] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488)</sub> | <sub>[629770a](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488) subtask: Split online/offline functions - ciripel</sub> |
 | <sub>2022-04-06 08:01:51</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel</sub> |
