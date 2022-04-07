@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1688 commits since 10/09/2021. You can see the complete history in
+There is a total of 1689 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-07 17:21:31</sub> | <sub>[[simplio-app:task/integration\_test\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914)</sub> | <sub>[6400a0b](https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-07 13:39:48</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8)</sub> | <sub>[f1db274](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8) chore: refactor latestBlockHash - ciripel</sub> |
 | <sub>2022-04-07 13:17:38</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5)</sub> | <sub>[aa8f511](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel</sub> |
 | <sub>2022-04-07 13:00:28</sub> | <sub>[[sio_core:refactor/split\_online\_offline] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488)</sub> | <sub>[629770a](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488) subtask: Split online/offline functions - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1688 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-05 08:12:38</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a)</sub> | <sub>[13a019a](https://github.com/SimplioOfficial/sio_core/commit/13a019ab52b582aae92cf296e7004cce73ec383a) subtast: broadcast BSC transaction - ciripel</sub> |
 | <sub>2022-04-04 07:27:26</sub> | <sub>[[simplio-app:task/34\-splashscreen\_setup] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81617114f59fd965ae5ea7949fdae45503c15287)</sub> | <sub>[8161711](https://github.com/SimplioOfficial/simplio-app/commit/81617114f59fd965ae5ea7949fdae45503c15287) remove empty file - jvrastil</sub> |
 | <sub>2022-04-04 06:58:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b35e7b58a186...1a1bed3f6b33)</sub> |
-| <sub>2022-04-01 19:09:45</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc)</sub> | <sub>[0cfad07](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -30328,5 +30328,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-07 17:21:31.149000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6400a0b`](https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914) Adding Integration Tests - Mariusz",
+      "title": "[simplio-app:task/integration\\_test\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914"
+    }
   }
 ]
