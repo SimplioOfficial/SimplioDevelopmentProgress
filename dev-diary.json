@@ -30346,5 +30346,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-07 20:56:33.315000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`4465f80`](https://github.com/SimplioOfficial/simplio-app/commit/4465f802d544868363c124b990275f9adeef58e2) Merge branch 'task/scaffilding-app-13' of https... - Mariusz\n[`00a1178`](https://github.com/SimplioOfficial/simplio-app/commit/00a11784db3239b4a973bae68e4365de8680f898) Merge branch 'task/11-setup_basic_ci_cd_pipelin... - Mariusz\n[`9e65927`](https://github.com/SimplioOfficial/simplio-app/commit/9e65927c34606116eb4a19b7c10b354161de5857) Adding Integration Tests - Mariusz\n[`01c5dd4`](https://github.com/SimplioOfficial/simplio-app/commit/01c5dd4604251205c03fe25336f1ed619bc5c43d) Adding Integration Tests - Mariusz",
+      "title": "[simplio-app:Mario\\_test] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4465f802d544^...01c5dd460425"
+    }
   }
 ]
