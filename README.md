@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1685 commits since 10/09/2021. You can see the complete history in
+There is a total of 1686 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-07 13:00:28</sub> | <sub>[[sio_core:refactor/split\_online\_offline] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488)</sub> | <sub>[629770a](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488) subtask: Split online/offline functions - ciripel</sub> |
 | <sub>2022-04-06 08:01:51</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel</sub> |
 | <sub>2022-04-06 07:34:42</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72)</sub> | <sub>[cf338d8](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72) task: ETH tx, ETH_ERC20 tx, ETC tx and broadcasts - ciripel</sub> |
 | <sub>2022-04-05 15:01:03</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944)</sub> | <sub>[4e112ed](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944) task: Add BSC token tx and tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1685 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-01 19:09:45</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc)</sub> | <sub>[0cfad07](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-01 19:07:11</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05)</sub> | <sub>[e0ea63b](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05) Task/scaffolding app 13 (#32) - storkandstars</sub> |
 | <sub>2022-04-01 18:15:38</sub> | <sub>[[simplio-app:task/scaffilding\-app\-13] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86)</sub> | <sub>[019f79f](https://github.com/SimplioOfficial/simplio-app/commit/019f79f6c15362fa1f1c2ca1e784d53105308d86) add unit tests for ToggleItem widget - jvrastil</sub> |
-| <sub>2022-04-01 12:38:03</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4095db8fbca4bbf5fe151f72657c75fdc42b212f)</sub> | <sub>[4095db8](https://github.com/SimplioOfficial/simplio-app/commit/4095db8fbca4bbf5fe151f72657c75fdc42b212f) [automated commit] Version increase - GitHub Bot</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
