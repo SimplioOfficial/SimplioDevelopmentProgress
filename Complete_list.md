@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 17:29:12</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb)</sub> | <sub>[393b310](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb) Appium configuration with flutter and dart - Juliana Souza</sub> |
 | <sub>2022-04-08 16:53:44</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930)</sub> | <sub>[f138a00](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930) increase versions - jvrastil</sub> |
 | <sub>2022-04-08 15:17:01</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd)</sub> | <sub>[58b289c](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd) chore: increased version to 0.0.6 - ciripel</sub> |
 | <sub>2022-04-08 15:10:30</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97)</sub> | <sub>[e8e924b](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97) fix: min tx in utxo list - ciripel</sub> |
