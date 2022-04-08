@@ -30526,5 +30526,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-08 18:54:27.503000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`76c3e50`](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1699 commits since 10/09/2021. You can see the complete history in
+There is a total of 1700 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 18:54:27</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f)</sub> | <sub>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel</sub> |
 | <sub>2022-04-08 17:30:28</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139)</sub> | <sub>[7922bc3](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139) Appium configuration with flutter and dart - Juliana Souza</sub> |
 | <sub>2022-04-08 17:29:12</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb)</sub> | <sub>[393b310](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb) Appium configuration with flutter and dart - Juliana Souza</sub> |
 | <sub>2022-04-08 16:53:44</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930)</sub> | <sub>[f138a00](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930) increase versions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1699 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-08 13:19:24</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19)</sub> | <sub>[264d109](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19) build fix - jvrastil</sub> |
 | <sub>2022-04-08 13:07:03</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a)</sub> | <sub>[1cb8058](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a) Task/19 - Initialize wallet seed - jvrastil</sub> |
 | <sub>2022-04-08 06:54:42</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4)</sub> | <sub>[8c982a9](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4) fix: test exceptions of non future utxoCoin - ciripel</sub> |
-| <sub>2022-04-07 20:56:33</sub> | <sub>[[simplio-app:Mario\_test] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4465f802d544^...01c5dd460425)</sub> | <sub>[4465f80](https://github.com/SimplioOfficial/simplio-app/commit/4465f802d544868363c124b990275f9adeef58e2) Merge branch 'task/scaffilding-app-13' of https... - Mariusz<br>[00a1178](https://github.com/SimplioOfficial/simplio-app/commit/00a11784db3239b4a973bae68e4365de8680f898) Merge branch 'task/11-setup_basic_ci_cd_pipelin... - Mariusz<br>[9e65927](https://github.com/SimplioOfficial/simplio-app/commit/9e65927c34606116eb4a19b7c10b354161de5857) Adding Integration Tests - Mariusz<br>[01c5dd4](https://github.com/SimplioOfficial/simplio-app/commit/01c5dd4604251205c03fe25336f1ed619bc5c43d) Adding Integration Tests - Mariusz</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
