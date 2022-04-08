@@ -30562,5 +30562,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/2740b001e538...7b66ff8bf893"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-08 19:53:27.304000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`80735c8`](https://github.com/SimplioOfficial/simplio-mobile/commit/80735c8d6be30f73420c1a21ee9c0e40b2bccd96) Turn on SWIPELUX, - jvrastil\n[`faa265a`](https://github.com/SimplioOfficial/simplio-mobile/commit/faa265a5c512709d2838b961a3f89979377ddfee) increase versions - jvrastil",
+      "title": "[simplio-mobile:testing] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f138a00aa9a5...faa265a5c512"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-08 19:54:00.239000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e8b9abc`](https://github.com/SimplioOfficial/simplio-mobile/commit/e8b9abc2eb163194620500120885a0c19bfd7fb9) increase versions - jvrastil\n[`a01e6c6`](https://github.com/SimplioOfficial/simplio-mobile/commit/a01e6c634ab03704c4f4107be9c009e2d197105e) Turn on SWIPELUX, - jvrastil\n[`d2c3544`](https://github.com/SimplioOfficial/simplio-mobile/commit/d2c3544bf4411018e823f2b26216810f4488490b) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/2b064d87dc61...d2c3544bf441"
+    }
   }
 ]
