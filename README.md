@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1700 commits since 10/09/2021. You can see the complete history in
+There is a total of 1701 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 18:59:39</sub> | <sub>[[sio_core:yuri] 4 new commits](https://github.com/SimplioOfficial/sio_core/compare/2740b001e538...7b66ff8bf893)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel<br>[aa8f511](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel<br>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel<br>[7b66ff8](https://github.com/SimplioOfficial/sio_core/commit/7b66ff8bf8930b0ce5966a15322648fb540d0079) Merge pull request #32 from SimplioOfficial/master - yuriagile</sub> |
 | <sub>2022-04-08 18:54:27</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f)</sub> | <sub>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel</sub> |
 | <sub>2022-04-08 17:30:28</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139)</sub> | <sub>[7922bc3](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139) Appium configuration with flutter and dart - Juliana Souza</sub> |
 | <sub>2022-04-08 17:29:12</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb)</sub> | <sub>[393b310](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb) Appium configuration with flutter and dart - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 1700 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-08 13:32:02</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3)</sub> | <sub>[66d01fa](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3) change before review - jvrastil</sub> |
 | <sub>2022-04-08 13:19:24</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19)</sub> | <sub>[264d109](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19) build fix - jvrastil</sub> |
 | <sub>2022-04-08 13:07:03</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a)</sub> | <sub>[1cb8058](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a) Task/19 - Initialize wallet seed - jvrastil</sub> |
-| <sub>2022-04-08 06:54:42</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4)</sub> | <sub>[8c982a9](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4) fix: test exceptions of non future utxoCoin - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

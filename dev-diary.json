@@ -30544,5 +30544,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-08 18:59:39.065000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`15a4ccb`](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel\n[`aa8f511`](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel\n[`76c3e50`](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel\n[`7b66ff8`](https://github.com/SimplioOfficial/sio_core/commit/7b66ff8bf8930b0ce5966a15322648fb540d0079) Merge pull request #32 from SimplioOfficial/master - yuriagile",
+      "title": "[sio_core:yuri] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/2740b001e538...7b66ff8bf893"
+    }
   }
 ]
