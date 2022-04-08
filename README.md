@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1696 commits since 10/09/2021. You can see the complete history in
+There is a total of 1697 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 16:53:44</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930)</sub> | <sub>[f138a00](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930) increase versions - jvrastil</sub> |
 | <sub>2022-04-08 15:17:01</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd)</sub> | <sub>[58b289c](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd) chore: increased version to 0.0.6 - ciripel</sub> |
 | <sub>2022-04-08 15:10:30</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97)</sub> | <sub>[e8e924b](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97) fix: min tx in utxo list - ciripel</sub> |
 | <sub>2022-04-08 13:32:02</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3)</sub> | <sub>[66d01fa](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3) change before review - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1696 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-07 20:56:33</sub> | <sub>[[simplio-app:Mario\_test] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4465f802d544^...01c5dd460425)</sub> | <sub>[4465f80](https://github.com/SimplioOfficial/simplio-app/commit/4465f802d544868363c124b990275f9adeef58e2) Merge branch 'task/scaffilding-app-13' of https... - Mariusz<br>[00a1178](https://github.com/SimplioOfficial/simplio-app/commit/00a11784db3239b4a973bae68e4365de8680f898) Merge branch 'task/11-setup_basic_ci_cd_pipelin... - Mariusz<br>[9e65927](https://github.com/SimplioOfficial/simplio-app/commit/9e65927c34606116eb4a19b7c10b354161de5857) Adding Integration Tests - Mariusz<br>[01c5dd4](https://github.com/SimplioOfficial/simplio-app/commit/01c5dd4604251205c03fe25336f1ed619bc5c43d) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-07 17:21:31</sub> | <sub>[[simplio-app:task/integration\_test\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914)</sub> | <sub>[6400a0b](https://github.com/SimplioOfficial/simplio-app/commit/6400a0b7eebed98922e49ef2d87431a9a615a914) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-07 13:39:48</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8)</sub> | <sub>[f1db274](https://github.com/SimplioOfficial/sio_core/commit/f1db27476756288d32a6471d0914d516c86ee3a8) chore: refactor latestBlockHash - ciripel</sub> |
-| <sub>2022-04-07 13:17:38</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5)</sub> | <sub>[aa8f511](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
