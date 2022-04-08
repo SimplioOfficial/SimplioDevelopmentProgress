@@ -30418,5 +30418,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-08 13:32:02.189000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`66d01fa`](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3) change before review - jvrastil",
+      "title": "[simplio-app:task/19\\-mnemonic\\_initialization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3"
+    }
   }
 ]
