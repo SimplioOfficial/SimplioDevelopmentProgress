@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1692 commits since 10/09/2021. You can see the complete history in
+There is a total of 1693 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 13:19:24</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19)</sub> | <sub>[264d109](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19) build fix - jvrastil</sub> |
 | <sub>2022-04-08 13:07:03</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a)</sub> | <sub>[1cb8058](https://github.com/SimplioOfficial/simplio-app/commit/1cb8058b1ed52b861e0b2dfba7395168f86bee7a) Task/19 - Initialize wallet seed - jvrastil</sub> |
 | <sub>2022-04-08 06:54:42</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4)</sub> | <sub>[8c982a9](https://github.com/SimplioOfficial/sio_core/commit/8c982a94efdc1d12b5fcda06ca1ed6d75805f5b4) fix: test exceptions of non future utxoCoin - ciripel</sub> |
 | <sub>2022-04-07 20:56:33</sub> | <sub>[[simplio-app:Mario\_test] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4465f802d544^...01c5dd460425)</sub> | <sub>[4465f80](https://github.com/SimplioOfficial/simplio-app/commit/4465f802d544868363c124b990275f9adeef58e2) Merge branch 'task/scaffilding-app-13' of https... - Mariusz<br>[00a1178](https://github.com/SimplioOfficial/simplio-app/commit/00a11784db3239b4a973bae68e4365de8680f898) Merge branch 'task/11-setup_basic_ci_cd_pipelin... - Mariusz<br>[9e65927](https://github.com/SimplioOfficial/simplio-app/commit/9e65927c34606116eb4a19b7c10b354161de5857) Adding Integration Tests - Mariusz<br>[01c5dd4](https://github.com/SimplioOfficial/simplio-app/commit/01c5dd4604251205c03fe25336f1ed619bc5c43d) Adding Integration Tests - Mariusz</sub> |
@@ -17,6 +18,5 @@ There is a total of 1692 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-07 13:00:28</sub> | <sub>[[sio_core:refactor/split\_online\_offline] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488)</sub> | <sub>[629770a](https://github.com/SimplioOfficial/sio_core/commit/629770a02393ab0cbe79028b7da08f51731a7488) subtask: Split online/offline functions - ciripel</sub> |
 | <sub>2022-04-06 08:01:51</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel</sub> |
 | <sub>2022-04-06 07:34:42</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72)</sub> | <sub>[cf338d8](https://github.com/SimplioOfficial/sio_core/commit/cf338d896e1fa422bcbcb0ce7d9abe44b625dd72) task: ETH tx, ETH_ERC20 tx, ETC tx and broadcasts - ciripel</sub> |
-| <sub>2022-04-05 15:01:03</sub> | <sub>[[sio_core:task/eth\_bsc\_transactions] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944)</sub> | <sub>[4e112ed](https://github.com/SimplioOfficial/sio_core/commit/4e112edc83c86e7b6b403d097e76a945b1402944) task: Add BSC token tx and tests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
