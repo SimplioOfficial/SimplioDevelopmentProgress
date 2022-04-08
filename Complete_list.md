@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-08 15:17:01</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd)</sub> | <sub>[58b289c](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd) chore: increased version to 0.0.6 - ciripel</sub> |
 | <sub>2022-04-08 15:10:30</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97)</sub> | <sub>[e8e924b](https://github.com/SimplioOfficial/sio_core/commit/e8e924ba8bfbf6a773408c3df428fb15c58baf97) fix: min tx in utxo list - ciripel</sub> |
 | <sub>2022-04-08 13:32:02</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3)</sub> | <sub>[66d01fa](https://github.com/SimplioOfficial/simplio-app/commit/66d01fa2adf5e05113e32fa03a50c8076dbfe5f3) change before review - jvrastil</sub> |
 | <sub>2022-04-08 13:19:24</sub> | <sub>[[simplio-app:task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19)</sub> | <sub>[264d109](https://github.com/SimplioOfficial/simplio-app/commit/264d109b6466384a0e0718d08b2f0d6d45650a19) build fix - jvrastil</sub> |
