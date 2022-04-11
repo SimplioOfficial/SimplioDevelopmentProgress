@@ -30670,5 +30670,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 22:20:08.398000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`88e4a66`](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - Mariusz",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d"
+    }
   }
 ]

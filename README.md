@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1707 commits since 10/09/2021. You can see the complete history in
+There is a total of 1708 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-11 22:20:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d)</sub> | <sub>[88e4a66](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - Mariusz</sub> |
 | <sub>2022-04-11 22:08:57</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d)</sub> | <sub>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz</sub> |
 | <sub>2022-04-11 22:06:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f)</sub> | <sub>[faffb38](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-11 07:51:11</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b)</sub> | <sub>[d8a06a6](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b) task: implement cosmos tx - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1707 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-08 18:59:39</sub> | <sub>[[sio_core:yuri] 4 new commits](https://github.com/SimplioOfficial/sio_core/compare/2740b001e538...7b66ff8bf893)</sub> | <sub>[15a4ccb](https://github.com/SimplioOfficial/sio_core/commit/15a4ccb613d849c88c8256bc5a194609f26dbade) Task/ETH(ERC-20), BSC(BEP-20), ETC transactions... - ciripel<br>[aa8f511](https://github.com/SimplioOfficial/sio_core/commit/aa8f511fab53ed7c1230aaa2ca361157465682e5) subtask: Split online/offline functions (#30) - ciripel<br>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel<br>[7b66ff8](https://github.com/SimplioOfficial/sio_core/commit/7b66ff8bf8930b0ce5966a15322648fb540d0079) Merge pull request #32 from SimplioOfficial/master - yuriagile</sub> |
 | <sub>2022-04-08 18:54:27</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f)</sub> | <sub>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel</sub> |
 | <sub>2022-04-08 17:30:28</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139)</sub> | <sub>[7922bc3](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139) Appium configuration with flutter and dart - Juliana Souza</sub> |
-| <sub>2022-04-08 17:29:12</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb)</sub> | <sub>[393b310](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb) Appium configuration with flutter and dart - Juliana Souza</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

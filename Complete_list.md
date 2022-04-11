@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-11 22:20:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d)</sub> | <sub>[88e4a66](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - Mariusz</sub> |
 | <sub>2022-04-11 22:08:57</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d)</sub> | <sub>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz</sub> |
 | <sub>2022-04-11 22:06:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f)</sub> | <sub>[faffb38](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-11 07:51:11</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b)</sub> | <sub>[d8a06a6](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b) task: implement cosmos tx - ciripel</sub> |
