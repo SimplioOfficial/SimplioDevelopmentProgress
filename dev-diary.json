@@ -30706,5 +30706,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/88e4a661977f...47ead4e41e6a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 23:10:06.247000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`120217e`](https://github.com/SimplioOfficial/simplio-app/commit/120217e370ba26178b520d98cd56deeb3c158f30) Update run_integration_tests.yml - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/120217e370ba26178b520d98cd56deeb3c158f30"
+    }
   }
 ]
