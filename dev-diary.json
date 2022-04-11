@@ -30742,5 +30742,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f62d1263a5671eeacbc76b7047d2248cd81ea23a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 23:26:24.122000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`efa3854`](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil\n[`947e2a4`](https://github.com/SimplioOfficial/simplio-app/commit/947e2a4ae7011d8c3bc7bc1f86fb085206b509dd) update to CI/CD pipelines - Automatic version i... - jvrastil\n[`4095db8`](https://github.com/SimplioOfficial/simplio-app/commit/4095db8fbca4bbf5fe151f72657c75fdc42b212f) [automated commit] Version increase - GitHub Bot\n[`e0ea63b`](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05) Task/scaffolding app 13 (#32) - storkandstars\n[`0cfad07`](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f62d1263a567...c05fb5af8b19"
+    }
   }
 ]
