@@ -30688,5 +30688,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 22:38:15.925000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`04ac435`](https://github.com/SimplioOfficial/simplio-app/commit/04ac435834431104af6d7f19e73f2626ef8e338e) Changes in android versions - adding 28 and 31 - Mariusz\n[`47ead4e`](https://github.com/SimplioOfficial/simplio-app/commit/47ead4e41e6ab4618f1e3082d814131abd552941) Changes in android versions - adding 28 and 31 - Mariusz",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/88e4a661977f...47ead4e41e6a"
+    }
   }
 ]
