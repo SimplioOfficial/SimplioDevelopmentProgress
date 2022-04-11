@@ -30634,5 +30634,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 22:06:08.302000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`faffb38`](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - Mariusz",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-11 22:08:57.955000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a11f0dc`](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d"
+    }
   }
 ]

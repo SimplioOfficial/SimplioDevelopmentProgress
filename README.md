@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1705 commits since 10/09/2021. You can see the complete history in
+There is a total of 1707 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-11 22:08:57</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d)</sub> | <sub>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz</sub> |
+| <sub>2022-04-11 22:06:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f)</sub> | <sub>[faffb38](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-11 07:51:11</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b)</sub> | <sub>[d8a06a6](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b) task: implement cosmos tx - ciripel</sub> |
 | <sub>2022-04-11 06:29:01</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7715b7f819c1921c97b3ba7b48f0d0f18ef44c8b)</sub> | <sub>[7715b7f](https://github.com/SimplioOfficial/sio_core/commit/7715b7f819c1921c97b3ba7b48f0d0f18ef44c8b) coverage: add more utxo if needed test - ciripel</sub> |
 | <sub>2022-04-08 19:54:00</sub> | <sub>[[simplio-mobile:v0\.3\.0] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/2b064d87dc61...d2c3544bf441)</sub> | <sub>[e8b9abc](https://github.com/SimplioOfficial/simplio-mobile/commit/e8b9abc2eb163194620500120885a0c19bfd7fb9) increase versions - jvrastil<br>[a01e6c6](https://github.com/SimplioOfficial/simplio-mobile/commit/a01e6c634ab03704c4f4107be9c009e2d197105e) Turn on SWIPELUX, - jvrastil<br>[d2c3544](https://github.com/SimplioOfficial/simplio-mobile/commit/d2c3544bf4411018e823f2b26216810f4488490b) increase versions - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 1705 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-08 18:54:27</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f)</sub> | <sub>[76c3e50](https://github.com/SimplioOfficial/sio_core/commit/76c3e50e1725c72e0ba54153c5c3c175962e0b7f) Subtask/utxo real fee fix (#31) - ciripel</sub> |
 | <sub>2022-04-08 17:30:28</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139)</sub> | <sub>[7922bc3](https://github.com/SimplioOfficial/simplio-app/commit/7922bc39a38589fff49a415cb2cb3b7535fe2139) Appium configuration with flutter and dart - Juliana Souza</sub> |
 | <sub>2022-04-08 17:29:12</sub> | <sub>[[simplio-app:appium\-test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb)</sub> | <sub>[393b310](https://github.com/SimplioOfficial/simplio-app/commit/393b310e973121b1333359ebbb890f07c0b7ffdb) Appium configuration with flutter and dart - Juliana Souza</sub> |
-| <sub>2022-04-08 16:53:44</sub> | <sub>[[simplio-mobile:testing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930)</sub> | <sub>[f138a00](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930) increase versions - jvrastil</sub> |
-| <sub>2022-04-08 15:17:01</sub> | <sub>[[sio_core:subtask/utxo\_real\_fee\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd)</sub> | <sub>[58b289c](https://github.com/SimplioOfficial/sio_core/commit/58b289c5aa155b792aac95c66b4c9bf2d330aafd) chore: increased version to 0.0.6 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
