@@ -30778,5 +30778,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/8fea8de5b0642d0aea82db3903fe67ba73d4bb5d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-12 12:02:31.658000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`eca4aac`](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1) fix: cosmos tx fix - ciripel",
+      "title": "[sio_core:task/cosmos\\_ecosystem] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1"
+    }
   }
 ]

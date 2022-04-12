@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1713 commits since 10/09/2021. You can see the complete history in
+There is a total of 1714 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-12 12:02:31</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1)</sub> | <sub>[eca4aac](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1) fix: cosmos tx fix - ciripel</sub> |
 | <sub>2022-04-12 07:04:14</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8fea8de5b0642d0aea82db3903fe67ba73d4bb5d)</sub> | <sub>[8fea8de](https://github.com/SimplioOfficial/sio_core/commit/8fea8de5b0642d0aea82db3903fe67ba73d4bb5d) fix: added aditional fields to cosmos tx build - ciripel</sub> |
 | <sub>2022-04-11 23:26:24</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f62d1263a567...c05fb5af8b19)</sub> | <sub>[efa3854](https://github.com/SimplioOfficial/simplio-app/commit/efa3854d27afd3e4920966e8883059a327363291) [#11] Create basic CI/CD flows (#28) - jvrastil<br>[947e2a4](https://github.com/SimplioOfficial/simplio-app/commit/947e2a4ae7011d8c3bc7bc1f86fb085206b509dd) update to CI/CD pipelines - Automatic version i... - jvrastil<br>[4095db8](https://github.com/SimplioOfficial/simplio-app/commit/4095db8fbca4bbf5fe151f72657c75fdc42b212f) [automated commit] Version increase - GitHub Bot<br>[e0ea63b](https://github.com/SimplioOfficial/simplio-app/commit/e0ea63b1de5b9ef84b01586e7cde10c39bdc8e05) Task/scaffolding app 13 (#32) - storkandstars<br>[0cfad07](https://github.com/SimplioOfficial/simplio-app/commit/0cfad07e6189d0e076d4103c2dae115a780aa9bc) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-11 23:19:07</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f62d1263a5671eeacbc76b7047d2248cd81ea23a)</sub> | <sub>[f62d126](https://github.com/SimplioOfficial/simplio-app/commit/f62d1263a5671eeacbc76b7047d2248cd81ea23a) Changed to 31 version in android - Mariusz</sub> |
@@ -17,6 +18,5 @@ There is a total of 1713 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-11 22:08:57</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d)</sub> | <sub>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz</sub> |
 | <sub>2022-04-11 22:06:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f)</sub> | <sub>[faffb38](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - Mariusz</sub> |
 | <sub>2022-04-11 07:51:11</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b)</sub> | <sub>[d8a06a6](https://github.com/SimplioOfficial/sio_core/commit/d8a06a6b0265514e3f0b37f4c70359a8a299d19b) task: implement cosmos tx - ciripel</sub> |
-| <sub>2022-04-11 06:29:01</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7715b7f819c1921c97b3ba7b48f0d0f18ef44c8b)</sub> | <sub>[7715b7f](https://github.com/SimplioOfficial/sio_core/commit/7715b7f819c1921c97b3ba7b48f0d0f18ef44c8b) coverage: add more utxo if needed test - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
