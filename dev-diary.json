@@ -30850,5 +30850,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-12 18:13:46.646000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`748e14f`](https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905) HOTFIX for login on mobile devices - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905"
+    }
   }
 ]
