@@ -30796,5 +30796,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-12 13:15:23.174000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`184b927`](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88) Task/19 - Initialize wallet seed (#37) - jvrastil",
+      "title": "[simplio-app:feature/initial\\-infrastructure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-12 13:18:26.004000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`cbd0e7f`](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c) [automated commit] Version increase - GitHub Bot",
+      "title": "[simplio-app:feature/initial\\-infrastructure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c"
+    }
   }
 ]
