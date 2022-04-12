@@ -30886,5 +30886,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/67fa7c3e6f705756fe4af400c4c4e84d728e3492"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-12 23:42:43.489000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`184b927`](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88) Task/19 - Initialize wallet seed (#37) - jvrastil\n[`cbd0e7f`](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c) [automated commit] Version increase - GitHub Bot\n[`eae23c5`](https://github.com/SimplioOfficial/simplio-app/commit/eae23c579b4f73b9d5544519b7fd0dafbfe12060) Adding Integration Tests - MariooW\n[`818de08`](https://github.com/SimplioOfficial/simplio-app/commit/818de085a70cf6a8cd6bf4ed89739e09b62e8a47) Adding Integration Tests -manual trigger - MariooW\n[`6aab066`](https://github.com/SimplioOfficial/simplio-app/commit/6aab0664525a98d79eeb62e7a3e9defa36b57b37) Adding Integration Tests adding my branch to au... - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a7e026b55359...c8648bb1c669"
+    }
   }
 ]
