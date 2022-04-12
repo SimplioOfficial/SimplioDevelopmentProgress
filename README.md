@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1716 commits since 10/09/2021. You can see the complete history in
+There is a total of 1717 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-12 13:35:48</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d)</sub> | <sub>[a7e026b](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d) Update pubspec.yaml - MariooW</sub> |
 | <sub>2022-04-12 13:18:26</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c)</sub> | <sub>[cbd0e7f](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-12 13:15:23</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88)</sub> | <sub>[184b927](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88) Task/19 - Initialize wallet seed (#37) - jvrastil</sub> |
 | <sub>2022-04-12 12:02:31</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1)</sub> | <sub>[eca4aac](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1) fix: cosmos tx fix - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1716 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-11 23:10:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/120217e370ba26178b520d98cd56deeb3c158f30)</sub> | <sub>[120217e](https://github.com/SimplioOfficial/simplio-app/commit/120217e370ba26178b520d98cd56deeb3c158f30) Update run_integration_tests.yml - MariooW</sub> |
 | <sub>2022-04-11 22:38:15</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/88e4a661977f...47ead4e41e6a)</sub> | <sub>[04ac435](https://github.com/SimplioOfficial/simplio-app/commit/04ac435834431104af6d7f19e73f2626ef8e338e) Changes in android versions - adding 28 and 31 - Mariusz<br>[47ead4e](https://github.com/SimplioOfficial/simplio-app/commit/47ead4e41e6ab4618f1e3082d814131abd552941) Changes in android versions - adding 28 and 31 - Mariusz</sub> |
 | <sub>2022-04-11 22:20:08</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d)</sub> | <sub>[88e4a66](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - Mariusz</sub> |
-| <sub>2022-04-11 22:08:57</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d)</sub> | <sub>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - Mariusz</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
