@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1723 commits since 10/09/2021. You can see the complete history in
+There is a total of 1724 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-13 08:33:35</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a)</sub> | <sub>[f4b2839](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a) Chabges in yml files - MariooW</sub> |
 | <sub>2022-04-13 08:19:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69)</sub> | <sub>[7b333d3](https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69) Fixes in run_integration_tests.yml - MariooW</sub> |
 | <sub>2022-04-13 08:16:20</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616)</sub> | <sub>[83b26c8](https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616) Fixes for pubspec.yaml changing trigger e2e tests - MariooW</sub> |
 | <sub>2022-04-12 23:59:00</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a8ad939699a07e985f3bece618cb22e87f7c622e)</sub> | <sub>[a8ad939](https://github.com/SimplioOfficial/simplio-app/commit/a8ad939699a07e985f3bece618cb22e87f7c622e) Applying changes after update of initialInfrast... - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1723 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-12 13:35:48</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d)</sub> | <sub>[a7e026b](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d) Update pubspec.yaml - MariooW</sub> |
 | <sub>2022-04-12 13:18:26</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c)</sub> | <sub>[cbd0e7f](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c) [automated commit] Version increase - GitHub Bot</sub> |
 | <sub>2022-04-12 13:15:23</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88)</sub> | <sub>[184b927](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88) Task/19 - Initialize wallet seed (#37) - jvrastil</sub> |
-| <sub>2022-04-12 12:02:31</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1)</sub> | <sub>[eca4aac](https://github.com/SimplioOfficial/sio_core/commit/eca4aac7c688b1ce7c9406d4f39f76a3e6c097a1) fix: cosmos tx fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
