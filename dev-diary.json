@@ -30922,5 +30922,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a8ad939699a07e985f3bece618cb22e87f7c622e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-13 08:16:20.960000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`83b26c8`](https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616) Fixes for pubspec.yaml changing trigger e2e tests - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-13 08:19:06.931000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`7b333d3`](https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69) Fixes in run_integration_tests.yml - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69"
+    }
   }
 ]
