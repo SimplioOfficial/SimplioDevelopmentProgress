@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-13 11:02:49</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW</sub> |
 | <sub>2022-04-13 08:33:35</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a)</sub> | <sub>[f4b2839](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a) Chabges in yml files - MariooW</sub> |
 | <sub>2022-04-13 08:19:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69)</sub> | <sub>[7b333d3](https://github.com/SimplioOfficial/simplio-app/commit/7b333d3383bcbf39658ac344f4d735975e6a3a69) Fixes in run_integration_tests.yml - MariooW</sub> |
 | <sub>2022-04-13 08:16:20</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616)</sub> | <sub>[83b26c8](https://github.com/SimplioOfficial/simplio-app/commit/83b26c8431883268d7c5be034159d0bc797e9616) Fixes for pubspec.yaml changing trigger e2e tests - MariooW</sub> |
