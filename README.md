@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1726 commits since 10/09/2021. You can see the complete history in
+There is a total of 1727 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-14 12:19:55</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78)</sub> | <sub>[e1a7d67](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78) fix: cosmos tx fix - ciripel</sub> |
 | <sub>2022-04-13 15:57:22</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef)</sub> | <sub>[5b6ce22](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef) Add keys for testing - jvrastil</sub> |
 | <sub>2022-04-13 11:02:49</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW</sub> |
 | <sub>2022-04-13 08:33:35</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a)</sub> | <sub>[f4b2839](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a) Chabges in yml files - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1726 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-12 23:42:43</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a7e026b55359...c8648bb1c669)</sub> | <sub>[184b927](https://github.com/SimplioOfficial/simplio-app/commit/184b9274f87e7b45c366fe24400bcf41d00a6c88) Task/19 - Initialize wallet seed (#37) - jvrastil<br>[cbd0e7f](https://github.com/SimplioOfficial/simplio-app/commit/cbd0e7fd80a55c0337e8825dea2d49ae7ef1638c) [automated commit] Version increase - GitHub Bot<br>[eae23c5](https://github.com/SimplioOfficial/simplio-app/commit/eae23c579b4f73b9d5544519b7fd0dafbfe12060) Adding Integration Tests - MariooW<br>[818de08](https://github.com/SimplioOfficial/simplio-app/commit/818de085a70cf6a8cd6bf4ed89739e09b62e8a47) Adding Integration Tests -manual trigger - MariooW<br>[6aab066](https://github.com/SimplioOfficial/simplio-app/commit/6aab0664525a98d79eeb62e7a3e9defa36b57b37) Adding Integration Tests adding my branch to au... - MariooW</sub> |
 | <sub>2022-04-12 21:16:45</sub> | <sub>[[simplio-app:task/integration\_test\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67fa7c3e6f705756fe4af400c4c4e84d728e3492)</sub> | <sub>[67fa7c3](https://github.com/SimplioOfficial/simplio-app/commit/67fa7c3e6f705756fe4af400c4c4e84d728e3492) testing widgets with same keys on one page - Juliana Souza</sub> |
 | <sub>2022-04-12 18:13:46</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905)</sub> | <sub>[748e14f](https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905) HOTFIX for login on mobile devices - jvrastil</sub> |
-| <sub>2022-04-12 13:35:48</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d)</sub> | <sub>[a7e026b](https://github.com/SimplioOfficial/simplio-app/commit/a7e026b553591877a03c78d0c67086c68a0b629d) Update pubspec.yaml - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
