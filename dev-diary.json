@@ -31030,5 +31030,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-14 23:03:37.726000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`16a38e5`](https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452) add integration test - Juliana Souza",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452"
+    }
   }
 ]

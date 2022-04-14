@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-14 23:03:37</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452)</sub> | <sub>[16a38e5](https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452) add integration test - Juliana Souza</sub> |
 | <sub>2022-04-14 12:19:55</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78)</sub> | <sub>[e1a7d67](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78) fix: cosmos tx fix - ciripel</sub> |
 | <sub>2022-04-13 15:57:22</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef)</sub> | <sub>[5b6ce22](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef) Add keys for testing - jvrastil</sub> |
 | <sub>2022-04-13 11:02:49</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW</sub> |
