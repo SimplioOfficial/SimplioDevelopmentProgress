@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1733 commits since 10/09/2021. You can see the complete history in
+There is a total of 1734 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-15 09:10:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c)</sub> | <sub>[6360c51](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c) using key to tap - Juliana Souza</sub> |
 | <sub>2022-04-15 07:47:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/48e0b1a3d95b...69579d9731f4)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW<br>[69579d9](https://github.com/SimplioOfficial/simplio-app/commit/69579d9731f405c210e87748f4c2f5e36fef066f) Merge branch 'feature/initial-infrastructure' i... - MariooW</sub> |
 | <sub>2022-04-15 07:37:45</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48e0b1a3d95b47f6ca8b7f410f229f987de4af1b)</sub> | <sub>[48e0b1a](https://github.com/SimplioOfficial/simplio-app/commit/48e0b1a3d95b47f6ca8b7f410f229f987de4af1b) Update run_unit_tests_on_push.yml - MariooW</sub> |
 | <sub>2022-04-15 07:37:26</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b6d6b3f2c7dc911beb7e972110fa5ac07206264b)</sub> | <sub>[b6d6b3f](https://github.com/SimplioOfficial/simplio-app/commit/b6d6b3f2c7dc911beb7e972110fa5ac07206264b) Update run_tests_on_pull_request.yml - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1733 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-14 12:19:55</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78)</sub> | <sub>[e1a7d67](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78) fix: cosmos tx fix - ciripel</sub> |
 | <sub>2022-04-13 15:57:22</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef)</sub> | <sub>[5b6ce22](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef) Add keys for testing - jvrastil</sub> |
 | <sub>2022-04-13 11:02:49</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW</sub> |
-| <sub>2022-04-13 08:33:35</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a)</sub> | <sub>[f4b2839](https://github.com/SimplioOfficial/simplio-app/commit/f4b2839c53bf67e4da9ac5d904af6e0a6cd4b11a) Chabges in yml files - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
