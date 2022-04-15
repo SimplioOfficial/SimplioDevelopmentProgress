@@ -31156,5 +31156,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-15 09:50:50.771000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`21a124a`](https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9) fix: changed ETC broadcast function and test - ciripel",
+      "title": "[sio_core:task/cosmos\\_ecosystem] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9"
+    }
   }
 ]
