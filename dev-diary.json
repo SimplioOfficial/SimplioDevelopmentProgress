@@ -31174,5 +31174,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-15 09:57:17.501000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e8b9abc`](https://github.com/SimplioOfficial/simplio-mobile/commit/e8b9abc2eb163194620500120885a0c19bfd7fb9) increase versions - jvrastil\n[`a01e6c6`](https://github.com/SimplioOfficial/simplio-mobile/commit/a01e6c634ab03704c4f4107be9c009e2d197105e) Turn on SWIPELUX, - jvrastil\n[`d2c3544`](https://github.com/SimplioOfficial/simplio-mobile/commit/d2c3544bf4411018e823f2b26216810f4488490b) increase versions - jvrastil\n[`748e14f`](https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905) HOTFIX for login on mobile devices - jvrastil\n[`2abf711`](https://github.com/SimplioOfficial/simplio-mobile/commit/2abf7119cc8057b54dd206bb8e5f12b8899e8ae1) Merge branch 'v0.3.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/faa265a5c512...2abf7119cc80"
+    }
   }
 ]

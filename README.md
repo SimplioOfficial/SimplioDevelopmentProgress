@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1735 commits since 10/09/2021. You can see the complete history in
+There is a total of 1736 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-15 09:57:17</sub> | <sub>[[simplio-mobile:testing] 5 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/faa265a5c512...2abf7119cc80)</sub> | <sub>[e8b9abc](https://github.com/SimplioOfficial/simplio-mobile/commit/e8b9abc2eb163194620500120885a0c19bfd7fb9) increase versions - jvrastil<br>[a01e6c6](https://github.com/SimplioOfficial/simplio-mobile/commit/a01e6c634ab03704c4f4107be9c009e2d197105e) Turn on SWIPELUX, - jvrastil<br>[d2c3544](https://github.com/SimplioOfficial/simplio-mobile/commit/d2c3544bf4411018e823f2b26216810f4488490b) increase versions - jvrastil<br>[748e14f](https://github.com/SimplioOfficial/simplio-mobile/commit/748e14fbea93b11cc7434a48a661ff2a55389905) HOTFIX for login on mobile devices - jvrastil<br>[2abf711](https://github.com/SimplioOfficial/simplio-mobile/commit/2abf7119cc8057b54dd206bb8e5f12b8899e8ae1) Merge branch 'v0.3.0' into testing - jvrastil</sub> |
 | <sub>2022-04-15 09:50:50</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9)</sub> | <sub>[21a124a](https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9) fix: changed ETC broadcast function and test - ciripel</sub> |
 | <sub>2022-04-15 09:10:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c)</sub> | <sub>[6360c51](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c) using key to tap - Juliana Souza</sub> |
 | <sub>2022-04-15 07:47:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/48e0b1a3d95b...69579d9731f4)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW<br>[69579d9](https://github.com/SimplioOfficial/simplio-app/commit/69579d9731f405c210e87748f4c2f5e36fef066f) Merge branch 'feature/initial-infrastructure' i... - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1735 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-15 07:36:18</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/150e387812eab29cfd7672f776f3b0ab23449d05)</sub> | <sub>[150e387](https://github.com/SimplioOfficial/simplio-app/commit/150e387812eab29cfd7672f776f3b0ab23449d05) Update publish_production_version.yml - MariooW</sub> |
 | <sub>2022-04-14 23:03:37</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452)</sub> | <sub>[16a38e5](https://github.com/SimplioOfficial/simplio-app/commit/16a38e5791b139e34a7b9cc553567e1499a95452) add integration test - Juliana Souza</sub> |
 | <sub>2022-04-14 12:19:55</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78)</sub> | <sub>[e1a7d67](https://github.com/SimplioOfficial/sio_core/commit/e1a7d674652c9f1ed03aafdf487fa2f9a5401b78) fix: cosmos tx fix - ciripel</sub> |
-| <sub>2022-04-13 15:57:22</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef)</sub> | <sub>[5b6ce22](https://github.com/SimplioOfficial/simplio-app/commit/5b6ce22cd06ebb59505d27efd2582a6fe73c80ef) Add keys for testing - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
