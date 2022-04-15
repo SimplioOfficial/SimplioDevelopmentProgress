@@ -31120,5 +31120,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/48e0b1a3d95b47f6ca8b7f410f229f987de4af1b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-15 07:47:06.505000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`c2ce197`](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW\n[`69579d9`](https://github.com/SimplioOfficial/simplio-app/commit/69579d9731f405c210e87748f4c2f5e36fef066f) Merge branch 'feature/initial-infrastructure' i... - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/48e0b1a3d95b...69579d9731f4"
+    }
   }
 ]
