@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1741 commits since 10/09/2021. You can see the complete history in
+There is a total of 1742 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-18 07:32:50</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d)</sub> | <sub>[c06fbbd](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d) Task/cosmos ecosystem (#34) - ciripel</sub> |
 | <sub>2022-04-18 07:06:44</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b)</sub> | <sub>[6e0dc0f](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b) subtask: Add ATOM and LUNA broadcast and tests - ciripel</sub> |
 | <sub>2022-04-16 17:07:33</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3)</sub> | <sub>[a89b84a](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3) Fix token position in wallet item component - jvrastil</sub> |
 | <sub>2022-04-15 21:47:11</sub> | <sub>[[simplio-mobile:master] 12 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/13d794643f7e...f08036dac146)</sub> | <sub>[f138a00](https://github.com/SimplioOfficial/simplio-mobile/commit/f138a00aa9a5a2ca1dcb1336971ce9b8433d4930) increase versions - jvrastil<br>[80735c8](https://github.com/SimplioOfficial/simplio-mobile/commit/80735c8d6be30f73420c1a21ee9c0e40b2bccd96) Turn on SWIPELUX, - jvrastil<br>[faa265a](https://github.com/SimplioOfficial/simplio-mobile/commit/faa265a5c512709d2838b961a3f89979377ddfee) increase versions - jvrastil<br>[e8b9abc](https://github.com/SimplioOfficial/simplio-mobile/commit/e8b9abc2eb163194620500120885a0c19bfd7fb9) increase versions - jvrastil<br>[a01e6c6](https://github.com/SimplioOfficial/simplio-mobile/commit/a01e6c634ab03704c4f4107be9c009e2d197105e) Turn on SWIPELUX, - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1741 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-15 09:50:50</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9)</sub> | <sub>[21a124a](https://github.com/SimplioOfficial/sio_core/commit/21a124a3c50f1078af89847479b823920dcc3be9) fix: changed ETC broadcast function and test - ciripel</sub> |
 | <sub>2022-04-15 09:10:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c)</sub> | <sub>[6360c51](https://github.com/SimplioOfficial/simplio-app/commit/6360c512e844e5fbe6e91b6adf5286e13bacc68c) using key to tap - Juliana Souza</sub> |
 | <sub>2022-04-15 07:47:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/48e0b1a3d95b...69579d9731f4)</sub> | <sub>[c2ce197](https://github.com/SimplioOfficial/simplio-app/commit/c2ce19787832d482613bbccda698381baafac2fb) initial automatic tests (#40) - MariooW<br>[69579d9](https://github.com/SimplioOfficial/simplio-app/commit/69579d9731f405c210e87748f4c2f5e36fef066f) Merge branch 'feature/initial-infrastructure' i... - MariooW</sub> |
-| <sub>2022-04-15 07:37:45</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48e0b1a3d95b47f6ca8b7f410f229f987de4af1b)</sub> | <sub>[48e0b1a](https://github.com/SimplioOfficial/simplio-app/commit/48e0b1a3d95b47f6ca8b7f410f229f987de4af1b) Update run_unit_tests_on_push.yml - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
