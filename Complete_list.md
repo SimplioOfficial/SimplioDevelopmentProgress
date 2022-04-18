@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-18 08:47:14</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9534f957c47a3e2a1737485f178504516ec727da)</sub> | <sub>[9534f95](https://github.com/SimplioOfficial/sio_core/commit/9534f957c47a3e2a1737485f178504516ec727da) subtask: getBalance for utxoCoins on blockbook - ciripel</sub> |
 | <sub>2022-04-18 07:32:50</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d)</sub> | <sub>[c06fbbd](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d) Task/cosmos ecosystem (#34) - ciripel</sub> |
 | <sub>2022-04-18 07:06:44</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b)</sub> | <sub>[6e0dc0f](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b) subtask: Add ATOM and LUNA broadcast and tests - ciripel</sub> |
 | <sub>2022-04-16 17:07:33</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3)</sub> | <sub>[a89b84a](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3) Fix token position in wallet item component - jvrastil</sub> |
