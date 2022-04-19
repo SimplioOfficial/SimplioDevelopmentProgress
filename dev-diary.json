@@ -31552,5 +31552,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/57eaebebd7e5806e55fc6e7cb61378fcd723e0f4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-19 11:34:58.912000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3a7fde3`](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a) Fix pending swaps progress - jvrastil\n[`c8cf623`](https://github.com/SimplioOfficial/simplio-mobile/commit/c8cf62313dd9adb742a9a8f0cdfdf3526ea3f589) fix initializing sol token - PitTxid\n[`3ed7935`](https://github.com/SimplioOfficial/simplio-mobile/commit/3ed79350e2723a1031caa691521cb8bf83ee68b3) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid\n[`ee9ab53`](https://github.com/SimplioOfficial/simplio-mobile/commit/ee9ab53656605db02ae109ff14b288b329b0828c) fix get minimumrent solana token - PitTxid\n[`57eaebe`](https://github.com/SimplioOfficial/simplio-mobile/commit/57eaebebd7e5806e55fc6e7cb61378fcd723e0f4) Bug/24 refresh token is not correctly reused (#25) - storkandstars",
+      "title": "[simplio-mobile:bug/26\\-handeling\\-expired\\-refresh\\-token\\-is\\-missing] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/c5cd06f92480...18f566ac14ad"
+    }
   }
 ]
