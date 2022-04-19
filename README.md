@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1749 commits since 10/09/2021. You can see the complete history in
+There is a total of 1751 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-19 10:09:58</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52a192187cbb91afe3613ecfa083f0af3e0402aa)</sub> | <sub>[52a1921](https://github.com/SimplioOfficial/sio_core/commit/52a192187cbb91afe3613ecfa083f0af3e0402aa) docs: updated documentation - ciripel</sub> |
+| <sub>2022-04-19 10:08:47</sub> | <sub>[[simplio-mobile:bug/26\-handeling\-expired\-refresh\-token\-is\-missing] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/c5cd06f9248061c035663a74414d342839ba0338)</sub> | <sub>[c5cd06f](https://github.com/SimplioOfficial/simplio-mobile/commit/c5cd06f9248061c035663a74414d342839ba0338) handeling 403 status - storkandstars</sub> |
 | <sub>2022-04-19 10:00:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a7fde3922bc...3ed79350e272)</sub> | <sub>[c8cf623](https://github.com/SimplioOfficial/simplio-mobile/commit/c8cf62313dd9adb742a9a8f0cdfdf3526ea3f589) fix initializing sol token - PitTxid<br>[3ed7935](https://github.com/SimplioOfficial/simplio-mobile/commit/3ed79350e2723a1031caa691521cb8bf83ee68b3) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-04-19 09:56:20</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a)</sub> | <sub>[3a7fde3](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a) Fix pending swaps progress - jvrastil</sub> |
 | <sub>2022-04-19 09:20:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d)</sub> | <sub>[8b53937](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d) fix sol token balance again - PitTxid</sub> |
@@ -16,7 +18,5 @@ There is a total of 1749 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-19 07:31:06</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6a26f5cecfdc4da8bcc6aab5e9863e20473660ff)</sub> | <sub>[6a26f5c](https://github.com/SimplioOfficial/sio_core/commit/6a26f5cecfdc4da8bcc6aab5e9863e20473660ff) fix: get_balance tests for blockbook - ciripel</sub> |
 | <sub>2022-04-18 08:47:14</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9534f957c47a3e2a1737485f178504516ec727da)</sub> | <sub>[9534f95](https://github.com/SimplioOfficial/sio_core/commit/9534f957c47a3e2a1737485f178504516ec727da) subtask: getBalance for utxoCoins on blockbook - ciripel</sub> |
 | <sub>2022-04-18 07:32:50</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d)</sub> | <sub>[c06fbbd](https://github.com/SimplioOfficial/sio_core/commit/c06fbbdfde8fc3a09f912f75516ac5993aaa729d) Task/cosmos ecosystem (#34) - ciripel</sub> |
-| <sub>2022-04-18 07:06:44</sub> | <sub>[[sio_core:task/cosmos\_ecosystem] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b)</sub> | <sub>[6e0dc0f](https://github.com/SimplioOfficial/sio_core/commit/6e0dc0fda4725da23717d6b6ba5ceeddcd171c3b) subtask: Add ATOM and LUNA broadcast and tests - ciripel</sub> |
-| <sub>2022-04-16 17:07:33</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3)</sub> | <sub>[a89b84a](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3) Fix token position in wallet item component - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
