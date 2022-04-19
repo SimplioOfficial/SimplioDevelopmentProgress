@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1755 commits since 10/09/2021. You can see the complete history in
+There is a total of 1756 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-19 11:23:15</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/57eaebebd7e5806e55fc6e7cb61378fcd723e0f4)</sub> | <sub>[57eaebe](https://github.com/SimplioOfficial/simplio-mobile/commit/57eaebebd7e5806e55fc6e7cb61378fcd723e0f4) Bug/24 refresh token is not correctly reused (#25) - storkandstars</sub> |
 | <sub>2022-04-19 11:12:27</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8bba494cee8e9e63fbf753265d135590bf113c71)</sub> | <sub>[8bba494](https://github.com/SimplioOfficial/sio_core/commit/8bba494cee8e9e63fbf753265d135590bf113c71) subtask: getBalance for Cosmos coins on LCD api - ciripel</sub> |
 | <sub>2022-04-19 10:46:12</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ee9ab53656605db02ae109ff14b288b329b0828c)</sub> | <sub>[ee9ab53](https://github.com/SimplioOfficial/simplio-mobile/commit/ee9ab53656605db02ae109ff14b288b329b0828c) fix get minimumrent solana token - PitTxid</sub> |
 | <sub>2022-04-19 10:43:41</sub> | <sub>[[simplio-mobile:bug/24\-refresh\-token\-is\-not\-correctly\-reused] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/36c0bb9043642c1614ca3f561c46b318b2dd4745)</sub> | <sub>[36c0bb9](https://github.com/SimplioOfficial/simplio-mobile/commit/36c0bb9043642c1614ca3f561c46b318b2dd4745) orders headers fix - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1755 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-19 10:00:55</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/3a7fde3922bc...3ed79350e272)</sub> | <sub>[c8cf623](https://github.com/SimplioOfficial/simplio-mobile/commit/c8cf62313dd9adb742a9a8f0cdfdf3526ea3f589) fix initializing sol token - PitTxid<br>[3ed7935](https://github.com/SimplioOfficial/simplio-mobile/commit/3ed79350e2723a1031caa691521cb8bf83ee68b3) Merge branch 'v0.3.0' of https://github.com/Sim... - PitTxid</sub> |
 | <sub>2022-04-19 09:56:20</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a)</sub> | <sub>[3a7fde3](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a) Fix pending swaps progress - jvrastil</sub> |
 | <sub>2022-04-19 09:20:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d)</sub> | <sub>[8b53937](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d) fix sol token balance again - PitTxid</sub> |
-| <sub>2022-04-19 08:46:45</sub> | <sub>[[simplio-mobile:bug/24\-refresh\-token\-is\-not\-correctly\-reused] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a89b84ac9599...834da8893746)</sub> | <sub>[55cbf74](https://github.com/SimplioOfficial/simplio-mobile/commit/55cbf7434afd8d884b7788d04eaf30d9204afd43) adding multiple http interceptors - storkandstars<br>[a6f2c36](https://github.com/SimplioOfficial/simplio-mobile/commit/a6f2c3657bef9e1ac8e085b9c3050267ed5e32e7) moving ws connection - storkandstars<br>[834da88](https://github.com/SimplioOfficial/simplio-mobile/commit/834da8893746df21a1e21e889a05bc6980b657c6) removing obsolete code - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
