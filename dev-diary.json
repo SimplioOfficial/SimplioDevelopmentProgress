@@ -31336,5 +31336,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/6a26f5cecfdc4da8bcc6aab5e9863e20473660ff"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-19 08:08:50.834000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5221129`](https://github.com/SimplioOfficial/simplio-mobile/commit/522112962bcd8da5aef09d7e195b8bec7174ff40) fix solana token balance - PitTxid",
+      "title": "[simplio-mobile:v0\\.3\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/522112962bcd8da5aef09d7e195b8bec7174ff40"
+    }
   }
 ]
