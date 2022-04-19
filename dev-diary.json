@@ -31588,5 +31588,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/6366972b9b14152f3917c9bf104d8048c12dbf15"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-19 12:24:10.908000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b059393`](https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436) subtask: getBalance for Ethereum coins - ciripel",
+      "title": "[sio_core:task/get\\_balance] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436"
+    }
   }
 ]
