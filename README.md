@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1753 commits since 10/09/2021. You can see the complete history in
+There is a total of 1754 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-19 10:46:12</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/ee9ab53656605db02ae109ff14b288b329b0828c)</sub> | <sub>[ee9ab53](https://github.com/SimplioOfficial/simplio-mobile/commit/ee9ab53656605db02ae109ff14b288b329b0828c) fix get minimumrent solana token - PitTxid</sub> |
 | <sub>2022-04-19 10:43:41</sub> | <sub>[[simplio-mobile:bug/24\-refresh\-token\-is\-not\-correctly\-reused] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/36c0bb9043642c1614ca3f561c46b318b2dd4745)</sub> | <sub>[36c0bb9](https://github.com/SimplioOfficial/simplio-mobile/commit/36c0bb9043642c1614ca3f561c46b318b2dd4745) orders headers fix - jvrastil</sub> |
 | <sub>2022-04-19 10:29:44</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2557d3ce64528c1298c49750dc61c034eae96cdb)</sub> | <sub>[2557d3c](https://github.com/SimplioOfficial/sio_core/commit/2557d3ce64528c1298c49750dc61c034eae96cdb) subtask: getBalance for utxoCoins on insight - ciripel</sub> |
 | <sub>2022-04-19 10:09:58</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52a192187cbb91afe3613ecfa083f0af3e0402aa)</sub> | <sub>[52a1921](https://github.com/SimplioOfficial/sio_core/commit/52a192187cbb91afe3613ecfa083f0af3e0402aa) docs: updated documentation - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1753 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-19 09:20:11</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d)</sub> | <sub>[8b53937](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d) fix sol token balance again - PitTxid</sub> |
 | <sub>2022-04-19 08:46:45</sub> | <sub>[[simplio-mobile:bug/24\-refresh\-token\-is\-not\-correctly\-reused] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/a89b84ac9599...834da8893746)</sub> | <sub>[55cbf74](https://github.com/SimplioOfficial/simplio-mobile/commit/55cbf7434afd8d884b7788d04eaf30d9204afd43) adding multiple http interceptors - storkandstars<br>[a6f2c36](https://github.com/SimplioOfficial/simplio-mobile/commit/a6f2c3657bef9e1ac8e085b9c3050267ed5e32e7) moving ws connection - storkandstars<br>[834da88](https://github.com/SimplioOfficial/simplio-mobile/commit/834da8893746df21a1e21e889a05bc6980b657c6) removing obsolete code - storkandstars</sub> |
 | <sub>2022-04-19 08:08:50</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/522112962bcd8da5aef09d7e195b8bec7174ff40)</sub> | <sub>[5221129](https://github.com/SimplioOfficial/simplio-mobile/commit/522112962bcd8da5aef09d7e195b8bec7174ff40) fix solana token balance - PitTxid</sub> |
-| <sub>2022-04-19 07:31:06</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6a26f5cecfdc4da8bcc6aab5e9863e20473660ff)</sub> | <sub>[6a26f5c](https://github.com/SimplioOfficial/sio_core/commit/6a26f5cecfdc4da8bcc6aab5e9863e20473660ff) fix: get_balance tests for blockbook - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
