@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-19 13:06:30</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/11c68702a454c8cd5e066af9b25fce7f53b02588)</sub> | <sub>[11c6870](https://github.com/SimplioOfficial/sio_core/commit/11c68702a454c8cd5e066af9b25fce7f53b02588) subtask: getBalance for solana tokens - ciripel</sub> |
 | <sub>2022-04-19 12:34:16</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/06d7ce43f11d3daeed5fc624ec094397e8eb5584)</sub> | <sub>[06d7ce4](https://github.com/SimplioOfficial/sio_core/commit/06d7ce43f11d3daeed5fc624ec094397e8eb5584) subtask: getBalance for solana native - ciripel</sub> |
 | <sub>2022-04-19 12:24:10</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436)</sub> | <sub>[b059393](https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436) subtask: getBalance for Ethereum coins - ciripel</sub> |
 | <sub>2022-04-19 11:36:04</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6366972b9b14152f3917c9bf104d8048c12dbf15)</sub> | <sub>[6366972](https://github.com/SimplioOfficial/simplio-mobile/commit/6366972b9b14152f3917c9bf104d8048c12dbf15) handeling 403 status (#27) - storkandstars</sub> |
