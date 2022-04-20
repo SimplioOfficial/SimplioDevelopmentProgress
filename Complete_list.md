@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-20 09:18:23</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/03a23ee45dae4bf833c86c2948f25134ecd849a2)</sub> | <sub>[03a23ee](https://github.com/SimplioOfficial/simplio-mobile/commit/03a23ee45dae4bf833c86c2948f25134ecd849a2) Fix reorder issue - jvrastil</sub> |
 | <sub>2022-04-20 08:48:57</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6a8877838e16091fa08b5659027aa06618423fcd)</sub> | <sub>[6a88778](https://github.com/SimplioOfficial/sio_core/commit/6a8877838e16091fa08b5659027aa06618423fcd) Task/get balance (#36) - ciripel</sub> |
 | <sub>2022-04-20 08:28:13</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3)</sub> | <sub>[d78921d](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3) chore: increased version to 0.0.7 - ciripel</sub> |
 | <sub>2022-04-20 08:22:49</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73)</sub> | <sub>[512fe65](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73) subtask: getBalance for ERC20 and BEP20 tokens - ciripel</sub> |
