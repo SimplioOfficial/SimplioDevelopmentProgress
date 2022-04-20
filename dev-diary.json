@@ -31804,5 +31804,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/03a23ee45dae4bf833c86c2948f25134ecd849a2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-20 10:14:12.256000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`79a0d25`](https://github.com/SimplioOfficial/simplio-mobile/commit/79a0d2517776b58d2e8d4ddfe74747dc6ec21916) Revert \"local environment\" - jvrastil\n[`abfad0e`](https://github.com/SimplioOfficial/simplio-mobile/commit/abfad0e23194e6c0d649d046736dbee7728f4029) Remove dex routes - jvrastil\n[`a5ae499`](https://github.com/SimplioOfficial/simplio-mobile/commit/a5ae4998c25d529478a3957694419468b076a47c) Fix swap detail time - jvrastil\n[`0216c60`](https://github.com/SimplioOfficial/simplio-mobile/commit/0216c6013d99c83c8afe78ad269668cc708798c3) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/03a23ee45dae...0216c6013d99"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-20 10:14:27.541000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f1afe7b`](https://github.com/SimplioOfficial/simplio-mobile/commit/f1afe7b823f1a4c5919ecb71f6452af65e5737dc) local environment - Hajk Hovhannisyan\n[`e1aa650`](https://github.com/SimplioOfficial/simplio-mobile/commit/e1aa650b7e393487a8d8a010a888fc6262aa700e) Merge branch 'v0.3.0' of github.com:SimplioOffi... - Hajk Hovhannisyan\n[`03a23ee`](https://github.com/SimplioOfficial/simplio-mobile/commit/03a23ee45dae4bf833c86c2948f25134ecd849a2) Fix reorder issue - jvrastil\n[`79a0d25`](https://github.com/SimplioOfficial/simplio-mobile/commit/79a0d2517776b58d2e8d4ddfe74747dc6ec21916) Revert \"local environment\" - jvrastil\n[`abfad0e`](https://github.com/SimplioOfficial/simplio-mobile/commit/abfad0e23194e6c0d649d046736dbee7728f4029) Remove dex routes - jvrastil",
+      "title": "[simplio-mobile:testing] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/71436b67f987...a7cdf9997ed9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-20 10:14:44.805000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f1afe7b`](https://github.com/SimplioOfficial/simplio-mobile/commit/f1afe7b823f1a4c5919ecb71f6452af65e5737dc) local environment - Hajk Hovhannisyan\n[`e1aa650`](https://github.com/SimplioOfficial/simplio-mobile/commit/e1aa650b7e393487a8d8a010a888fc6262aa700e) Merge branch 'v0.3.0' of github.com:SimplioOffi... - Hajk Hovhannisyan\n[`03a23ee`](https://github.com/SimplioOfficial/simplio-mobile/commit/03a23ee45dae4bf833c86c2948f25134ecd849a2) Fix reorder issue - jvrastil\n[`79a0d25`](https://github.com/SimplioOfficial/simplio-mobile/commit/79a0d2517776b58d2e8d4ddfe74747dc6ec21916) Revert \"local environment\" - jvrastil\n[`abfad0e`](https://github.com/SimplioOfficial/simplio-mobile/commit/abfad0e23194e6c0d649d046736dbee7728f4029) Remove dex routes - jvrastil",
+      "title": "[simplio-mobile:master] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/58e653eb5ac9...e1a5aef66142"
+    }
   }
 ]
