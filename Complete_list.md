@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-20 08:48:57</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6a8877838e16091fa08b5659027aa06618423fcd)</sub> | <sub>[6a88778](https://github.com/SimplioOfficial/sio_core/commit/6a8877838e16091fa08b5659027aa06618423fcd) Task/get balance (#36) - ciripel</sub> |
 | <sub>2022-04-20 08:28:13</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3)</sub> | <sub>[d78921d](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3) chore: increased version to 0.0.7 - ciripel</sub> |
 | <sub>2022-04-20 08:22:49</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73)</sub> | <sub>[512fe65](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73) subtask: getBalance for ERC20 and BEP20 tokens - ciripel</sub> |
 | <sub>2022-04-20 07:28:55</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4)</sub> | <sub>[8bfef30](https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4) subtask: get AllTokensBalance for solana - ciripel</sub> |
