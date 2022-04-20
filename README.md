@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1767 commits since 10/09/2021. You can see the complete history in
+There is a total of 1768 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-20 08:28:13</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3)</sub> | <sub>[d78921d](https://github.com/SimplioOfficial/sio_core/commit/d78921de9a424bf3012a9634b464d45679596ca3) chore: increased version to 0.0.7 - ciripel</sub> |
 | <sub>2022-04-20 08:22:49</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73)</sub> | <sub>[512fe65](https://github.com/SimplioOfficial/sio_core/commit/512fe65f418f6f28ed026bde8f620680ed993f73) subtask: getBalance for ERC20 and BEP20 tokens - ciripel</sub> |
 | <sub>2022-04-20 07:28:55</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4)</sub> | <sub>[8bfef30](https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4) subtask: get AllTokensBalance for solana - ciripel</sub> |
 | <sub>2022-04-19 21:24:41</sub> | <sub>[[simplio-mobile:master] 14 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/f08036dac146...58e653eb5ac9)</sub> | <sub>[a89b84a](https://github.com/SimplioOfficial/simplio-mobile/commit/a89b84ac95997184ba9e8311c7a2b5e2c1f150a3) Fix token position in wallet item component - jvrastil<br>[5221129](https://github.com/SimplioOfficial/simplio-mobile/commit/522112962bcd8da5aef09d7e195b8bec7174ff40) fix solana token balance - PitTxid<br>[8b53937](https://github.com/SimplioOfficial/simplio-mobile/commit/8b539371e447a72d88939147c5b76da7a1eed98d) fix sol token balance again - PitTxid<br>[3a7fde3](https://github.com/SimplioOfficial/simplio-mobile/commit/3a7fde3922bccdeb808645ce06319a75b5d6a42a) Fix pending swaps progress - jvrastil<br>[c8cf623](https://github.com/SimplioOfficial/simplio-mobile/commit/c8cf62313dd9adb742a9a8f0cdfdf3526ea3f589) fix initializing sol token - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 1767 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-19 13:06:30</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/11c68702a454c8cd5e066af9b25fce7f53b02588)</sub> | <sub>[11c6870](https://github.com/SimplioOfficial/sio_core/commit/11c68702a454c8cd5e066af9b25fce7f53b02588) subtask: getBalance for solana tokens - ciripel</sub> |
 | <sub>2022-04-19 12:34:16</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/06d7ce43f11d3daeed5fc624ec094397e8eb5584)</sub> | <sub>[06d7ce4](https://github.com/SimplioOfficial/sio_core/commit/06d7ce43f11d3daeed5fc624ec094397e8eb5584) subtask: getBalance for solana native - ciripel</sub> |
 | <sub>2022-04-19 12:24:10</sub> | <sub>[[sio_core:task/get\_balance] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436)</sub> | <sub>[b059393](https://github.com/SimplioOfficial/sio_core/commit/b059393ee08c06b752b751465962f84e1ffc0436) subtask: getBalance for Ethereum coins - ciripel</sub> |
-| <sub>2022-04-19 11:36:04</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/6366972b9b14152f3917c9bf104d8048c12dbf15)</sub> | <sub>[6366972](https://github.com/SimplioOfficial/simplio-mobile/commit/6366972b9b14152f3917c9bf104d8048c12dbf15) handeling 403 status (#27) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
