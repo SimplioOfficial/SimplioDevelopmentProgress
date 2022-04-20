@@ -31714,5 +31714,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/f08036dac146...58e653eb5ac9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-20 07:28:55.216000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8bfef30`](https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4) subtask: get AllTokensBalance for solana - ciripel",
+      "title": "[sio_core:task/get\\_balance] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/8bfef30ba7cd9150ac743a45c4d82ea61a36a5e4"
+    }
   }
 ]
