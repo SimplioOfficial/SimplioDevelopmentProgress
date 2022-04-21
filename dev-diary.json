@@ -32038,5 +32038,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/12d718d58995...3388370f6f28"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-21 16:28:43.246000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`bc1d5b2`](https://github.com/SimplioOfficial/simplio-app/commit/bc1d5b219603226b065d9c314e8c83764eb50810) appium connection - Juvi3eira",
+      "title": "[simplio-app:appium\\-config] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bc1d5b219603226b065d9c314e8c83764eb50810"
+    }
   }
 ]
