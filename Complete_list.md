@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-21 21:13:19</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575)</sub> | <sub>[6b04ff1](https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575) add script for installing the Appium server - Juvi3eira</sub> |
 | <sub>2022-04-21 21:07:10</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c204904280702c2f4b7465105d979db6bb3d2579)</sub> | <sub>[c204904](https://github.com/SimplioOfficial/simplio-app/commit/c204904280702c2f4b7465105d979db6bb3d2579) appium connection - Juvi3eira</sub> |
 | <sub>2022-04-21 20:58:10</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab34be117e200dc7e7259648251854ecea1619ff)</sub> | <sub>[ab34be1](https://github.com/SimplioOfficial/simplio-app/commit/ab34be117e200dc7e7259648251854ecea1619ff) add apk to test appium connection - Juvi3eira</sub> |
 | <sub>2022-04-21 16:28:43</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc1d5b219603226b065d9c314e8c83764eb50810)</sub> | <sub>[bc1d5b2](https://github.com/SimplioOfficial/simplio-app/commit/bc1d5b219603226b065d9c314e8c83764eb50810) appium connection - Juvi3eira</sub> |

@@ -32092,5 +32092,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c204904280702c2f4b7465105d979db6bb3d2579"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-21 21:13:19.975000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`6b04ff1`](https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575) add script for installing the Appium server - Juvi3eira",
+      "title": "[simplio-app:appium\\-config] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575"
+    }
   }
 ]
