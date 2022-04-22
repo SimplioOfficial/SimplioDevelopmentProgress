@@ -32182,5 +32182,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/caf80d112dd2f3526d042c9c3f052e4f78b377fe"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-22 19:34:26.578000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`a12646c`](https://github.com/SimplioOfficial/simplio-app/commit/a12646c1d85fc6ab3122623428bb2f2ce0b94b67) remove github actions - Juvi3eira",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a12646c1d85fc6ab3122623428bb2f2ce0b94b67"
+    }
   }
 ]
