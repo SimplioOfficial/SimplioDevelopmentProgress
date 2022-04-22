@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1788 commits since 10/09/2021. You can see the complete history in
+There is a total of 1789 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-22 17:17:28</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f771ebffcbf08765319d12f67133e2c9130afa57)</sub> | <sub>[f771ebf](https://github.com/SimplioOfficial/simplio-app/commit/f771ebffcbf08765319d12f67133e2c9130afa57) screenshot of the integration test - Juvi3eira</sub> |
 | <sub>2022-04-22 15:35:46</sub> | <sub>[[simplio-app:revert\-37\-task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4558b335e56b29ec519943380b43e45b071d4687)</sub> | <sub>[4558b33](https://github.com/SimplioOfficial/simplio-app/commit/4558b335e56b29ec519943380b43e45b071d4687) Revert "Task/19 - Initialize wallet seed (#37)" - storkandstars</sub> |
 | <sub>2022-04-21 21:13:19</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575)</sub> | <sub>[6b04ff1](https://github.com/SimplioOfficial/simplio-app/commit/6b04ff15fee79befc0d48e2d93dcf617062b3575) add script for installing the Appium server - Juvi3eira</sub> |
 | <sub>2022-04-21 21:07:10</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c204904280702c2f4b7465105d979db6bb3d2579)</sub> | <sub>[c204904](https://github.com/SimplioOfficial/simplio-app/commit/c204904280702c2f4b7465105d979db6bb3d2579) appium connection - Juvi3eira</sub> |
@@ -17,6 +18,5 @@ There is a total of 1788 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-21 07:27:19</sub> | <sub>[[simplio-mobile:master] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/65bbffe1cc90...e20d5546f767)</sub> | <sub>[185bd0d](https://github.com/SimplioOfficial/simplio-mobile/commit/185bd0d16aa8efcf94fd2261b1812dc5c0e790ac) increase versions - jvrastil<br>[3388370](https://github.com/SimplioOfficial/simplio-mobile/commit/3388370f6f2864b3bb0708cb641538ec1421f68a) Merge branch 'v0.3.0' into testing - jvrastil<br>[e20d554](https://github.com/SimplioOfficial/simplio-mobile/commit/e20d5546f7675c8d146de1384f527d3e393c75fb) Merge branch 'testing' - jvrastil</sub> |
 | <sub>2022-04-21 07:26:57</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/185bd0d16aa8efcf94fd2261b1812dc5c0e790ac)</sub> | <sub>[185bd0d](https://github.com/SimplioOfficial/simplio-mobile/commit/185bd0d16aa8efcf94fd2261b1812dc5c0e790ac) increase versions - jvrastil</sub> |
 | <sub>2022-04-21 07:02:00</sub> | <sub>[[simplio-mobile:master] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/7f6f1829dad3...65bbffe1cc90)</sub> | <sub>[5797901](https://github.com/SimplioOfficial/simplio-mobile/commit/579790191012e3957cf5b2877bbab02095b592b0) remove 'DISABLED_SWAP_PAIRS' option - jvrastil<br>[12d718d](https://github.com/SimplioOfficial/simplio-mobile/commit/12d718d58995b235c3fac9518a4998c594e06d64) Merge branch 'v0.3.0' into testing - jvrastil<br>[65bbffe](https://github.com/SimplioOfficial/simplio-mobile/commit/65bbffe1cc900c92921cf39c27eb5b513f90853e) Merge branch 'testing' - jvrastil</sub> |
-| <sub>2022-04-21 07:01:46</sub> | <sub>[[simplio-mobile:testing] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/ee2d145e9cf1...12d718d58995)</sub> | <sub>[5797901](https://github.com/SimplioOfficial/simplio-mobile/commit/579790191012e3957cf5b2877bbab02095b592b0) remove 'DISABLED_SWAP_PAIRS' option - jvrastil<br>[12d718d](https://github.com/SimplioOfficial/simplio-mobile/commit/12d718d58995b235c3fac9518a4998c594e06d64) Merge branch 'v0.3.0' into testing - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
