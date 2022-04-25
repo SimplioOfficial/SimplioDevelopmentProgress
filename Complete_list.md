@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-25 12:35:53</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741)</sub> | <sub>[065d96e](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741) Deployment fix (#49) - jvrastil</sub> |
 | <sub>2022-04-25 12:33:20</sub> | <sub>[[simplio-app:deployment\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8)</sub> | <sub>[6518fdc](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8) Update pubspec.yaml - jvrastil</sub> |
 | <sub>2022-04-25 12:29:36</sub> | <sub>[[simplio-app:deployment\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38e279cf226bbbd882e9ebba1f7ab1cb5db00a98)</sub> | <sub>[38e279c](https://github.com/SimplioOfficial/simplio-app/commit/38e279cf226bbbd882e9ebba1f7ab1cb5db00a98) Increase version - jvrastil</sub> |
 | <sub>2022-04-25 12:14:39</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d)</sub> | <sub>[2df8103](https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d) Deploy test version on master branch (#48) - jvrastil</sub> |

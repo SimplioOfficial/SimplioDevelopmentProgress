@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1801 commits since 10/09/2021. You can see the complete history in
+There is a total of 1802 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-25 12:35:53</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741)</sub> | <sub>[065d96e](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741) Deployment fix (#49) - jvrastil</sub> |
 | <sub>2022-04-25 12:33:20</sub> | <sub>[[simplio-app:deployment\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8)</sub> | <sub>[6518fdc](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8) Update pubspec.yaml - jvrastil</sub> |
 | <sub>2022-04-25 12:29:36</sub> | <sub>[[simplio-app:deployment\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38e279cf226bbbd882e9ebba1f7ab1cb5db00a98)</sub> | <sub>[38e279c](https://github.com/SimplioOfficial/simplio-app/commit/38e279cf226bbbd882e9ebba1f7ab1cb5db00a98) Increase version - jvrastil</sub> |
 | <sub>2022-04-25 12:14:39</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d)</sub> | <sub>[2df8103](https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d) Deploy test version on master branch (#48) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1801 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-25 11:28:59</sub> | <sub>[[simplio-app:revert\-40\-Mario\_initial\_inf] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd1ac52f2e1fd2cf8f4ccdeb6da09a28d50643dc)</sub> | <sub>[dd1ac52](https://github.com/SimplioOfficial/simplio-app/commit/dd1ac52f2e1fd2cf8f4ccdeb6da09a28d50643dc) Revert "initial automatic tests (#40)" - storkandstars</sub> |
 | <sub>2022-04-25 11:14:40</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8279644aa2cd0738db163e2b450168850b3e3be7)</sub> | <sub>[8279644](https://github.com/SimplioOfficial/simplio-app/commit/8279644aa2cd0738db163e2b450168850b3e3be7) Revert "Task/19 - Initialize wallet seed (#37)"... - storkandstars</sub> |
 | <sub>2022-04-25 11:08:03</sub> | <sub>[[simplio-app:revert\-37\-task/19\-mnemonic\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1b2e52cbc29d683e4156d0b2a5167eb6908e537)</sub> | <sub>[f1b2e52](https://github.com/SimplioOfficial/simplio-app/commit/f1b2e52cbc29d683e4156d0b2a5167eb6908e537) Revert "Task/19 - Initialize wallet seed (#37)" - storkandstars</sub> |
-| <sub>2022-04-22 19:34:26</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a12646c1d85fc6ab3122623428bb2f2ce0b94b67)</sub> | <sub>[a12646c](https://github.com/SimplioOfficial/simplio-app/commit/a12646c1d85fc6ab3122623428bb2f2ce0b94b67) remove github actions - Juvi3eira</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
