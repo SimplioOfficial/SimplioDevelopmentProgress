@@ -32434,5 +32434,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/80816f4e8e5a143d3fe46ab9fc33660a8a548a8f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-25 15:33:40.240000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`62b2555`](https://github.com/SimplioOfficial/simplio-app/commit/62b2555b2f8fcea96a1c356d52c765617bea6ab2) add script for screen recording in github actions - Juliana Souza",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/62b2555b2f8fcea96a1c356d52c765617bea6ab2"
+    }
   }
 ]
