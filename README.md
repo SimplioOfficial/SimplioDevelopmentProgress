@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1810 commits since 10/09/2021. You can see the complete history in
+There is a total of 1811 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-25 21:03:09</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da988c9b2b1c9636a6302d749d402f64249f90b1)</sub> | <sub>[da988c9](https://github.com/SimplioOfficial/simplio-app/commit/da988c9b2b1c9636a6302d749d402f64249f90b1) edit path to upload - Juliana Souza</sub> |
 | <sub>2022-04-25 20:46:56</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ac4682cd3710d558de15007fd7ea5947c9af8da)</sub> | <sub>[1ac4682](https://github.com/SimplioOfficial/simplio-app/commit/1ac4682cd3710d558de15007fd7ea5947c9af8da) edit path to upload - Juliana Souza</sub> |
 | <sub>2022-04-25 17:07:23</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/722c24560b5a7dd84e1a2996a535c3dabebdac09)</sub> | <sub>[722c245](https://github.com/SimplioOfficial/simplio-app/commit/722c24560b5a7dd84e1a2996a535c3dabebdac09) edit script for screen recording in github actions - Juliana Souza</sub> |
 | <sub>2022-04-25 17:05:36</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d98bb7ce4d238f6559c0ee2b6c2786d0c802fa0)</sub> | <sub>[4d98bb7](https://github.com/SimplioOfficial/simplio-app/commit/4d98bb7ce4d238f6559c0ee2b6c2786d0c802fa0) edit script for screen recording in github actions - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 1810 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-25 15:02:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14)</sub> | <sub>[ed5cc93](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14) Feature/initial infrastructure (#36) - storkandstars</sub> |
 | <sub>2022-04-25 12:45:22</sub> | <sub>[[documentation:master] 2 new commits](https://github.com/SimplioOfficial/documentation/compare/4eb66f43f2dd...bb1a88c0a8df)</sub> | <sub>[16a2a0b](https://github.com/SimplioOfficial/documentation/commit/16a2a0b7335a92ca28d8a99c9dd29f734148ba63) removed architecture - storkandstars<br>[bb1a88c](https://github.com/SimplioOfficial/documentation/commit/bb1a88c0a8dffe0a3c09821e18d031afb92f875e) updated team - storkandstars</sub> |
 | <sub>2022-04-25 12:35:53</sub> | <sub>[[simplio-app:feature/initial\-infrastructure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741)</sub> | <sub>[065d96e](https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741) Deployment fix (#49) - jvrastil</sub> |
-| <sub>2022-04-25 12:33:20</sub> | <sub>[[simplio-app:deployment\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8)</sub> | <sub>[6518fdc](https://github.com/SimplioOfficial/simplio-app/commit/6518fdc0925c26215b0936e9f8c55a0890f8adc8) Update pubspec.yaml - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
