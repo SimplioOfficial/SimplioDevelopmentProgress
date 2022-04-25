@@ -32200,5 +32200,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a12646c1d85fc6ab3122623428bb2f2ce0b94b67"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-25 11:08:03.673000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f1b2e52`](https://github.com/SimplioOfficial/simplio-app/commit/f1b2e52cbc29d683e4156d0b2a5167eb6908e537) Revert \"Task/19 - Initialize wallet seed (#37)\" - storkandstars",
+      "title": "[simplio-app:revert\\-37\\-task/19\\-mnemonic\\_initialization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f1b2e52cbc29d683e4156d0b2a5167eb6908e537"
+    }
   }
 ]
