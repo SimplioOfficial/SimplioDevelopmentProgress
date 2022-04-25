@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1812 commits since 10/09/2021. You can see the complete history in
+There is a total of 1813 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-25 22:31:04</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e3914cc27be4d0428d3667caaedac5658f73add)</sub> | <sub>[7e3914c](https://github.com/SimplioOfficial/simplio-app/commit/7e3914cc27be4d0428d3667caaedac5658f73add) screenshot test - Juliana Souza</sub> |
 | <sub>2022-04-25 21:37:56</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/da988c9b2b1c...9fd813dfbdd6)</sub> | <sub>[fbdf9a0](https://github.com/SimplioOfficial/simplio-app/commit/fbdf9a06c414785eaf48f92f2342b08e3449899f) edit path to upload - Juliana Souza<br>[9fd813d](https://github.com/SimplioOfficial/simplio-app/commit/9fd813dfbdd6b896e84aa7700891ab5f413bbaff) integration test - Juliana Souza</sub> |
 | <sub>2022-04-25 21:03:09</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da988c9b2b1c9636a6302d749d402f64249f90b1)</sub> | <sub>[da988c9](https://github.com/SimplioOfficial/simplio-app/commit/da988c9b2b1c9636a6302d749d402f64249f90b1) edit path to upload - Juliana Souza</sub> |
 | <sub>2022-04-25 20:46:56</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ac4682cd3710d558de15007fd7ea5947c9af8da)</sub> | <sub>[1ac4682](https://github.com/SimplioOfficial/simplio-app/commit/1ac4682cd3710d558de15007fd7ea5947c9af8da) edit path to upload - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 1812 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-25 15:33:40</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62b2555b2f8fcea96a1c356d52c765617bea6ab2)</sub> | <sub>[62b2555](https://github.com/SimplioOfficial/simplio-app/commit/62b2555b2f8fcea96a1c356d52c765617bea6ab2) add script for screen recording in github actions - Juliana Souza</sub> |
 | <sub>2022-04-25 15:28:15</sub> | <sub>[[simplio-app:test/ScreenRecording] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/80816f4e8e5a143d3fe46ab9fc33660a8a548a8f)</sub> | <sub>[80816f4](https://github.com/SimplioOfficial/simplio-app/commit/80816f4e8e5a143d3fe46ab9fc33660a8a548a8f) add script for screen recording in github actions - Juliana Souza</sub> |
 | <sub>2022-04-25 15:02:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14)</sub> | <sub>[ed5cc93](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14) Feature/initial infrastructure (#36) - storkandstars</sub> |
-| <sub>2022-04-25 12:45:22</sub> | <sub>[[documentation:master] 2 new commits](https://github.com/SimplioOfficial/documentation/compare/4eb66f43f2dd...bb1a88c0a8df)</sub> | <sub>[16a2a0b](https://github.com/SimplioOfficial/documentation/commit/16a2a0b7335a92ca28d8a99c9dd29f734148ba63) removed architecture - storkandstars<br>[bb1a88c](https://github.com/SimplioOfficial/documentation/commit/bb1a88c0a8dffe0a3c09821e18d031afb92f875e) updated team - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
