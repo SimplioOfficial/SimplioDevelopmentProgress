@@ -32380,5 +32380,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/065d96e0fe7156163ba5c0ddd2dc63f93d289741"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-25 12:45:22.981000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`16a2a0b`](https://github.com/SimplioOfficial/documentation/commit/16a2a0b7335a92ca28d8a99c9dd29f734148ba63) removed architecture - storkandstars\n[`bb1a88c`](https://github.com/SimplioOfficial/documentation/commit/bb1a88c0a8dffe0a3c09821e18d031afb92f875e) updated team - storkandstars",
+      "title": "[documentation:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/compare/4eb66f43f2dd...bb1a88c0a8df"
+    }
   }
 ]
