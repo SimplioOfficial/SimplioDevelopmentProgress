@@ -32236,5 +32236,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8279644aa2cd0738db163e2b450168850b3e3be7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-25 11:28:59.232000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dd1ac52`](https://github.com/SimplioOfficial/simplio-app/commit/dd1ac52f2e1fd2cf8f4ccdeb6da09a28d50643dc) Revert \"initial automatic tests (#40)\" - storkandstars",
+      "title": "[simplio-app:revert\\-40\\-Mario\\_initial\\_inf] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dd1ac52f2e1fd2cf8f4ccdeb6da09a28d50643dc"
+    }
   }
 ]
