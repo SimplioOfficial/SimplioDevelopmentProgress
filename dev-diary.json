@@ -32308,5 +32308,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/68efd8e7c75461bf5c35b7a26eff326c4b872783"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-25 12:14:39.838000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2df8103`](https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d) Deploy test version on master branch (#48) - jvrastil",
+      "title": "[simplio-app:feature/initial\\-infrastructure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2df81034ed9eeed6ef719600d54e7289c77a063d"
+    }
   }
 ]
