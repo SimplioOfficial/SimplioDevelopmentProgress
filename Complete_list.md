@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-26 19:23:34</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c20394fcbd157490669bf4bdb0bbe6a2120fc2fe)</sub> | <sub>[c20394f](https://github.com/SimplioOfficial/simplio-app/commit/c20394fcbd157490669bf4bdb0bbe6a2120fc2fe) edit workflow for appium server TEST - Juliana Souza</sub> |
 | <sub>2022-04-26 19:12:05</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3bc34543d5ad3edaa8722813ae8ba9dad4fb0c2)</sub> | <sub>[d3bc345](https://github.com/SimplioOfficial/simplio-app/commit/d3bc34543d5ad3edaa8722813ae8ba9dad4fb0c2) add workflow for appium server TEST - Juliana Souza</sub> |
 | <sub>2022-04-26 13:36:30</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cc117e4a1789fe98d7e11caae11738cda60268ff)</sub> | <sub>[cc117e4](https://github.com/SimplioOfficial/simplio-app/commit/cc117e4a1789fe98d7e11caae11738cda60268ff) increase version - jvrastil</sub> |
 | <sub>2022-04-26 13:34:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0193370eecf4...ae647b2ae6aa)</sub> |

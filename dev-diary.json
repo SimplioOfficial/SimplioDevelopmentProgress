@@ -33099,5 +33099,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d3bc34543d5ad3edaa8722813ae8ba9dad4fb0c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-26 19:23:34.714000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`c20394f`](https://github.com/SimplioOfficial/simplio-app/commit/c20394fcbd157490669bf4bdb0bbe6a2120fc2fe) edit workflow for appium server TEST - Juliana Souza",
+      "title": "[simplio-app:appium\\-config] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c20394fcbd157490669bf4bdb0bbe6a2120fc2fe"
+    }
   }
 ]
