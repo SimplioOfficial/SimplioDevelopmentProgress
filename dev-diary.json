@@ -33495,5 +33495,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bd4ce8bc2303fca9e55eab095f3e5df0f40c3c58"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-26 23:37:40.222000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6d48c71`](https://github.com/SimplioOfficial/simplio-app/commit/6d48c71b77a5134c989ac57e8b948822e446bebd) Adding changes to app and integration tests. - MariooW\n[`41e9c12`](https://github.com/SimplioOfficial/simplio-app/commit/41e9c12f6abc5187c602a49a97a88c256024b08e) Merge branch '41_IntegrationTests_Mario' of htt... - MariooW",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5c30794d729a...41e9c12f6abc"
+    }
   }
 ]
