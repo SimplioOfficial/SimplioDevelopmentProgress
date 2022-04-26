@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1860 commits since 10/09/2021. You can see the complete history in
+There is a total of 1862 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-26 22:58:46</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/348a74d321c2a014a62e93abcdd5f93f584c44c0)</sub> | <sub>[348a74d](https://github.com/SimplioOfficial/simplio-app/commit/348a74d321c2a014a62e93abcdd5f93f584c44c0) Adding changes to app and integration tests. - MariooW</sub> |
+| <sub>2022-04-26 22:57:09</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40a862f8e980b77e2558f225570fbbc6375d284f)</sub> | <sub>[40a862f](https://github.com/SimplioOfficial/simplio-app/commit/40a862f8e980b77e2558f225570fbbc6375d284f) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:54:25</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17372ca61cc73015689c04c37520e8d4244fcfee)</sub> | <sub>[17372ca](https://github.com/SimplioOfficial/simplio-app/commit/17372ca61cc73015689c04c37520e8d4244fcfee) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:52:07</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/15f0b17c1125f8d04fec1d51cf639142d20a6272)</sub> | <sub>[15f0b17](https://github.com/SimplioOfficial/simplio-app/commit/15f0b17c1125f8d04fec1d51cf639142d20a6272) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:51:44</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29b190cd82e2fcc3ba9d3dfd644c710fd4f4be29)</sub> | <sub>[29b190c](https://github.com/SimplioOfficial/simplio-app/commit/29b190cd82e2fcc3ba9d3dfd644c710fd4f4be29) edit workflow for appium server TEST - Juliana Souza</sub> |
@@ -16,7 +18,5 @@ There is a total of 1860 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-26 22:39:19</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10e94dbcadb9f19bec269059c51f0c6408cc2fe4)</sub> | <sub>[10e94db](https://github.com/SimplioOfficial/simplio-app/commit/10e94dbcadb9f19bec269059c51f0c6408cc2fe4) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:36:44</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3b4c6422df01d56a357b6ff4cc302c7156c36c4)</sub> | <sub>[b3b4c64](https://github.com/SimplioOfficial/simplio-app/commit/b3b4c6422df01d56a357b6ff4cc302c7156c36c4) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:34:06</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a94bdaf883b2de9e8feeda565e0cf641aaf64a78)</sub> | <sub>[a94bdaf](https://github.com/SimplioOfficial/simplio-app/commit/a94bdaf883b2de9e8feeda565e0cf641aaf64a78) Adding changes to app and integration tests. - MariooW</sub> |
-| <sub>2022-04-26 22:31:53</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a9c888a240526eb86ff99d6b5fb093bbd4bb4fa1)</sub> | <sub>[a9c888a](https://github.com/SimplioOfficial/simplio-app/commit/a9c888a240526eb86ff99d6b5fb093bbd4bb4fa1) Adding changes to app and integration tests. - MariooW</sub> |
-| <sub>2022-04-26 22:30:51</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a34de6306053590d5d75b996a58bc206b1974b61)</sub> | <sub>[a34de63](https://github.com/SimplioOfficial/simplio-app/commit/a34de6306053590d5d75b996a58bc206b1974b61) Adding changes to app and integration tests. - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
