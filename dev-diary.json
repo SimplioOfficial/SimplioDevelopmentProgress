@@ -33028,5 +33028,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/18593f97c7d016f4d581418587c13e6279e9056f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-26 13:24:00.264000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0193370`](https://github.com/SimplioOfficial/simplio-app/commit/0193370eecf46bf6bd2e6a45714944b9880d58e8) Fix deployment on master branch - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0193370eecf46bf6bd2e6a45714944b9880d58e8"
+    }
   }
 ]
