@@ -32704,5 +32704,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/baeae3f0c90c784d110d39a63f9e7a01cc070976"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-26 03:01:57.296000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`5c30794`](https://github.com/SimplioOfficial/simplio-app/commit/5c30794d729a41963b86b77240c95d588ca9183c) recording screen - Juliana Souza",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5c30794d729a41963b86b77240c95d588ca9183c"
+    }
   }
 ]
