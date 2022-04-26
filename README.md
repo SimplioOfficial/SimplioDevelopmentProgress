@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1832 commits since 10/09/2021. You can see the complete history in
+There is a total of 1833 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-26 10:21:36</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01438cd8b87b31dba96835037a1ea957a63656e6)</sub> | <sub>[01438cd](https://github.com/SimplioOfficial/simplio-app/commit/01438cd8b87b31dba96835037a1ea957a63656e6) Fix deployment on master branch - jvrastil</sub> |
 | <sub>2022-04-26 10:13:12</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e41b420d34f4b71229fc21bbebce968a4f18aca)</sub> | <sub>[1e41b42](https://github.com/SimplioOfficial/simplio-app/commit/1e41b420d34f4b71229fc21bbebce968a4f18aca) Fix deployment on master branch - jvrastil</sub> |
 | <sub>2022-04-26 09:56:35</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb2524f21de9529d4f82f0a422bdfe5bf4822e59)</sub> | <sub>[cb2524f](https://github.com/SimplioOfficial/simplio-app/commit/cb2524f21de9529d4f82f0a422bdfe5bf4822e59) Fix deployment on master branch - jvrastil</sub> |
 | <sub>2022-04-26 09:31:13</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/76035a5c0857...e64db238a69b)</sub> | <sub>[23a782e](https://github.com/SimplioOfficial/simplio-app/commit/23a782ea110222f3163670b565ed372c4268cbce) Fix deployment on master branch - jvrastil<br>[e64db23](https://github.com/SimplioOfficial/simplio-app/commit/e64db238a69b3ba67a1175f500eae13662b442fc) Fix deployment on master branch - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1832 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-26 08:02:23</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75356147b98c69f7bca8c380953f7c83e0131bb3)</sub> | <sub>[7535614](https://github.com/SimplioOfficial/simplio-app/commit/75356147b98c69f7bca8c380953f7c83e0131bb3) Fix deployment on master branch - jvrastil</sub> |
 | <sub>2022-04-26 07:48:18</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a5177fef96bd6b4f632c2857926d8ea7bef8c8a)</sub> | <sub>[5a5177f](https://github.com/SimplioOfficial/simplio-app/commit/5a5177fef96bd6b4f632c2857926d8ea7bef8c8a) Fix deployment on master branch - jvrastil</sub> |
 | <sub>2022-04-26 07:46:52</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3c974d654e384c0d2a496e9ebfd3f99ce6f5a8e6)</sub> | <sub>[3c974d6](https://github.com/SimplioOfficial/simplio-app/commit/3c974d654e384c0d2a496e9ebfd3f99ce6f5a8e6) Fix deployment on master branch - jvrastil</sub> |
-| <sub>2022-04-26 07:42:38</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b39c64a3429a34e870aac3d2095da7d676992a0)</sub> | <sub>[1b39c64](https://github.com/SimplioOfficial/simplio-app/commit/1b39c64a3429a34e870aac3d2095da7d676992a0) Fix deployment on master branch - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
