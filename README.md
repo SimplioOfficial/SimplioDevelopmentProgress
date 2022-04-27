@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1866 commits since 10/09/2021. You can see the complete history in
+There is a total of 1867 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-27 10:34:35</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af6f25a9f76a8fd35f911112ccb5ecc4a546f9a8)</sub> | <sub>[af6f25a](https://github.com/SimplioOfficial/simplio-app/commit/af6f25a9f76a8fd35f911112ccb5ecc4a546f9a8) redirect stores - jvrastil</sub> |
 | <sub>2022-04-27 08:21:13</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b0ce675e4279f0b849ed62245c1881b691edb7c4)</sub> | <sub>[b0ce675](https://github.com/SimplioOfficial/sio_core/commit/b0ce675e4279f0b849ed62245c1881b691edb7c4) fix: fixed utxo tx tests - ciripel</sub> |
 | <sub>2022-04-26 23:37:40</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5c30794d729a...41e9c12f6abc)</sub> | <sub>[6d48c71](https://github.com/SimplioOfficial/simplio-app/commit/6d48c71b77a5134c989ac57e8b948822e446bebd) Adding changes to app and integration tests. - MariooW<br>[41e9c12](https://github.com/SimplioOfficial/simplio-app/commit/41e9c12f6abc5187c602a49a97a88c256024b08e) Merge branch '41_IntegrationTests_Mario' of htt... - MariooW</sub> |
 | <sub>2022-04-26 23:28:27</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd4ce8bc2303fca9e55eab095f3e5df0f40c3c58)</sub> | <sub>[bd4ce8b](https://github.com/SimplioOfficial/simplio-app/commit/bd4ce8bc2303fca9e55eab095f3e5df0f40c3c58) Android API-LEVEL set to 31 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1866 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-26 22:54:25</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17372ca61cc73015689c04c37520e8d4244fcfee)</sub> | <sub>[17372ca](https://github.com/SimplioOfficial/simplio-app/commit/17372ca61cc73015689c04c37520e8d4244fcfee) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:52:07</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/15f0b17c1125f8d04fec1d51cf639142d20a6272)</sub> | <sub>[15f0b17](https://github.com/SimplioOfficial/simplio-app/commit/15f0b17c1125f8d04fec1d51cf639142d20a6272) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-04-26 22:51:44</sub> | <sub>[[simplio-app:appium\-config] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29b190cd82e2fcc3ba9d3dfd644c710fd4f4be29)</sub> | <sub>[29b190c](https://github.com/SimplioOfficial/simplio-app/commit/29b190cd82e2fcc3ba9d3dfd644c710fd4f4be29) edit workflow for appium server TEST - Juliana Souza</sub> |
-| <sub>2022-04-26 22:51:29</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2e8d061c002be68b53440ab06a5dfadbad31183)</sub> | <sub>[d2e8d06](https://github.com/SimplioOfficial/simplio-app/commit/d2e8d061c002be68b53440ab06a5dfadbad31183) Adding changes to app and integration tests. - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
