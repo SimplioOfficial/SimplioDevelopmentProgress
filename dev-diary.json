@@ -33909,5 +33909,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0314049ff0c9793fd2b814309250573ebfa9a9c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-28 22:17:59.860000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`ddd5e22`](https://github.com/SimplioOfficial/simplio-app/commit/ddd5e22f1db57f0e834715c3e69b36380e8892c2) edit script - Juliana Souza",
+      "title": "[simplio-app:appium\\-config] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddd5e22f1db57f0e834715c3e69b36380e8892c2"
+    }
   }
 ]
