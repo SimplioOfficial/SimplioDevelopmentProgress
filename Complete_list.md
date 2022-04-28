@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-28 13:27:15</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7eeccd0d9ec7db44f83d3bcd632099addbb2eed6)</sub> | <sub>[7eeccd0](https://github.com/SimplioOfficial/sio_core/commit/7eeccd0d9ec7db44f83d3bcd632099addbb2eed6) chore: refactor get_balance - ciripel</sub> |
 | <sub>2022-04-28 13:16:20</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52101e1ca6cb8fd2968cdf79a54bcdee9526c8fc)</sub> | <sub>[52101e1](https://github.com/SimplioOfficial/sio_core/commit/52101e1ca6cb8fd2968cdf79a54bcdee9526c8fc) subtask: fetch balance in BigInt - ciripel</sub> |
 | <sub>2022-04-28 12:46:45</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/844c601e0718a3af1d7f80f4009cfdf193b98a09)</sub> | <sub>[844c601](https://github.com/SimplioOfficial/simplio-app/commit/844c601e0718a3af1d7f80f4009cfdf193b98a09) wip - jvrastil</sub> |
 | <sub>2022-04-28 12:35:49</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0451b2d156eff42aae9168be44f981afe42ab0cd)</sub> | <sub>[0451b2d](https://github.com/SimplioOfficial/simplio-app/commit/0451b2d156eff42aae9168be44f981afe42ab0cd) wip - jvrastil</sub> |
