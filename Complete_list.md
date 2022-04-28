@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-28 14:28:06</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a9f12a33f416863d22ba4bb5122ddd579402d0d)</sub> | <sub>[4a9f12a](https://github.com/SimplioOfficial/simplio-app/commit/4a9f12a33f416863d22ba4bb5122ddd579402d0d) wip - jvrastil</sub> |
 | <sub>2022-04-28 13:45:58</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/3893494e622afb79e8898acf1c96c5224267b444)</sub> | <sub>[3893494](https://github.com/SimplioOfficial/sio_core/commit/3893494e622afb79e8898acf1c96c5224267b444) chore: refactor broadcast - ciripel</sub> |
 | <sub>2022-04-28 13:27:15</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7eeccd0d9ec7db44f83d3bcd632099addbb2eed6)</sub> | <sub>[7eeccd0](https://github.com/SimplioOfficial/sio_core/commit/7eeccd0d9ec7db44f83d3bcd632099addbb2eed6) chore: refactor get_balance - ciripel</sub> |
 | <sub>2022-04-28 13:16:20</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52101e1ca6cb8fd2968cdf79a54bcdee9526c8fc)</sub> | <sub>[52101e1](https://github.com/SimplioOfficial/sio_core/commit/52101e1ca6cb8fd2968cdf79a54bcdee9526c8fc) subtask: fetch balance in BigInt - ciripel</sub> |
