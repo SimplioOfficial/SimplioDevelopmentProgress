@@ -33873,5 +33873,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4a9f12a33f416863d22ba4bb5122ddd579402d0d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-28 14:48:18.967000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2e518aa`](https://github.com/SimplioOfficial/sio_core/commit/2e518aa7b967cf4449a2769b3c39d983eba8a0b7) coverage: additional tests - ciripel",
+      "title": "[sio_core:subtask/balance\\_in\\_big\\_int] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2e518aa7b967cf4449a2769b3c39d983eba8a0b7"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-28 14:48:26.196000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0314049`](https://github.com/SimplioOfficial/simplio-app/commit/0314049ff0c9793fd2b814309250573ebfa9a9c2) wip - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0314049ff0c9793fd2b814309250573ebfa9a9c2"
+    }
   }
 ]
