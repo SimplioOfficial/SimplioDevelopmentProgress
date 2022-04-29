@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1899 commits since 10/09/2021. You can see the complete history in
+There is a total of 1900 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-29 13:11:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44540d6c2e994987ae857c1c843420792309058f)</sub> | <sub>[44540d6](https://github.com/SimplioOfficial/simplio-app/commit/44540d6c2e994987ae857c1c843420792309058f) wip - jvrastil</sub> |
 | <sub>2022-04-29 12:10:40</sub> | <sub>[[sio_core:task/transactions\_for\_address] 3 new commits](https://github.com/SimplioOfficial/sio_core/compare/e893ae358f6d...0cbfe345e796)</sub> | <sub>[146b78b](https://github.com/SimplioOfficial/sio_core/commit/146b78bb13300d43f3d50056d6922bb70f431370) Subtask/balance in big int (#38) - ciripel<br>[f73c3a3](https://github.com/SimplioOfficial/sio_core/commit/f73c3a3c7311d1ee30743f3351886134e237a474) fix: basic details in blockbook balance api - ciripel<br>[0cbfe34](https://github.com/SimplioOfficial/sio_core/commit/0cbfe345e796c61c1f68d59bbdb188fb465b5d46) subtask: GetTransactions of utxoCoins (still bugs) - ciripel</sub> |
 | <sub>2022-04-29 11:44:04</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c)</sub> | <sub>[1622f4c](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c) Subtask/balance in big int (#38) - ciripel</sub> |
 | <sub>2022-04-29 11:23:41</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fe2951f1903f1c69bc69cd7fa01295a64fd8b90c)</sub> | <sub>[fe2951f](https://github.com/SimplioOfficial/sio_core/commit/fe2951f1903f1c69bc69cd7fa01295a64fd8b90c) test: inexistent denomination zero test fix - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1899 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-29 09:03:46</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/928e71c1bbcb58427bfb3e3015cef9c9245ec25f)</sub> | <sub>[928e71c](https://github.com/SimplioOfficial/sio_core/commit/928e71c1bbcb58427bfb3e3015cef9c9245ec25f) test: split online and offline tests - ciripel</sub> |
 | <sub>2022-04-29 08:11:46</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/893627e0586db9817b1a1bb6c0d1e5cb5046fea6)</sub> | <sub>[893627e](https://github.com/SimplioOfficial/sio_core/commit/893627e0586db9817b1a1bb6c0d1e5cb5046fea6) coverage: additional tests - ciripel</sub> |
 | <sub>2022-04-29 08:08:25</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c84e2528b9750d4494a0955bc6bd56493d4f5c70)</sub> | <sub>[c84e252](https://github.com/SimplioOfficial/simplio-app/commit/c84e2528b9750d4494a0955bc6bd56493d4f5c70) wip - jvrastil</sub> |
-| <sub>2022-04-29 08:01:21</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48b5e98fde84566962b36dbce68e270c9feac779)</sub> | <sub>[48b5e98](https://github.com/SimplioOfficial/simplio-app/commit/48b5e98fde84566962b36dbce68e270c9feac779) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
