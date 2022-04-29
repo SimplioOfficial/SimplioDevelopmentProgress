@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-29 09:37:52</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/383341bf05bb0e84964e2abe830efa2cc1cc6c79)</sub> | <sub>[383341b](https://github.com/SimplioOfficial/sio_core/commit/383341bf05bb0e84964e2abe830efa2cc1cc6c79) chore: increased version to 0.0.8 - ciripel</sub> |
 | <sub>2022-04-29 09:30:04</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/32e19e576ffd939bc700def6326bd085cca8384f)</sub> | <sub>[32e19e5](https://github.com/SimplioOfficial/sio_core/commit/32e19e576ffd939bc700def6326bd085cca8384f) coverage: inexistent denomination zero test - ciripel</sub> |
 | <sub>2022-04-29 09:03:46</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/928e71c1bbcb58427bfb3e3015cef9c9245ec25f)</sub> | <sub>[928e71c](https://github.com/SimplioOfficial/sio_core/commit/928e71c1bbcb58427bfb3e3015cef9c9245ec25f) test: split online and offline tests - ciripel</sub> |
 | <sub>2022-04-29 08:11:46</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/893627e0586db9817b1a1bb6c0d1e5cb5046fea6)</sub> | <sub>[893627e](https://github.com/SimplioOfficial/sio_core/commit/893627e0586db9817b1a1bb6c0d1e5cb5046fea6) coverage: additional tests - ciripel</sub> |
