@@ -34107,5 +34107,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-29 12:10:40.117000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`146b78b`](https://github.com/SimplioOfficial/sio_core/commit/146b78bb13300d43f3d50056d6922bb70f431370) Subtask/balance in big int (#38) - ciripel\n[`f73c3a3`](https://github.com/SimplioOfficial/sio_core/commit/f73c3a3c7311d1ee30743f3351886134e237a474) fix: basic details in blockbook balance api - ciripel\n[`0cbfe34`](https://github.com/SimplioOfficial/sio_core/commit/0cbfe345e796c61c1f68d59bbdb188fb465b5d46) subtask: GetTransactions of utxoCoins (still bugs) - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/e893ae358f6d...0cbfe345e796"
+    }
   }
 ]
