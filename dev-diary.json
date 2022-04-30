@@ -34233,5 +34233,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-30 19:35:38.050000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ac92f59`](https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b) Workflow dispatch only - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_initial\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-30 19:37:15.011000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`61ea297`](https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0) Workflow dispatch only - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_initial\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0"
+    }
   }
 ]
