@@ -34323,5 +34323,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f6b22a71946dce46cefa847e6263922de0ea9f75"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-30 19:56:18.314000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`1927996`](https://github.com/SimplioOfficial/simplio-app/commit/1927996618fc8933790fa4e71483ccc04255b042) Back to proper set - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_initial\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1927996618fc8933790fa4e71483ccc04255b042"
+    }
   }
 ]
