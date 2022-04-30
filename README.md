@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1907 commits since 10/09/2021. You can see the complete history in
+There is a total of 1909 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-30 19:43:39</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/325b2b59e46a6030169fec8c8c162b4bfdc08e80)</sub> | <sub>[325b2b5](https://github.com/SimplioOfficial/simplio-app/commit/325b2b59e46a6030169fec8c8c162b4bfdc08e80) adding new workflow - MariooW</sub> |
+| <sub>2022-04-30 19:42:50</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4b84e2de81300958d865ec201659c6543c79c3b)</sub> | <sub>[e4b84e2](https://github.com/SimplioOfficial/simplio-app/commit/e4b84e2de81300958d865ec201659c6543c79c3b) adding new workflow - MariooW</sub> |
 | <sub>2022-04-30 19:37:15</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0)</sub> | <sub>[61ea297](https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0) Workflow dispatch only - MariooW</sub> |
 | <sub>2022-04-30 19:35:38</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b)</sub> | <sub>[ac92f59](https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b) Workflow dispatch only - MariooW</sub> |
 | <sub>2022-04-30 19:32:21</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2)</sub> | <sub>[31a83e0](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2) Workflow dispatch -added - MariooW</sub> |
@@ -16,7 +18,5 @@ There is a total of 1907 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-29 13:33:21</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8815c6badafe9d823bde49dee74e12816226a69)</sub> | <sub>[f8815c6](https://github.com/SimplioOfficial/simplio-app/commit/f8815c6badafe9d823bde49dee74e12816226a69) wip - jvrastil</sub> |
 | <sub>2022-04-29 13:19:12</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9459e2df441dadcd534f3de43f545569b165bdf)</sub> | <sub>[c9459e2](https://github.com/SimplioOfficial/simplio-app/commit/c9459e2df441dadcd534f3de43f545569b165bdf) wip - jvrastil</sub> |
 | <sub>2022-04-29 13:11:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44540d6c2e994987ae857c1c843420792309058f)</sub> | <sub>[44540d6](https://github.com/SimplioOfficial/simplio-app/commit/44540d6c2e994987ae857c1c843420792309058f) wip - jvrastil</sub> |
-| <sub>2022-04-29 12:10:40</sub> | <sub>[[sio_core:task/transactions\_for\_address] 3 new commits](https://github.com/SimplioOfficial/sio_core/compare/e893ae358f6d...0cbfe345e796)</sub> | <sub>[146b78b](https://github.com/SimplioOfficial/sio_core/commit/146b78bb13300d43f3d50056d6922bb70f431370) Subtask/balance in big int (#38) - ciripel<br>[f73c3a3](https://github.com/SimplioOfficial/sio_core/commit/f73c3a3c7311d1ee30743f3351886134e237a474) fix: basic details in blockbook balance api - ciripel<br>[0cbfe34](https://github.com/SimplioOfficial/sio_core/commit/0cbfe345e796c61c1f68d59bbdb188fb465b5d46) subtask: GetTransactions of utxoCoins (still bugs) - ciripel</sub> |
-| <sub>2022-04-29 11:44:04</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c)</sub> | <sub>[1622f4c](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c) Subtask/balance in big int (#38) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
