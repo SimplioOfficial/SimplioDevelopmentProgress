@@ -34305,5 +34305,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/325b2b59e46a6030169fec8c8c162b4bfdc08e80"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-04-30 19:47:30.748000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f6b22a7`](https://github.com/SimplioOfficial/simplio-app/commit/f6b22a71946dce46cefa847e6263922de0ea9f75) adding new workflow - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_initial\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f6b22a71946dce46cefa847e6263922de0ea9f75"
+    }
   }
 ]
