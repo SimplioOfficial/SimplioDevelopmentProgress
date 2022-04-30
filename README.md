@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1904 commits since 10/09/2021. You can see the complete history in
+There is a total of 1905 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-04-30 19:32:21</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2)</sub> | <sub>[31a83e0](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2) Workflow dispatch -added - MariooW</sub> |
 | <sub>2022-04-30 12:54:19</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fee3b941cfcc4e4642a5f73d9b06cd8ee2186503)</sub> | <sub>[fee3b94](https://github.com/SimplioOfficial/simplio-app/commit/fee3b941cfcc4e4642a5f73d9b06cd8ee2186503) wip - jvrastil</sub> |
 | <sub>2022-04-30 10:58:47</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4176043b3e0beee2b7d57f8149ab08485a2662a4)</sub> | <sub>[4176043](https://github.com/SimplioOfficial/simplio-app/commit/4176043b3e0beee2b7d57f8149ab08485a2662a4) wip - jvrastil</sub> |
 | <sub>2022-04-29 13:33:21</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8815c6badafe9d823bde49dee74e12816226a69)</sub> | <sub>[f8815c6](https://github.com/SimplioOfficial/simplio-app/commit/f8815c6badafe9d823bde49dee74e12816226a69) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1904 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-29 11:44:04</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c)</sub> | <sub>[1622f4c](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c) Subtask/balance in big int (#38) - ciripel</sub> |
 | <sub>2022-04-29 11:23:41</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fe2951f1903f1c69bc69cd7fa01295a64fd8b90c)</sub> | <sub>[fe2951f](https://github.com/SimplioOfficial/sio_core/commit/fe2951f1903f1c69bc69cd7fa01295a64fd8b90c) test: inexistent denomination zero test fix - ciripel</sub> |
 | <sub>2022-04-29 09:43:28</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1d1c727d2f75b5f86ae472b723e519ea58a3b436)</sub> | <sub>[1d1c727](https://github.com/SimplioOfficial/sio_core/commit/1d1c727d2f75b5f86ae472b723e519ea58a3b436) ci: removed lcov and coverage file modification - ciripel</sub> |
-| <sub>2022-04-29 09:37:52</sub> | <sub>[[sio_core:subtask/balance\_in\_big\_int] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/383341bf05bb0e84964e2abe830efa2cc1cc6c79)</sub> | <sub>[383341b](https://github.com/SimplioOfficial/sio_core/commit/383341bf05bb0e84964e2abe830efa2cc1cc6c79) chore: increased version to 0.0.8 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
