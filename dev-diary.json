@@ -34395,5 +34395,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/9ca74906b77fbf6114f698f51f0ead1dd7ffa3dd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-02 12:05:04.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f534108`](https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af) coverage: covered _Tx.toJson() - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af"
+    }
   }
 ]

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-02 12:05:04</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af)</sub> | <sub>[f534108](https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af) coverage: covered _Tx.toJson() - ciripel</sub> |
 | <sub>2022-05-02 09:37:48</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9ca74906b77fbf6114f698f51f0ead1dd7ffa3dd)</sub> | <sub>[9ca7490](https://github.com/SimplioOfficial/sio_core/commit/9ca74906b77fbf6114f698f51f0ead1dd7ffa3dd) subtask: GetTransactions for utxoCoins and tests - ciripel</sub> |
 | <sub>2022-05-01 00:00:20</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59af3194a06d277e701000be06d55cfe456f1df5)</sub> | <sub>[59af319](https://github.com/SimplioOfficial/simplio-app/commit/59af3194a06d277e701000be06d55cfe456f1df5) app_test.dart update - MariooW</sub> |
 | <sub>2022-04-30 20:50:17</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95870630d912ca351126412ab83d40b4f9abd5c0)</sub> | <sub>[9587063](https://github.com/SimplioOfficial/simplio-app/commit/95870630d912ca351126412ab83d40b4f9abd5c0) wip - jvrastil</sub> |
