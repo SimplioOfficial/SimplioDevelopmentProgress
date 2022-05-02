@@ -34413,5 +34413,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-02 13:44:40.370000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ed5cc93`](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14) Feature/initial infrastructure (#36) - storkandstars\n[`59f9455`](https://github.com/SimplioOfficial/simplio-app/commit/59f9455336520b5f24e13405b690f120a7d36639) searchable assets - storkandstars\n[`a2699cf`](https://github.com/SimplioOfficial/simplio-app/commit/a2699cfcfc1c119a6e09bb6791d59b48998cabab) Merge branch 'task/45-searchable-assets' of git... - storkandstars",
+      "title": "[simplio-app:task/45\\-searchable\\-assets] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/065d96e0fe71...a2699cfcfc1c"
+    }
   }
 ]
