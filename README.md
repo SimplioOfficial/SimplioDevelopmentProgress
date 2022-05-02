@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1913 commits since 10/09/2021. You can see the complete history in
+There is a total of 1914 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-02 09:37:48</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9ca74906b77fbf6114f698f51f0ead1dd7ffa3dd)</sub> | <sub>[9ca7490](https://github.com/SimplioOfficial/sio_core/commit/9ca74906b77fbf6114f698f51f0ead1dd7ffa3dd) subtask: GetTransactions for utxoCoins and tests - ciripel</sub> |
 | <sub>2022-05-01 00:00:20</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59af3194a06d277e701000be06d55cfe456f1df5)</sub> | <sub>[59af319](https://github.com/SimplioOfficial/simplio-app/commit/59af3194a06d277e701000be06d55cfe456f1df5) app_test.dart update - MariooW</sub> |
 | <sub>2022-04-30 20:50:17</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95870630d912ca351126412ab83d40b4f9abd5c0)</sub> | <sub>[9587063](https://github.com/SimplioOfficial/simplio-app/commit/95870630d912ca351126412ab83d40b4f9abd5c0) wip - jvrastil</sub> |
 | <sub>2022-04-30 19:56:18</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1927996618fc8933790fa4e71483ccc04255b042)</sub> | <sub>[1927996](https://github.com/SimplioOfficial/simplio-app/commit/1927996618fc8933790fa4e71483ccc04255b042) Back to proper set - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 1913 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-04-30 19:37:15</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0)</sub> | <sub>[61ea297](https://github.com/SimplioOfficial/simplio-app/commit/61ea2978bf7fcde6e1f852a3f04fa6f9f48c1cd0) Workflow dispatch only - MariooW</sub> |
 | <sub>2022-04-30 19:35:38</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b)</sub> | <sub>[ac92f59](https://github.com/SimplioOfficial/simplio-app/commit/ac92f59a4c42e08b5904032105a9167d4056266b) Workflow dispatch only - MariooW</sub> |
 | <sub>2022-04-30 19:32:21</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2)</sub> | <sub>[31a83e0](https://github.com/SimplioOfficial/simplio-app/commit/31a83e052bbd813e6fd415740181dbc5f35bb5b2) Workflow dispatch -added - MariooW</sub> |
-| <sub>2022-04-30 12:54:19</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fee3b941cfcc4e4642a5f73d9b06cd8ee2186503)</sub> | <sub>[fee3b94](https://github.com/SimplioOfficial/simplio-app/commit/fee3b941cfcc4e4642a5f73d9b06cd8ee2186503) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
