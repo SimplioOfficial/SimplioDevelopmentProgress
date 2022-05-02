@@ -34431,5 +34431,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/065d96e0fe71...a2699cfcfc1c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-02 14:49:33.273000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/103305432?v=4",
+        "name": "stueria",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/iWfHA-GxLQFmV0rds8F9OPn8wOSNh1tRQueIr-_DPQI/%3Fv%3D4/https/avatars.githubusercontent.com/u/103305432",
+        "url": "https://github.com/stueria"
+      },
+      "color": 7506394,
+      "description": "[`d243d60`](https://github.com/SimplioOfficial/simplio-mobile/commit/d243d60c9b3e69b3bb1942162646e0cdf84c9810) bugfix wrong headers - \u0160t\u011bp\u00e1n Urban",
+      "title": "[simplio-mobile:feature/bugfixSwipeLuxWrongHeaders] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/commit/d243d60c9b3e69b3bb1942162646e0cdf84c9810"
+    }
   }
 ]
