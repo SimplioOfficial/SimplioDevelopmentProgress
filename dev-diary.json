@@ -34989,5 +34989,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/42a82536349cf2ad97c9ee833487aefc980c97c1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-03 22:26:16.657000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`348e43d`](https://github.com/SimplioOfficial/simplio-app/commit/348e43dd1f21e8250da77ddd0d6ba33181754b6a) adding run flow on push - MariooW",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/348e43dd1f21e8250da77ddd0d6ba33181754b6a"
+    }
   }
 ]
