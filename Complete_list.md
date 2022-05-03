@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-03 09:03:39</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b)</sub> | <sub>[4cfebde](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:20:06</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3)</sub> | <sub>[eb4c873](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:01:48</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28)</sub> | <sub>[2d94471](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28) wip - jvrastil</sub> |
 | <sub>2022-05-03 06:47:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776)</sub> | <sub>[4c01e65](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776) wip - jvrastil</sub> |

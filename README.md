@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1924 commits since 10/09/2021. You can see the complete history in
+There is a total of 1925 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-03 09:03:39</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b)</sub> | <sub>[4cfebde](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:20:06</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3)</sub> | <sub>[eb4c873](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:01:48</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28)</sub> | <sub>[2d94471](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28) wip - jvrastil</sub> |
 | <sub>2022-05-03 06:47:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776)</sub> | <sub>[4c01e65](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1924 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-02 15:00:54</sub> | <sub>[[simplio-mobile:v0\.3\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/de2df1065008c0def1e986567050ff035fec21e5)</sub> | <sub>[de2df10](https://github.com/SimplioOfficial/simplio-mobile/commit/de2df1065008c0def1e986567050ff035fec21e5) bugfix wrong headers (#31) - jvrastil</sub> |
 | <sub>2022-05-02 14:49:33</sub> | <sub>[[simplio-mobile:feature/bugfixSwipeLuxWrongHeaders] 1 new commit](https://github.com/SimplioOfficial/simplio-mobile/commit/d243d60c9b3e69b3bb1942162646e0cdf84c9810)</sub> | <sub>[d243d60](https://github.com/SimplioOfficial/simplio-mobile/commit/d243d60c9b3e69b3bb1942162646e0cdf84c9810) bugfix wrong headers - Štěpán Urban</sub> |
 | <sub>2022-05-02 13:44:40</sub> | <sub>[[simplio-app:task/45\-searchable\-assets] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/065d96e0fe71...a2699cfcfc1c)</sub> | <sub>[ed5cc93](https://github.com/SimplioOfficial/simplio-app/commit/ed5cc933fe123717b3477c9a924b97adc23b1d14) Feature/initial infrastructure (#36) - storkandstars<br>[59f9455](https://github.com/SimplioOfficial/simplio-app/commit/59f9455336520b5f24e13405b690f120a7d36639) searchable assets - storkandstars<br>[a2699cf](https://github.com/SimplioOfficial/simplio-app/commit/a2699cfcfc1c119a6e09bb6791d59b48998cabab) Merge branch 'task/45-searchable-assets' of git... - storkandstars</sub> |
-| <sub>2022-05-02 12:05:04</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af)</sub> | <sub>[f534108](https://github.com/SimplioOfficial/sio_core/commit/f5341085c8a0fb33b00dbfbd366721d447d184af) coverage: covered _Tx.toJson() - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
