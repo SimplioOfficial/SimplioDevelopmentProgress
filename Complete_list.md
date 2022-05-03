@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-03 22:46:57</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bda65dbedbf35be51b2765bb1104792f37247f99)</sub> | <sub>[bda65db](https://github.com/SimplioOfficial/simplio-app/commit/bda65dbedbf35be51b2765bb1104792f37247f99) Revert execute on push - MariooW</sub> |
 | <sub>2022-05-03 22:26:16</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/348e43dd1f21e8250da77ddd0d6ba33181754b6a)</sub> | <sub>[348e43d](https://github.com/SimplioOfficial/simplio-app/commit/348e43dd1f21e8250da77ddd0d6ba33181754b6a) adding run flow on push - MariooW</sub> |
 | <sub>2022-05-03 22:08:32</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/42a82536349cf2ad97c9ee833487aefc980c97c1)</sub> | <sub>[42a8253](https://github.com/SimplioOfficial/simplio-app/commit/42a82536349cf2ad97c9ee833487aefc980c97c1) Changes in pubspec.yaml - MariooW</sub> |
 | <sub>2022-05-03 21:34:23</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf794c8eff35886daa1dd36a244443971e411449)</sub> | <sub>[bf794c8](https://github.com/SimplioOfficial/simplio-app/commit/bf794c8eff35886daa1dd36a244443971e411449) wip - jvrastil</sub> |
