@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1931 commits since 10/09/2021. You can see the complete history in
+There is a total of 1932 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-03 18:10:26</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ccfad612a9d7157c995825178ca95c594db2b5ad)</sub> | <sub>[ccfad61](https://github.com/SimplioOfficial/simplio-app/commit/ccfad612a9d7157c995825178ca95c594db2b5ad) wip - jvrastil</sub> |
 | <sub>2022-05-03 17:58:45</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/141cd03bc18054c46197bc67dd4cb81d9f62a13c)</sub> | <sub>[141cd03](https://github.com/SimplioOfficial/simplio-app/commit/141cd03bc18054c46197bc67dd4cb81d9f62a13c) wip - jvrastil</sub> |
 | <sub>2022-05-03 15:00:47</sub> | <sub>[[simplio-mobile:testing] 3 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/aca3b8bf36c5...63067c2aa248)</sub> | <sub>[29aa65f](https://github.com/SimplioOfficial/simplio-mobile/commit/29aa65f46c101b55a90493282e8928cdc8723848) Fix swipelux requests - jvrastil<br>[42a5046](https://github.com/SimplioOfficial/simplio-mobile/commit/42a504636fc3c7e774c7e67d4ca75076bbfbf4c3) increase versions - jvrastil<br>[63067c2](https://github.com/SimplioOfficial/simplio-mobile/commit/63067c2aa24850479564def64896381b1dc4bf0e) Merge branch 'v0.3.0' into testing - jvrastil</sub> |
 | <sub>2022-05-03 14:59:53</sub> | <sub>[[simplio-mobile:v0\.3\.0] 2 new commits](https://github.com/SimplioOfficial/simplio-mobile/compare/69b13ecd6af1...42a504636fc3)</sub> | <sub>[29aa65f](https://github.com/SimplioOfficial/simplio-mobile/commit/29aa65f46c101b55a90493282e8928cdc8723848) Fix swipelux requests - jvrastil<br>[42a5046](https://github.com/SimplioOfficial/simplio-mobile/commit/42a504636fc3c7e774c7e67d4ca75076bbfbf4c3) increase versions - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1931 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-03 09:03:39</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b)</sub> | <sub>[4cfebde](https://github.com/SimplioOfficial/simplio-app/commit/4cfebdeef3913f64a7fc2def955ea5204faac84b) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:20:06</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3)</sub> | <sub>[eb4c873](https://github.com/SimplioOfficial/simplio-app/commit/eb4c873c9304d8fbad9c5bdf3649f9991afa82e3) wip - jvrastil</sub> |
 | <sub>2022-05-03 07:01:48</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28)</sub> | <sub>[2d94471](https://github.com/SimplioOfficial/simplio-app/commit/2d944712020f59719d6e99b0bc51a20fea5b6e28) wip - jvrastil</sub> |
-| <sub>2022-05-03 06:47:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776)</sub> | <sub>[4c01e65](https://github.com/SimplioOfficial/simplio-app/commit/4c01e65c4cdb202f41720679fb1c0e400d712776) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
