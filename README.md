@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1963 commits since 10/09/2021. You can see the complete history in
+There is a total of 1964 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-04 09:00:12</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ca66c6bb8ea14c10bc89b927f9d33fe589ba3f17)</sub> | <sub>[ca66c6b](https://github.com/SimplioOfficial/simplio-app/commit/ca66c6bb8ea14c10bc89b927f9d33fe589ba3f17) wip - jvrastil</sub> |
 | <sub>2022-05-04 08:47:08</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4730e927b774a48c654c34a5799a553d00d83ebb)</sub> | <sub>[4730e92](https://github.com/SimplioOfficial/simplio-app/commit/4730e927b774a48c654c34a5799a553d00d83ebb) wip - jvrastil</sub> |
 | <sub>2022-05-04 08:28:17</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67063006aa209e2ac62457bd372ed875d6bc17a3)</sub> | <sub>[6706300](https://github.com/SimplioOfficial/simplio-app/commit/67063006aa209e2ac62457bd372ed875d6bc17a3) wip - jvrastil</sub> |
 | <sub>2022-05-04 08:15:51</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d739e8d995c04bfa4b70772034affde50e04eeef)</sub> | <sub>[d739e8d](https://github.com/SimplioOfficial/simplio-app/commit/d739e8d995c04bfa4b70772034affde50e04eeef) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 1963 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-04 07:48:51</sub> | <sub>[[simplio-app:task/45\-searchable\-assets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0784a890fe166d64150f6588cd8d2a6979009dec)</sub> | <sub>[0784a89](https://github.com/SimplioOfficial/simplio-app/commit/0784a890fe166d64150f6588cd8d2a6979009dec) reducing layout rebuilds - storkandstars</sub> |
 | <sub>2022-05-04 07:42:00</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e27a9c6451a9c868762116a35c47aafe06bd375f)</sub> | <sub>[e27a9c6](https://github.com/SimplioOfficial/simplio-app/commit/e27a9c6451a9c868762116a35c47aafe06bd375f) wip - jvrastil</sub> |
 | <sub>2022-05-04 07:37:36</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7632858e2c353573650a9fa41e3c8deaf3d7ea83)</sub> | <sub>[7632858](https://github.com/SimplioOfficial/simplio-app/commit/7632858e2c353573650a9fa41e3c8deaf3d7ea83) wip - jvrastil</sub> |
-| <sub>2022-05-04 00:05:32</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88a05c5fd342b3b7c19fa498d4f6062126071226)</sub> | <sub>[88a05c5](https://github.com/SimplioOfficial/simplio-app/commit/88a05c5fd342b3b7c19fa498d4f6062126071226) Small fixes - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
