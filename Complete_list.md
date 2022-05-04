@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-04 00:05:32</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88a05c5fd342b3b7c19fa498d4f6062126071226)</sub> | <sub>[88a05c5](https://github.com/SimplioOfficial/simplio-app/commit/88a05c5fd342b3b7c19fa498d4f6062126071226) Small fixes - MariooW</sub> |
 | <sub>2022-05-03 23:48:18</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d309ac8371fb35d1dc8468ea792d5667f48f6eb5)</sub> | <sub>[d309ac8](https://github.com/SimplioOfficial/simplio-app/commit/d309ac8371fb35d1dc8468ea792d5667f48f6eb5) Small fixes - MariooW</sub> |
 | <sub>2022-05-03 23:16:31</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d1f4d8ec6319e7b30f59cc38cdf7adea35651f94)</sub> | <sub>[d1f4d8e](https://github.com/SimplioOfficial/simplio-app/commit/d1f4d8ec6319e7b30f59cc38cdf7adea35651f94) Small fixes - MariooW</sub> |
 | <sub>2022-05-03 22:57:14</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9da5154802b13829198821734fc80c900e09f02)</sub> | <sub>[c9da515](https://github.com/SimplioOfficial/simplio-app/commit/c9da5154802b13829198821734fc80c900e09f02) Small fixes - MariooW</sub> |
