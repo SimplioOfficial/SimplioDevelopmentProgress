@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-04 09:48:34</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0b3913ceb2d715259e3311786210f78b92d1648)</sub> | <sub>[d0b3913](https://github.com/SimplioOfficial/simplio-app/commit/d0b3913ceb2d715259e3311786210f78b92d1648) wip - jvrastil</sub> |
 | <sub>2022-05-04 09:37:42</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32529b95fedd351dda570090f9bfd14bda9c99ae)</sub> | <sub>[32529b9](https://github.com/SimplioOfficial/simplio-app/commit/32529b95fedd351dda570090f9bfd14bda9c99ae) wip - jvrastil</sub> |
 | <sub>2022-05-04 09:16:27</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/94513b404a13ab16f1e7e0fff2ab10bd49b14d17)</sub> | <sub>[94513b4](https://github.com/SimplioOfficial/simplio-app/commit/94513b404a13ab16f1e7e0fff2ab10bd49b14d17) wip - jvrastil</sub> |
 | <sub>2022-05-04 09:12:53</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62671dc5fb492859ef491a2dbff9cea7b2b2afa6)</sub> | <sub>[62671dc](https://github.com/SimplioOfficial/simplio-app/commit/62671dc5fb492859ef491a2dbff9cea7b2b2afa6) Update run_integration_tests.yml - MariooW</sub> |
