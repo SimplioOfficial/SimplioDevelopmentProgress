@@ -35367,5 +35367,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d0b3913ceb2d715259e3311786210f78b92d1648"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-04 09:50:39.150000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`867f07e`](https://github.com/SimplioOfficial/simplio-app/commit/867f07ed63fe7f9a89b4cd16536b0d38489d8d8d) wip - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/867f07ed63fe7f9a89b4cd16536b0d38489d8d8d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-04 09:51:40.843000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`17ba6cb`](https://github.com/SimplioOfficial/simplio-app/commit/17ba6cb6fa5388e9c8acde6d26e63b05ef51956a) wip - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/17ba6cb6fa5388e9c8acde6d26e63b05ef51956a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-04 09:52:47.282000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ff85317`](https://github.com/SimplioOfficial/simplio-app/commit/ff85317d968b264ea464cc2615b285fb219c631e) Equatable asset styles - storkandstars\n[`df1b5e6`](https://github.com/SimplioOfficial/simplio-app/commit/df1b5e634dd8bfbfc280114c100d2c5106151452) installing bloc test package - storkandstars\n[`4ac8d11`](https://github.com/SimplioOfficial/simplio-app/commit/4ac8d117db2cdc573e7bb758ec17f2a05fcc477e) adding asset toggle cubit test - storkandstars",
+      "title": "[simplio-app:task/45\\-searchable\\-assets] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9f499d3955ce...4ac8d117db2c"
+    }
   }
 ]
