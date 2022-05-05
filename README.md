@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2013 commits since 10/09/2021. You can see the complete history in
+There is a total of 2014 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 18:22:44</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cad8e20fcba785d55354504cda06b13eb71e3e3)</sub> | <sub>[9cad8e2](https://github.com/SimplioOfficial/simplio-app/commit/9cad8e20fcba785d55354504cda06b13eb71e3e3) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 18:16:03</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa)</sub> | <sub>[7a65d57](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 18:05:55</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebcfdf29d050761438521de726e9619e320ef362)</sub> | <sub>[ebcfdf2](https://github.com/SimplioOfficial/simplio-app/commit/ebcfdf29d050761438521de726e9619e320ef362) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 17:58:09</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/07fa1e510503b60890c9037e3b8c7135768e0427)</sub> | <sub>[07fa1e5](https://github.com/SimplioOfficial/simplio-app/commit/07fa1e510503b60890c9037e3b8c7135768e0427) wip - android - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2013 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-05 17:30:50</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69749f799255daa5ec5855c98e9a17bc91aa1745)</sub> | <sub>[69749f7](https://github.com/SimplioOfficial/simplio-app/commit/69749f799255daa5ec5855c98e9a17bc91aa1745) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 17:21:51</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53463a3a8854830f2bf5cabee8394e5001f8093e)</sub> | <sub>[53463a3](https://github.com/SimplioOfficial/simplio-app/commit/53463a3a8854830f2bf5cabee8394e5001f8093e) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 16:53:36</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ff7c64db34c042a7fc2a57075ee17125e5b7260)</sub> | <sub>[4ff7c64](https://github.com/SimplioOfficial/simplio-app/commit/4ff7c64db34c042a7fc2a57075ee17125e5b7260) wip - android - jvrastil</sub> |
-| <sub>2022-05-05 16:47:41</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65619084dbfacc73913c90c926cedbfa5f92ade4)</sub> | <sub>[6561908](https://github.com/SimplioOfficial/simplio-app/commit/65619084dbfacc73913c90c926cedbfa5f92ade4) wip - android - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
