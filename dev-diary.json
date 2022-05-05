@@ -35727,5 +35727,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d2fd336584bd7637abed9d6b4d5ee94a7b566e57"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 10:23:49.381000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d2fd336584bd...6e5c26e60388)",
+      "title": "[simplio-app] Branch bug/15\\-fex\\_deployment\\_on\\_master was force-pushed to `6e5c26e`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 10:24:41.867000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6e5c26e60388...5954c21c20f8)",
+      "title": "[simplio-app] Branch bug/15\\-fex\\_deployment\\_on\\_master was force-pushed to `5954c21`",
+      "type": "rich"
+    }
   }
 ]
