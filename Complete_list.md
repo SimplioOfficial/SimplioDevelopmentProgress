@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 23:20:08</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ca43ea34b0874ef9022bcf118ff49056e935bd86)</sub> | <sub>[ca43ea3](https://github.com/SimplioOfficial/simplio-app/commit/ca43ea34b0874ef9022bcf118ff49056e935bd86) Video Test #7 - MariooW</sub> |
 | <sub>2022-05-05 23:01:25</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea7daf490345fe0c5c3c472dc6937fef3dfd404d)</sub> | <sub>[ea7daf4](https://github.com/SimplioOfficial/simplio-app/commit/ea7daf490345fe0c5c3c472dc6937fef3dfd404d) Video Test #6 - MariooW</sub> |
 | <sub>2022-05-05 22:49:42</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f39be1d6d18f30ce4bdf835cfd0f93a5ba5acb7d)</sub> | <sub>[f39be1d](https://github.com/SimplioOfficial/simplio-app/commit/f39be1d6d18f30ce4bdf835cfd0f93a5ba5acb7d) Video Test #6 - MariooW</sub> |
 | <sub>2022-05-05 22:19:31</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea86bac3e35e6f10b0c17421f42ac8fdfe54c6b8)</sub> | <sub>[ea86bac](https://github.com/SimplioOfficial/simplio-app/commit/ea86bac3e35e6f10b0c17421f42ac8fdfe54c6b8) Video Test #5 - MariooW</sub> |
