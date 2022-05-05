@@ -36319,5 +36319,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f39be1d6d18f30ce4bdf835cfd0f93a5ba5acb7d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 23:01:25.816000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ea7daf4`](https://github.com/SimplioOfficial/simplio-app/commit/ea7daf490345fe0c5c3c472dc6937fef3dfd404d) Video Test #6 - MariooW",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ea7daf490345fe0c5c3c472dc6937fef3dfd404d"
+    }
   }
 ]
