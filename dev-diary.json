@@ -35761,5 +35761,23 @@
       "title": "[simplio-app] Branch bug/15\\-fex\\_deployment\\_on\\_master was force-pushed to `5954c21`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 10:46:31.854000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`04b4b6e`](https://github.com/SimplioOfficial/simplio-app/commit/04b4b6e4752277ba37fe220d450adcf4e83856f9) wip - android - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/04b4b6e4752277ba37fe220d450adcf4e83856f9"
+    }
   }
 ]
