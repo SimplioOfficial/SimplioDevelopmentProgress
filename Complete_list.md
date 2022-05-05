@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 14:29:40</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a95644fe5723ca5005bb1530268c8506d7d3d84)</sub> | <sub>[8a95644](https://github.com/SimplioOfficial/simplio-app/commit/8a95644fe5723ca5005bb1530268c8506d7d3d84) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 14:07:10</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/141f85c7978380e71d0f6166c7852005c3bb4c0c)</sub> | <sub>[141f85c](https://github.com/SimplioOfficial/simplio-app/commit/141f85c7978380e71d0f6166c7852005c3bb4c0c) increase sleep - Juliana Souza</sub> |
 | <sub>2022-05-05 13:43:04</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fdbd092c92222caf29e0b0070bb99e15aeaf6308)</sub> | <sub>[fdbd092](https://github.com/SimplioOfficial/simplio-app/commit/fdbd092c92222caf29e0b0070bb99e15aeaf6308) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 11:07:29</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e2aef770faa0c7a42c27ecaa52e2ae8cc5b142c)</sub> | <sub>[6e2aef7](https://github.com/SimplioOfficial/simplio-app/commit/6e2aef770faa0c7a42c27ecaa52e2ae8cc5b142c) wip - android - jvrastil</sub> |
