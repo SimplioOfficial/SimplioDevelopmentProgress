@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 13:43:04</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fdbd092c92222caf29e0b0070bb99e15aeaf6308)</sub> | <sub>[fdbd092](https://github.com/SimplioOfficial/simplio-app/commit/fdbd092c92222caf29e0b0070bb99e15aeaf6308) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 11:07:29</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e2aef770faa0c7a42c27ecaa52e2ae8cc5b142c)</sub> | <sub>[6e2aef7](https://github.com/SimplioOfficial/simplio-app/commit/6e2aef770faa0c7a42c27ecaa52e2ae8cc5b142c) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 10:46:31</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04b4b6e4752277ba37fe220d450adcf4e83856f9)</sub> | <sub>[04b4b6e](https://github.com/SimplioOfficial/simplio-app/commit/04b4b6e4752277ba37fe220d450adcf4e83856f9) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 10:24:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6e5c26e60388...5954c21c20f8)</sub> |
