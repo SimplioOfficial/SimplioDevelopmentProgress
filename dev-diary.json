@@ -35959,5 +35959,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/96cbe32c2e907dc02bd5e4030ea8a11b3e7b929b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 16:40:40.170000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6f67ef4`](https://github.com/SimplioOfficial/sio_core/commit/6f67ef4da4e1809a4c35fc9c15d83a47b0bb04d8) subtask: utxoCoinInsight transaction parsing. - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/6f67ef4da4e1809a4c35fc9c15d83a47b0bb04d8"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-05 16:42:03.245000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a2fa5b`](https://github.com/SimplioOfficial/simplio-app/commit/0a2fa5b23c57c23f0b96c15835a61560fce493ad) wip - android - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0a2fa5b23c57c23f0b96c15835a61560fce493ad"
+    }
   }
 ]
