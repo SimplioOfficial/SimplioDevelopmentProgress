@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2019 commits since 10/09/2021. You can see the complete history in
+There is a total of 2020 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 22:19:31</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea86bac3e35e6f10b0c17421f42ac8fdfe54c6b8)</sub> | <sub>[ea86bac](https://github.com/SimplioOfficial/simplio-app/commit/ea86bac3e35e6f10b0c17421f42ac8fdfe54c6b8) Video Test #5 - MariooW</sub> |
 | <sub>2022-05-05 22:13:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/216f99a8fd64de798df0900f6ed3fd35b14a4b9e)</sub> | <sub>[216f99a](https://github.com/SimplioOfficial/simplio-app/commit/216f99a8fd64de798df0900f6ed3fd35b14a4b9e) Video Test #4 - MariooW</sub> |
 | <sub>2022-05-05 19:57:03</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48791f09076e43745dccae402dec0df10451aa9a)</sub> | <sub>[48791f0](https://github.com/SimplioOfficial/simplio-app/commit/48791f09076e43745dccae402dec0df10451aa9a) Video Test #3 - MariooW</sub> |
 | <sub>2022-05-05 19:52:11</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04c6d05b2b9be382d70f4e10073ba861883d527a)</sub> | <sub>[04c6d05](https://github.com/SimplioOfficial/simplio-app/commit/04c6d05b2b9be382d70f4e10073ba861883d527a) Video Test #2 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2019 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-05 18:16:03</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa)</sub> | <sub>[7a65d57](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 18:05:55</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebcfdf29d050761438521de726e9619e320ef362)</sub> | <sub>[ebcfdf2](https://github.com/SimplioOfficial/simplio-app/commit/ebcfdf29d050761438521de726e9619e320ef362) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 17:58:09</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/07fa1e510503b60890c9037e3b8c7135768e0427)</sub> | <sub>[07fa1e5](https://github.com/SimplioOfficial/simplio-app/commit/07fa1e510503b60890c9037e3b8c7135768e0427) wip - android - jvrastil</sub> |
-| <sub>2022-05-05 17:44:35</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3fa5763807fbeaa1a11e1b0bb3298870d150f694)</sub> | <sub>[3fa5763](https://github.com/SimplioOfficial/simplio-app/commit/3fa5763807fbeaa1a11e1b0bb3298870d150f694) wip - android - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
