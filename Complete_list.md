@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-05 19:35:07</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d75972e44c0cd308c8510d080abdb098776d461b)</sub> | <sub>[d75972e](https://github.com/SimplioOfficial/simplio-app/commit/d75972e44c0cd308c8510d080abdb098776d461b) Video Test - MariooW</sub> |
 | <sub>2022-05-05 19:31:31</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bed46f2978c0c764356acae2b357c4d005cb8339)</sub> | <sub>[bed46f2](https://github.com/SimplioOfficial/simplio-app/commit/bed46f2978c0c764356acae2b357c4d005cb8339) Small fixes - MariooW</sub> |
 | <sub>2022-05-05 18:22:44</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cad8e20fcba785d55354504cda06b13eb71e3e3)</sub> | <sub>[9cad8e2](https://github.com/SimplioOfficial/simplio-app/commit/9cad8e20fcba785d55354504cda06b13eb71e3e3) wip - android - jvrastil</sub> |
 | <sub>2022-05-05 18:16:03</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa)</sub> | <sub>[7a65d57](https://github.com/SimplioOfficial/simplio-app/commit/7a65d578345a63508886948274a9716ed8a824fa) wip - android - jvrastil</sub> |
