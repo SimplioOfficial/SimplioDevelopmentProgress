@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-06 08:26:15</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c1f9ea21cf027f75164f8832e3fb370687d0d55a)</sub> | <sub>[c1f9ea2](https://github.com/SimplioOfficial/simplio-app/commit/c1f9ea21cf027f75164f8832e3fb370687d0d55a) wip - android - jvrastil</sub> |
 | <sub>2022-05-06 08:21:26</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5de2ec349af2cea846a138180f692c1f5e64ab8)</sub> | <sub>[c5de2ec](https://github.com/SimplioOfficial/simplio-app/commit/c5de2ec349af2cea846a138180f692c1f5e64ab8) Update run_integration_tests.yml - MariooW</sub> |
 | <sub>2022-05-06 08:11:27</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a79099f998cad1a4a0535746191508a005aecbb7)</sub> | <sub>[a79099f](https://github.com/SimplioOfficial/simplio-app/commit/a79099f998cad1a4a0535746191508a005aecbb7) wip - android - jvrastil</sub> |
 | <sub>2022-05-06 08:07:37</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3642f4316a4ff392e283ba19208399958512d89)</sub> | <sub>[e3642f4](https://github.com/SimplioOfficial/simplio-app/commit/e3642f4316a4ff392e283ba19208399958512d89) wip - android - jvrastil</sub> |
