@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-06 07:47:04</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0da560cc54be0e850d8b5c886dbcfa6e4fe4f96b)</sub> | <sub>[0da560c](https://github.com/SimplioOfficial/simplio-app/commit/0da560cc54be0e850d8b5c886dbcfa6e4fe4f96b) wip - android - jvrastil</sub> |
 | <sub>2022-05-06 07:33:37</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0cb60b4c934d8a432e24c304193d7207e7b8c6c)</sub> | <sub>[d0cb60b](https://github.com/SimplioOfficial/simplio-app/commit/d0cb60b4c934d8a432e24c304193d7207e7b8c6c) wip - android - jvrastil</sub> |
 | <sub>2022-05-06 05:29:54</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10a743d2001da524747a4cfac37a3e2449fa576b)</sub> | <sub>[10a743d](https://github.com/SimplioOfficial/simplio-app/commit/10a743d2001da524747a4cfac37a3e2449fa576b) Update run_integration_tests.yml - MariooW</sub> |
 | <sub>2022-05-05 23:59:57</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f95cafc86eb28c30f15ab04e9e7130f39d7218e1)</sub> | <sub>[f95cafc](https://github.com/SimplioOfficial/simplio-app/commit/f95cafc86eb28c30f15ab04e9e7130f39d7218e1) Video Test #10 - MariooW</sub> |
