@@ -36840,5 +36840,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/61f5b604b90a9dfa9c909b81ba92d738703054f6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-06 12:47:39.500000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`9705e84`](https://github.com/SimplioOfficial/simplio-app/commit/9705e84996603ba092dabd25745cf9467a907123) Bug/15 fix deployment on master (#55) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9705e84996603ba092dabd25745cf9467a907123"
+    }
   }
 ]
