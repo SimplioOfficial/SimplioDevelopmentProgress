@@ -36499,5 +36499,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/feb48dbf8907cc7babe256197757ea9eaa98c8e6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-06 08:01:44.717000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f42c424`](https://github.com/SimplioOfficial/simplio-app/commit/f42c42418d834f9fb264038da8e11ac6bfe2d578) wip - android - jvrastil",
+      "title": "[simplio-app:bug/15\\-fex\\_deployment\\_on\\_master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f42c42418d834f9fb264038da8e11ac6bfe2d578"
+    }
   }
 ]
