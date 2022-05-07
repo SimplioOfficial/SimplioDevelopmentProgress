@@ -36930,5 +36930,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-07 22:56:00.264000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`443d9af`](https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603) Revert changes - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603"
+    }
   }
 ]
