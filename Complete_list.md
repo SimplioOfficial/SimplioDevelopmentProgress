@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-07 23:09:21</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cac5b15f13e094ea3cec5f0291118ea760b6de7)</sub> | <sub>[4cac5b1](https://github.com/SimplioOfficial/simplio-app/commit/4cac5b15f13e094ea3cec5f0291118ea760b6de7) Add recodring - MariooW</sub> |
 | <sub>2022-05-07 22:56:00</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603)</sub> | <sub>[443d9af](https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603) Revert changes - MariooW</sub> |
 | <sub>2022-05-07 22:42:54</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d)</sub> | <sub>[19ae03c](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d) comment some code to test - MariooW</sub> |
 | <sub>2022-05-07 21:36:32</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692)</sub> | <sub>[43c888e](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692) Fix name of file integration_test.dart - MariooW</sub> |

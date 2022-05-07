@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2056 commits since 10/09/2021. You can see the complete history in
+There is a total of 2057 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-07 23:09:21</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cac5b15f13e094ea3cec5f0291118ea760b6de7)</sub> | <sub>[4cac5b1](https://github.com/SimplioOfficial/simplio-app/commit/4cac5b15f13e094ea3cec5f0291118ea760b6de7) Add recodring - MariooW</sub> |
 | <sub>2022-05-07 22:56:00</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603)</sub> | <sub>[443d9af](https://github.com/SimplioOfficial/simplio-app/commit/443d9aff285341502dc9d8f2d53501811c7e8603) Revert changes - MariooW</sub> |
 | <sub>2022-05-07 22:42:54</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d)</sub> | <sub>[19ae03c](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d) comment some code to test - MariooW</sub> |
 | <sub>2022-05-07 21:36:32</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692)</sub> | <sub>[43c888e](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692) Fix name of file integration_test.dart - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2056 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-06 12:37:08</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61f5b604b90a9dfa9c909b81ba92d738703054f6)</sub> | <sub>[61f5b60](https://github.com/SimplioOfficial/simplio-app/commit/61f5b604b90a9dfa9c909b81ba92d738703054f6) fix after code review - jvrastil</sub> |
 | <sub>2022-05-06 10:25:58</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0683514a50c34ef9c180246d73635480b4c6afa)</sub> | <sub>[a068351](https://github.com/SimplioOfficial/simplio-app/commit/a0683514a50c34ef9c180246d73635480b4c6afa) final changes before review - jvrastil</sub> |
 | <sub>2022-05-06 10:18:37</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c7b325124806beb7176c767d228856c2c8b8eb4)</sub> | <sub>[2c7b325](https://github.com/SimplioOfficial/simplio-app/commit/2c7b325124806beb7176c767d228856c2c8b8eb4) final changes before review - jvrastil</sub> |
-| <sub>2022-05-06 10:17:47</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd69c498a3f67d39415a40b366b8b199107516f7)</sub> | <sub>[fd69c49](https://github.com/SimplioOfficial/simplio-app/commit/fd69c498a3f67d39415a40b366b8b199107516f7) final changes before review - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
