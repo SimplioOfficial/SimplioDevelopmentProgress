@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2053 commits since 10/09/2021. You can see the complete history in
+There is a total of 2054 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-07 21:36:32</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692)</sub> | <sub>[43c888e](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692) Fix name of file integration_test.dart - MariooW</sub> |
 | <sub>2022-05-07 21:27:59</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0339507708e9d089f192af46ec1d54377e28dcdd)</sub> | <sub>[0339507](https://github.com/SimplioOfficial/simplio-app/commit/0339507708e9d089f192af46ec1d54377e28dcdd) Tests changes for inital infrastructure - MariooW</sub> |
 | <sub>2022-05-07 21:09:22</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 26 new commits](https://github.com/SimplioOfficial/simplio-app/compare/01bd992350e1^...1927996618fc)</sub> | <sub>[01bd992](https://github.com/SimplioOfficial/simplio-app/commit/01bd992350e1fb0d9d5fd42ce86d173975a1a77e) Adding changes to app and integration tests. - MariooW<br>[5099ba5](https://github.com/SimplioOfficial/simplio-app/commit/5099ba52ea2396b683f40d7e2bf3a4217e7d67a8) Adding changes to app and integration tests. - MariooW<br>[9e89a03](https://github.com/SimplioOfficial/simplio-app/commit/9e89a039be6da3e0997596c12dfc0195afd7bf15) Adding changes to app and integration tests. - MariooW<br>[4aa15de](https://github.com/SimplioOfficial/simplio-app/commit/4aa15de421150e2bb3347f8291f1015040c777c4) Adding changes to app and integration tests. - MariooW<br>[b5315af](https://github.com/SimplioOfficial/simplio-app/commit/b5315affa38d5ef8156e1ce5d5d5b3076b46e8b1) Adding changes to app and integration tests. - MariooW</sub> |
 | <sub>2022-05-06 12:47:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9705e84996603ba092dabd25745cf9467a907123)</sub> | <sub>[9705e84](https://github.com/SimplioOfficial/simplio-app/commit/9705e84996603ba092dabd25745cf9467a907123) Bug/15 fix deployment on master (#55) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2053 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-06 10:17:47</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd69c498a3f67d39415a40b366b8b199107516f7)</sub> | <sub>[fd69c49](https://github.com/SimplioOfficial/simplio-app/commit/fd69c498a3f67d39415a40b366b8b199107516f7) final changes before review - jvrastil</sub> |
 | <sub>2022-05-06 10:16:26</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b64f4125dbac...c196a1063a3d)</sub> |
 | <sub>2022-05-06 10:11:38</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b64f4125dbacf8ffbde2804e812adf12342918e3)</sub> | <sub>[b64f412](https://github.com/SimplioOfficial/simplio-app/commit/b64f4125dbacf8ffbde2804e812adf12342918e3) wip - android - jvrastil</sub> |
-| <sub>2022-05-06 09:39:04</sub> | <sub>[[simplio-app:bug/15\-fex\_deployment\_on\_master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d9c2569bfe371fb2d115c53878423177e241350)</sub> | <sub>[6d9c256](https://github.com/SimplioOfficial/simplio-app/commit/6d9c2569bfe371fb2d115c53878423177e241350) wip - android - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
