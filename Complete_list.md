@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-08 00:38:52</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f)</sub> | <sub>[f6a11f8](https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f) Add recodring #6 - MariooW</sub> |
 | <sub>2022-05-07 23:53:27</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d31f0121700fedb97ab7589526f57abaf98f3b8)</sub> | <sub>[4d31f01](https://github.com/SimplioOfficial/simplio-app/commit/4d31f0121700fedb97ab7589526f57abaf98f3b8) Add recodring #5 - MariooW</sub> |
 | <sub>2022-05-07 23:38:19</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92fce2fed78eb283a3e88384760081e85c7bbde4)</sub> | <sub>[92fce2f](https://github.com/SimplioOfficial/simplio-app/commit/92fce2fed78eb283a3e88384760081e85c7bbde4) Add recodring #4 - MariooW</sub> |
 | <sub>2022-05-07 23:36:35</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98f75007b7039fa60cf9e79926f50f2eff68d3b1)</sub> | <sub>[98f7500](https://github.com/SimplioOfficial/simplio-app/commit/98f75007b7039fa60cf9e79926f50f2eff68d3b1) Add recodring #3 - MariooW</sub> |

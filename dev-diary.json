@@ -37038,5 +37038,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4d31f0121700fedb97ab7589526f57abaf98f3b8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-08 00:38:52.079000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f6a11f8`](https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f) Add recodring #6 - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f"
+    }
   }
 ]

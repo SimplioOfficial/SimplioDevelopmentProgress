@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2061 commits since 10/09/2021. You can see the complete history in
+There is a total of 2062 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-08 00:38:52</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f)</sub> | <sub>[f6a11f8](https://github.com/SimplioOfficial/simplio-app/commit/f6a11f8128a97bc350d06881d53c0da66057f83f) Add recodring #6 - MariooW</sub> |
 | <sub>2022-05-07 23:53:27</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d31f0121700fedb97ab7589526f57abaf98f3b8)</sub> | <sub>[4d31f01](https://github.com/SimplioOfficial/simplio-app/commit/4d31f0121700fedb97ab7589526f57abaf98f3b8) Add recodring #5 - MariooW</sub> |
 | <sub>2022-05-07 23:38:19</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92fce2fed78eb283a3e88384760081e85c7bbde4)</sub> | <sub>[92fce2f](https://github.com/SimplioOfficial/simplio-app/commit/92fce2fed78eb283a3e88384760081e85c7bbde4) Add recodring #4 - MariooW</sub> |
 | <sub>2022-05-07 23:36:35</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98f75007b7039fa60cf9e79926f50f2eff68d3b1)</sub> | <sub>[98f7500](https://github.com/SimplioOfficial/simplio-app/commit/98f75007b7039fa60cf9e79926f50f2eff68d3b1) Add recodring #3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2061 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-07 22:42:54</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d)</sub> | <sub>[19ae03c](https://github.com/SimplioOfficial/simplio-app/commit/19ae03c457b1500d2d2ef75cf86fb9c15b49dc0d) comment some code to test - MariooW</sub> |
 | <sub>2022-05-07 21:36:32</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692)</sub> | <sub>[43c888e](https://github.com/SimplioOfficial/simplio-app/commit/43c888e8ed0cb8124c4199450786fd24d24a8692) Fix name of file integration_test.dart - MariooW</sub> |
 | <sub>2022-05-07 21:27:59</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0339507708e9d089f192af46ec1d54377e28dcdd)</sub> | <sub>[0339507](https://github.com/SimplioOfficial/simplio-app/commit/0339507708e9d089f192af46ec1d54377e28dcdd) Tests changes for inital infrastructure - MariooW</sub> |
-| <sub>2022-05-07 21:09:22</sub> | <sub>[[simplio-app:infrastructure/11\_initial\_tests] 26 new commits](https://github.com/SimplioOfficial/simplio-app/compare/01bd992350e1^...1927996618fc)</sub> | <sub>[01bd992](https://github.com/SimplioOfficial/simplio-app/commit/01bd992350e1fb0d9d5fd42ce86d173975a1a77e) Adding changes to app and integration tests. - MariooW<br>[5099ba5](https://github.com/SimplioOfficial/simplio-app/commit/5099ba52ea2396b683f40d7e2bf3a4217e7d67a8) Adding changes to app and integration tests. - MariooW<br>[9e89a03](https://github.com/SimplioOfficial/simplio-app/commit/9e89a039be6da3e0997596c12dfc0195afd7bf15) Adding changes to app and integration tests. - MariooW<br>[4aa15de](https://github.com/SimplioOfficial/simplio-app/commit/4aa15de421150e2bb3347f8291f1015040c777c4) Adding changes to app and integration tests. - MariooW<br>[b5315af](https://github.com/SimplioOfficial/simplio-app/commit/b5315affa38d5ef8156e1ce5d5d5b3076b46e8b1) Adding changes to app and integration tests. - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
