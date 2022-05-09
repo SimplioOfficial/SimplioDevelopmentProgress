@@ -37164,5 +37164,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-dex-solana/commit/391e4433b54622e9ac734393dbcc054d787c841d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-09 11:51:14.222000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`67d5700`](https://github.com/SimplioOfficial/sio_core/commit/67d5700a4df0347acc0006fad5a0ffb42675d683) coverage: tests for utxoCoins insight - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/67d5700a4df0347acc0006fad5a0ffb42675d683"
+    }
   }
 ]
