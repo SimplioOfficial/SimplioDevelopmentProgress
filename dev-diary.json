@@ -37182,5 +37182,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/67d5700a4df0347acc0006fad5a0ffb42675d683"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-09 12:25:06.425000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`84ab4a4`](https://github.com/SimplioOfficial/sio_core/commit/84ab4a4674ccebcc7cf84bd4d8d389f15a441ade) fix: removed obsolete throw error - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/84ab4a4674ccebcc7cf84bd4d8d389f15a441ade"
+    }
   }
 ]

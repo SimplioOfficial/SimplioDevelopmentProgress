@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-09 12:25:06</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/84ab4a4674ccebcc7cf84bd4d8d389f15a441ade)</sub> | <sub>[84ab4a4](https://github.com/SimplioOfficial/sio_core/commit/84ab4a4674ccebcc7cf84bd4d8d389f15a441ade) fix: removed obsolete throw error - ciripel</sub> |
 | <sub>2022-05-09 11:51:14</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/67d5700a4df0347acc0006fad5a0ffb42675d683)</sub> | <sub>[67d5700](https://github.com/SimplioOfficial/sio_core/commit/67d5700a4df0347acc0006fad5a0ffb42675d683) coverage: tests for utxoCoins insight - ciripel</sub> |
 | <sub>2022-05-09 07:32:55</sub> | <sub>[[simplio-dex-solana:master] 1 new commit](https://github.com/SimplioOfficial/simplio-dex-solana/commit/391e4433b54622e9ac734393dbcc054d787c841d)</sub> | <sub>[391e443](https://github.com/SimplioOfficial/simplio-dex-solana/commit/391e4433b54622e9ac734393dbcc054d787c841d) swap api - yuriagile</sub> |
 | <sub>2022-05-09 06:38:44</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/381adb1650e529c964eec4de4b0a360a02c5b40a)</sub> | <sub>[381adb1](https://github.com/SimplioOfficial/sio_core/commit/381adb1650e529c964eec4de4b0a360a02c5b40a) subtask: utxoCoinInsight transaction parsing. - ciripel</sub> |
