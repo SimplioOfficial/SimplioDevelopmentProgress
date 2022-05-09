@@ -37200,5 +37200,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/84ab4a4674ccebcc7cf84bd4d8d389f15a441ade"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-09 12:41:29.577000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1f4ee53`](https://github.com/SimplioOfficial/simplio-app/commit/1f4ee534448916a128e7e3c71b1b2c067a78f7ce) Increase git rubby package version - jvrastil",
+      "title": "[simplio-app:infrastructure/fix\\_dependabot] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1f4ee534448916a128e7e3c71b1b2c067a78f7ce"
+    }
   }
 ]
