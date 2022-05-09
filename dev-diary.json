@@ -37146,5 +37146,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/381adb1650e529c964eec4de4b0a360a02c5b40a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-09 07:32:55.587000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`391e443`](https://github.com/SimplioOfficial/simplio-dex-solana/commit/391e4433b54622e9ac734393dbcc054d787c841d) swap api - yuriagile",
+      "title": "[simplio-dex-solana:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-dex-solana/commit/391e4433b54622e9ac734393dbcc054d787c841d"
+    }
   }
 ]
