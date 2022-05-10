@@ -37326,5 +37326,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fe17d7586889c9b519e38092b7de4cc95b2471c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-10 21:49:13.732000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`136f481`](https://github.com/SimplioOfficial/simplio-app/commit/136f4814ef869705bf42fbebb2f1550f85d05c62) Adding get branch #3 - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/136f4814ef869705bf42fbebb2f1550f85d05c62"
+    }
   }
 ]
