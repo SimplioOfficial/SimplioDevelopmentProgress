@@ -37254,5 +37254,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/documentation/commit/364ad5500380671ef853dc24263dd425b688e18e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-10 12:55:04.042000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ed1c2f6`](https://github.com/SimplioOfficial/simplio-mobile/commit/ed1c2f6b49b08c365bd59529dcf2f6906a08a2d0) Fix swipelux data when creating new order - jvrastil\n[`6b2c911`](https://github.com/SimplioOfficial/simplio-mobile/commit/6b2c91164ffc04b7e2c5a6f5e5bafcff4fabab37) increase versions - jvrastil",
+      "title": "[simplio-mobile:v0\\.3\\.0] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/42a504636fc3...6b2c91164ffc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-10 12:55:14.133000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ed1c2f6`](https://github.com/SimplioOfficial/simplio-mobile/commit/ed1c2f6b49b08c365bd59529dcf2f6906a08a2d0) Fix swipelux data when creating new order - jvrastil\n[`6b2c911`](https://github.com/SimplioOfficial/simplio-mobile/commit/6b2c91164ffc04b7e2c5a6f5e5bafcff4fabab37) increase versions - jvrastil\n[`4b9b641`](https://github.com/SimplioOfficial/simplio-mobile/commit/4b9b641328da919d2c6eb4b523513e5cf5ea10cc) Merge branch 'v0.3.0' into testing - jvrastil",
+      "title": "[simplio-mobile:testing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-mobile/compare/63067c2aa248...4b9b641328da"
+    }
   }
 ]
