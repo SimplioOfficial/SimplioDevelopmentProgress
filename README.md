@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2102 commits since 10/09/2021. You can see the complete history in
+There is a total of 2103 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-11 20:49:11</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1)</sub> | <sub>[e7f3575](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 20:31:59</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599)</sub> | <sub>[55ce967](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 20:12:45</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f481153192bfbae561305b65b6a22b041aef9ac6)</sub> | <sub>[f481153](https://github.com/SimplioOfficial/simplio-app/commit/f481153192bfbae561305b65b6a22b041aef9ac6) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 17:59:46</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aef62a61a2b94d25007f5e79e657a7d0c9e012ea)</sub> | <sub>[aef62a6](https://github.com/SimplioOfficial/simplio-app/commit/aef62a61a2b94d25007f5e79e657a7d0c9e012ea) Task/45 searchable assets (#54) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2102 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-11 14:57:24</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f)</sub> | <sub>[b01be29](https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 14:56:07</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a)</sub> | <sub>[e3684b0](https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 14:54:18</sub> | <sub>[[simplio-app:test] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b1056418f375^...a1ad017bc709)</sub> | <sub>[b105641](https://github.com/SimplioOfficial/simplio-app/commit/b1056418f3750ea05854539f0318850f790cbceb) Ios build fix - jvrastil<br>[a1ad017](https://github.com/SimplioOfficial/simplio-app/commit/a1ad017bc709f6f71a467b0758f7ce6dc88012d9) ios build fix - jvrastil</sub> |
-| <sub>2022-05-11 13:39:16</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/10ddb1a510cfe48f1b4d4eb245fc33dfe5d46177)</sub> | <sub>[10ddb1a](https://github.com/SimplioOfficial/sio_core/commit/10ddb1a510cfe48f1b4d4eb245fc33dfe5d46177) subtask: solana tokens transactions parsing - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
