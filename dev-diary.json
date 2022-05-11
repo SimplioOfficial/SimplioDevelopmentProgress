@@ -37704,5 +37704,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dade728beddd9b0daf6b121975271520f50a568a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-11 16:58:45.705000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`8cff436`](https://github.com/SimplioOfficial/simplio-app/commit/8cff436d63f3ecedfdf8e601aeae5c70f75ab417) add key to integration test - Juliana Souza\n[`1a9e322`](https://github.com/SimplioOfficial/simplio-app/commit/1a9e3227ac9a71e4cb25724c147bce176628a46e) add integration test to searchable assets - Juliana Souza",
+      "title": "[simplio-app:task/45\\-searchable\\-assets\\-addtest] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/8cff436d63f3^...1a9e3227ac9a"
+    }
   }
 ]
