@@ -37560,5 +37560,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/623939656e7f13ba4ea6591022fa11e1b472ab29"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-11 08:30:38.572000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2a827e2`](https://github.com/SimplioOfficial/sio_core/commit/2a827e2ecb8110329e2678555274791b6d4d590f) subtask: solana transactions parsing - 1 call only - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2a827e2ecb8110329e2678555274791b6d4d590f"
+    }
   }
 ]
