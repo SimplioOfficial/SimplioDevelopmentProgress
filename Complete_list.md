@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-11 15:21:04</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dade728beddd9b0daf6b121975271520f50a568a)</sub> | <sub>[dade728](https://github.com/SimplioOfficial/simplio-app/commit/dade728beddd9b0daf6b121975271520f50a568a) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 15:12:19</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9501895bf8bb71d35bb2b5b12d18b61b3a185746)</sub> | <sub>[9501895](https://github.com/SimplioOfficial/simplio-app/commit/9501895bf8bb71d35bb2b5b12d18b61b3a185746) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 14:57:24</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f)</sub> | <sub>[b01be29](https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 14:56:07</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a)</sub> | <sub>[e3684b0](https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a) ios build fix - jvrastil</sub> |
