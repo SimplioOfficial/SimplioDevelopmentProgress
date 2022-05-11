@@ -37578,5 +37578,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/2a827e2ecb8110329e2678555274791b6d4d590f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-11 10:21:06.930000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`faffb38`](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - MariooW\n[`a11f0dc`](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - MariooW\n[`88e4a66`](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - MariooW\n[`04ac435`](https://github.com/SimplioOfficial/simplio-app/commit/04ac435834431104af6d7f19e73f2626ef8e338e) Changes in android versions - adding 28 and 31 - MariooW\n[`47ead4e`](https://github.com/SimplioOfficial/simplio-app/commit/47ead4e41e6ab4618f1e3082d814131abd552941) Changes in android versions - adding 28 and 31 - MariooW",
+      "title": "[simplio-app:Mario\\_initial\\_inf] 27 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/faffb3855b24^...69579d9731f4"
+    }
   }
 ]
