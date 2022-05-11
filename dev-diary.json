@@ -37632,5 +37632,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/b1056418f375^...a1ad017bc709"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-11 14:56:07.353000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`e3684b0`](https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a) ios build fix - jvrastil",
+      "title": "[simplio-app:test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e3684b0ba0888345bc6bef418a1ce9aaee1d534a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-11 14:57:24.123000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b01be29`](https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f) ios build fix - jvrastil",
+      "title": "[simplio-app:test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b01be294183cf32a81dd4402660a8e814040b57f"
+    }
   }
 ]
