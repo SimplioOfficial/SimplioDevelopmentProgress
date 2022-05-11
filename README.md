@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2092 commits since 10/09/2021. You can see the complete history in
+There is a total of 2093 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-11 13:39:16</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/10ddb1a510cfe48f1b4d4eb245fc33dfe5d46177)</sub> | <sub>[10ddb1a](https://github.com/SimplioOfficial/sio_core/commit/10ddb1a510cfe48f1b4d4eb245fc33dfe5d46177) subtask: solana tokens transactions parsing - ciripel</sub> |
 | <sub>2022-05-11 10:21:06</sub> | <sub>[[simplio-app:Mario\_initial\_inf] 27 new commits](https://github.com/SimplioOfficial/simplio-app/compare/faffb3855b24^...69579d9731f4)</sub> | <sub>[faffb38](https://github.com/SimplioOfficial/simplio-app/commit/faffb3855b24e9f1128061bfc9e9daadd96c504f) Adding Integration Tests - MariooW<br>[a11f0dc](https://github.com/SimplioOfficial/simplio-app/commit/a11f0dce061a47b6a7c5491cdb4c12e6126c985d) Adding Integration Tests -manual trigger - MariooW<br>[88e4a66](https://github.com/SimplioOfficial/simplio-app/commit/88e4a661977f667e82dfea844e16f27829f9dd8d) Adding Integration Tests adding my branch to au... - MariooW<br>[04ac435](https://github.com/SimplioOfficial/simplio-app/commit/04ac435834431104af6d7f19e73f2626ef8e338e) Changes in android versions - adding 28 and 31 - MariooW<br>[47ead4e](https://github.com/SimplioOfficial/simplio-app/commit/47ead4e41e6ab4618f1e3082d814131abd552941) Changes in android versions - adding 28 and 31 - MariooW</sub> |
 | <sub>2022-05-11 08:30:38</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2a827e2ecb8110329e2678555274791b6d4d590f)</sub> | <sub>[2a827e2](https://github.com/SimplioOfficial/sio_core/commit/2a827e2ecb8110329e2678555274791b6d4d590f) subtask: solana transactions parsing - 1 call only - ciripel</sub> |
 | <sub>2022-05-10 22:43:38</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/623939656e7f13ba4ea6591022fa11e1b472ab29)</sub> | <sub>[6239396](https://github.com/SimplioOfficial/simplio-app/commit/623939656e7f13ba4ea6591022fa11e1b472ab29) Update publish_production_version.yml - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2092 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-10 22:11:44</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d28a14cefbf0b94ef4eb965e237ae2939575943b)</sub> | <sub>[d28a14c](https://github.com/SimplioOfficial/simplio-app/commit/d28a14cefbf0b94ef4eb965e237ae2939575943b) Adding get branch #8 - MariooW</sub> |
 | <sub>2022-05-10 22:10:15</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43141ad9cec287a441d61eff96f331976ab6da5a)</sub> | <sub>[43141ad](https://github.com/SimplioOfficial/simplio-app/commit/43141ad9cec287a441d61eff96f331976ab6da5a) Adding get branch #7 - MariooW</sub> |
 | <sub>2022-05-10 22:08:36</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/166f34bda503d165ed3c339cdc8f151791351b10)</sub> | <sub>[166f34b](https://github.com/SimplioOfficial/simplio-app/commit/166f34bda503d165ed3c339cdc8f151791351b10) Adding get branch #7 - MariooW</sub> |
-| <sub>2022-05-10 22:07:27</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b442f155fb50e8ddc15986d43a027004758d668)</sub> | <sub>[7b442f1](https://github.com/SimplioOfficial/simplio-app/commit/7b442f155fb50e8ddc15986d43a027004758d668) Adding get branch #7 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
