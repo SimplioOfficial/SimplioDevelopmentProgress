@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-12 08:01:06</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58)</sub> | <sub>[19c1886](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58) coverage: ignore coverage lines of confirmed - ciripel</sub> |
 | <sub>2022-05-12 07:50:27</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9a02ef15f5c02f60de77aca81185db324106aea)</sub> | <sub>[f9a02ef](https://github.com/SimplioOfficial/simplio-app/commit/f9a02ef15f5c02f60de77aca81185db324106aea) wip - jvrastil</sub> |
 | <sub>2022-05-11 20:49:11</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1)</sub> | <sub>[e7f3575](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 20:31:59</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599)</sub> | <sub>[55ce967](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599) ios build fix - jvrastil</sub> |
