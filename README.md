@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2110 commits since 10/09/2021. You can see the complete history in
+There is a total of 2111 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-12 14:31:43</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/988d90cfcc9e...f3949b478be7)</sub> |
 | <sub>2022-05-12 13:37:21</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/988d90cfcc9eb102575e1743dc7fab2b6dcd1fb2)</sub> | <sub>[988d90c](https://github.com/SimplioOfficial/simplio-app/commit/988d90cfcc9eb102575e1743dc7fab2b6dcd1fb2) fix - jvrastil</sub> |
 | <sub>2022-05-12 11:09:52</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b71e7b431c5c50d65a701adf5616c8c0bbbf30cf)</sub> | <sub>[b71e7b4](https://github.com/SimplioOfficial/simplio-app/commit/b71e7b431c5c50d65a701adf5616c8c0bbbf30cf) fix - jvrastil</sub> |
 | <sub>2022-05-12 09:23:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ef265ea1d399...8ab2282df1a5)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2110 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-12 07:50:27</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9a02ef15f5c02f60de77aca81185db324106aea)</sub> | <sub>[f9a02ef](https://github.com/SimplioOfficial/simplio-app/commit/f9a02ef15f5c02f60de77aca81185db324106aea) wip - jvrastil</sub> |
 | <sub>2022-05-11 20:49:11</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1)</sub> | <sub>[e7f3575](https://github.com/SimplioOfficial/simplio-app/commit/e7f35756ffc4ec79af3795575c2955db559658c1) ios build fix - jvrastil</sub> |
 | <sub>2022-05-11 20:31:59</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599)</sub> | <sub>[55ce967](https://github.com/SimplioOfficial/simplio-app/commit/55ce967aa5838bd91b48b003756e6670fa895599) ios build fix - jvrastil</sub> |
-| <sub>2022-05-11 20:12:45</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f481153192bfbae561305b65b6a22b041aef9ac6)</sub> | <sub>[f481153](https://github.com/SimplioOfficial/simplio-app/commit/f481153192bfbae561305b65b6a22b041aef9ac6) ios build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
