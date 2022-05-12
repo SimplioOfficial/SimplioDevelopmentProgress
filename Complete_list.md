@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-12 09:23:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ef265ea1d399...8ab2282df1a5)</sub> |
 | <sub>2022-05-12 09:08:23</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef265ea1d399935dbcf80f4cf79dc45b146f648d)</sub> | <sub>[ef265ea](https://github.com/SimplioOfficial/simplio-app/commit/ef265ea1d399935dbcf80f4cf79dc45b146f648d) wip - jvrastil</sub> |
 | <sub>2022-05-12 08:18:16</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f34b50147c0097d11c916487bb4b6023fcabf58)</sub> | <sub>[4f34b50](https://github.com/SimplioOfficial/simplio-app/commit/4f34b50147c0097d11c916487bb4b6023fcabf58) wip - jvrastil</sub> |
 | <sub>2022-05-12 08:01:06</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58)</sub> | <sub>[19c1886](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58) coverage: ignore coverage lines of confirmed - ciripel</sub> |

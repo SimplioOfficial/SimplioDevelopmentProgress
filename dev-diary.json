@@ -37866,5 +37866,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ef265ea1d399935dbcf80f4cf79dc45b146f648d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-12 09:23:57.373000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ef265ea1d399...8ab2282df1a5)",
+      "title": "[simplio-app] Branch test was force-pushed to `8ab2282`",
+      "type": "rich"
+    }
   }
 ]
