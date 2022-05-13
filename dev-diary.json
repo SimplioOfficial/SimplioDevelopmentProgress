@@ -38026,5 +38026,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-dex-solana/commit/a7577334c48bf0f11b6d6d63607a55781d8b4408"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-13 11:50:42.741000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7be0b0d`](https://github.com/SimplioOfficial/sio_core/commit/7be0b0d2050dccb063e80064a996d19df8ec1e79) subtask: ethereum transactions parsing + tests - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/7be0b0d2050dccb063e80064a996d19df8ec1e79"
+    }
   }
 ]
