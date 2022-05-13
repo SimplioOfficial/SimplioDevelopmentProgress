@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2114 commits since 10/09/2021. You can see the complete history in
+There is a total of 2115 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-13 08:11:20</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/de58dafb8bc8ccf920c3f4b792321771a709b4ce)</sub> | <sub>[de58daf](https://github.com/SimplioOfficial/sio_core/commit/de58dafb8bc8ccf920c3f4b792321771a709b4ce) ci: flutter version increase to 3.0.0 - ciripel</sub> |
 | <sub>2022-05-13 05:19:31</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d4a3c4fb436ab75c5f96af9300402c89d35d772)</sub> | <sub>[6d4a3c4](https://github.com/SimplioOfficial/simplio-app/commit/6d4a3c4fb436ab75c5f96af9300402c89d35d772) FIx - MariooW</sub> |
 | <sub>2022-05-13 05:16:42</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c081483cff755e227d4214a661ae7954884ca9be)</sub> | <sub>[c081483](https://github.com/SimplioOfficial/simplio-app/commit/c081483cff755e227d4214a661ae7954884ca9be) FIx - MariooW</sub> |
 | <sub>2022-05-13 05:00:00</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3949b478be7f400c5f28361df134b67c25520ec)</sub> | <sub>[f3949b4](https://github.com/SimplioOfficial/simplio-app/commit/f3949b478be7f400c5f28361df134b67c25520ec) Ios build fix - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2114 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-12 09:23:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ef265ea1d399...8ab2282df1a5)</sub> |
 | <sub>2022-05-12 09:08:23</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef265ea1d399935dbcf80f4cf79dc45b146f648d)</sub> | <sub>[ef265ea](https://github.com/SimplioOfficial/simplio-app/commit/ef265ea1d399935dbcf80f4cf79dc45b146f648d) wip - jvrastil</sub> |
 | <sub>2022-05-12 08:18:16</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f34b50147c0097d11c916487bb4b6023fcabf58)</sub> | <sub>[4f34b50](https://github.com/SimplioOfficial/simplio-app/commit/4f34b50147c0097d11c916487bb4b6023fcabf58) wip - jvrastil</sub> |
-| <sub>2022-05-12 08:01:06</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58)</sub> | <sub>[19c1886](https://github.com/SimplioOfficial/sio_core/commit/19c188647b85a57ac2b4acef3a5d858f6b9ecd58) coverage: ignore coverage lines of confirmed - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
