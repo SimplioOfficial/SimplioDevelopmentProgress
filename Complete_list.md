@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-13 09:36:37</sub> | <sub>[[simplio-dex-solana:master] 1 new commit](https://github.com/SimplioOfficial/simplio-dex-solana/commit/a7577334c48bf0f11b6d6d63607a55781d8b4408)</sub> | <sub>[a757733](https://github.com/SimplioOfficial/simplio-dex-solana/commit/a7577334c48bf0f11b6d6d63607a55781d8b4408) exception handle - yuriagile</sub> |
 | <sub>2022-05-13 08:11:20</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/de58dafb8bc8ccf920c3f4b792321771a709b4ce)</sub> | <sub>[de58daf](https://github.com/SimplioOfficial/sio_core/commit/de58dafb8bc8ccf920c3f4b792321771a709b4ce) ci: flutter version increase to 3.0.0 - ciripel</sub> |
 | <sub>2022-05-13 05:19:31</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d4a3c4fb436ab75c5f96af9300402c89d35d772)</sub> | <sub>[6d4a3c4](https://github.com/SimplioOfficial/simplio-app/commit/6d4a3c4fb436ab75c5f96af9300402c89d35d772) FIx - MariooW</sub> |
 | <sub>2022-05-13 05:16:42</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c081483cff755e227d4214a661ae7954884ca9be)</sub> | <sub>[c081483](https://github.com/SimplioOfficial/simplio-app/commit/c081483cff755e227d4214a661ae7954884ca9be) FIx - MariooW</sub> |

@@ -38008,5 +38008,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/de58dafb8bc8ccf920c3f4b792321771a709b4ce"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-13 09:36:37.718000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`a757733`](https://github.com/SimplioOfficial/simplio-dex-solana/commit/a7577334c48bf0f11b6d6d63607a55781d8b4408) exception handle - yuriagile",
+      "title": "[simplio-dex-solana:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-dex-solana/commit/a7577334c48bf0f11b6d6d63607a55781d8b4408"
+    }
   }
 ]
