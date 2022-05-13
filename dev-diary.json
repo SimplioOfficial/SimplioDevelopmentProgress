@@ -38044,5 +38044,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/7be0b0d2050dccb063e80064a996d19df8ec1e79"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-13 12:15:22.557000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d6c5b58`](https://github.com/SimplioOfficial/sio_core/commit/d6c5b581a93165638ec8a3f639a77c4876c93978) coverage: corrected exception apiEndpoint for eth - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/d6c5b581a93165638ec8a3f639a77c4876c93978"
+    }
   }
 ]
