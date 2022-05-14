@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-14 19:08:00</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e)</sub> | <sub>[370729b](https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e) fix ios simulator - jvrastil</sub> |
 | <sub>2022-05-14 18:37:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f3949b478be7...201c2f9d60a8)</sub> |
 | <sub>2022-05-13 12:15:22</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d6c5b581a93165638ec8a3f639a77c4876c93978)</sub> | <sub>[d6c5b58](https://github.com/SimplioOfficial/sio_core/commit/d6c5b581a93165638ec8a3f639a77c4876c93978) coverage: corrected exception apiEndpoint for eth - ciripel</sub> |
 | <sub>2022-05-13 11:50:42</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7be0b0d2050dccb063e80064a996d19df8ec1e79)</sub> | <sub>[7be0b0d](https://github.com/SimplioOfficial/sio_core/commit/7be0b0d2050dccb063e80064a996d19df8ec1e79) subtask: ethereum transactions parsing + tests - ciripel</sub> |

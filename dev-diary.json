@@ -38079,5 +38079,23 @@
       "title": "[simplio-app] Branch test was force-pushed to `201c2f9`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-14 19:08:00.642000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`370729b`](https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e) fix ios simulator - jvrastil",
+      "title": "[simplio-app:test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e"
+    }
   }
 ]
