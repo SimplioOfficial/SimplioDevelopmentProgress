@@ -38097,5 +38097,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-14 19:24:39.925000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`305571c`](https://github.com/SimplioOfficial/simplio-app/commit/305571c20a138eabf7061309e5fc13391a69351f) fix ios simulator - jvrastil",
+      "title": "[simplio-app:test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/305571c20a138eabf7061309e5fc13391a69351f"
+    }
   }
 ]
