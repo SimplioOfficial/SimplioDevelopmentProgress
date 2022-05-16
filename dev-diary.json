@@ -38241,5 +38241,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 08:28:13.539000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`9e333a9`](https://github.com/SimplioOfficial/simplio-app/commit/9e333a98bf8df2f21fb96aef9927c4056083f833) Fix ios simulator issue - jvrastil\n[`63102ec`](https://github.com/SimplioOfficial/simplio-app/commit/63102ecbb9dcbd337f238ea6951fdcfd295fb999) FIX iOS Build - MariooW\n[`cc37bfe`](https://github.com/SimplioOfficial/simplio-app/commit/cc37bfe6a199ff84f79bd3650fa38fe2767d8d14) Tests changes for inital infrastructure - MariooW\n[`3656393`](https://github.com/SimplioOfficial/simplio-app/commit/3656393e067a3f8df0357f533dbfc6a29811dfe8) Adding get branch - MariooW\n[`357b750`](https://github.com/SimplioOfficial/simplio-app/commit/357b7501bd6d34196ba492a2af403784bdb60c7a) Ios build fix - jvrastil",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0130a8d3122f...46dea9e77d78"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 08:29:20.822000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`7903263`](https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1) FIX iOS Build #2 - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1"
+    }
   }
 ]

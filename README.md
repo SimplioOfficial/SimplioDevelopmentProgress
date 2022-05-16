@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2128 commits since 10/09/2021. You can see the complete history in
+There is a total of 2130 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-16 08:29:20</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1)</sub> | <sub>[7903263](https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1) FIX iOS Build #2 - MariooW</sub> |
+| <sub>2022-05-16 08:28:13</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0130a8d3122f...46dea9e77d78)</sub> | <sub>[9e333a9](https://github.com/SimplioOfficial/simplio-app/commit/9e333a98bf8df2f21fb96aef9927c4056083f833) Fix ios simulator issue - jvrastil<br>[63102ec](https://github.com/SimplioOfficial/simplio-app/commit/63102ecbb9dcbd337f238ea6951fdcfd295fb999) FIX iOS Build - MariooW<br>[cc37bfe](https://github.com/SimplioOfficial/simplio-app/commit/cc37bfe6a199ff84f79bd3650fa38fe2767d8d14) Tests changes for inital infrastructure - MariooW<br>[3656393](https://github.com/SimplioOfficial/simplio-app/commit/3656393e067a3f8df0357f533dbfc6a29811dfe8) Adding get branch - MariooW<br>[357b750](https://github.com/SimplioOfficial/simplio-app/commit/357b7501bd6d34196ba492a2af403784bdb60c7a) Ios build fix - jvrastil</sub> |
 | <sub>2022-05-16 08:00:19</sub> | <sub>[[simplio-app:bug/61\-fix\_simulator\_issue\_on\_ios] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4)</sub> | <sub>[b15ce0a](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4) Fix ios simulator issue - jvrastil</sub> |
 | <sub>2022-05-16 07:54:33</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2)</sub> | <sub>[0130a8d](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2) Update project.pbxproj - MariooW</sub> |
 | <sub>2022-05-16 07:01:57</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87221e2428de2c781d746d65d7b4ebcf2a9acff8)</sub> | <sub>[87221e2](https://github.com/SimplioOfficial/simplio-app/commit/87221e2428de2c781d746d65d7b4ebcf2a9acff8) fix ios simulator - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 2128 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-14 20:01:48</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1cc8b1bf1ee975b1e87094be0115b9b213550b45)</sub> | <sub>[1cc8b1b](https://github.com/SimplioOfficial/simplio-app/commit/1cc8b1bf1ee975b1e87094be0115b9b213550b45) fix ios simulator - jvrastil</sub> |
 | <sub>2022-05-14 19:45:41</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f07872214db53b2f4a6b67508c551da1b96b65ed)</sub> | <sub>[f078722](https://github.com/SimplioOfficial/simplio-app/commit/f07872214db53b2f4a6b67508c551da1b96b65ed) fix ios simulator - jvrastil</sub> |
 | <sub>2022-05-14 19:24:39</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/305571c20a138eabf7061309e5fc13391a69351f)</sub> | <sub>[305571c](https://github.com/SimplioOfficial/simplio-app/commit/305571c20a138eabf7061309e5fc13391a69351f) fix ios simulator - jvrastil</sub> |
-| <sub>2022-05-14 19:08:00</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e)</sub> | <sub>[370729b](https://github.com/SimplioOfficial/simplio-app/commit/370729bf3478ec0fe4ed1e7ebdd7837273ca9f0e) fix ios simulator - jvrastil</sub> |
-| <sub>2022-05-14 18:37:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f3949b478be7...201c2f9d60a8)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
