@@ -38349,5 +38349,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/09fd053fa084dd31505e161bf993865b785b1b61"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 09:16:17.251000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dd0e110`](https://github.com/SimplioOfficial/sio_core/commit/dd0e1103ad0fc037121fbad1d8ac8272a87b0fbb) test: fix api endpoint for BCH to trezor - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/dd0e1103ad0fc037121fbad1d8ac8272a87b0fbb"
+    }
   }
 ]
