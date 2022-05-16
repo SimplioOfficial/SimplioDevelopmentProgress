@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-16 08:00:19</sub> | <sub>[[simplio-app:bug/61\-fix\_simulator\_issue\_on\_ios] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4)</sub> | <sub>[b15ce0a](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4) Fix ios simulator issue - jvrastil</sub> |
 | <sub>2022-05-16 07:54:33</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2)</sub> | <sub>[0130a8d](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2) Update project.pbxproj - MariooW</sub> |
 | <sub>2022-05-16 07:01:57</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87221e2428de2c781d746d65d7b4ebcf2a9acff8)</sub> | <sub>[87221e2](https://github.com/SimplioOfficial/simplio-app/commit/87221e2428de2c781d746d65d7b4ebcf2a9acff8) fix ios simulator - jvrastil</sub> |
 | <sub>2022-05-14 20:41:55</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b1f20b5c878d90521216a5aef1283acaf05bf324)</sub> | <sub>[b1f20b5](https://github.com/SimplioOfficial/simplio-app/commit/b1f20b5c878d90521216a5aef1283acaf05bf324) fix ios simulator - jvrastil</sub> |
