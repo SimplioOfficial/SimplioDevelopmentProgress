@@ -38277,5 +38277,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 08:43:52.521000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`988f531`](https://github.com/SimplioOfficial/simplio-app/commit/988f5318b790ca893063da9ed0d06a01992b566d) FIX iOS Build #3 - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/988f5318b790ca893063da9ed0d06a01992b566d"
+    }
   }
 ]
