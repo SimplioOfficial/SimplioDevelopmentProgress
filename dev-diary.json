@@ -38511,5 +38511,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/31a64121c5cbd62bf6cb05d23d723214859d3476"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 23:04:15.162000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d43a4cb`](https://github.com/SimplioOfficial/simplio-app/commit/d43a4cb5f972a20ee01d43674a28b09f358ea257) Update reactivecircus - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d43a4cb5f972a20ee01d43674a28b09f358ea257"
+    }
   }
 ]
