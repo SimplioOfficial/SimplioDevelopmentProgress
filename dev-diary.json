@@ -38403,5 +38403,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/76af835fbaf823619102f3710899876694555a34"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 13:45:16.550000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3001f62`](https://github.com/SimplioOfficial/simplio-app/commit/3001f6203cc8cd9fcda0f1c762771611f9d1b775) bug/61 - Fix ios simulator issue - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3001f6203cc8cd9fcda0f1c762771611f9d1b775"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 13:45:40.103000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3e3203b`](https://github.com/SimplioOfficial/simplio-app/commit/3e3203b45fbe2040161c1050ca5ba2d724c5485c) Increase git rubby package version - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e3203b45fbe2040161c1050ca5ba2d724c5485c"
+    }
   }
 ]
