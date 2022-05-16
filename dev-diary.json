@@ -38367,5 +38367,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/dd0e1103ad0fc037121fbad1d8ac8272a87b0fbb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 10:17:54.345000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f649ecf`](https://github.com/SimplioOfficial/simplio-app/commit/f649ecf5803ab251d4d3c6fa1357f834a640764c) fix pod install - jvrastil",
+      "title": "[simplio-app:infrastructure/check\\_ios\\_Fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f649ecf5803ab251d4d3c6fa1357f834a640764c"
+    }
   }
 ]
