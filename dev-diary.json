@@ -38439,5 +38439,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e3203b45fbe2040161c1050ca5ba2d724c5485c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-16 21:32:33.002000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f0e6558`](https://github.com/SimplioOfficial/simplio-app/commit/f0e6558e84f2a000d970cd44a177fe60cdac4385) Test Android - MariooW\n[`cf9ffa9`](https://github.com/SimplioOfficial/simplio-app/commit/cf9ffa9828b3ce7a2dd23993642b49eb2ed33e9a) Merge branch 'infrastructure/check_ios_Fix' of ... - MariooW",
+      "title": "[simplio-app:infrastructure/check\\_ios\\_Fix] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f649ecf5803a...cf9ffa9828b3"
+    }
   }
 ]
