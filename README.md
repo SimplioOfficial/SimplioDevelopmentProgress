@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2136 commits since 10/09/2021. You can see the complete history in
+There is a total of 2137 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-16 12:06:56</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/76af835fbaf823619102f3710899876694555a34)</sub> | <sub>[76af835](https://github.com/SimplioOfficial/sio_core/commit/76af835fbaf823619102f3710899876694555a34) coverage: ERC20 send tx test - ciripel</sub> |
 | <sub>2022-05-16 10:17:54</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f649ecf5803ab251d4d3c6fa1357f834a640764c)</sub> | <sub>[f649ecf](https://github.com/SimplioOfficial/simplio-app/commit/f649ecf5803ab251d4d3c6fa1357f834a640764c) fix pod install - jvrastil</sub> |
 | <sub>2022-05-16 09:16:17</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/dd0e1103ad0fc037121fbad1d8ac8272a87b0fbb)</sub> | <sub>[dd0e110](https://github.com/SimplioOfficial/sio_core/commit/dd0e1103ad0fc037121fbad1d8ac8272a87b0fbb) test: fix api endpoint for BCH to trezor - ciripel</sub> |
 | <sub>2022-05-16 09:14:21</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09fd053fa084dd31505e161bf993865b785b1b61)</sub> | <sub>[09fd053](https://github.com/SimplioOfficial/simplio-app/commit/09fd053fa084dd31505e161bf993865b785b1b61) Checking iOS Fix in new Test Branch - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2136 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-16 08:29:20</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1)</sub> | <sub>[7903263](https://github.com/SimplioOfficial/simplio-app/commit/790326371f751005972a73301ea975190f778cd1) FIX iOS Build #2 - MariooW</sub> |
 | <sub>2022-05-16 08:28:13</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0130a8d3122f...46dea9e77d78)</sub> | <sub>[9e333a9](https://github.com/SimplioOfficial/simplio-app/commit/9e333a98bf8df2f21fb96aef9927c4056083f833) Fix ios simulator issue - jvrastil<br>[63102ec](https://github.com/SimplioOfficial/simplio-app/commit/63102ecbb9dcbd337f238ea6951fdcfd295fb999) FIX iOS Build - MariooW<br>[cc37bfe](https://github.com/SimplioOfficial/simplio-app/commit/cc37bfe6a199ff84f79bd3650fa38fe2767d8d14) Tests changes for inital infrastructure - MariooW<br>[3656393](https://github.com/SimplioOfficial/simplio-app/commit/3656393e067a3f8df0357f533dbfc6a29811dfe8) Adding get branch - MariooW<br>[357b750](https://github.com/SimplioOfficial/simplio-app/commit/357b7501bd6d34196ba492a2af403784bdb60c7a) Ios build fix - jvrastil</sub> |
 | <sub>2022-05-16 08:00:19</sub> | <sub>[[simplio-app:bug/61\-fix\_simulator\_issue\_on\_ios] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4)</sub> | <sub>[b15ce0a](https://github.com/SimplioOfficial/simplio-app/commit/b15ce0a12a7cfd1dc9f3198d5d02b8bd6a7995f4) Fix ios simulator issue - jvrastil</sub> |
-| <sub>2022-05-16 07:54:33</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2)</sub> | <sub>[0130a8d](https://github.com/SimplioOfficial/simplio-app/commit/0130a8d3122faec3ae9c9914cb6cc2feb8c1c1f2) Update project.pbxproj - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
