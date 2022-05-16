@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-16 09:14:21</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09fd053fa084dd31505e161bf993865b785b1b61)</sub> | <sub>[09fd053](https://github.com/SimplioOfficial/simplio-app/commit/09fd053fa084dd31505e161bf993865b785b1b61) Checking iOS Fix in new Test Branch - MariooW</sub> |
 | <sub>2022-05-16 09:08:18</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9e5354427ab46c1c4ec9e7ff8bb687d63f60d865)</sub> | <sub>[9e53544](https://github.com/SimplioOfficial/sio_core/commit/9e5354427ab46c1c4ec9e7ff8bb687d63f60d865) subtask: ERC20 transactions parsing + tests - ciripel</sub> |
 | <sub>2022-05-16 08:56:00</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad7ac3b310f3b7c11836a3ca48dc06ce1492afe8)</sub> | <sub>[ad7ac3b](https://github.com/SimplioOfficial/simplio-app/commit/ad7ac3b310f3b7c11836a3ca48dc06ce1492afe8) FIX iOS Build #4 - MariooW</sub> |
 | <sub>2022-05-16 08:43:52</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/988f5318b790ca893063da9ed0d06a01992b566d)</sub> | <sub>[988f531](https://github.com/SimplioOfficial/simplio-app/commit/988f5318b790ca893063da9ed0d06a01992b566d) FIX iOS Build #3 - MariooW</sub> |
