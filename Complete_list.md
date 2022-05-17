@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-17 15:08:02</sub> | <sub>[[simplio-dex-solana:master] 2 new commits](https://github.com/SimplioOfficial/simplio-dex-solana/compare/a7577334c48b...2a504e2ecd77)</sub> | <sub>[983516a](https://github.com/SimplioOfficial/simplio-dex-solana/commit/983516a77ea9e9818fab2783e7605b1ad517fd04) readme - yuriagile<br>[2a504e2](https://github.com/SimplioOfficial/simplio-dex-solana/commit/2a504e2ecd777f4529099cf4ac8c4635329efb4c) Merge branch 'master' of github.com:SimplioOffi... - yuriagile</sub> |
 | <sub>2022-05-17 12:52:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d80edc2ac899...0fb8de26238e)</sub> |
 | <sub>2022-05-17 12:49:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/85a11b762fc4...d80edc2ac899)</sub> |
 | <sub>2022-05-17 12:36:28</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f)</sub> | <sub>[cfb2fd9](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f) subtask: cosmos transactions parsing + tests - ciripel</sub> |
