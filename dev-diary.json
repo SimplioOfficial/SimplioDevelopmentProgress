@@ -38619,5 +38619,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-17 08:34:42.601000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`4aa32cb`](https://github.com/SimplioOfficial/simplio-app/commit/4aa32cbdd5d39fc826c6a98ccb53499ef3519a63) Tests changes for inital infrastructure - MariooW\n[`b61b7ff`](https://github.com/SimplioOfficial/simplio-app/commit/b61b7ff54b3ffabfc2fa08b27a3613c5d6027725) Adding get branch - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/bb050b2cdb7d...b61b7ff54b3f"
+    }
   }
 ]
