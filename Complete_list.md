@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-17 12:52:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d80edc2ac899...0fb8de26238e)</sub> |
 | <sub>2022-05-17 12:49:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/85a11b762fc4...d80edc2ac899)</sub> |
 | <sub>2022-05-17 12:36:28</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f)</sub> | <sub>[cfb2fd9](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f) subtask: cosmos transactions parsing + tests - ciripel</sub> |
 | <sub>2022-05-17 08:34:42</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bb050b2cdb7d...b61b7ff54b3f)</sub> | <sub>[4aa32cb](https://github.com/SimplioOfficial/simplio-app/commit/4aa32cbdd5d39fc826c6a98ccb53499ef3519a63) Tests changes for inital infrastructure - MariooW<br>[b61b7ff](https://github.com/SimplioOfficial/simplio-app/commit/b61b7ff54b3ffabfc2fa08b27a3613c5d6027725) Adding get branch - MariooW</sub> |
