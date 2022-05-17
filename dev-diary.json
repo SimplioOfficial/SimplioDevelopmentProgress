@@ -38637,5 +38637,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/bb050b2cdb7d...b61b7ff54b3f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-17 12:36:28.659000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`cfb2fd9`](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f) subtask: cosmos transactions parsing + tests - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f"
+    }
   }
 ]
