@@ -38583,5 +38583,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/24588b08b517b09d77b6b9acd617e44497b423c4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-17 06:51:15.796000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a32c7f9`](https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76) Test #4 - MariooW",
+      "title": "[simplio-app:infrastructure/check\\_ios\\_Fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76"
+    }
   }
 ]
