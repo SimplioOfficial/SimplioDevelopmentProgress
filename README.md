@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2157 commits since 10/09/2021. You can see the complete history in
+There is a total of 2158 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-17 19:41:30</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a)</sub> | <sub>[0a6b1ca](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW</sub> |
 | <sub>2022-05-17 19:37:52</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc)</sub> | <sub>[4a8f8bb](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc) Apply tests changes #2 - MariooW</sub> |
 | <sub>2022-05-17 19:36:01</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c)</sub> | <sub>[81ba171](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c) Apply tests changes - MariooW</sub> |
 | <sub>2022-05-17 19:15:18</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78f9685716d586f7d3faf3f3f6bcef6c86c0d5c5)</sub> | <sub>[78f9685](https://github.com/SimplioOfficial/simplio-app/commit/78f9685716d586f7d3faf3f3f6bcef6c86c0d5c5) Apply changes regarding master - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2157 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-17 12:36:28</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f)</sub> | <sub>[cfb2fd9](https://github.com/SimplioOfficial/sio_core/commit/cfb2fd92f667e969560908a32d071a4bf759820f) subtask: cosmos transactions parsing + tests - ciripel</sub> |
 | <sub>2022-05-17 08:34:42</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bb050b2cdb7d...b61b7ff54b3f)</sub> | <sub>[4aa32cb](https://github.com/SimplioOfficial/simplio-app/commit/4aa32cbdd5d39fc826c6a98ccb53499ef3519a63) Tests changes for inital infrastructure - MariooW<br>[b61b7ff](https://github.com/SimplioOfficial/simplio-app/commit/b61b7ff54b3ffabfc2fa08b27a3613c5d6027725) Adding get branch - MariooW</sub> |
 | <sub>2022-05-17 07:30:33</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d)</sub> | <sub>[bb050b2](https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d) Changes to fix builds - MariooW</sub> |
-| <sub>2022-05-17 06:51:15</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76)</sub> | <sub>[a32c7f9](https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76) Test #4 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
