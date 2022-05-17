@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-17 07:30:33</sub> | <sub>[[simplio-app:infrastructure/11\_init\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d)</sub> | <sub>[bb050b2](https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d) Changes to fix builds - MariooW</sub> |
 | <sub>2022-05-17 06:51:15</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76)</sub> | <sub>[a32c7f9](https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76) Test #4 - MariooW</sub> |
 | <sub>2022-05-17 06:17:03</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24588b08b517b09d77b6b9acd617e44497b423c4)</sub> | <sub>[24588b0](https://github.com/SimplioOfficial/simplio-app/commit/24588b08b517b09d77b6b9acd617e44497b423c4) Test #3 - MariooW</sub> |
 | <sub>2022-05-16 23:21:18</sub> | <sub>[[simplio-app:infrastructure/check\_ios\_Fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb464cb1b63c562dbc9e7f4364c8cabc2091a450)</sub> | <sub>[cb464cb](https://github.com/SimplioOfficial/simplio-app/commit/cb464cb1b63c562dbc9e7f4364c8cabc2091a450) Test #2 - MariooW</sub> |

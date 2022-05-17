@@ -38601,5 +38601,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a32c7f90ea1f373d5bffd72441aa928679449d76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-17 07:30:33.433000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`bb050b2`](https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d) Changes to fix builds - MariooW",
+      "title": "[simplio-app:infrastructure/11\\_init\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bb050b2cdb7d3a181a88ed299ce62c5a18eb123d"
+    }
   }
 ]
