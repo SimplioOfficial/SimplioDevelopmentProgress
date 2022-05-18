@@ -38904,5 +38904,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c39b326cd80b11f672504ad778c277d03ad51499"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:43:08.386000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`81ba171`](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c) Apply tests changes - MariooW\n[`4a8f8bb`](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc) Apply tests changes #2 - MariooW\n[`0a6b1ca`](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW\n[`e6412d7`](https://github.com/SimplioOfficial/simplio-app/commit/e6412d7b01c6968a744688e011eedac41cb99355) Merge pull request #64 from SimplioOfficial/inf... - MariooW",
+      "title": "[simplio-app:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/3e3203b45fbe...e6412d7b01c6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:43:31.594000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a680cf61971c...65869cb8e529)",
+      "title": "[simplio-app] Branch task/21\\-initial\\_sending was force-pushed to `65869cb`",
+      "type": "rich"
+    }
   }
 ]
