@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-18 06:38:32</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248)</sub> | <sub>[b7def9a](https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248) fix unit tests - jvrastil</sub> |
 | <sub>2022-05-17 19:41:30</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a)</sub> | <sub>[0a6b1ca](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW</sub> |
 | <sub>2022-05-17 19:37:52</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc)</sub> | <sub>[4a8f8bb](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc) Apply tests changes #2 - MariooW</sub> |
 | <sub>2022-05-17 19:36:01</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c)</sub> | <sub>[81ba171](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c) Apply tests changes - MariooW</sub> |

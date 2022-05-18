@@ -38779,5 +38779,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 06:38:32.862000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b7def9a`](https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248) fix unit tests - jvrastil",
+      "title": "[simplio-app:task/19\\-initialize\\_mnemonic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248"
+    }
   }
 ]
