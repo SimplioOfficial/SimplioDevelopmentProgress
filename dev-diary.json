@@ -38832,5 +38832,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/0fe46db9230188a1742b261a523b72432259c934"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:05:22.563000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`504ff7c`](https://github.com/SimplioOfficial/sio_core/commit/504ff7c20fd7f520cfb2d316c75dc9eaf52095b7) chore: increased version to 0.0.9 - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/504ff7c20fd7f520cfb2d316c75dc9eaf52095b7"
+    }
   }
 ]
