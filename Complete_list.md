@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-18 09:51:18</sub> | <sub>[[sio_core:task/transactions\_for\_address] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0fe46db9230188a1742b261a523b72432259c934)</sub> | <sub>[0fe46db](https://github.com/SimplioOfficial/sio_core/commit/0fe46db9230188a1742b261a523b72432259c934) coverage: add receive osmo tx test - ciripel</sub> |
 | <sub>2022-05-18 08:55:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b7def9aacf19...99bf3d438fe0)</sub> |
 | <sub>2022-05-18 06:38:32</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248)</sub> | <sub>[b7def9a](https://github.com/SimplioOfficial/simplio-app/commit/b7def9aacf19686b52407d9062cb065d938ea248) fix unit tests - jvrastil</sub> |
 | <sub>2022-05-17 19:41:30</sub> | <sub>[[simplio-app:infrastructure/11\-initial\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a)</sub> | <sub>[0a6b1ca](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW</sub> |

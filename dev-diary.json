@@ -38814,5 +38814,23 @@
       "title": "[simplio-app] Branch task/19\\-initialize\\_mnemonic was force-pushed to `99bf3d4`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 09:51:18.363000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0fe46db`](https://github.com/SimplioOfficial/sio_core/commit/0fe46db9230188a1742b261a523b72432259c934) coverage: add receive osmo tx test - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/0fe46db9230188a1742b261a523b72432259c934"
+    }
   }
 ]
