@@ -38850,5 +38850,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/504ff7c20fd7f520cfb2d316c75dc9eaf52095b7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:20:23.883000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1622f4c`](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c) Subtask/balance in big int (#38) - ciripel\n[`504a41e`](https://github.com/SimplioOfficial/sio_core/commit/504a41ea62925956e0c36e822824ba0d59c3d860) Merge branch 'master' into task/transactions_fo... - ciripel",
+      "title": "[sio_core:task/transactions\\_for\\_address] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/504ff7c20fd7...504a41ea6292"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:22:06.763000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`752a75c`](https://github.com/SimplioOfficial/simplio-app/commit/752a75c82fd2ea55b7c0cf6502cee155e2df2ab3) update package - jvrastil",
+      "title": "[simplio-app:task/19\\-initialize\\_mnemonic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/752a75c82fd2ea55b7c0cf6502cee155e2df2ab3"
+    }
   }
 ]
