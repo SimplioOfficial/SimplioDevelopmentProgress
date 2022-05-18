@@ -38939,5 +38939,23 @@
       "title": "[simplio-app] Branch task/21\\-initial\\_sending was force-pushed to `65869cb`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-18 10:46:16.759000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a3fdaea`](https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1) Task/transactions for address (#39) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1"
+    }
   }
 ]
