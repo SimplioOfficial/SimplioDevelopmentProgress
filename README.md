@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2172 commits since 10/09/2021. You can see the complete history in
+There is a total of 2173 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-19 20:10:54</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d84eb3313f65e7f71b31e7c6e1158f28dcc614ac)</sub> | <sub>[d84eb33](https://github.com/SimplioOfficial/simplio-app/commit/d84eb3313f65e7f71b31e7c6e1158f28dcc614ac) screenshot test on android - Juliana Souza</sub> |
 | <sub>2022-05-19 16:08:46</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f8cfa26d3fdf...2ca48c463f09)</sub> | <sub>[712efc7](https://github.com/SimplioOfficial/simplio-app/commit/712efc7e8b2bd095fe86c55e6eb27b3485d7cbf9) removing comments - storkandstars<br>[2ca48c4](https://github.com/SimplioOfficial/simplio-app/commit/2ca48c463f0912e14b44ffa8166765393a8cfe5c) adding asset's decimal - storkandstars</sub> |
 | <sub>2022-05-19 15:41:39</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8cfa26d3fdf188780f5869c121a52999881bbe3)</sub> | <sub>[f8cfa26](https://github.com/SimplioOfficial/simplio-app/commit/f8cfa26d3fdf188780f5869c121a52999881bbe3) styling login screen - storkandstars</sub> |
 | <sub>2022-05-19 14:22:40</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3b9941ffc7582810ad7274e4fb20d3aa7890cee)</sub> | <sub>[c3b9941](https://github.com/SimplioOfficial/simplio-app/commit/c3b9941ffc7582810ad7274e4fb20d3aa7890cee) missing files - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2172 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-18 10:43:08</sub> | <sub>[[simplio-app:master] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e3203b45fbe...e6412d7b01c6)</sub> | <sub>[81ba171](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c) Apply tests changes - MariooW<br>[4a8f8bb](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc) Apply tests changes #2 - MariooW<br>[0a6b1ca](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW<br>[e6412d7](https://github.com/SimplioOfficial/simplio-app/commit/e6412d7b01c6968a744688e011eedac41cb99355) Merge pull request #64 from SimplioOfficial/inf... - MariooW</sub> |
 | <sub>2022-05-18 10:28:07</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c39b326cd80b11f672504ad778c277d03ad51499)</sub> | <sub>[c39b326](https://github.com/SimplioOfficial/simplio-app/commit/c39b326cd80b11f672504ad778c277d03ad51499) update package - jvrastil</sub> |
 | <sub>2022-05-18 10:22:06</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/752a75c82fd2ea55b7c0cf6502cee155e2df2ab3)</sub> | <sub>[752a75c](https://github.com/SimplioOfficial/simplio-app/commit/752a75c82fd2ea55b7c0cf6502cee155e2df2ab3) update package - jvrastil</sub> |
-| <sub>2022-05-18 10:20:23</sub> | <sub>[[sio_core:task/transactions\_for\_address] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/504ff7c20fd7...504a41ea6292)</sub> | <sub>[1622f4c](https://github.com/SimplioOfficial/sio_core/commit/1622f4c2d925243fab535ecbe077777307cbb99c) Subtask/balance in big int (#38) - ciripel<br>[504a41e](https://github.com/SimplioOfficial/sio_core/commit/504a41ea62925956e0c36e822824ba0d59c3d860) Merge branch 'master' into task/transactions_fo... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
