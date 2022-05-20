@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2174 commits since 10/09/2021. You can see the complete history in
+There is a total of 2175 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-20 13:40:38</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49677d6de60a619beeb00f6fc0704d5b210ce5ef)</sub> | <sub>[49677d6](https://github.com/SimplioOfficial/simplio-app/commit/49677d6de60a619beeb00f6fc0704d5b210ce5ef) build fix - jvrastil</sub> |
 | <sub>2022-05-20 13:38:24</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aafb19dde68cbeaedf5b512f0945885310f92d01)</sub> | <sub>[aafb19d](https://github.com/SimplioOfficial/simplio-app/commit/aafb19dde68cbeaedf5b512f0945885310f92d01) add auth guard - jvrastil</sub> |
 | <sub>2022-05-19 20:10:54</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d84eb3313f65e7f71b31e7c6e1158f28dcc614ac)</sub> | <sub>[d84eb33](https://github.com/SimplioOfficial/simplio-app/commit/d84eb3313f65e7f71b31e7c6e1158f28dcc614ac) screenshot test on android - Juliana Souza</sub> |
 | <sub>2022-05-19 16:08:46</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f8cfa26d3fdf...2ca48c463f09)</sub> | <sub>[712efc7](https://github.com/SimplioOfficial/simplio-app/commit/712efc7e8b2bd095fe86c55e6eb27b3485d7cbf9) removing comments - storkandstars<br>[2ca48c4](https://github.com/SimplioOfficial/simplio-app/commit/2ca48c463f0912e14b44ffa8166765393a8cfe5c) adding asset's decimal - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2174 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-18 10:46:16</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1)</sub> | <sub>[a3fdaea](https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1) Task/transactions for address (#39) - ciripel</sub> |
 | <sub>2022-05-18 10:43:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a680cf61971c...65869cb8e529)</sub> |
 | <sub>2022-05-18 10:43:08</sub> | <sub>[[simplio-app:master] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e3203b45fbe...e6412d7b01c6)</sub> | <sub>[81ba171](https://github.com/SimplioOfficial/simplio-app/commit/81ba171dfec564f08cca09c0331738b1dc43059c) Apply tests changes - MariooW<br>[4a8f8bb](https://github.com/SimplioOfficial/simplio-app/commit/4a8f8bb79b3fd7415c1485dd5c0fdff7b2d5f0dc) Apply tests changes #2 - MariooW<br>[0a6b1ca](https://github.com/SimplioOfficial/simplio-app/commit/0a6b1ca23f60cddce37df5bb7948c35314a1700a) Apply tests changes #3 - MariooW<br>[e6412d7](https://github.com/SimplioOfficial/simplio-app/commit/e6412d7b01c6968a744688e011eedac41cb99355) Merge pull request #64 from SimplioOfficial/inf... - MariooW</sub> |
-| <sub>2022-05-18 10:28:07</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c39b326cd80b11f672504ad778c277d03ad51499)</sub> | <sub>[c39b326](https://github.com/SimplioOfficial/simplio-app/commit/c39b326cd80b11f672504ad778c277d03ad51499) update package - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
