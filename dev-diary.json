@@ -39083,5 +39083,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/49677d6de60a619beeb00f6fc0704d5b210ce5ef"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-20 21:49:07.545000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c23f3f5`](https://github.com/SimplioOfficial/simplio-app/commit/c23f3f5ac99bcef3ae3d44c2b4b9917c32d93486) load last account - storkandstars\n[`6555990`](https://github.com/SimplioOfficial/simplio-app/commit/655599003bd3e7857fa1b644e25a6e139d8f1128) load last account - storkandstars",
+      "title": "[simplio-app:wip/create\\-multichain\\-wallet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/aafb19dde68c...655599003bd3"
+    }
   }
 ]
