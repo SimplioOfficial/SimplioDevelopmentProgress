@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2177 commits since 10/09/2021. You can see the complete history in
+There is a total of 2178 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-20 22:34:05</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84fa22e8ad5ec161467729f0be783e94a366dd7c)</sub> | <sub>[84fa22e](https://github.com/SimplioOfficial/simplio-app/commit/84fa22e8ad5ec161467729f0be783e94a366dd7c) removing nested conditions - storkandstars</sub> |
 | <sub>2022-05-20 21:50:56</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2169d84a2757d1cbec6b01ea249fe16a6e7ef0d)</sub> | <sub>[e2169d8](https://github.com/SimplioOfficial/simplio-app/commit/e2169d84a2757d1cbec6b01ea249fe16a6e7ef0d) resolving incorrectly fixed conflict - storkandstars</sub> |
 | <sub>2022-05-20 21:49:07</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/aafb19dde68c...655599003bd3)</sub> | <sub>[c23f3f5](https://github.com/SimplioOfficial/simplio-app/commit/c23f3f5ac99bcef3ae3d44c2b4b9917c32d93486) load last account - storkandstars<br>[6555990](https://github.com/SimplioOfficial/simplio-app/commit/655599003bd3e7857fa1b644e25a6e139d8f1128) load last account - storkandstars</sub> |
 | <sub>2022-05-20 13:40:38</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49677d6de60a619beeb00f6fc0704d5b210ce5ef)</sub> | <sub>[49677d6](https://github.com/SimplioOfficial/simplio-app/commit/49677d6de60a619beeb00f6fc0704d5b210ce5ef) build fix - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2177 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-19 15:41:39</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8cfa26d3fdf188780f5869c121a52999881bbe3)</sub> | <sub>[f8cfa26](https://github.com/SimplioOfficial/simplio-app/commit/f8cfa26d3fdf188780f5869c121a52999881bbe3) styling login screen - storkandstars</sub> |
 | <sub>2022-05-19 14:22:40</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3b9941ffc7582810ad7274e4fb20d3aa7890cee)</sub> | <sub>[c3b9941](https://github.com/SimplioOfficial/simplio-app/commit/c3b9941ffc7582810ad7274e4fb20d3aa7890cee) missing files - storkandstars</sub> |
 | <sub>2022-05-19 12:55:19</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3ce63aa97ec8^...6b1556620d69)</sub> | <sub>[3ce63aa](https://github.com/SimplioOfficial/simplio-app/commit/3ce63aa97ec86671bf92cfd080eef74ffca8c108) wip/initial data modeling - storkandstars<br>[6b15566](https://github.com/SimplioOfficial/simplio-app/commit/6b1556620d69a1c336e9e4e917de38bc5e21bfb8) updated data models - storkandstars</sub> |
-| <sub>2022-05-18 10:46:16</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1)</sub> | <sub>[a3fdaea](https://github.com/SimplioOfficial/sio_core/commit/a3fdaea9b97dfaa65dfdc25e539c777ae2b4dbc1) Task/transactions for address (#39) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
