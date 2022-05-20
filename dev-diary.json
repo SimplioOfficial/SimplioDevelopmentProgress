@@ -39047,5 +39047,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d84eb3313f65e7f71b31e7c6e1158f28dcc614ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-20 13:38:24.006000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`aafb19d`](https://github.com/SimplioOfficial/simplio-app/commit/aafb19dde68cbeaedf5b512f0945885310f92d01) add auth guard - jvrastil",
+      "title": "[simplio-app:wip/create\\-multichain\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aafb19dde68cbeaedf5b512f0945885310f92d01"
+    }
   }
 ]
