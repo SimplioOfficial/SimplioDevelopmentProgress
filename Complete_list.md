@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-23 13:59:21</sub> | <sub>[[simplio-app:wip/nested\-navigator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73ebef95c6c481fc047e560913e4b5b1c98d7ee5)</sub> | <sub>[73ebef9](https://github.com/SimplioOfficial/simplio-app/commit/73ebef95c6c481fc047e560913e4b5b1c98d7ee5) fix - jvrastil</sub> |
 | <sub>2022-05-23 13:41:18</sub> | <sub>[[simplio-app:wip/nested\-navigator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce3845b9981f52378143083764be4955f18deb89)</sub> | <sub>[ce3845b](https://github.com/SimplioOfficial/simplio-app/commit/ce3845b9981f52378143083764be4955f18deb89) initial structure - storkandstars</sub> |
 | <sub>2022-05-23 13:37:13</sub> | <sub>[[simplio-dex-solana:master] 1 new commit](https://github.com/SimplioOfficial/simplio-dex-solana/commit/8a0ed273c3efc316e961b9d34e9101d9e4e570ba)</sub> | <sub>[8a0ed27](https://github.com/SimplioOfficial/simplio-dex-solana/commit/8a0ed273c3efc316e961b9d34e9101d9e4e570ba) update readme - yuriagile</sub> |
 | <sub>2022-05-20 23:54:57</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cc9ff42235cbf312fc6e63788b84bb571f237f9)</sub> | <sub>[9cc9ff4](https://github.com/SimplioOfficial/simplio-app/commit/9cc9ff42235cbf312fc6e63788b84bb571f237f9) namespacing static classes - storkandstars</sub> |

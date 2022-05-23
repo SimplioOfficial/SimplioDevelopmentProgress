@@ -39209,5 +39209,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ce3845b9981f52378143083764be4955f18deb89"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-23 13:59:21.842000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`73ebef9`](https://github.com/SimplioOfficial/simplio-app/commit/73ebef95c6c481fc047e560913e4b5b1c98d7ee5) fix - jvrastil",
+      "title": "[simplio-app:wip/nested\\-navigator] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/73ebef95c6c481fc047e560913e4b5b1c98d7ee5"
+    }
   }
 ]
