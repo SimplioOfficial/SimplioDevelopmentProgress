@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-23 19:55:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d55f1b6e4db51410ee6ba298d2f870f722edde3)</sub> | <sub>[5d55f1b](https://github.com/SimplioOfficial/simplio-app/commit/5d55f1b6e4db51410ee6ba298d2f870f722edde3) screenshot test3 - Juliana Souza</sub> |
 | <sub>2022-05-23 19:47:34</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e5fcc604920d5eb3d3713ea745cd082966aee25)</sub> | <sub>[5e5fcc6](https://github.com/SimplioOfficial/simplio-app/commit/5e5fcc604920d5eb3d3713ea745cd082966aee25) screenshot test2 - Juliana Souza</sub> |
 | <sub>2022-05-23 17:59:34</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29bf7acbd3176131dda3d280a8b6d50075ee7e01)</sub> | <sub>[29bf7ac](https://github.com/SimplioOfficial/simplio-app/commit/29bf7acbd3176131dda3d280a8b6d50075ee7e01) screenshot test - Juliana Souza</sub> |
 | <sub>2022-05-23 15:46:40</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60c091cfd2e7052af769cd2ac934f81e25199496)</sub> | <sub>[60c091c](https://github.com/SimplioOfficial/simplio-app/commit/60c091cfd2e7052af769cd2ac934f81e25199496) Wip/nested navigator (#65) - storkandstars</sub> |
