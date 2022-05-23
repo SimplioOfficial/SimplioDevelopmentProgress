@@ -39173,5 +39173,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9cc9ff42235cbf312fc6e63788b84bb571f237f9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-23 13:37:13.194000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`8a0ed27`](https://github.com/SimplioOfficial/simplio-dex-solana/commit/8a0ed273c3efc316e961b9d34e9101d9e4e570ba) update readme - yuriagile",
+      "title": "[simplio-dex-solana:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-dex-solana/commit/8a0ed273c3efc316e961b9d34e9101d9e4e570ba"
+    }
   }
 ]
