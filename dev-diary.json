@@ -39442,5 +39442,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-24 14:34:41.674000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ac593b6`](https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa) consuming asset as an entry - storkandstars",
+      "title": "[simplio-app:wip/create\\-multichain\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa"
+    }
   }
 ]
