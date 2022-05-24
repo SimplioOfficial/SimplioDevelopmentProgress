@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-24 19:11:27</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34e736a150d14162484933c0f3ba07187c4565ab)</sub> | <sub>[34e736a](https://github.com/SimplioOfficial/simplio-app/commit/34e736a150d14162484933c0f3ba07187c4565ab) screenshot test - Juliana Souza</sub> |
 | <sub>2022-05-24 18:52:37</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228581578321f9a02f9f16170242b6d6cd7ad369)</sub> | <sub>[2285815](https://github.com/SimplioOfficial/simplio-app/commit/228581578321f9a02f9f16170242b6d6cd7ad369) screenshot test - Juliana Souza</sub> |
 | <sub>2022-05-24 18:29:58</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f)</sub> | <sub>[86fc812](https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f) screenshot test5 - Juliana Souza</sub> |
 | <sub>2022-05-24 18:25:27</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac3021df64258b20c171c2cbd0e5135801111e2b)</sub> | <sub>[ac3021d](https://github.com/SimplioOfficial/simplio-app/commit/ac3021df64258b20c171c2cbd0e5135801111e2b) screenshot test4 - Juliana Souza</sub> |
