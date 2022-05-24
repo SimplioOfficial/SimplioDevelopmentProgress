@@ -39335,5 +39335,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/960061ff17ab8ff59b2fcc9919a33770019f113b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-24 07:59:43.991000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`628a181`](https://github.com/SimplioOfficial/simplio-app/commit/628a181191e00e4a691b7e4ea4caff48bccfa958) moving assetWallet bloc to route - storkandstars",
+      "title": "[simplio-app:wip/create\\-multichain\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/628a181191e00e4a691b7e4ea4caff48bccfa958"
+    }
   }
 ]
