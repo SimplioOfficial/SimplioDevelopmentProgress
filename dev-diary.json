@@ -39478,5 +39478,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1fe65247d618c3be5b233331e23b23fe7a630512"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-24 18:25:27.901000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`ac3021d`](https://github.com/SimplioOfficial/simplio-app/commit/ac3021df64258b20c171c2cbd0e5135801111e2b) screenshot test4 - Juliana Souza",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac3021df64258b20c171c2cbd0e5135801111e2b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-24 18:29:58.750000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`86fc812`](https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f) screenshot test5 - Juliana Souza",
+      "title": "[simplio-app:41\\_IntegrationTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f"
+    }
   }
 ]
