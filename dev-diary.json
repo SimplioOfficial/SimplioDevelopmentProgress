@@ -39353,5 +39353,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/628a181191e00e4a691b7e4ea4caff48bccfa958"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-24 08:17:55.850000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/49677d6de60a...e92283dded06)",
+      "title": "[simplio-app] Branch task/19\\-initialize\\_mnemonic was force-pushed to `e92283d`",
+      "type": "rich"
+    }
   }
 ]
