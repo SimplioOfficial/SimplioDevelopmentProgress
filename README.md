@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2196 commits since 10/09/2021. You can see the complete history in
+There is a total of 2197 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-24 17:51:47</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fe65247d618c3be5b233331e23b23fe7a630512)</sub> | <sub>[1fe6524](https://github.com/SimplioOfficial/simplio-app/commit/1fe65247d618c3be5b233331e23b23fe7a630512) screenshot test4 - Juliana Souza</sub> |
 | <sub>2022-05-24 14:34:41</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa)</sub> | <sub>[ac593b6](https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa) consuming asset as an entry - storkandstars</sub> |
 | <sub>2022-05-24 14:11:54</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af)</sub> | <sub>[d2cd9ac](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af) persistent account - storkandstars</sub> |
 | <sub>2022-05-24 13:29:41</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc)</sub> | <sub>[1e1fb61](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc) subtask: get smallest denomination for cosmos - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2196 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-24 07:59:43</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/628a181191e00e4a691b7e4ea4caff48bccfa958)</sub> | <sub>[628a181](https://github.com/SimplioOfficial/simplio-app/commit/628a181191e00e4a691b7e4ea4caff48bccfa958) moving assetWallet bloc to route - storkandstars</sub> |
 | <sub>2022-05-23 20:35:05</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/960061ff17ab8ff59b2fcc9919a33770019f113b)</sub> | <sub>[960061f](https://github.com/SimplioOfficial/simplio-app/commit/960061ff17ab8ff59b2fcc9919a33770019f113b) unifying account state - storkandstars</sub> |
 | <sub>2022-05-23 19:55:39</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d55f1b6e4db51410ee6ba298d2f870f722edde3)</sub> | <sub>[5d55f1b](https://github.com/SimplioOfficial/simplio-app/commit/5d55f1b6e4db51410ee6ba298d2f870f722edde3) screenshot test3 - Juliana Souza</sub> |
-| <sub>2022-05-23 19:47:34</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e5fcc604920d5eb3d3713ea745cd082966aee25)</sub> | <sub>[5e5fcc6](https://github.com/SimplioOfficial/simplio-app/commit/5e5fcc604920d5eb3d3713ea745cd082966aee25) screenshot test2 - Juliana Souza</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

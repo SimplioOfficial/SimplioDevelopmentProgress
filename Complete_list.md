@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-24 17:51:47</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fe65247d618c3be5b233331e23b23fe7a630512)</sub> | <sub>[1fe6524](https://github.com/SimplioOfficial/simplio-app/commit/1fe65247d618c3be5b233331e23b23fe7a630512) screenshot test4 - Juliana Souza</sub> |
 | <sub>2022-05-24 14:34:41</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa)</sub> | <sub>[ac593b6](https://github.com/SimplioOfficial/simplio-app/commit/ac593b6186ba629b64d9f397f8c445b06ef58afa) consuming asset as an entry - storkandstars</sub> |
 | <sub>2022-05-24 14:11:54</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af)</sub> | <sub>[d2cd9ac](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af) persistent account - storkandstars</sub> |
 | <sub>2022-05-24 13:29:41</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc)</sub> | <sub>[1e1fb61](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc) subtask: get smallest denomination for cosmos - ciripel</sub> |
