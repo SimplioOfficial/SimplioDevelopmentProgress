@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2216 commits since 10/09/2021. You can see the complete history in
+There is a total of 2217 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-25 13:47:51</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3)</sub> | <sub>[5e3b5d7](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3) docs: added trezor.io blockbooks for utxoCoins - ciripel</sub> |
 | <sub>2022-05-25 13:38:10</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b324cccae2781a2e52eba25c403dbad89e604acf)</sub> | <sub>[b324ccc](https://github.com/SimplioOfficial/sio_core/commit/b324cccae2781a2e52eba25c403dbad89e604acf) Task/denomination (#41) - ciripel</sub> |
 | <sub>2022-05-25 12:45:09</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218)</sub> | <sub>[22e45aa](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218) fix: key typo fix & changed api endpoints - ciripel</sub> |
 | <sub>2022-05-25 12:24:15</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305)</sub> | <sub>[5a1b214](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305) solana dex - yuriagile</sub> |
@@ -17,6 +18,5 @@ There is a total of 2216 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-25 11:19:53</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/003d5d88024912eda44a3f50065b16c7643144b4)</sub> | <sub>[003d5d8](https://github.com/SimplioOfficial/simplio-app/commit/003d5d88024912eda44a3f50065b16c7643144b4) fix - jvrastil</sub> |
 | <sub>2022-05-25 11:07:52</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35fce0df86b6898182d34f814ef9c03cb8788a43)</sub> | <sub>[35fce0d](https://github.com/SimplioOfficial/simplio-app/commit/35fce0df86b6898182d34f814ef9c03cb8788a43) fix - jvrastil</sub> |
 | <sub>2022-05-25 11:03:51</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ed5fd0aa907ac1d1cbaa3fae1b4025d2502cf16)</sub> | <sub>[2ed5fd0](https://github.com/SimplioOfficial/simplio-app/commit/2ed5fd0aa907ac1d1cbaa3fae1b4025d2502cf16) fix - jvrastil</sub> |
-| <sub>2022-05-25 10:58:03</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3c804f7e3f3031106c9a02f42f4c60f3b3903782)</sub> | <sub>[3c804f7](https://github.com/SimplioOfficial/simplio-app/commit/3c804f7e3f3031106c9a02f42f4c60f3b3903782) fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

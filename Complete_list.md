@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-25 13:47:51</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3)</sub> | <sub>[5e3b5d7](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3) docs: added trezor.io blockbooks for utxoCoins - ciripel</sub> |
 | <sub>2022-05-25 13:38:10</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b324cccae2781a2e52eba25c403dbad89e604acf)</sub> | <sub>[b324ccc](https://github.com/SimplioOfficial/sio_core/commit/b324cccae2781a2e52eba25c403dbad89e604acf) Task/denomination (#41) - ciripel</sub> |
 | <sub>2022-05-25 12:45:09</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218)</sub> | <sub>[22e45aa](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218) fix: key typo fix & changed api endpoints - ciripel</sub> |
 | <sub>2022-05-25 12:24:15</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305)</sub> | <sub>[5a1b214](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305) solana dex - yuriagile</sub> |

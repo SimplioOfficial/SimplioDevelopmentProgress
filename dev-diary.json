@@ -39817,5 +39817,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/b324cccae2781a2e52eba25c403dbad89e604acf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-25 13:47:51.526000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5e3b5d7`](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3) docs: added trezor.io blockbooks for utxoCoins - ciripel",
+      "title": "[sio_core:task/improve\\_broadcast\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3"
+    }
   }
 ]
