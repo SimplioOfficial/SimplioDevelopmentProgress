@@ -39745,5 +39745,41 @@
       "title": "[simplio-app] Branch task/21\\-initial\\_sending was force-pushed to `53648a3`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-25 12:21:19.770000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4d3a227`](https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd) task: get decimals for supported coins & tokens - ciripel",
+      "title": "[sio_core:task/denomination] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-25 12:24:15.093000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`5a1b214`](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305) solana dex - yuriagile",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305"
+    }
   }
 ]

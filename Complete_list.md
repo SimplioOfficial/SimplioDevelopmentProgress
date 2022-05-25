@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-25 12:24:15</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305)</sub> | <sub>[5a1b214](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305) solana dex - yuriagile</sub> |
+| <sub>2022-05-25 12:21:19</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd)</sub> | <sub>[4d3a227](https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd) task: get decimals for supported coins & tokens - ciripel</sub> |
 | <sub>2022-05-25 12:01:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/65869cb8e529...53648a35a434)</sub> |
 | <sub>2022-05-25 11:55:56</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/003d5d880249...adbd5f4c9828)</sub> |
 | <sub>2022-05-25 11:19:53</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/003d5d88024912eda44a3f50065b16c7643144b4)</sub> | <sub>[003d5d8](https://github.com/SimplioOfficial/simplio-app/commit/003d5d88024912eda44a3f50065b16c7643144b4) fix - jvrastil</sub> |
