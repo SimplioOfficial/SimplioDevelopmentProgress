@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-25 12:45:09</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218)</sub> | <sub>[22e45aa](https://github.com/SimplioOfficial/sio_core/commit/22e45aa6198b0c9e9185b9f6c063f81775823218) fix: key typo fix & changed api endpoints - ciripel</sub> |
 | <sub>2022-05-25 12:24:15</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305)</sub> | <sub>[5a1b214](https://github.com/SimplioOfficial/documentation/commit/5a1b214d3d1008bdf5f0708c6becea63867b7305) solana dex - yuriagile</sub> |
 | <sub>2022-05-25 12:21:19</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd)</sub> | <sub>[4d3a227](https://github.com/SimplioOfficial/sio_core/commit/4d3a2272ad0567e16fa5e930f4ea1decb2cf82dd) task: get decimals for supported coins & tokens - ciripel</sub> |
 | <sub>2022-05-25 12:01:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/65869cb8e529...53648a35a434)</sub> |
