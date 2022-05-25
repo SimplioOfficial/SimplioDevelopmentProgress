@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2201 commits since 10/09/2021. You can see the complete history in
+There is a total of 2202 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-25 09:54:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e92283dded06...6beb371a9a5b)</sub> |
 | <sub>2022-05-24 19:11:27</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34e736a150d14162484933c0f3ba07187c4565ab)</sub> | <sub>[34e736a](https://github.com/SimplioOfficial/simplio-app/commit/34e736a150d14162484933c0f3ba07187c4565ab) screenshot test - Juliana Souza</sub> |
 | <sub>2022-05-24 18:52:37</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228581578321f9a02f9f16170242b6d6cd7ad369)</sub> | <sub>[2285815](https://github.com/SimplioOfficial/simplio-app/commit/228581578321f9a02f9f16170242b6d6cd7ad369) screenshot test - Juliana Souza</sub> |
 | <sub>2022-05-24 18:29:58</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f)</sub> | <sub>[86fc812](https://github.com/SimplioOfficial/simplio-app/commit/86fc812515f317093becbeb7cc47d6ea3e42158f) screenshot test5 - Juliana Souza</sub> |
@@ -17,6 +18,5 @@ There is a total of 2201 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-24 14:11:54</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af)</sub> | <sub>[d2cd9ac](https://github.com/SimplioOfficial/simplio-app/commit/d2cd9ace28c7748450391632be8b77e70de432af) persistent account - storkandstars</sub> |
 | <sub>2022-05-24 13:29:41</sub> | <sub>[[sio_core:task/denomination] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc)</sub> | <sub>[1e1fb61](https://github.com/SimplioOfficial/sio_core/commit/1e1fb610ac76d3c63987df71efcf3c8e82d6b7cc) subtask: get smallest denomination for cosmos - ciripel</sub> |
 | <sub>2022-05-24 09:52:28</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57248332f4b15abea3b185d91b2e0c2deb8aab21)</sub> | <sub>[5724833](https://github.com/SimplioOfficial/simplio-app/commit/57248332f4b15abea3b185d91b2e0c2deb8aab21) fixing type - storkandstars</sub> |
-| <sub>2022-05-24 08:34:23</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 37 new commits](https://github.com/SimplioOfficial/simplio-app/compare/628a181191e0...edc0225cf95a)</sub> | <sub>[aef62a6](https://github.com/SimplioOfficial/simplio-app/commit/aef62a61a2b94d25007f5e79e657a7d0c9e012ea) Task/45 searchable assets (#54) - storkandstars<br>[a56954d](https://github.com/SimplioOfficial/simplio-app/commit/a56954deae14a13821b7ef5eb65f793caa761f00) searchable assets - storkandstars<br>[ef4055e](https://github.com/SimplioOfficial/simplio-app/commit/ef4055e05b708d94ce60fbb16744116dd22ae77a) [#11] Create basic CI/CD flows (#28) - jvrastil<br>[655f1bb](https://github.com/SimplioOfficial/simplio-app/commit/655f1bb405850c8549fd00bca27558534ae6cc94) update to CI/CD pipelines - Automatic version i... - jvrastil<br>[31d9b37](https://github.com/SimplioOfficial/simplio-app/commit/31d9b37ffaf75eec131a472ad4d4dc0f0d726902) [automated commit] Version increase - GitHub Bot</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
