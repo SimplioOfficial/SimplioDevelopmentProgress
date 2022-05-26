@@ -39977,5 +39977,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2ca4fd681ae4880eab80713f8a7355fe993a99d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-26 19:00:57.231000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d7f049d17ac3...0fc51bb8185e)",
+      "title": "[simplio-app] Branch task/21\\-initial\\_sending was force-pushed to `0fc51bb`",
+      "type": "rich"
+    }
   }
 ]
