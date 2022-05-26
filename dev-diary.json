@@ -39835,5 +39835,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-26 11:16:47.293000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`cb98b67`](https://github.com/SimplioOfficial/sio_core/commit/cb98b67ab1b2a8112cd107d46db763df662fc4dd) task: improve broadcast tx - ciripel",
+      "title": "[sio_core:task/improve\\_broadcast\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/cb98b67ab1b2a8112cd107d46db763df662fc4dd"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-26 11:18:47.531000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`77a6d0d`](https://github.com/SimplioOfficial/sio_core/commit/77a6d0d88afebf5899dd1589b7bf0a146d64b64f) fix: fixed unused import - ciripel",
+      "title": "[sio_core:task/improve\\_broadcast\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/77a6d0d88afebf5899dd1589b7bf0a146d64b64f"
+    }
   }
 ]
