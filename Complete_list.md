@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-26 12:49:01</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b94435f8f28007668c1f70090d5bc0df52cd29b3)</sub> | <sub>[b94435f](https://github.com/SimplioOfficial/simplio-app/commit/b94435f8f28007668c1f70090d5bc0df52cd29b3) persistent asset wallets - storkandstars</sub> |
 | <sub>2022-05-26 11:18:47</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/77a6d0d88afebf5899dd1589b7bf0a146d64b64f)</sub> | <sub>[77a6d0d](https://github.com/SimplioOfficial/sio_core/commit/77a6d0d88afebf5899dd1589b7bf0a146d64b64f) fix: fixed unused import - ciripel</sub> |
 | <sub>2022-05-26 11:16:47</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/cb98b67ab1b2a8112cd107d46db763df662fc4dd)</sub> | <sub>[cb98b67](https://github.com/SimplioOfficial/sio_core/commit/cb98b67ab1b2a8112cd107d46db763df662fc4dd) task: improve broadcast tx - ciripel</sub> |
 | <sub>2022-05-25 13:47:51</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3)</sub> | <sub>[5e3b5d7](https://github.com/SimplioOfficial/sio_core/commit/5e3b5d7a6a5f432f1b0337f4cdfc170a75a914e3) docs: added trezor.io blockbooks for utxoCoins - ciripel</sub> |
