@@ -39994,5 +39994,23 @@
       "title": "[simplio-app] Branch task/21\\-initial\\_sending was force-pushed to `0fc51bb`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-27 07:56:53.230000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`017c620`](https://github.com/SimplioOfficial/sio_core/commit/017c620de884b181938dd09c38c3c0fd731fb910) fix: removed LUNA tests till network is fixed - ciripel\n[`504b999`](https://github.com/SimplioOfficial/sio_core/commit/504b9993af028be6a8db26d067fbdeb148742bca) chore: increase version to 0.0.10 - ciripel",
+      "title": "[sio_core:task/improve\\_broadcast\\_tx] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/77a6d0d88afe...504b9993af02"
+    }
   }
 ]

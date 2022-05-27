@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-27 07:56:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/77a6d0d88afe...504b9993af02)</sub> | <sub>[017c620](https://github.com/SimplioOfficial/sio_core/commit/017c620de884b181938dd09c38c3c0fd731fb910) fix: removed LUNA tests till network is fixed - ciripel<br>[504b999](https://github.com/SimplioOfficial/sio_core/commit/504b9993af028be6a8db26d067fbdeb148742bca) chore: increase version to 0.0.10 - ciripel</sub> |
 | <sub>2022-05-26 19:00:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d7f049d17ac3...0fc51bb8185e)</sub> |
 | <sub>2022-05-26 18:58:26</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ca4fd681ae4880eab80713f8a7355fe993a99d4)</sub> | <sub>[2ca4fd6](https://github.com/SimplioOfficial/simplio-app/commit/2ca4fd681ae4880eab80713f8a7355fe993a99d4) build fix - jvrastil</sub> |
 | <sub>2022-05-26 18:50:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/53648a35a434...d7f049d17ac3)</sub> |
