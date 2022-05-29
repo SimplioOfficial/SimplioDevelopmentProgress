@@ -40012,5 +40012,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/77a6d0d88afe...504b9993af02"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-29 18:53:55.513000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a5dd03f`](https://github.com/SimplioOfficial/simplio-app/commit/a5dd03fe3ea100a5cc8e3aa963df38df75f05854) adding backing up prop to seed - storkandstars\n[`1064743`](https://github.com/SimplioOfficial/simplio-app/commit/1064743d1c7b29dd4c13bddd9a037571556e6f07) account assertion - storkandstars\n[`7d1fbfb`](https://github.com/SimplioOfficial/simplio-app/commit/7d1fbfb1cbc6a9d82824daa64b24944a4b37b2ed) updating login listener - storkandstars",
+      "title": "[simplio-app:wip/create\\-multichain\\-wallet] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f2f76bf546c6...7d1fbfb1cbc6"
+    }
   }
 ]
