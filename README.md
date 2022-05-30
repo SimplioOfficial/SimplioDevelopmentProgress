@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2236 commits since 10/09/2021. You can see the complete history in
+There is a total of 2237 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-30 10:49:18</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.10](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.10)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-05-30 10:35:33</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe)</sub> | <sub>[2ab9e23](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel</sub> |
 | <sub>2022-05-30 09:03:30</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4)</sub> | <sub>[84243be](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4) fix: swapped LUNA with ATOM test - ciripel</sub> |
 | <sub>2022-05-30 08:13:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590)</sub> | <sub>[dd55ee6](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590) coverage: reactivated on terra test - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2236 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-29 18:57:26</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec4a4d5a786632b3b86a8640c85e7c7f1ec933c2)</sub> | <sub>[ec4a4d5](https://github.com/SimplioOfficial/simplio-app/commit/ec4a4d5a786632b3b86a8640c85e7c7f1ec933c2) removing initial readme guides - storkandstars</sub> |
 | <sub>2022-05-29 18:55:44</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ddcc51a4756984c4707c47c93461f400c2c0f47a)</sub> | <sub>[ddcc51a](https://github.com/SimplioOfficial/simplio-app/commit/ddcc51a4756984c4707c47c93461f400c2c0f47a) clean up - storkandstars</sub> |
 | <sub>2022-05-29 18:53:55</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f2f76bf546c6...7d1fbfb1cbc6)</sub> | <sub>[a5dd03f](https://github.com/SimplioOfficial/simplio-app/commit/a5dd03fe3ea100a5cc8e3aa963df38df75f05854) adding backing up prop to seed - storkandstars<br>[1064743](https://github.com/SimplioOfficial/simplio-app/commit/1064743d1c7b29dd4c13bddd9a037571556e6f07) account assertion - storkandstars<br>[7d1fbfb](https://github.com/SimplioOfficial/simplio-app/commit/7d1fbfb1cbc6a9d82824daa64b24944a4b37b2ed) updating login listener - storkandstars</sub> |
-| <sub>2022-05-27 07:56:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/77a6d0d88afe...504b9993af02)</sub> | <sub>[017c620](https://github.com/SimplioOfficial/sio_core/commit/017c620de884b181938dd09c38c3c0fd731fb910) fix: removed LUNA tests till network is fixed - ciripel<br>[504b999](https://github.com/SimplioOfficial/sio_core/commit/504b9993af028be6a8db26d067fbdeb148742bca) chore: increase version to 0.0.10 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
