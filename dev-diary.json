@@ -40120,5 +40120,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-30 08:13:53.367000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dd55ee6`](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590) coverage: reactivated on terra test - ciripel",
+      "title": "[sio_core:task/improve\\_broadcast\\_tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590"
+    }
   }
 ]

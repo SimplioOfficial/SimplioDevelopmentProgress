@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2233 commits since 10/09/2021. You can see the complete history in
+There is a total of 2234 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-30 08:13:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590)</sub> | <sub>[dd55ee6](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590) coverage: reactivated on terra test - ciripel</sub> |
 | <sub>2022-05-30 06:46:42</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676)</sub> | <sub>[dbd0e2c](https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676) removing duplicated method - storkandstars</sub> |
 | <sub>2022-05-30 06:44:55</sub> | <sub>[[simplio-app:wip/create\-multichain\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad1cc18640caf640451ea52a4f90cf440313c18b)</sub> | <sub>[ad1cc18](https://github.com/SimplioOfficial/simplio-app/commit/ad1cc18640caf640451ea52a4f90cf440313c18b) removing duplicated method - storkandstars</sub> |
 | <sub>2022-05-29 19:12:21</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da447710ecf6aa9ab5f606e3611d6e14dd33f504)</sub> | <sub>[da44771](https://github.com/SimplioOfficial/simplio-app/commit/da447710ecf6aa9ab5f606e3611d6e14dd33f504) Wip/create multichain wallet (#68) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2233 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-27 07:56:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/77a6d0d88afe...504b9993af02)</sub> | <sub>[017c620](https://github.com/SimplioOfficial/sio_core/commit/017c620de884b181938dd09c38c3c0fd731fb910) fix: removed LUNA tests till network is fixed - ciripel<br>[504b999](https://github.com/SimplioOfficial/sio_core/commit/504b9993af028be6a8db26d067fbdeb148742bca) chore: increase version to 0.0.10 - ciripel</sub> |
 | <sub>2022-05-26 19:00:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d7f049d17ac3...0fc51bb8185e)</sub> |
 | <sub>2022-05-26 18:58:26</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ca4fd681ae4880eab80713f8a7355fe993a99d4)</sub> | <sub>[2ca4fd6](https://github.com/SimplioOfficial/simplio-app/commit/2ca4fd681ae4880eab80713f8a7355fe993a99d4) build fix - jvrastil</sub> |
-| <sub>2022-05-26 18:50:59</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/53648a35a434...d7f049d17ac3)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
