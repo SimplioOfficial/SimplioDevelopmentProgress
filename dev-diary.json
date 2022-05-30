@@ -40102,5 +40102,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ad1cc18640caf640451ea52a4f90cf440313c18b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-30 06:46:42.882000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dbd0e2c`](https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676) removing duplicated method - storkandstars",
+      "title": "[simplio-app:task/20\\-creating\\-a\\-multicoin\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676"
+    }
   }
 ]
