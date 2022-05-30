@@ -40156,5 +40156,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-05-30 10:35:33.967000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2ab9e23`](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe"
+    }
   }
 ]

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-30 10:35:33</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe)</sub> | <sub>[2ab9e23](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel</sub> |
 | <sub>2022-05-30 09:03:30</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4)</sub> | <sub>[84243be](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4) fix: swapped LUNA with ATOM test - ciripel</sub> |
 | <sub>2022-05-30 08:13:53</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590)</sub> | <sub>[dd55ee6](https://github.com/SimplioOfficial/sio_core/commit/dd55ee68c4bef341b4b73027978e6c046fd5b590) coverage: reactivated on terra test - ciripel</sub> |
 | <sub>2022-05-30 06:46:42</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676)</sub> | <sub>[dbd0e2c](https://github.com/SimplioOfficial/simplio-app/commit/dbd0e2cfb79a83d355c61a55419395e1c3233676) removing duplicated method - storkandstars</sub> |
