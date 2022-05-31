@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-31 08:03:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2ca4fd681ae4...0a92e88a19a1)</sub> |
 | <sub>2022-05-30 10:49:18</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.10](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.10)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-05-30 10:35:33</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe)</sub> | <sub>[2ab9e23](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel</sub> |
 | <sub>2022-05-30 09:03:30</sub> | <sub>[[sio_core:task/improve\_broadcast\_tx] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4)</sub> | <sub>[84243be](https://github.com/SimplioOfficial/sio_core/commit/84243be3c523b78ec074ece2bd7fb618ef6a0dc4) fix: swapped LUNA with ATOM test - ciripel</sub> |
