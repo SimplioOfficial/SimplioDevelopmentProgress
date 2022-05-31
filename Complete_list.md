@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-05-31 08:21:04</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f)</sub> | <sub>[e7d0ee1](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f) build fix - jvrastil</sub> |
 | <sub>2022-05-31 08:03:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2ca4fd681ae4...0a92e88a19a1)</sub> |
 | <sub>2022-05-30 10:49:18</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.10](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.10)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-05-30 10:35:33</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe)</sub> | <sub>[2ab9e23](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel</sub> |
