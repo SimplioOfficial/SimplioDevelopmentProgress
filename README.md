@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2245 commits since 10/09/2021. You can see the complete history in
+There is a total of 2246 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-02 19:55:42</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898)</sub> | <sub>[999497b](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898) refactoring account creation - storkandstars</sub> |
 | <sub>2022-06-02 12:30:07</sub> | <sub>[[wallet_connect-example:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c)</sub> | <sub>[e4e8d7d](https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c) fix:wallet_core integration with wallet_connect - ciripel</sub> |
 | <sub>2022-06-02 10:30:25</sub> | <sub>[[simplio-app:task/21\-initial\_sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b)</sub> | <sub>[21e743b](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b) fix routing - jvrastil</sub> |
 | <sub>2022-06-01 22:16:17</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549)</sub> | <sub>[6c172d1](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549) Changing way to trigger testd - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2245 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-31 08:21:04</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f)</sub> | <sub>[e7d0ee1](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f) build fix - jvrastil</sub> |
 | <sub>2022-05-31 08:03:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2ca4fd681ae4...0a92e88a19a1)</sub> |
 | <sub>2022-05-30 10:49:18</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.10](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.10)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-05-30 10:35:33</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe)</sub> | <sub>[2ab9e23](https://github.com/SimplioOfficial/sio_core/commit/2ab9e23931c6d2a51a9d4ddba987cfacbd9abdbe) Task/improve broadcast tx (#43) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
