@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-02 10:30:25</sub> | <sub>[[simplio-app:task/21\-initial\_sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b)</sub> | <sub>[21e743b](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b) fix routing - jvrastil</sub> |
 | <sub>2022-06-01 22:16:17</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549)</sub> | <sub>[6c172d1](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549) Changing way to trigger testd - MariooW</sub> |
 | <sub>2022-05-31 16:24:01</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8240cb4c0538af5c0721128342a80173ccf9ccf6)</sub> | <sub>[8240cb4](https://github.com/SimplioOfficial/simplio-app/commit/8240cb4c0538af5c0721128342a80173ccf9ccf6) edit path - Juliana Souza</sub> |
 | <sub>2022-05-31 16:06:34</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bddfd9825c52bd2c7f88edc21842dbbbcc26700f)</sub> | <sub>[bddfd98](https://github.com/SimplioOfficial/simplio-app/commit/bddfd9825c52bd2c7f88edc21842dbbbcc26700f) remove screenshot - Juliana Souza</sub> |

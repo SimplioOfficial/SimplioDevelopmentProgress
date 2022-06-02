@@ -40296,5 +40296,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-02 10:30:25.175000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`21e743b`](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b) fix routing - jvrastil",
+      "title": "[simplio-app:task/21\\-initial\\_sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b"
+    }
   }
 ]
