@@ -40314,5 +40314,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-02 12:30:07.561000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e4e8d7d`](https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c) fix:wallet_core integration with wallet_connect - ciripel",
+      "title": "[wallet_connect-example:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c"
+    }
   }
 ]
