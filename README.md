@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2248 commits since 10/09/2021. You can see the complete history in
+There is a total of 2249 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-03 13:48:52</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a9936a37eb59a98dc9d11c8ef50675046ca430e)</sub> | <sub>[6a9936a](https://github.com/SimplioOfficial/simplio-app/commit/6a9936a37eb59a98dc9d11c8ef50675046ca430e) removing duplicity - storkandstars</sub> |
 | <sub>2022-06-03 13:23:47</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9843d07ddc322a67ced2c5c6d3232a72864a731c)</sub> | <sub>[9843d07](https://github.com/SimplioOfficial/simplio-app/commit/9843d07ddc322a67ced2c5c6d3232a72864a731c) renaming routers - storkandstars</sub> |
 | <sub>2022-06-03 13:06:20</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b431c40b6c3206f6ee332307c440b2763cdfc1c3)</sub> | <sub>[b431c40](https://github.com/SimplioOfficial/simplio-app/commit/b431c40b6c3206f6ee332307c440b2763cdfc1c3) removing breaking logs - storkandstars</sub> |
 | <sub>2022-06-02 19:55:42</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898)</sub> | <sub>[999497b](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898) refactoring account creation - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2248 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-05-31 16:24:01</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8240cb4c0538af5c0721128342a80173ccf9ccf6)</sub> | <sub>[8240cb4](https://github.com/SimplioOfficial/simplio-app/commit/8240cb4c0538af5c0721128342a80173ccf9ccf6) edit path - Juliana Souza</sub> |
 | <sub>2022-05-31 16:06:34</sub> | <sub>[[simplio-app:41\_IntegrationTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bddfd9825c52bd2c7f88edc21842dbbbcc26700f)</sub> | <sub>[bddfd98](https://github.com/SimplioOfficial/simplio-app/commit/bddfd9825c52bd2c7f88edc21842dbbbcc26700f) remove screenshot - Juliana Souza</sub> |
 | <sub>2022-05-31 08:45:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0fc51bb8185e...1440ff94b9b4)</sub> |
-| <sub>2022-05-31 08:21:04</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f)</sub> | <sub>[e7d0ee1](https://github.com/SimplioOfficial/simplio-app/commit/e7d0ee119d62f42ab22514a14d5d83656292030f) build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -40386,5 +40386,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9843d07ddc322a67ced2c5c6d3232a72864a731c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-03 13:48:52.200000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`6a9936a`](https://github.com/SimplioOfficial/simplio-app/commit/6a9936a37eb59a98dc9d11c8ef50675046ca430e) removing duplicity - storkandstars",
+      "title": "[simplio-app:wip/refactor\\-multicoin\\-account\\-creation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6a9936a37eb59a98dc9d11c8ef50675046ca430e"
+    }
   }
 ]
