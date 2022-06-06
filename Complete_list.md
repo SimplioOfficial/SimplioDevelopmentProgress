@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-06 09:50:27</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/1e58280b43ee985cda9d04a18f9c3a11ada19d67)</sub> | <sub>[1e58280](https://github.com/ciripel/fee_estimation_rest/commit/1e58280b43ee985cda9d04a18f9c3a11ada19d67) fix: removed useless variables - ciripel</sub> |
 | <sub>2022-06-06 09:47:22</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/5674c51336adb2c44d94cbbd856f9ec600c80709)</sub> | <sub>[5674c51](https://github.com/ciripel/fee_estimation_rest/commit/5674c51336adb2c44d94cbbd856f9ec600c80709) fix: eth, bsc scan refactoring - ciripel</sub> |
 | <sub>2022-06-03 16:50:07</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/57d3c0fac8120a9f8eeeb8d3d0d4eda0e1238b61)</sub> | <sub>[57d3c0f](https://github.com/SimplioOfficial/sio_core/commit/57d3c0fac8120a9f8eeeb8d3d0d4eda0e1238b61) fix: exposed get_decimals - ciripel</sub> |
 | <sub>2022-06-03 13:54:36</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58a29256f460f30c64ff975f549ed5a56ec5cfd8)</sub> | <sub>[58a2925](https://github.com/SimplioOfficial/simplio-app/commit/58a29256f460f30c64ff975f549ed5a56ec5cfd8) fixing typo in file name - storkandstars</sub> |
