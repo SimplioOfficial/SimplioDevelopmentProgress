@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2252 commits since 10/09/2021. You can see the complete history in
+There is a total of 2253 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-06 09:47:22</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/5674c51336adb2c44d94cbbd856f9ec600c80709)</sub> | <sub>[5674c51](https://github.com/ciripel/fee_estimation_rest/commit/5674c51336adb2c44d94cbbd856f9ec600c80709) fix: eth, bsc scan refactoring - ciripel</sub> |
 | <sub>2022-06-03 16:50:07</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/57d3c0fac8120a9f8eeeb8d3d0d4eda0e1238b61)</sub> | <sub>[57d3c0f](https://github.com/SimplioOfficial/sio_core/commit/57d3c0fac8120a9f8eeeb8d3d0d4eda0e1238b61) fix: exposed get_decimals - ciripel</sub> |
 | <sub>2022-06-03 13:54:36</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58a29256f460f30c64ff975f549ed5a56ec5cfd8)</sub> | <sub>[58a2925](https://github.com/SimplioOfficial/simplio-app/commit/58a29256f460f30c64ff975f549ed5a56ec5cfd8) fixing typo in file name - storkandstars</sub> |
 | <sub>2022-06-03 13:50:17</sub> | <sub>[[simplio-app:task/20\-creating\-a\-multicoin\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d4f36ec05772562b50b15f75d3c07b4c7e83b0dd)</sub> | <sub>[d4f36ec](https://github.com/SimplioOfficial/simplio-app/commit/d4f36ec05772562b50b15f75d3c07b4c7e83b0dd) refactoring account creation (#69) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2252 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-02 19:55:42</sub> | <sub>[[simplio-app:wip/refactor\-multicoin\-account\-creation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898)</sub> | <sub>[999497b](https://github.com/SimplioOfficial/simplio-app/commit/999497bbd2397b08c8bb80f822ece51b289ad898) refactoring account creation - storkandstars</sub> |
 | <sub>2022-06-02 12:30:07</sub> | <sub>[[wallet_connect-example:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c)</sub> | <sub>[e4e8d7d](https://github.com/SimplioOfficial/wallet_connect-example/commit/e4e8d7d09f08c1b73f1fcbf73a5eee327c9f3b5c) fix:wallet_core integration with wallet_connect - ciripel</sub> |
 | <sub>2022-06-02 10:30:25</sub> | <sub>[[simplio-app:task/21\-initial\_sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b)</sub> | <sub>[21e743b](https://github.com/SimplioOfficial/simplio-app/commit/21e743ba22ca213310d960f548425c212121512b) fix routing - jvrastil</sub> |
-| <sub>2022-06-01 22:16:17</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549)</sub> | <sub>[6c172d1](https://github.com/SimplioOfficial/simplio-app/commit/6c172d146a2094b2be08e977eddda9d438d61549) Changing way to trigger testd - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
