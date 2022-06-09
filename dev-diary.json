@@ -40690,5 +40690,40 @@
       "title": "[simplio-app] Branch task/19\\-initialize\\_mnemonic was force-pushed to `514dc7a`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-09 09:00:14.560000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/514dc7ac4124...b8ee6ad0a465)",
+      "title": "[simplio-app] Branch task/19\\-initialize\\_mnemonic was force-pushed to `b8ee6ad`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-09 09:02:53.960000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`be92691`](https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb) change before code review - jvrastil",
+      "title": "[simplio-app:task/19\\-initialize\\_mnemonic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb"
+    }
   }
 ]
