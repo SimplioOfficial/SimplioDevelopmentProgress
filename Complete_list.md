@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-09 09:45:30</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd)</sub> | <sub>[09429dd](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd) Update to Flutter 3 - jvrastil</sub> |
 | <sub>2022-06-09 09:02:53</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb)</sub> | <sub>[be92691](https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb) change before code review - jvrastil</sub> |
 | <sub>2022-06-09 09:00:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/514dc7ac4124...b8ee6ad0a465)</sub> |
 | <sub>2022-06-09 08:54:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8a856933df7f...514dc7ac4124)</sub> |
