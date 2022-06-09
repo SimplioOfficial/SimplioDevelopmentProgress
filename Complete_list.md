@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-09 07:14:45</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7c5ff154f2f2ff9dc641a28982062f0a7411f14c)</sub> | <sub>[7c5ff15](https://github.com/SimplioOfficial/sio_core/commit/7c5ff154f2f2ff9dc641a28982062f0a7411f14c) chore: refactor Utils - ciripel</sub> |
 | <sub>2022-06-09 06:41:09</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/769894985a6ccd92f972e7cb3853ccef5c1e6493)</sub> | <sub>[7698949](https://github.com/ciripel/fee_estimation_rest/commit/769894985a6ccd92f972e7cb3853ccef5c1e6493) subtask: implement solana network fee - ciripel</sub> |
 | <sub>2022-06-08 15:09:54</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a856933df7f22b596cc9887aa4e05bd95d413cc)</sub> | <sub>[8a85693](https://github.com/SimplioOfficial/simplio-app/commit/8a856933df7f22b596cc9887aa4e05bd95d413cc) wip - jvrastil</sub> |
 | <sub>2022-06-08 07:30:09</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/518b62558d948eead8303e5b81e18fe99174db7e)</sub> | <sub>[518b625](https://github.com/SimplioOfficial/sio_core/commit/518b62558d948eead8303e5b81e18fe99174db7e) task: fee implementation for supported networks - ciripel</sub> |

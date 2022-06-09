@@ -40637,5 +40637,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/fee_estimation_rest/commit/769894985a6ccd92f972e7cb3853ccef5c1e6493"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-09 07:14:45.789000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7c5ff15`](https://github.com/SimplioOfficial/sio_core/commit/7c5ff154f2f2ff9dc641a28982062f0a7411f14c) chore: refactor Utils - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/7c5ff154f2f2ff9dc641a28982062f0a7411f14c"
+    }
   }
 ]
