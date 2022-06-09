@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-09 18:21:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb)</sub> | <sub>[bef2da8](https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb) Adding Cucumber #2 - MariooW</sub> |
 | <sub>2022-06-09 17:57:56</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69783f14b27203d1f0e1692cfa19ccdcde726715)</sub> | <sub>[69783f1](https://github.com/SimplioOfficial/simplio-app/commit/69783f14b27203d1f0e1692cfa19ccdcde726715) Adding Cucumber - MariooW</sub> |
 | <sub>2022-06-09 10:23:43</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a05bd003c4b77239f9b816c5b98408de61083cd5)</sub> | <sub>[a05bd00](https://github.com/SimplioOfficial/simplio-app/commit/a05bd003c4b77239f9b816c5b98408de61083cd5) Update to Flutter 3 - jvrastil</sub> |
 | <sub>2022-06-09 09:45:30</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd)</sub> | <sub>[09429dd](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd) Update to Flutter 3 - jvrastil</sub> |

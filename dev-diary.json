@@ -40779,5 +40779,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/69783f14b27203d1f0e1692cfa19ccdcde726715"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-09 18:21:19.185000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`bef2da8`](https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb) Adding Cucumber #2 - MariooW",
+      "title": "[simplio-app:IntegrationTests\\_gherkin\\_imp\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb"
+    }
   }
 ]
