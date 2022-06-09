@@ -40619,5 +40619,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8a856933df7f22b596cc9887aa4e05bd95d413cc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-09 06:41:09.951000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7698949`](https://github.com/ciripel/fee_estimation_rest/commit/769894985a6ccd92f972e7cb3853ccef5c1e6493) subtask: implement solana network fee - ciripel",
+      "title": "[fee_estimation_rest:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/fee_estimation_rest/commit/769894985a6ccd92f972e7cb3853ccef5c1e6493"
+    }
   }
 ]
