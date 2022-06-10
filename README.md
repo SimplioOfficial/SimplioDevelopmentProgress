@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2274 commits since 10/09/2021. You can see the complete history in
+There is a total of 2275 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-10 19:45:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530)</sub> | <sub>[881a5b8](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530) Adding Cucumber #3 - MariooW</sub> |
 | <sub>2022-06-10 16:58:45</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed86025cb92f50d4284675d69c79752a8b7377dc)</sub> | <sub>[ed86025](https://github.com/SimplioOfficial/simplio-app/commit/ed86025cb92f50d4284675d69c79752a8b7377dc) Fix seed generation after login - jvrastil</sub> |
 | <sub>2022-06-10 13:17:41</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fae973f818c9ade57ac50171f545a0340a78347c)</sub> | <sub>[fae973f](https://github.com/SimplioOfficial/simplio-app/commit/fae973f818c9ade57ac50171f545a0340a78347c) Fix missing wallets after logout issue - jvrastil</sub> |
 | <sub>2022-06-10 06:19:41</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98)</sub> | <sub>[6da8443](https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98) update branch name in action - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2274 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-09 09:45:30</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd)</sub> | <sub>[09429dd](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd) Update to Flutter 3 - jvrastil</sub> |
 | <sub>2022-06-09 09:02:53</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb)</sub> | <sub>[be92691](https://github.com/SimplioOfficial/simplio-app/commit/be92691287a6f46fef1962641e9204578e97d5eb) change before code review - jvrastil</sub> |
 | <sub>2022-06-09 09:00:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/514dc7ac4124...b8ee6ad0a465)</sub> |
-| <sub>2022-06-09 08:54:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8a856933df7f...514dc7ac4124)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
