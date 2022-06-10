@@ -40797,5 +40797,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-10 06:19:41.927000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6da8443`](https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98) update branch name in action - MariooW",
+      "title": "[simplio-app:IntegrationTests\\_gherkin\\_imp\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98"
+    }
   }
 ]
