@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2277 commits since 10/09/2021. You can see the complete history in
+There is a total of 2278 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-10 22:18:28</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29e40dbe791b29383ae22d4ba3ed093c6ec6dcdb)</sub> | <sub>[29e40db](https://github.com/SimplioOfficial/simplio-app/commit/29e40dbe791b29383ae22d4ba3ed093c6ec6dcdb) Adding Cucumber #6 - MariooW</sub> |
 | <sub>2022-06-10 22:14:46</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2eef0e388e3b02499438dd7bf19069c9df3c6c00)</sub> | <sub>[2eef0e3](https://github.com/SimplioOfficial/simplio-app/commit/2eef0e388e3b02499438dd7bf19069c9df3c6c00) Adding Cucumber #5 - MariooW</sub> |
 | <sub>2022-06-10 20:05:24</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b)</sub> | <sub>[8189856](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b) Adding Cucumber #4 - MariooW</sub> |
 | <sub>2022-06-10 19:45:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530)</sub> | <sub>[881a5b8](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530) Adding Cucumber #3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2277 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-09 18:21:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb)</sub> | <sub>[bef2da8](https://github.com/SimplioOfficial/simplio-app/commit/bef2da881af064b4b75696c15badb44500df2efb) Adding Cucumber #2 - MariooW</sub> |
 | <sub>2022-06-09 17:57:56</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69783f14b27203d1f0e1692cfa19ccdcde726715)</sub> | <sub>[69783f1](https://github.com/SimplioOfficial/simplio-app/commit/69783f14b27203d1f0e1692cfa19ccdcde726715) Adding Cucumber - MariooW</sub> |
 | <sub>2022-06-09 10:23:43</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a05bd003c4b77239f9b816c5b98408de61083cd5)</sub> | <sub>[a05bd00](https://github.com/SimplioOfficial/simplio-app/commit/a05bd003c4b77239f9b816c5b98408de61083cd5) Update to Flutter 3 - jvrastil</sub> |
-| <sub>2022-06-09 09:45:30</sub> | <sub>[[simplio-app:flutter\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd)</sub> | <sub>[09429dd](https://github.com/SimplioOfficial/simplio-app/commit/09429ddfc6c2388bda3d6f39c213503b40fc11cd) Update to Flutter 3 - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

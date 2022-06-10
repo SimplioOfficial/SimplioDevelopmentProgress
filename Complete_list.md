@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-10 22:18:28</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29e40dbe791b29383ae22d4ba3ed093c6ec6dcdb)</sub> | <sub>[29e40db](https://github.com/SimplioOfficial/simplio-app/commit/29e40dbe791b29383ae22d4ba3ed093c6ec6dcdb) Adding Cucumber #6 - MariooW</sub> |
 | <sub>2022-06-10 22:14:46</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2eef0e388e3b02499438dd7bf19069c9df3c6c00)</sub> | <sub>[2eef0e3](https://github.com/SimplioOfficial/simplio-app/commit/2eef0e388e3b02499438dd7bf19069c9df3c6c00) Adding Cucumber #5 - MariooW</sub> |
 | <sub>2022-06-10 20:05:24</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b)</sub> | <sub>[8189856](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b) Adding Cucumber #4 - MariooW</sub> |
 | <sub>2022-06-10 19:45:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530)</sub> | <sub>[881a5b8](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530) Adding Cucumber #3 - MariooW</sub> |
