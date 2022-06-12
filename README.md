@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2281 commits since 10/09/2021. You can see the complete history in
+There is a total of 2283 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-12 21:41:30</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764)</sub> | <sub>[f507037](https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764) Adding Cucumber #11 - MariooW</sub> |
+| <sub>2022-06-12 21:40:24</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/624adfc629759adc4355234eb6152fc6f89dbb4e)</sub> | <sub>[624adfc](https://github.com/SimplioOfficial/simplio-app/commit/624adfc629759adc4355234eb6152fc6f89dbb4e) Adding Cucumber #10 - MariooW</sub> |
 | <sub>2022-06-10 23:27:44</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6dbc1e4a6fbdf4210b3156b49efade9703637aee)</sub> | <sub>[6dbc1e4](https://github.com/SimplioOfficial/simplio-app/commit/6dbc1e4a6fbdf4210b3156b49efade9703637aee) Adding Cucumber #9 - MariooW</sub> |
 | <sub>2022-06-10 22:58:36</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/681b23459a4bae58738a0d431dd9e250615ebc97)</sub> | <sub>[681b234](https://github.com/SimplioOfficial/simplio-app/commit/681b23459a4bae58738a0d431dd9e250615ebc97) Adding Cucumber #8 - MariooW</sub> |
 | <sub>2022-06-10 22:29:22</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9b448f25a37c8e08cb67cb729beb871236c8c87)</sub> | <sub>[f9b448f](https://github.com/SimplioOfficial/simplio-app/commit/f9b448f25a37c8e08cb67cb729beb871236c8c87) Adding Cucumber #7 - MariooW</sub> |
@@ -16,7 +18,5 @@ There is a total of 2281 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-10 20:05:24</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b)</sub> | <sub>[8189856](https://github.com/SimplioOfficial/simplio-app/commit/818985677738fe46dd59feb9b6e42a243378273b) Adding Cucumber #4 - MariooW</sub> |
 | <sub>2022-06-10 19:45:19</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530)</sub> | <sub>[881a5b8](https://github.com/SimplioOfficial/simplio-app/commit/881a5b80d4a6cd13e3ff76eee9ea4b9f7257c530) Adding Cucumber #3 - MariooW</sub> |
 | <sub>2022-06-10 16:58:45</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed86025cb92f50d4284675d69c79752a8b7377dc)</sub> | <sub>[ed86025](https://github.com/SimplioOfficial/simplio-app/commit/ed86025cb92f50d4284675d69c79752a8b7377dc) Fix seed generation after login - jvrastil</sub> |
-| <sub>2022-06-10 13:17:41</sub> | <sub>[[simplio-app:task/19\-initialize\_mnemonic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fae973f818c9ade57ac50171f545a0340a78347c)</sub> | <sub>[fae973f](https://github.com/SimplioOfficial/simplio-app/commit/fae973f818c9ade57ac50171f545a0340a78347c) Fix missing wallets after logout issue - jvrastil</sub> |
-| <sub>2022-06-10 06:19:41</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98)</sub> | <sub>[6da8443](https://github.com/SimplioOfficial/simplio-app/commit/6da8443d85039edd924ff76bfd0e24e322f68f98) update branch name in action - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

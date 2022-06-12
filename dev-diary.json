@@ -40977,5 +40977,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6dbc1e4a6fbdf4210b3156b49efade9703637aee"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-12 21:40:24.599000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`624adfc`](https://github.com/SimplioOfficial/simplio-app/commit/624adfc629759adc4355234eb6152fc6f89dbb4e) Adding Cucumber #10 - MariooW",
+      "title": "[simplio-app:IntegrationTests\\_gherkin\\_imp\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/624adfc629759adc4355234eb6152fc6f89dbb4e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-12 21:41:30.765000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f507037`](https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764) Adding Cucumber #11 - MariooW",
+      "title": "[simplio-app:IntegrationTests\\_gherkin\\_imp\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764"
+    }
   }
 ]
