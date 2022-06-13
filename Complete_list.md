@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-13 11:50:06</sub> | <sub>[[simplio-app:wip/programatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/68c2d3bc4c23b276572f2f066200c502dc61974e)</sub> | <sub>[68c2d3b](https://github.com/SimplioOfficial/simplio-app/commit/68c2d3bc4c23b276572f2f066200c502dc61974e) adding programmatic bottom navigation bar - storkandstars</sub> |
 | <sub>2022-06-13 10:53:16</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55)</sub> | <sub>[2a05628](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55) ci: switched arch to x64 - ciripel</sub> |
 | <sub>2022-06-13 10:40:15</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880)</sub> | <sub>[333bca2](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880) ci: fixed L1 error - ciripel</sub> |
 | <sub>2022-06-13 10:39:04</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd)</sub> | <sub>[52cb985](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd) ci: removed dash from title - ciripel</sub> |
