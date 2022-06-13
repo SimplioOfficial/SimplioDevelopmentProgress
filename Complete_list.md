@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-13 10:40:15</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880)</sub> | <sub>[333bca2](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880) ci: fixed L1 error - ciripel</sub> |
 | <sub>2022-06-13 10:39:04</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd)</sub> | <sub>[52cb985](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd) ci: removed dash from title - ciripel</sub> |
 | <sub>2022-06-13 10:36:29</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab)</sub> | <sub>[608c245](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab) chore: refactor utils + fix ci - ciripel</sub> |
 | <sub>2022-06-13 10:29:51</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a65ad6575ecb8178e172313beb9ed15e863183e6)</sub> | <sub>[a65ad65](https://github.com/SimplioOfficial/sio_core/commit/a65ad6575ecb8178e172313beb9ed15e863183e6) ci: modified emulator setings - ciripel</sub> |

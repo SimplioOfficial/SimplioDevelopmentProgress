@@ -41157,5 +41157,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 10:40:15.029000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`333bca2`](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880) ci: fixed L1 error - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880"
+    }
   }
 ]
