@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-13 07:40:05</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b543386d20d594a1a0c222b85cfd72a82de6164f)</sub> | <sub>[b543386](https://github.com/SimplioOfficial/sio_core/commit/b543386d20d594a1a0c222b85cfd72a82de6164f) chore: refactor Utils - ciripel</sub> |
 | <sub>2022-06-12 23:39:48</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b280342bf39dd2656cc8af677692b47747c7b2d7)</sub> | <sub>[b280342](https://github.com/SimplioOfficial/simplio-app/commit/b280342bf39dd2656cc8af677692b47747c7b2d7) Adding Cucumber #14 - MariooW</sub> |
 | <sub>2022-06-12 23:23:11</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a070e4e38fc8b95755020a7f3b31f4e88e9e0316)</sub> | <sub>[a070e4e](https://github.com/SimplioOfficial/simplio-app/commit/a070e4e38fc8b95755020a7f3b31f4e88e9e0316) Adding Cucumber #13 - MariooW</sub> |
 | <sub>2022-06-12 22:54:56</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1e35e68da713c58d183dfbe7322635f31926a1d)</sub> | <sub>[f1e35e6](https://github.com/SimplioOfficial/simplio-app/commit/f1e35e68da713c58d183dfbe7322635f31926a1d) Adding Cucumber #12 - MariooW</sub> |
