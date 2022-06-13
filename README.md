@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2292 commits since 10/09/2021. You can see the complete history in
+There is a total of 2293 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-13 10:53:16</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55)</sub> | <sub>[2a05628](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55) ci: switched arch to x64 - ciripel</sub> |
 | <sub>2022-06-13 10:40:15</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880)</sub> | <sub>[333bca2](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880) ci: fixed L1 error - ciripel</sub> |
 | <sub>2022-06-13 10:39:04</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd)</sub> | <sub>[52cb985](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd) ci: removed dash from title - ciripel</sub> |
 | <sub>2022-06-13 10:36:29</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab)</sub> | <sub>[608c245](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab) chore: refactor utils + fix ci - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2292 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-12 23:39:48</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b280342bf39dd2656cc8af677692b47747c7b2d7)</sub> | <sub>[b280342](https://github.com/SimplioOfficial/simplio-app/commit/b280342bf39dd2656cc8af677692b47747c7b2d7) Adding Cucumber #14 - MariooW</sub> |
 | <sub>2022-06-12 23:23:11</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a070e4e38fc8b95755020a7f3b31f4e88e9e0316)</sub> | <sub>[a070e4e](https://github.com/SimplioOfficial/simplio-app/commit/a070e4e38fc8b95755020a7f3b31f4e88e9e0316) Adding Cucumber #13 - MariooW</sub> |
 | <sub>2022-06-12 22:54:56</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1e35e68da713c58d183dfbe7322635f31926a1d)</sub> | <sub>[f1e35e6](https://github.com/SimplioOfficial/simplio-app/commit/f1e35e68da713c58d183dfbe7322635f31926a1d) Adding Cucumber #12 - MariooW</sub> |
-| <sub>2022-06-12 21:41:30</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764)</sub> | <sub>[f507037](https://github.com/SimplioOfficial/simplio-app/commit/f507037b5eef14f8d03e6ce76ccab37c5ac89764) Adding Cucumber #11 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
