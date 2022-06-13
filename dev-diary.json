@@ -41211,5 +41211,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/68c2d3bc4c23b276572f2f066200c502dc61974e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 12:04:48.764000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e21386f`](https://github.com/SimplioOfficial/simplio-app/commit/e21386f51941a6bc065f3a5ccfc3066ee668c67f) Task/20 creating a multicoin wallet (#70) - storkandstars\n[`88811b4`](https://github.com/SimplioOfficial/simplio-app/commit/88811b408eb0d89b77e6c5b737ed243ed5d21860) Merge branch 'task/74-programmatic-bottom-navig... - storkandstars\n[`993b6c0`](https://github.com/SimplioOfficial/simplio-app/commit/993b6c0800396ad4fa2ce52c0ff4f49328e2be5f) adding removed route - storkandstars",
+      "title": "[simplio-app:wip/programatic\\-bottom\\-navigation\\-bar] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/68c2d3bc4c23...993b6c080039"
+    }
   }
 ]
