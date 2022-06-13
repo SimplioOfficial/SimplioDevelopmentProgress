@@ -41085,5 +41085,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/b543386d20d594a1a0c222b85cfd72a82de6164f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 08:27:31.576000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`feb6d80`](https://github.com/SimplioOfficial/sio_core/commit/feb6d807030acc59f8dcd6f53f77b306ea5c9828) ci: increased API level - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/feb6d807030acc59f8dcd6f53f77b306ea5c9828"
+    }
   }
 ]
