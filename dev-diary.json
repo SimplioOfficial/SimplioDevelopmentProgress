@@ -41121,5 +41121,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/a65ad6575ecb8178e172313beb9ed15e863183e6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 10:36:29.910000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`608c245`](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab) chore: refactor utils + fix ci - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 10:39:04.985000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`52cb985`](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd) ci: removed dash from title - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd"
+    }
   }
 ]
