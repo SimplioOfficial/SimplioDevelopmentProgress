@@ -41283,5 +41283,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/409a65b4125d5015eff58883cec8930fc5c47319"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-13 19:42:40.168000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`5df1fd5`](https://github.com/SimplioOfficial/simplio-app/commit/5df1fd5c3cf58e926e89ccabb48f4b77b5616ee6) Task/21 - Initial sending - jvrastil\n[`50ad544`](https://github.com/SimplioOfficial/simplio-app/commit/50ad5446271cdaa47ac19b4a47dc85d61ad5765e) changes after rebase - jvrastil\n[`8a52ca5`](https://github.com/SimplioOfficial/simplio-app/commit/8a52ca56b193e0ee9bcc3f17616f0f62eaaaf474) wip - jvrastil\n[`d7daa0d`](https://github.com/SimplioOfficial/simplio-app/commit/d7daa0d42bfa6429840e830d506c490a6aaf5a62) initialization guard - jvrastil",
+      "title": "[simplio-app:task/21\\-initial\\_sending\\-2] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5df1fd5c3cf5^...d7daa0d42bfa"
+    }
   }
 ]

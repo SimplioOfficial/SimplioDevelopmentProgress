@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2298 commits since 10/09/2021. You can see the complete history in
+There is a total of 2299 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-13 19:42:40</sub> | <sub>[[simplio-app:task/21\-initial\_sending\-2] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5df1fd5c3cf5^...d7daa0d42bfa)</sub> | <sub>[5df1fd5](https://github.com/SimplioOfficial/simplio-app/commit/5df1fd5c3cf58e926e89ccabb48f4b77b5616ee6) Task/21 - Initial sending - jvrastil<br>[50ad544](https://github.com/SimplioOfficial/simplio-app/commit/50ad5446271cdaa47ac19b4a47dc85d61ad5765e) changes after rebase - jvrastil<br>[8a52ca5](https://github.com/SimplioOfficial/simplio-app/commit/8a52ca56b193e0ee9bcc3f17616f0f62eaaaf474) wip - jvrastil<br>[d7daa0d](https://github.com/SimplioOfficial/simplio-app/commit/d7daa0d42bfa6429840e830d506c490a6aaf5a62) initialization guard - jvrastil</sub> |
 | <sub>2022-06-13 12:12:20</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/409a65b4125d5015eff58883cec8930fc5c47319)</sub> | <sub>[409a65b](https://github.com/SimplioOfficial/sio_core/commit/409a65b4125d5015eff58883cec8930fc5c47319) docs: fix list of coins - ciripel</sub> |
 | <sub>2022-06-13 12:09:12</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fef9391e4709979ab420a6a381091808abca9c7f)</sub> | <sub>[fef9391](https://github.com/SimplioOfficial/sio_core/commit/fef9391e4709979ab420a6a381091808abca9c7f) docs: list of supported coins - ciripel</sub> |
 | <sub>2022-06-13 12:05:48</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/833e547d85f469c248246fbb57a11bf1007cf392)</sub> | <sub>[833e547](https://github.com/SimplioOfficial/simplio-app/commit/833e547d85f469c248246fbb57a11bf1007cf392) Wip/programatic bottom navigation bar (#75) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2298 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-13 10:40:15</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880)</sub> | <sub>[333bca2](https://github.com/SimplioOfficial/sio_core/commit/333bca2450ffa6631cae075c849138333c4bd880) ci: fixed L1 error - ciripel</sub> |
 | <sub>2022-06-13 10:39:04</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd)</sub> | <sub>[52cb985](https://github.com/SimplioOfficial/sio_core/commit/52cb98580c0d06ffa189403f3d7c8688291d94cd) ci: removed dash from title - ciripel</sub> |
 | <sub>2022-06-13 10:36:29</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab)</sub> | <sub>[608c245](https://github.com/SimplioOfficial/sio_core/commit/608c2458c7c837a9b7d033bcdbfecbd2c020d2ab) chore: refactor utils + fix ci - ciripel</sub> |
-| <sub>2022-06-13 10:29:51</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a65ad6575ecb8178e172313beb9ed15e863183e6)</sub> | <sub>[a65ad65](https://github.com/SimplioOfficial/sio_core/commit/a65ad6575ecb8178e172313beb9ed15e863183e6) ci: modified emulator setings - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
