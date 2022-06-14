@@ -41373,5 +41373,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-14 10:37:37.769000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a00c286`](https://github.com/SimplioOfficial/sio_core/commit/a00c2868a452ee09bf55b089c23fc4a4f8ab27e5) subtask: implement solanaFee and tests - ciripel",
+      "title": "[sio_core:task/fee\\_estimation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/a00c2868a452ee09bf55b089c23fc4a4f8ab27e5"
+    }
   }
 ]
