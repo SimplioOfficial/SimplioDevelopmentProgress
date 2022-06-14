@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2306 commits since 10/09/2021. You can see the complete history in
+There is a total of 2307 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-14 11:27:04</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ede1f5b98f62823b0a7e0503fd7f8f682e3c3dd1)</sub> | <sub>[ede1f5b](https://github.com/SimplioOfficial/sio_core/commit/ede1f5b98f62823b0a7e0503fd7f8f682e3c3dd1) Task/fee estimation (#49) - ciripel</sub> |
 | <sub>2022-06-14 10:51:11</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/969d28e9fa4ba75b625d33c650a470fcbd134e6a)</sub> | <sub>[969d28e](https://github.com/SimplioOfficial/sio_core/commit/969d28e9fa4ba75b625d33c650a470fcbd134e6a) subtask: implemet utxoCoinFee and tests - ciripel</sub> |
 | <sub>2022-06-14 10:48:35</sub> | <sub>[[fee_estimation_rest:master] 2 new commits](https://github.com/ciripel/fee_estimation_rest/compare/769894985a6c...00e1689dbfb5)</sub> | <sub>[933f4f8](https://github.com/ciripel/fee_estimation_rest/commit/933f4f8700274b2f051c2de521736a213584bfc4) chore: fix homepage test - ciripel<br>[00e1689](https://github.com/ciripel/fee_estimation_rest/commit/00e1689dbfb54549f64ede113256b8d6f9661430) fix: utxo_coin value as string - ciripel</sub> |
 | <sub>2022-06-14 10:37:37</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a00c2868a452ee09bf55b089c23fc4a4f8ab27e5)</sub> | <sub>[a00c286](https://github.com/SimplioOfficial/sio_core/commit/a00c2868a452ee09bf55b089c23fc4a4f8ab27e5) subtask: implement solanaFee and tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2306 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-14 06:32:44</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5)</sub> | <sub>[01f08f1](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5) coverage: tests for extra utils and refactors - ciripel</sub> |
 | <sub>2022-06-13 19:42:40</sub> | <sub>[[simplio-app:task/21\-initial\_sending\-2] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5df1fd5c3cf5^...d7daa0d42bfa)</sub> | <sub>[5df1fd5](https://github.com/SimplioOfficial/simplio-app/commit/5df1fd5c3cf58e926e89ccabb48f4b77b5616ee6) Task/21 - Initial sending - jvrastil<br>[50ad544](https://github.com/SimplioOfficial/simplio-app/commit/50ad5446271cdaa47ac19b4a47dc85d61ad5765e) changes after rebase - jvrastil<br>[8a52ca5](https://github.com/SimplioOfficial/simplio-app/commit/8a52ca56b193e0ee9bcc3f17616f0f62eaaaf474) wip - jvrastil<br>[d7daa0d](https://github.com/SimplioOfficial/simplio-app/commit/d7daa0d42bfa6429840e830d506c490a6aaf5a62) initialization guard - jvrastil</sub> |
 | <sub>2022-06-13 12:12:20</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/409a65b4125d5015eff58883cec8930fc5c47319)</sub> | <sub>[409a65b](https://github.com/SimplioOfficial/sio_core/commit/409a65b4125d5015eff58883cec8930fc5c47319) docs: fix list of coins - ciripel</sub> |
-| <sub>2022-06-13 12:09:12</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/fef9391e4709979ab420a6a381091808abca9c7f)</sub> | <sub>[fef9391](https://github.com/SimplioOfficial/sio_core/commit/fef9391e4709979ab420a6a381091808abca9c7f) docs: list of supported coins - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
