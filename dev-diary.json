@@ -41391,5 +41391,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/a00c2868a452ee09bf55b089c23fc4a4f8ab27e5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-14 10:48:35.487000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`933f4f8`](https://github.com/ciripel/fee_estimation_rest/commit/933f4f8700274b2f051c2de521736a213584bfc4) chore: fix homepage test - ciripel\n[`00e1689`](https://github.com/ciripel/fee_estimation_rest/commit/00e1689dbfb54549f64ede113256b8d6f9661430) fix: utxo_coin value as string - ciripel",
+      "title": "[fee_estimation_rest:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/fee_estimation_rest/compare/769894985a6c...00e1689dbfb5"
+    }
   }
 ]
