@@ -41355,5 +41355,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/7bdf50e5c64db0e33bf2d698b09b7df730c75ea3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-14 10:20:38.169000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`7437c57`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4) eth approve session not working - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4"
+    }
   }
 ]

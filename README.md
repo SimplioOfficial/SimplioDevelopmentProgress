@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2302 commits since 10/09/2021. You can see the complete history in
+There is a total of 2303 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-14 10:20:38</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4)</sub> | <sub>[7437c57](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4) eth approve session not working - yuriagile</sub> |
 | <sub>2022-06-14 09:35:21</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7bdf50e5c64db0e33bf2d698b09b7df730c75ea3)</sub> | <sub>[7bdf50e](https://github.com/SimplioOfficial/sio_core/commit/7bdf50e5c64db0e33bf2d698b09b7df730c75ea3) ci: increase flutter version to 3.0.2 - ciripel</sub> |
 | <sub>2022-06-14 09:21:07</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a2e85b8cfc16e980c60a92da57839b07c7ee87a6)</sub> | <sub>[a2e85b8](https://github.com/SimplioOfficial/sio_core/commit/a2e85b8cfc16e980c60a92da57839b07c7ee87a6) subask: implement ethereum feeDetails and tests - ciripel</sub> |
 | <sub>2022-06-14 06:32:44</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5)</sub> | <sub>[01f08f1](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5) coverage: tests for extra utils and refactors - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2302 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-13 12:05:48</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/833e547d85f469c248246fbb57a11bf1007cf392)</sub> | <sub>[833e547](https://github.com/SimplioOfficial/simplio-app/commit/833e547d85f469c248246fbb57a11bf1007cf392) Wip/programatic bottom navigation bar (#75) - storkandstars</sub> |
 | <sub>2022-06-13 12:04:48</sub> | <sub>[[simplio-app:wip/programatic\-bottom\-navigation\-bar] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/68c2d3bc4c23...993b6c080039)</sub> | <sub>[e21386f](https://github.com/SimplioOfficial/simplio-app/commit/e21386f51941a6bc065f3a5ccfc3066ee668c67f) Task/20 creating a multicoin wallet (#70) - storkandstars<br>[88811b4](https://github.com/SimplioOfficial/simplio-app/commit/88811b408eb0d89b77e6c5b737ed243ed5d21860) Merge branch 'task/74-programmatic-bottom-navig... - storkandstars<br>[993b6c0](https://github.com/SimplioOfficial/simplio-app/commit/993b6c0800396ad4fa2ce52c0ff4f49328e2be5f) adding removed route - storkandstars</sub> |
 | <sub>2022-06-13 11:50:06</sub> | <sub>[[simplio-app:wip/programatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/68c2d3bc4c23b276572f2f066200c502dc61974e)</sub> | <sub>[68c2d3b](https://github.com/SimplioOfficial/simplio-app/commit/68c2d3bc4c23b276572f2f066200c502dc61974e) adding programmatic bottom navigation bar - storkandstars</sub> |
-| <sub>2022-06-13 10:53:16</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55)</sub> | <sub>[2a05628](https://github.com/SimplioOfficial/sio_core/commit/2a05628083a9cc766c8207d1f47f3c842cb89d55) ci: switched arch to x64 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
