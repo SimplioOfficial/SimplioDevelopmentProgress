@@ -41445,5 +41445,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/ede1f5b98f62823b0a7e0503fd7f8f682e3c3dd1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-14 11:41:30.276000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/103266004?v=4",
+        "name": "JiriVrbas-Eria",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7hDnAOiSxWdWlbr9Azr9PngCuMebo_3u9PMKRivzVlI/%3Fv%3D4/https/avatars.githubusercontent.com/u/103266004",
+        "url": "https://github.com/JiriVrbas-Eria"
+      },
+      "color": 7506394,
+      "description": "[`10cd018`](https://github.com/SimplioOfficial/documentation/commit/10cd018ca43bf53be00cccb66aa5fe22d0de3787) Create NotificationSDK.md - JiriVrbas\\-Eria",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/10cd018ca43bf53be00cccb66aa5fe22d0de3787"
+    }
   }
 ]
