@@ -41571,5 +41571,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/947e8596171d0bb521f0a6546c801794d7ba3b02"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-15 12:04:16.966000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4bc99b1`](https://github.com/SimplioOfficial/sio_core/commit/4bc99b1d7d8ffb5f8f9053a5b50b849d182211a5) Task/utxo parsing fix (#51) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/4bc99b1d7d8ffb5f8f9053a5b50b849d182211a5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-15 12:04:20.039000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c71747f`](https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681) adding safe area to tap bar - storkandstars",
+      "title": "[simplio-app:task/74\\-programmatic\\-bottom\\-navigation\\-bar] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681"
+    }
   }
 ]
