@@ -41517,5 +41517,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/67081c156ce089b0baea642507fe47eb720e1e94"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-15 08:47:41.129000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`8d5e6ae`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/8d5e6ae6692e61dd17b36355ee0af155f5b7665e) ethereum approve session fixed - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/8d5e6ae6692e61dd17b36355ee0af155f5b7665e"
+    }
   }
 ]
