@@ -41535,5 +41535,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/8d5e6ae6692e61dd17b36355ee0af155f5b7665e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-15 10:31:41.714000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`35d360e`](https://github.com/SimplioOfficial/simplio-app/commit/35d360e92ae331e0d0a8e080ab1f725d24aeb8fb) initialization guard - jvrastil",
+      "title": "[simplio-app:task/21\\-initial\\_sending\\-2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/35d360e92ae331e0d0a8e080ab1f725d24aeb8fb"
+    }
   }
 ]
