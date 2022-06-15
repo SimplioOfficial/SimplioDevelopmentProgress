@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2318 commits since 10/09/2021. You can see the complete history in
+There is a total of 2319 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-15 16:29:52</sub> | <sub>[[simplio-app:setup\_localizations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cadb9caf6be38f2a68b344c548e84ccbc0c68a8d)</sub> | <sub>[cadb9ca](https://github.com/SimplioOfficial/simplio-app/commit/cadb9caf6be38f2a68b344c548e84ccbc0c68a8d) wip - jvrastil</sub> |
 | <sub>2022-06-15 13:31:05</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.11](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.11)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-06-15 13:21:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00e2ddbe602f1cce4c7370dfddb3f2db153487b5)</sub> | <sub>[00e2ddb](https://github.com/SimplioOfficial/simplio-app/commit/00e2ddbe602f1cce4c7370dfddb3f2db153487b5) Update issue templates - storkandstars</sub> |
 | <sub>2022-06-15 12:04:20</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681)</sub> | <sub>[c71747f](https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681) adding safe area to tap bar - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2318 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-15 08:47:41</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/8d5e6ae6692e61dd17b36355ee0af155f5b7665e)</sub> | <sub>[8d5e6ae](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/8d5e6ae6692e61dd17b36355ee0af155f5b7665e) ethereum approve session fixed - yuriagile</sub> |
 | <sub>2022-06-15 08:32:39</sub> | <sub>[[sio_core:task/utxo\_parsing\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/67081c156ce089b0baea642507fe47eb720e1e94)</sub> | <sub>[67081c1](https://github.com/SimplioOfficial/sio_core/commit/67081c156ce089b0baea642507fe47eb720e1e94) coverage: toJson tests for cosmos and eth fee - ciripel</sub> |
 | <sub>2022-06-15 07:20:52</sub> | <sub>[[sio_core:task/utxo\_parsing\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1e6453ceb94a7bb4b61b9d6f5279b58f33523645)</sub> | <sub>[1e6453c](https://github.com/SimplioOfficial/sio_core/commit/1e6453ceb94a7bb4b61b9d6f5279b58f33523645) coverage: additional insight utxo tests - ciripel</sub> |
-| <sub>2022-06-14 14:44:12</sub> | <sub>[[sio_core:task/utxo\_parsing\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/840eba01942ca7fa7862e59e312508b38162f349)</sub> | <sub>[840eba0](https://github.com/SimplioOfficial/sio_core/commit/840eba01942ca7fa7862e59e312508b38162f349) task: utxo parse fix for insight and tests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

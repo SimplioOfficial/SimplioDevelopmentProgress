@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-15 16:29:52</sub> | <sub>[[simplio-app:setup\_localizations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cadb9caf6be38f2a68b344c548e84ccbc0c68a8d)</sub> | <sub>[cadb9ca](https://github.com/SimplioOfficial/simplio-app/commit/cadb9caf6be38f2a68b344c548e84ccbc0c68a8d) wip - jvrastil</sub> |
 | <sub>2022-06-15 13:31:05</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.11](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.11)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-06-15 13:21:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00e2ddbe602f1cce4c7370dfddb3f2db153487b5)</sub> | <sub>[00e2ddb](https://github.com/SimplioOfficial/simplio-app/commit/00e2ddbe602f1cce4c7370dfddb3f2db153487b5) Update issue templates - storkandstars</sub> |
 | <sub>2022-06-15 12:04:20</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681)</sub> | <sub>[c71747f](https://github.com/SimplioOfficial/simplio-app/commit/c71747f8761b7ff1cb3a36d86e51fb4156425681) adding safe area to tap bar - storkandstars</sub> |
