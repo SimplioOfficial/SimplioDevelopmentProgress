@@ -41499,5 +41499,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/1e6453ceb94a7bb4b61b9d6f5279b58f33523645"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-15 08:32:39.946000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`67081c1`](https://github.com/SimplioOfficial/sio_core/commit/67081c156ce089b0baea642507fe47eb720e1e94) coverage: toJson tests for cosmos and eth fee - ciripel",
+      "title": "[sio_core:task/utxo\\_parsing\\_fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/67081c156ce089b0baea642507fe47eb720e1e94"
+    }
   }
 ]
