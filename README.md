@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2309 commits since 10/09/2021. You can see the complete history in
+There is a total of 2310 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-15 07:20:52</sub> | <sub>[[sio_core:task/utxo\_parsing\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1e6453ceb94a7bb4b61b9d6f5279b58f33523645)</sub> | <sub>[1e6453c](https://github.com/SimplioOfficial/sio_core/commit/1e6453ceb94a7bb4b61b9d6f5279b58f33523645) coverage: additional insight utxo tests - ciripel</sub> |
 | <sub>2022-06-14 14:44:12</sub> | <sub>[[sio_core:task/utxo\_parsing\_fix] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/840eba01942ca7fa7862e59e312508b38162f349)</sub> | <sub>[840eba0](https://github.com/SimplioOfficial/sio_core/commit/840eba01942ca7fa7862e59e312508b38162f349) task: utxo parse fix for insight and tests - ciripel</sub> |
 | <sub>2022-06-14 11:41:30</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/10cd018ca43bf53be00cccb66aa5fe22d0de3787)</sub> | <sub>[10cd018](https://github.com/SimplioOfficial/documentation/commit/10cd018ca43bf53be00cccb66aa5fe22d0de3787) Create NotificationSDK.md - JiriVrbas\-Eria</sub> |
 | <sub>2022-06-14 11:27:04</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/ede1f5b98f62823b0a7e0503fd7f8f682e3c3dd1)</sub> | <sub>[ede1f5b](https://github.com/SimplioOfficial/sio_core/commit/ede1f5b98f62823b0a7e0503fd7f8f682e3c3dd1) Task/fee estimation (#49) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2309 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-14 10:20:38</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4)</sub> | <sub>[7437c57](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/7437c570a4de8071754723fdba7225d3fa40f6c4) eth approve session not working - yuriagile</sub> |
 | <sub>2022-06-14 09:35:21</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/7bdf50e5c64db0e33bf2d698b09b7df730c75ea3)</sub> | <sub>[7bdf50e](https://github.com/SimplioOfficial/sio_core/commit/7bdf50e5c64db0e33bf2d698b09b7df730c75ea3) ci: increase flutter version to 3.0.2 - ciripel</sub> |
 | <sub>2022-06-14 09:21:07</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a2e85b8cfc16e980c60a92da57839b07c7ee87a6)</sub> | <sub>[a2e85b8](https://github.com/SimplioOfficial/sio_core/commit/a2e85b8cfc16e980c60a92da57839b07c7ee87a6) subask: implement ethereum feeDetails and tests - ciripel</sub> |
-| <sub>2022-06-14 06:32:44</sub> | <sub>[[sio_core:task/fee\_estimation] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5)</sub> | <sub>[01f08f1](https://github.com/SimplioOfficial/sio_core/commit/01f08f192afd5d8e3bad96efe575baf06bf9aab5) coverage: tests for extra utils and refactors - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
