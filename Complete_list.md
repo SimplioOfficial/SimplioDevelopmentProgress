@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-16 13:10:36</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3e8e9e6e28dc...dd12aabf6fb4)</sub> |
 | <sub>2022-06-16 11:55:10</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb28daa4fc5ae079259d00dd21f6bd3b50db764c)</sub> | <sub>[eb28daa](https://github.com/SimplioOfficial/simplio-app/commit/eb28daa4fc5ae079259d00dd21f6bd3b50db764c) removing obsolete file - storkandstars</sub> |
 | <sub>2022-06-16 11:52:40</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d)</sub> | <sub>[dbcd608](https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d) removing deprecated scroll behaviour - storkandstars</sub> |
 | <sub>2022-06-16 10:08:12</sub> | <sub>[[simplio-app:task/66\-update\_to\_flutter3] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e8e9e6e28dc7eacdbb24b9bef5eb6623ed58856)</sub> | <sub>[3e8e9e6](https://github.com/SimplioOfficial/simplio-app/commit/3e8e9e6e28dc7eacdbb24b9bef5eb6623ed58856) Update to Flutter 3 - jvrastil</sub> |
