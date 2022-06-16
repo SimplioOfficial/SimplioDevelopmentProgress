@@ -41819,5 +41819,59 @@
       "title": "[simplio-app] Branch task/66\\-update\\_to\\_flutter3 was force-pushed to `4b0becf`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-16 19:30:21.271000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b08b64c`](https://github.com/SimplioOfficial/simplio-app/commit/b08b64c9884be08af85777eed55e12bf4389884b) update Flutter versions for CI/CD pipelines - jvrastil",
+      "title": "[simplio-app:task/66\\-update\\_to\\_flutter3] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b08b64c9884be08af85777eed55e12bf4389884b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-16 19:31:39.799000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6a5062d`](https://github.com/SimplioOfficial/simplio-app/commit/6a5062dd8cd345558aef2dc564ade29fa43907cd) ruse correct branch after merge - jvrastil",
+      "title": "[simplio-app:task/66\\-update\\_to\\_flutter3] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6a5062dd8cd345558aef2dc564ade29fa43907cd"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-16 19:34:12.799000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`77de16c`](https://github.com/SimplioOfficial/simplio-app/commit/77de16c07ab0438256f955fc36d8c68f230e0c06) Update to Flutter 3 (#85) - jvrastil",
+      "title": "[simplio-app:feature/initial\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/77de16c07ab0438256f955fc36d8c68f230e0c06"
+    }
   }
 ]
