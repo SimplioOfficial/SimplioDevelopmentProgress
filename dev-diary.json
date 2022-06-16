@@ -41731,5 +41731,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e8e9e6e28dc7eacdbb24b9bef5eb6623ed58856"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-16 11:52:40.043000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dbcd608`](https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d) removing deprecated scroll behaviour - storkandstars",
+      "title": "[simplio-app:task/74\\-programmatic\\-bottom\\-navigation\\-bar] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d"
+    }
   }
 ]
