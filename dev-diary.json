@@ -41677,5 +41677,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/717b9622c1342254bd5055215f6cd29691251987"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-16 09:35:46.665000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8fc8417`](https://github.com/SimplioOfficial/simplio-app/commit/8fc8417b480c40ba3ff87ea7622ccd866be279ea) Update to Flutter 3 - jvrastil",
+      "title": "[simplio-app:task/66\\-update\\_to\\_flutter3] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8fc8417b480c40ba3ff87ea7622ccd866be279ea"
+    }
   }
 ]
