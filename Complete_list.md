@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-16 14:10:17</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37224b3183f77d43830a35790e17ca56f15d7236)</sub> | <sub>[37224b3](https://github.com/SimplioOfficial/simplio-app/commit/37224b3183f77d43830a35790e17ca56f15d7236) Task/74 programmatic bottom navigation bar (#81) - storkandstars</sub> |
 | <sub>2022-06-16 13:10:36</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3e8e9e6e28dc...dd12aabf6fb4)</sub> |
 | <sub>2022-06-16 11:55:10</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb28daa4fc5ae079259d00dd21f6bd3b50db764c)</sub> | <sub>[eb28daa](https://github.com/SimplioOfficial/simplio-app/commit/eb28daa4fc5ae079259d00dd21f6bd3b50db764c) removing obsolete file - storkandstars</sub> |
 | <sub>2022-06-16 11:52:40</sub> | <sub>[[simplio-app:task/74\-programmatic\-bottom\-navigation\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d)</sub> | <sub>[dbcd608](https://github.com/SimplioOfficial/simplio-app/commit/dbcd6081972653dd62ae69fd86d048cf246fa38d) removing deprecated scroll behaviour - storkandstars</sub> |
