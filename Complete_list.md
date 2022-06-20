@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-20 11:33:18</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1)</sub> | <sub>[1be5515](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:13:21</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61)</sub> | <sub>[08cbeb3](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:08:52</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303)</sub> | <sub>[936745f](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303) pokus - jvrastil</sub> |
 | <sub>2022-06-20 10:58:20</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c)</sub> | <sub>[3ee1355](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c) update Info.plist - jvrastil</sub> |
