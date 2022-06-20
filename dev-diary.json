@@ -42017,5 +42017,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 00:46:01.267000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`b8a5a28`](https://github.com/SimplioOfficial/simplio-app/commit/b8a5a28a32c8ffe5f73e410b0691121e2ab83d54) Tests - MariooW",
+      "title": "[simplio-app:IntegrationTests\\_gherkin\\_imp\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8a5a28a32c8ffe5f73e410b0691121e2ab83d54"
+    }
   }
 ]
