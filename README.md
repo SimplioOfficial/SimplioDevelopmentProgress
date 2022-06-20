@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2345 commits since 10/09/2021. You can see the complete history in
+There is a total of 2346 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-20 11:13:21</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61)</sub> | <sub>[08cbeb3](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:08:52</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303)</sub> | <sub>[936745f](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303) pokus - jvrastil</sub> |
 | <sub>2022-06-20 10:58:20</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c)</sub> | <sub>[3ee1355](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c) update Info.plist - jvrastil</sub> |
 | <sub>2022-06-20 10:43:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/77de16c07ab0...4ec36fcc7dab)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2345 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-20 00:43:42</sub> | <sub>[[simplio-app:infrastructure/apiTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666)</sub> | <sub>[109a297](https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666) Adding API TESTS #5 - MariooW</sub> |
 | <sub>2022-06-20 00:37:42</sub> | <sub>[[simplio-app:infrastructure/apiTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de)</sub> | <sub>[3de3227](https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de) Adding API TESTS #4 - MariooW</sub> |
 | <sub>2022-06-20 00:35:40</sub> | <sub>[[simplio-app:infrastructure/apiTests\_Mario] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/cca643cd970d^...61995e9cd0b5)</sub> | <sub>[cca643c](https://github.com/SimplioOfficial/simplio-app/commit/cca643cd970d52b8a206c1f3fbe65a21a86a49f4) Adding API TESTS #1 - MariooW<br>[ac16937](https://github.com/SimplioOfficial/simplio-app/commit/ac16937e7308af9f54fb8c890c8c389486b4dce9) Adding API TESTS #2 - MariooW<br>[61995e9](https://github.com/SimplioOfficial/simplio-app/commit/61995e9cd0b55b0e618e8aef943c9c39e583ee52) Adding API TESTS #3 - MariooW</sub> |
-| <sub>2022-06-20 00:30:13</sub> | <sub>[[simplio-app:infrastructutre/apiTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61995e9cd0b55b0e618e8aef943c9c39e583ee52)</sub> | <sub>[61995e9](https://github.com/SimplioOfficial/simplio-app/commit/61995e9cd0b55b0e618e8aef943c9c39e583ee52) Adding API TESTS #3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
