@@ -41963,5 +41963,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/61995e9cd0b55b0e618e8aef943c9c39e583ee52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 00:35:40.301000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`cca643c`](https://github.com/SimplioOfficial/simplio-app/commit/cca643cd970d52b8a206c1f3fbe65a21a86a49f4) Adding API TESTS #1 - MariooW\n[`ac16937`](https://github.com/SimplioOfficial/simplio-app/commit/ac16937e7308af9f54fb8c890c8c389486b4dce9) Adding API TESTS #2 - MariooW\n[`61995e9`](https://github.com/SimplioOfficial/simplio-app/commit/61995e9cd0b55b0e618e8aef943c9c39e583ee52) Adding API TESTS #3 - MariooW",
+      "title": "[simplio-app:infrastructure/apiTests\\_Mario] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/cca643cd970d^...61995e9cd0b5"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 00:37:42.440000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`3de3227`](https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de) Adding API TESTS #4 - MariooW",
+      "title": "[simplio-app:infrastructure/apiTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de"
+    }
   }
 ]
