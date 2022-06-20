@@ -41999,5 +41999,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 00:43:42.909000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`109a297`](https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666) Adding API TESTS #5 - MariooW",
+      "title": "[simplio-app:infrastructure/apiTests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666"
+    }
   }
 ]
