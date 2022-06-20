@@ -42195,5 +42195,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c8b9204d6ad994c42ab248f94494ec662cf0ab93"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 12:42:33.213000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c4c3d7f`](https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7) build fix - jvrastil",
+      "title": "[simplio-app:feature/initial\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7"
+    }
   }
 ]
