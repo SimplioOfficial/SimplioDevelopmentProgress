@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2352 commits since 10/09/2021. You can see the complete history in
+There is a total of 2354 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-20 22:41:42</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/572295ca7ab776034df429d69819b5f37e819f36)</sub> | <sub>[572295c](https://github.com/SimplioOfficial/simplio-app/commit/572295ca7ab776034df429d69819b5f37e819f36) FIx tests#5 checking e2e tests - MariooW</sub> |
+| <sub>2022-06-20 22:40:33</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e882dccba8bdf987d6565bf3680a4e3701864388)</sub> | <sub>[e882dcc](https://github.com/SimplioOfficial/simplio-app/commit/e882dccba8bdf987d6565bf3680a4e3701864388) FIx tests#4 checking e2e tests - MariooW</sub> |
 | <sub>2022-06-20 22:32:16</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83de82af8818b155416bea4deea122b662f26c22)</sub> | <sub>[83de82a](https://github.com/SimplioOfficial/simplio-app/commit/83de82af8818b155416bea4deea122b662f26c22) FIx tests - MariooW</sub> |
 | <sub>2022-06-20 22:31:11</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71419a5bd12aa75a230f66fe185292d39923ed2a)</sub> | <sub>[71419a5](https://github.com/SimplioOfficial/simplio-app/commit/71419a5bd12aa75a230f66fe185292d39923ed2a) FIx tests#2 - MariooW</sub> |
 | <sub>2022-06-20 12:42:33</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7)</sub> | <sub>[c4c3d7f](https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7) build fix - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 2352 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-20 11:33:18</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1)</sub> | <sub>[1be5515](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:13:21</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61)</sub> | <sub>[08cbeb3](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:08:52</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303)</sub> | <sub>[936745f](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303) pokus - jvrastil</sub> |
-| <sub>2022-06-20 10:58:20</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c)</sub> | <sub>[3ee1355](https://github.com/SimplioOfficial/simplio-app/commit/3ee1355e5e397d444b6149d36c636a7c8dcccf0c) update Info.plist - jvrastil</sub> |
-| <sub>2022-06-20 10:43:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/77de16c07ab0...4ec36fcc7dab)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
