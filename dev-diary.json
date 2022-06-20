@@ -42035,5 +42035,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8a5a28a32c8ffe5f73e410b0691121e2ab83d54"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 10:16:59.286000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`d8271a9`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/d8271a955b1e05821b653c3c66e42f32c4859643) fixed ethereum projectID missing - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/d8271a955b1e05821b653c3c66e42f32c4859643"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-20 10:18:26.354000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e1c3a5d87bb2...520fba04b307)",
+      "title": "[simplio-app] Branch task/77\\-localization was force-pushed to `520fba0`",
+      "type": "rich"
+    }
   }
 ]
