@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2347 commits since 10/09/2021. You can see the complete history in
+There is a total of 2348 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-20 12:23:40</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5081e86aea998b9405ee326c1608aa5628d070e0)</sub> | <sub>[5081e86](https://github.com/SimplioOfficial/simplio-app/commit/5081e86aea998b9405ee326c1608aa5628d070e0) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:33:18</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1)</sub> | <sub>[1be5515](https://github.com/SimplioOfficial/simplio-app/commit/1be5515748deededf42cd406e692e886b320f5c1) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:13:21</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61)</sub> | <sub>[08cbeb3](https://github.com/SimplioOfficial/simplio-app/commit/08cbeb3b35899c5167fdb84aaf2757a912844b61) pokus - jvrastil</sub> |
 | <sub>2022-06-20 11:08:52</sub> | <sub>[[simplio-app:build\_fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303)</sub> | <sub>[936745f](https://github.com/SimplioOfficial/simplio-app/commit/936745fb1a9945f372d1e928a1837995c10ad303) pokus - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2347 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-20 10:16:59</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/d8271a955b1e05821b653c3c66e42f32c4859643)</sub> | <sub>[d8271a9](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/d8271a955b1e05821b653c3c66e42f32c4859643) fixed ethereum projectID missing - yuriagile</sub> |
 | <sub>2022-06-20 00:46:01</sub> | <sub>[[simplio-app:IntegrationTests\_gherkin\_imp\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8a5a28a32c8ffe5f73e410b0691121e2ab83d54)</sub> | <sub>[b8a5a28](https://github.com/SimplioOfficial/simplio-app/commit/b8a5a28a32c8ffe5f73e410b0691121e2ab83d54) Tests - MariooW</sub> |
 | <sub>2022-06-20 00:43:42</sub> | <sub>[[simplio-app:infrastructure/apiTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666)</sub> | <sub>[109a297](https://github.com/SimplioOfficial/simplio-app/commit/109a29701f4dfb4122b4140265c848ba62c54666) Adding API TESTS #5 - MariooW</sub> |
-| <sub>2022-06-20 00:37:42</sub> | <sub>[[simplio-app:infrastructure/apiTests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de)</sub> | <sub>[3de3227](https://github.com/SimplioOfficial/simplio-app/commit/3de3227f2ceb13f48ea08b61bb3c4180bb16b4de) Adding API TESTS #4 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
