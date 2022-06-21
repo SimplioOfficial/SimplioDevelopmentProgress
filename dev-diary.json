@@ -42285,5 +42285,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/572295ca7ab776034df429d69819b5f37e819f36"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-21 05:07:45.194000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`05a7b76`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/05a7b7668f9bee83aeccb325a6ecc13bc6615f7d) ethereum test restructure - yuriagile\n[`95bcb21`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/95bcb212602c90f239279df9016c3006e05469f8) algorand transaction test fix - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/compare/d8271a955b1e...95bcb212602c"
+    }
   }
 ]
