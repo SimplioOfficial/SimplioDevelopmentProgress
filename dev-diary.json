@@ -42375,5 +42375,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-21 22:00:03.842000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`b4a95ad`](https://github.com/SimplioOfficial/simplio-app/commit/b4a95adcfaf8dda11e89f5b3f0ba323c04a86ca4) Fixes for tests - MariooW",
+      "title": "[simplio-app:fixes\\_for\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b4a95adcfaf8dda11e89f5b3f0ba323c04a86ca4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-21 22:03:17.361000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ff7f358`](https://github.com/SimplioOfficial/simplio-app/commit/ff7f358c5e363a873da479e3b5d90f72c1b4f5ec) Fixes for tests #2 - MariooW",
+      "title": "[simplio-app:fixes\\_for\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ff7f358c5e363a873da479e3b5d90f72c1b4f5ec"
+    }
   }
 ]
