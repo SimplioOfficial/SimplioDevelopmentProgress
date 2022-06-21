@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2358 commits since 10/09/2021. You can see the complete history in
+There is a total of 2359 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-21 15:02:20</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f)</sub> | <sub>[9ccad6b](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f) simple unit test & solana test - yuriagile</sub> |
 | <sub>2022-06-21 06:18:02</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/89c9f81b1ca7e94c9c40179269f506b7f2cf6ce2)</sub> | <sub>[89c9f81](https://github.com/SimplioOfficial/sio_core/commit/89c9f81b1ca7e94c9c40179269f506b7f2cf6ce2) subtask: MATIC get_balance and coverage tests - ciripel</sub> |
 | <sub>2022-06-21 06:02:05</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e74aaa0d42fee1e0625cf5a813502e6a4f39222c)</sub> | <sub>[e74aaa0](https://github.com/SimplioOfficial/sio_core/commit/e74aaa0d42fee1e0625cf5a813502e6a4f39222c) subtask: Matic BroadcastTx and cover tests - ciripel</sub> |
 | <sub>2022-06-21 05:52:17</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/b709e99ae06f59091075e414c3bd4b1287c03658)</sub> | <sub>[b709e99](https://github.com/SimplioOfficial/sio_core/commit/b709e99ae06f59091075e414c3bd4b1287c03658) subtask: MATIC BuildTx and coverage tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2358 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-20 22:32:16</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83de82af8818b155416bea4deea122b662f26c22)</sub> | <sub>[83de82a](https://github.com/SimplioOfficial/simplio-app/commit/83de82af8818b155416bea4deea122b662f26c22) FIx tests - MariooW</sub> |
 | <sub>2022-06-20 22:31:11</sub> | <sub>[[simplio-app:Mario\_fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71419a5bd12aa75a230f66fe185292d39923ed2a)</sub> | <sub>[71419a5](https://github.com/SimplioOfficial/simplio-app/commit/71419a5bd12aa75a230f66fe185292d39923ed2a) FIx tests#2 - MariooW</sub> |
 | <sub>2022-06-20 12:42:33</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7)</sub> | <sub>[c4c3d7f](https://github.com/SimplioOfficial/simplio-app/commit/c4c3d7fb75cd6667b0409d4b19484404a87c42c7) build fix - jvrastil</sub> |
-| <sub>2022-06-20 12:29:16</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8b9204d6ad994c42ab248f94494ec662cf0ab93)</sub> | <sub>[c8b9204](https://github.com/SimplioOfficial/simplio-app/commit/c8b9204d6ad994c42ab248f94494ec662cf0ab93) Build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

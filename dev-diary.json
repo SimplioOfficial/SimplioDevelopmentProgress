@@ -42357,5 +42357,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/89c9f81b1ca7e94c9c40179269f506b7f2cf6ce2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-21 15:02:20.224000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`9ccad6b`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f) simple unit test & solana test - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f"
+    }
   }
 ]
