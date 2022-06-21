@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-21 22:25:03</sub> | <sub>[[simplio-app:fixes\_for\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f7e1c43f5335af91428c46d832f0dce2f3c85650)</sub> | <sub>[f7e1c43](https://github.com/SimplioOfficial/simplio-app/commit/f7e1c43f5335af91428c46d832f0dce2f3c85650) Fixes for tests #3 - MariooW</sub> |
 | <sub>2022-06-21 22:03:17</sub> | <sub>[[simplio-app:fixes\_for\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff7f358c5e363a873da479e3b5d90f72c1b4f5ec)</sub> | <sub>[ff7f358](https://github.com/SimplioOfficial/simplio-app/commit/ff7f358c5e363a873da479e3b5d90f72c1b4f5ec) Fixes for tests #2 - MariooW</sub> |
 | <sub>2022-06-21 22:00:03</sub> | <sub>[[simplio-app:fixes\_for\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4a95adcfaf8dda11e89f5b3f0ba323c04a86ca4)</sub> | <sub>[b4a95ad](https://github.com/SimplioOfficial/simplio-app/commit/b4a95adcfaf8dda11e89f5b3f0ba323c04a86ca4) Fixes for tests - MariooW</sub> |
 | <sub>2022-06-21 15:02:20</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f)</sub> | <sub>[9ccad6b](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/9ccad6b4f1fcf40e8d07dc738baf4714939e699f) simple unit test & solana test - yuriagile</sub> |
