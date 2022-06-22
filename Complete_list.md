@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-22 00:01:23</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091)</sub> | <sub>[b75bccf](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091) Enable e2e tests - MariooW</sub> |
 | <sub>2022-06-21 23:56:57</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9)</sub> | <sub>[1f08631](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9) Fix for tests. - MariooW</sub> |
 | <sub>2022-06-21 23:30:52</sub> | <sub>[[simplio-app:fixes\_for\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20afd0f49fc81673dfc36adb3080b26cf8490e85)</sub> | <sub>[20afd0f](https://github.com/SimplioOfficial/simplio-app/commit/20afd0f49fc81673dfc36adb3080b26cf8490e85) Fixes for tests #7 - MariooW</sub> |
 | <sub>2022-06-21 23:19:47</sub> | <sub>[[simplio-app:fixes\_for\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b28338a47f0cb8f46e99bb29f4c9dd180bc33ddd)</sub> | <sub>[b28338a](https://github.com/SimplioOfficial/simplio-app/commit/b28338a47f0cb8f46e99bb29f4c9dd180bc33ddd) Fixes for tests #6 - MariooW</sub> |
