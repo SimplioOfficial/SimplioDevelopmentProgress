@@ -42537,5 +42537,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-22 00:15:21.324000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`4b0b244`](https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9) Disable e2e tests on unit test flow - MariooW",
+      "title": "[simplio-app:fix\\_tests\\_initial\\_wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9"
+    }
   }
 ]
