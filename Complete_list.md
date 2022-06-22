@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-22 06:53:13</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad)</sub> | <sub>[ba4fa40](https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad) Fix tests initial wallet (#88) - MariooW</sub> |
 | <sub>2022-06-22 00:15:21</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9)</sub> | <sub>[4b0b244](https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9) Disable e2e tests on unit test flow - MariooW</sub> |
 | <sub>2022-06-22 00:01:23</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091)</sub> | <sub>[b75bccf](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091) Enable e2e tests - MariooW</sub> |
 | <sub>2022-06-21 23:56:57</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9)</sub> | <sub>[1f08631](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9) Fix for tests. - MariooW</sub> |

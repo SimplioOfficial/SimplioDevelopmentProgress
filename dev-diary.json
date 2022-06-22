@@ -42555,5 +42555,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-22 06:53:13.525000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ba4fa40`](https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad) Fix tests initial wallet (#88) - MariooW",
+      "title": "[simplio-app:feature/initial\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad"
+    }
   }
 ]
