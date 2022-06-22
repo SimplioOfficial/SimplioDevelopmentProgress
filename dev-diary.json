@@ -42591,5 +42591,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/77de16c07ab0...65cb45b808c5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-22 21:23:08.636000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`762268f`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/762268f167ae79572592c98d09c9cbabbb2597eb) ui and module update for solana - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/762268f167ae79572592c98d09c9cbabbb2597eb"
+    }
   }
 ]
