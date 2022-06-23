@@ -42627,5 +42627,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/decimal-service/compare/9741ff241987^...3ae9732c4aa7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 05:46:43.388000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d13b9fa`](https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242) docs: fix typo in Get_balance docs - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242"
+    }
   }
 ]
