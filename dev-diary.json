@@ -42717,5 +42717,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/decimal-service/compare/3ae9732c4aa7...645acecf88a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 18:24:42.248000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d536f41`](https://github.com/SimplioOfficial/simplio-app/commit/d536f41e7c56429b277f3eb7ee7956ed23f97f5b) Merge branch 'infrastructure/apiTests_Mario' in... - MariooW\n[`dac1498`](https://github.com/SimplioOfficial/simplio-app/commit/dac1498ecc20ef657f9b6410c7bf41c5f3dd390a) Api implementation - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/d536f41e7c56^...dac1498ecc20"
+    }
   }
 ]
