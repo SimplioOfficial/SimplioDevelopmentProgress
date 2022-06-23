@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-23 18:31:37</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d)</sub> | <sub>[b06f055](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d) Api implementation #4 - MariooW</sub> |
 | <sub>2022-06-23 18:29:06</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04)</sub> | <sub>[8e0e87f](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04) Api implementation #4 - MariooW</sub> |
 | <sub>2022-06-23 18:27:05</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6)</sub> | <sub>[5e307e2](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6) Api implementation #3 - MariooW</sub> |
 | <sub>2022-06-23 18:25:52</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465)</sub> | <sub>[e324442](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465) Api implementation #2 - MariooW</sub> |

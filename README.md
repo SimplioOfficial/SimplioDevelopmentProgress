@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2382 commits since 10/09/2021. You can see the complete history in
+There is a total of 2383 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-23 18:31:37</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d)</sub> | <sub>[b06f055](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d) Api implementation #4 - MariooW</sub> |
 | <sub>2022-06-23 18:29:06</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04)</sub> | <sub>[8e0e87f](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04) Api implementation #4 - MariooW</sub> |
 | <sub>2022-06-23 18:27:05</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6)</sub> | <sub>[5e307e2](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6) Api implementation #3 - MariooW</sub> |
 | <sub>2022-06-23 18:25:52</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465)</sub> | <sub>[e324442](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465) Api implementation #2 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2382 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-23 08:05:17</sub> | <sub>[[simplio-app:task/71\-sign\-up\-and\-sign\-in\-with\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4)</sub> | <sub>[cd33e2a](https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4) generating data model - storkandstars</sub> |
 | <sub>2022-06-23 07:19:22</sub> | <sub>[[simplio-app:task/71\-sign\-up\-and\-sign\-in\-with\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/257ba0487cf29ede3d3f5072e9b2d3226e167c9a)</sub> | <sub>[257ba04](https://github.com/SimplioOfficial/simplio-app/commit/257ba0487cf29ede3d3f5072e9b2d3226e167c9a) 80 prepare screens and state management for all... - storkandstars</sub> |
 | <sub>2022-06-23 05:46:43</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242)</sub> | <sub>[d13b9fa](https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242) docs: fix typo in Get_balance docs - ciripel</sub> |
-| <sub>2022-06-23 02:37:49</sub> | <sub>[[decimal-service:master] 2 new commits](https://github.com/SimplioOfficial/decimal-service/compare/9741ff241987^...3ae9732c4aa7)</sub> | <sub>[9741ff2](https://github.com/SimplioOfficial/decimal-service/commit/9741ff241987ab6c0d02c0158dbd26c62bc585f6) init repo - PitTxid<br>[3ae9732](https://github.com/SimplioOfficial/decimal-service/commit/3ae9732c4aa7b348b45c75d61c021743ad2c32ef) add package - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
