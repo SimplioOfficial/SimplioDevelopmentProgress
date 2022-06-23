@@ -42663,5 +42663,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/257ba0487cf29ede3d3f5072e9b2d3226e167c9a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 08:05:17.074000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`cd33e2a`](https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4) generating data model - storkandstars",
+      "title": "[simplio-app:task/71\\-sign\\-up\\-and\\-sign\\-in\\-with\\-api] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4"
+    }
   }
 ]
