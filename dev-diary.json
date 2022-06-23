@@ -42699,5 +42699,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/9a59446cad84844195f6ae2af9810e679469d4ff"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 13:46:42.083000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e5b8ee5`](https://github.com/SimplioOfficial/decimal-service/commit/e5b8ee50d586d92ba34d0e438cbdcfccee5da105) add get decimal for polygon contract - PitTxid\n[`645acec`](https://github.com/SimplioOfficial/decimal-service/commit/645acecf88a3b62af0f0b842f701f65d5b40616d) Add readme - PitTxid",
+      "title": "[decimal-service:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/decimal-service/compare/3ae9732c4aa7...645acecf88a3"
+    }
   }
 ]
