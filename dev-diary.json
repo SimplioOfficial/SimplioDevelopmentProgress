@@ -42735,5 +42735,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/d536f41e7c56^...dac1498ecc20"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 18:25:52.944000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`e324442`](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465) Api implementation #2 - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 18:27:05.969000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5e307e2`](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6) Api implementation #3 - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 18:29:06.959000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`8e0e87f`](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04) Api implementation #4 - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04"
+    }
   }
 ]
