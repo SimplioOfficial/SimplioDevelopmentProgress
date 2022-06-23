@@ -42609,5 +42609,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/762268f167ae79572592c98d09c9cbabbb2597eb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 02:37:49.126000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9741ff2`](https://github.com/SimplioOfficial/decimal-service/commit/9741ff241987ab6c0d02c0158dbd26c62bc585f6) init repo - PitTxid\n[`3ae9732`](https://github.com/SimplioOfficial/decimal-service/commit/3ae9732c4aa7b348b45c75d61c021743ad2c32ef) add package - PitTxid",
+      "title": "[decimal-service:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/decimal-service/compare/9741ff241987^...3ae9732c4aa7"
+    }
   }
 ]
