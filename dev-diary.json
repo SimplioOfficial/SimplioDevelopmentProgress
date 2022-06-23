@@ -42681,5 +42681,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-23 10:09:09.064000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`9a59446`](https://github.com/SimplioOfficial/sio_core/commit/9a59446cad84844195f6ae2af9810e679469d4ff) subtask: EIP-1559 on ETH and MATIC tx + tests - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/9a59446cad84844195f6ae2af9810e679469d4ff"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2376 commits since 10/09/2021. You can see the complete history in
+There is a total of 2377 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-23 10:09:09</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9a59446cad84844195f6ae2af9810e679469d4ff)</sub> | <sub>[9a59446](https://github.com/SimplioOfficial/sio_core/commit/9a59446cad84844195f6ae2af9810e679469d4ff) subtask: EIP-1559 on ETH and MATIC tx + tests - ciripel</sub> |
 | <sub>2022-06-23 08:05:17</sub> | <sub>[[simplio-app:task/71\-sign\-up\-and\-sign\-in\-with\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4)</sub> | <sub>[cd33e2a](https://github.com/SimplioOfficial/simplio-app/commit/cd33e2a67a57bae738f93d0cdb49dcfb7bc555e4) generating data model - storkandstars</sub> |
 | <sub>2022-06-23 07:19:22</sub> | <sub>[[simplio-app:task/71\-sign\-up\-and\-sign\-in\-with\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/257ba0487cf29ede3d3f5072e9b2d3226e167c9a)</sub> | <sub>[257ba04](https://github.com/SimplioOfficial/simplio-app/commit/257ba0487cf29ede3d3f5072e9b2d3226e167c9a) 80 prepare screens and state management for all... - storkandstars</sub> |
 | <sub>2022-06-23 05:46:43</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242)</sub> | <sub>[d13b9fa](https://github.com/SimplioOfficial/sio_core/commit/d13b9fa92ff2e7303c8264f3ecd83284efd6c242) docs: fix typo in Get_balance docs - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2376 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-22 06:53:13</sub> | <sub>[[simplio-app:feature/initial\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad)</sub> | <sub>[ba4fa40](https://github.com/SimplioOfficial/simplio-app/commit/ba4fa40ba3c50c8c4414c75f81c047d92d46cfad) Fix tests initial wallet (#88) - MariooW</sub> |
 | <sub>2022-06-22 00:15:21</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9)</sub> | <sub>[4b0b244](https://github.com/SimplioOfficial/simplio-app/commit/4b0b2447fee13faf67f0e1f0b5c18eacbe7cbfa9) Disable e2e tests on unit test flow - MariooW</sub> |
 | <sub>2022-06-22 00:01:23</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091)</sub> | <sub>[b75bccf](https://github.com/SimplioOfficial/simplio-app/commit/b75bccf5cdfa4590d4f6eb66dab262ba53954091) Enable e2e tests - MariooW</sub> |
-| <sub>2022-06-21 23:56:57</sub> | <sub>[[simplio-app:fix\_tests\_initial\_wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9)</sub> | <sub>[1f08631](https://github.com/SimplioOfficial/simplio-app/commit/1f08631d91404a72dc49c82a829343d2a9e7a9f9) Fix for tests. - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
