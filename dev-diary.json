@@ -43019,5 +43019,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-24 16:12:55.074000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`9dde5b6`](https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec) docs: get ETH decimals API adjustment - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec"
+    }
   }
 ]
