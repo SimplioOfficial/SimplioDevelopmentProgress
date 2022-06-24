@@ -42983,5 +42983,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6789a9618a6b6c0c2babe42e4b906af764043c88"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-24 15:28:59.175000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ea45448`](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb) subtask: implement EIP1559 gas architecture - ciripel",
+      "title": "[fee_estimation_rest:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb"
+    }
   }
 ]
