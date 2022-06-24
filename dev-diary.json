@@ -42896,5 +42896,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-24 10:47:23.027000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3ee1355e5e39...83f90dbf2bc1)",
+      "title": "[simplio-app] Branch task/77\\-localization was force-pushed to `83f90db`",
+      "type": "rich"
+    }
   }
 ]

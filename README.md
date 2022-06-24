@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2388 commits since 10/09/2021. You can see the complete history in
+There is a total of 2389 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-24 10:47:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3ee1355e5e39...83f90dbf2bc1)</sub> |
 | <sub>2022-06-24 10:37:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d)</sub> | <sub>[2cfbe93](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d) Feature/initial wallet (#86) - storkandstars</sub> |
 | <sub>2022-06-24 09:36:10</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2641d291ec9fdda5b11352967869865705ee3af8)</sub> | <sub>[2641d29](https://github.com/SimplioOfficial/sio_core/commit/2641d291ec9fdda5b11352967869865705ee3af8) ci: increase flutter verion - ciripel</sub> |
 | <sub>2022-06-24 09:33:36</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/881d715f79b1547c721b2a3ec846cb0e7af5bb26)</sub> | <sub>[881d715](https://github.com/SimplioOfficial/sio_core/commit/881d715f79b1547c721b2a3ec846cb0e7af5bb26) subtask: get_decimals for Polygon + tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2388 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-23 18:29:06</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04)</sub> | <sub>[8e0e87f](https://github.com/SimplioOfficial/simplio-app/commit/8e0e87ffb0b5bee8fdb6d8b75a78317f69961f04) Api implementation #4 - MariooW</sub> |
 | <sub>2022-06-23 18:27:05</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6)</sub> | <sub>[5e307e2](https://github.com/SimplioOfficial/simplio-app/commit/5e307e294bfe2221a88941fe4200e8d3a96fc7a6) Api implementation #3 - MariooW</sub> |
 | <sub>2022-06-23 18:25:52</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465)</sub> | <sub>[e324442](https://github.com/SimplioOfficial/simplio-app/commit/e324442368d4939d7d8fcdd2b26851e9ff56a465) Api implementation #2 - MariooW</sub> |
-| <sub>2022-06-23 18:24:42</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d536f41e7c56^...dac1498ecc20)</sub> | <sub>[d536f41](https://github.com/SimplioOfficial/simplio-app/commit/d536f41e7c56429b277f3eb7ee7956ed23f97f5b) Merge branch 'infrastructure/apiTests_Mario' in... - MariooW<br>[dac1498](https://github.com/SimplioOfficial/simplio-app/commit/dac1498ecc20ef657f9b6410c7bf41c5f3dd390a) Api implementation - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
