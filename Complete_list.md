@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-24 09:33:36</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/881d715f79b1547c721b2a3ec846cb0e7af5bb26)</sub> | <sub>[881d715](https://github.com/SimplioOfficial/sio_core/commit/881d715f79b1547c721b2a3ec846cb0e7af5bb26) subtask: get_decimals for Polygon + tests - ciripel</sub> |
 | <sub>2022-06-24 08:37:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/645acecf88a3...c91b6f30cbbc)</sub> |
 | <sub>2022-06-24 08:33:05</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b561466e630a63ec1f0e375e4eaa4d0265000219)</sub> | <sub>[b561466](https://github.com/SimplioOfficial/simplio-app/commit/b561466e630a63ec1f0e375e4eaa4d0265000219) Task/78 - Globally accessible themes - jvrastil</sub> |
 | <sub>2022-06-23 18:31:37</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d)</sub> | <sub>[b06f055](https://github.com/SimplioOfficial/simplio-app/commit/b06f055497276d8eb693b83e65e610ed6010995d) Api implementation #4 - MariooW</sub> |
