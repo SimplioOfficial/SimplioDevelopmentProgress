@@ -42825,5 +42825,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b561466e630a63ec1f0e375e4eaa4d0265000219"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-24 08:37:42.588000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/645acecf88a3...c91b6f30cbbc)",
+      "title": "[simplio-ms-decimal-service] Branch master was force-pushed to `c91b6f3`",
+      "type": "rich"
+    }
   }
 ]
