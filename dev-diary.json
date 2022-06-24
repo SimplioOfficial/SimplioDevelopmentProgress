@@ -42860,5 +42860,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/881d715f79b1547c721b2a3ec846cb0e7af5bb26"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-24 09:36:10.067000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2641d29`](https://github.com/SimplioOfficial/sio_core/commit/2641d291ec9fdda5b11352967869865705ee3af8) ci: increase flutter verion - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/2641d291ec9fdda5b11352967869865705ee3af8"
+    }
   }
 ]
