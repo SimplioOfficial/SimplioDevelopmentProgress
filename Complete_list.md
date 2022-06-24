@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-24 15:53:33</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34)</sub> | <sub>[1d9da63](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34) subtask: implement EIP1559 gas price architecture - ciripel</sub> |
 | <sub>2022-06-24 15:28:59</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb)</sub> | <sub>[ea45448](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb) subtask: implement EIP1559 gas architecture - ciripel</sub> |
 | <sub>2022-06-24 12:34:19</sub> | <sub>[[simplio-app:subtask/79\-auhentication\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6789a9618a6b6c0c2babe42e4b906af764043c88)</sub> | <sub>[6789a96](https://github.com/SimplioOfficial/simplio-app/commit/6789a9618a6b6c0c2babe42e4b906af764043c88) installing chopper - storkandstars</sub> |
 | <sub>2022-06-24 11:15:09</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9a75569cf2ec41c908c1bc24e9b92f214922c01)</sub> | <sub>[c9a7556](https://github.com/SimplioOfficial/simplio-app/commit/c9a75569cf2ec41c908c1bc24e9b92f214922c01) increase version - jvrastil</sub> |
