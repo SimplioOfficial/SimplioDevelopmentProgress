@@ -43073,5 +43073,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/152a12e7320d...391c423f4fa6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-27 15:58:12.889000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f2f6498`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/f2f6498d409c7292bd5664b5a36e45f3d79ff80e) update readme file - PitTxid",
+      "title": "[simplio-ms-decimal-service:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/f2f6498d409c7292bd5664b5a36e45f3d79ff80e"
+    }
   }
 ]
