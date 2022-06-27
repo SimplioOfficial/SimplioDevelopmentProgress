@@ -43055,5 +43055,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/c91b6f30cbbc...152a12e7320d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-27 15:50:19.615000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`818d3aa`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/818d3aa97bfbd37eda8f6ee10dc1f999e2aef24f) add solana decimal method - PitTxid\n[`c34b32e`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/c34b32e692dee4a626affbffdbe40b30a1b79d77) rebuild api call - PitTxid\n[`391c423`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/391c423f4fa6fc15c92a4aa34da020d28fa96353) fix get sol token decimal - PitTxid",
+      "title": "[simplio-ms-decimal-service:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/152a12e7320d...391c423f4fa6"
+    }
   }
 ]
