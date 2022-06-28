@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2402 commits since 10/09/2021. You can see the complete history in
+There is a total of 2403 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-28 08:26:29</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1)</sub> | <sub>[d5d28e3](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1) fix: remove unused deps - ciripel</sub> |
 | <sub>2022-06-28 07:22:27</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f)</sub> | <sub>[5db6096](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f) fix: changed bnb to bsc - ciripel</sub> |
 | <sub>2022-06-28 07:10:14</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6f71417ff57a...d8ca9fc2fd18)</sub> | <sub>[2cfbe93](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d) Feature/initial wallet (#86) - storkandstars<br>[d8ca9fc](https://github.com/SimplioOfficial/simplio-app/commit/d8ca9fc2fd18f79ce0ecb2da3c51cf2ba57e5a35) Merge branch 'master' of https://github.com/Sim... - MariooW</sub> |
 | <sub>2022-06-28 05:34:11</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68)</sub> | <sub>[6f71417](https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68) Adding Api - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2402 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-24 16:12:55</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec)</sub> | <sub>[9dde5b6](https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec) docs: get ETH decimals API adjustment - ciripel</sub> |
 | <sub>2022-06-24 15:53:33</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34)</sub> | <sub>[1d9da63](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34) subtask: implement EIP1559 gas price architecture - ciripel</sub> |
 | <sub>2022-06-24 15:28:59</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb)</sub> | <sub>[ea45448](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb) subtask: implement EIP1559 gas architecture - ciripel</sub> |
-| <sub>2022-06-24 12:34:19</sub> | <sub>[[simplio-app:subtask/79\-auhentication\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6789a9618a6b6c0c2babe42e4b906af764043c88)</sub> | <sub>[6789a96](https://github.com/SimplioOfficial/simplio-app/commit/6789a9618a6b6c0c2babe42e4b906af764043c88) installing chopper - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

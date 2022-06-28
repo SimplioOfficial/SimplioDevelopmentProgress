@@ -43145,5 +43145,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 08:26:29.720000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d5d28e3`](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1) fix: remove unused deps - ciripel",
+      "title": "[fee_estimation_rest:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1"
+    }
   }
 ]
