@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2403 commits since 10/09/2021. You can see the complete history in
+There is a total of 2404 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-28 11:17:46</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c)</sub> | <sub>[1509231](https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c) Update run_tests_on_push_infrastructure.yml - MariooW</sub> |
 | <sub>2022-06-28 08:26:29</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1)</sub> | <sub>[d5d28e3](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1) fix: remove unused deps - ciripel</sub> |
 | <sub>2022-06-28 07:22:27</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f)</sub> | <sub>[5db6096](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f) fix: changed bnb to bsc - ciripel</sub> |
 | <sub>2022-06-28 07:10:14</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6f71417ff57a...d8ca9fc2fd18)</sub> | <sub>[2cfbe93](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d) Feature/initial wallet (#86) - storkandstars<br>[d8ca9fc](https://github.com/SimplioOfficial/simplio-app/commit/d8ca9fc2fd18f79ce0ecb2da3c51cf2ba57e5a35) Merge branch 'master' of https://github.com/Sim... - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2403 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-27 03:18:52</sub> | <sub>[[simplio-ms-decimal-service:master] 2 new commits](https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/c91b6f30cbbc...152a12e7320d)</sub> | <sub>[cae4983](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/cae4983b6963b22708539ab7e9d6bfead80e00e9) handle error when getting decimal - PitTxid<br>[152a12e](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/152a12e7320d6f969aef21ff7c2beb914b6ec5a4) add bnb and eth support for decimal service - PitTxid</sub> |
 | <sub>2022-06-24 16:12:55</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec)</sub> | <sub>[9dde5b6](https://github.com/SimplioOfficial/sio_core/commit/9dde5b6c684eefe6ecf88be71718b9c7e14abcec) docs: get ETH decimals API adjustment - ciripel</sub> |
 | <sub>2022-06-24 15:53:33</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34)</sub> | <sub>[1d9da63](https://github.com/SimplioOfficial/sio_core/commit/1d9da63a96d0956ca1b5067a67ee71132ad12c34) subtask: implement EIP1559 gas price architecture - ciripel</sub> |
-| <sub>2022-06-24 15:28:59</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb)</sub> | <sub>[ea45448](https://github.com/ciripel/fee_estimation_rest/commit/ea454489f665e6e337142b80273b575649c0fbfb) subtask: implement EIP1559 gas architecture - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

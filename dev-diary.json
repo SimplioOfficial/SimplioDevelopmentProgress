@@ -43163,5 +43163,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 11:17:46.327000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`1509231`](https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c) Update run_tests_on_push_infrastructure.yml - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c"
+    }
   }
 ]
