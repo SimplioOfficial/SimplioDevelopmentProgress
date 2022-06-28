@@ -43109,5 +43109,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 07:10:14.140000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`2cfbe93`](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d) Feature/initial wallet (#86) - storkandstars\n[`d8ca9fc`](https://github.com/SimplioOfficial/simplio-app/commit/d8ca9fc2fd18f79ce0ecb2da3c51cf2ba57e5a35) Merge branch 'master' of https://github.com/Sim... - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/6f71417ff57a...d8ca9fc2fd18"
+    }
   }
 ]
