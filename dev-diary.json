@@ -43181,5 +43181,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 11:34:40.085000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f3be2e2`](https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1) coverage: MATIC buildTx tests fix - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1"
+    }
   }
 ]
