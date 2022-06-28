@@ -43091,5 +43091,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/f2f6498d409c7292bd5664b5a36e45f3d79ff80e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 05:34:11.511000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6f71417`](https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68) Adding Api - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68"
+    }
   }
 ]
