@@ -43127,5 +43127,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/6f71417ff57a...d8ca9fc2fd18"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 07:22:27.581000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5db6096`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f) fix: changed bnb to bsc - ciripel",
+      "title": "[simplio-ms-decimal-service:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f"
+    }
   }
 ]
