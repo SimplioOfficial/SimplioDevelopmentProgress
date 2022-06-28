@@ -43217,5 +43217,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1fbd4f72255f64d480e0663533f7cf07c1806555"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-28 22:55:42.079000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`db259f3`](https://github.com/SimplioOfficial/simplio-app/commit/db259f33331106e1a78d5a0dfaa45cc15286bd58) Update run_api_tests_on_push.yml - MariooW",
+      "title": "[simplio-app:infrastructure/API\\_tests\\_Mario] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/db259f33331106e1a78d5a0dfaa45cc15286bd58"
+    }
   }
 ]
