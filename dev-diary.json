@@ -43361,5 +43361,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a6bd4bbaacaae29d82b38c02df832fd101b66f26"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-29 21:43:41.263000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`aef62a6`](https://github.com/SimplioOfficial/simplio-app/commit/aef62a61a2b94d25007f5e79e657a7d0c9e012ea) Task/45 searchable assets (#54) - storkandstars\n[`e21386f`](https://github.com/SimplioOfficial/simplio-app/commit/e21386f51941a6bc065f3a5ccfc3066ee668c67f) Task/20 creating a multicoin wallet (#70) - storkandstars\n[`37224b3`](https://github.com/SimplioOfficial/simplio-app/commit/37224b3183f77d43830a35790e17ca56f15d7236) Task/74 programmatic bottom navigation bar (#81) - storkandstars\n[`77de16c`](https://github.com/SimplioOfficial/simplio-app/commit/77de16c07ab0438256f955fc36d8c68f230e0c06) Update to Flutter 3 (#85) - jvrastil\n[`cca643c`](https://github.com/SimplioOfficial/simplio-app/commit/cca643cd970d52b8a206c1f3fbe65a21a86a49f4) Adding API TESTS #1 - MariooW",
+      "title": "[simplio-app:master] 21 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2cfbe933da57...dbf1f92c6c31"
+    }
   }
 ]
