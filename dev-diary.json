@@ -43325,5 +43325,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-29 19:40:40.741000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`329158c`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2) launch dapp webview on request connection - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2"
+    }
   }
 ]
