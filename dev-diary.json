@@ -43343,5 +43343,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-29 20:47:01.104000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a6bd4bb`](https://github.com/SimplioOfficial/simplio-app/commit/a6bd4bbaacaae29d82b38c02df832fd101b66f26) wip - testing chopper client with authenticator - storkandstars",
+      "title": "[simplio-app:wip/79\\-authentication\\-api] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a6bd4bbaacaae29d82b38c02df832fd101b66f26"
+    }
   }
 ]
