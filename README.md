@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2411 commits since 10/09/2021. You can see the complete history in
+There is a total of 2412 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-29 14:41:42</sub> | <sub>[[simplio-app:task/76\-form\-validation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85)</sub> | <sub>[6c5d825](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85) minor changes - jvrastil</sub> |
 | <sub>2022-06-29 13:13:02</sub> | <sub>[[simplio-app:task/76\-form\-validation] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b8336035d046^...5fc83b4cb9a0)</sub> | <sub>[b833603](https://github.com/SimplioOfficial/simplio-app/commit/b8336035d046cb0ee655cfd25037d73f42d96045) 80 prepare screens and state management for all... - storkandstars<br>[0d35df5](https://github.com/SimplioOfficial/simplio-app/commit/0d35df5a1d2ae2d654e458c5a71494a6bb99e244) generating data model - storkandstars<br>[5fc83b4](https://github.com/SimplioOfficial/simplio-app/commit/5fc83b4cb9a05a7c3b37510da23190211a52e112) task/76 - Implement password froms validations - jvrastil</sub> |
 | <sub>2022-06-29 09:21:18</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/187f6c5ff8658ec01b7854cb639d7be3cf363188)</sub> | <sub>[187f6c5](https://github.com/SimplioOfficial/sio_core/commit/187f6c5ff8658ec01b7854cb639d7be3cf363188) fix: additional apikey used for polygonScan tests - ciripel</sub> |
 | <sub>2022-06-29 09:01:26</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/72f260399fc57cae2c9dc34453b4559d45c0258f)</sub> | <sub>[72f2603](https://github.com/SimplioOfficial/sio_core/commit/72f260399fc57cae2c9dc34453b4559d45c0258f) fix: add timer for api calls ratelimiting - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2411 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-28 11:34:40</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1)</sub> | <sub>[f3be2e2](https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1) coverage: MATIC buildTx tests fix - ciripel</sub> |
 | <sub>2022-06-28 11:17:46</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c)</sub> | <sub>[1509231](https://github.com/SimplioOfficial/simplio-app/commit/1509231e21c5d412decdc4be4b7b57796c9adc9c) Update run_tests_on_push_infrastructure.yml - MariooW</sub> |
 | <sub>2022-06-28 08:26:29</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1)</sub> | <sub>[d5d28e3](https://github.com/ciripel/fee_estimation_rest/commit/d5d28e3df3c0180790684cdd93e56667c747ffb1) fix: remove unused deps - ciripel</sub> |
-| <sub>2022-06-28 07:22:27</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f)</sub> | <sub>[5db6096](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/5db6096b9dc35e63c96ea88b8e93113fa442465f) fix: changed bnb to bsc - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
