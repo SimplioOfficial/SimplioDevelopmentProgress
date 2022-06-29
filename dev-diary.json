@@ -43289,5 +43289,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/187f6c5ff8658ec01b7854cb639d7be3cf363188"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-29 13:13:02.106000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b833603`](https://github.com/SimplioOfficial/simplio-app/commit/b8336035d046cb0ee655cfd25037d73f42d96045) 80 prepare screens and state management for all... - storkandstars\n[`0d35df5`](https://github.com/SimplioOfficial/simplio-app/commit/0d35df5a1d2ae2d654e458c5a71494a6bb99e244) generating data model - storkandstars\n[`5fc83b4`](https://github.com/SimplioOfficial/simplio-app/commit/5fc83b4cb9a05a7c3b37510da23190211a52e112) task/76 - Implement password froms validations - jvrastil",
+      "title": "[simplio-app:task/76\\-form\\-validation] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/b8336035d046^...5fc83b4cb9a0"
+    }
   }
 ]
