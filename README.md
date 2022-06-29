@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2407 commits since 10/09/2021. You can see the complete history in
+There is a total of 2408 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-29 08:11:59</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d2d6a9a7791e30b7b8bbe83db9ad2d07d6ccdef4)</sub> | <sub>[d2d6a9a](https://github.com/SimplioOfficial/sio_core/commit/d2d6a9a7791e30b7b8bbe83db9ad2d07d6ccdef4) subtask: MATIC GetTx history and tests - ciripel</sub> |
 | <sub>2022-06-28 22:55:42</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db259f33331106e1a78d5a0dfaa45cc15286bd58)</sub> | <sub>[db259f3](https://github.com/SimplioOfficial/simplio-app/commit/db259f33331106e1a78d5a0dfaa45cc15286bd58) Update run_api_tests_on_push.yml - MariooW</sub> |
 | <sub>2022-06-28 22:52:42</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fbd4f72255f64d480e0663533f7cf07c1806555)</sub> | <sub>[1fbd4f7](https://github.com/SimplioOfficial/simplio-app/commit/1fbd4f72255f64d480e0663533f7cf07c1806555) Update run_api_tests_on_push.yml - MariooW</sub> |
 | <sub>2022-06-28 11:34:40</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1)</sub> | <sub>[f3be2e2](https://github.com/SimplioOfficial/sio_core/commit/f3be2e2754352a23ce412eb43bc30b108d5dc4b1) coverage: MATIC buildTx tests fix - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2407 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-28 07:10:14</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6f71417ff57a...d8ca9fc2fd18)</sub> | <sub>[2cfbe93](https://github.com/SimplioOfficial/simplio-app/commit/2cfbe933da574e8eb42b0c069ba7857734525c5d) Feature/initial wallet (#86) - storkandstars<br>[d8ca9fc](https://github.com/SimplioOfficial/simplio-app/commit/d8ca9fc2fd18f79ce0ecb2da3c51cf2ba57e5a35) Merge branch 'master' of https://github.com/Sim... - MariooW</sub> |
 | <sub>2022-06-28 05:34:11</sub> | <sub>[[simplio-app:infrastructure/API\_tests\_Mario] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68)</sub> | <sub>[6f71417](https://github.com/SimplioOfficial/simplio-app/commit/6f71417ff57a95268d4b628f48b9e61c6dffad68) Adding Api - MariooW</sub> |
 | <sub>2022-06-27 15:58:12</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/f2f6498d409c7292bd5664b5a36e45f3d79ff80e)</sub> | <sub>[f2f6498](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/f2f6498d409c7292bd5664b5a36e45f3d79ff80e) update readme file - PitTxid</sub> |
-| <sub>2022-06-27 15:50:19</sub> | <sub>[[simplio-ms-decimal-service:master] 3 new commits](https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/152a12e7320d...391c423f4fa6)</sub> | <sub>[818d3aa](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/818d3aa97bfbd37eda8f6ee10dc1f999e2aef24f) add solana decimal method - PitTxid<br>[c34b32e](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/c34b32e692dee4a626affbffdbe40b30a1b79d77) rebuild api call - PitTxid<br>[391c423](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/391c423f4fa6fc15c92a4aa34da020d28fa96353) fix get sol token decimal - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
