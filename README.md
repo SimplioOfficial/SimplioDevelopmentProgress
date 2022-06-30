@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2419 commits since 10/09/2021. You can see the complete history in
+There is a total of 2420 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-30 09:14:25</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe)</sub> | <sub>[0892a1a](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe) Task/add polygon matic (#59) - ciripel</sub> |
 | <sub>2022-06-30 07:58:20</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019)</sub> | <sub>[a07eee4](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019) chore: increase version to 0.0.12 - ciripel</sub> |
 | <sub>2022-06-30 07:56:22</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/e538834fa10c14dd7c11a0a031317d13178cfbba)</sub> | <sub>[e538834](https://github.com/SimplioOfficial/sio_core/commit/e538834fa10c14dd7c11a0a031317d13178cfbba) chore: increase version to 0.0.11 - ciripel</sub> |
 | <sub>2022-06-30 07:31:14</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/68764e7619a6f42c1706ad8d93252dac91cfc71b)</sub> | <sub>[68764e7](https://github.com/SimplioOfficial/sio_core/commit/68764e7619a6f42c1706ad8d93252dac91cfc71b) coverage: tx hystory additional tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2419 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-29 19:40:40</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2)</sub> | <sub>[329158c](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2) launch dapp webview on request connection - yuriagile</sub> |
 | <sub>2022-06-29 14:41:42</sub> | <sub>[[simplio-app:task/76\-form\-validation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85)</sub> | <sub>[6c5d825](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85) minor changes - jvrastil</sub> |
 | <sub>2022-06-29 13:13:02</sub> | <sub>[[simplio-app:task/76\-form\-validation] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b8336035d046^...5fc83b4cb9a0)</sub> | <sub>[b833603](https://github.com/SimplioOfficial/simplio-app/commit/b8336035d046cb0ee655cfd25037d73f42d96045) 80 prepare screens and state management for all... - storkandstars<br>[0d35df5](https://github.com/SimplioOfficial/simplio-app/commit/0d35df5a1d2ae2d654e458c5a71494a6bb99e244) generating data model - storkandstars<br>[5fc83b4](https://github.com/SimplioOfficial/simplio-app/commit/5fc83b4cb9a05a7c3b37510da23190211a52e112) task/76 - Implement password froms validations - jvrastil</sub> |
-| <sub>2022-06-29 09:21:18</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/187f6c5ff8658ec01b7854cb639d7be3cf363188)</sub> | <sub>[187f6c5](https://github.com/SimplioOfficial/sio_core/commit/187f6c5ff8658ec01b7854cb639d7be3cf363188) fix: additional apikey used for polygonScan tests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
