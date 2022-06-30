@@ -43379,5 +43379,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2cfbe933da57...dbf1f92c6c31"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-30 02:09:52.522000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c3bc9e1`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/c3bc9e102e682264149079a73d382ed64ae20d63) Add avax - PitTxid\n[`bd3c321`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/bd3c3215d0db1cc28573d2dad5dfbaa52d5bebc1) Merge branch 'master' of https://github.com/Sim... - PitTxid\n[`271e6ba`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/271e6ba5bb75fabf889835386e28af9235c8e05b) update readme file - PitTxid",
+      "title": "[simplio-ms-decimal-service:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/5db6096b9dc3...271e6ba5bb75"
+    }
   }
 ]
