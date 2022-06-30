@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2421 commits since 10/09/2021. You can see the complete history in
+There is a total of 2422 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-30 14:35:27</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604)</sub> | <sub>[c8583fa](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604) changes after review - jvrastil</sub> |
 | <sub>2022-06-30 09:28:05</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.12](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.12)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-06-30 09:14:25</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe)</sub> | <sub>[0892a1a](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe) Task/add polygon matic (#59) - ciripel</sub> |
 | <sub>2022-06-30 07:58:20</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019)</sub> | <sub>[a07eee4](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019) chore: increase version to 0.0.12 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2421 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-06-29 21:43:41</sub> | <sub>[[simplio-app:master] 21 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2cfbe933da57...dbf1f92c6c31)</sub> | <sub>[aef62a6](https://github.com/SimplioOfficial/simplio-app/commit/aef62a61a2b94d25007f5e79e657a7d0c9e012ea) Task/45 searchable assets (#54) - storkandstars<br>[e21386f](https://github.com/SimplioOfficial/simplio-app/commit/e21386f51941a6bc065f3a5ccfc3066ee668c67f) Task/20 creating a multicoin wallet (#70) - storkandstars<br>[37224b3](https://github.com/SimplioOfficial/simplio-app/commit/37224b3183f77d43830a35790e17ca56f15d7236) Task/74 programmatic bottom navigation bar (#81) - storkandstars<br>[77de16c](https://github.com/SimplioOfficial/simplio-app/commit/77de16c07ab0438256f955fc36d8c68f230e0c06) Update to Flutter 3 (#85) - jvrastil<br>[cca643c](https://github.com/SimplioOfficial/simplio-app/commit/cca643cd970d52b8a206c1f3fbe65a21a86a49f4) Adding API TESTS #1 - MariooW</sub> |
 | <sub>2022-06-29 20:47:01</sub> | <sub>[[simplio-app:wip/79\-authentication\-api] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a6bd4bbaacaae29d82b38c02df832fd101b66f26)</sub> | <sub>[a6bd4bb](https://github.com/SimplioOfficial/simplio-app/commit/a6bd4bbaacaae29d82b38c02df832fd101b66f26) wip - testing chopper client with authenticator - storkandstars</sub> |
 | <sub>2022-06-29 19:40:40</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2)</sub> | <sub>[329158c](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/329158cf1adcb65a8bee0fa6fbf4d8bf3d6dd9d2) launch dapp webview on request connection - yuriagile</sub> |
-| <sub>2022-06-29 14:41:42</sub> | <sub>[[simplio-app:task/76\-form\-validation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85)</sub> | <sub>[6c5d825](https://github.com/SimplioOfficial/simplio-app/commit/6c5d8252b542de437cb2ed3ce73fd4af4673cd85) minor changes - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

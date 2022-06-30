@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-06-30 14:35:27</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604)</sub> | <sub>[c8583fa](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604) changes after review - jvrastil</sub> |
 | <sub>2022-06-30 09:28:05</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.12](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.12)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-06-30 09:14:25</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe)</sub> | <sub>[0892a1a](https://github.com/SimplioOfficial/sio_core/commit/0892a1a27b001a51610dd983a4aa988da23724fe) Task/add polygon matic (#59) - ciripel</sub> |
 | <sub>2022-06-30 07:58:20</sub> | <sub>[[sio_core:task/add\_polygon\_matic] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019)</sub> | <sub>[a07eee4](https://github.com/SimplioOfficial/sio_core/commit/a07eee48096f2c839f32b20d86814f46ac02a019) chore: increase version to 0.0.12 - ciripel</sub> |

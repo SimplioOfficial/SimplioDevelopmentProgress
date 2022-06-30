@@ -43485,5 +43485,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.12"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-30 14:35:27.284000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c8583fa`](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604) changes after review - jvrastil",
+      "title": "[simplio-app:task/77\\-localization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604"
+    }
   }
 ]
