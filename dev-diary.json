@@ -43397,5 +43397,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/compare/5db6096b9dc3...271e6ba5bb75"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-06-30 07:31:14.697000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`68764e7`](https://github.com/SimplioOfficial/sio_core/commit/68764e7619a6f42c1706ad8d93252dac91cfc71b) coverage: tx hystory additional tests - ciripel",
+      "title": "[sio_core:task/add\\_polygon\\_matic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/68764e7619a6f42c1706ad8d93252dac91cfc71b"
+    }
   }
 ]
