@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2430 commits since 10/09/2021. You can see the complete history in
+There is a total of 2431 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-01 12:15:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/56e907f983c2...b8f2e1ac7d3a)</sub> |
 | <sub>2022-07-01 11:51:57</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/323148ebd87b64275ac9709100e02fe4b46748f9)</sub> | <sub>[323148e](https://github.com/SimplioOfficial/simplio-app/commit/323148ebd87b64275ac9709100e02fe4b46748f9) use build context extension - jvrastil</sub> |
 | <sub>2022-07-01 10:50:32</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56e907f983c221dabefa46ef5442c6ef0a48cd88)</sub> | <sub>[56e907f](https://github.com/SimplioOfficial/simplio-app/commit/56e907f983c221dabefa46ef5442c6ef0a48cd88) increase version - jvrastil</sub> |
 | <sub>2022-07-01 10:48:53</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d01605bc8059b164b6612d5400d1c3dd566590d)</sub> | <sub>[1d01605](https://github.com/SimplioOfficial/simplio-app/commit/1d01605bc8059b164b6612d5400d1c3dd566590d) increase version - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2430 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-01 09:33:29</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be)</sub> | <sub>[6269878](https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be) changes after review - jvrastil</sub> |
 | <sub>2022-07-01 03:32:57</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/d91bdd0b0cb901ef3d49e670a6598cada421222f)</sub> | <sub>[d91bdd0](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/d91bdd0b0cb901ef3d49e670a6598cada421222f) update avax handler for request - PitTxid</sub> |
 | <sub>2022-06-30 14:35:27</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604)</sub> | <sub>[c8583fa](https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604) changes after review - jvrastil</sub> |
-| <sub>2022-06-30 09:28:05</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.12](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.12)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
