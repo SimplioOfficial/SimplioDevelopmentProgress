@@ -43521,5 +43521,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/d91bdd0b0cb901ef3d49e670a6598cada421222f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 09:33:29.101000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6269878`](https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be) changes after review - jvrastil",
+      "title": "[simplio-app:task/77\\-localization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be"
+    }
   }
 ]
