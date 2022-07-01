@@ -43556,5 +43556,41 @@
       "title": "[simplio-app] Branch task/78\\-global\\_themes was force-pushed to `f58c6a8`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 10:41:19.699000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3335822`](https://github.com/SimplioOfficial/simplio-app/commit/3335822de13a4b398dd71424b2761640dd4b6ae0) refactoring - jvrastil",
+      "title": "[simplio-app:task/78\\-global\\_themes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3335822de13a4b398dd71424b2761640dd4b6ae0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 10:43:30.394000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`08f411a`](https://github.com/SimplioOfficial/simplio-app/commit/08f411a4feb5b2fd43b49fcbe8bc737e4ea66b62) refactoring - jvrastil",
+      "title": "[simplio-app:task/78\\-global\\_themes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/08f411a4feb5b2fd43b49fcbe8bc737e4ea66b62"
+    }
   }
 ]
