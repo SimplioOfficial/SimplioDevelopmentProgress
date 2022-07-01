@@ -43663,5 +43663,22 @@
       "title": "[simplio-app] Branch task/78\\-global\\_themes was force-pushed to `b8f2e1a`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 13:51:23.498000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6c5d8252b542...2dd380f16d79)",
+      "title": "[simplio-app] Branch task/76\\-form\\-validation was force-pushed to `2dd380f`",
+      "type": "rich"
+    }
   }
 ]
