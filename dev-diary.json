@@ -43503,5 +43503,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c8583fa08e06f438ffccd6f70b2ac2b3ddcfd604"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 03:32:57.244000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d91bdd0`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/d91bdd0b0cb901ef3d49e670a6598cada421222f) update avax handler for request - PitTxid",
+      "title": "[simplio-ms-decimal-service:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/d91bdd0b0cb901ef3d49e670a6598cada421222f"
+    }
   }
 ]
