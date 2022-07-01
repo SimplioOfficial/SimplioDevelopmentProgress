@@ -43539,5 +43539,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-01 09:43:22.701000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c9a75569cf2e...f58c6a8f37ca)",
+      "title": "[simplio-app] Branch task/78\\-global\\_themes was force-pushed to `f58c6a8`",
+      "type": "rich"
+    }
   }
 ]
