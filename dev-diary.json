@@ -43893,5 +43893,23 @@
       "title": "[simplio-app] Branch task/78\\-global\\_themes was force-pushed to `b269900`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 09:35:17.146000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`fe09ab8`](https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1) try to fix api tests - jvrastil",
+      "title": "[simplio-app:task/78\\-global\\_themes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1"
+    }
   }
 ]
