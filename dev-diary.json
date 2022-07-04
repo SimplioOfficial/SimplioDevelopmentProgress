@@ -43999,5 +43999,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/85a9c3e51c39a497e9a0f9802022d2d8377333ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 19:47:40.449000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7084b5c`](https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0) Task/76 form validation (#92) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0"
+    }
   }
 ]
