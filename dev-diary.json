@@ -43716,5 +43716,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/87db48089cd3af17cbcfa61e3aa52ef16b966d95"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 07:21:10.890000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`851eb06`](https://github.com/SimplioOfficial/simplio-app/commit/851eb06693ad369065295855937af86a524614b2) Task/77 localization (#87) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/851eb06693ad369065295855937af86a524614b2"
+    }
   }
 ]
