@@ -43963,5 +43963,23 @@
       "title": "[simplio-app] Branch task/76\\-form\\-validation was force-pushed to `3e4168e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 19:20:09.427000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4a90587`](https://github.com/SimplioOfficial/simplio-app/commit/4a9058716823a37e3fb185ad8f19aa99137326aa) changes after rebase - jvrastil",
+      "title": "[simplio-app:task/76\\-form\\-validation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4a9058716823a37e3fb185ad8f19aa99137326aa"
+    }
   }
 ]
