@@ -43928,5 +43928,23 @@
       "title": "[simplio-app] Branch task/78\\-global\\_themes was force-pushed to `a678b3d`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 14:06:10.308000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6c68652`](https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c) Task/78 - Globally accessible themes (#90) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c"
+    }
   }
 ]

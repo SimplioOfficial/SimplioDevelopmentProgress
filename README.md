@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2446 commits since 10/09/2021. You can see the complete history in
+There is a total of 2447 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-04 14:06:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c)</sub> | <sub>[6c68652](https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c) Task/78 - Globally accessible themes (#90) - jvrastil</sub> |
 | <sub>2022-07-04 09:46:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/fe09ab8e40b1...a678b3d94d98)</sub> |
 | <sub>2022-07-04 09:35:17</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1)</sub> | <sub>[fe09ab8](https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 08:33:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5f8e4c5ba801...b269900e7014)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2446 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-04 08:17:51</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a1717d33096700c3217e80b3202fd9d647ebf827)</sub> | <sub>[a1717d3](https://github.com/SimplioOfficial/simplio-app/commit/a1717d33096700c3217e80b3202fd9d647ebf827) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 08:10:24</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896)</sub> | <sub>[dc08152](https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 07:56:58</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65ddc2f0bf698325dcabb7c3c2d82c5d4a3ceda2)</sub> | <sub>[65ddc2f](https://github.com/SimplioOfficial/simplio-app/commit/65ddc2f0bf698325dcabb7c3c2d82c5d4a3ceda2) try to fix api tests - jvrastil</sub> |
-| <sub>2022-07-04 07:54:25</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73d421ebbcd155ce1739f4d205389e7e298adad7)</sub> | <sub>[73d421e](https://github.com/SimplioOfficial/simplio-app/commit/73d421ebbcd155ce1739f4d205389e7e298adad7) try to fix api tests - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
