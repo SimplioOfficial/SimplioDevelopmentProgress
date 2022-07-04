@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2433 commits since 10/09/2021. You can see the complete history in
+There is a total of 2434 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-04 07:14:00</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87db48089cd3af17cbcfa61e3aa52ef16b966d95)</sub> | <sub>[87db480](https://github.com/SimplioOfficial/simplio-app/commit/87db48089cd3af17cbcfa61e3aa52ef16b966d95) fix name - jvrastil</sub> |
 | <sub>2022-07-01 14:05:10</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4979a39c3f0abbc9af43cfc62af79085f3d1c6b5)</sub> | <sub>[4979a39](https://github.com/SimplioOfficial/simplio-app/commit/4979a39c3f0abbc9af43cfc62af79085f3d1c6b5) simplify null check - jvrastil</sub> |
 | <sub>2022-07-01 13:51:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6c5d8252b542...2dd380f16d79)</sub> |
 | <sub>2022-07-01 12:15:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/56e907f983c2...b8f2e1ac7d3a)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2433 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-01 10:43:30</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08f411a4feb5b2fd43b49fcbe8bc737e4ea66b62)</sub> | <sub>[08f411a](https://github.com/SimplioOfficial/simplio-app/commit/08f411a4feb5b2fd43b49fcbe8bc737e4ea66b62) refactoring - jvrastil</sub> |
 | <sub>2022-07-01 10:41:19</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3335822de13a4b398dd71424b2761640dd4b6ae0)</sub> | <sub>[3335822](https://github.com/SimplioOfficial/simplio-app/commit/3335822de13a4b398dd71424b2761640dd4b6ae0) refactoring - jvrastil</sub> |
 | <sub>2022-07-01 09:43:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c9a75569cf2e...f58c6a8f37ca)</sub> |
-| <sub>2022-07-01 09:33:29</sub> | <sub>[[simplio-app:task/77\-localization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be)</sub> | <sub>[6269878](https://github.com/SimplioOfficial/simplio-app/commit/62698788ebf22b54f123824bf935ab8b8cba11be) changes after review - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
