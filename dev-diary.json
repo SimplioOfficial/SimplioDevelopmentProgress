@@ -43787,5 +43787,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/65ddc2f0bf698325dcabb7c3c2d82c5d4a3ceda2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 08:10:24.287000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`dc08152`](https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896) try to fix api tests - jvrastil",
+      "title": "[simplio-app:task/78\\-global\\_themes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896"
+    }
   }
 ]

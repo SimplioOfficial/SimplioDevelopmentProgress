@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-04 08:10:24</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896)</sub> | <sub>[dc08152](https://github.com/SimplioOfficial/simplio-app/commit/dc0815222d810f56bd551a0d3da0bf7a18bed896) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 07:56:58</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65ddc2f0bf698325dcabb7c3c2d82c5d4a3ceda2)</sub> | <sub>[65ddc2f](https://github.com/SimplioOfficial/simplio-app/commit/65ddc2f0bf698325dcabb7c3c2d82c5d4a3ceda2) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 07:54:25</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73d421ebbcd155ce1739f4d205389e7e298adad7)</sub> | <sub>[73d421e](https://github.com/SimplioOfficial/simplio-app/commit/73d421ebbcd155ce1739f4d205389e7e298adad7) try to fix api tests - jvrastil</sub> |
 | <sub>2022-07-04 07:45:43</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b8f2e1ac7d3a...2833a120353d)</sub> |
