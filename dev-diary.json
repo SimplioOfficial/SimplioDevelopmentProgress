@@ -43946,5 +43946,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-04 19:16:28.628000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2dd380f16d79...3e4168e06d4c)",
+      "title": "[simplio-app] Branch task/76\\-form\\-validation was force-pushed to `3e4168e`",
+      "type": "rich"
+    }
   }
 ]
