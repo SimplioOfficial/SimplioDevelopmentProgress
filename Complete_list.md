@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-05 11:56:38</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690)</sub> | <sub>[f07ff23](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690) docs: update list of supported chains - ciripel</sub> |
 | <sub>2022-07-05 11:22:02</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd)</sub> | <sub>[e1929b8](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd) feat: implement owlracle API method and AVAX chain - ciripel</sub> |
 | <sub>2022-07-04 19:47:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0)</sub> | <sub>[7084b5c](https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0) Task/76 form validation (#92) - jvrastil</sub> |
 | <sub>2022-07-04 19:28:34</sub> | <sub>[[simplio-app:task/76\-form\-validation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85a9c3e51c39a497e9a0f9802022d2d8377333ac)</sub> | <sub>[85a9c3e](https://github.com/SimplioOfficial/simplio-app/commit/85a9c3e51c39a497e9a0f9802022d2d8377333ac) fix formatting - jvrastil</sub> |

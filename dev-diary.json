@@ -44035,5 +44035,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-05 11:56:38.883000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f07ff23`](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690) docs: update list of supported chains - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690"
+    }
   }
 ]
