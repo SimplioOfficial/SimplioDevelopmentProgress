@@ -44305,5 +44305,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/231831e22939facf2094db7eae50a29b4938a290"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 14:58:09.459000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`254ab40`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/254ab4054463c2981d321270836f375ef38b1f0a) add test for creating solana transaction and to... - PitTxid",
+      "title": "[backend-blockchain-lib:create\\-raw\\-transaction\\-test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/254ab4054463c2981d321270836f375ef38b1f0a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 14:58:53.461000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b24152f`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/b24152f1310180f9770162d181b22b8c083a637d) fix create transaction for solana token - PitTxid",
+      "title": "[backend-blockchain-lib:create\\-raw\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/b24152f1310180f9770162d181b22b8c083a637d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 14:59:58.481000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f841e31`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/f841e31dd53c3f4121b617ccf4667d3c59d94e7c) add test for creating solana transaction and to... - PitTxid",
+      "title": "[backend-blockchain-lib:create\\-raw\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/f841e31dd53c3f4121b617ccf4667d3c59d94e7c"
+    }
   }
 ]
