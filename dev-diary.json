@@ -44287,5 +44287,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/56339de43a6e734013f4ec552e6fd31f70497e92"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 14:38:04.938000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`231831e`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/231831e22939facf2094db7eae50a29b4938a290) add create token transaction - PitTxid",
+      "title": "[backend-blockchain-lib:create\\-raw\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/231831e22939facf2094db7eae50a29b4938a290"
+    }
   }
 ]
