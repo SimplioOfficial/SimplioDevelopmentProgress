@@ -44161,5 +44161,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/bd1b563d3856...f543fe9141d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 10:22:42.855000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7cdf4a0`](https://github.com/SimplioOfficial/simplio-app/commit/7cdf4a057bfd1b38363c4426cf5323d359277e2e) adding generated files - storkandstars\n[`651ecb4`](https://github.com/SimplioOfficial/simplio-app/commit/651ecb4d56628b9eaa84042c810654502d2853f1) updating ignore file - storkandstars\n[`d4971ce`](https://github.com/SimplioOfficial/simplio-app/commit/d4971ce78ec93a20717810a25db1f46bff799979) restructure client dependencies - storkandstars",
+      "title": "[simplio-app:wip/79\\-authentication\\-api] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a6bd4bbaacaa...d4971ce78ec9"
+    }
   }
 ]

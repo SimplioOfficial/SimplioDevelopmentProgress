@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2459 commits since 10/09/2021. You can see the complete history in
+There is a total of 2460 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-06 10:22:42</sub> | <sub>[[simplio-app:wip/79\-authentication\-api] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a6bd4bbaacaa...d4971ce78ec9)</sub> | <sub>[7cdf4a0](https://github.com/SimplioOfficial/simplio-app/commit/7cdf4a057bfd1b38363c4426cf5323d359277e2e) adding generated files - storkandstars<br>[651ecb4](https://github.com/SimplioOfficial/simplio-app/commit/651ecb4d56628b9eaa84042c810654502d2853f1) updating ignore file - storkandstars<br>[d4971ce](https://github.com/SimplioOfficial/simplio-app/commit/d4971ce78ec93a20717810a25db1f46bff799979) restructure client dependencies - storkandstars</sub> |
 | <sub>2022-07-06 08:25:50</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/bd1b563d3856...f543fe9141d2)</sub> | <sub>[dcdb8ee](https://github.com/SimplioOfficial/sio_core/commit/dcdb8eec4932c38138038c66b5f66fe33019d78b) subtask: add GetFee for AVAX - ciripel<br>[f543fe9](https://github.com/SimplioOfficial/sio_core/commit/f543fe9141d248168367994a7cc97dc3c54e3c22) subtask: getDecimals for AVAX - ciripel</sub> |
 | <sub>2022-07-06 08:17:58</sub> | <sub>[[simplio-ms-decimal-service:master] 1 new commit](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/25261eb574ee7b7a0e372e34dd4c1aab32343a33)</sub> | <sub>[25261eb](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/25261eb574ee7b7a0e372e34dd4c1aab32343a33) docs: add ex. requests for all supported chains - ciripel</sub> |
 | <sub>2022-07-06 07:59:12</sub> | <sub>[[backend-blockchain-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8dee2e0ce861b0d758a1a8597aa52b7fe705a3ca)</sub> | <sub>[8dee2e0](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8dee2e0ce861b0d758a1a8597aa52b7fe705a3ca) #1 Generate default address for the derivation ... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2459 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-05 11:56:38</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690)</sub> | <sub>[f07ff23](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690) docs: update list of supported chains - ciripel</sub> |
 | <sub>2022-07-05 11:22:02</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd)</sub> | <sub>[e1929b8](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd) feat: implement owlracle API method and AVAX chain - ciripel</sub> |
 | <sub>2022-07-04 19:47:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0)</sub> | <sub>[7084b5c](https://github.com/SimplioOfficial/simplio-app/commit/7084b5c236255b5c18b247e16622b869c8693fd0) Task/76 form validation (#92) - jvrastil</sub> |
-| <sub>2022-07-04 19:28:34</sub> | <sub>[[simplio-app:task/76\-form\-validation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85a9c3e51c39a497e9a0f9802022d2d8377333ac)</sub> | <sub>[85a9c3e](https://github.com/SimplioOfficial/simplio-app/commit/85a9c3e51c39a497e9a0f9802022d2d8377333ac) fix formatting - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
