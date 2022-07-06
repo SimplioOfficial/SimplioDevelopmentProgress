@@ -44143,5 +44143,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/25261eb574ee7b7a0e372e34dd4c1aab32343a33"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 08:25:50.559000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dcdb8ee`](https://github.com/SimplioOfficial/sio_core/commit/dcdb8eec4932c38138038c66b5f66fe33019d78b) subtask: add GetFee for AVAX - ciripel\n[`f543fe9`](https://github.com/SimplioOfficial/sio_core/commit/f543fe9141d248168367994a7cc97dc3c54e3c22) subtask: getDecimals for AVAX - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/bd1b563d3856...f543fe9141d2"
+    }
   }
 ]
