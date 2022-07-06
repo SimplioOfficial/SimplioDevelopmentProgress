@@ -44125,5 +44125,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8dee2e0ce861b0d758a1a8597aa52b7fe705a3ca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 08:17:58.687000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`25261eb`](https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/25261eb574ee7b7a0e372e34dd4c1aab32343a33) docs: add ex. requests for all supported chains - ciripel",
+      "title": "[simplio-ms-decimal-service:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-ms-decimal-service/commit/25261eb574ee7b7a0e372e34dd4c1aab32343a33"
+    }
   }
 ]
