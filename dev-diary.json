@@ -44251,5 +44251,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/compare/137853ea9480...27ba7e11f991"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 13:41:14.993000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8dee2e0`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8dee2e0ce861b0d758a1a8597aa52b7fe705a3ca) #1 Generate default address for the derivation ... - PitTxid\n[`8f6c0a6`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f6c0a638fced03f73ef9e16317d8fe902fb75d6) Merge branch 'master' into solana-wallet - PitTxid",
+      "title": "[backend-blockchain-lib:solana\\-wallet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/compare/27ba7e11f991...8f6c0a638fce"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 13:41:34.300000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`56339de`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/56339de43a6e734013f4ec552e6fd31f70497e92) Test for solana token address (#10) - PitTxid",
+      "title": "[backend-blockchain-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/56339de43a6e734013f4ec552e6fd31f70497e92"
+    }
   }
 ]
