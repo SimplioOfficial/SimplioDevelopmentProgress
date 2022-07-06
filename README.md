@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2454 commits since 10/09/2021. You can see the complete history in
+There is a total of 2455 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-06 06:34:34</sub> | <sub>[[wallet_connect-rootsoft:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/ad61845ae835f783ac72132cc06ac5cc7870f517)</sub> | <sub>[ad61845](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/ad61845ae835f783ac72132cc06ac5cc7870f517) using binance_chain sdk - yuriagile</sub> |
 | <sub>2022-07-05 13:03:23</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/bd1b563d3856601fe29fb56fb3522a1ceb7a8d2f)</sub> | <sub>[bd1b563](https://github.com/SimplioOfficial/sio_core/commit/bd1b563d3856601fe29fb56fb3522a1ceb7a8d2f) subtask: BuildTx for AVAX and AVAX ERC20 tokens - ciripel</sub> |
 | <sub>2022-07-05 11:56:38</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690)</sub> | <sub>[f07ff23](https://github.com/SimplioOfficial/sio_core/commit/f07ff2376fc81d1a3d11359610357a638d6be690) docs: update list of supported chains - ciripel</sub> |
 | <sub>2022-07-05 11:22:02</sub> | <sub>[[fee_estimation_rest:master] 1 new commit](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd)</sub> | <sub>[e1929b8](https://github.com/ciripel/fee_estimation_rest/commit/e1929b8413accb8b09219bda3e8ff9039655acdd) feat: implement owlracle API method and AVAX chain - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2454 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-04 19:16:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2dd380f16d79...3e4168e06d4c)</sub> |
 | <sub>2022-07-04 14:06:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c)</sub> | <sub>[6c68652](https://github.com/SimplioOfficial/simplio-app/commit/6c6865248fbdda0293c9806b691c1b56867e073c) Task/78 - Globally accessible themes (#90) - jvrastil</sub> |
 | <sub>2022-07-04 09:46:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/fe09ab8e40b1...a678b3d94d98)</sub> |
-| <sub>2022-07-04 09:35:17</sub> | <sub>[[simplio-app:task/78\-global\_themes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1)</sub> | <sub>[fe09ab8](https://github.com/SimplioOfficial/simplio-app/commit/fe09ab8e40b18ec23082c14cbc66de0f631d20f1) try to fix api tests - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -44071,5 +44071,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/bd1b563d3856601fe29fb56fb3522a1ceb7a8d2f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-06 06:34:34.710000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`ad61845`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/ad61845ae835f783ac72132cc06ac5cc7870f517) using binance_chain sdk - yuriagile",
+      "title": "[wallet_connect-rootsoft:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/ad61845ae835f783ac72132cc06ac5cc7870f517"
+    }
   }
 ]
