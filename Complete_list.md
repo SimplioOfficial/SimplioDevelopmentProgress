@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-07 09:54:11</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/13d49c3a2ef02b2668f7e9d34875615d1a2426d5)</sub> | <sub>[13d49c3](https://github.com/SimplioOfficial/sio_core/commit/13d49c3a2ef02b2668f7e9d34875615d1a2426d5) subtask: add getTransactions for AVAX - ciripel</sub> |
 | <sub>2022-07-07 07:45:25</sub> | <sub>[[simplio-app:task/83\-splash\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae30884c09869b7b7efb7ffb21ea420ad7dcd854)</sub> | <sub>[ae30884](https://github.com/SimplioOfficial/simplio-app/commit/ae30884c09869b7b7efb7ffb21ea420ad7dcd854) build fix - jvrastil</sub> |
 | <sub>2022-07-07 06:34:14</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3)</sub> | <sub>[6aeee1f](https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3) subtask: getBalance for Avax - ciripel</sub> |
 | <sub>2022-07-07 05:45:08</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e)</sub> | <sub>[2f97f58](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e) docs: add AVAX RPC to broadcast method - ciripel</sub> |

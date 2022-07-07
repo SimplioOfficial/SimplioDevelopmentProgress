@@ -44449,5 +44449,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ae30884c09869b7b7efb7ffb21ea420ad7dcd854"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 09:54:11.136000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`13d49c3`](https://github.com/SimplioOfficial/sio_core/commit/13d49c3a2ef02b2668f7e9d34875615d1a2426d5) subtask: add getTransactions for AVAX - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/13d49c3a2ef02b2668f7e9d34875615d1a2426d5"
+    }
   }
 ]
