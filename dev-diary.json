@@ -44485,5 +44485,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/67158aeb7abd98310063c5d8f993a2e4500f38d7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 11:45:32.656000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`15cf443`](https://github.com/ciripel/trust_wallet_core_lib/commit/15cf44310f727400126df03fa394b5ac39e1d702) update api and android build to 2.9.6 - ciripel",
+      "title": "[trust_wallet_core_lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/15cf44310f727400126df03fa394b5ac39e1d702"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 11:49:57.366000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[ciripel/trust_wallet_core_lib] New release published: 0\\.0\\.1\\+2\\.7\\.2",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.1%2B2.7.2"
+    }
   }
 ]
