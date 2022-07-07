@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2472 commits since 10/09/2021. You can see the complete history in
+There is a total of 2473 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-07 05:45:08</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e)</sub> | <sub>[2f97f58](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e) docs: add AVAX RPC to broadcast method - ciripel</sub> |
 | <sub>2022-07-07 05:43:44</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/00821e2c562d6488b149ac92201f8e922b55192b)</sub> | <sub>[00821e2](https://github.com/SimplioOfficial/sio_core/commit/00821e2c562d6488b149ac92201f8e922b55192b) subtask: broadcastTx for AVAX - ciripel</sub> |
 | <sub>2022-07-06 15:00:52</sub> | <sub>[[backend-blockchain-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f4c5e90699532c51410db6428411928314f3e63)</sub> | <sub>[8f4c5e9](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f4c5e90699532c51410db6428411928314f3e63) Create raw transaction (#12) - PitTxid</sub> |
 | <sub>2022-07-06 14:59:58</sub> | <sub>[[backend-blockchain-lib:create\-raw\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/f841e31dd53c3f4121b617ccf4667d3c59d94e7c)</sub> | <sub>[f841e31](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/f841e31dd53c3f4121b617ccf4667d3c59d94e7c) add test for creating solana transaction and to... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2472 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-06 13:41:34</sub> | <sub>[[backend-blockchain-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/56339de43a6e734013f4ec552e6fd31f70497e92)</sub> | <sub>[56339de](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/56339de43a6e734013f4ec552e6fd31f70497e92) Test for solana token address (#10) - PitTxid</sub> |
 | <sub>2022-07-06 13:41:14</sub> | <sub>[[backend-blockchain-lib:solana\-wallet] 2 new commits](https://github.com/SimplioOfficial/backend-blockchain-lib/compare/27ba7e11f991...8f6c0a638fce)</sub> | <sub>[8dee2e0](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8dee2e0ce861b0d758a1a8597aa52b7fe705a3ca) #1 Generate default address for the derivation ... - PitTxid<br>[8f6c0a6](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f6c0a638fced03f73ef9e16317d8fe902fb75d6) Merge branch 'master' into solana-wallet - PitTxid</sub> |
 | <sub>2022-07-06 13:37:32</sub> | <sub>[[backend-blockchain-lib:solana\-wallet] 2 new commits](https://github.com/SimplioOfficial/backend-blockchain-lib/compare/137853ea9480...27ba7e11f991)</sub> | <sub>[ac5b4b2](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/ac5b4b25a75ed062f0ce067353c76713afbf24ed) add test for solana token - PitTxid<br>[27ba7e1](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/27ba7e11f991f360be85aee0c5715e8adb8795ac) Merge branch 'solana-wallet' of https://github.... - PitTxid</sub> |
-| <sub>2022-07-06 12:08:39</sub> | <sub>[[simplio-app:task/83\-splash\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/637df8dba4f17b2840b07fe553a26b6c139c7a16)</sub> | <sub>[637df8d](https://github.com/SimplioOfficial/simplio-app/commit/637df8dba4f17b2840b07fe553a26b6c139c7a16) increase version - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
