@@ -44413,5 +44413,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 06:34:14.511000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6aeee1f`](https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3) subtask: getBalance for Avax - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3"
+    }
   }
 ]

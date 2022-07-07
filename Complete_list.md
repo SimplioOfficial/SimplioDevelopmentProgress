@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-07 06:34:14</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3)</sub> | <sub>[6aeee1f](https://github.com/SimplioOfficial/sio_core/commit/6aeee1fe272ffe0baff9836026a149a4ff6779f3) subtask: getBalance for Avax - ciripel</sub> |
 | <sub>2022-07-07 05:45:08</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e)</sub> | <sub>[2f97f58](https://github.com/SimplioOfficial/sio_core/commit/2f97f585d6ff138d7650d4d4c7af8c94db2da45e) docs: add AVAX RPC to broadcast method - ciripel</sub> |
 | <sub>2022-07-07 05:43:44</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/00821e2c562d6488b149ac92201f8e922b55192b)</sub> | <sub>[00821e2](https://github.com/SimplioOfficial/sio_core/commit/00821e2c562d6488b149ac92201f8e922b55192b) subtask: broadcastTx for AVAX - ciripel</sub> |
 | <sub>2022-07-06 15:00:52</sub> | <sub>[[backend-blockchain-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f4c5e90699532c51410db6428411928314f3e63)</sub> | <sub>[8f4c5e9](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/8f4c5e90699532c51410db6428411928314f3e63) Create raw transaction (#12) - PitTxid</sub> |
