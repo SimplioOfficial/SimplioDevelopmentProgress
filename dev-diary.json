@@ -44617,5 +44617,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/13d49c3a2ef0...ed92c5c42b80"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 21:55:07.517000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/80997421?v=4",
+        "name": "yuriagile",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/xj23c4h9GnI0ZFsY7V701fq_an2Ra-bu4xDPjqf-Itw/%3Fv%3D4/https/avatars.githubusercontent.com/u/80997421",
+        "url": "https://github.com/yuriagile"
+      },
+      "color": 7506394,
+      "description": "[`0eb3738`](https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/0eb3738cb069d410d31b9d13ad8322e687161de1) connect to dapp(ETH) - yuriagile",
+      "title": "[wallet_connect-rootsoft:feature/ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/0eb3738cb069d410d31b9d13ad8322e687161de1"
+    }
   }
 ]
