@@ -44599,5 +44599,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.6%2B2.9.6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-07 12:47:58.066000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d5fa8bd`](https://github.com/SimplioOfficial/sio_core/commit/d5fa8bd7c7c8e3e8b27e20704ad0b6f3e896a064) chore: upgrade wallet_core to 0.0.6 - ciripel\n[`ed92c5c`](https://github.com/SimplioOfficial/sio_core/commit/ed92c5c42b8072755220bfdc7e2ee857319aa8f9) ci: upgrade flutter to 3.0.4 - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/13d49c3a2ef0...ed92c5c42b80"
+    }
   }
 ]
