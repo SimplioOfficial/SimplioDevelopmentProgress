@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-07 11:58:39</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.6\+2\.9\.6](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.6%2B2.9.6)</sub> | <sub>_No Commits_</sub> |
+| <sub>2022-07-07 11:57:44</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.5\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.5%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-07-07 11:54:56</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.4\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.4%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-07-07 11:54:12</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.3\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.3%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-07-07 11:53:06</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.2\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.2%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
