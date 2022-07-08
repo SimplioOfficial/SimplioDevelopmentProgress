@@ -44689,5 +44689,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7f81ee8a7f1c8811e98fb4b1f758088a2ffb1508"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 11:07:50.886000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`46638f4`](https://github.com/SimplioOfficial/simplio-app/commit/46638f4c9e3ec877662194a83698b1a21eb56444) Task/72 - Create onboarding screen - jvrastil",
+      "title": "[simplio-app:task/72\\-onboarding\\_screens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/46638f4c9e3ec877662194a83698b1a21eb56444"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 11:09:23.585000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`cfaeb10`](https://github.com/SimplioOfficial/simplio-app/commit/cfaeb101c0322a0e11c0aa31f2d652e68f4d6e28) remove unused import - jvrastil",
+      "title": "[simplio-app:task/72\\-onboarding\\_screens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cfaeb101c0322a0e11c0aa31f2d652e68f4d6e28"
+    }
   }
 ]

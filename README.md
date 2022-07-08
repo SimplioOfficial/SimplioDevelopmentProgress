@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2489 commits since 10/09/2021. You can see the complete history in
+There is a total of 2491 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-08 11:09:23</sub> | <sub>[[simplio-app:task/72\-onboarding\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cfaeb101c0322a0e11c0aa31f2d652e68f4d6e28)</sub> | <sub>[cfaeb10](https://github.com/SimplioOfficial/simplio-app/commit/cfaeb101c0322a0e11c0aa31f2d652e68f4d6e28) remove unused import - jvrastil</sub> |
+| <sub>2022-07-08 11:07:50</sub> | <sub>[[simplio-app:task/72\-onboarding\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/46638f4c9e3ec877662194a83698b1a21eb56444)</sub> | <sub>[46638f4](https://github.com/SimplioOfficial/simplio-app/commit/46638f4c9e3ec877662194a83698b1a21eb56444) Task/72 - Create onboarding screen - jvrastil</sub> |
 | <sub>2022-07-08 08:22:46</sub> | <sub>[[simplio-app:wip/73\-refreshing\-auhentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f81ee8a7f1c8811e98fb4b1f758088a2ffb1508)</sub> | <sub>[7f81ee8](https://github.com/SimplioOfficial/simplio-app/commit/7f81ee8a7f1c8811e98fb4b1f758088a2ffb1508) implementing auth api endpoints with refreshing... - storkandstars</sub> |
 | <sub>2022-07-08 08:09:58</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/19a6a265a129a1638e751cbbf26e303f40b77100)</sub> | <sub>[19a6a26](https://github.com/SimplioOfficial/sio_core/commit/19a6a265a129a1638e751cbbf26e303f40b77100) coverage: BuildTx tests fix for AVAX - ciripel</sub> |
 | <sub>2022-07-08 07:37:37</sub> | <sub>[[sio_core:task/add\_avax\_c\_chain] 2 new commits](https://github.com/SimplioOfficial/sio_core/compare/ed92c5c42b80...9d104568895f)</sub> | <sub>[730972e](https://github.com/SimplioOfficial/sio_core/commit/730972eba1e6ea8f19750781a6abda893f2c7084) feat: add ETC20 buildTx (EthereumClassic Token) - ciripel<br>[9d10456](https://github.com/SimplioOfficial/sio_core/commit/9d104568895fdd86627206a0f58ceb2bbbf04387) fix: BuildTx chainId list of bytes fix. - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 2489 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-07 11:58:39</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.6\+2\.9\.6](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.6%2B2.9.6)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-07-07 11:57:44</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.5\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.5%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-07-07 11:54:56</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.4\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.4%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-07-07 11:54:12</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.3\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.3%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-07-07 11:53:06</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.2\+2\.7\.2](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.2%2B2.7.2)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
