@@ -44635,5 +44635,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect-rootsoft/commit/0eb3738cb069d410d31b9d13ad8322e687161de1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 07:37:37.074000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`730972e`](https://github.com/SimplioOfficial/sio_core/commit/730972eba1e6ea8f19750781a6abda893f2c7084) feat: add ETC20 buildTx (EthereumClassic Token) - ciripel\n[`9d10456`](https://github.com/SimplioOfficial/sio_core/commit/9d104568895fdd86627206a0f58ceb2bbbf04387) fix: BuildTx chainId list of bytes fix. - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/compare/ed92c5c42b80...9d104568895f"
+    }
   }
 ]
