@@ -44725,5 +44725,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cfaeb101c0322a0e11c0aa31f2d652e68f4d6e28"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 11:21:30.695000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`da4baf8`](https://github.com/SimplioOfficial/simplio-app/commit/da4baf865ed7f741e19ea182fd47e8f684944b59) rename variable - jvrastil",
+      "title": "[simplio-app:task/72\\-onboarding\\_screens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/da4baf865ed7f741e19ea182fd47e8f684944b59"
+    }
   }
 ]
