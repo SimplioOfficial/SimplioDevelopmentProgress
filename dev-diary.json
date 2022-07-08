@@ -44671,5 +44671,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/19a6a265a129a1638e751cbbf26e303f40b77100"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 08:22:46.592000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7f81ee8`](https://github.com/SimplioOfficial/simplio-app/commit/7f81ee8a7f1c8811e98fb4b1f758088a2ffb1508) implementing auth api endpoints with refreshing... - storkandstars",
+      "title": "[simplio-app:wip/73\\-refreshing\\-auhentication] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7f81ee8a7f1c8811e98fb4b1f758088a2ffb1508"
+    }
   }
 ]
