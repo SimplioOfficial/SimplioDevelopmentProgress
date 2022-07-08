@@ -44653,5 +44653,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/ed92c5c42b80...9d104568895f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-08 08:09:58.059000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`19a6a26`](https://github.com/SimplioOfficial/sio_core/commit/19a6a265a129a1638e751cbbf26e303f40b77100) coverage: BuildTx tests fix for AVAX - ciripel",
+      "title": "[sio_core:task/add\\_avax\\_c\\_chain] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/19a6a265a129a1638e751cbbf26e303f40b77100"
+    }
   }
 ]
