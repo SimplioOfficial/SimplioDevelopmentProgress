@@ -44743,5 +44743,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/da4baf865ed7f741e19ea182fd47e8f684944b59"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-10 03:22:44.008000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4a136ac`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/4a136ac387c464a1706726c19d1b331d912a2613) add send raw transaction - PitTxid",
+      "title": "[backend-blockchain-lib:broadcast\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/4a136ac387c464a1706726c19d1b331d912a2613"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-10 03:23:24.860000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c65fa7d`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/c65fa7d40db26b1b6a3a046cadedea5c1d21b790) add send raw transaction (#14) - PitTxid",
+      "title": "[backend-blockchain-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/c65fa7d40db26b1b6a3a046cadedea5c1d21b790"
+    }
   }
 ]
