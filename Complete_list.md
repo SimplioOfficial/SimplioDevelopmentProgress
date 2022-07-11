@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-11 15:39:53</sub> | <sub>[[backend-solana-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-lib/commit/c8ff696cfa28eeba8e9ff3e9a16a78053f7cad3e)</sub> | <sub>[c8ff696](https://github.com/SimplioOfficial/backend-solana-lib/commit/c8ff696cfa28eeba8e9ff3e9a16a78053f7cad3e) Create main.yml - PitTxid</sub> |
 | <sub>2022-07-11 15:17:33</sub> | <sub>[[backend-solana-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-lib/commit/ba344b2b5ccc28c1dab460029b08ecfe8d1b40ba)</sub> | <sub>[ba344b2](https://github.com/SimplioOfficial/backend-solana-lib/commit/ba344b2b5ccc28c1dab460029b08ecfe8d1b40ba) fix broadcast transaction and test code (#16) - PitTxid</sub> |
 | <sub>2022-07-11 15:15:37</sub> | <sub>[[backend-blockchain-lib:broadcast\-transaction\-test] 1 new commit](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/cfbcf497e8d398202d0db08a514a5a75690e7389)</sub> | <sub>[cfbcf49](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/cfbcf497e8d398202d0db08a514a5a75690e7389) fix broadcast transaction and test code - PitTxid</sub> |
 | <sub>2022-07-11 13:40:12</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.0\.13](https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.13)</sub> | <sub>_No Commits_</sub> |

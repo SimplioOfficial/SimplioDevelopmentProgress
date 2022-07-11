@@ -44867,5 +44867,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/ba344b2b5ccc28c1dab460029b08ecfe8d1b40ba"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 15:39:53.893000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c8ff696`](https://github.com/SimplioOfficial/backend-solana-lib/commit/c8ff696cfa28eeba8e9ff3e9a16a78053f7cad3e) Create main.yml - PitTxid",
+      "title": "[backend-solana-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/c8ff696cfa28eeba8e9ff3e9a16a78053f7cad3e"
+    }
   }
 ]
