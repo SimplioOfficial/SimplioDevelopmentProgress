@@ -44831,5 +44831,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/releases/tag/0.0.13"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 15:15:37.803000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`cfbcf49`](https://github.com/SimplioOfficial/backend-blockchain-lib/commit/cfbcf497e8d398202d0db08a514a5a75690e7389) fix broadcast transaction and test code - PitTxid",
+      "title": "[backend-blockchain-lib:broadcast\\-transaction\\-test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-blockchain-lib/commit/cfbcf497e8d398202d0db08a514a5a75690e7389"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 15:17:33.922000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ba344b2`](https://github.com/SimplioOfficial/backend-solana-lib/commit/ba344b2b5ccc28c1dab460029b08ecfe8d1b40ba) fix broadcast transaction and test code (#16) - PitTxid",
+      "title": "[backend-solana-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/ba344b2b5ccc28c1dab460029b08ecfe8d1b40ba"
+    }
   }
 ]
