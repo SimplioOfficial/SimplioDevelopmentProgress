@@ -44797,5 +44797,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/compare/19a6a265a129...9737e83eb305"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 12:43:37.044000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`31b8771`](https://github.com/SimplioOfficial/sio_core/commit/31b8771b7377530630f08f5cb1265c79b2cd08e8) Task/add avax c chain (#65) - ciripel",
+      "title": "[sio_core:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/31b8771b7377530630f08f5cb1265c79b2cd08e8"
+    }
   }
 ]
