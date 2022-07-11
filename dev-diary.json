@@ -44921,5 +44921,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/df78faad69dfaee3b75276fe1206bf54f90d11a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 16:55:26.851000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`faa7c7b`](https://github.com/SimplioOfficial/backend-solana-lib/commit/faa7c7b9adb019f5e7266849cd4e0c2a24d8817e) add option to allow init empty token account (#17) - PitTxid",
+      "title": "[backend-solana-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/faa7c7b9adb019f5e7266849cd4e0c2a24d8817e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 16:57:23.039000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`671e156`](https://github.com/SimplioOfficial/backend-solana-lib/commit/671e156e21509b02257d7b180169d350b0017366) add test for Unfunded recipient case and for so... - PitTxid",
+      "title": "[backend-solana-lib:broadcast\\-token\\-transaction\\-test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/671e156e21509b02257d7b180169d350b0017366"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-11 16:58:28.688000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`be94f13`](https://github.com/SimplioOfficial/backend-solana-lib/commit/be94f13ff451ce7a1a44f84d97ad19c902bc8d73) Broadcast token transaction test (#18) - PitTxid",
+      "title": "[backend-solana-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/be94f13ff451ce7a1a44f84d97ad19c902bc8d73"
+    }
   }
 ]
