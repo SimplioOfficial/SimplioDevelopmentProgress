@@ -44993,5 +44993,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/0350ba85a090fc2bc2081b78f7ebb9f687069b42"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 05:59:52.653000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`49083b3`](https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86) update readme (#19) - PitTxid",
+      "title": "[backend-solana-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86"
+    }
   }
 ]
