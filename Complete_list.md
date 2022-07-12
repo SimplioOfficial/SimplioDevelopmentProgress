@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-12 08:59:35</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/458d8fa054f5d1fbdc08b022d8638c6cf07a9d12)</sub> | <sub>[458d8fa](https://github.com/SimplioOfficial/simplio-app/commit/458d8fa054f5d1fbdc08b022d8638c6cf07a9d12) Wip/73 refreshing auhentication (#98) - storkandstars</sub> |
 | <sub>2022-07-12 08:46:57</sub> | <sub>[[simplio-app:wip/73\-refreshing\-auhentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/233220e7d513a17c99c178c16a4e181a531a95b6)</sub> | <sub>[233220e](https://github.com/SimplioOfficial/simplio-app/commit/233220e7d513a17c99c178c16a4e181a531a95b6) cleaning - storkandstars</sub> |
 | <sub>2022-07-12 08:25:00</sub> | <sub>[[simplio-app:add\_keys] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464)</sub> | <sub>[378a412](https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464) increase version - jvrastil</sub> |
 | <sub>2022-07-12 08:24:26</sub> | <sub>[[simplio-app:add\_keys] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784)</sub> | <sub>[6c3a584](https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784) Add keys for sign up & sign in screens - jvrastil</sub> |

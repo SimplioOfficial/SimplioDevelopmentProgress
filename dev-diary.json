@@ -45083,5 +45083,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/233220e7d513a17c99c178c16a4e181a531a95b6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 08:59:35.495000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`458d8fa`](https://github.com/SimplioOfficial/simplio-app/commit/458d8fa054f5d1fbdc08b022d8638c6cf07a9d12) Wip/73 refreshing auhentication (#98) - storkandstars",
+      "title": "[simplio-app:task/73\\-refreshing\\-authentication] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/458d8fa054f5d1fbdc08b022d8638c6cf07a9d12"
+    }
   }
 ]
