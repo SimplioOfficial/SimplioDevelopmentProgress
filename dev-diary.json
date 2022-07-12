@@ -45029,5 +45029,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect_test/commit/da6c180b7fe96fd6a1df57b276cf64d03d478992"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 08:24:26.934000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6c3a584`](https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784) Add keys for sign up & sign in screens - jvrastil",
+      "title": "[simplio-app:add\\_keys] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 08:25:00.404000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`378a412`](https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464) increase version - jvrastil",
+      "title": "[simplio-app:add\\_keys] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464"
+    }
   }
 ]
