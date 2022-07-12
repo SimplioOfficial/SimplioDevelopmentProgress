@@ -45011,5 +45011,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 06:52:48.949000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`da6c180`](https://github.com/SimplioOfficial/wallet_connect_test/commit/da6c180b7fe96fd6a1df57b276cf64d03d478992) init plugin - ciripel",
+      "title": "[wallet_connect_test:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect_test/commit/da6c180b7fe96fd6a1df57b276cf64d03d478992"
+    }
   }
 ]
