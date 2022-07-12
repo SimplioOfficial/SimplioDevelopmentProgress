@@ -45137,5 +45137,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8e84aa4792e7982b4f94c5efe422e54411456718"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 15:06:22.857000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7e4e56c`](https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3) format fix - storkandstars",
+      "title": "[simplio-app:task/73\\-refreshing\\-authentication] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3"
+    }
   }
 ]
