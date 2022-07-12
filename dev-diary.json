@@ -45065,5 +45065,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-12 08:46:57.960000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`233220e`](https://github.com/SimplioOfficial/simplio-app/commit/233220e7d513a17c99c178c16a4e181a531a95b6) cleaning - storkandstars",
+      "title": "[simplio-app:wip/73\\-refreshing\\-auhentication] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/233220e7d513a17c99c178c16a4e181a531a95b6"
+    }
   }
 ]
