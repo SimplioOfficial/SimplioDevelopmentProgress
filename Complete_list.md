@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-13 07:24:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5)</sub> | <sub>[7bf27dd](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil</sub> |
 | <sub>2022-07-12 15:06:22</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3)</sub> | <sub>[7e4e56c](https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3) format fix - storkandstars</sub> |
 | <sub>2022-07-12 11:54:36</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e84aa4792e7982b4f94c5efe422e54411456718)</sub> | <sub>[8e84aa4](https://github.com/SimplioOfficial/simplio-app/commit/8e84aa4792e7982b4f94c5efe422e54411456718) adding comments - storkandstars</sub> |
 | <sub>2022-07-12 11:36:37</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f721067866c785cb2d9e6cce9bf3067fbde585a5)</sub> | <sub>[f721067](https://github.com/SimplioOfficial/simplio-app/commit/f721067866c785cb2d9e6cce9bf3067fbde585a5) removing comments - storkandstars</sub> |

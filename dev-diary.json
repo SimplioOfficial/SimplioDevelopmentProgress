@@ -45155,5 +45155,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-13 07:24:10.885000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7bf27dd`](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5"
+    }
   }
 ]
