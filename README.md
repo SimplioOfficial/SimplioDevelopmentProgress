@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2516 commits since 10/09/2021. You can see the complete history in
+There is a total of 2517 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-13 09:27:49</sub> | <sub>[[simplio-app:test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/77a0b17c7d67b01b798d2f78f8c55ebfa946863f)</sub> | <sub>[77a0b17](https://github.com/SimplioOfficial/simplio-app/commit/77a0b17c7d67b01b798d2f78f8c55ebfa946863f) wip - jvrastil</sub> |
 | <sub>2022-07-13 07:24:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5)</sub> | <sub>[7bf27dd](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil</sub> |
 | <sub>2022-07-12 15:06:22</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3)</sub> | <sub>[7e4e56c](https://github.com/SimplioOfficial/simplio-app/commit/7e4e56c248741e4592e4da6a45e762914e6c12c3) format fix - storkandstars</sub> |
 | <sub>2022-07-12 11:54:36</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e84aa4792e7982b4f94c5efe422e54411456718)</sub> | <sub>[8e84aa4](https://github.com/SimplioOfficial/simplio-app/commit/8e84aa4792e7982b4f94c5efe422e54411456718) adding comments - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2516 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-12 08:25:00</sub> | <sub>[[simplio-app:add\_keys] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464)</sub> | <sub>[378a412](https://github.com/SimplioOfficial/simplio-app/commit/378a4125fa81195469a433b2e8770c3529673464) increase version - jvrastil</sub> |
 | <sub>2022-07-12 08:24:26</sub> | <sub>[[simplio-app:add\_keys] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784)</sub> | <sub>[6c3a584](https://github.com/SimplioOfficial/simplio-app/commit/6c3a584e55417daa3b65f43b96c796aa44c40784) Add keys for sign up & sign in screens - jvrastil</sub> |
 | <sub>2022-07-12 06:52:48</sub> | <sub>[[wallet_connect_test:master] 1 new commit](https://github.com/SimplioOfficial/wallet_connect_test/commit/da6c180b7fe96fd6a1df57b276cf64d03d478992)</sub> | <sub>[da6c180](https://github.com/SimplioOfficial/wallet_connect_test/commit/da6c180b7fe96fd6a1df57b276cf64d03d478992) init plugin - ciripel</sub> |
-| <sub>2022-07-12 05:59:52</sub> | <sub>[[backend-solana-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86)</sub> | <sub>[49083b3](https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86) update readme (#19) - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
