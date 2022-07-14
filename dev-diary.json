@@ -45731,5 +45731,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/walletconnect-dart-sdk/commit/971fa484c2a0de1c4de2a269638ddc237ce1387b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 22:11:39.768000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ff3a93f`](https://github.com/SimplioOfficial/simplio-app/commit/ff3a93f6381011ab2c1239765ab2a01b6feef005) Fixes for Gherkin - MariooW\n[`8fa89a3`](https://github.com/SimplioOfficial/simplio-app/commit/8fa89a3d5ed4af444a0c167f1bce550d4a700f40) Adding new tests for login page - MariooW\n[`ed2ef8f`](https://github.com/SimplioOfficial/simplio-app/commit/ed2ef8ff30d79a4d0040981a85520b7c07223461) Merge branch 'master' of https://github.com/Sim... - MariooW\n[`6f733ce`](https://github.com/SimplioOfficial/simplio-app/commit/6f733ce62ef4a538e414d28e95464e5c9d5bc78b) Adding new tests for login page #2 - MariooW\n[`295b456`](https://github.com/SimplioOfficial/simplio-app/commit/295b456a2f3e9fa12531a19307b9ebc0f310bb0c) Adding new tests for forgot password page #2 - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ff3a93f63810^...295b456a2f3e"
+    }
   }
 ]
