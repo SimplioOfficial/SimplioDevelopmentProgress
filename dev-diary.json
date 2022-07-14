@@ -45389,5 +45389,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/631b6a50c1f26ddd5d59936b0cd33a77deb1dec6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 00:01:02.371000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`631b6a5`](https://github.com/SimplioOfficial/simplio-app/commit/631b6a50c1f26ddd5d59936b0cd33a77deb1dec6) initial tests to account - Juliana Souza",
+      "title": "[simplio-app:task/initial\\-wallet\\-tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/631b6a50c1f26ddd5d59936b0cd33a77deb1dec6"
+    }
   }
 ]
