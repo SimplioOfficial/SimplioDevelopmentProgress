@@ -45569,5 +45569,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:37:12.791000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7bf27dd`](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil\n[`a76e2c6`](https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1) Task/73 refreshing auhentication (#98) (#99) - storkandstars\n[`bf519e8`](https://github.com/SimplioOfficial/simplio-app/commit/bf519e8233386b78ed060f073ad1788c4dc626b9) Merge remote-tracking branch 'origin/master' in... - storkandstars",
+      "title": "[simplio-app:task/72\\-onboarding\\_screens] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/d4ee8ca93d65...bf519e823338"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:39:12.749000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f8b37a1`](https://github.com/SimplioOfficial/simplio-app/commit/f8b37a179d62d1eb69c25c1f77f7794771c3551c) Task/72 - Create onboarding screen (#96) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f8b37a179d62d1eb69c25c1f77f7794771c3551c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:39:42.375000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7bf27dd`](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil\n[`a76e2c6`](https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1) Task/73 refreshing auhentication (#98) (#99) - storkandstars\n[`f8b37a1`](https://github.com/SimplioOfficial/simplio-app/commit/f8b37a179d62d1eb69c25c1f77f7794771c3551c) Task/72 - Create onboarding screen (#96) - jvrastil\n[`083ce0e`](https://github.com/SimplioOfficial/simplio-app/commit/083ce0eea139ab7fe3848bc670fe99493ee97d29) Merge branch 'master' into task/83-splash_screen - storkandstars",
+      "title": "[simplio-app:task/83\\-splash\\_screen] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/67158aeb7abd...083ce0eea139"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:39:58.132000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`99174c6`](https://github.com/SimplioOfficial/simplio-app/commit/99174c69cf36c8cb8ae7c936c757ba5833bd1de5) Task/83 splash screen (#95) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/99174c69cf36c8cb8ae7c936c757ba5833bd1de5"
+    }
   }
 ]
