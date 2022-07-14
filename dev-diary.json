@@ -45677,5 +45677,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 12:07:43.354000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4056301`](https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb) increase version - jvrastil",
+      "title": "[simplio-app:task/105\\-clean\\-up\\-project\\-structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb"
+    }
   }
 ]
