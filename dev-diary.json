@@ -45461,5 +45461,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/83e301be62139da54ce4bdfe841b5eff74cf39c5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 08:22:11.752000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`5e7d31a`](https://github.com/SimplioOfficial/simplio-app/commit/5e7d31ae8bade2cadbc74a557939b54b042a42b5) Remove unwanted changes - jvrastil",
+      "title": "[simplio-app:Add\\_dart\\_defines\\_into\\_builds] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e7d31ae8bade2cadbc74a557939b54b042a42b5"
+    }
   }
 ]
