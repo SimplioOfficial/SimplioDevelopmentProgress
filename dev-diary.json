@@ -45425,5 +45425,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect_test/commit/44da66dcd6ab1993369c2958f8e64f5a20155ba7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 06:53:13.356000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b5c95b1`](https://github.com/SimplioOfficial/simplio-app/commit/b5c95b174c9347188fbc176476442dc96768b135) wip - jvrastil\n[`179952d`](https://github.com/SimplioOfficial/simplio-app/commit/179952d02308f65b26f3e5914012394d397ebf74) wip - jvrastil",
+      "title": "[simplio-app:test] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0db0ce10b13e...179952d02308"
+    }
   }
 ]
