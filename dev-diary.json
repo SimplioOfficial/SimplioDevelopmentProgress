@@ -45479,5 +45479,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e7d31ae8bade2cadbc74a557939b54b042a42b5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 08:46:23.189000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`24eb454`](https://github.com/SimplioOfficial/simplio-app/commit/24eb45451719648659d8c3dcbf7d857e4faec1aa) Add --dart-defines variables into build process... - jvrastil",
+      "title": "[simplio-app:task/73\\-refreshing\\-authentication] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/24eb45451719648659d8c3dcbf7d857e4faec1aa"
+    }
   }
 ]
