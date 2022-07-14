@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2546 commits since 10/09/2021. You can see the complete history in
+There is a total of 2547 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-14 13:18:46</sub> | <sub>[[walletconnect-dart-sdk:task/add\_bsc] 1 new commit](https://github.com/SimplioOfficial/walletconnect-dart-sdk/commit/971fa484c2a0de1c4de2a269638ddc237ce1387b)</sub> | <sub>[971fa48](https://github.com/SimplioOfficial/walletconnect-dart-sdk/commit/971fa484c2a0de1c4de2a269638ddc237ce1387b) chore: update dependencies - ciripel</sub> |
 | <sub>2022-07-14 12:10:17</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26ce6e171cdf669c75e46d93e964430e7a4decd4)</sub> | <sub>[26ce6e1](https://github.com/SimplioOfficial/simplio-app/commit/26ce6e171cdf669c75e46d93e964430e7a4decd4) Task/105 clean up project structure (#107) - storkandstars</sub> |
 | <sub>2022-07-14 12:07:43</sub> | <sub>[[simplio-app:task/105\-clean\-up\-project\-structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb)</sub> | <sub>[4056301](https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb) increase version - jvrastil</sub> |
 | <sub>2022-07-14 12:00:06</sub> | <sub>[[simplio-app:task/105\-clean\-up\-project\-structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04)</sub> | <sub>[76ad27d](https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04) Use master branch for build pipelines - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2546 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-14 11:39:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8b37a179d62d1eb69c25c1f77f7794771c3551c)</sub> | <sub>[f8b37a1](https://github.com/SimplioOfficial/simplio-app/commit/f8b37a179d62d1eb69c25c1f77f7794771c3551c) Task/72 - Create onboarding screen (#96) - jvrastil</sub> |
 | <sub>2022-07-14 11:37:12</sub> | <sub>[[simplio-app:task/72\-onboarding\_screens] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d4ee8ca93d65...bf519e823338)</sub> | <sub>[7bf27dd](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil<br>[a76e2c6](https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1) Task/73 refreshing auhentication (#98) (#99) - storkandstars<br>[bf519e8](https://github.com/SimplioOfficial/simplio-app/commit/bf519e8233386b78ed060f073ad1788c4dc626b9) Merge remote-tracking branch 'origin/master' in... - storkandstars</sub> |
 | <sub>2022-07-14 11:27:31</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1)</sub> | <sub>[a76e2c6](https://github.com/SimplioOfficial/simplio-app/commit/a76e2c61ef98091ef0b896dd6daad716dbdf47d1) Task/73 refreshing auhentication (#98) (#99) - storkandstars</sub> |
-| <sub>2022-07-14 11:25:51</sub> | <sub>[[simplio-app:task/73\-refreshing\-authentication] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/070d0b5f804f...b5ff23bda4ea)</sub> | <sub>[6d6d4c2](https://github.com/SimplioOfficial/simplio-app/commit/6d6d4c26acdafe3a815d07f805e45ce480aa4551) removing oboslete comments - storkandstars<br>[b5ff23b](https://github.com/SimplioOfficial/simplio-app/commit/b5ff23bda4eaf5e57e87cf31252744bcbd6ebbb1) removing try catch block - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
