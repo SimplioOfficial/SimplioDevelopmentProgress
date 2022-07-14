@@ -45641,5 +45641,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/99174c69cf36c8cb8ae7c936c757ba5833bd1de5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:54:12.106000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`fa7f45d`](https://github.com/SimplioOfficial/simplio-app/commit/fa7f45dbed562311eb55c9cfa53d2079ee7db589) removing unused import - storkandstars\n[`ecbbe4d`](https://github.com/SimplioOfficial/simplio-app/commit/ecbbe4d5b9f409737ee7bf20ac00f4dcfedc6cd3) adding ide config - storkandstars\n[`e05860a`](https://github.com/SimplioOfficial/simplio-app/commit/e05860a856266337af0dc3c75bde99ca1243e493) removing unsuported platforms - storkandstars",
+      "title": "[simplio-app:task/105\\-clean\\-up\\-project\\-structure] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/99174c69cf36...e05860a85626"
+    }
   }
 ]
