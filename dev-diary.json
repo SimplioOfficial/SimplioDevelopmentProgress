@@ -45659,5 +45659,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/99174c69cf36...e05860a85626"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 12:00:06.281000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`76ad27d`](https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04) Use master branch for build pipelines - jvrastil",
+      "title": "[simplio-app:task/105\\-clean\\-up\\-project\\-structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04"
+    }
   }
 ]
