@@ -45443,5 +45443,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/0db0ce10b13e...179952d02308"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 08:19:11.584000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`83e301b`](https://github.com/SimplioOfficial/simplio-app/commit/83e301be62139da54ce4bdfe841b5eff74cf39c5) Add --dart-defines variables into build processes - jvrastil",
+      "title": "[simplio-app:Add\\_dart\\_defines\\_into\\_builds] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/83e301be62139da54ce4bdfe841b5eff74cf39c5"
+    }
   }
 ]
