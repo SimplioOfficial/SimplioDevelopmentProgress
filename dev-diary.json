@@ -45515,5 +45515,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d4ee8ca93d656646d87e926be4155737b449d53f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 11:08:55.992000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7bf27dd`](https://github.com/SimplioOfficial/simplio-app/commit/7bf27dd7218d82bc780f2dab7e6da4e2d79b02d5) Add keys for sign up & sign in screens (#97) - jvrastil\n[`070d0b5`](https://github.com/SimplioOfficial/simplio-app/commit/070d0b5f804f73b7bdf0b60b458a2519faac3473) Merge branch 'master' into task/73-refreshing-a... - storkandstars",
+      "title": "[simplio-app:task/73\\-refreshing\\-authentication] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/24eb45451719...070d0b5f804f"
+    }
   }
 ]
