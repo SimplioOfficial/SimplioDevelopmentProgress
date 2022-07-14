@@ -45497,5 +45497,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/24eb45451719648659d8c3dcbf7d857e4faec1aa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-14 09:06:30.258000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d4ee8ca`](https://github.com/SimplioOfficial/simplio-app/commit/d4ee8ca93d656646d87e926be4155737b449d53f) Changes after code review - jvrastil",
+      "title": "[simplio-app:task/72\\-onboarding\\_screens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d4ee8ca93d656646d87e926be4155737b449d53f"
+    }
   }
 ]
