@@ -45857,5 +45857,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/80410a5ef011...e89ea8419eca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 13:41:26.120000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`33f71d3`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/33f71d3a529b3561d9d095d2c375a81ca973fdef) chore(release): 1.0.5 - PitTxid\n[`b6a7268`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/b6a7268cb85f646b8e4a768c4d19c1d580b57552) chore(release): 1.0.6 - PitTxid\n[`7590899`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/7590899e0a9dcb2b1ee418f060729bc9a5d2f3bc) chore(release): 1.0.7 - PitTxid\n[`9fd3b74`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/9fd3b74b7a367199bca588b889283ee31b899d11) chore(release): 1.0.8 - PitTxid\n[`29162d4`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/29162d41958756349158d05bd3ffda31982cb3fc) chore(release): 1.0.9 - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/e89ea8419eca...29162d419587"
+    }
   }
 ]
