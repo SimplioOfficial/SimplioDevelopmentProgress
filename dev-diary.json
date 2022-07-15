@@ -45785,5 +45785,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet-connect-dart/commit/d5bd79af8d34589ad8f198b2cbf2d2796c06d38a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 10:56:23.957000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0350ba8`](https://github.com/SimplioOfficial/backend-solana-lib/commit/0350ba85a090fc2bc2081b78f7ebb9f687069b42) update readme - PitTxid\n[`11f49e9`](https://github.com/SimplioOfficial/backend-solana-lib/commit/11f49e9b1232900d8dbfa1d45c60e09b52e440a7) update package name - PitTxid",
+      "title": "[backend-solana-lib:readme] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/compare/0350ba85a090^...11f49e9b1232"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 10:57:31.010000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`49083b3`](https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86) update readme (#19) - PitTxid\n[`dbc1750`](https://github.com/SimplioOfficial/backend-solana-lib/commit/dbc17502d5ada434aad54dfb135389bd787bb3b0) Merge branch 'master' into readme - PitTxid",
+      "title": "[backend-solana-lib:readme] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-lib/compare/11f49e9b1232...dbc17502d5ad"
+    }
   }
 ]
