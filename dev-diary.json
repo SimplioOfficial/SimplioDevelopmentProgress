@@ -45875,5 +45875,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/e89ea8419eca...29162d419587"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 13:52:53.988000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`61ef0f5`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/61ef0f5f048fa72d6d6e3c006f1ca56be01b0fa2) update package - PitTxid\n[`8c971e0`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/8c971e0f8b8438f7d55c149d4603d499e4bdbdcb) chore(release): 1.0.10 - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/29162d419587...8c971e0f8b84"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 13:53:43.834000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1ff1907`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/1ff1907bcd37640da5e82a6aa836058ab3d39f12) update owner - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/1ff1907bcd37640da5e82a6aa836058ab3d39f12"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 13:54:03.358000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`10c3308`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/10c33085f4cfbd1f3e940502ea267e6b4dab41ee) chore(release): 1.0.11 - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/10c33085f4cfbd1f3e940502ea267e6b4dab41ee"
+    }
   }
 ]
