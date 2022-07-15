@@ -45749,5 +45749,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ff3a93f63810^...295b456a2f3e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 05:58:16.560000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`19021df`](https://github.com/SimplioOfficial/wallet-connect-dart/commit/19021df8e7954f3a72b11e415fc64f0c0d6fe632) chore: fix build gradle and typos - ciripel",
+      "title": "[wallet-connect-dart:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet-connect-dart/commit/19021df8e7954f3a72b11e415fc64f0c0d6fe632"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 05:59:34.398000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d5bd79a`](https://github.com/SimplioOfficial/wallet-connect-dart/commit/d5bd79af8d34589ad8f198b2cbf2d2796c06d38a) chore: remove windows and web app - ciripel",
+      "title": "[wallet-connect-dart:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet-connect-dart/commit/d5bd79af8d34589ad8f198b2cbf2d2796c06d38a"
+    }
   }
 ]
