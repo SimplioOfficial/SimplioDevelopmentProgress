@@ -45947,5 +45947,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/10c33085f4cf...cc094c338d0b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 14:01:28.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`98263d3`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/98263d35a3b221ed59af208104a28354f915fe14) chore(release): 1.0.14 - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/98263d35a3b221ed59af208104a28354f915fe14"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 14:02:35.431000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0d2473b`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/0d2473b9193e01a144024a8c9ef41ce7d33005f9) use package - PitTxid\n[`f1db1bc`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/f1db1bc2672d3498655ee6e0bd56fb2e30b51c75) chore(release): 1.0.12 - PitTxid\n[`5d6e6fb`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5d6e6fbdf111616d8a816c6b08775b1a445d9557) chore(release): 1.0.16 - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/98263d35a3b2...5d6e6fbdf111"
+    }
   }
 ]
