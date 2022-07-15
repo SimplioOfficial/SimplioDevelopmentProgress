@@ -46018,5 +46018,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/41760d05f2db0d8ea80fccd8bf1ee374ea56f4c7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-15 16:05:17.360000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/64993733?v=4",
+        "name": "Juvi3eira",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/EigDgDseU-Lv_-8YFXp1zWWeBiqRep23kIaI0bODMnM/%3Fv%3D4/https/avatars.githubusercontent.com/u/64993733",
+        "url": "https://github.com/Juvi3eira"
+      },
+      "color": 7506394,
+      "description": "[`2bf7be5`](https://github.com/SimplioOfficial/simplio-app/commit/2bf7be59d94f638fa041c45c0af75f3d9adafb1c) part of account test - Juliana Souza",
+      "title": "[simplio-app:task/initial\\-wallet\\-tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2bf7be59d94f638fa041c45c0af75f3d9adafb1c"
+    }
   }
 ]
