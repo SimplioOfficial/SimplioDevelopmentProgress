@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2552 commits since 10/09/2021. You can see the complete history in
+There is a total of 2553 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-15 11:24:54</sub> | <sub>[[backend-solana-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-lib/commit/80410a5ef0111ca8c20b8b56856c47fb586f829a)</sub> | <sub>[80410a5](https://github.com/SimplioOfficial/backend-solana-lib/commit/80410a5ef0111ca8c20b8b56856c47fb586f829a) Readme (#20) - PitTxid</sub> |
 | <sub>2022-07-15 10:57:31</sub> | <sub>[[backend-solana-lib:readme] 2 new commits](https://github.com/SimplioOfficial/backend-solana-lib/compare/11f49e9b1232...dbc17502d5ad)</sub> | <sub>[49083b3](https://github.com/SimplioOfficial/backend-solana-lib/commit/49083b35b0768fc19e49f861b98ec7dd8d23bb86) update readme (#19) - PitTxid<br>[dbc1750](https://github.com/SimplioOfficial/backend-solana-lib/commit/dbc17502d5ada434aad54dfb135389bd787bb3b0) Merge branch 'master' into readme - PitTxid</sub> |
 | <sub>2022-07-15 10:56:23</sub> | <sub>[[backend-solana-lib:readme] 2 new commits](https://github.com/SimplioOfficial/backend-solana-lib/compare/0350ba85a090^...11f49e9b1232)</sub> | <sub>[0350ba8](https://github.com/SimplioOfficial/backend-solana-lib/commit/0350ba85a090fc2bc2081b78f7ebb9f687069b42) update readme - PitTxid<br>[11f49e9](https://github.com/SimplioOfficial/backend-solana-lib/commit/11f49e9b1232900d8dbfa1d45c60e09b52e440a7) update package name - PitTxid</sub> |
 | <sub>2022-07-15 05:59:34</sub> | <sub>[[wallet-connect-dart:master] 1 new commit](https://github.com/SimplioOfficial/wallet-connect-dart/commit/d5bd79af8d34589ad8f198b2cbf2d2796c06d38a)</sub> | <sub>[d5bd79a](https://github.com/SimplioOfficial/wallet-connect-dart/commit/d5bd79af8d34589ad8f198b2cbf2d2796c06d38a) chore: remove windows and web app - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2552 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-14 12:10:17</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26ce6e171cdf669c75e46d93e964430e7a4decd4)</sub> | <sub>[26ce6e1](https://github.com/SimplioOfficial/simplio-app/commit/26ce6e171cdf669c75e46d93e964430e7a4decd4) Task/105 clean up project structure (#107) - storkandstars</sub> |
 | <sub>2022-07-14 12:07:43</sub> | <sub>[[simplio-app:task/105\-clean\-up\-project\-structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb)</sub> | <sub>[4056301](https://github.com/SimplioOfficial/simplio-app/commit/4056301f6081a27afe24075319808add30e2aebb) increase version - jvrastil</sub> |
 | <sub>2022-07-14 12:00:06</sub> | <sub>[[simplio-app:task/105\-clean\-up\-project\-structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04)</sub> | <sub>[76ad27d](https://github.com/SimplioOfficial/simplio-app/commit/76ad27d2e33f0050e44d3e4cec75905a82eb0c04) Use master branch for build pipelines - jvrastil</sub> |
-| <sub>2022-07-14 11:54:12</sub> | <sub>[[simplio-app:task/105\-clean\-up\-project\-structure] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/99174c69cf36...e05860a85626)</sub> | <sub>[fa7f45d](https://github.com/SimplioOfficial/simplio-app/commit/fa7f45dbed562311eb55c9cfa53d2079ee7db589) removing unused import - storkandstars<br>[ecbbe4d](https://github.com/SimplioOfficial/simplio-app/commit/ecbbe4d5b9f409737ee7bf20ac00f4dcfedc6cd3) adding ide config - storkandstars<br>[e05860a](https://github.com/SimplioOfficial/simplio-app/commit/e05860a856266337af0dc3c75bde99ca1243e493) removing unsuported platforms - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
