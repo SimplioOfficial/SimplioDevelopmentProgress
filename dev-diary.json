@@ -46180,5 +46180,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-17 23:00:37.317000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`c076cce`](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a) Fixes for login page #4 - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-17 23:03:51.379000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`9c27f5e`](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016) Fixes for login page #5 - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016"
+    }
   }
 ]

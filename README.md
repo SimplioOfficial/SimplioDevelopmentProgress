@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2572 commits since 10/09/2021. You can see the complete history in
+There is a total of 2574 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-17 23:03:51</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016)</sub> | <sub>[9c27f5e](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016) Fixes for login page #5 - MariooW</sub> |
+| <sub>2022-07-17 23:00:37</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a)</sub> | <sub>[c076cce](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a) Fixes for login page #4 - MariooW</sub> |
 | <sub>2022-07-17 22:41:58</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec)</sub> | <sub>[2de5e99](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec) Fixes for login page #3 - MariooW</sub> |
 | <sub>2022-07-17 21:53:15</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5fd26cdb3a0bf2ba34d64af5e324dc7284fef89)</sub> | <sub>[d5fd26c](https://github.com/SimplioOfficial/simplio-app/commit/d5fd26cdb3a0bf2ba34d64af5e324dc7284fef89) Fixes for login page #2 - MariooW</sub> |
 | <sub>2022-07-17 01:17:57</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f032e28d0bd736a9a0f3e1367e5fa20d79d946e3)</sub> | <sub>[f032e28](https://github.com/SimplioOfficial/simplio-app/commit/f032e28d0bd736a9a0f3e1367e5fa20d79d946e3) Fixes for login oage - MariooW</sub> |
@@ -16,7 +18,5 @@ There is a total of 2572 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-17 00:27:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38)</sub> | <sub>[62d2ec3](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38) Changes in test flows - MariooW</sub> |
 | <sub>2022-07-17 00:26:19</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0)</sub> | <sub>[fcc66e3](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0) Changes in test flows - MariooW</sub> |
 | <sub>2022-07-17 00:20:52</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/295b456a2f3e...d896f804b7e2)</sub> | <sub>[28d5506](https://github.com/SimplioOfficial/simplio-app/commit/28d5506530fe63dbad4f3156223f41757edc6aa9) Adding new tests for createAccount page #2 - MariooW<br>[d896f80](https://github.com/SimplioOfficial/simplio-app/commit/d896f804b7e29d0af3d2e7529aab594ec4e3ca95) Uncomment all tests - MariooW</sub> |
-| <sub>2022-07-15 16:05:17</sub> | <sub>[[simplio-app:task/initial\-wallet\-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2bf7be59d94f638fa041c45c0af75f3d9adafb1c)</sub> | <sub>[2bf7be5](https://github.com/SimplioOfficial/simplio-app/commit/2bf7be59d94f638fa041c45c0af75f3d9adafb1c) part of account test - Juliana Souza</sub> |
-| <sub>2022-07-15 14:08:54</sub> | <sub>[[backend-solana-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/41760d05f2db0d8ea80fccd8bf1ee374ea56f4c7)</sub> | <sub>[41760d0](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/41760d05f2db0d8ea80fccd8bf1ee374ea56f4c7) chore(release): 1.0.17 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
