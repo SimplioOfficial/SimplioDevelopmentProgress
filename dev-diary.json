@@ -46162,5 +46162,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5fd26cdb3a0bf2ba34d64af5e324dc7284fef89"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-17 22:41:58.088000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`2de5e99`](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec) Fixes for login page #3 - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec"
+    }
   }
 ]
