@@ -46108,5 +46108,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-17 00:55:41.565000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`92a0f80`](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79) Fixes for failed flutter reformat - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79"
+    }
   }
 ]

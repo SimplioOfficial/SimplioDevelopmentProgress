@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2568 commits since 10/09/2021. You can see the complete history in
+There is a total of 2569 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-17 00:55:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79)</sub> | <sub>[92a0f80](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79) Fixes for failed flutter reformat - MariooW</sub> |
 | <sub>2022-07-17 00:47:13</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3)</sub> | <sub>[f90d517](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3) Fixes for failed flutter analyzes - MariooW</sub> |
 | <sub>2022-07-17 00:27:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38)</sub> | <sub>[62d2ec3](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38) Changes in test flows - MariooW</sub> |
 | <sub>2022-07-17 00:26:19</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0)</sub> | <sub>[fcc66e3](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0) Changes in test flows - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2568 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-15 14:08:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/5d6e6fbdf111...7d1a90e25cf6)</sub> |
 | <sub>2022-07-15 14:02:35</sub> | <sub>[[backend-solana-wallet-lib:master] 3 new commits](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/98263d35a3b2...5d6e6fbdf111)</sub> | <sub>[0d2473b](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/0d2473b9193e01a144024a8c9ef41ce7d33005f9) use package - PitTxid<br>[f1db1bc](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/f1db1bc2672d3498655ee6e0bd56fb2e30b51c75) chore(release): 1.0.12 - PitTxid<br>[5d6e6fb](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5d6e6fbdf111616d8a816c6b08775b1a445d9557) chore(release): 1.0.16 - PitTxid</sub> |
 | <sub>2022-07-15 14:01:28</sub> | <sub>[[backend-solana-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/98263d35a3b221ed59af208104a28354f915fe14)</sub> | <sub>[98263d3](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/98263d35a3b221ed59af208104a28354f915fe14) chore(release): 1.0.14 - PitTxid</sub> |
-| <sub>2022-07-15 13:55:46</sub> | <sub>[[backend-solana-wallet-lib:master] 3 new commits](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/10c33085f4cf...cc094c338d0b)</sub> | <sub>[46411b0](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/46411b09059038b9d8f700340936b37eaa12e783) test with npmrc - PitTxid<br>[a28176d](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a28176d122bd562ce5feca4aa316cc512a7bafff) chore(release): 0.0.12 - PitTxid<br>[cc094c3](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cc094c338d0b7a3e8743484f6a67e74a992a1617) chore(release): 1.0.13 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
