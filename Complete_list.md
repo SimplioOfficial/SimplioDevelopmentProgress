@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-17 01:17:57</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f032e28d0bd736a9a0f3e1367e5fa20d79d946e3)</sub> | <sub>[f032e28](https://github.com/SimplioOfficial/simplio-app/commit/f032e28d0bd736a9a0f3e1367e5fa20d79d946e3) Fixes for login oage - MariooW</sub> |
 | <sub>2022-07-17 00:55:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79)</sub> | <sub>[92a0f80](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79) Fixes for failed flutter reformat - MariooW</sub> |
 | <sub>2022-07-17 00:47:13</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3)</sub> | <sub>[f90d517](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3) Fixes for failed flutter analyzes - MariooW</sub> |
 | <sub>2022-07-17 00:27:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38)</sub> | <sub>[62d2ec3](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38) Changes in test flows - MariooW</sub> |
