@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2581 commits since 10/09/2021. You can see the complete history in
+There is a total of 2582 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-18 17:46:33</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6fc21a18220614af0b2ef05d5d8a4ed5bad05009)</sub> | <sub>[6fc21a1](https://github.com/SimplioOfficial/simplio-app/commit/6fc21a18220614af0b2ef05d5d8a4ed5bad05009) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-18 17:38:47</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cfa8a27550cef265ea0a8100f6425cf0216fca7)</sub> | <sub>[9cfa8a2](https://github.com/SimplioOfficial/simplio-app/commit/9cfa8a27550cef265ea0a8100f6425cf0216fca7) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-18 17:30:40</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8e60862b5b2184930bf9f4fa600ae5b8aaa2c63)</sub> | <sub>[f8e6086](https://github.com/SimplioOfficial/simplio-app/commit/f8e60862b5b2184930bf9f4fa600ae5b8aaa2c63) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-18 17:16:27</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83fa022a425df0c76e79f42f4b986b056ef2abd4)</sub> | <sub>[83fa022](https://github.com/SimplioOfficial/simplio-app/commit/83fa022a425df0c76e79f42f4b986b056ef2abd4) Add sonar cloud workflow - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2581 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-18 08:05:24</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6)</sub> | <sub>[fac2abb](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6) Fixes for tests part 2 - MariooW</sub> |
 | <sub>2022-07-17 23:03:51</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016)</sub> | <sub>[9c27f5e](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016) Fixes for login page #5 - MariooW</sub> |
 | <sub>2022-07-17 23:00:37</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a)</sub> | <sub>[c076cce](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a) Fixes for login page #4 - MariooW</sub> |
-| <sub>2022-07-17 22:41:58</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec)</sub> | <sub>[2de5e99](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec) Fixes for login page #3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
