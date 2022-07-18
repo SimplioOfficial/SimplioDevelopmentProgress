@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2575 commits since 10/09/2021. You can see the complete history in
+There is a total of 2576 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-18 12:24:43</sub> | <sub>[[simplio-app:task/94\-pin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c7fa7733a7e4fec8a39d5d619851f36a4432aada)</sub> | <sub>[c7fa773](https://github.com/SimplioOfficial/simplio-app/commit/c7fa7733a7e4fec8a39d5d619851f36a4432aada) Task/94 - Add pin widget - jvrastil</sub> |
 | <sub>2022-07-18 08:05:24</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6)</sub> | <sub>[fac2abb](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6) Fixes for tests part 2 - MariooW</sub> |
 | <sub>2022-07-17 23:03:51</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016)</sub> | <sub>[9c27f5e](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016) Fixes for login page #5 - MariooW</sub> |
 | <sub>2022-07-17 23:00:37</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a)</sub> | <sub>[c076cce](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a) Fixes for login page #4 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2575 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-17 00:55:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79)</sub> | <sub>[92a0f80](https://github.com/SimplioOfficial/simplio-app/commit/92a0f80c9c92cc39c6c8e974228243c0d34dfc79) Fixes for failed flutter reformat - MariooW</sub> |
 | <sub>2022-07-17 00:47:13</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3)</sub> | <sub>[f90d517](https://github.com/SimplioOfficial/simplio-app/commit/f90d517389f87089b452bd5a07182f8ce021d8c3) Fixes for failed flutter analyzes - MariooW</sub> |
 | <sub>2022-07-17 00:27:41</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38)</sub> | <sub>[62d2ec3](https://github.com/SimplioOfficial/simplio-app/commit/62d2ec3f8fddc0b5da57cb19aa9ddf5125734f38) Changes in test flows - MariooW</sub> |
-| <sub>2022-07-17 00:26:19</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0)</sub> | <sub>[fcc66e3](https://github.com/SimplioOfficial/simplio-app/commit/fcc66e3fe26d9c2e99a5509d019041cae1f3bba0) Changes in test flows - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
