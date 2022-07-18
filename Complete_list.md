@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-18 08:05:24</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6)</sub> | <sub>[fac2abb](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6) Fixes for tests part 2 - MariooW</sub> |
 | <sub>2022-07-17 23:03:51</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016)</sub> | <sub>[9c27f5e](https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016) Fixes for login page #5 - MariooW</sub> |
 | <sub>2022-07-17 23:00:37</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a)</sub> | <sub>[c076cce](https://github.com/SimplioOfficial/simplio-app/commit/c076cce99f427e4068d01ce6fc86bee60c18aa9a) Fixes for login page #4 - MariooW</sub> |
 | <sub>2022-07-17 22:41:58</sub> | <sub>[[simplio-app:test/Mario\_integration\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec)</sub> | <sub>[2de5e99](https://github.com/SimplioOfficial/simplio-app/commit/2de5e99e6557cefdf85047e4a60c65ec5dfabdec) Fixes for login page #3 - MariooW</sub> |

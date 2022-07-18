@@ -46216,5 +46216,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9c27f5e6e7285c72596a9883ff6734b87f8bb016"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-18 08:05:24.683000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`fac2abb`](https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6) Fixes for tests part 2 - MariooW",
+      "title": "[simplio-app:test/Mario\\_integration\\_] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fac2abb2cdec70b32484efee29ef2057871fa0b6"
+    }
   }
 ]
