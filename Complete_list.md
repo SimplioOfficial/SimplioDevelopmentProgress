@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-18 18:26:25</sub> | <sub>[[simplio-app:test/mario\_test] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d94cd3701f47e5b22b64a11a6fd1bee564e57c4)</sub> | <sub>[5d94cd3](https://github.com/SimplioOfficial/simplio-app/commit/5d94cd3701f47e5b22b64a11a6fd1bee564e57c4) Fixex for new branches names - MariooW</sub> |
 | <sub>2022-07-18 17:46:33</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6fc21a18220614af0b2ef05d5d8a4ed5bad05009)</sub> | <sub>[6fc21a1](https://github.com/SimplioOfficial/simplio-app/commit/6fc21a18220614af0b2ef05d5d8a4ed5bad05009) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-18 17:38:47</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cfa8a27550cef265ea0a8100f6425cf0216fca7)</sub> | <sub>[9cfa8a2](https://github.com/SimplioOfficial/simplio-app/commit/9cfa8a27550cef265ea0a8100f6425cf0216fca7) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-18 17:30:40</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8e60862b5b2184930bf9f4fa600ae5b8aaa2c63)</sub> | <sub>[f8e6086](https://github.com/SimplioOfficial/simplio-app/commit/f8e60862b5b2184930bf9f4fa600ae5b8aaa2c63) Add sonar cloud workflow - jvrastil</sub> |

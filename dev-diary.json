@@ -46360,5 +46360,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6fc21a18220614af0b2ef05d5d8a4ed5bad05009"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-18 18:26:25.670000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5d94cd3`](https://github.com/SimplioOfficial/simplio-app/commit/5d94cd3701f47e5b22b64a11a6fd1bee564e57c4) Fixex for new branches names - MariooW",
+      "title": "[simplio-app:test/mario\\_test] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5d94cd3701f47e5b22b64a11a6fd1bee564e57c4"
+    }
   }
 ]
