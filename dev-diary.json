@@ -46396,5 +46396,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/631b6a50c1f2^...2bf7be59d94f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-19 07:58:38.711000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`100acc0`](https://github.com/SimplioOfficial/simplio-app/commit/100acc0936b028e024b14e00fffd631924335c26) Add sonar cloud workflow - jvrastil",
+      "title": "[simplio-app:sonar\\_workflow] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/100acc0936b028e024b14e00fffd631924335c26"
+    }
   }
 ]
