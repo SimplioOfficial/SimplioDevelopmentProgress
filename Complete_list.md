@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-19 08:13:27</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/94cd997ca79776276060d8f9131ec27b829a6ae7)</sub> | <sub>[94cd997](https://github.com/SimplioOfficial/simplio-app/commit/94cd997ca79776276060d8f9131ec27b829a6ae7) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-19 08:09:23</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/deb5d0c076dd2a49bd64866bf314ec1050b126bd)</sub> | <sub>[deb5d0c](https://github.com/SimplioOfficial/simplio-app/commit/deb5d0c076dd2a49bd64866bf314ec1050b126bd) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-19 08:06:58</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ab5703257cb83352a0d1b73fdce525e162b8746)</sub> | <sub>[1ab5703](https://github.com/SimplioOfficial/simplio-app/commit/1ab5703257cb83352a0d1b73fdce525e162b8746) Add sonar cloud workflow - jvrastil</sub> |
 | <sub>2022-07-19 08:02:31</sub> | <sub>[[simplio-app:sonar\_workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cf396cee161ebe3e91894172f3b35694c85e9cc4)</sub> | <sub>[cf396ce](https://github.com/SimplioOfficial/simplio-app/commit/cf396cee161ebe3e91894172f3b35694c85e9cc4) Add sonar cloud workflow - jvrastil</sub> |
