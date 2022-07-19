@@ -46558,5 +46558,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddca6c26d5bab3fdbcff7b82561d429ac7a968eb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-19 12:56:13.775000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1696d67`](https://github.com/SimplioOfficial/simplio-app/commit/1696d677ef20ad9a80064b3f3b168b71d64b7acc) Task/94 - Add pin widget (#112) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1696d677ef20ad9a80064b3f3b168b71d64b7acc"
+    }
   }
 ]
