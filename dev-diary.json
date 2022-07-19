@@ -46540,5 +46540,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a0549575a1ee91964af4e12cfaa59355c63ed6e6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-19 09:19:57.025000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ddca6c2`](https://github.com/SimplioOfficial/simplio-app/commit/ddca6c26d5bab3fdbcff7b82561d429ac7a968eb) wip - generated lockable string - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddca6c26d5bab3fdbcff7b82561d429ac7a968eb"
+    }
   }
 ]
