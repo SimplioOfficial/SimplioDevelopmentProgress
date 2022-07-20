@@ -46612,5 +46612,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/d6cd05bffe6a^...0c19e823c28b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-20 16:29:38.930000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1c05e27`](https://github.com/SimplioOfficial/simplio-app/commit/1c05e278169d1ec0fea76641fc926117374dd263) Task/110 - Initialize wallet core library - jvrastil",
+      "title": "[simplio-app:task/110\\-initializing\\_crypto\\_library] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1c05e278169d1ec0fea76641fc926117374dd263"
+    }
   }
 ]
