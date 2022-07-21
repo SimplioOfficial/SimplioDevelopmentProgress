@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2608 commits since 10/09/2021. You can see the complete history in
+There is a total of 2609 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-21 07:42:52</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7903de1037af4a09e8abc639558f1396e80dba97)</sub> | <sub>[7903de1](https://github.com/SimplioOfficial/simplio-app/commit/7903de1037af4a09e8abc639558f1396e80dba97) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 07:33:17</sub> | <sub>[[sio_wallet_connect:rmv\_generated\+docs] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/990758bd5f28886780bbf4e1e0818434ef461fcb)</sub> | <sub>[990758b](https://github.com/SimplioOfficial/sio_wallet_connect/commit/990758bd5f28886780bbf4e1e0818434ef461fcb) remove generated code - ciripel</sub> |
 | <sub>2022-07-21 03:26:57</sub> | <sub>[[backend-bsc-wallet-lib:master] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/a850e463bee9...567c017e53d2)</sub> | <sub>[43c2019](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae) add broadcast transaction - PitTxid<br>[567c017](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/567c017e53d20baacb55967eb4917c77cf7a93a5) Merge pull request #9 from SimplioOfficial/broa... - PitTxid</sub> |
 | <sub>2022-07-21 03:26:17</sub> | <sub>[[backend-bsc-wallet-lib:broadcast\-raw\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae)</sub> | <sub>[43c2019](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae) add broadcast transaction - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2608 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-20 17:27:00</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71bfc09209dcb339ef22d31d6044bba19a5f4b22)</sub> | <sub>[71bfc09](https://github.com/SimplioOfficial/simplio-app/commit/71bfc09209dcb339ef22d31d6044bba19a5f4b22) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-20 17:24:26</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/194c9451f0a86e2c93023dcc58e885e12e2f3688)</sub> | <sub>[194c945](https://github.com/SimplioOfficial/simplio-app/commit/194c9451f0a86e2c93023dcc58e885e12e2f3688) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-20 17:20:42</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2b0ac72320dae87b4240aafcfb3ccf3118ee98b)</sub> | <sub>[a2b0ac7](https://github.com/SimplioOfficial/simplio-app/commit/a2b0ac72320dae87b4240aafcfb3ccf3118ee98b) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
-| <sub>2022-07-20 17:17:20</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f52b0fb7e91c7bedf972cfeb9a7e09d7215bc24b)</sub> | <sub>[f52b0fb](https://github.com/SimplioOfficial/simplio-app/commit/f52b0fb7e91c7bedf972cfeb9a7e09d7215bc24b) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
