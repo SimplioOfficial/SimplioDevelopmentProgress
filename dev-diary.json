@@ -46918,5 +46918,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_wallet_connect/commit/0891e67cfaea5e7088b3b7d691798df04c479a39"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 07:55:12.842000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4952e6f`](https://github.com/SimplioOfficial/sio_wallet_connect/commit/4952e6ff7bd5b8bd4c8d2ae811375491fca61740) Rmv generated+docs (#7) - ciripel",
+      "title": "[sio_wallet_connect:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_wallet_connect/commit/4952e6ff7bd5b8bd4c8d2ae811375491fca61740"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 07:59:38.104000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2349e1e`](https://github.com/SimplioOfficial/simplio-app/commit/2349e1e66fc0754a59ffb919aab48b1ee5c7824b) Task/106 - Remove generated files from git and ... - jvrastil",
+      "title": "[simplio-app:task/106\\-remove\\_generated\\_files\\_from\\_git] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2349e1e66fc0754a59ffb919aab48b1ee5c7824b"
+    }
   }
 ]
