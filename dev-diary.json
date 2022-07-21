@@ -46756,5 +46756,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8f3db3db06f212b44ebc57211a195ddbd5b63a3f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 03:25:38.178000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c0e6385`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c0e6385a8282f88b67a7072edce0338e1ede2c05) add create raw transaction for bnb - PitTxid\n[`8f3db3d`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8f3db3db06f212b44ebc57211a195ddbd5b63a3f) Add create token transaction - PitTxid\n[`a850e46`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/a850e463bee925e947d8b52eebd87fe24067c709) Merge pull request #8 from SimplioOfficial/crea... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/c0cb10a43ef9...a850e463bee9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 03:26:17.918000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`43c2019`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae) add broadcast transaction - PitTxid",
+      "title": "[backend-bsc-wallet-lib:broadcast\\-raw\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 03:26:57.125000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`43c2019`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43c2019176cbcca40bae53f41b1a2bcaa80607ae) add broadcast transaction - PitTxid\n[`567c017`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/567c017e53d20baacb55967eb4917c77cf7a93a5) Merge pull request #9 from SimplioOfficial/broa... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/a850e463bee9...567c017e53d2"
+    }
   }
 ]
