@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2618 commits since 10/09/2021. You can see the complete history in
+There is a total of 2619 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-21 08:25:49</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b308fc02df1e720a7c6ab0c2512848864dcc604b)</sub> | <sub>[b308fc0](https://github.com/SimplioOfficial/simplio-app/commit/b308fc02df1e720a7c6ab0c2512848864dcc604b) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 08:11:30</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9aaff6f8e4c85fb5aa0b0977f8db738c499fd687)</sub> | <sub>[9aaff6f](https://github.com/SimplioOfficial/simplio-app/commit/9aaff6f8e4c85fb5aa0b0977f8db738c499fd687) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 08:05:56</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a20dacadfbaa39d46bac45f19fa713f040185ae)</sub> | <sub>[4a20dac](https://github.com/SimplioOfficial/simplio-app/commit/4a20dacadfbaa39d46bac45f19fa713f040185ae) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 08:01:26</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a499c8d3471c23fc2f9de20b3715ced7ea862a89)</sub> | <sub>[a499c8d](https://github.com/SimplioOfficial/simplio-app/commit/a499c8d3471c23fc2f9de20b3715ced7ea862a89) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2618 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-21 07:52:31</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43d1f8a6665bc1d1ec473992173633a836740bbc)</sub> | <sub>[43d1f8a](https://github.com/SimplioOfficial/simplio-app/commit/43d1f8a6665bc1d1ec473992173633a836740bbc) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 07:52:01</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/863dad147b30bca5c620dfd98f9af380340b128a)</sub> | <sub>[863dad1](https://github.com/SimplioOfficial/simplio-app/commit/863dad147b30bca5c620dfd98f9af380340b128a) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-21 07:48:31</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8db2c00c20bc18d97af388f48c120e6414dd40dd)</sub> | <sub>[8db2c00](https://github.com/SimplioOfficial/simplio-app/commit/8db2c00c20bc18d97af388f48c120e6414dd40dd) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
-| <sub>2022-07-21 07:42:52</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7903de1037af4a09e8abc639558f1396e80dba97)</sub> | <sub>[7903de1](https://github.com/SimplioOfficial/simplio-app/commit/7903de1037af4a09e8abc639558f1396e80dba97) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

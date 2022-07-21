@@ -47008,5 +47008,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9aaff6f8e4c85fb5aa0b0977f8db738c499fd687"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-21 08:25:49.457000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b308fc0`](https://github.com/SimplioOfficial/simplio-app/commit/b308fc02df1e720a7c6ab0c2512848864dcc604b) Task/106 - Remove generated files from git and ... - jvrastil",
+      "title": "[simplio-app:task/106\\-remove\\_generated\\_files\\_from\\_git] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b308fc02df1e720a7c6ab0c2512848864dcc604b"
+    }
   }
 ]
