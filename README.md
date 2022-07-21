@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2603 commits since 10/09/2021. You can see the complete history in
+There is a total of 2604 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-21 03:24:52</sub> | <sub>[[backend-bsc-wallet-lib:create\-raw\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8f3db3db06f212b44ebc57211a195ddbd5b63a3f)</sub> | <sub>[8f3db3d](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8f3db3db06f212b44ebc57211a195ddbd5b63a3f) Add create token transaction - PitTxid</sub> |
 | <sub>2022-07-20 17:30:22</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5fb2bd3e500e6c2636c9f5cbb48285da1b8f8247)</sub> | <sub>[5fb2bd3](https://github.com/SimplioOfficial/simplio-app/commit/5fb2bd3e500e6c2636c9f5cbb48285da1b8f8247) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-20 17:27:00</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71bfc09209dcb339ef22d31d6044bba19a5f4b22)</sub> | <sub>[71bfc09](https://github.com/SimplioOfficial/simplio-app/commit/71bfc09209dcb339ef22d31d6044bba19a5f4b22) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 | <sub>2022-07-20 17:24:26</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/194c9451f0a86e2c93023dcc58e885e12e2f3688)</sub> | <sub>[194c945](https://github.com/SimplioOfficial/simplio-app/commit/194c9451f0a86e2c93023dcc58e885e12e2f3688) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2603 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-20 16:29:38</sub> | <sub>[[simplio-app:task/110\-initializing\_crypto\_library] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c05e278169d1ec0fea76641fc926117374dd263)</sub> | <sub>[1c05e27](https://github.com/SimplioOfficial/simplio-app/commit/1c05e278169d1ec0fea76641fc926117374dd263) Task/110 - Initialize wallet core library - jvrastil</sub> |
 | <sub>2022-07-20 13:23:27</sub> | <sub>[[simplio-app:task/110\-initializing\_crypto\_library] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d6cd05bffe6a^...0c19e823c28b)</sub> | <sub>[d6cd05b](https://github.com/SimplioOfficial/simplio-app/commit/d6cd05bffe6a98d725469bb6613abdfcff94fd07) Task/110 - Initialize wallet core library - jvrastil<br>[0c19e82](https://github.com/SimplioOfficial/simplio-app/commit/0c19e823c28bfcaa8a3b42046de25fc0fa1a757d) Task/110 - Initialize wallet core library - jvrastil</sub> |
 | <sub>2022-07-20 07:59:24</sub> | <sub>[[sio_wallet_connect:master] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/78129d4ea1ca8db42fceceb54a559e215a4b814d)</sub> | <sub>[78129d4](https://github.com/SimplioOfficial/sio_wallet_connect/commit/78129d4ea1ca8db42fceceb54a559e215a4b814d) init release - ciripel</sub> |
-| <sub>2022-07-19 12:56:13</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1696d677ef20ad9a80064b3f3b168b71d64b7acc)</sub> | <sub>[1696d67](https://github.com/SimplioOfficial/simplio-app/commit/1696d677ef20ad9a80064b3f3b168b71d64b7acc) Task/94 - Add pin widget (#112) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
