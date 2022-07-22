@@ -47115,5 +47115,22 @@
       "title": "[simplio-app] Branch task/106\\-remove\\_generated\\_files\\_from\\_git was force-pushed to `9840dec`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-22 13:02:15.246000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9840decee480...eaf93fd2e804)",
+      "title": "[simplio-app] Branch task/106\\-remove\\_generated\\_files\\_from\\_git was force-pushed to `eaf93fd`",
+      "type": "rich"
+    }
   }
 ]
