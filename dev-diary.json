@@ -47150,5 +47150,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/567c017e53d2...143c5c23d8b4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-25 08:54:25.890000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1696d67`](https://github.com/SimplioOfficial/simplio-app/commit/1696d677ef20ad9a80064b3f3b168b71d64b7acc) Task/94 - Add pin widget (#112) - jvrastil\n[`3063f95`](https://github.com/SimplioOfficial/simplio-app/commit/3063f958fa6cd40fd330a13cb771d18e7121568b) wip - generated lockable string - storkandstars\n[`373d7eb`](https://github.com/SimplioOfficial/simplio-app/commit/373d7ebf5afee32fe27f1483f7c49c19fab793db) Merge branch 'task/109-secure-pin-functionality... - storkandstars\n[`f0a7b8b`](https://github.com/SimplioOfficial/simplio-app/commit/f0a7b8b720b265a2a6783a518e4cd767b6b06124) check security level - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ddca6c26d5ba...f0a7b8b720b2"
+    }
   }
 ]
