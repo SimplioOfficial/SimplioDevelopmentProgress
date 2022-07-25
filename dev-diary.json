@@ -47132,5 +47132,23 @@
       "title": "[simplio-app] Branch task/106\\-remove\\_generated\\_files\\_from\\_git was force-pushed to `eaf93fd`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-25 02:31:21.443000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`39c089a`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/39c089aca74ed227cd0ae1e80dbaa287418f0c15) fix create transaction and add test create tran... - PitTxid\n[`143c5c2`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/143c5c23d8b4c75b7871e7ddef96c2e2510aec2b) fix create test raw transaction and add test code - PitTxid",
+      "title": "[backend-bsc-wallet-lib:create\\-unit\\-test\\-for\\-generating\\-address\\-and\\-transactions] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/567c017e53d2...143c5c23d8b4"
+    }
   }
 ]
