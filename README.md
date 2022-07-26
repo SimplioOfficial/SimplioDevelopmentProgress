@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2631 commits since 10/09/2021. You can see the complete history in
+There is a total of 2632 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-26 03:14:39</sub> | <sub>[[backend-bsc-wallet-lib:5\-create\-documents] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3cf299eadae6174837dba057447ae869a57e0f77)</sub> | <sub>[3cf299e](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3cf299eadae6174837dba057447ae869a57e0f77) add readme file - PitTxid</sub> |
 | <sub>2022-07-26 03:00:32</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/5e71e710590b90889c88d0228b726c38941d6b22)</sub> | <sub>[5e71e71](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/5e71e710590b90889c88d0228b726c38941d6b22) Create unit test for generating address and tra... - PitTxid</sub> |
 | <sub>2022-07-26 02:59:05</sub> | <sub>[[backend-bsc-wallet-lib:create\-unit\-test\-for\-generating\-address\-and\-transactions] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c75325fe95dc95da123cae9d25de429aa6f50b3e)</sub> | <sub>[c75325f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c75325fe95dc95da123cae9d25de429aa6f50b3e) add test broadcast transaction - PitTxid</sub> |
 | <sub>2022-07-25 12:02:15</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3778ecae40ea7f4928674ef2a2c6224fd9fc8d69)</sub> | <sub>[3778eca](https://github.com/SimplioOfficial/simplio-app/commit/3778ecae40ea7f4928674ef2a2c6224fd9fc8d69) persistent security attempts - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2631 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-22 13:02:15</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9840decee480...eaf93fd2e804)</sub> |
 | <sub>2022-07-22 12:54:20</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d4da0909f3f0...9840decee480)</sub> |
 | <sub>2022-07-21 10:02:58</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d4da0909f3f0f024435d249f90eb86a0daa21bfd)</sub> | <sub>[d4da090](https://github.com/SimplioOfficial/simplio-app/commit/d4da0909f3f0f024435d249f90eb86a0daa21bfd) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
-| <sub>2022-07-21 09:46:45</sub> | <sub>[[simplio-app:task/106\-remove\_generated\_files\_from\_git] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aee394b092682417056f21a4037a6f00fa64a064)</sub> | <sub>[aee394b](https://github.com/SimplioOfficial/simplio-app/commit/aee394b092682417056f21a4037a6f00fa64a064) Task/106 - Remove generated files from git and ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
