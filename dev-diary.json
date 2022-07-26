@@ -47222,5 +47222,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c75325fe95dc95da123cae9d25de429aa6f50b3e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-26 03:00:32.250000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5e71e71`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/5e71e710590b90889c88d0228b726c38941d6b22) Create unit test for generating address and tra... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/5e71e710590b90889c88d0228b726c38941d6b22"
+    }
   }
 ]
