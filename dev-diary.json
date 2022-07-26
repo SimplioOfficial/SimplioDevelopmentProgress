@@ -47258,5 +47258,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3cf299eadae6174837dba057447ae869a57e0f77"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-26 03:17:39.928000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0687f64`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0687f646894fa4009214f7a6143a9c28087c299c) add readme file (#11) - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0687f646894fa4009214f7a6143a9c28087c299c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-26 03:18:57.290000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3cf299e`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3cf299eadae6174837dba057447ae869a57e0f77) add readme file - PitTxid\n[`626aa72`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/626aa72de52594709a1df95248d6eb6407ef210c) chore(release): 1.0.1 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:5\\-create\\-documents] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/3cf299eadae6^...626aa72de525"
+    }
   }
 ]
