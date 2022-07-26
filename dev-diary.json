@@ -47204,5 +47204,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3778ecae40ea7f4928674ef2a2c6224fd9fc8d69"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-26 02:59:05.445000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c75325f`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c75325fe95dc95da123cae9d25de429aa6f50b3e) add test broadcast transaction - PitTxid",
+      "title": "[backend-bsc-wallet-lib:create\\-unit\\-test\\-for\\-generating\\-address\\-and\\-transactions] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c75325fe95dc95da123cae9d25de429aa6f50b3e"
+    }
   }
 ]
