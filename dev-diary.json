@@ -47348,5 +47348,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/9fa34112dc7c...8379506edf74"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 09:50:31.491000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3f62a74`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3f62a744dee583028e5c1802048f7d04e74bc4ad) 13 checking balance for bsc library (#14) - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3f62a744dee583028e5c1802048f7d04e74bc4ad"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 09:51:32.866000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`24cc548`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24cc5481bef1b81087b8070e2ec162fb06f9a055) chore(release): 1.0.4 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24cc5481bef1b81087b8070e2ec162fb06f9a055"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 09:52:57.095000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`75b445a`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/75b445a661a0f9677c8b07699925c076f61bf840) feat: add commit lint - PitTxid\n[`c744368`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c74436894326b19375a5a0a6e37d5e5626a11de9) fix: add check balance for BSC - PitTxid\n[`54f9e1b`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/54f9e1b157064d3c2e8c77b41d7ef5c4a8cfa320) fix: get token balance should return number - PitTxid\n[`25003d6`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/25003d6a05286bc95fe2ed092f6e7e36aca9fc66) test: add test bnb balance and tokens - PitTxid\n[`b39cdde`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b39cddeb5b0340015fe791adb6040e04c9974332) fix: add check low gas limit when creating tran... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:13\\-checking\\-balance\\-for\\-bsc\\-library] 10 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/75b445a661a0^...8379506edf74"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 09:52:59.306000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`27e1a47`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/27e1a47b29f4d3b3193836a83d42539ba7289975) Revert \"13 checking balance for bsc library (#14)\" - PitTxid",
+      "title": "[backend-bsc-wallet-lib:revert\\-14\\-13\\-checking\\-balance\\-for\\-bsc\\-library] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/27e1a47b29f4d3b3193836a83d42539ba7289975"
+    }
   }
 ]
