@@ -47474,5 +47474,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/documentation/commit/99fb8a3472e3381c2962171a679b92d811070104"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 23:51:56.156000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`0569264`](https://github.com/SimplioOfficial/simplio-app/commit/05692642111d0768cba7577a1f9edbb879d20eda) Merge branch 'master' of https://github.com/Sim... - MariooW\n[`cdc12c2`](https://github.com/SimplioOfficial/simplio-app/commit/cdc12c20dae5d1d607dc862025e6504a93585cd2) CHanges in tests - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/05692642111d^...cdc12c20dae5"
+    }
   }
 ]
