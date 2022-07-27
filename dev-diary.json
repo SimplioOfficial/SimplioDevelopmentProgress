@@ -47456,5 +47456,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1660daf19c6d7d349c9570d201029ac26d17807"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 13:43:37.305000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/103266004?v=4",
+        "name": "JiriVrbas-Eria",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7hDnAOiSxWdWlbr9Azr9PngCuMebo_3u9PMKRivzVlI/%3Fv%3D4/https/avatars.githubusercontent.com/u/103266004",
+        "url": "https://github.com/JiriVrbas-Eria"
+      },
+      "color": 7506394,
+      "description": "[`99fb8a3`](https://github.com/SimplioOfficial/documentation/commit/99fb8a3472e3381c2962171a679b92d811070104) Create Binance connector - Setup environment - JiriVrbas\\-Eria",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/99fb8a3472e3381c2962171a679b92d811070104"
+    }
   }
 ]
