@@ -47438,5 +47438,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/9fa34112dc7c...79e112d50c8e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-27 10:01:22.977000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b1660da`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1660daf19c6d7d349c9570d201029ac26d17807) chore(release): 1.1.0 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1660daf19c6d7d349c9570d201029ac26d17807"
+    }
   }
 ]
