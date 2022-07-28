@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-28 21:21:27</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b)</sub> | <sub>[11a4754](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b) CHanges in tests #8 - MariooW</sub> |
 | <sub>2022-07-28 20:36:43</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db09a333df65df3dc1ffd615726d31dd79d2a864)</sub> | <sub>[db09a33](https://github.com/SimplioOfficial/simplio-app/commit/db09a333df65df3dc1ffd615726d31dd79d2a864) CHanges in tests #7 - MariooW</sub> |
 | <sub>2022-07-28 20:35:29</sub> | <sub>[[simplio-app:Test\_new] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da576d5d3d65ecc4beb75cce12ecd75e46813ae0)</sub> | <sub>[da576d5](https://github.com/SimplioOfficial/simplio-app/commit/da576d5d3d65ecc4beb75cce12ecd75e46813ae0) CHanges in tests #7 - MariooW</sub> |
 | <sub>2022-07-28 19:50:25</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81)</sub> | <sub>[d82c6ee](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81) CHanges in tests #6 - MariooW</sub> |
