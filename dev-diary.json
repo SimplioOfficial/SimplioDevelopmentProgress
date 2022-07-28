@@ -47708,5 +47708,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-28 23:04:53.233000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`9f939d9`](https://github.com/SimplioOfficial/simplio-app/commit/9f939d901175e313ee77003a49bc5b58af984360) CHanges in tests #9 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9f939d901175e313ee77003a49bc5b58af984360"
+    }
   }
 ]
