@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-28 14:18:18</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/621fbc09497e8caa7d7a8824d6f0ca03d49cbe9c)</sub> | <sub>[621fbc0](https://github.com/SimplioOfficial/simplio-app/commit/621fbc09497e8caa7d7a8824d6f0ca03d49cbe9c) Task/108 - Refactor app initialization - jvrastil</sub> |
 | <sub>2022-07-28 00:29:55</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a1d78d0fe2761f4db3104667b3b5e6d880918362)</sub> | <sub>[a1d78d0](https://github.com/SimplioOfficial/simplio-app/commit/a1d78d0fe2761f4db3104667b3b5e6d880918362) CHanges in tests #5 - MariooW</sub> |
 | <sub>2022-07-28 00:27:26</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d1505c7a42b1816ed89ca4ee30bf2f50bbeb8106)</sub> | <sub>[d1505c7](https://github.com/SimplioOfficial/simplio-app/commit/d1505c7a42b1816ed89ca4ee30bf2f50bbeb8106) CHanges in tests #4 - MariooW</sub> |
 | <sub>2022-07-28 00:19:57</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0cb0a74b2956c5ff19f469a47a707270b8cb739)</sub> | <sub>[b0cb0a7](https://github.com/SimplioOfficial/simplio-app/commit/b0cb0a74b2956c5ff19f469a47a707270b8cb739) CHanges in tests #3 - MariooW</sub> |

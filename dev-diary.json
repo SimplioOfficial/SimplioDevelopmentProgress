@@ -47564,5 +47564,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a1d78d0fe2761f4db3104667b3b5e6d880918362"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-28 14:18:18.548000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`621fbc0`](https://github.com/SimplioOfficial/simplio-app/commit/621fbc09497e8caa7d7a8824d6f0ca03d49cbe9c) Task/108 - Refactor app initialization - jvrastil",
+      "title": "[simplio-app:task/108\\-refactor\\_app\\_initialization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/621fbc09497e8caa7d7a8824d6f0ca03d49cbe9c"
+    }
   }
 ]
