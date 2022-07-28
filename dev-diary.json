@@ -47528,5 +47528,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b0cb0a74b2956c5ff19f469a47a707270b8cb739"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-28 00:27:26.459000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d1505c7`](https://github.com/SimplioOfficial/simplio-app/commit/d1505c7a42b1816ed89ca4ee30bf2f50bbeb8106) CHanges in tests #4 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d1505c7a42b1816ed89ca4ee30bf2f50bbeb8106"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-28 00:29:55.578000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a1d78d0`](https://github.com/SimplioOfficial/simplio-app/commit/a1d78d0fe2761f4db3104667b3b5e6d880918362) CHanges in tests #5 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a1d78d0fe2761f4db3104667b3b5e6d880918362"
+    }
   }
 ]
