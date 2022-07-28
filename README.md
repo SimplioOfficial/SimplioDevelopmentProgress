@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2653 commits since 10/09/2021. You can see the complete history in
+There is a total of 2654 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-28 19:50:25</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81)</sub> | <sub>[d82c6ee](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81) CHanges in tests #6 - MariooW</sub> |
 | <sub>2022-07-28 15:32:34</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9cba9c704574f36f7ce82c15d0ac3bdf943e8f30)</sub> | <sub>[9cba9c7](https://github.com/SimplioOfficial/simplio-app/commit/9cba9c704574f36f7ce82c15d0ac3bdf943e8f30) removing unused security level guard - storkandstars</sub> |
 | <sub>2022-07-28 15:31:06</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7059fc3763cf4c49761f83915cd72dbdd5084ff7)</sub> | <sub>[7059fc3](https://github.com/SimplioOfficial/simplio-app/commit/7059fc3763cf4c49761f83915cd72dbdd5084ff7) renaming route settings - storkandstars</sub> |
 | <sub>2022-07-28 15:00:39</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3778ecae40ea...3d929b8e809e)</sub> | <sub>[f72af32](https://github.com/SimplioOfficial/simplio-app/commit/f72af32fc6ac8b67c4b370ebaf52e1e0cc8ff076) lowering security limit - storkandstars<br>[536f24a](https://github.com/SimplioOfficial/simplio-app/commit/536f24a63096553d8010fb837752c9c324f74d4b) adding unit test for secret - storkandstars<br>[3d929b8](https://github.com/SimplioOfficial/simplio-app/commit/3d929b8e809edf41ce58b6d270c31c3126209302) migrating to go_router - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2653 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-28 00:19:57</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0cb0a74b2956c5ff19f469a47a707270b8cb739)</sub> | <sub>[b0cb0a7](https://github.com/SimplioOfficial/simplio-app/commit/b0cb0a74b2956c5ff19f469a47a707270b8cb739) CHanges in tests #3 - MariooW</sub> |
 | <sub>2022-07-28 00:00:46</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ab0034e9e8a397ac06f6cddb2ddc76199bb5e81)</sub> | <sub>[9ab0034](https://github.com/SimplioOfficial/simplio-app/commit/9ab0034e9e8a397ac06f6cddb2ddc76199bb5e81) CHanges in tests #2 - MariooW</sub> |
 | <sub>2022-07-27 23:51:56</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/05692642111d^...cdc12c20dae5)</sub> | <sub>[0569264](https://github.com/SimplioOfficial/simplio-app/commit/05692642111d0768cba7577a1f9edbb879d20eda) Merge branch 'master' of https://github.com/Sim... - MariooW<br>[cdc12c2](https://github.com/SimplioOfficial/simplio-app/commit/cdc12c20dae5d1d607dc862025e6504a93585cd2) CHanges in tests - MariooW</sub> |
-| <sub>2022-07-27 13:43:37</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/99fb8a3472e3381c2962171a679b92d811070104)</sub> | <sub>[99fb8a3](https://github.com/SimplioOfficial/documentation/commit/99fb8a3472e3381c2962171a679b92d811070104) Create Binance connector - Setup environment - JiriVrbas\-Eria</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
