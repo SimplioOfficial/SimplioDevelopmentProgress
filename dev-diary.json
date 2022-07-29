@@ -47726,5 +47726,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9f939d901175e313ee77003a49bc5b58af984360"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 05:15:00.618000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1e40b5a`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/1e40b5a3360231633f152380354fb9eeef879541) feat: add husky - PitTxid\n[`608c0d2`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/608c0d2cd3bde03ad8447bd9e75df41575b5e726) fix: check balance before creating transaction - PitTxid\n[`44d6f1e`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/44d6f1e60783840f95b381052153cb6e9a57bcfe) test: not enough balance - PitTxid",
+      "title": "[backend-solana-wallet-lib:21\\-checking\\-balance\\-for\\-sol\\-library] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/a0549575a1ee...44d6f1e60783"
+    }
   }
 ]
