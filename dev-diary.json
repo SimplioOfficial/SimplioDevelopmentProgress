@@ -47869,5 +47869,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 06:03:48.542000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5c388f2`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612) 21 checking balance for sol library (#22) - PitTxid",
+      "title": "[backend-solana-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612"
+    }
   }
 ]

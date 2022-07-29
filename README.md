@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2666 commits since 10/09/2021. You can see the complete history in
+There is a total of 2667 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-29 06:03:48</sub> | <sub>[[backend-solana-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612)</sub> | <sub>[5c388f2](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612) 21 checking balance for sol library (#22) - PitTxid</sub> |
 | <sub>2022-07-29 05:54:33</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0)</sub> | <sub>[a973cc8](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0) chore(release): 1.0.22 - PitTxid</sub> |
 | <sub>2022-07-29 05:53:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/5edb409327af...a050be8123bc)</sub> |
 | <sub>2022-07-29 05:40:02</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7)</sub> | <sub>[5edb409](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7) chore(release): 1.0.24 - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2666 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-29 05:19:59</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a8e183954c20d1e61e1921b763cc5c28c8772111)</sub> | <sub>[a8e1839](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a8e183954c20d1e61e1921b763cc5c28c8772111) fix: test lint - PitTxid</sub> |
 | <sub>2022-07-29 05:15:00</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 3 new commits](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/a0549575a1ee...44d6f1e60783)</sub> | <sub>[1e40b5a](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/1e40b5a3360231633f152380354fb9eeef879541) feat: add husky - PitTxid<br>[608c0d2](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/608c0d2cd3bde03ad8447bd9e75df41575b5e726) fix: check balance before creating transaction - PitTxid<br>[44d6f1e](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/44d6f1e60783840f95b381052153cb6e9a57bcfe) test: not enough balance - PitTxid</sub> |
 | <sub>2022-07-28 23:04:53</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f939d901175e313ee77003a49bc5b58af984360)</sub> | <sub>[9f939d9](https://github.com/SimplioOfficial/simplio-app/commit/9f939d901175e313ee77003a49bc5b58af984360) CHanges in tests #9 - MariooW</sub> |
-| <sub>2022-07-28 21:21:27</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b)</sub> | <sub>[11a4754](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b) CHanges in tests #8 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
