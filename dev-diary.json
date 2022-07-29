@@ -47834,5 +47834,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 05:53:02.668000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/5edb409327af...a050be8123bc)",
+      "title": "[backend-solana-wallet-lib] Branch 21\\-checking\\-balance\\-for\\-sol\\-library was force-pushed to `a050be8`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 05:54:33.536000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`a973cc8`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0) chore(release): 1.0.22 - PitTxid",
+      "title": "[backend-solana-wallet-lib:21\\-checking\\-balance\\-for\\-sol\\-library] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0"
+    }
   }
 ]
