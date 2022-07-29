@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2663 commits since 10/09/2021. You can see the complete history in
+There is a total of 2664 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-29 05:40:02</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7)</sub> | <sub>[5edb409](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7) chore(release): 1.0.24 - PitTxid</sub> |
 | <sub>2022-07-29 05:36:40</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd)</sub> | <sub>[cf528b7](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd) chore(release): 1.0.23 - PitTxid</sub> |
 | <sub>2022-07-29 05:34:54</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 2 new commits](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/01fac6af8d4a...c6bfc7a19d44)</sub> | <sub>[d9631c3](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/d9631c3da5107877cff64e4fb7502f44f748bab6) feat: update readme - PitTxid<br>[c6bfc7a](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/c6bfc7a19d44421d1144996d5da07d788b5b2c92) chore(release): 1.0.22 - PitTxid</sub> |
 | <sub>2022-07-29 05:30:00</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/01fac6af8d4a08924cf96ed9172048cb49a713e0)</sub> | <sub>[01fac6a](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/01fac6af8d4a08924cf96ed9172048cb49a713e0) feat: increase patch version when releasing only - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2663 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-28 21:21:27</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b)</sub> | <sub>[11a4754](https://github.com/SimplioOfficial/simplio-app/commit/11a4754e55227aa57e18c0d3dcc2a952242deb2b) CHanges in tests #8 - MariooW</sub> |
 | <sub>2022-07-28 20:36:43</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db09a333df65df3dc1ffd615726d31dd79d2a864)</sub> | <sub>[db09a33](https://github.com/SimplioOfficial/simplio-app/commit/db09a333df65df3dc1ffd615726d31dd79d2a864) CHanges in tests #7 - MariooW</sub> |
 | <sub>2022-07-28 20:35:29</sub> | <sub>[[simplio-app:Test\_new] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da576d5d3d65ecc4beb75cce12ecd75e46813ae0)</sub> | <sub>[da576d5](https://github.com/SimplioOfficial/simplio-app/commit/da576d5d3d65ecc4beb75cce12ecd75e46813ae0) CHanges in tests #7 - MariooW</sub> |
-| <sub>2022-07-28 19:50:25</sub> | <sub>[[simplio-app:test/adding\_new\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81)</sub> | <sub>[d82c6ee](https://github.com/SimplioOfficial/simplio-app/commit/d82c6eedb23685af705b4856b56965c57839ab81) CHanges in tests #6 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
