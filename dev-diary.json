@@ -47887,5 +47887,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 13:06:10.802000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`abe6be0`](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b) Add startup parameter for test runs - jvrastil",
+      "title": "[simplio-app:add\\_startup\\_param\\_to\\_stop\\_animations] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b"
+    }
   }
 ]

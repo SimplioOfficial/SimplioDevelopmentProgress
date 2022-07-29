@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-29 13:06:10</sub> | <sub>[[simplio-app:add\_startup\_param\_to\_stop\_animations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b)</sub> | <sub>[abe6be0](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b) Add startup parameter for test runs - jvrastil</sub> |
 | <sub>2022-07-29 06:03:48</sub> | <sub>[[backend-solana-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612)</sub> | <sub>[5c388f2](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612) 21 checking balance for sol library (#22) - PitTxid</sub> |
 | <sub>2022-07-29 05:54:33</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0)</sub> | <sub>[a973cc8](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0) chore(release): 1.0.22 - PitTxid</sub> |
 | <sub>2022-07-29 05:53:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/5edb409327af...a050be8123bc)</sub> |
