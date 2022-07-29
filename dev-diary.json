@@ -47798,5 +47798,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/01fac6af8d4a...c6bfc7a19d44"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-29 05:36:40.972000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`cf528b7`](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd) chore(release): 1.0.23 - PitTxid",
+      "title": "[backend-solana-wallet-lib:21\\-checking\\-balance\\-for\\-sol\\-library] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd"
+    }
   }
 ]
