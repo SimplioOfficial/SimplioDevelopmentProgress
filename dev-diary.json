@@ -48067,5 +48067,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 20:00:45.366000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`dae77e8`](https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3) Adding task branches to involve pipeline - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 20:02:25.544000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`c3198b5`](https://github.com/SimplioOfficial/simplio-app/commit/c3198b566dd59a1cf3ad7275ec3d7d4979ee9b4c) Adding task branches to involve pipeline - MariooW\n[`c27e73d`](https://github.com/SimplioOfficial/simplio-app/commit/c27e73d6b97059811b08bc80eae1be44350c59fe) Revert \"Adding task branches to involve pipeline\" - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dae77e8743ad...c27e73d6b970"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 20:02:51.925000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`826b6f2`](https://github.com/SimplioOfficial/simplio-app/commit/826b6f23fadfdf7a33aaa93887fcabd6cd9c5f7b) Fix workflow file - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/826b6f23fadfdf7a33aaa93887fcabd6cd9c5f7b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 20:03:54.834000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5330011`](https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df) Fix workflow file #2 - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df"
+    }
   }
 ]
