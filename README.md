@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2670 commits since 10/09/2021. You can see the complete history in
+There is a total of 2671 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-31 09:34:29</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4b57507f706f88deda5adf82514040c308c7870)</sub> | <sub>[e4b5750](https://github.com/SimplioOfficial/simplio-app/commit/e4b57507f706f88deda5adf82514040c308c7870) changing branch from tests - MariooW</sub> |
 | <sub>2022-07-31 09:12:30</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2)</sub> | <sub>[6125c51](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2) task/108 cleaning test structure - MariooW</sub> |
 | <sub>2022-07-31 09:00:04</sub> | <sub>[[simplio-app:task/108\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2)</sub> | <sub>[6125c51](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2) task/108 cleaning test structure - MariooW</sub> |
 | <sub>2022-07-29 13:06:10</sub> | <sub>[[simplio-app:add\_startup\_param\_to\_stop\_animations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b)</sub> | <sub>[abe6be0](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b) Add startup parameter for test runs - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2670 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-29 05:40:02</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7)</sub> | <sub>[5edb409](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5edb409327af2733539a55c013f5b4b281cd74a7) chore(release): 1.0.24 - PitTxid</sub> |
 | <sub>2022-07-29 05:36:40</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd)</sub> | <sub>[cf528b7](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/cf528b7b9a5ecdf973bcfac582a150983bf743dd) chore(release): 1.0.23 - PitTxid</sub> |
 | <sub>2022-07-29 05:34:54</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 2 new commits](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/01fac6af8d4a...c6bfc7a19d44)</sub> | <sub>[d9631c3](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/d9631c3da5107877cff64e4fb7502f44f748bab6) feat: update readme - PitTxid<br>[c6bfc7a](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/c6bfc7a19d44421d1144996d5da07d788b5b2c92) chore(release): 1.0.22 - PitTxid</sub> |
-| <sub>2022-07-29 05:30:00</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/01fac6af8d4a08924cf96ed9172048cb49a713e0)</sub> | <sub>[01fac6a](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/01fac6af8d4a08924cf96ed9172048cb49a713e0) feat: increase patch version when releasing only - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
