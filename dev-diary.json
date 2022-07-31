@@ -48175,5 +48175,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 21:34:22.858000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6bd0a9e`](https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b) Change branch in workflow file - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b"
+    }
   }
 ]
