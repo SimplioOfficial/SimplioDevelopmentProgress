@@ -47977,5 +47977,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/297433e2c54f49e43a6048ac5b1687a012c04f26"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 18:05:01.905000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c5c3ff0`](https://github.com/SimplioOfficial/simplio-app/commit/c5c3ff05beffa841fdb4dacd4f969fe2f7ac6775) adding missing locales - storkandstars\n[`2475286`](https://github.com/SimplioOfficial/simplio-app/commit/2475286fc4dde713ee9a0f7c3bfaca13d9a231e2) disabling navigating back on setting up pin - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/297433e2c54f...2475286fc4dd"
+    }
   }
 ]
