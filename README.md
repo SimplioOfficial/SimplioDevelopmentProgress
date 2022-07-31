@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2685 commits since 10/09/2021. You can see the complete history in
+There is a total of 2686 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-31 23:40:58</sub> | <sub>[[simplio-app:Test\_new] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2b20a0938bb0430d6dce7677fe0c8aa56df45c93)</sub> | <sub>[2b20a09](https://github.com/SimplioOfficial/simplio-app/commit/2b20a0938bb0430d6dce7677fe0c8aa56df45c93) Fixing analyze error - MariooW</sub> |
 | <sub>2022-07-31 23:38:15</sub> | <sub>[[simplio-app:Test\_new] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/da576d5d3d65...5486da6dab5d)</sub> | <sub>[abe6be0](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b) Add startup parameter for test runs - jvrastil<br>[1fecc61](https://github.com/SimplioOfficial/simplio-app/commit/1fecc618c71a2fee30ea0bf34f9030b66dab3702) Merge branch 'add_startup_param_to_stop_animati... - MariooW<br>[5486da6](https://github.com/SimplioOfficial/simplio-app/commit/5486da6dab5defe447a4ae537ec111c6b65f6a3c) Fixing animation tests parameter - MariooW</sub> |
 | <sub>2022-07-31 21:34:22</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b)</sub> | <sub>[6bd0a9e](https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b) Change branch in workflow file - MariooW</sub> |
 | <sub>2022-07-31 21:25:13</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25)</sub> | <sub>[f93f62f](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25) Apply fix for animation - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2685 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-31 20:02:25</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dae77e8743ad...c27e73d6b970)</sub> | <sub>[c3198b5](https://github.com/SimplioOfficial/simplio-app/commit/c3198b566dd59a1cf3ad7275ec3d7d4979ee9b4c) Adding task branches to involve pipeline - MariooW<br>[c27e73d](https://github.com/SimplioOfficial/simplio-app/commit/c27e73d6b97059811b08bc80eae1be44350c59fe) Revert "Adding task branches to involve pipeline" - MariooW</sub> |
 | <sub>2022-07-31 20:00:45</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3)</sub> | <sub>[dae77e8](https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3) Adding task branches to involve pipeline - MariooW</sub> |
 | <sub>2022-07-31 19:59:17</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3)</sub> | <sub>[34919d5](https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3) Adding test branches to involve pipeline - MariooW</sub> |
-| <sub>2022-07-31 19:19:23</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31)</sub> | <sub>[b8fd4db](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31) removing unused method for updating security level - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

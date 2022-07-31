@@ -48211,5 +48211,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/da576d5d3d65...5486da6dab5d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 23:40:58.910000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`2b20a09`](https://github.com/SimplioOfficial/simplio-app/commit/2b20a0938bb0430d6dce7677fe0c8aa56df45c93) Fixing analyze error - MariooW",
+      "title": "[simplio-app:Test\\_new] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2b20a0938bb0430d6dce7677fe0c8aa56df45c93"
+    }
   }
 ]
