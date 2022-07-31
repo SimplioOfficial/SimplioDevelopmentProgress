@@ -48013,5 +48013,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2475286fc4dd...0f80a7518833"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 19:15:42.773000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0271696`](https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1) setting security level on updating secret - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 19:19:23.099000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b8fd4db`](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31) removing unused method for updating security level - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31"
+    }
   }
 ]

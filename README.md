@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2674 commits since 10/09/2021. You can see the complete history in
+There is a total of 2676 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-31 19:19:23</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31)</sub> | <sub>[b8fd4db](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31) removing unused method for updating security level - storkandstars</sub> |
+| <sub>2022-07-31 19:15:42</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1)</sub> | <sub>[0271696](https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1) setting security level on updating secret - storkandstars</sub> |
 | <sub>2022-07-31 18:19:35</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2475286fc4dd...0f80a7518833)</sub> | <sub>[7a84321](https://github.com/SimplioOfficial/simplio-app/commit/7a84321c22778ec82fec2282ebac787f551d8c6c) reordering converter - storkandstars<br>[0f80a75](https://github.com/SimplioOfficial/simplio-app/commit/0f80a75188332d6e65def46ec5d71492e188a468) removing print - storkandstars</sub> |
 | <sub>2022-07-31 18:05:01</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/297433e2c54f...2475286fc4dd)</sub> | <sub>[c5c3ff0](https://github.com/SimplioOfficial/simplio-app/commit/c5c3ff05beffa841fdb4dacd4f969fe2f7ac6775) adding missing locales - storkandstars<br>[2475286](https://github.com/SimplioOfficial/simplio-app/commit/2475286fc4dde713ee9a0f7c3bfaca13d9a231e2) disabling navigating back on setting up pin - storkandstars</sub> |
 | <sub>2022-07-31 17:16:23</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/297433e2c54f49e43a6048ac5b1687a012c04f26)</sub> | <sub>[297433e](https://github.com/SimplioOfficial/simplio-app/commit/297433e2c54f49e43a6048ac5b1687a012c04f26) updating pin verify logic - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 2674 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-31 09:00:04</sub> | <sub>[[simplio-app:task/108\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2)</sub> | <sub>[6125c51](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2) task/108 cleaning test structure - MariooW</sub> |
 | <sub>2022-07-29 13:06:10</sub> | <sub>[[simplio-app:add\_startup\_param\_to\_stop\_animations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b)</sub> | <sub>[abe6be0](https://github.com/SimplioOfficial/simplio-app/commit/abe6be0157e3e4b2eca00bf5299fc23d74b99b3b) Add startup parameter for test runs - jvrastil</sub> |
 | <sub>2022-07-29 06:03:48</sub> | <sub>[[backend-solana-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612)</sub> | <sub>[5c388f2](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/5c388f2f0fe7eb24b475eaaa1b546680300cf612) 21 checking balance for sol library (#22) - PitTxid</sub> |
-| <sub>2022-07-29 05:54:33</sub> | <sub>[[backend-solana-wallet-lib:21\-checking\-balance\-for\-sol\-library] 1 new commit](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0)</sub> | <sub>[a973cc8](https://github.com/SimplioOfficial/backend-solana-wallet-lib/commit/a973cc893ca3417adffaa7bff005bc5b8f68aba0) chore(release): 1.0.22 - PitTxid</sub> |
-| <sub>2022-07-29 05:53:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/backend-solana-wallet-lib/compare/5edb409327af...a050be8123bc)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
