@@ -48139,5 +48139,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 20:21:36.361000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`422cfec`](https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638) Revert test values in workflow file. - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638"
+    }
   }
 ]
