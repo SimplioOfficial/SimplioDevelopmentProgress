@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2682 commits since 10/09/2021. You can see the complete history in
+There is a total of 2683 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-07-31 21:25:13</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25)</sub> | <sub>[f93f62f](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25) Apply fix for animation - MariooW</sub> |
 | <sub>2022-07-31 20:21:36</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638)</sub> | <sub>[422cfec](https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638) Revert test values in workflow file. - MariooW</sub> |
 | <sub>2022-07-31 20:03:54</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df)</sub> | <sub>[5330011](https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df) Fix workflow file #2 - MariooW</sub> |
 | <sub>2022-07-31 20:02:51</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/826b6f23fadfdf7a33aaa93887fcabd6cd9c5f7b)</sub> | <sub>[826b6f2](https://github.com/SimplioOfficial/simplio-app/commit/826b6f23fadfdf7a33aaa93887fcabd6cd9c5f7b) Fix workflow file - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2682 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-31 19:19:23</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31)</sub> | <sub>[b8fd4db](https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31) removing unused method for updating security level - storkandstars</sub> |
 | <sub>2022-07-31 19:15:42</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1)</sub> | <sub>[0271696](https://github.com/SimplioOfficial/simplio-app/commit/0271696a5453631c00a0aeb5aeb4bac6920e75a1) setting security level on updating secret - storkandstars</sub> |
 | <sub>2022-07-31 18:19:35</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2475286fc4dd...0f80a7518833)</sub> | <sub>[7a84321](https://github.com/SimplioOfficial/simplio-app/commit/7a84321c22778ec82fec2282ebac787f551d8c6c) reordering converter - storkandstars<br>[0f80a75](https://github.com/SimplioOfficial/simplio-app/commit/0f80a75188332d6e65def46ec5d71492e188a468) removing print - storkandstars</sub> |
-| <sub>2022-07-31 18:05:01</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/297433e2c54f...2475286fc4dd)</sub> | <sub>[c5c3ff0](https://github.com/SimplioOfficial/simplio-app/commit/c5c3ff05beffa841fdb4dacd4f969fe2f7ac6775) adding missing locales - storkandstars<br>[2475286](https://github.com/SimplioOfficial/simplio-app/commit/2475286fc4dde713ee9a0f7c3bfaca13d9a231e2) disabling navigating back on setting up pin - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
