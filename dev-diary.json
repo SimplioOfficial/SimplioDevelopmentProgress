@@ -48049,5 +48049,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8fd4db3e53c5cedbfc84628b5fa4adc0cc75c31"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-07-31 19:59:17.748000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`34919d5`](https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3) Adding test branches to involve pipeline - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3"
+    }
   }
 ]
