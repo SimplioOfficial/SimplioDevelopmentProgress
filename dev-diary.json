@@ -48373,5 +48373,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 11:27:38.149000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5090eb2`](https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328) Fix master branch tests - MariooW",
+      "title": "[simplio-app:test/fix\\_source\\_branch\\_in\\_build\\_workflows] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 11:28:25.684000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`2c6efea`](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e) Fix master branch tests #2 - MariooW",
+      "title": "[simplio-app:test/fix\\_source\\_branch\\_in\\_build\\_workflows] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e"
+    }
   }
 ]
