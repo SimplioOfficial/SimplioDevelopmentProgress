@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2696 commits since 10/09/2021. You can see the complete history in
+There is a total of 2697 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-01 12:06:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW</sub> |
 | <sub>2022-08-01 11:28:25</sub> | <sub>[[simplio-app:test/fix\_source\_branch\_in\_build\_workflows] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e)</sub> | <sub>[2c6efea](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e) Fix master branch tests #2 - MariooW</sub> |
 | <sub>2022-08-01 11:27:38</sub> | <sub>[[simplio-app:test/fix\_source\_branch\_in\_build\_workflows] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328)</sub> | <sub>[5090eb2](https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328) Fix master branch tests - MariooW</sub> |
 | <sub>2022-08-01 10:55:47</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc)</sub> | <sub>[6347344](https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc) Task/104 cleaning test structure (#123) - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2696 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-01 08:26:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b15a030a262e2046ce71f99b72cc8376423aaa1c)</sub> | <sub>[b15a030](https://github.com/SimplioOfficial/simplio-app/commit/b15a030a262e2046ce71f99b72cc8376423aaa1c) Task/110 initializing crypto library (#114) - jvrastil</sub> |
 | <sub>2022-08-01 08:24:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9700b76d1c37bde6e74fafeb60d57a9959b2ffaf)</sub> | <sub>[9700b76](https://github.com/SimplioOfficial/simplio-app/commit/9700b76d1c37bde6e74fafeb60d57a9959b2ffaf) Task/106 remove generated files from git (#115) - jvrastil</sub> |
 | <sub>2022-08-01 00:22:42</sub> | <sub>[[simplio-app:test/integration\_tests] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d7611040d483...ccf4a76440a7)</sub> | <sub>[9b78a63](https://github.com/SimplioOfficial/simplio-app/commit/9b78a630b06783d609bc8aa9b2a952ecfcfd40e2) Changes#2 - MariooW<br>[ccf4a76](https://github.com/SimplioOfficial/simplio-app/commit/ccf4a76440a7deeb11d2a8e8ebae6a70c0a0ef75) Changes#3 - MariooW</sub> |
-| <sub>2022-08-01 00:17:36</sub> | <sub>[[simplio-app:test/integration\_tests] 14 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2b20a0938bb0...d7611040d483)</sub> | <sub>[6125c51](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2) task/108 cleaning test structure - MariooW<br>[e4b5750](https://github.com/SimplioOfficial/simplio-app/commit/e4b57507f706f88deda5adf82514040c308c7870) changing branch from tests - MariooW<br>[34919d5](https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3) Adding test branches to involve pipeline - MariooW<br>[dae77e8](https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3) Adding task branches to involve pipeline - MariooW<br>[c3198b5](https://github.com/SimplioOfficial/simplio-app/commit/c3198b566dd59a1cf3ad7275ec3d7d4979ee9b4c) Adding task branches to involve pipeline - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
