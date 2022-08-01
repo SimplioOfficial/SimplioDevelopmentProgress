@@ -48481,5 +48481,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/0f695a2514caec45be815937cb7e2b352b833399"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 14:03:13.545000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0b2f71a`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0b2f71ab065e8b45ffcea8474fce0e34b87f4d2c) feat: export library - PitTxid\n[`ffaa7b8`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ffaa7b86841c74ce8e2682dc6156b8c4a5a53c6b) chore(release): 1.2.1 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/a3eaac4404c1...ffaa7b86841c"
+    }
   }
 ]
