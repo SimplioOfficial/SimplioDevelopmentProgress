@@ -48247,5 +48247,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2b20a0938bb0...d7611040d483"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 00:22:42.276000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`9b78a63`](https://github.com/SimplioOfficial/simplio-app/commit/9b78a630b06783d609bc8aa9b2a952ecfcfd40e2) Changes#2 - MariooW\n[`ccf4a76`](https://github.com/SimplioOfficial/simplio-app/commit/ccf4a76440a7deeb11d2a8e8ebae6a70c0a0ef75) Changes#3 - MariooW",
+      "title": "[simplio-app:test/integration\\_tests] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/d7611040d483...ccf4a76440a7"
+    }
   }
 ]
