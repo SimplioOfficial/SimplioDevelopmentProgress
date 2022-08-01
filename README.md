@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2702 commits since 10/09/2021. You can see the complete history in
+There is a total of 2703 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-01 15:04:29</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9)</sub> | <sub>[df5220b](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9) removing gen files - storkandstars</sub> |
 | <sub>2022-08-01 14:12:02</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4768c29fdc87bc6c8e4074db09c996ddc91e4bc)</sub> | <sub>[f4768c2](https://github.com/SimplioOfficial/simplio-app/commit/f4768c29fdc87bc6c8e4074db09c996ddc91e4bc) removing unused import - storkandstars</sub> |
 | <sub>2022-08-01 14:03:13</sub> | <sub>[[backend-bsc-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/a3eaac4404c1...ffaa7b86841c)</sub> | <sub>[0b2f71a](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0b2f71ab065e8b45ffcea8474fce0e34b87f4d2c) feat: export library - PitTxid<br>[ffaa7b8](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ffaa7b86841c74ce8e2682dc6156b8c4a5a53c6b) chore(release): 1.2.1 - PitTxid</sub> |
 | <sub>2022-08-01 13:55:48</sub> | <sub>[[backend-bitcore-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/0f695a2514caec45be815937cb7e2b352b833399)</sub> | <sub>[0f695a2](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/0f695a2514caec45be815937cb7e2b352b833399) feat: init - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2702 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-01 11:28:25</sub> | <sub>[[simplio-app:test/fix\_source\_branch\_in\_build\_workflows] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e)</sub> | <sub>[2c6efea](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e) Fix master branch tests #2 - MariooW</sub> |
 | <sub>2022-08-01 11:27:38</sub> | <sub>[[simplio-app:test/fix\_source\_branch\_in\_build\_workflows] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328)</sub> | <sub>[5090eb2](https://github.com/SimplioOfficial/simplio-app/commit/5090eb27e64d59e4d08b97a49e13056f99228328) Fix master branch tests - MariooW</sub> |
 | <sub>2022-08-01 10:55:47</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc)</sub> | <sub>[6347344](https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc) Task/104 cleaning test structure (#123) - MariooW</sub> |
-| <sub>2022-08-01 09:50:19</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2f201d18d9be587c9058e38d834a526d0eab9da5)</sub> | <sub>[2f201d1](https://github.com/SimplioOfficial/simplio-app/commit/2f201d18d9be587c9058e38d834a526d0eab9da5) Fix android tests command - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
