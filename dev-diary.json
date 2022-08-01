@@ -48535,5 +48535,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 15:40:50.762000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/621fbc09497e...796d036ec752)",
+      "title": "[simplio-app] Branch task/108\\-refactor\\_app\\_initialization was force-pushed to `796d036`",
+      "type": "rich"
+    }
   }
 ]
