@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2690 commits since 10/09/2021. You can see the complete history in
+There is a total of 2691 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-01 09:10:05</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a808b706a114c4c4d50ee5587f48f8e82ca70d8)</sub> | <sub>[0a808b7](https://github.com/SimplioOfficial/simplio-app/commit/0a808b706a114c4c4d50ee5587f48f8e82ca70d8) Update run_tests_on_pull_request.yml - MariooW</sub> |
 | <sub>2022-08-01 08:26:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b15a030a262e2046ce71f99b72cc8376423aaa1c)</sub> | <sub>[b15a030](https://github.com/SimplioOfficial/simplio-app/commit/b15a030a262e2046ce71f99b72cc8376423aaa1c) Task/110 initializing crypto library (#114) - jvrastil</sub> |
 | <sub>2022-08-01 08:24:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9700b76d1c37bde6e74fafeb60d57a9959b2ffaf)</sub> | <sub>[9700b76](https://github.com/SimplioOfficial/simplio-app/commit/9700b76d1c37bde6e74fafeb60d57a9959b2ffaf) Task/106 remove generated files from git (#115) - jvrastil</sub> |
 | <sub>2022-08-01 00:22:42</sub> | <sub>[[simplio-app:test/integration\_tests] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d7611040d483...ccf4a76440a7)</sub> | <sub>[9b78a63](https://github.com/SimplioOfficial/simplio-app/commit/9b78a630b06783d609bc8aa9b2a952ecfcfd40e2) Changes#2 - MariooW<br>[ccf4a76](https://github.com/SimplioOfficial/simplio-app/commit/ccf4a76440a7deeb11d2a8e8ebae6a70c0a0ef75) Changes#3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2690 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-07-31 21:34:22</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b)</sub> | <sub>[6bd0a9e](https://github.com/SimplioOfficial/simplio-app/commit/6bd0a9e0aa0ce65c672199b74075507a4afa133b) Change branch in workflow file - MariooW</sub> |
 | <sub>2022-07-31 21:25:13</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25)</sub> | <sub>[f93f62f](https://github.com/SimplioOfficial/simplio-app/commit/f93f62fa063e1b2bd31575980f7c766728913b25) Apply fix for animation - MariooW</sub> |
 | <sub>2022-07-31 20:21:36</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638)</sub> | <sub>[422cfec](https://github.com/SimplioOfficial/simplio-app/commit/422cfec627f8525ea42a28e6866312ab7b91f638) Revert test values in workflow file. - MariooW</sub> |
-| <sub>2022-07-31 20:03:54</sub> | <sub>[[simplio-app:task/104\_cleaning\_test\_structure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df)</sub> | <sub>[5330011](https://github.com/SimplioOfficial/simplio-app/commit/53300116dea60de59e43a633f0451dbfe71aa5df) Fix workflow file #2 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
