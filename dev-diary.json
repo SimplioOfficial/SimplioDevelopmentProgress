@@ -48229,5 +48229,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2b20a0938bb0430d6dce7677fe0c8aa56df45c93"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 00:17:36.761000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6125c51`](https://github.com/SimplioOfficial/simplio-app/commit/6125c51635df74f4b8b5d316fbade907af86f7f2) task/108 cleaning test structure - MariooW\n[`e4b5750`](https://github.com/SimplioOfficial/simplio-app/commit/e4b57507f706f88deda5adf82514040c308c7870) changing branch from tests - MariooW\n[`34919d5`](https://github.com/SimplioOfficial/simplio-app/commit/34919d55694cf70aa5bef5f3f2daed651647a6b3) Adding test branches to involve pipeline - MariooW\n[`dae77e8`](https://github.com/SimplioOfficial/simplio-app/commit/dae77e8743adf00ff4105a70406cabcdfda67fe3) Adding task branches to involve pipeline - MariooW\n[`c3198b5`](https://github.com/SimplioOfficial/simplio-app/commit/c3198b566dd59a1cf3ad7275ec3d7d4979ee9b4c) Adding task branches to involve pipeline - MariooW",
+      "title": "[simplio-app:test/integration\\_tests] 14 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2b20a0938bb0...d7611040d483"
+    }
   }
 ]
