@@ -48337,5 +48337,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/0a808b706a11...000c88f15684"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-01 09:50:19.383000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`2f201d1`](https://github.com/SimplioOfficial/simplio-app/commit/2f201d18d9be587c9058e38d834a526d0eab9da5) Fix android tests command - MariooW",
+      "title": "[simplio-app:task/104\\_cleaning\\_test\\_structure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2f201d18d9be587c9058e38d834a526d0eab9da5"
+    }
   }
 ]
