@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-01 17:54:52</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333)</sub> | <sub>[780473d](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333) use correct version of git workflows - jvrastil</sub> |
 | <sub>2022-08-01 15:40:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/621fbc09497e...796d036ec752)</sub> |
 | <sub>2022-08-01 15:04:29</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9)</sub> | <sub>[df5220b](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9) removing gen files - storkandstars</sub> |
 | <sub>2022-08-01 14:12:02</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4768c29fdc87bc6c8e4074db09c996ddc91e4bc)</sub> | <sub>[f4768c2](https://github.com/SimplioOfficial/simplio-app/commit/f4768c29fdc87bc6c8e4074db09c996ddc91e4bc) removing unused import - storkandstars</sub> |
