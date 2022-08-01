@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2705 commits since 10/09/2021. You can see the complete history in
+There is a total of 2706 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-01 17:59:43</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e44f0f8e100198ba88d01c9a194d4a7d5ea4299e)</sub> | <sub>[e44f0f8](https://github.com/SimplioOfficial/simplio-app/commit/e44f0f8e100198ba88d01c9a194d4a7d5ea4299e) changes after review - jvrastil</sub> |
 | <sub>2022-08-01 17:54:52</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333)</sub> | <sub>[780473d](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333) use correct version of git workflows - jvrastil</sub> |
 | <sub>2022-08-01 15:40:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/621fbc09497e...796d036ec752)</sub> |
 | <sub>2022-08-01 15:04:29</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9)</sub> | <sub>[df5220b](https://github.com/SimplioOfficial/simplio-app/commit/df5220b556f7df94cc1449478d0255bd4aaec3f9) removing gen files - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2705 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-01 13:54:39</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/a3eaac4404c1ea619c7ab06eb94b4c19f30324d6)</sub> | <sub>[a3eaac4](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/a3eaac4404c1ea619c7ab06eb94b4c19f30324d6) feat: add prepare command - PitTxid</sub> |
 | <sub>2022-08-01 13:02:30</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 8 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b8fd4db3e53c...937565f6cfb9)</sub> | <sub>[9700b76](https://github.com/SimplioOfficial/simplio-app/commit/9700b76d1c37bde6e74fafeb60d57a9959b2ffaf) Task/106 remove generated files from git (#115) - jvrastil<br>[b15a030](https://github.com/SimplioOfficial/simplio-app/commit/b15a030a262e2046ce71f99b72cc8376423aaa1c) Task/110 initializing crypto library (#114) - jvrastil<br>[6347344](https://github.com/SimplioOfficial/simplio-app/commit/6347344dc9696cb88e40410c83ffe5d04015bafc) Task/104 cleaning test structure (#123) - MariooW<br>[03cef99](https://github.com/SimplioOfficial/simplio-app/commit/03cef9944ce4e36d7bc9f53a0a2024db12b945ae) Merge branch 'master' into task/109-secure-pin-... - storkandstars<br>[c9b85f7](https://github.com/SimplioOfficial/simplio-app/commit/c9b85f72246c0fe8aec611ac105ecedbf62638fb) fixing after merge conflict - storkandstars</sub> |
 | <sub>2022-08-01 12:06:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW</sub> |
-| <sub>2022-08-01 11:28:25</sub> | <sub>[[simplio-app:test/fix\_source\_branch\_in\_build\_workflows] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e)</sub> | <sub>[2c6efea](https://github.com/SimplioOfficial/simplio-app/commit/2c6efeaf2e7b18d35ab5e62a69f7046b5f0d099e) Fix master branch tests #2 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
