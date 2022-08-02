@@ -48606,5 +48606,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ff81c0275a09^...83483bed02fb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-02 23:11:09.111000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`59acdc8`](https://github.com/SimplioOfficial/simplio-app/commit/59acdc8a36a6f1f22f046a637a2c416847b8c969) Reformat code - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests\\_fixing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/59acdc8a36a6f1f22f046a637a2c416847b8c969"
+    }
   }
 ]
