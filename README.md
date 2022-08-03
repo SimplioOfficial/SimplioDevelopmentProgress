@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2723 commits since 10/09/2021. You can see the complete history in
+There is a total of 2724 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-03 23:47:37</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94)</sub> | <sub>[5f3a52c](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94) Small fixes #5 - MariooW</sub> |
 | <sub>2022-08-03 23:33:31</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db)</sub> | <sub>[03e98d5](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db) Small fixes #4 - MariooW</sub> |
 | <sub>2022-08-03 23:32:38</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4)</sub> | <sub>[f05b839](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4) Small fixes #3 - MariooW</sub> |
 | <sub>2022-08-03 23:30:34</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4239efe847d2...b02a78ae68b9)</sub> | <sub>[62014d8](https://github.com/SimplioOfficial/simplio-app/commit/62014d80d596bc3f59210d4761f88f2538d9c55e) Small fixes #3 - MariooW<br>[3b30ead](https://github.com/SimplioOfficial/simplio-app/commit/3b30ead6321ee90a814c753fb025d527082da781) Revert "Small fixes #3" - MariooW<br>[b02a78a](https://github.com/SimplioOfficial/simplio-app/commit/b02a78ae68b94ddd551a8549beaf4838b893a30f) Small fixes #3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2723 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-03 20:16:48</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/59acdc8a36a6...5611ea30f3bf)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW<br>[3bedcf0](https://github.com/SimplioOfficial/simplio-app/commit/3bedcf0f3b47dc569967a14ad8ae4025f25df404) Merge branch 'master' of github.com:SimplioOffi... - MariooW<br>[5611ea3](https://github.com/SimplioOfficial/simplio-app/commit/5611ea30f3bfb5a6e673d374f0773f79ce73a416) Adding files generation - MariooW</sub> |
 | <sub>2022-08-03 08:40:05</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8098c00a1d488ab45f4cb283033ef2e4c85dc15e)</sub> | <sub>[8098c00](https://github.com/SimplioOfficial/sio_core/commit/8098c00a1d488ab45f4cb283033ef2e4c85dc15e) chore: implement pre-commit hook - ciripel</sub> |
 | <sub>2022-08-03 07:44:21</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f)</sub> | <sub>[d351936](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f) chore: created pre_commit script - ciripel</sub> |
-| <sub>2022-08-03 06:55:52</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a)</sub> | <sub>[301b202](https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a) fix: fix ethereum native build tx amount bug - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
