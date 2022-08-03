@@ -48786,5 +48786,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/59acdc8a36a6...5611ea30f3bf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 20:23:04.965000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6e4fb36`](https://github.com/SimplioOfficial/simplio-app/commit/6e4fb368c877b9d5ed76c20aeda55d7320a6bfb9) Remove integration flow reformat app_test.dart - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests\\_fixing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6e4fb368c877b9d5ed76c20aeda55d7320a6bfb9"
+    }
   }
 ]
