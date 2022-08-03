@@ -48624,5 +48624,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/59acdc8a36a6f1f22f046a637a2c416847b8c969"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 03:39:41.687000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f36f27d`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/f36f27d3424eee71868c6f60f447c2f0f93693b4) feat: add bitcore lib - PitTxid\n[`2627655`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/2627655b0f24574a8af67a0bda77cbb09e67772a) feat: add trust wallet core - PitTxid\n[`802f45f`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/802f45fed7e62ec78449326b7ddca42cd96892de) feat: get address - PitTxid",
+      "title": "[backend-bitcore-wallet-lib:2\\-generate\\-default\\-address\\-for\\-the\\-derivation\\-path] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/0f695a2514ca...802f45fed7e6"
+    }
   }
 ]
