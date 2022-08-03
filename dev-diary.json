@@ -48714,5 +48714,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/893f8ca923ca...aa9d7b8ff0de"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 06:55:52.107000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`301b202`](https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a) fix: fix ethereum native build tx amount bug - ciripel",
+      "title": "[sio_core:task/sio\\_backend\\_methods] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a"
+    }
   }
 ]
