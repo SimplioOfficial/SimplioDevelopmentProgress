@@ -48840,5 +48840,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4239efe847d23f24f58da3a6250828b9223e4fb4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 23:30:34.559000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`62014d8`](https://github.com/SimplioOfficial/simplio-app/commit/62014d80d596bc3f59210d4761f88f2538d9c55e) Small fixes #3 - MariooW\n[`3b30ead`](https://github.com/SimplioOfficial/simplio-app/commit/3b30ead6321ee90a814c753fb025d527082da781) Revert \"Small fixes #3\" - MariooW\n[`b02a78a`](https://github.com/SimplioOfficial/simplio-app/commit/b02a78ae68b94ddd551a8549beaf4838b893a30f) Small fixes #3 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests\\_fixing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4239efe847d2...b02a78ae68b9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 23:32:38.850000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f05b839`](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4) Small fixes #3 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests\\_fixing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 23:33:31.146000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`03e98d5`](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db) Small fixes #4 - MariooW",
+      "title": "[simplio-app:test/adding\\_new\\_tests\\_fixing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db"
+    }
   }
 ]
