@@ -48678,5 +48678,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/0f695a2514ca...893f8ca923ca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 06:12:26.022000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`afc1dd7`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00) feat: add estimate fee - PitTxid",
+      "title": "[backend-bitcore-wallet-lib:5\\-estimate\\-fee\\-for\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 06:12:45.110000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`afc1dd7`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00) feat: add estimate fee - PitTxid\n[`aa9d7b8`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/aa9d7b8ff0dea3d059d1924870e598b47404e43a) Merge pull request #10 from SimplioOfficial/5-e... - PitTxid",
+      "title": "[backend-bitcore-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/893f8ca923ca...aa9d7b8ff0de"
+    }
   }
 ]
