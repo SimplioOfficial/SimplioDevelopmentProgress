@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2714 commits since 10/09/2021. You can see the complete history in
+There is a total of 2715 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-03 07:44:21</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f)</sub> | <sub>[d351936](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f) chore: created pre_commit script - ciripel</sub> |
 | <sub>2022-08-03 06:55:52</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a)</sub> | <sub>[301b202](https://github.com/SimplioOfficial/sio_core/commit/301b202287de270985065a444b48db200906466a) fix: fix ethereum native build tx amount bug - ciripel</sub> |
 | <sub>2022-08-03 06:12:45</sub> | <sub>[[backend-bitcore-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/893f8ca923ca...aa9d7b8ff0de)</sub> | <sub>[afc1dd7](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00) feat: add estimate fee - PitTxid<br>[aa9d7b8](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/aa9d7b8ff0dea3d059d1924870e598b47404e43a) Merge pull request #10 from SimplioOfficial/5-e... - PitTxid</sub> |
 | <sub>2022-08-03 06:12:26</sub> | <sub>[[backend-bitcore-wallet-lib:5\-estimate\-fee\-for\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00)</sub> | <sub>[afc1dd7](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/afc1dd76c60ab22df8f3c8c69af1d7387e607f00) feat: add estimate fee - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2714 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-02 23:11:09</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59acdc8a36a6f1f22f046a637a2c416847b8c969)</sub> | <sub>[59acdc8](https://github.com/SimplioOfficial/simplio-app/commit/59acdc8a36a6f1f22f046a637a2c416847b8c969) Reformat code - MariooW</sub> |
 | <sub>2022-08-02 23:05:45</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ff81c0275a09^...83483bed02fb)</sub> | <sub>[ff81c02](https://github.com/SimplioOfficial/simplio-app/commit/ff81c0275a09397fd6cc7bf6a17898e4430e69c4) Merge branch 'Test_new' of github.com:SimplioOf... - MariooW<br>[83483be](https://github.com/SimplioOfficial/simplio-app/commit/83483bed02fb735fa49e417d25a045fef4c68678) Adding configuration to allow tests to be run - MariooW</sub> |
 | <sub>2022-08-01 17:59:43</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e44f0f8e100198ba88d01c9a194d4a7d5ea4299e)</sub> | <sub>[e44f0f8](https://github.com/SimplioOfficial/simplio-app/commit/e44f0f8e100198ba88d01c9a194d4a7d5ea4299e) changes after review - jvrastil</sub> |
-| <sub>2022-08-01 17:54:52</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333)</sub> | <sub>[780473d](https://github.com/SimplioOfficial/simplio-app/commit/780473de8133d9ba0918a7043810b7d238156333) use correct version of git workflows - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
