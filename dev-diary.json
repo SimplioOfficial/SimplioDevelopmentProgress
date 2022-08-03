@@ -48642,5 +48642,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/0f695a2514ca...802f45fed7e6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-03 03:51:54.303000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`9564251`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/95642512bbf7a30f5d25d5127e3845452b209c83) feat: add workflow test - PitTxid",
+      "title": "[backend-bitcore-wallet-lib:2\\-generate\\-default\\-address\\-for\\-the\\-derivation\\-path] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/95642512bbf7a30f5d25d5127e3845452b209c83"
+    }
   }
 ]
