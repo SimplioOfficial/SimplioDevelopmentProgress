@@ -48948,5 +48948,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0e90f10443baaf60297e7746d8f4a026f8146fa4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 08:22:09.862000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e1a34bd`](https://github.com/SimplioOfficial/simplio-app/commit/e1a34bd3319fe73819cdeb9a1ff9469d62e21d73) review - using global theme - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e1a34bd3319fe73819cdeb9a1ff9469d62e21d73"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 08:23:49.781000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1a58353`](https://github.com/SimplioOfficial/simplio-app/commit/1a58353109d756b42fd57a71835178b080249dfb) review - removing comments - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1a58353109d756b42fd57a71835178b080249dfb"
+    }
   }
 ]
