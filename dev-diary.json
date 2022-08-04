@@ -49164,5 +49164,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 23:31:33.824000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`efea8d7`](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW\n[`ca7406a`](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW",
+      "title": "[simplio-app:test/fix\\_long\\_execution] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/efea8d7f9cb1^...ca7406a23c81"
+    }
   }
 ]
