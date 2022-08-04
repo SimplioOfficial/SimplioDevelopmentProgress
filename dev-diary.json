@@ -49092,5 +49092,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/8205c01949c6...27fc3471515a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 12:57:34.988000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9811bb1`](https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f) Task/109 secure pin functionality (#121) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f"
+    }
   }
 ]

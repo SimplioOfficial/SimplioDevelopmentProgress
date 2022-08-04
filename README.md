@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2734 commits since 10/09/2021. You can see the complete history in
+There is a total of 2735 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-04 12:57:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f)</sub> | <sub>[9811bb1](https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f) Task/109 secure pin functionality (#121) - storkandstars</sub> |
 | <sub>2022-08-04 10:14:44</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8205c01949c6...27fc3471515a)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW<br>[3f2504f](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6) Task/108 - Refactor app initialization (#120) - jvrastil<br>[d5774ad](https://github.com/SimplioOfficial/simplio-app/commit/d5774adbaaa5824bdb337c5aa2116e059be8fd78) Merge branch 'master' into task/109-secure-pin-... - storkandstars<br>[942edc1](https://github.com/SimplioOfficial/simplio-app/commit/942edc1ed6267bb0207fc8788bef24c4f549acad) moving cubit - storkandstars<br>[27fc347](https://github.com/SimplioOfficial/simplio-app/commit/27fc3471515a10cea0b99c05903728e1318b1f5d) increasing version - storkandstars</sub> |
 | <sub>2022-08-04 09:36:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6)</sub> | <sub>[3f2504f](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6) Task/108 - Refactor app initialization (#120) - jvrastil</sub> |
 | <sub>2022-08-04 09:32:54</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8205c01949c60c698d7329d47e782b51fea33a14)</sub> | <sub>[8205c01](https://github.com/SimplioOfficial/simplio-app/commit/8205c01949c60c698d7329d47e782b51fea33a14) review - removing blocking condition - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2734 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-04 08:23:49</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a58353109d756b42fd57a71835178b080249dfb)</sub> | <sub>[1a58353](https://github.com/SimplioOfficial/simplio-app/commit/1a58353109d756b42fd57a71835178b080249dfb) review - removing comments - storkandstars</sub> |
 | <sub>2022-08-04 08:22:09</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e1a34bd3319fe73819cdeb9a1ff9469d62e21d73)</sub> | <sub>[e1a34bd](https://github.com/SimplioOfficial/simplio-app/commit/e1a34bd3319fe73819cdeb9a1ff9469d62e21d73) review - using global theme - storkandstars</sub> |
 | <sub>2022-08-04 08:18:18</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e90f10443baaf60297e7746d8f4a026f8146fa4)</sub> | <sub>[0e90f10](https://github.com/SimplioOfficial/simplio-app/commit/0e90f10443baaf60297e7746d8f4a026f8146fa4) review - renaming account id key - storkandstars</sub> |
-| <sub>2022-08-04 06:47:03</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24)</sub> | <sub>[22e0f04](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24) ci: add env variables to tests and pre-comit hook - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
