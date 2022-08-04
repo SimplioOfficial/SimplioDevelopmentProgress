@@ -49110,5 +49110,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 19:23:43.859000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7e14179`](https://github.com/SimplioOfficial/simplio-app/commit/7e14179fe6c8010a5587578ed810c42690fd51f0) wip - init sio core lib - storkandstars\n[`6106ebe`](https://github.com/SimplioOfficial/simplio-app/commit/6106ebe65e2c7f69f06113b28f877c9d12504276) wip - loading account wallet - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/df5220b556f7...6106ebe65e2c"
+    }
   }
 ]
