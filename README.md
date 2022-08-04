@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2724 commits since 10/09/2021. You can see the complete history in
+There is a total of 2725 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-04 06:47:03</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24)</sub> | <sub>[22e0f04](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24) ci: add env variables to tests and pre-comit hook - ciripel</sub> |
 | <sub>2022-08-03 23:47:37</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94)</sub> | <sub>[5f3a52c](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94) Small fixes #5 - MariooW</sub> |
 | <sub>2022-08-03 23:33:31</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db)</sub> | <sub>[03e98d5](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db) Small fixes #4 - MariooW</sub> |
 | <sub>2022-08-03 23:32:38</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4)</sub> | <sub>[f05b839](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4) Small fixes #3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2724 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-03 20:23:04</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e4fb368c877b9d5ed76c20aeda55d7320a6bfb9)</sub> | <sub>[6e4fb36](https://github.com/SimplioOfficial/simplio-app/commit/6e4fb368c877b9d5ed76c20aeda55d7320a6bfb9) Remove integration flow reformat app_test.dart - MariooW</sub> |
 | <sub>2022-08-03 20:16:48</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/59acdc8a36a6...5611ea30f3bf)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW<br>[3bedcf0](https://github.com/SimplioOfficial/simplio-app/commit/3bedcf0f3b47dc569967a14ad8ae4025f25df404) Merge branch 'master' of github.com:SimplioOffi... - MariooW<br>[5611ea3](https://github.com/SimplioOfficial/simplio-app/commit/5611ea30f3bfb5a6e673d374f0773f79ce73a416) Adding files generation - MariooW</sub> |
 | <sub>2022-08-03 08:40:05</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/8098c00a1d488ab45f4cb283033ef2e4c85dc15e)</sub> | <sub>[8098c00](https://github.com/SimplioOfficial/sio_core/commit/8098c00a1d488ab45f4cb283033ef2e4c85dc15e) chore: implement pre-commit hook - ciripel</sub> |
-| <sub>2022-08-03 07:44:21</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f)</sub> | <sub>[d351936](https://github.com/SimplioOfficial/sio_core/commit/d35193692142fdfa0bcab0a2d55ef450a6a1ac7f) chore: created pre_commit script - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

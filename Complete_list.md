@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-04 06:47:03</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24)</sub> | <sub>[22e0f04](https://github.com/SimplioOfficial/sio_core/commit/22e0f0461d1b70a02668dc47a0f3055001b2dd24) ci: add env variables to tests and pre-comit hook - ciripel</sub> |
 | <sub>2022-08-03 23:47:37</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94)</sub> | <sub>[5f3a52c](https://github.com/SimplioOfficial/simplio-app/commit/5f3a52c8763b4dc2aad50dee86cb7a121cf4aa94) Small fixes #5 - MariooW</sub> |
 | <sub>2022-08-03 23:33:31</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db)</sub> | <sub>[03e98d5](https://github.com/SimplioOfficial/simplio-app/commit/03e98d58eb800e768ab1bfffeb200bf9dfc844db) Small fixes #4 - MariooW</sub> |
 | <sub>2022-08-03 23:32:38</sub> | <sub>[[simplio-app:test/adding\_new\_tests\_fixing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4)</sub> | <sub>[f05b839](https://github.com/SimplioOfficial/simplio-app/commit/f05b839115bf2d24c5fdbf5db5eee4c7985a51c4) Small fixes #3 - MariooW</sub> |
