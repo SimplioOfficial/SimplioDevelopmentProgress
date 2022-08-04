@@ -49002,5 +49002,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dda3c4b3e16a38b9dbf694a7d4ff437629066d9d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 08:31:33.947000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6cc38ff`](https://github.com/SimplioOfficial/simplio-app/commit/6cc38ffd9af28564541f839c0358e110ffea926c) increase version - jvrastil",
+      "title": "[simplio-app:task/108\\-refactor\\_app\\_initialization] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6cc38ffd9af28564541f839c0358e110ffea926c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-04 08:34:50.803000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0184150`](https://github.com/SimplioOfficial/simplio-app/commit/0184150dd77b0f935a5f4b8273fe7524d2e22a44) review - removing comments - storkandstars\n[`c4472b6`](https://github.com/SimplioOfficial/simplio-app/commit/c4472b6e36c52ecdb4a67fb422794ad1739cdae5) review - keep duration - storkandstars\n[`727868b`](https://github.com/SimplioOfficial/simplio-app/commit/727868b4ec65ca09a4a718305f82d7a0f7413628) review - removing comments - storkandstars",
+      "title": "[simplio-app:task/109\\-secure\\-pin\\-functionality] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dda3c4b3e16a...727868b4ec65"
+    }
   }
 ]
