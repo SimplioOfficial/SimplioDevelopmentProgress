@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2739 commits since 10/09/2021. You can see the complete history in
+There is a total of 2740 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-05 00:38:07</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef)</sub> | <sub>[62f5833](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW</sub> |
 | <sub>2022-08-04 23:31:33</sub> | <sub>[[simplio-app:test/fix\_long\_execution] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/efea8d7f9cb1^...ca7406a23c81)</sub> | <sub>[efea8d7](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW<br>[ca7406a](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW</sub> |
 | <sub>2022-08-04 23:27:42</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9)</sub> | <sub>[ca7406a](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW</sub> |
 | <sub>2022-08-04 23:25:26</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f)</sub> | <sub>[efea8d7](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2739 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-04 09:36:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6)</sub> | <sub>[3f2504f](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6) Task/108 - Refactor app initialization (#120) - jvrastil</sub> |
 | <sub>2022-08-04 09:32:54</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8205c01949c60c698d7329d47e782b51fea33a14)</sub> | <sub>[8205c01](https://github.com/SimplioOfficial/simplio-app/commit/8205c01949c60c698d7329d47e782b51fea33a14) review - removing blocking condition - storkandstars</sub> |
 | <sub>2022-08-04 08:34:50</sub> | <sub>[[simplio-app:task/109\-secure\-pin\-functionality] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dda3c4b3e16a...727868b4ec65)</sub> | <sub>[0184150](https://github.com/SimplioOfficial/simplio-app/commit/0184150dd77b0f935a5f4b8273fe7524d2e22a44) review - removing comments - storkandstars<br>[c4472b6](https://github.com/SimplioOfficial/simplio-app/commit/c4472b6e36c52ecdb4a67fb422794ad1739cdae5) review - keep duration - storkandstars<br>[727868b](https://github.com/SimplioOfficial/simplio-app/commit/727868b4ec65ca09a4a718305f82d7a0f7413628) review - removing comments - storkandstars</sub> |
-| <sub>2022-08-04 08:31:33</sub> | <sub>[[simplio-app:task/108\-refactor\_app\_initialization] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6cc38ffd9af28564541f839c0358e110ffea926c)</sub> | <sub>[6cc38ff](https://github.com/SimplioOfficial/simplio-app/commit/6cc38ffd9af28564541f839c0358e110ffea926c) increase version - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
