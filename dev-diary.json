@@ -49236,5 +49236,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ca7406a23c81...b44c5ab88023"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 03:08:22.872000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1f01725`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/1f017258126498149b5a659d529f9199dcaf6ddd) feat: check balance before creating - PitTxid\n[`85297ae`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/85297aeb44a53891a28cf88a5fcfb36cef7ffded) feat: add create transaction - PitTxid\n[`e02c977`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/e02c9774ad13b7a832b9c0af4f076e83e207bce6) feat: add walletcore - PitTxid\n[`79c0171`](https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/commit/79c01710f0757200bf91baefc2554de03f941e6d) feat: create transaction successfully - PitTxid",
+      "title": "[backend-bitcore-wallet-lib:3\\-create\\-raw\\-transaction\\-successfully] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcore-wallet-lib/compare/aa9d7b8ff0de...79c01710f075"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 03:09:09.125000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1f01725`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/1f017258126498149b5a659d529f9199dcaf6ddd) feat: check balance before creating - PitTxid\n[`85297ae`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/85297aeb44a53891a28cf88a5fcfb36cef7ffded) feat: add create transaction - PitTxid\n[`e02c977`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e02c9774ad13b7a832b9c0af4f076e83e207bce6) feat: add walletcore - PitTxid\n[`79c0171`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/79c01710f0757200bf91baefc2554de03f941e6d) feat: create transaction successfully - PitTxid\n[`56222e1`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/56222e12f7474522acf032604baad93bebb02713) Merge pull request #11 from SimplioOfficial/3-c... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/aa9d7b8ff0de...56222e12f747"
+    }
   }
 ]
