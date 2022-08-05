@@ -49200,5 +49200,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 00:51:34.386000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`b44c5ab`](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW",
+      "title": "[simplio-app:test/fix\\_long\\_ececution] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 00:52:26.583000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`62f5833`](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW\n[`b44c5ab`](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW",
+      "title": "[simplio-app:test/fix\\_long\\_execution] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ca7406a23c81...b44c5ab88023"
+    }
   }
 ]
