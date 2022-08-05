@@ -49290,5 +49290,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_wallet_connect/commit/36eb9a4e97591e025828d304677cafed2adcc4ae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 10:16:32.519000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e1a6a30`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:4\\-broadcast\\-raw\\-transaction\\-successfully] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 10:16:51.740000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e1a6a30`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid\n[`794781a`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/794781ad331b50fe574cfae72530a9bd04ea4b86) Merge pull request #12 from SimplioOfficial/4-b... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/56222e12f747...794781ad331b"
+    }
   }
 ]
