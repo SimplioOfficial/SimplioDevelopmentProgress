@@ -49326,5 +49326,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/56222e12f747...794781ad331b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-05 14:12:29.802000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e7e27a9`](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77) feat: solana sign_transaction - ciripel",
+      "title": "[sio_wallet_connect:feat/solana\\_chain\\_support] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77"
+    }
   }
 ]
