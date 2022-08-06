@@ -49380,5 +49380,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-06 23:07:58.207000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`efea8d7`](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW\n[`ca7406a`](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW\n[`62f5833`](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW\n[`b44c5ab`](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW\n[`0e86d13`](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a) Applying fixes regarding comments - MariooW",
+      "title": "[simplio-app:master] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9811bb12e017...001348aec299"
+    }
   }
 ]
