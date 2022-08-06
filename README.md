@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2748 commits since 10/09/2021. You can see the complete history in
+There is a total of 2749 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-06 21:52:50</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a)</sub> | <sub>[0e86d13](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a) Applying fixes regarding comments - MariooW</sub> |
 | <sub>2022-08-05 14:12:29</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77)</sub> | <sub>[e7e27a9](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77) feat: solana sign_transaction - ciripel</sub> |
 | <sub>2022-08-05 10:16:51</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/56222e12f747...794781ad331b)</sub> | <sub>[e1a6a30](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid<br>[794781a](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/794781ad331b50fe574cfae72530a9bd04ea4b86) Merge pull request #12 from SimplioOfficial/4-b... - PitTxid</sub> |
 | <sub>2022-08-05 10:16:32</sub> | <sub>[[backend-bitcoin-wallet-lib:4\-broadcast\-raw\-transaction\-successfully] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1)</sub> | <sub>[e1a6a30](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2748 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-05 00:52:26</sub> | <sub>[[simplio-app:test/fix\_long\_execution] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ca7406a23c81...b44c5ab88023)</sub> | <sub>[62f5833](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW<br>[b44c5ab](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW</sub> |
 | <sub>2022-08-05 00:51:34</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42)</sub> | <sub>[b44c5ab](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW</sub> |
 | <sub>2022-08-05 00:38:07</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef)</sub> | <sub>[62f5833](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW</sub> |
-| <sub>2022-08-04 23:31:33</sub> | <sub>[[simplio-app:test/fix\_long\_execution] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/efea8d7f9cb1^...ca7406a23c81)</sub> | <sub>[efea8d7](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW<br>[ca7406a](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
