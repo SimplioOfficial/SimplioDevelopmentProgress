@@ -49666,5 +49666,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9adc4615c1000a259230264e388cc1408d962d80"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 20:54:59.516000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d4cc9ed`](https://github.com/SimplioOfficial/simplio-app/commit/d4cc9edc7717a84f12b5bfd95742d2fc6ba2864e) CHanges in regexp - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d4cc9edc7717a84f12b5bfd95742d2fc6ba2864e"
+    }
   }
 ]
