@@ -49488,5 +49488,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 04:39:03.831000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`aed3b8e`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c) feat: add more comments for methods - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:7\\-create\\-documents] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c"
+    }
   }
 ]
