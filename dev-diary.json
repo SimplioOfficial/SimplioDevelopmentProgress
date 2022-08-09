@@ -49560,5 +49560,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...6ab539f8be8e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 11:45:16.955000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d5b5c9b`](https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515) refactor: setup env variables - ciripel",
+      "title": "[sio_core:task/sio\\_backend\\_methods] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515"
+    }
   }
 ]
