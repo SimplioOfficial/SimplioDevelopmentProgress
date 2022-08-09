@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2762 commits since 10/09/2021. You can see the complete history in
+There is a total of 2763 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 12:40:15</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0470c7544bd75881dd5b35fda80accb9a64d069e)</sub> | <sub>[0470c75](https://github.com/SimplioOfficial/sio_core/commit/0470c7544bd75881dd5b35fda80accb9a64d069e) Task/sio_bug_fixes (#69) - ciripel</sub> |
 | <sub>2022-08-09 12:12:18</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4abcc5d98264bb2034982c895207643322823e20)</sub> | <sub>[4abcc5d](https://github.com/SimplioOfficial/sio_core/commit/4abcc5d98264bb2034982c895207643322823e20) chore: increase version to 0.1.0 - ciripel</sub> |
 | <sub>2022-08-09 11:45:16</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515)</sub> | <sub>[d5b5c9b](https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515) refactor: setup env variables - ciripel</sub> |
 | <sub>2022-08-09 05:02:41</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 4 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...6ab539f8be8e)</sub> | <sub>[aed3b8e](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c) feat: add more comments for methods - PitTxid<br>[0ae0b62](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ae0b6296308d2d484cf0232369b7deb3faa9afa) feat: add readme file - PitTxid<br>[758f13e](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/758f13e29d629def13bd971ebe1c53f075c80e6b) feat: update readme file - PitTxid<br>[6ab539f](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/6ab539f8be8ebfa0b0e735e7ab7dbc21b81e7584) Merge pull request #13 from SimplioOfficial/7-c... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2762 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-09 01:02:04</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d)</sub> | <sub>[ac591de](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d) Reformat code - MariooW</sub> |
 | <sub>2022-08-09 00:55:57</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493)</sub> | <sub>[00f9f9e](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493) Changes test execution - MariooW</sub> |
 | <sub>2022-08-09 00:53:46</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508)</sub> | <sub>[f938dd9](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508) Changes TestApp yml - MariooW</sub> |
-| <sub>2022-08-09 00:48:22</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33)</sub> | <sub>[be41785](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33) Changes TestApp yml - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
