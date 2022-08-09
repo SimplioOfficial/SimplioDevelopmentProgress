@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 01:02:04</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d)</sub> | <sub>[ac591de](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d) Reformat code - MariooW</sub> |
 | <sub>2022-08-09 00:55:57</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493)</sub> | <sub>[00f9f9e](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493) Changes test execution - MariooW</sub> |
 | <sub>2022-08-09 00:53:46</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508)</sub> | <sub>[f938dd9](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508) Changes TestApp yml - MariooW</sub> |
 | <sub>2022-08-09 00:48:22</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33)</sub> | <sub>[be41785](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33) Changes TestApp yml - MariooW</sub> |
