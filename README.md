@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2757 commits since 10/09/2021. You can see the complete history in
+There is a total of 2758 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 04:59:37</sub> | <sub>[[backend-bitcoin-wallet-lib:7\-create\-documents] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ae0b6296308d2d484cf0232369b7deb3faa9afa)</sub> | <sub>[0ae0b62](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ae0b6296308d2d484cf0232369b7deb3faa9afa) feat: add readme file - PitTxid</sub> |
 | <sub>2022-08-09 04:39:03</sub> | <sub>[[backend-bitcoin-wallet-lib:7\-create\-documents] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c)</sub> | <sub>[aed3b8e](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c) feat: add more comments for methods - PitTxid</sub> |
 | <sub>2022-08-09 01:02:04</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d)</sub> | <sub>[ac591de](https://github.com/SimplioOfficial/simplio-app/commit/ac591de29a687e2a7b87f5cdfac37f9f0114553d) Reformat code - MariooW</sub> |
 | <sub>2022-08-09 00:55:57</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493)</sub> | <sub>[00f9f9e](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493) Changes test execution - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2757 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-06 23:07:58</sub> | <sub>[[simplio-app:master] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9811bb12e017...001348aec299)</sub> | <sub>[efea8d7](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW<br>[ca7406a](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW<br>[62f5833](https://github.com/SimplioOfficial/simplio-app/commit/62f58335c0b949571e87c1c6b8732fa78f41acef) Moving tests to initial paths and add parameter... - MariooW<br>[b44c5ab](https://github.com/SimplioOfficial/simplio-app/commit/b44c5ab8802379e448a66fd16f59551d982c6d42) Refactor github action files - MariooW<br>[0e86d13](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a) Applying fixes regarding comments - MariooW</sub> |
 | <sub>2022-08-06 22:42:30</sub> | <sub>[[simplio-app:test/fix\_long\_execution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a)</sub> | <sub>[0e86d13](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a) Applying fixes regarding comments - MariooW</sub> |
 | <sub>2022-08-06 21:52:50</sub> | <sub>[[simplio-app:test/fix\_long\_ececution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a)</sub> | <sub>[0e86d13](https://github.com/SimplioOfficial/simplio-app/commit/0e86d13fadf51d1cd1c3e62b5908f6394a03f28a) Applying fixes regarding comments - MariooW</sub> |
-| <sub>2022-08-05 14:12:29</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77)</sub> | <sub>[e7e27a9](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77) feat: solana sign_transaction - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
