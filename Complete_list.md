@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 13:06:34</sub> | <sub>[[SimplioOfficial/sio_core] New release published: 0\.1\.0](https://github.com/SimplioOfficial/sio_core/releases/tag/0.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-08-09 12:40:15</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/0470c7544bd75881dd5b35fda80accb9a64d069e)</sub> | <sub>[0470c75](https://github.com/SimplioOfficial/sio_core/commit/0470c7544bd75881dd5b35fda80accb9a64d069e) Task/sio_bug_fixes (#69) - ciripel</sub> |
 | <sub>2022-08-09 12:12:18</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/4abcc5d98264bb2034982c895207643322823e20)</sub> | <sub>[4abcc5d](https://github.com/SimplioOfficial/sio_core/commit/4abcc5d98264bb2034982c895207643322823e20) chore: increase version to 0.1.0 - ciripel</sub> |
 | <sub>2022-08-09 11:45:16</sub> | <sub>[[sio_core:task/sio\_backend\_methods] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515)</sub> | <sub>[d5b5c9b](https://github.com/SimplioOfficial/sio_core/commit/d5b5c9b0ee0777a9d5e624bb755512f863eea515) refactor: setup env variables - ciripel</sub> |

@@ -49614,5 +49614,21 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core/commit/0470c7544bd75881dd5b35fda80accb9a64d069e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 13:06:34.213000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_core] New release published: 0\\.1\\.0",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core/releases/tag/0.1.0"
+    }
   }
 ]
