@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2754 commits since 10/09/2021. You can see the complete history in
+There is a total of 2755 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 00:55:57</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493)</sub> | <sub>[00f9f9e](https://github.com/SimplioOfficial/simplio-app/commit/00f9f9e1a658a08863a2a4f2030722bd9e7e8493) Changes test execution - MariooW</sub> |
 | <sub>2022-08-09 00:53:46</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508)</sub> | <sub>[f938dd9](https://github.com/SimplioOfficial/simplio-app/commit/f938dd9eb45ec75b8ed3483fd52c39aa9eff3508) Changes TestApp yml - MariooW</sub> |
 | <sub>2022-08-09 00:48:22</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33)</sub> | <sub>[be41785](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33) Changes TestApp yml - MariooW</sub> |
 | <sub>2022-08-09 00:45:55</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f46529937571^...8cfe6235a5de)</sub> | <sub>[f465299](https://github.com/SimplioOfficial/simplio-app/commit/f4652993757147eb5966b5dfb4b39f38d6003ecd) Apply tests - MariooW<br>[8cfe623](https://github.com/SimplioOfficial/simplio-app/commit/8cfe6235a5de8c10a049fa0b00fa542fde784b94) Changes in Keys - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2754 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-05 14:12:29</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77)</sub> | <sub>[e7e27a9](https://github.com/SimplioOfficial/sio_wallet_connect/commit/e7e27a9321a1f7cfb426ac3ee5695ce7c1e51d77) feat: solana sign_transaction - ciripel</sub> |
 | <sub>2022-08-05 10:16:51</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/56222e12f747...794781ad331b)</sub> | <sub>[e1a6a30](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid<br>[794781a](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/794781ad331b50fe574cfae72530a9bd04ea4b86) Merge pull request #12 from SimplioOfficial/4-b... - PitTxid</sub> |
 | <sub>2022-08-05 10:16:32</sub> | <sub>[[backend-bitcoin-wallet-lib:4\-broadcast\-raw\-transaction\-successfully] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1)</sub> | <sub>[e1a6a30](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e1a6a3013576546a530fc9b64ac3810fad2d09b1) feat: add broadcast transaction and test - PitTxid</sub> |
-| <sub>2022-08-05 07:49:11</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/36eb9a4e97591e025828d304677cafed2adcc4ae)</sub> | <sub>[36eb9a4](https://github.com/SimplioOfficial/sio_wallet_connect/commit/36eb9a4e97591e025828d304677cafed2adcc4ae) chore: build run script - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
