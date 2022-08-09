@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-09 21:09:12</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b2b06855aad1a0beab38f9aed6eff9bad95a008)</sub> | <sub>[1b2b068](https://github.com/SimplioOfficial/simplio-app/commit/1b2b06855aad1a0beab38f9aed6eff9bad95a008) renaming files - storkandstars</sub> |
 | <sub>2022-08-09 21:00:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7c24b0711a3b4f5feb9b063c2f4b246cde7191a2)</sub> | <sub>[7c24b07](https://github.com/SimplioOfficial/simplio-app/commit/7c24b0711a3b4f5feb9b063c2f4b246cde7191a2) Reformat app_test.dart - MariooW</sub> |
 | <sub>2022-08-09 20:54:59</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d4cc9edc7717a84f12b5bfd95742d2fc6ba2864e)</sub> | <sub>[d4cc9ed](https://github.com/SimplioOfficial/simplio-app/commit/d4cc9edc7717a84f12b5bfd95742d2fc6ba2864e) CHanges in regexp - MariooW</sub> |
 | <sub>2022-08-09 20:24:29</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9adc4615c1000a259230264e388cc1408d962d80)</sub> | <sub>[9adc461](https://github.com/SimplioOfficial/simplio-app/commit/9adc4615c1000a259230264e388cc1408d962d80) creating wallets - storkandstars</sub> |
