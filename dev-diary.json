@@ -49524,5 +49524,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ae0b6296308d2d484cf0232369b7deb3faa9afa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 05:01:22.949000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`758f13e`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/758f13e29d629def13bd971ebe1c53f075c80e6b) feat: update readme file - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:7\\-create\\-documents] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/758f13e29d629def13bd971ebe1c53f075c80e6b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 05:02:41.066000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`aed3b8e`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/aed3b8ed37f0c3b3ad119349c8883e956ed3240c) feat: add more comments for methods - PitTxid\n[`0ae0b62`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ae0b6296308d2d484cf0232369b7deb3faa9afa) feat: add readme file - PitTxid\n[`758f13e`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/758f13e29d629def13bd971ebe1c53f075c80e6b) feat: update readme file - PitTxid\n[`6ab539f`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/6ab539f8be8ebfa0b0e735e7ab7dbc21b81e7584) Merge pull request #13 from SimplioOfficial/7-c... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...6ab539f8be8e"
+    }
   }
 ]
