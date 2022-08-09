@@ -49398,5 +49398,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9811bb12e017...001348aec299"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 00:45:55.124000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f465299`](https://github.com/SimplioOfficial/simplio-app/commit/f4652993757147eb5966b5dfb4b39f38d6003ecd) Apply tests - MariooW\n[`8cfe623`](https://github.com/SimplioOfficial/simplio-app/commit/8cfe6235a5de8c10a049fa0b00fa542fde784b94) Changes in Keys - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f46529937571^...8cfe6235a5de"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-09 00:48:22.922000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`be41785`](https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33) Changes TestApp yml - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/be41785f0aa88fc9bf08f95fb6800c809ecbbe33"
+    }
   }
 ]
