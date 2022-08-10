@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2790 commits since 10/09/2021. You can see the complete history in
+There is a total of 2791 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 12:33:59</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/85b9246db19d...8cadcb86b8c1)</sub> | <sub>[dd6b683](https://github.com/SimplioOfficial/simplio-app/commit/dd6b683cb0cc94623b05bb3e627aa92f77225275) adding enabled status to network wallet - storkandstars<br>[8cadcb8](https://github.com/SimplioOfficial/simplio-app/commit/8cadcb86b8c1363d06809b24a99a4ae2c01155c2) renaming symbol to ticker - storkandstars</sub> |
 | <sub>2022-08-10 12:29:09</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.0\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-08-10 12:18:09</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/584c5dc82aefaca3e8981a344a364f5f31488c97)</sub> | <sub>[584c5dc](https://github.com/SimplioOfficial/sio_core_light/commit/584c5dc82aefaca3e8981a344a364f5f31488c97) Example (#1) - ciripel</sub> |
 | <sub>2022-08-10 12:15:43</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85b9246db19d2a03fa48156ac506dc5384177deb)</sub> | <sub>[85b9246](https://github.com/SimplioOfficial/simplio-app/commit/85b9246db19d2a03fa48156ac506dc5384177deb) renaming bnb network - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2790 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-10 09:24:37</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43bdcedf9938cd77868b7eb5c018326763869ce9)</sub> | <sub>[43bdced](https://github.com/SimplioOfficial/simplio-app/commit/43bdcedf9938cd77868b7eb5c018326763869ce9) Extending build timeout #1 - MariooW</sub> |
 | <sub>2022-08-10 09:00:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618)</sub> | <sub>[08a4566](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618) Extending build timeout - MariooW</sub> |
 | <sub>2022-08-10 08:41:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f773057a492b...f11ceb78b697)</sub> |
-| <sub>2022-08-10 07:54:28</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5)</sub> | <sub>[f773057](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5) Task/117 - Receive coins UI - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

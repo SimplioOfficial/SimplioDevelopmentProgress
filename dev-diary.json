@@ -50095,5 +50095,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 12:33:59.584000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dd6b683`](https://github.com/SimplioOfficial/simplio-app/commit/dd6b683cb0cc94623b05bb3e627aa92f77225275) adding enabled status to network wallet - storkandstars\n[`8cadcb8`](https://github.com/SimplioOfficial/simplio-app/commit/8cadcb86b8c1363d06809b24a99a4ae2c01155c2) renaming symbol to ticker - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/85b9246db19d...8cadcb86b8c1"
+    }
   }
 ]
