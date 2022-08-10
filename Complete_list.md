@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 09:00:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618)</sub> | <sub>[08a4566](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618) Extending build timeout - MariooW</sub> |
 | <sub>2022-08-10 08:41:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f773057a492b...f11ceb78b697)</sub> |
 | <sub>2022-08-10 07:54:28</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5)</sub> | <sub>[f773057](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5) Task/117 - Receive coins UI - jvrastil</sub> |
 | <sub>2022-08-10 05:14:28</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3)</sub> | <sub>[751b8d6](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3) feat: add generate changelog only - PitTxid</sub> |

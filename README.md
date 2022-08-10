@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2782 commits since 10/09/2021. You can see the complete history in
+There is a total of 2783 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 09:00:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618)</sub> | <sub>[08a4566](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618) Extending build timeout - MariooW</sub> |
 | <sub>2022-08-10 08:41:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f773057a492b...f11ceb78b697)</sub> |
 | <sub>2022-08-10 07:54:28</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5)</sub> | <sub>[f773057](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5) Task/117 - Receive coins UI - jvrastil</sub> |
 | <sub>2022-08-10 05:14:28</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3)</sub> | <sub>[751b8d6](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3) feat: add generate changelog only - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2782 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-10 00:02:44</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be450c5986b6286e2664bdc39ab210542c6b4ab4)</sub> | <sub>[be450c5](https://github.com/SimplioOfficial/simplio-app/commit/be450c5986b6286e2664bdc39ab210542c6b4ab4) Fix typo - MariooW</sub> |
 | <sub>2022-08-10 00:00:17</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d420c991185533f579eb20206fcc40086cd059e)</sub> | <sub>[1d420c9](https://github.com/SimplioOfficial/simplio-app/commit/1d420c991185533f579eb20206fcc40086cd059e) Fix typo - MariooW</sub> |
 | <sub>2022-08-09 23:19:46</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97a293e64cb1b890c43f1c437284c98203a4ca0a)</sub> | <sub>[97a293e](https://github.com/SimplioOfficial/simplio-app/commit/97a293e64cb1b890c43f1c437284c98203a4ca0a) Adding flow to get all libs - MariooW</sub> |
-| <sub>2022-08-09 22:57:20</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ceaab94ac1a94bffbbce7854fac34d37be80906b)</sub> | <sub>[ceaab94](https://github.com/SimplioOfficial/simplio-app/commit/ceaab94ac1a94bffbbce7854fac34d37be80906b) Changes file naming - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
