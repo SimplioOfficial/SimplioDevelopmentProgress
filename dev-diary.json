@@ -50131,5 +50131,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7bb06a058adf1be2d7b02c830321dc002bb85a43"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 19:37:25.428000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`63a38fd`](https://github.com/SimplioOfficial/simplio-app/commit/63a38fd0a30c79c35f5f782031d4ba66c04fc64e) removing unused param - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/63a38fd0a30c79c35f5f782031d4ba66c04fc64e"
+    }
   }
 ]
