@@ -50329,5 +50329,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 22:36:06.837000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dd5f057`](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0) changing storage terminology - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0"
+    }
   }
 ]
