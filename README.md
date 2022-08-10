@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2804 commits since 10/09/2021. You can see the complete history in
+There is a total of 2805 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 23:15:41</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8b41dca4f855bacfecbea834d40e7f9fffab9efb)</sub> | <sub>[8b41dca](https://github.com/SimplioOfficial/simplio-app/commit/8b41dca4f855bacfecbea834d40e7f9fffab9efb) Further changes in tests - MariooW</sub> |
 | <sub>2022-08-10 22:36:06</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0)</sub> | <sub>[dd5f057](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0) changing storage terminology - storkandstars</sub> |
 | <sub>2022-08-10 22:19:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c)</sub> | <sub>[a2e8eff](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c) Revert changes in feature files - MariooW</sub> |
 | <sub>2022-08-10 21:58:51</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9e6a9214602a9890bfa1659042a0133f3730665c)</sub> | <sub>[9e6a921](https://github.com/SimplioOfficial/simplio-app/commit/9e6a9214602a9890bfa1659042a0133f3730665c) fixing updating theme and locale - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2804 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-10 2</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5918aba9d20d2a78303a641db5a31ca7b99e8b56)</sub> | <sub>[5918aba](https://github.com/SimplioOfficial/simplio-app/commit/5918aba9d20d2a78303a641db5a31ca7b99e8b56) Exctend timeout for Android emulator - MariooW</sub> |
 | <sub>2022-08-10 20:45:45</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5bda923abd08636b4eaca7077dbc2f85694fa6b8)</sub> | <sub>[5bda923](https://github.com/SimplioOfficial/simplio-app/commit/5bda923abd08636b4eaca7077dbc2f85694fa6b8) unlocking account right after pin creation - storkandstars</sub> |
 | <sub>2022-08-10 20:26:15</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf)</sub> | <sub>[a116a11](https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf) Fix missed libs #2 - MariooW</sub> |
-| <sub>2022-08-10 20:23:29</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a96f052da915511bbc3cfe9744f11894f7f1d9a)</sub> | <sub>[8a96f05](https://github.com/SimplioOfficial/simplio-app/commit/8a96f052da915511bbc3cfe9744f11894f7f1d9a) Fix missed libs - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
