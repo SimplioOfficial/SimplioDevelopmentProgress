@@ -49918,5 +49918,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 07:54:28.475000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f773057`](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5) Task/117 - Receive coins UI - jvrastil",
+      "title": "[simplio-app:task/117\\-receive\\_coins\\_ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5"
+    }
   }
 ]

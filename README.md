@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2780 commits since 10/09/2021. You can see the complete history in
+There is a total of 2781 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 07:54:28</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5)</sub> | <sub>[f773057](https://github.com/SimplioOfficial/simplio-app/commit/f773057a492b878348e6c8c8b2601a38a08af9a5) Task/117 - Receive coins UI - jvrastil</sub> |
 | <sub>2022-08-10 05:14:28</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3)</sub> | <sub>[751b8d6](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3) feat: add generate changelog only - PitTxid</sub> |
 | <sub>2022-08-10 04:48:11</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 3 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/6ab539f8be8e...38d1037cf9c1)</sub> | <sub>[399513a](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/399513a3b58850d61beae255d04d3efa9d0ed298) feat: add test for btc - PitTxid<br>[e733465](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e7334652a326a0a4da6aca0f008dc89db8e4a5f2) feat: test btc transaction successfully - PitTxid<br>[38d1037](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/38d1037cf9c159da286e64be59c9b097e1b50c6d) Merge pull request #14 from SimplioOfficial/6-c... - PitTxid</sub> |
 | <sub>2022-08-10 04:47:35</sub> | <sub>[[backend-bitcoin-wallet-lib:6\-create\-unit\-test\-for\-generating\-address\-and\-transactions] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...e7334652a326)</sub> | <sub>[399513a](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/399513a3b58850d61beae255d04d3efa9d0ed298) feat: add test for btc - PitTxid<br>[e733465](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e7334652a326a0a4da6aca0f008dc89db8e4a5f2) feat: test btc transaction successfully - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2780 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-09 23:19:46</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97a293e64cb1b890c43f1c437284c98203a4ca0a)</sub> | <sub>[97a293e](https://github.com/SimplioOfficial/simplio-app/commit/97a293e64cb1b890c43f1c437284c98203a4ca0a) Adding flow to get all libs - MariooW</sub> |
 | <sub>2022-08-09 22:57:20</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ceaab94ac1a94bffbbce7854fac34d37be80906b)</sub> | <sub>[ceaab94](https://github.com/SimplioOfficial/simplio-app/commit/ceaab94ac1a94bffbbce7854fac34d37be80906b) Changes file naming - MariooW</sub> |
 | <sub>2022-08-09 22:51:06</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5f5514e9c51ef3b0a0a14f0d426dc7f1154f876)</sub> | <sub>[c5f5514](https://github.com/SimplioOfficial/simplio-app/commit/c5f5514e9c51ef3b0a0a14f0d426dc7f1154f876) storing contract address - storkandstars</sub> |
-| <sub>2022-08-09 22:50:35</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d1f0132cb117e4822751a0da4decef0156887f35)</sub> | <sub>[d1f0132](https://github.com/SimplioOfficial/simplio-app/commit/d1f0132cb117e4822751a0da4decef0156887f35) Changes to allow tests to be run on Github - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
