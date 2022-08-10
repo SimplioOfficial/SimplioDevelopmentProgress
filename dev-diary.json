@@ -50257,5 +50257,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/754889b23851d1112f90560947813ca32c31dfb2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 21:48:01.237000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f7faa6c`](https://github.com/SimplioOfficial/simplio-app/commit/f7faa6c8f8cd79671fa362d7ae9f504f095b3815) Fixes for steps on android and adding upload ar... - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f7faa6c8f8cd79671fa362d7ae9f504f095b3815"
+    }
   }
 ]
