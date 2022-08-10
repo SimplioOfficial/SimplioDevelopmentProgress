@@ -50311,5 +50311,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9e6a9214602a9890bfa1659042a0133f3730665c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 22:19:45.785000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a2e8eff`](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c) Revert changes in feature files - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c"
+    }
   }
 ]
