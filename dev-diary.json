@@ -49864,5 +49864,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6f2ec9471daf2258ff740d8e287ff20c65cea352"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 04:47:35.981000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`399513a`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/399513a3b58850d61beae255d04d3efa9d0ed298) feat: add test for btc - PitTxid\n[`e733465`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e7334652a326a0a4da6aca0f008dc89db8e4a5f2) feat: test btc transaction successfully - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:6\\-create\\-unit\\-test\\-for\\-generating\\-address\\-and\\-transactions] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...e7334652a326"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 04:48:11.258000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`399513a`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/399513a3b58850d61beae255d04d3efa9d0ed298) feat: add test for btc - PitTxid\n[`e733465`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e7334652a326a0a4da6aca0f008dc89db8e4a5f2) feat: test btc transaction successfully - PitTxid\n[`38d1037`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/38d1037cf9c159da286e64be59c9b097e1b50c6d) Merge pull request #14 from SimplioOfficial/6-c... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/6ab539f8be8e...38d1037cf9c1"
+    }
   }
 ]
