@@ -50185,5 +50185,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8a96f052da915511bbc3cfe9744f11894f7f1d9a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 20:26:15.479000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a116a11`](https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf) Fix missed libs #2 - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf"
+    }
   }
 ]

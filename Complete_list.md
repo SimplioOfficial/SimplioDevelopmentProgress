@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 20:26:15</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf)</sub> | <sub>[a116a11](https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf) Fix missed libs #2 - MariooW</sub> |
 | <sub>2022-08-10 20:23:29</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a96f052da915511bbc3cfe9744f11894f7f1d9a)</sub> | <sub>[8a96f05](https://github.com/SimplioOfficial/simplio-app/commit/8a96f052da915511bbc3cfe9744f11894f7f1d9a) Fix missed libs - MariooW</sub> |
 | <sub>2022-08-10 20:10:48</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e60f96752e435e301be26783e73fc6c05d3f427a)</sub> | <sub>[e60f967](https://github.com/SimplioOfficial/simplio-app/commit/e60f96752e435e301be26783e73fc6c05d3f427a) saving theme as int - storkandstars</sub> |
 | <sub>2022-08-10 19:37:25</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63a38fd0a30c79c35f5f782031d4ba66c04fc64e)</sub> | <sub>[63a38fd](https://github.com/SimplioOfficial/simplio-app/commit/63a38fd0a30c79c35f5f782031d4ba66c04fc64e) removing unused param - storkandstars</sub> |
