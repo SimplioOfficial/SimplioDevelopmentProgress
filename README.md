@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2784 commits since 10/09/2021. You can see the complete history in
+There is a total of 2785 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-10 10:15:05</sub> | <sub>[[backend-bitcoin-wallet-lib:master] 23 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/0f695a2514ca...1e9e6b423e7d)</sub> | <sub>[f36f27d](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/f36f27d3424eee71868c6f60f447c2f0f93693b4) feat: add bitcore lib - PitTxid<br>[2627655](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/2627655b0f24574a8af67a0bda77cbb09e67772a) feat: add trust wallet core - PitTxid<br>[802f45f](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/802f45fed7e62ec78449326b7ddca42cd96892de) feat: get address - PitTxid<br>[9564251](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/95642512bbf7a30f5d25d5127e3845452b209c83) feat: add workflow test - PitTxid<br>[893f8ca](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/893f8ca923caa31f8cee4d06c6f420a2bef25fd8) Merge pull request #9 from SimplioOfficial/2-ge... - PitTxid</sub> |
 | <sub>2022-08-10 09:24:37</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43bdcedf9938cd77868b7eb5c018326763869ce9)</sub> | <sub>[43bdced](https://github.com/SimplioOfficial/simplio-app/commit/43bdcedf9938cd77868b7eb5c018326763869ce9) Extending build timeout #1 - MariooW</sub> |
 | <sub>2022-08-10 09:00:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618)</sub> | <sub>[08a4566](https://github.com/SimplioOfficial/simplio-app/commit/08a456666974348bdbad502dcc584b5dd1914618) Extending build timeout - MariooW</sub> |
 | <sub>2022-08-10 08:41:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f773057a492b...f11ceb78b697)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2784 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-10 04:47:35</sub> | <sub>[[backend-bitcoin-wallet-lib:6\-create\-unit\-test\-for\-generating\-address\-and\-transactions] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/794781ad331b...e7334652a326)</sub> | <sub>[399513a](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/399513a3b58850d61beae255d04d3efa9d0ed298) feat: add test for btc - PitTxid<br>[e733465](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e7334652a326a0a4da6aca0f008dc89db8e4a5f2) feat: test btc transaction successfully - PitTxid</sub> |
 | <sub>2022-08-10 00:05:02</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f2ec9471daf2258ff740d8e287ff20c65cea352)</sub> | <sub>[6f2ec94](https://github.com/SimplioOfficial/simplio-app/commit/6f2ec9471daf2258ff740d8e287ff20c65cea352) Fix typo - MariooW</sub> |
 | <sub>2022-08-10 00:02:44</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be450c5986b6286e2664bdc39ab210542c6b4ab4)</sub> | <sub>[be450c5](https://github.com/SimplioOfficial/simplio-app/commit/be450c5986b6286e2664bdc39ab210542c6b4ab4) Fix typo - MariooW</sub> |
-| <sub>2022-08-10 00:00:17</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d420c991185533f579eb20206fcc40086cd059e)</sub> | <sub>[1d420c9](https://github.com/SimplioOfficial/simplio-app/commit/1d420c991185533f579eb20206fcc40086cd059e) Fix typo - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
