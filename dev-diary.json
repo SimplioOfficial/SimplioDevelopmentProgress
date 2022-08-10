@@ -50203,5 +50203,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a116a11122cee90f94fd209cb93d6df2f6fe53cf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 20:45:45.775000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5bda923`](https://github.com/SimplioOfficial/simplio-app/commit/5bda923abd08636b4eaca7077dbc2f85694fa6b8) unlocking account right after pin creation - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5bda923abd08636b4eaca7077dbc2f85694fa6b8"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 20:48:53",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5918aba`](https://github.com/SimplioOfficial/simplio-app/commit/5918aba9d20d2a78303a641db5a31ca7b99e8b56) Exctend timeout for Android emulator - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5918aba9d20d2a78303a641db5a31ca7b99e8b56"
+    }
   }
 ]
