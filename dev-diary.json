@@ -50025,5 +50025,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/2123399c6dd5...21576c1a2703"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 11:54:15.232000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a3a1710`](https://github.com/SimplioOfficial/sio_core_light/commit/a3a17100b648d357e2636777c7342f8e00190b35) chore: update README.md - ciripel",
+      "title": "[sio_core_light:example] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/a3a17100b648d357e2636777c7342f8e00190b35"
+    }
   }
 ]
