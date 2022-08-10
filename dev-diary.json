@@ -49900,5 +49900,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/6ab539f8be8e...38d1037cf9c1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-10 05:14:28.273000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`751b8d6`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3) feat: add generate changelog only - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/751b8d636ddbc263b6940f8f475e650f98d4e5b3"
+    }
   }
 ]
