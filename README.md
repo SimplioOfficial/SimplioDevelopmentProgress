@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2812 commits since 10/09/2021. You can see the complete history in
+There is a total of 2813 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-11 22:18:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c7df5ec337c96623471190173c3bbfdd56f0e26)</sub> | <sub>[0c7df5e](https://github.com/SimplioOfficial/simplio-app/commit/0c7df5ec337c96623471190173c3bbfdd56f0e26) Reformat file - MariooW</sub> |
 | <sub>2022-08-11 22:13:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623)</sub> | <sub>[42279bf](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623) Fixing unit tests - MariooW</sub> |
 | <sub>2022-08-11 21:54:23</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0)</sub> | <sub>[a4a72d8](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0) Reformat config files - MariooW</sub> |
 | <sub>2022-08-11 2</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d)</sub> | <sub>[a0ba28a](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d) FIX unit tests path - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 2812 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-11 13:58:19</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 18 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dd5f0574fee9...6a7807209a11)</sub> | <sub>[d529d49](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW<br>[3f2504f](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6) Task/108 - Refactor app initialization (#120) - jvrastil<br>[9811bb1](https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f) Task/109 secure pin functionality (#121) - storkandstars<br>[efea8d7](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW<br>[ca7406a](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW</sub> |
 | <sub>2022-08-10 23:15:41</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8b41dca4f855bacfecbea834d40e7f9fffab9efb)</sub> | <sub>[8b41dca](https://github.com/SimplioOfficial/simplio-app/commit/8b41dca4f855bacfecbea834d40e7f9fffab9efb) Further changes in tests - MariooW</sub> |
 | <sub>2022-08-10 22:36:06</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0)</sub> | <sub>[dd5f057](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0) changing storage terminology - storkandstars</sub> |
-| <sub>2022-08-10 22:19:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c)</sub> | <sub>[a2e8eff](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c) Revert changes in feature files - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
