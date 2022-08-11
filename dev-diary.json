@@ -50419,5 +50419,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/6a7807209a11...2211413ef6a6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-11 21:45:07.434000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`19b0b39`](https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be) Moving gherkin UI tests to app_tests - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-11 21:49:37",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a0ba28a`](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d) FIX unit tests path - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d"
+    }
   }
 ]
