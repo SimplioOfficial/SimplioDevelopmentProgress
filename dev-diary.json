@@ -50401,5 +50401,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/001348aec299...e9edb86b8cee"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-11 15:52:07.111000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`dd85e6a`](https://github.com/SimplioOfficial/simplio-app/commit/dd85e6ab04ed7bbdcb529abedbeb7d81009f7a94) unfolding tests - storkandstars\n[`12f58fe`](https://github.com/SimplioOfficial/simplio-app/commit/12f58fede34a720309b4ecb36056f4e0e8f6f7b7) replacing LockableSecret with LockableString - storkandstars\n[`6e0e85b`](https://github.com/SimplioOfficial/simplio-app/commit/6e0e85bc8194546c0f74bbb505e15da8b473702b) adding tests - storkandstars\n[`2211413`](https://github.com/SimplioOfficial/simplio-app/commit/2211413ef6a63c17edf9db51236a77902d17b63c) increasing version number - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/6a7807209a11...2211413ef6a6"
+    }
   }
 ]
