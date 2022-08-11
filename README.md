@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2810 commits since 10/09/2021. You can see the complete history in
+There is a total of 2811 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-11 21:54:23</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0)</sub> | <sub>[a4a72d8](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0) Reformat config files - MariooW</sub> |
 | <sub>2022-08-11 2</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d)</sub> | <sub>[a0ba28a](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d) FIX unit tests path - MariooW</sub> |
 | <sub>2022-08-11 21:45:07</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be)</sub> | <sub>[19b0b39](https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be) Moving gherkin UI tests to app_tests - MariooW</sub> |
 | <sub>2022-08-11 15:52:07</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6a7807209a11...2211413ef6a6)</sub> | <sub>[dd85e6a](https://github.com/SimplioOfficial/simplio-app/commit/dd85e6ab04ed7bbdcb529abedbeb7d81009f7a94) unfolding tests - storkandstars<br>[12f58fe](https://github.com/SimplioOfficial/simplio-app/commit/12f58fede34a720309b4ecb36056f4e0e8f6f7b7) replacing LockableSecret with LockableString - storkandstars<br>[6e0e85b](https://github.com/SimplioOfficial/simplio-app/commit/6e0e85bc8194546c0f74bbb505e15da8b473702b) adding tests - storkandstars<br>[2211413](https://github.com/SimplioOfficial/simplio-app/commit/2211413ef6a63c17edf9db51236a77902d17b63c) increasing version number - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2810 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-10 22:36:06</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0)</sub> | <sub>[dd5f057](https://github.com/SimplioOfficial/simplio-app/commit/dd5f0574fee98ebf0809ce09ec248c3a8d334bd0) changing storage terminology - storkandstars</sub> |
 | <sub>2022-08-10 22:19:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c)</sub> | <sub>[a2e8eff](https://github.com/SimplioOfficial/simplio-app/commit/a2e8effd8a277b522ab71ffc3dd598b413d5756c) Revert changes in feature files - MariooW</sub> |
 | <sub>2022-08-10 21:58:51</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9e6a9214602a9890bfa1659042a0133f3730665c)</sub> | <sub>[9e6a921](https://github.com/SimplioOfficial/simplio-app/commit/9e6a9214602a9890bfa1659042a0133f3730665c) fixing updating theme and locale - storkandstars</sub> |
-| <sub>2022-08-10 21:54:51</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/396683c8d30b6ee752136f1846e0d385f43a8d83)</sub> | <sub>[396683c](https://github.com/SimplioOfficial/simplio-app/commit/396683c8d30b6ee752136f1846e0d385f43a8d83) Reformat files - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
