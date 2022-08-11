@@ -50365,5 +50365,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8b41dca4f855bacfecbea834d40e7f9fffab9efb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-11 13:58:19.656000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d529d49`](https://github.com/SimplioOfficial/simplio-app/commit/d529d4983908adcad411c4ead03189c7b378d794) Test/fix source branch in build workflows (#124) - MariooW\n[`3f2504f`](https://github.com/SimplioOfficial/simplio-app/commit/3f2504fb6f805c747ceb88df501dbadce283e6c6) Task/108 - Refactor app initialization (#120) - jvrastil\n[`9811bb1`](https://github.com/SimplioOfficial/simplio-app/commit/9811bb12e0175fae7bcb961f717f10fed246e46f) Task/109 secure pin functionality (#121) - storkandstars\n[`efea8d7`](https://github.com/SimplioOfficial/simplio-app/commit/efea8d7f9cb1953b668842815f30cfdf21238f7f) Changes scope of emulators on which execute tes... - MariooW\n[`ca7406a`](https://github.com/SimplioOfficial/simplio-app/commit/ca7406a23c81d63a16b816125e95158ed94b7ce9) Change source of test - MariooW",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 18 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dd5f0574fee9...6a7807209a11"
+    }
   }
 ]
