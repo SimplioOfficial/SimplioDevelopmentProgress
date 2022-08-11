@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-11 22:13:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623)</sub> | <sub>[42279bf](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623) Fixing unit tests - MariooW</sub> |
 | <sub>2022-08-11 21:54:23</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0)</sub> | <sub>[a4a72d8](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0) Reformat config files - MariooW</sub> |
 | <sub>2022-08-11 2</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d)</sub> | <sub>[a0ba28a](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d) FIX unit tests path - MariooW</sub> |
 | <sub>2022-08-11 21:45:07</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be)</sub> | <sub>[19b0b39](https://github.com/SimplioOfficial/simplio-app/commit/19b0b3972fe788f73cd5871e854b48913dada6be) Moving gherkin UI tests to app_tests - MariooW</sub> |
