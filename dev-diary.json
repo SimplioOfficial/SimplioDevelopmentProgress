@@ -50383,5 +50383,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/dd5f0574fee9...6a7807209a11"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-11 14:25:17.079000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b2e1092`](https://github.com/SimplioOfficial/simplio-app/commit/b2e109247d19d166b4a2814ad6d932bfb5151ed0) subtask: implement balance service - ciripel\n[`3da978c`](https://github.com/SimplioOfficial/simplio-app/commit/3da978ca0572810e9af1d847c0803c07821b1864) subtask: implement broadcast service - ciripel\n[`e9edb86`](https://github.com/SimplioOfficial/simplio-app/commit/e9edb86b8cee1280d6333d61b277ad4862f51a97) subtask: implement transaction history service - ciripel",
+      "title": "[simplio-app:task/127\\-register\\-blockchain\\-endpoints] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/001348aec299...e9edb86b8cee"
+    }
   }
 ]
