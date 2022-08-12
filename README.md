@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2823 commits since 10/09/2021. You can see the complete history in
+There is a total of 2824 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-12 20:18:05</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/050d4a0b70df5cced1ef820d92f0183a643d92c2)</sub> | <sub>[050d4a0](https://github.com/SimplioOfficial/simplio-app/commit/050d4a0b70df5cced1ef820d92f0183a643d92c2) review - renaming named constructors - storkandstars</sub> |
 | <sub>2022-08-12 20:03:54</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9681d8c233b92c1b6294ceeabcfc2c2ca9f5fc6f)</sub> | <sub>[9681d8c](https://github.com/SimplioOfficial/simplio-app/commit/9681d8c233b92c1b6294ceeabcfc2c2ca9f5fc6f) review - adding global error color - storkandstars</sub> |
 | <sub>2022-08-12 20:01:56</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83373da74b02c12dad927705d72adadfece146f1)</sub> | <sub>[83373da](https://github.com/SimplioOfficial/simplio-app/commit/83373da74b02c12dad927705d72adadfece146f1) review - removing comment - storkandstars</sub> |
 | <sub>2022-08-12 20:00:36</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6a1f8e00c42b926e4ac43e68e7029bd5a0f360f)</sub> | <sub>[f6a1f8e](https://github.com/SimplioOfficial/simplio-app/commit/f6a1f8e00c42b926e4ac43e68e7029bd5a0f360f) review - adding common padding - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2823 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-12 04:37:21</sub> | <sub>[[backend-bsc-wallet-lib:development] 3 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/ffaa7b86841c...8df9f37d0773)</sub> | <sub>[aa59f23](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/aa59f2353e89f76356a14f7e66ca90aa117946cd) feat: fix release flow - PitTxid<br>[bb30989](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/bb3098949c4b04751950fe9c1c3e86cbe1c70bff) chore(release): 1.3.0 - PitTxid<br>[8df9f37](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8df9f37d077340ef1bc453e327bf2275840c456a) Merge pull request #17 from SimplioOfficial/fix... - PitTxid</sub> |
 | <sub>2022-08-12 04:37:00</sub> | <sub>[[backend-bsc-wallet-lib:fix\-release\-package] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/aa59f2353e89^...bb3098949c4b)</sub> | <sub>[aa59f23](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/aa59f2353e89f76356a14f7e66ca90aa117946cd) feat: fix release flow - PitTxid<br>[bb30989](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/bb3098949c4b04751950fe9c1c3e86cbe1c70bff) chore(release): 1.3.0 - PitTxid</sub> |
 | <sub>2022-08-11 23:27:33</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7cbce7e4c2681a48f892d9214775e5e7c08bac73)</sub> | <sub>[7cbce7e](https://github.com/SimplioOfficial/simplio-app/commit/7cbce7e4c2681a48f892d9214775e5e7c08bac73) Reformat files - MariooW</sub> |
-| <sub>2022-08-11 22:41:22</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8f5e77ecde65c05ed7c4112567c6d7d0a9affdd7)</sub> | <sub>[8f5e77e](https://github.com/SimplioOfficial/simplio-app/commit/8f5e77ecde65c05ed7c4112567c6d7d0a9affdd7) Clean Paths - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
