@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2819 commits since 10/09/2021. You can see the complete history in
+There is a total of 2820 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-12 19:56:54</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97795b0ec18534415c10599e69f94646d83dcb36)</sub> | <sub>[97795b0](https://github.com/SimplioOfficial/simplio-app/commit/97795b0ec18534415c10599e69f94646d83dcb36) review - incorrect duration time - storkandstars</sub> |
 | <sub>2022-08-12 19:50:58</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2211413ef6a6...daa29c833417)</sub> | <sub>[593afdc](https://github.com/SimplioOfficial/simplio-app/commit/593afdc2461f2a8add5b4639a5421969bcd2bdae) adding memory cache provider - storkandstars<br>[daa29c8](https://github.com/SimplioOfficial/simplio-app/commit/daa29c83341799a5bb927ec01835bff4ece6fbe4) removing cache - storkandstars</sub> |
 | <sub>2022-08-12 05:23:14</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0113bf2d9bbfc4bd8ba46153dc80d65769030da7)</sub> | <sub>[0113bf2](https://github.com/SimplioOfficial/simplio-app/commit/0113bf2d9bbfc4bd8ba46153dc80d65769030da7) Update target branch - MariooW</sub> |
 | <sub>2022-08-12 04:37:21</sub> | <sub>[[backend-bsc-wallet-lib:development] 3 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/ffaa7b86841c...8df9f37d0773)</sub> | <sub>[aa59f23](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/aa59f2353e89f76356a14f7e66ca90aa117946cd) feat: fix release flow - PitTxid<br>[bb30989](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/bb3098949c4b04751950fe9c1c3e86cbe1c70bff) chore(release): 1.3.0 - PitTxid<br>[8df9f37](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/8df9f37d077340ef1bc453e327bf2275840c456a) Merge pull request #17 from SimplioOfficial/fix... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2819 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-11 22:18:32</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c7df5ec337c96623471190173c3bbfdd56f0e26)</sub> | <sub>[0c7df5e](https://github.com/SimplioOfficial/simplio-app/commit/0c7df5ec337c96623471190173c3bbfdd56f0e26) Reformat file - MariooW</sub> |
 | <sub>2022-08-11 22:13:45</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623)</sub> | <sub>[42279bf](https://github.com/SimplioOfficial/simplio-app/commit/42279bfdbc5cb70fa23e04976a83f78594e33623) Fixing unit tests - MariooW</sub> |
 | <sub>2022-08-11 21:54:23</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0)</sub> | <sub>[a4a72d8](https://github.com/SimplioOfficial/simplio-app/commit/a4a72d8fb03a75c9e71931d01a9624a1add5d6f0) Reformat config files - MariooW</sub> |
-| <sub>2022-08-11 2</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d)</sub> | <sub>[a0ba28a](https://github.com/SimplioOfficial/simplio-app/commit/a0ba28ac6903fec8a5d2816fe895fabf0cbd8b5d) FIX unit tests path - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
