@@ -50635,5 +50635,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/97795b0ec18534415c10599e69f94646d83dcb36"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-12 20:00:36.929000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f6a1f8e`](https://github.com/SimplioOfficial/simplio-app/commit/f6a1f8e00c42b926e4ac43e68e7029bd5a0f360f) review - adding common padding - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f6a1f8e00c42b926e4ac43e68e7029bd5a0f360f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-12 20:01:56.768000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`83373da`](https://github.com/SimplioOfficial/simplio-app/commit/83373da74b02c12dad927705d72adadfece146f1) review - removing comment - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/83373da74b02c12dad927705d72adadfece146f1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-12 20:03:54.884000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9681d8c`](https://github.com/SimplioOfficial/simplio-app/commit/9681d8c233b92c1b6294ceeabcfc2c2ca9f5fc6f) review - adding global error color - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9681d8c233b92c1b6294ceeabcfc2c2ca9f5fc6f"
+    }
   }
 ]
