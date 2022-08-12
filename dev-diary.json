@@ -50599,5 +50599,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0113bf2d9bbfc4bd8ba46153dc80d65769030da7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-12 19:50:58.301000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`593afdc`](https://github.com/SimplioOfficial/simplio-app/commit/593afdc2461f2a8add5b4639a5421969bcd2bdae) adding memory cache provider - storkandstars\n[`daa29c8`](https://github.com/SimplioOfficial/simplio-app/commit/daa29c83341799a5bb927ec01835bff4ece6fbe4) removing cache - storkandstars",
+      "title": "[simplio-app:task/116\\-create\\-utxo\\-wallet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2211413ef6a6...daa29c833417"
+    }
   }
 ]
