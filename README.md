@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2835 commits since 10/09/2021. You can see the complete history in
+There is a total of 2836 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-13 13:36:52</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b52d60eff530ac1f0a3adb0d7428dba4fa22d518)</sub> | <sub>[b52d60e](https://github.com/SimplioOfficial/simplio-app/commit/b52d60eff530ac1f0a3adb0d7428dba4fa22d518) adding specific test branch for all pushes - storkandstars</sub> |
 | <sub>2022-08-13 13:27:56</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48d67de5c38772efdd99185dd546d2df36d0cd85)</sub> | <sub>[48d67de](https://github.com/SimplioOfficial/simplio-app/commit/48d67de5c38772efdd99185dd546d2df36d0cd85) adding specific test branch on push - storkandstars</sub> |
 | <sub>2022-08-13 13:17:17</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e86e66358f8157a03618079ce3ed78c2bd029f56)</sub> | <sub>[e86e663](https://github.com/SimplioOfficial/simplio-app/commit/e86e66358f8157a03618079ce3ed78c2bd029f56) specifying branch for running test - storkandstars</sub> |
 | <sub>2022-08-13 12:59:33</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ff07c641c96f841a99da6d2dd0cb4b5d4c8cf7f)</sub> | <sub>[9ff07c6](https://github.com/SimplioOfficial/simplio-app/commit/9ff07c641c96f841a99da6d2dd0cb4b5d4c8cf7f) adding variable of branch reference - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2835 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-12 23:57:18</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4af381f2c3be1415aa66c237343d1158250de12)</sub> | <sub>[a4af381](https://github.com/SimplioOfficial/simplio-app/commit/a4af381f2c3be1415aa66c237343d1158250de12) Remove spaces and additional lines - MariooW</sub> |
 | <sub>2022-08-12 21:20:17</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcbe27caa34d1d5445f7f932aa14a22dd1d8452b)</sub> | <sub>[bcbe27c](https://github.com/SimplioOfficial/simplio-app/commit/bcbe27caa34d1d5445f7f932aa14a22dd1d8452b) adding authenticating state - storkandstars</sub> |
 | <sub>2022-08-12 20:45:10</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2d3bca87823c4b654aa9f7294286ec7be009449)</sub> | <sub>[a2d3bca](https://github.com/SimplioOfficial/simplio-app/commit/a2d3bca87823c4b654aa9f7294286ec7be009449) removing duplicated auth provider - storkandstars</sub> |
-| <sub>2022-08-12 20:34:12</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91a93fae236157dc9c298a98a67eab3dbaebdb9a)</sub> | <sub>[91a93fa](https://github.com/SimplioOfficial/simplio-app/commit/91a93fae236157dc9c298a98a67eab3dbaebdb9a) review - removing unused widget - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
