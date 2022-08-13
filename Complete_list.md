@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-13 09:38:28</sub> | <sub>[[simplio-app:pokus] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2212da0b94bc124793e1d8c5dd2d09027492ed46)</sub> | <sub>[2212da0](https://github.com/SimplioOfficial/simplio-app/commit/2212da0b94bc124793e1d8c5dd2d09027492ed46) test fix - jvrastil</sub> |
 | <sub>2022-08-12 23:57:18</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4af381f2c3be1415aa66c237343d1158250de12)</sub> | <sub>[a4af381](https://github.com/SimplioOfficial/simplio-app/commit/a4af381f2c3be1415aa66c237343d1158250de12) Remove spaces and additional lines - MariooW</sub> |
 | <sub>2022-08-12 21:20:17</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcbe27caa34d1d5445f7f932aa14a22dd1d8452b)</sub> | <sub>[bcbe27c](https://github.com/SimplioOfficial/simplio-app/commit/bcbe27caa34d1d5445f7f932aa14a22dd1d8452b) adding authenticating state - storkandstars</sub> |
 | <sub>2022-08-12 20:45:10</sub> | <sub>[[simplio-app:task/116\-create\-utxo\-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2d3bca87823c4b654aa9f7294286ec7be009449)</sub> | <sub>[a2d3bca](https://github.com/SimplioOfficial/simplio-app/commit/a2d3bca87823c4b654aa9f7294286ec7be009449) removing duplicated auth provider - storkandstars</sub> |
