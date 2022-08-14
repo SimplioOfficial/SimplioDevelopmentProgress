@@ -50941,5 +50941,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/935974cf1653e1ce58d4700fce27067dcc6de02b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-14 22:17:56.412000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`0602602`](https://github.com/SimplioOfficial/simplio-app/commit/0602602096bcef00213dbb63b070c94fa1898aa8) Removing flutter pub get #2 - MariooW",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0602602096bcef00213dbb63b070c94fa1898aa8"
+    }
   }
 ]
