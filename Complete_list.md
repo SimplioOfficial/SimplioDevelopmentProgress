@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-15 14:01:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/618c6b56ef6b...27d648b74463)</sub> |
+| <sub>2022-08-15 14:00:15</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f11ceb78b697...618c6b56ef6b)</sub> |
 | <sub>2022-08-15 08:48:30</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08)</sub> | <sub>[1363591](https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08) Fix after code review - jvrastil</sub> |
 | <sub>2022-08-15 08:40:09</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29e75a7fcf28f9844b511c879b737a29e9126797)</sub> | <sub>[29e75a7](https://github.com/SimplioOfficial/simplio-app/commit/29e75a7fcf28f9844b511c879b737a29e9126797) wip (#131) - jvrastil</sub> |
 | <sub>2022-08-15 08:10:38</sub> | <sub>[[simplio-app:test/2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fcee95f0978f38bf3cd68b1f8c1af6124bccea2d)</sub> | <sub>[fcee95f](https://github.com/SimplioOfficial/simplio-app/commit/fcee95f0978f38bf3cd68b1f8c1af6124bccea2d) fix - jvrastil</sub> |
