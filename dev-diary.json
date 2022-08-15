@@ -51049,5 +51049,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/29e75a7fcf28f9844b511c879b737a29e9126797"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-15 08:48:30.293000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1363591`](https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08) Fix after code review - jvrastil",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08"
+    }
   }
 ]

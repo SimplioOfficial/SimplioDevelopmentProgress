@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-15 08:48:30</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08)</sub> | <sub>[1363591](https://github.com/SimplioOfficial/simplio-app/commit/136359189a65303db21c6c3ca517673761014a08) Fix after code review - jvrastil</sub> |
 | <sub>2022-08-15 08:40:09</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29e75a7fcf28f9844b511c879b737a29e9126797)</sub> | <sub>[29e75a7](https://github.com/SimplioOfficial/simplio-app/commit/29e75a7fcf28f9844b511c879b737a29e9126797) wip (#131) - jvrastil</sub> |
 | <sub>2022-08-15 08:10:38</sub> | <sub>[[simplio-app:test/2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fcee95f0978f38bf3cd68b1f8c1af6124bccea2d)</sub> | <sub>[fcee95f](https://github.com/SimplioOfficial/simplio-app/commit/fcee95f0978f38bf3cd68b1f8c1af6124bccea2d) fix - jvrastil</sub> |
 | <sub>2022-08-15 08:06:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f)</sub> | <sub>[a396697](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars</sub> |
