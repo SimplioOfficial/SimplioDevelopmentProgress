@@ -50995,5 +50995,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/638f043c2847fdbdcddc06c016e8d3aff2f5bc24"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-15 08:06:23.322000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a396697`](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f"
+    }
   }
 ]

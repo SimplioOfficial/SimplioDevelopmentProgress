@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-15 08:06:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f)</sub> | <sub>[a396697](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars</sub> |
 | <sub>2022-08-15 07:42:33</sub> | <sub>[[simplio-app:test/2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/638f043c2847fdbdcddc06c016e8d3aff2f5bc24)</sub> | <sub>[638f043](https://github.com/SimplioOfficial/simplio-app/commit/638f043c2847fdbdcddc06c016e8d3aff2f5bc24) wip - jvrastil</sub> |
 | <sub>2022-08-14 23:03:43</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3480c5361625d76b4a9289c8a0ca7e4f14168f5)</sub> | <sub>[a3480c5](https://github.com/SimplioOfficial/simplio-app/commit/a3480c5361625d76b4a9289c8a0ca7e4f14168f5) revert flutter pub get #2 - MariooW</sub> |
 | <sub>2022-08-14 22:17:56</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0602602096bcef00213dbb63b070c94fa1898aa8)</sub> | <sub>[0602602](https://github.com/SimplioOfficial/simplio-app/commit/0602602096bcef00213dbb63b070c94fa1898aa8) Removing flutter pub get #2 - MariooW</sub> |
