@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2856 commits since 10/09/2021. You can see the complete history in
+There is a total of 2858 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-16 16:20:56</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/751b8d636ddb...0ed3d636c21d)</sub> | <sub>[90f7fcd](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d) feat: get address for bitcoin - PitTxid<br>[0ed3d63](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ed3d636c21d10bcf0270582bf6b29b1657574a4) Merge pull request #17 from SimplioOfficial/bit... - PitTxid</sub> |
+| <sub>2022-08-16 16:20:22</sub> | <sub>[[backend-bitcoin-wallet-lib:bitcore\-lib\-get\-address] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d)</sub> | <sub>[90f7fcd](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d) feat: get address for bitcoin - PitTxid</sub> |
 | <sub>2022-08-16 13:49:17</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a)</sub> | <sub>[e4342d8](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a) 1. Fixed daaps to dapps, - Tomáš Petrík</sub> |
 | <sub>2022-08-16 12:39:16</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43914939ca6fa1e1c99e3a5bf5ca2a1bb3259c96)</sub> | <sub>[4391493](https://github.com/SimplioOfficial/simplio-app/commit/43914939ca6fa1e1c99e3a5bf5ca2a1bb3259c96) Task/127 register blockchain endpoints (#140) - ciripel</sub> |
 | <sub>2022-08-16 12:26:11</sub> | <sub>[[simplio-app:task/127\-register\-blockchain\-endpoints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/13fa6ef37b12699c19ac6062eca227804db728f9)</sub> | <sub>[13fa6ef](https://github.com/SimplioOfficial/simplio-app/commit/13fa6ef37b12699c19ac6062eca227804db728f9) chore: remove runlocal.sh - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 2856 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-16 10:36:17</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a)</sub> | <sub>[b344e13](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a) adding sio_core_light (#137) - storkandstars</sub> |
 | <sub>2022-08-16 09:53:13</sub> | <sub>[[simplio-app:task/134] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13)</sub> | <sub>[94134e6](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13) Completed task #134: - Tomáš Petrík</sub> |
 | <sub>2022-08-16 07:54:42</sub> | <sub>[[simplio-app:task/132\-migrate\-to\-sio\_core\_light] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6efe4f4ff1feaf406ddd9baf4996605956d96fea)</sub> | <sub>[6efe4f4](https://github.com/SimplioOfficial/simplio-app/commit/6efe4f4ff1feaf406ddd9baf4996605956d96fea) adding sio_core_light - storkandstars</sub> |
-| <sub>2022-08-15 14:23:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/06c74d85fd67...74dcda165cc1)</sub> |
-| <sub>2022-08-15 14:06:36</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/27d648b74463...06c74d85fd67)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
