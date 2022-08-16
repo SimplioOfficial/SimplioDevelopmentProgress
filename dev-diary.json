@@ -51189,5 +51189,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-16 11:59:28.894000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fee69ed`](https://github.com/SimplioOfficial/simplio-app/commit/fee69ed2a1ffe75d69535210d7f50d5086e3a994) subtask: implement blockchain utils service - ciripel",
+      "title": "[simplio-app:task/127\\-register\\-blockchain\\-endpoints] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fee69ed2a1ffe75d69535210d7f50d5086e3a994"
+    }
   }
 ]
