@@ -51153,5 +51153,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6efe4f4ff1feaf406ddd9baf4996605956d96fea"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-16 09:53:13.459000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`94134e6`](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13) Completed task #134: - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/134] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13"
+    }
   }
 ]
