@@ -51207,5 +51207,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fee69ed2a1ffe75d69535210d7f50d5086e3a994"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-16 12:14:18.198000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a396697`](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars\n[`b344e13`](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a) adding sio_core_light (#137) - storkandstars\n[`89a91a5`](https://github.com/SimplioOfficial/simplio-app/commit/89a91a5a21174ddae567ec97e16c1fd4847420c7) Merge branch 'master' into task/127-register-bl... - ciripel",
+      "title": "[simplio-app:task/127\\-register\\-blockchain\\-endpoints] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/fee69ed2a1ff...89a91a5a2117"
+    }
   }
 ]
