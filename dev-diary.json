@@ -51225,5 +51225,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/fee69ed2a1ff...89a91a5a2117"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-16 12:26:11.397000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`13fa6ef`](https://github.com/SimplioOfficial/simplio-app/commit/13fa6ef37b12699c19ac6062eca227804db728f9) chore: remove runlocal.sh - ciripel",
+      "title": "[simplio-app:task/127\\-register\\-blockchain\\-endpoints] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/13fa6ef37b12699c19ac6062eca227804db728f9"
+    }
   }
 ]
