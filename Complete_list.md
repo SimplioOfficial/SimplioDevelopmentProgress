@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-16 07:54:42</sub> | <sub>[[simplio-app:task/132\-migrate\-to\-sio\_core\_light] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6efe4f4ff1feaf406ddd9baf4996605956d96fea)</sub> | <sub>[6efe4f4](https://github.com/SimplioOfficial/simplio-app/commit/6efe4f4ff1feaf406ddd9baf4996605956d96fea) adding sio_core_light - storkandstars</sub> |
 | <sub>2022-08-15 14:23:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/06c74d85fd67...74dcda165cc1)</sub> |
 | <sub>2022-08-15 14:06:36</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/27d648b74463...06c74d85fd67)</sub> |
 | <sub>2022-08-15 14:01:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/618c6b56ef6b...27d648b74463)</sub> |
