@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2873 commits since 10/09/2021. You can see the complete history in
+There is a total of 2874 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-17 14:34:08</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a5771d9d9522c88a37ec683c2bbdc9d2450fa93f)</sub> | <sub>[a5771d9](https://github.com/SimplioOfficial/simplio-app/commit/a5771d9d9522c88a37ec683c2bbdc9d2450fa93f) build fix - jvrastil</sub> |
 | <sub>2022-08-17 14:26:08</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c7d73b3521eb6503eb8f387be5019f806ebdf47a)</sub> | <sub>[c7d73b3](https://github.com/SimplioOfficial/simplio-app/commit/c7d73b3521eb6503eb8f387be5019f806ebdf47a) changes after code review 2 - jvrastil</sub> |
 | <sub>2022-08-17 13:34:41</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d8bb8ee13406a2a467e92e6b76b72225a0ef6be8)</sub> | <sub>[d8bb8ee](https://github.com/SimplioOfficial/simplio-app/commit/d8bb8ee13406a2a467e92e6b76b72225a0ef6be8) subtask: implement utxo tx type - ciripel</sub> |
 | <sub>2022-08-17 12:52:02</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ace783e3e5c80153a29743e2760c78cbbc3354d3)</sub> | <sub>[ace783e](https://github.com/SimplioOfficial/simplio-app/commit/ace783e3e5c80153a29743e2760c78cbbc3354d3) subtask: implement ethereum EIP1559 tx types - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2873 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-17 11:01:58</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f)</sub> | <sub>[428802c](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f) Subtask/2 expose transaction object (#3) - ciripel</sub> |
 | <sub>2022-08-17 10:56:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/275709dd9972...aa74d2e69b05)</sub> |
 | <sub>2022-08-17 10:50:20</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037)</sub> | <sub>[275709d](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037) Changes after code review - jvrastil</sub> |
-| <sub>2022-08-17 08:54:10</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b)</sub> | <sub>[01728b2](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b) Renamed another files containing name tap bar t... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
