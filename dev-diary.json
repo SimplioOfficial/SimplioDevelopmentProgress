@@ -51387,5 +51387,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/2123399c6dd5...360d72146197"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 08:53:02.563000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`584c5dc`](https://github.com/SimplioOfficial/sio_core_light/commit/584c5dc82aefaca3e8981a344a364f5f31488c97) Example (#1) - ciripel\n[`83997d3`](https://github.com/SimplioOfficial/sio_core_light/commit/83997d3bb32eba8ab195483aef5eb0094e2841d7) Merge branch 'master' into subtask/2-expose-tra... - ciripel",
+      "title": "[sio_core_light:subtask/2\\-expose\\-transaction\\-object] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/360d72146197...83997d3bb32e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 08:54:10.204000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`01728b2`](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b) Renamed another files containing name tap bar t... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/134\\-tapbar\\-with\\-updated\\-ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b"
+    }
   }
 ]
