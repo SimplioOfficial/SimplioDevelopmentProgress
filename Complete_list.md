@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-17 11:01:58</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f)</sub> | <sub>[428802c](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f) Subtask/2 expose transaction object (#3) - ciripel</sub> |
 | <sub>2022-08-17 10:56:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/275709dd9972...aa74d2e69b05)</sub> |
 | <sub>2022-08-17 10:50:20</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037)</sub> | <sub>[275709d](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037) Changes after code review - jvrastil</sub> |
 | <sub>2022-08-17 08:54:10</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b)</sub> | <sub>[01728b2](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b) Renamed another files containing name tap bar t... - Tomáš Petrík</sub> |

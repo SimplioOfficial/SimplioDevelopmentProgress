@@ -51458,5 +51458,23 @@
       "title": "[simplio-app] Branch task/117\\-receive\\_coins\\_ui was force-pushed to `aa74d2e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 11:01:58.673000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`428802c`](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f) Subtask/2 expose transaction object (#3) - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f"
+    }
   }
 ]
