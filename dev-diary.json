@@ -51510,5 +51510,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/43914939ca6f...35204e7fff92"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 12:32:46.337000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`aad8de5`](https://github.com/SimplioOfficial/simplio-app/commit/aad8de5b5c5e19d054c9ab7a21c3939666260e73) chore: format and analyze fix - ciripel",
+      "title": "[simplio-app:task/119\\-sending\\-an\\-asset\\-logic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aad8de5b5c5e19d054c9ab7a21c3939666260e73"
+    }
   }
 ]
