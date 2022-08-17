@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2868 commits since 10/09/2021. You can see the complete history in
+There is a total of 2869 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-17 12:28:56</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/43914939ca6f...35204e7fff92)</sub> | <sub>[c8ef723](https://github.com/SimplioOfficial/simplio-app/commit/c8ef723995212bd5d56e2541146dcdc8bc8a430e) subtask: add network groups and coin types - ciripel<br>[6bdab13](https://github.com/SimplioOfficial/simplio-app/commit/6bdab139be53d5e4ef47204267e2618fe08b5d6b) chore: update sio_core_light & remove runlocal.sh - ciripel<br>[35204e7](https://github.com/SimplioOfficial/simplio-app/commit/35204e7fff9295a86f7e1aec23bc0e1005254419) subtask: implement ethereum legacy tx types - ciripel</sub> |
 | <sub>2022-08-17 11:08:58</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.0\.1](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.1)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-08-17 11:01:58</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f)</sub> | <sub>[428802c](https://github.com/SimplioOfficial/sio_core_light/commit/428802ca6ae80e9d75cff6b119fdb89bb7e21d0f) Subtask/2 expose transaction object (#3) - ciripel</sub> |
 | <sub>2022-08-17 10:56:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/275709dd9972...aa74d2e69b05)</sub> |
@@ -17,6 +18,5 @@ There is a total of 2868 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-17 08:48:43</sub> | <sub>[[sio_core_light:subtask/2\-expose\-transaction\-object] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/2123399c6dd5...360d72146197)</sub> | <sub>[0255220](https://github.com/SimplioOfficial/sio_core_light/commit/0255220bf9fa1b98a021a01b7f23bb13d362bb64) feat: expose Transaction class - ciripel<br>[360d721](https://github.com/SimplioOfficial/sio_core_light/commit/360d72146197b1d1414de4cbc6ed28673e358d02) chore: increase version to 0.1.1 - ciripel</sub> |
 | <sub>2022-08-17 08:48:15</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e4342d899da7...e9795c0bc0fb)</sub> | <sub>[667869e](https://github.com/SimplioOfficial/simplio-app/commit/667869e1d1ed03519eb8f5e20a496c0e48388784) Renamed anything matching with tap_bar to tab_bar. - Tomáš Petrík<br>[e9795c0](https://github.com/SimplioOfficial/simplio-app/commit/e9795c0bc0fb170710a2a4fd4ac582c944ee247a) Renamed anything matching with tap_bar to tab_bar. - Tomáš Petrík</sub> |
 | <sub>2022-08-17 03:34:17</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/0ed3d636c21d...d96da8929701)</sub> | <sub>[3080c6b](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3080c6b3e42004b50b4a686a7870e377a457491c) feat: add estimated fee - PitTxid<br>[d96da89](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/d96da892970165e04bc099a70c104ab1d848f79d) Merge pull request #18 from SimplioOfficial/est... - PitTxid</sub> |
-| <sub>2022-08-17 03:33:50</sub> | <sub>[[backend-bitcoin-wallet-lib:estimate\-fee] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3080c6b3e42004b50b4a686a7870e377a457491c)</sub> | <sub>[3080c6b](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3080c6b3e42004b50b4a686a7870e377a457491c) feat: add estimated fee - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

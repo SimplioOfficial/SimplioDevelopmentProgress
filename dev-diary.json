@@ -51492,5 +51492,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 12:28:56.188000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c8ef723`](https://github.com/SimplioOfficial/simplio-app/commit/c8ef723995212bd5d56e2541146dcdc8bc8a430e) subtask: add network groups and coin types - ciripel\n[`6bdab13`](https://github.com/SimplioOfficial/simplio-app/commit/6bdab139be53d5e4ef47204267e2618fe08b5d6b) chore: update sio_core_light & remove runlocal.sh - ciripel\n[`35204e7`](https://github.com/SimplioOfficial/simplio-app/commit/35204e7fff9295a86f7e1aec23bc0e1005254419) subtask: implement ethereum legacy tx types - ciripel",
+      "title": "[simplio-app:task/119\\-sending\\-an\\-asset\\-logic] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/43914939ca6f...35204e7fff92"
+    }
   }
 ]
