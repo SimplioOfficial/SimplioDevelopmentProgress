@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2865 commits since 10/09/2021. You can see the complete history in
+There is a total of 2866 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-17 10:56:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/275709dd9972...aa74d2e69b05)</sub> |
 | <sub>2022-08-17 10:50:20</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037)</sub> | <sub>[275709d](https://github.com/SimplioOfficial/simplio-app/commit/275709dd99723ee399e21b2b53b9424f334a4037) Changes after code review - jvrastil</sub> |
 | <sub>2022-08-17 08:54:10</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b)</sub> | <sub>[01728b2](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b) Renamed another files containing name tap bar t... - Tomáš Petrík</sub> |
 | <sub>2022-08-17 08:53:02</sub> | <sub>[[sio_core_light:subtask/2\-expose\-transaction\-object] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/360d72146197...83997d3bb32e)</sub> | <sub>[584c5dc](https://github.com/SimplioOfficial/sio_core_light/commit/584c5dc82aefaca3e8981a344a364f5f31488c97) Example (#1) - ciripel<br>[83997d3](https://github.com/SimplioOfficial/sio_core_light/commit/83997d3bb32eba8ab195483aef5eb0094e2841d7) Merge branch 'master' into subtask/2-expose-tra... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2865 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-17 03:33:50</sub> | <sub>[[backend-bitcoin-wallet-lib:estimate\-fee] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3080c6b3e42004b50b4a686a7870e377a457491c)</sub> | <sub>[3080c6b](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3080c6b3e42004b50b4a686a7870e377a457491c) feat: add estimated fee - PitTxid</sub> |
 | <sub>2022-08-16 16:20:56</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/751b8d636ddb...0ed3d636c21d)</sub> | <sub>[90f7fcd](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d) feat: get address for bitcoin - PitTxid<br>[0ed3d63](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/0ed3d636c21d10bcf0270582bf6b29b1657574a4) Merge pull request #17 from SimplioOfficial/bit... - PitTxid</sub> |
 | <sub>2022-08-16 16:20:22</sub> | <sub>[[backend-bitcoin-wallet-lib:bitcore\-lib\-get\-address] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d)</sub> | <sub>[90f7fcd](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/90f7fcdafb52947b9a81a9d11bb44dc079c4782d) feat: get address for bitcoin - PitTxid</sub> |
-| <sub>2022-08-16 13:49:17</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a)</sub> | <sub>[e4342d8](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a) 1. Fixed daaps to dapps, - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
