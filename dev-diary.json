@@ -51528,5 +51528,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/aad8de5b5c5e19d054c9ab7a21c3939666260e73"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-17 12:52:02.301000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ace783e`](https://github.com/SimplioOfficial/simplio-app/commit/ace783e3e5c80153a29743e2760c78cbbc3354d3) subtask: implement ethereum EIP1559 tx types - ciripel",
+      "title": "[simplio-app:task/119\\-sending\\-an\\-asset\\-logic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ace783e3e5c80153a29743e2760c78cbbc3354d3"
+    }
   }
 ]
