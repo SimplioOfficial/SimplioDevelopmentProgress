@@ -51726,5 +51726,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-18 09:34:26.987000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4415111`](https://github.com/SimplioOfficial/simplio-app/commit/4415111f2e3510eb302e92128f1bd6c109964651) Incremented app version to 67. - Tom\u00e1\u0161 Petr\u00edk\n[`c60078a`](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5) Incremented app version to 68 - Tom\u00e1\u0161 Petr\u00edk\n[`2d0cf8e`](https://github.com/SimplioOfficial/simplio-app/commit/2d0cf8e794beaa1155d444aa4e1cbfd6aba0bba1) Merge branch 'task/134-tapbar-with-updated-ui' ... - jvrastil",
+      "title": "[simplio-app:pokus] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/b9928ca98185...2d0cf8e794be"
+    }
   }
 ]
