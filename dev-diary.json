@@ -51600,5 +51600,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a5771d9d9522c88a37ec683c2bbdc9d2450fa93f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-18 05:49:53.963000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e73cf1d`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e73cf1d84fa3cfe5f155e84495deb5053a0e0a98) feat: add build tx code - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:build\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e73cf1d84fa3cfe5f155e84495deb5053a0e0a98"
+    }
   }
 ]
