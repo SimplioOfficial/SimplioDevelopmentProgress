@@ -51672,5 +51672,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/51eac03e6c683d0225fd50ca3bedff7ecf082b03"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-18 08:44:01.932000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b9928ca`](https://github.com/SimplioOfficial/simplio-app/commit/b9928ca98185ca76594f6fbc869825c7bf498b34) test fix - jvrastil",
+      "title": "[simplio-app:pokus] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b9928ca98185ca76594f6fbc869825c7bf498b34"
+    }
   }
 ]
