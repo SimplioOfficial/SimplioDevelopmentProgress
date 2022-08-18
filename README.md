@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2890 commits since 10/09/2021. You can see the complete history in
+There is a total of 2891 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-18 19:54:36</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5)</sub> | <sub>[099f2f9](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5) Changed run-tests for task/134-tapbar-with-upda... - Tomáš Petrík</sub> |
 | <sub>2022-08-18 10:52:48</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9)</sub> | <sub>[3073f76](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:46:03</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6)</sub> | <sub>[f44bfba](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:40:39</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a)</sub> | <sub>[f45ad20](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a) pokus - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2890 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-18 10:16:33</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551)</sub> | <sub>[1e9ef35](https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551) fix 'flutter analyze' - jvrastil</sub> |
 | <sub>2022-08-18 09:56:11</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b9bdbd1fc86915e73ddfb184f30f82de28f8436)</sub> | <sub>[1b9bdbd](https://github.com/SimplioOfficial/simplio-app/commit/1b9bdbd1fc86915e73ddfb184f30f82de28f8436) test fix (#142) - jvrastil</sub> |
 | <sub>2022-08-18 09:34:26</sub> | <sub>[[simplio-app:pokus] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b9928ca98185...2d0cf8e794be)</sub> | <sub>[4415111](https://github.com/SimplioOfficial/simplio-app/commit/4415111f2e3510eb302e92128f1bd6c109964651) Incremented app version to 67. - Tomáš Petrík<br>[c60078a](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5) Incremented app version to 68 - Tomáš Petrík<br>[2d0cf8e](https://github.com/SimplioOfficial/simplio-app/commit/2d0cf8e794beaa1155d444aa4e1cbfd6aba0bba1) Merge branch 'task/134-tapbar-with-updated-ui' ... - jvrastil</sub> |
-| <sub>2022-08-18 09:27:57</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5)</sub> | <sub>[c60078a](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5) Incremented app version to 68 - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
