@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-18 10:46:03</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6)</sub> | <sub>[f44bfba](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:40:39</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a)</sub> | <sub>[f45ad20](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:36:27</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef806574e0d54144e7ed419b008fa96ce17e8a9)</sub> | <sub>[bef8065](https://github.com/SimplioOfficial/simplio-app/commit/bef806574e0d54144e7ed419b008fa96ce17e8a9) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:27:22</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab3f20b040e06020b8dfe747dbd491b6aacd402b)</sub> | <sub>[ab3f20b](https://github.com/SimplioOfficial/simplio-app/commit/ab3f20b040e06020b8dfe747dbd491b6aacd402b) fix 'flutter analyze' - jvrastil</sub> |
