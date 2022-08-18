@@ -51762,5 +51762,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1b9bdbd1fc86915e73ddfb184f30f82de28f8436"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-18 10:16:33.327000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1e9ef35`](https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551) fix 'flutter analyze' - jvrastil",
+      "title": "[simplio-app:task/134\\-tapbar\\-with\\-updated\\-ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551"
+    }
   }
 ]

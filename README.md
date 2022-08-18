@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2883 commits since 10/09/2021. You can see the complete history in
+There is a total of 2884 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-18 10:16:33</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551)</sub> | <sub>[1e9ef35](https://github.com/SimplioOfficial/simplio-app/commit/1e9ef35d8887efeea0ee7f3f722210d73f52c551) fix 'flutter analyze' - jvrastil</sub> |
 | <sub>2022-08-18 09:56:11</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b9bdbd1fc86915e73ddfb184f30f82de28f8436)</sub> | <sub>[1b9bdbd](https://github.com/SimplioOfficial/simplio-app/commit/1b9bdbd1fc86915e73ddfb184f30f82de28f8436) test fix (#142) - jvrastil</sub> |
 | <sub>2022-08-18 09:34:26</sub> | <sub>[[simplio-app:pokus] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b9928ca98185...2d0cf8e794be)</sub> | <sub>[4415111](https://github.com/SimplioOfficial/simplio-app/commit/4415111f2e3510eb302e92128f1bd6c109964651) Incremented app version to 67. - Tomáš Petrík<br>[c60078a](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5) Incremented app version to 68 - Tomáš Petrík<br>[2d0cf8e](https://github.com/SimplioOfficial/simplio-app/commit/2d0cf8e794beaa1155d444aa4e1cbfd6aba0bba1) Merge branch 'task/134-tapbar-with-updated-ui' ... - jvrastil</sub> |
 | <sub>2022-08-18 09:27:57</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5)</sub> | <sub>[c60078a](https://github.com/SimplioOfficial/simplio-app/commit/c60078afc237518255edb74046b06ac733f225d5) Incremented app version to 68 - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 2883 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-18 07:51:19</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8367cfe140f5ec09efa22a54999b2bad071dec4d)</sub> | <sub>[8367cfe](https://github.com/SimplioOfficial/simplio-app/commit/8367cfe140f5ec09efa22a54999b2bad071dec4d) Changed run-tests for task/134-tapbar-with-upda... - Tomáš Petrík</sub> |
 | <sub>2022-08-18 05:50:15</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/d96da8929701...b42902cf76c2)</sub> | <sub>[e73cf1d](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e73cf1d84fa3cfe5f155e84495deb5053a0e0a98) feat: add build tx code - PitTxid<br>[b42902c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/b42902cf76c288c53cbebbedd755b4d0db6d5d12) Merge pull request #19 from SimplioOfficial/bui... - PitTxid</sub> |
 | <sub>2022-08-18 05:49:53</sub> | <sub>[[backend-bitcoin-wallet-lib:build\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e73cf1d84fa3cfe5f155e84495deb5053a0e0a98)</sub> | <sub>[e73cf1d](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e73cf1d84fa3cfe5f155e84495deb5053a0e0a98) feat: add build tx code - PitTxid</sub> |
-| <sub>2022-08-17 14:34:08</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a5771d9d9522c88a37ec683c2bbdc9d2450fa93f)</sub> | <sub>[a5771d9](https://github.com/SimplioOfficial/simplio-app/commit/a5771d9d9522c88a37ec683c2bbdc9d2450fa93f) build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
