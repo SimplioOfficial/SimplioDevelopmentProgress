@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2903 commits since 10/09/2021. You can see the complete history in
+There is a total of 2904 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-19 08:27:35</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba)</sub> | <sub>[c95f0b9](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba) Fix master build - jvrastil</sub> |
 | <sub>2022-08-19 08:12:26</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d)</sub> | <sub>[eeca31d](https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d) Removed unused attributes from NavigationTabBar. - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:08:33</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bbb8322c59184a3373d3eab6cc4639398db0839f)</sub> | <sub>[bbb8322](https://github.com/SimplioOfficial/simplio-app/commit/bbb8322c59184a3373d3eab6cc4639398db0839f) Completed task 133-invertory-tab-view with: - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:02:50</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a1b99a173dd435bc6b3eb36926ea4ca7aa36234)</sub> | <sub>[1a1b99a](https://github.com/SimplioOfficial/simplio-app/commit/1a1b99a173dd435bc6b3eb36926ea4ca7aa36234) chore: just a test - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2903 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-19 07:08:56</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af)</sub> | <sub>[36e9d3e](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af) Fix actions/checkout - jvrastil</sub> |
 | <sub>2022-08-19 06:41:04</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09)</sub> | <sub>[0b809a7](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09) subtask: implement solana tx types - ciripel</sub> |
 | <sub>2022-08-19 04:06:53</sub> | <sub>[[backend-bitcoin-wallet-lib:RC2] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/7c158cfc2614...e777f0c4473f)</sub> | <sub>[bbe8e22](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/bbe8e220c5bd844a236e4fdb7b1875eaac809603) feat: increase version and update readme - PitTxid<br>[e777f0c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e777f0c4473f61f10d18792b9776067b625bcb4b) chore(release): 2.0.0 - PitTxid</sub> |
-| <sub>2022-08-19 04:06:11</sub> | <sub>[[backend-bitcoin-wallet-lib:test\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6)</sub> | <sub>[7f05cb3](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6) feat: add test btc witness tx and fix create bt... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
