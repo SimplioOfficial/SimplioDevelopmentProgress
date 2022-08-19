@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2897 commits since 10/09/2021. You can see the complete history in
+There is a total of 2898 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-19 07:18:46</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62)</sub> | <sub>[83a6481](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62) Fix actions/checkout - jvrastil</sub> |
 | <sub>2022-08-19 07:08:56</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af)</sub> | <sub>[36e9d3e](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af) Fix actions/checkout - jvrastil</sub> |
 | <sub>2022-08-19 06:41:04</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09)</sub> | <sub>[0b809a7](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09) subtask: implement solana tx types - ciripel</sub> |
 | <sub>2022-08-19 04:06:53</sub> | <sub>[[backend-bitcoin-wallet-lib:RC2] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/7c158cfc2614...e777f0c4473f)</sub> | <sub>[bbe8e22](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/bbe8e220c5bd844a236e4fdb7b1875eaac809603) feat: increase version and update readme - PitTxid<br>[e777f0c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e777f0c4473f61f10d18792b9776067b625bcb4b) chore(release): 2.0.0 - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2897 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-18 19:54:36</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5)</sub> | <sub>[099f2f9](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5) Changed run-tests for task/134-tapbar-with-upda... - Tomáš Petrík</sub> |
 | <sub>2022-08-18 10:52:48</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9)</sub> | <sub>[3073f76](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:46:03</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6)</sub> | <sub>[f44bfba](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6) pokus - jvrastil</sub> |
-| <sub>2022-08-18 10:40:39</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a)</sub> | <sub>[f45ad20](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a) pokus - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
