@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2895 commits since 10/09/2021. You can see the complete history in
+There is a total of 2896 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-19 06:41:04</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09)</sub> | <sub>[0b809a7](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09) subtask: implement solana tx types - ciripel</sub> |
 | <sub>2022-08-19 04:06:53</sub> | <sub>[[backend-bitcoin-wallet-lib:RC2] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/7c158cfc2614...e777f0c4473f)</sub> | <sub>[bbe8e22](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/bbe8e220c5bd844a236e4fdb7b1875eaac809603) feat: increase version and update readme - PitTxid<br>[e777f0c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/e777f0c4473f61f10d18792b9776067b625bcb4b) chore(release): 2.0.0 - PitTxid</sub> |
 | <sub>2022-08-19 04:06:11</sub> | <sub>[[backend-bitcoin-wallet-lib:test\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6)</sub> | <sub>[7f05cb3](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6) feat: add test btc witness tx and fix create bt... - PitTxid</sub> |
 | <sub>2022-08-19 04:04:49</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/b42902cf76c2...7c158cfc2614)</sub> | <sub>[7f05cb3](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6) feat: add test btc witness tx and fix create bt... - PitTxid<br>[7c158cf](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7c158cfc2614638e18a0c5d30b3fd71ad57b4a66) Merge pull request #20 from SimplioOfficial/tes... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2895 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-18 10:46:03</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6)</sub> | <sub>[f44bfba](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:40:39</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a)</sub> | <sub>[f45ad20](https://github.com/SimplioOfficial/simplio-app/commit/f45ad20b867c9ed4ea2125467632e179b153380a) pokus - jvrastil</sub> |
 | <sub>2022-08-18 10:36:27</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef806574e0d54144e7ed419b008fa96ce17e8a9)</sub> | <sub>[bef8065](https://github.com/SimplioOfficial/simplio-app/commit/bef806574e0d54144e7ed419b008fa96ce17e8a9) pokus - jvrastil</sub> |
-| <sub>2022-08-18 10:27:22</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab3f20b040e06020b8dfe747dbd491b6aacd402b)</sub> | <sub>[ab3f20b](https://github.com/SimplioOfficial/simplio-app/commit/ab3f20b040e06020b8dfe747dbd491b6aacd402b) fix 'flutter analyze' - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
