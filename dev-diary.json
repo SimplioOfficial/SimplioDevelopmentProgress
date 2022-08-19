@@ -51924,5 +51924,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/099f2f98bc13...ad64b6ec5391"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-19 04:04:49.999000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7f05cb3`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7f05cb3e30ff0110559e52780b7780cc36c88bf6) feat: add test btc witness tx and fix create bt... - PitTxid\n[`7c158cf`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/7c158cfc2614638e18a0c5d30b3fd71ad57b4a66) Merge pull request #20 from SimplioOfficial/tes... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/b42902cf76c2...7c158cfc2614"
+    }
   }
 ]
