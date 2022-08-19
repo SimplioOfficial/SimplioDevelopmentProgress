@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2906 commits since 10/09/2021. You can see the complete history in
+There is a total of 2907 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-19 14:04:03</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c26dd2272c003de600d3fe998e45d7af753ee260)</sub> | <sub>[c26dd22](https://github.com/SimplioOfficial/simplio-app/commit/c26dd2272c003de600d3fe998e45d7af753ee260) Fixed analysis issues. - Tomáš Petrík</sub> |
 | <sub>2022-08-19 12:52:00</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f65d6fc33cb0ebf3400e71ec5e66f79293ad6ec)</sub> | <sub>[9f65d6f](https://github.com/SimplioOfficial/simplio-app/commit/9f65d6fc33cb0ebf3400e71ec5e66f79293ad6ec) 1. Updated colors definition - colorScheme is u... - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:55:47</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e72defcea1bca339b845ec5d9a0c390fd9dc3edd)</sub> | <sub>[e72defc](https://github.com/SimplioOfficial/simplio-app/commit/e72defcea1bca339b845ec5d9a0c390fd9dc3edd) Removed unused import - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:27:35</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba)</sub> | <sub>[c95f0b9](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba) Fix master build - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2906 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-19 07:59:11</sub> | <sub>[[simplio-app:master] 15 new commits](https://github.com/SimplioOfficial/simplio-app/compare/43914939ca6f...4c3661ffbcb9)</sub> | <sub>[94134e6](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13) Completed task #134: - Tomáš Petrík<br>[e4342d8](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a) 1. Fixed daaps to dapps, - Tomáš Petrík<br>[667869e](https://github.com/SimplioOfficial/simplio-app/commit/667869e1d1ed03519eb8f5e20a496c0e48388784) Renamed anything matching with tap_bar to tab_bar. - Tomáš Petrík<br>[e9795c0](https://github.com/SimplioOfficial/simplio-app/commit/e9795c0bc0fb170710a2a4fd4ac582c944ee247a) Renamed anything matching with tap_bar to tab_bar. - Tomáš Petrík<br>[01728b2](https://github.com/SimplioOfficial/simplio-app/commit/01728b280092bed6e2d0136f70caea0fd7da106b) Renamed another files containing name tap bar t... - Tomáš Petrík</sub> |
 | <sub>2022-08-19 07:36:33</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8366217c3c626d99bc3dac2c97184327dfea4955)</sub> | <sub>[8366217](https://github.com/SimplioOfficial/simplio-app/commit/8366217c3c626d99bc3dac2c97184327dfea4955) Task/134 tapbar with updated UI 2 (#145) - jvrastil</sub> |
 | <sub>2022-08-19 07:18:46</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62)</sub> | <sub>[83a6481](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62) Fix actions/checkout - jvrastil</sub> |
-| <sub>2022-08-19 07:08:56</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af)</sub> | <sub>[36e9d3e](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af) Fix actions/checkout - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
