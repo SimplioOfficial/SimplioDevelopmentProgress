@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2898 commits since 10/09/2021. You can see the complete history in
+There is a total of 2899 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-19 07:36:33</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8366217c3c626d99bc3dac2c97184327dfea4955)</sub> | <sub>[8366217](https://github.com/SimplioOfficial/simplio-app/commit/8366217c3c626d99bc3dac2c97184327dfea4955) Task/134 tapbar with updated UI 2 (#145) - jvrastil</sub> |
 | <sub>2022-08-19 07:18:46</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62)</sub> | <sub>[83a6481](https://github.com/SimplioOfficial/simplio-app/commit/83a64819c16ba099b1ae8901eeea6414f459cf62) Fix actions/checkout - jvrastil</sub> |
 | <sub>2022-08-19 07:08:56</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af)</sub> | <sub>[36e9d3e](https://github.com/SimplioOfficial/simplio-app/commit/36e9d3e28d431a8860e18313686e0e0a1082b3af) Fix actions/checkout - jvrastil</sub> |
 | <sub>2022-08-19 06:41:04</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09)</sub> | <sub>[0b809a7](https://github.com/SimplioOfficial/simplio-app/commit/0b809a740464c946a55ff3fb36ea49ec8a76ca09) subtask: implement solana tx types - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2898 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-18 20:17:26</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/099f2f98bc13...ad64b6ec5391)</sub> | <sub>[b344e13](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a) adding sio_core_light (#137) - storkandstars<br>[4391493](https://github.com/SimplioOfficial/simplio-app/commit/43914939ca6fa1e1c99e3a5bf5ca2a1bb3259c96) Task/127 register blockchain endpoints (#140) - ciripel<br>[8f5d278](https://github.com/SimplioOfficial/simplio-app/commit/8f5d27801216982b27d6bdcf5a597bf17ebd807e) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[ad64b6e](https://github.com/SimplioOfficial/simplio-app/commit/ad64b6ec5391cfeea2023366b3793d29153ae73e) Formatted secured_http_client.dart - Tomáš Petrík</sub> |
 | <sub>2022-08-18 19:54:36</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5)</sub> | <sub>[099f2f9](https://github.com/SimplioOfficial/simplio-app/commit/099f2f98bc13ca894a694055c57fb3da53d16bb5) Changed run-tests for task/134-tapbar-with-upda... - Tomáš Petrík</sub> |
 | <sub>2022-08-18 10:52:48</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9)</sub> | <sub>[3073f76](https://github.com/SimplioOfficial/simplio-app/commit/3073f76052c4cdf8a0c5208eb2bc3e36a570e6d9) pokus - jvrastil</sub> |
-| <sub>2022-08-18 10:46:03</sub> | <sub>[[simplio-app:task/134\-tapbar\-with\-updated\-ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6)</sub> | <sub>[f44bfba](https://github.com/SimplioOfficial/simplio-app/commit/f44bfba510826494afaae407ed60c8309ec0b6d6) pokus - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
