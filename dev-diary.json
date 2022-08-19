@@ -52104,5 +52104,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bbb8322c59184a3373d3eab6cc4639398db0839f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-19 08:12:26.657000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`eeca31d`](https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d) Removed unused attributes from NavigationTabBar. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/133\\-inventory\\-tab\\-view] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d"
+    }
   }
 ]
