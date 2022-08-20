@@ -52230,5 +52230,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/7c158cfc2614...017be070fe05"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-20 06:58:10.610000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3e8dea1`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:update\\-release\\-command] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-20 06:58:22.226000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3e8dea1`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid\n[`65351f5`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/017be070fe05...65351f5502ca"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-20 06:59:29.659000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`017be07`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/017be070fe054ab4d16a14107cd98d25bc4ae91d) Merge pull request #22 from SimplioOfficial/master - PitTxid\n[`3e8dea1`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid\n[`65351f5`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid\n[`cb54813`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/cb5481368ac87eb72922bee04bc980e2f3d3597f) Merge pull request #24 from SimplioOfficial/RC3 - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/9c568a160293...cb5481368ac8"
+    }
   }
 ]
