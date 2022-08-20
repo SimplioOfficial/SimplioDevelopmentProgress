@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2912 commits since 10/09/2021. You can see the complete history in
+There is a total of 2913 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-20 07:01:11</sub> | <sub>[[SimplioOfficial/backend-bitcoin-wallet-lib] New release published: v2\.1\.0](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/releases/tag/v2.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-08-20 06:59:29</sub> | <sub>[[backend-bitcoin-wallet-lib:master] 4 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/9c568a160293...cb5481368ac8)</sub> | <sub>[017be07](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/017be070fe054ab4d16a14107cd98d25bc4ae91d) Merge pull request #22 from SimplioOfficial/master - PitTxid<br>[3e8dea1](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid<br>[65351f5](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid<br>[cb54813](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/cb5481368ac87eb72922bee04bc980e2f3d3597f) Merge pull request #24 from SimplioOfficial/RC3 - PitTxid</sub> |
 | <sub>2022-08-20 06:58:22</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/017be070fe05...65351f5502ca)</sub> | <sub>[3e8dea1](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid<br>[65351f5](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid</sub> |
 | <sub>2022-08-20 06:58:10</sub> | <sub>[[backend-bitcoin-wallet-lib:update\-release\-command] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b)</sub> | <sub>[3e8dea1](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2912 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-19 12:52:00</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f65d6fc33cb0ebf3400e71ec5e66f79293ad6ec)</sub> | <sub>[9f65d6f](https://github.com/SimplioOfficial/simplio-app/commit/9f65d6fc33cb0ebf3400e71ec5e66f79293ad6ec) 1. Updated colors definition - colorScheme is u... - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:55:47</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e72defcea1bca339b845ec5d9a0c390fd9dc3edd)</sub> | <sub>[e72defc](https://github.com/SimplioOfficial/simplio-app/commit/e72defcea1bca339b845ec5d9a0c390fd9dc3edd) Removed unused import - Tomáš Petrík</sub> |
 | <sub>2022-08-19 08:27:35</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba)</sub> | <sub>[c95f0b9](https://github.com/SimplioOfficial/simplio-app/commit/c95f0b9ba99dd7b27bc91977c2ef90eb46f5d1ba) Fix master build - jvrastil</sub> |
-| <sub>2022-08-19 08:12:26</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d)</sub> | <sub>[eeca31d](https://github.com/SimplioOfficial/simplio-app/commit/eeca31dead2b2bc689bbb6f0f713290238406b2d) Removed unused attributes from NavigationTabBar. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
