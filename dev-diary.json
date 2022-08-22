@@ -52300,5 +52300,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/releases/tag/v2.1.0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-22 08:08:10.109000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`15e2adc`](https://github.com/SimplioOfficial/simplio-app/commit/15e2adc28eafe89dd09802aad9d16321e35e57f9) Remove snackbar - jvrastil\n[`52a7b48`](https://github.com/SimplioOfficial/simplio-app/commit/52a7b4821ff1327700c9af7f8b8d10f8035fb3d8) Renaming AssetPageMixin - jvrastil",
+      "title": "[simplio-app:task/117\\-receive\\_coins\\_ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a5771d9d9522...52a7b4821ff1"
+    }
   }
 ]
