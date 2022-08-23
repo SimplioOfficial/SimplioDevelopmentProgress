@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 13:13:32</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3)</sub> | <sub>[7728337](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3) macos-latest -> change macos-12 - jvrastil</sub> |
 | <sub>2022-08-23 13:09:31</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e299c941eea7dea72160c740fd522b7a0205e87b)</sub> | <sub>[e299c94](https://github.com/SimplioOfficial/simplio-app/commit/e299c941eea7dea72160c740fd522b7a0205e87b) macos-latest -> change macos-12 - jvrastil</sub> |
 | <sub>2022-08-23 12:28:48</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a82fe70e597e661aba387bcfd220a149873895cd)</sub> | <sub>[a82fe70](https://github.com/SimplioOfficial/simplio-app/commit/a82fe70e597e661aba387bcfd220a149873895cd) change macos-12 -> macos-latest - jvrastil</sub> |
 | <sub>2022-08-23 12:08:42</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cd7eb11df3b5483d9ac65cefa8636293c9ed042)</sub> | <sub>[0cd7eb1](https://github.com/SimplioOfficial/simplio-app/commit/0cd7eb11df3b5483d9ac65cefa8636293c9ed042) Build fix - jvrastil</sub> |
