@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2920 commits since 10/09/2021. You can see the complete history in
+There is a total of 2921 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 08:48:42</sub> | <sub>[[simplio-app:bug/150\-fix\_missing\_coins\_content] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11)</sub> | <sub>[fc94633](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 | <sub>2022-08-23 08:20:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/52a7b4821ff1...262242d2ea6b)</sub> |
 | <sub>2022-08-23 08:14:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821)</sub> | <sub>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars</sub> |
 | <sub>2022-08-22 21:32:23</sub> | <sub>[[simplio-app:fix/148\-read\-missing\-contractaddress\-value] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c84943e0128a8e86d04d446d340db381db1e496)</sub> | <sub>[0c84943](https://github.com/SimplioOfficial/simplio-app/commit/0c84943e0128a8e86d04d446d340db381db1e496) adding missing local value - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2920 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-22 08:08:10</sub> | <sub>[[simplio-app:task/117\-receive\_coins\_ui] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a5771d9d9522...52a7b4821ff1)</sub> | <sub>[15e2adc](https://github.com/SimplioOfficial/simplio-app/commit/15e2adc28eafe89dd09802aad9d16321e35e57f9) Remove snackbar - jvrastil<br>[52a7b48](https://github.com/SimplioOfficial/simplio-app/commit/52a7b4821ff1327700c9af7f8b8d10f8035fb3d8) Renaming AssetPageMixin - jvrastil</sub> |
 | <sub>2022-08-20 07:01:11</sub> | <sub>[[SimplioOfficial/backend-bitcoin-wallet-lib] New release published: v2\.1\.0](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/releases/tag/v2.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-08-20 06:59:29</sub> | <sub>[[backend-bitcoin-wallet-lib:master] 4 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/9c568a160293...cb5481368ac8)</sub> | <sub>[017be07](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/017be070fe054ab4d16a14107cd98d25bc4ae91d) Merge pull request #22 from SimplioOfficial/master - PitTxid<br>[3e8dea1](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid<br>[65351f5](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid<br>[cb54813](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/cb5481368ac87eb72922bee04bc980e2f3d3597f) Merge pull request #24 from SimplioOfficial/RC3 - PitTxid</sub> |
-| <sub>2022-08-20 06:58:22</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/017be070fe05...65351f5502ca)</sub> | <sub>[3e8dea1](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3e8dea10ec1b52fb8cb7020228407cef3558eb8b) feat: increase version - PitTxid<br>[65351f5](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/65351f5502ca3fba06e37015ed9932079cc527c2) Merge pull request #23 from SimplioOfficial/upd... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

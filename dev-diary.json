@@ -52425,5 +52425,23 @@
       "title": "[simplio-app] Branch task/117\\-receive\\_coins\\_ui was force-pushed to `262242d`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 08:48:42.523000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`fc94633`](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11) bug/150 - Fix missing coins content and fix jso... - jvrastil",
+      "title": "[simplio-app:bug/150\\-fix\\_missing\\_coins\\_content] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11"
+    }
   }
 ]
