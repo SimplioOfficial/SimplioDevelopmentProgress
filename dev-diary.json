@@ -52694,5 +52694,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 14:16:33.096000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4cd95cf`](https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad) changes before merge - jvrastil",
+      "title": "[simplio-app:build\\-fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 14:17:29.270000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`90153a4`](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b"
+    }
   }
 ]

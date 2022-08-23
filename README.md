@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2935 commits since 10/09/2021. You can see the complete history in
+There is a total of 2937 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 14:17:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b)</sub> | <sub>[90153a4](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil</sub> |
+| <sub>2022-08-23 14:16:33</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad)</sub> | <sub>[4cd95cf](https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad) changes before merge - jvrastil</sub> |
 | <sub>2022-08-23 13:13:32</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3)</sub> | <sub>[7728337](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3) macos-latest -> change macos-12 - jvrastil</sub> |
 | <sub>2022-08-23 13:09:31</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e299c941eea7dea72160c740fd522b7a0205e87b)</sub> | <sub>[e299c94](https://github.com/SimplioOfficial/simplio-app/commit/e299c941eea7dea72160c740fd522b7a0205e87b) macos-latest -> change macos-12 - jvrastil</sub> |
 | <sub>2022-08-23 12:28:48</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a82fe70e597e661aba387bcfd220a149873895cd)</sub> | <sub>[a82fe70](https://github.com/SimplioOfficial/simplio-app/commit/a82fe70e597e661aba387bcfd220a149873895cd) change macos-12 -> macos-latest - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 2935 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 11:21:04</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711)</sub> | <sub>[5ca80d9](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711) increasing version - storkandstars</sub> |
 | <sub>2022-08-23 11:20:30</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f)</sub> | <sub>[f23eea3](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f) removing comment - storkandstars</sub> |
 | <sub>2022-08-23 11:17:57</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36)</sub> | <sub>[c5ed6c2](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36) Build fix - jvrastil</sub> |
-| <sub>2022-08-23 11:13:48</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d)</sub> | <sub>[cdc5fcc](https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d) updating fiat asset data with correct data - storkandstars</sub> |
-| <sub>2022-08-23 11:05:15</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/322a0841dcf7...b5d8326107e2)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil<br>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil<br>[b5d8326](https://github.com/SimplioOfficial/simplio-app/commit/b5d8326107e272407d9396b97a4ec3d25e1c4cc7) Merge branch 'master' into refactor/147-reflect... - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
