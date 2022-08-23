@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2928 commits since 10/09/2021. You can see the complete history in
+There is a total of 2930 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 11:21:04</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711)</sub> | <sub>[5ca80d9](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711) increasing version - storkandstars</sub> |
+| <sub>2022-08-23 11:20:30</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f)</sub> | <sub>[f23eea3](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f) removing comment - storkandstars</sub> |
 | <sub>2022-08-23 11:17:57</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36)</sub> | <sub>[c5ed6c2](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36) Build fix - jvrastil</sub> |
 | <sub>2022-08-23 11:13:48</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d)</sub> | <sub>[cdc5fcc](https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d) updating fiat asset data with correct data - storkandstars</sub> |
 | <sub>2022-08-23 11:05:15</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/322a0841dcf7...b5d8326107e2)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil<br>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil<br>[b5d8326](https://github.com/SimplioOfficial/simplio-app/commit/b5d8326107e272407d9396b97a4ec3d25e1c4cc7) Merge branch 'master' into refactor/147-reflect... - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 2928 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 10:12:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/262242d2ea6b...8b82a18c9c41)</sub> |
 | <sub>2022-08-23 10:10:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 | <sub>2022-08-23 08:48:42</sub> | <sub>[[simplio-app:bug/150\-fix\_missing\_coins\_content] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11)</sub> | <sub>[fc94633](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
-| <sub>2022-08-23 08:20:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/52a7b4821ff1...262242d2ea6b)</sub> |
-| <sub>2022-08-23 08:14:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821)</sub> | <sub>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
