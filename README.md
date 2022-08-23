@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2931 commits since 10/09/2021. You can see the complete history in
+There is a total of 2932 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 12:08:42</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cd7eb11df3b5483d9ac65cefa8636293c9ed042)</sub> | <sub>[0cd7eb1](https://github.com/SimplioOfficial/simplio-app/commit/0cd7eb11df3b5483d9ac65cefa8636293c9ed042) Build fix - jvrastil</sub> |
 | <sub>2022-08-23 11:29:49</sub> | <sub>[[simplio-app:build\-fix] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c5ed6c243469...f57414dadd37)</sub> | <sub>[31feeaa](https://github.com/SimplioOfficial/simplio-app/commit/31feeaa5452c084e8e83e0bd78d88f4ac8396544) Build fix - jvrastil<br>[f57414d](https://github.com/SimplioOfficial/simplio-app/commit/f57414dadd37aabb620725a252188feda9909b95) Build fix - jvrastil</sub> |
 | <sub>2022-08-23 11:21:04</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711)</sub> | <sub>[5ca80d9](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711) increasing version - storkandstars</sub> |
 | <sub>2022-08-23 11:20:30</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f)</sub> | <sub>[f23eea3](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f) removing comment - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 2931 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 10:56:42</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4c3661ffbcb9...322a0841dcf7)</sub> | <sub>[439729f](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18) Task/133 inventory tab view (#146) - TomasPetrik<br>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars<br>[80e87fe](https://github.com/SimplioOfficial/simplio-app/commit/80e87feea8cf76aed9389af1161b3333735335a2) wip - adding asset methods - storkandstars<br>[f33e097](https://github.com/SimplioOfficial/simplio-app/commit/f33e097bee172889d5bdb7439e4c27ea6d578b2e) adding token recognition - storkandstars<br>[2c479df](https://github.com/SimplioOfficial/simplio-app/commit/2c479dfd56f94cb318bbf125e12bfe18438e690b) updating response entries - storkandstars</sub> |
 | <sub>2022-08-23 10:12:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af)</sub> | <sub>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil</sub> |
 | <sub>2022-08-23 10:12:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/262242d2ea6b...8b82a18c9c41)</sub> |
-| <sub>2022-08-23 10:10:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
