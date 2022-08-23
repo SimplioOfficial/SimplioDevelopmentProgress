@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2924 commits since 10/09/2021. You can see the complete history in
+There is a total of 2925 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 10:56:42</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4c3661ffbcb9...322a0841dcf7)</sub> | <sub>[439729f](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18) Task/133 inventory tab view (#146) - TomasPetrik<br>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars<br>[80e87fe](https://github.com/SimplioOfficial/simplio-app/commit/80e87feea8cf76aed9389af1161b3333735335a2) wip - adding asset methods - storkandstars<br>[f33e097](https://github.com/SimplioOfficial/simplio-app/commit/f33e097bee172889d5bdb7439e4c27ea6d578b2e) adding token recognition - storkandstars<br>[2c479df](https://github.com/SimplioOfficial/simplio-app/commit/2c479dfd56f94cb318bbf125e12bfe18438e690b) updating response entries - storkandstars</sub> |
 | <sub>2022-08-23 10:12:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af)</sub> | <sub>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil</sub> |
 | <sub>2022-08-23 10:12:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/262242d2ea6b...8b82a18c9c41)</sub> |
 | <sub>2022-08-23 10:10:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2924 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-22 21:32:23</sub> | <sub>[[simplio-app:fix/148\-read\-missing\-contractaddress\-value] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c84943e0128a8e86d04d446d340db381db1e496)</sub> | <sub>[0c84943](https://github.com/SimplioOfficial/simplio-app/commit/0c84943e0128a8e86d04d446d340db381db1e496) adding missing local value - storkandstars</sub> |
 | <sub>2022-08-22 20:34:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18)</sub> | <sub>[439729f](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18) Task/133 inventory tab view (#146) - TomasPetrik</sub> |
 | <sub>2022-08-22 11:54:43</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65ef3201f2e71f5c0656903e249e0fc4a4f8a087)</sub> | <sub>[65ef320](https://github.com/SimplioOfficial/simplio-app/commit/65ef3201f2e71f5c0656903e249e0fc4a4f8a087) Renamed STextStyles to SioTextStyles - Tomáš Petrík</sub> |
-| <sub>2022-08-22 09:27:10</sub> | <sub>[[simplio-app:task/133\-inventory\-tab\-view] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/586543f3a2b04cff237d3d4e6bde57d93c23f56f)</sub> | <sub>[586543f](https://github.com/SimplioOfficial/simplio-app/commit/586543f3a2b04cff237d3d4e6bde57d93c23f56f) Added inventory tabs into authenticated router. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
