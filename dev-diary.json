@@ -52514,5 +52514,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/4c3661ffbcb9...322a0841dcf7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 11:05:15.919000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b971084`](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil\n[`b392f3d`](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil\n[`b5d8326`](https://github.com/SimplioOfficial/simplio-app/commit/b5d8326107e272407d9396b97a4ec3d25e1c4cc7) Merge branch 'master' into refactor/147-reflect... - storkandstars",
+      "title": "[simplio-app:refactor/147\\-reflect\\-api\\-changes\\-of\\-asset\\-service] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/322a0841dcf7...b5d8326107e2"
+    }
   }
 ]
