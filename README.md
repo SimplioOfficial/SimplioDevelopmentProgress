@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2930 commits since 10/09/2021. You can see the complete history in
+There is a total of 2931 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 11:29:49</sub> | <sub>[[simplio-app:build\-fix] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c5ed6c243469...f57414dadd37)</sub> | <sub>[31feeaa](https://github.com/SimplioOfficial/simplio-app/commit/31feeaa5452c084e8e83e0bd78d88f4ac8396544) Build fix - jvrastil<br>[f57414d](https://github.com/SimplioOfficial/simplio-app/commit/f57414dadd37aabb620725a252188feda9909b95) Build fix - jvrastil</sub> |
 | <sub>2022-08-23 11:21:04</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711)</sub> | <sub>[5ca80d9](https://github.com/SimplioOfficial/simplio-app/commit/5ca80d9a3c7d3cde526d1559d1ac2f93b0946711) increasing version - storkandstars</sub> |
 | <sub>2022-08-23 11:20:30</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f)</sub> | <sub>[f23eea3](https://github.com/SimplioOfficial/simplio-app/commit/f23eea371b2f4b6a0f7bcd92dbc5661214c5051f) removing comment - storkandstars</sub> |
 | <sub>2022-08-23 11:17:57</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36)</sub> | <sub>[c5ed6c2](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36) Build fix - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2930 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 10:12:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af)</sub> | <sub>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil</sub> |
 | <sub>2022-08-23 10:12:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/262242d2ea6b...8b82a18c9c41)</sub> |
 | <sub>2022-08-23 10:10:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
-| <sub>2022-08-23 08:48:42</sub> | <sub>[[simplio-app:bug/150\-fix\_missing\_coins\_content] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11)</sub> | <sub>[fc94633](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
