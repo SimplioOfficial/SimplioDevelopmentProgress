@@ -52766,5 +52766,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/58796a6110249d08a608d010df0795b6cbbeee1e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 23:32:44.698000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`dff6966`](https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee) Completed appbar with glass effect, - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/135\\-main\\-app\\-bar\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee"
+    }
   }
 ]
