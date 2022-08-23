@@ -52550,5 +52550,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 11:17:57.738000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c5ed6c2`](https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36) Build fix - jvrastil",
+      "title": "[simplio-app:build\\-fix] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c5ed6c243469938b18727fb79512cc32fa317d36"
+    }
   }
 ]
