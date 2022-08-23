@@ -52784,5 +52784,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 23:53:25.947000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4c3661f`](https://github.com/SimplioOfficial/simplio-app/commit/4c3661ffbcb9de7f84ce05571689574ba6989e1a) Merge pull request #139 from SimplioOfficial/ta... - TomasPetrik\n[`439729f`](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18) Task/133 inventory tab view (#146) - TomasPetrik\n[`2fc39c5`](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars\n[`b971084`](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil\n[`b392f3d`](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil",
+      "title": "[simplio-app:task/135\\-main\\-app\\-bar\\-widget] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dff69666158f...77a3fe6282f5"
+    }
   }
 ]
