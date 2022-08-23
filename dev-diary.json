@@ -52532,5 +52532,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/322a0841dcf7...b5d8326107e2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-23 11:13:48.102000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`cdc5fcc`](https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d) updating fiat asset data with correct data - storkandstars",
+      "title": "[simplio-app:refactor/147\\-reflect\\-api\\-changes\\-of\\-asset\\-service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cdc5fccecc8e937e3f27d9f98448f7bdf5da685d"
+    }
   }
 ]
