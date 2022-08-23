@@ -5,6 +5,9 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-23 10:12:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af)</sub> | <sub>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil</sub> |
+| <sub>2022-08-23 10:12:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/262242d2ea6b...8b82a18c9c41)</sub> |
+| <sub>2022-08-23 10:10:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73)</sub> | <sub>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 | <sub>2022-08-23 08:48:42</sub> | <sub>[[simplio-app:bug/150\-fix\_missing\_coins\_content] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11)</sub> | <sub>[fc94633](https://github.com/SimplioOfficial/simplio-app/commit/fc94633c24c37bf0cc5c2fc5f4c2ab47d1a94d11) bug/150 - Fix missing coins content and fix jso... - jvrastil</sub> |
 | <sub>2022-08-23 08:20:55</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/52a7b4821ff1...262242d2ea6b)</sub> |
 | <sub>2022-08-23 08:14:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821)</sub> | <sub>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars</sub> |
