@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2946 commits since 10/09/2021. You can see the complete history in
+There is a total of 2947 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 07:52:52</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7)</sub> | <sub>[326a520](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:46:03</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767)</sub> | <sub>[a17af48](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:40:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a)</sub> | <sub>[0ef9385](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:32:29</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948)</sub> | <sub>[f5fe4b0](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2946 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 23:32:44</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee)</sub> | <sub>[dff6966](https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee) Completed appbar with glass effect, - Tomáš Petrík</sub> |
 | <sub>2022-08-23 16:06:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58796a6110249d08a608d010df0795b6cbbeee1e)</sub> | <sub>[58796a6](https://github.com/SimplioOfficial/simplio-app/commit/58796a6110249d08a608d010df0795b6cbbeee1e) Refactor/147 reflect api changes of asset servi... - storkandstars</sub> |
 | <sub>2022-08-23 14:35:54</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5ca80d9a3c7d...cb0d2110d664)</sub> | <sub>[90153a4](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil<br>[cb0d211](https://github.com/SimplioOfficial/simplio-app/commit/cb0d2110d664cb44091d2af83ed1c8602fd3eb9a) Merge branch 'master' into refactor/147-reflect... - storkandstars</sub> |
-| <sub>2022-08-23 14:17:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b)</sub> | <sub>[90153a4](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

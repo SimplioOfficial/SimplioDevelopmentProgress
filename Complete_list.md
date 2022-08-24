@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 07:52:52</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7)</sub> | <sub>[326a520](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:46:03</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767)</sub> | <sub>[a17af48](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:40:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a)</sub> | <sub>[0ef9385](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:32:29</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948)</sub> | <sub>[f5fe4b0](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948) wip - jvrastil</sub> |

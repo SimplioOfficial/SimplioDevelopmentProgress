@@ -52892,5 +52892,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 07:52:52.036000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`326a520`](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7) wip - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7"
+    }
   }
 ]
