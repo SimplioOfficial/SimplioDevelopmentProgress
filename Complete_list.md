@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 09:42:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6fcde5cc41c...a5ea086a384b)</sub> |
 | <sub>2022-08-24 09:26:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c)</sub> | <sub>[c1566a1](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c) bug/165 - Fix contractAddress null check error ... - jvrastil</sub> |
 | <sub>2022-08-24 09:06:32</sub> | <sub>[[simplio-app:bug/165\-fix\_contractAddress\_null\_check] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f)</sub> | <sub>[a2bbd29](https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f) bug/165 - Fix contractAddress null check error - jvrastil</sub> |
 | <sub>2022-08-24 08:36:45</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6fcde5cc41cc36779e6a712660229decc9db085)</sub> | <sub>[e6fcde5](https://github.com/SimplioOfficial/simplio-app/commit/e6fcde5cc41cc36779e6a712660229decc9db085) wip - jvrastil</sub> |
