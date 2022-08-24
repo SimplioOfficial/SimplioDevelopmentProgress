@@ -53069,5 +53069,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 12:44:45.581000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f2ff409`](https://github.com/SimplioOfficial/simplio-app/commit/f2ff4095d580f568be326bf1871810d87735011d) wip - jvrastil\n[`264c50d`](https://github.com/SimplioOfficial/simplio-app/commit/264c50d3d3789f54a927b21eff49a124ef4e2048) wip - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/26fd1173e3c6...264c50d3d378"
+    }
   }
 ]
