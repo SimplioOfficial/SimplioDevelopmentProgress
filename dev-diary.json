@@ -53035,5 +53035,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/428802ca6ae8...c84600e0bb0b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 12:36:12.284000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`10c53d2`](https://github.com/SimplioOfficial/sio_core_light/commit/10c53d2acab65845363ca5739ff8208bf0ca078b) Task/network groups (#4) - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/10c53d2acab65845363ca5739ff8208bf0ca078b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 12:37:33.845000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_core_light] New release published: 1\\.0\\.2",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.2"
+    }
   }
 ]
