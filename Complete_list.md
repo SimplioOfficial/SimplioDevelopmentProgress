@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 11:52:15</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab88a2f0b80fb7265b76e00bb1cba661f1407614)</sub> | <sub>[ab88a2f](https://github.com/SimplioOfficial/simplio-app/commit/ab88a2f0b80fb7265b76e00bb1cba661f1407614) chore: refactor sendTransaction method - ciripel</sub> |
 | <sub>2022-08-24 10:33:11</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26fd1173e3c6cf723a3b691cdee9224c66e8b783)</sub> | <sub>[26fd117](https://github.com/SimplioOfficial/simplio-app/commit/26fd1173e3c6cf723a3b691cdee9224c66e8b783) wip - jvrastil</sub> |
 | <sub>2022-08-24 09:42:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6fcde5cc41c...a5ea086a384b)</sub> |
 | <sub>2022-08-24 09:26:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c)</sub> | <sub>[c1566a1](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c) bug/165 - Fix contractAddress null check error ... - jvrastil</sub> |

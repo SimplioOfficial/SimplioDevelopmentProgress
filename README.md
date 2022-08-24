@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2952 commits since 10/09/2021. You can see the complete history in
+There is a total of 2953 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 11:52:15</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab88a2f0b80fb7265b76e00bb1cba661f1407614)</sub> | <sub>[ab88a2f](https://github.com/SimplioOfficial/simplio-app/commit/ab88a2f0b80fb7265b76e00bb1cba661f1407614) chore: refactor sendTransaction method - ciripel</sub> |
 | <sub>2022-08-24 10:33:11</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26fd1173e3c6cf723a3b691cdee9224c66e8b783)</sub> | <sub>[26fd117](https://github.com/SimplioOfficial/simplio-app/commit/26fd1173e3c6cf723a3b691cdee9224c66e8b783) wip - jvrastil</sub> |
 | <sub>2022-08-24 09:42:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6fcde5cc41c...a5ea086a384b)</sub> |
 | <sub>2022-08-24 09:26:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c)</sub> | <sub>[c1566a1](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c) bug/165 - Fix contractAddress null check error ... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2952 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-24 07:46:03</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767)</sub> | <sub>[a17af48](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:40:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a)</sub> | <sub>[0ef9385](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:32:29</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948)</sub> | <sub>[f5fe4b0](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948) wip - jvrastil</sub> |
-| <sub>2022-08-24 07:31:18</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c89d496eda48^...9f18dd16e0eb)</sub> | <sub>[c89d496](https://github.com/SimplioOfficial/simplio-app/commit/c89d496eda48ad681e0f6343b346f9882a2390f3) wip - jvrastil<br>[9f18dd1](https://github.com/SimplioOfficial/simplio-app/commit/9f18dd16e0eb97558183ce0ef2cbfa6cc187d03b) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
