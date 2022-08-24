@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2944 commits since 10/09/2021. You can see the complete history in
+There is a total of 2945 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 07:40:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a)</sub> | <sub>[0ef9385](https://github.com/SimplioOfficial/simplio-app/commit/0ef9385bcce891061596420248c3170ff5f6491a) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:32:29</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948)</sub> | <sub>[f5fe4b0](https://github.com/SimplioOfficial/simplio-app/commit/f5fe4b04e7fd2285e9cf3fe1aa7f29713a922948) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:31:18</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c89d496eda48^...9f18dd16e0eb)</sub> | <sub>[c89d496](https://github.com/SimplioOfficial/simplio-app/commit/c89d496eda48ad681e0f6343b346f9882a2390f3) wip - jvrastil<br>[9f18dd1](https://github.com/SimplioOfficial/simplio-app/commit/9f18dd16e0eb97558183ce0ef2cbfa6cc187d03b) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:15:29</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/073ed9daa6264ba423f0acab1dcd9da9938319ff)</sub> | <sub>[073ed9d](https://github.com/SimplioOfficial/simplio-app/commit/073ed9daa6264ba423f0acab1dcd9da9938319ff) Fixed import path to constants.dart file - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 2944 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-23 14:35:54</sub> | <sub>[[simplio-app:refactor/147\-reflect\-api\-changes\-of\-asset\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5ca80d9a3c7d...cb0d2110d664)</sub> | <sub>[90153a4](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil<br>[cb0d211](https://github.com/SimplioOfficial/simplio-app/commit/cb0d2110d664cb44091d2af83ed1c8602fd3eb9a) Merge branch 'master' into refactor/147-reflect... - storkandstars</sub> |
 | <sub>2022-08-23 14:17:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b)</sub> | <sub>[90153a4](https://github.com/SimplioOfficial/simplio-app/commit/90153a4a1e59419622fbb3cc1d43311aea7b430b) Fix ios build pipeline (#153) - jvrastil</sub> |
 | <sub>2022-08-23 14:16:33</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad)</sub> | <sub>[4cd95cf](https://github.com/SimplioOfficial/simplio-app/commit/4cd95cfd1fc1b65d019c315365d4fc39dc10b2ad) changes before merge - jvrastil</sub> |
-| <sub>2022-08-23 13:13:32</sub> | <sub>[[simplio-app:build\-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3)</sub> | <sub>[7728337](https://github.com/SimplioOfficial/simplio-app/commit/772833775b3238d124fbc617ab3ca9821f1616c3) macos-latest -> change macos-12 - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
