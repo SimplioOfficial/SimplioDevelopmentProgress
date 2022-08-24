@@ -53123,5 +53123,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/320d6de09912f787858b7c2efa5a65e07cb2bfc3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 12:50:57.421000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d72968c`](https://github.com/SimplioOfficial/simplio-app/commit/d72968c96615a48cabc8749b92a339162683e4a1) wip - jvrastil\n[`2542d58`](https://github.com/SimplioOfficial/simplio-app/commit/2542d58e1d5fd568f00b5e8e9ba10ed712e0b87e) wip - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/320d6de09912...2542d58e1d5f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 12:53:36.705000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8ef0c6c`](https://github.com/SimplioOfficial/simplio-app/commit/8ef0c6c5777d0db6b9bf3deb9113f60a73ec4051) chore: update dependencies - ciripel\n[`7200809`](https://github.com/SimplioOfficial/simplio-app/commit/72008097081d3ad83eee584245b151f752980005) chore: remove network_groups from crypto_assets - ciripel",
+      "title": "[simplio-app:task/119\\-sending\\-an\\-asset\\-logic] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ab88a2f0b80f...72008097081d"
+    }
   }
 ]
