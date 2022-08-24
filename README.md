@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2948 commits since 10/09/2021. You can see the complete history in
+There is a total of 2949 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-24 09:06:32</sub> | <sub>[[simplio-app:bug/165\-fix\_contractAddress\_null\_check] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f)</sub> | <sub>[a2bbd29](https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f) bug/165 - Fix contractAddress null check error - jvrastil</sub> |
 | <sub>2022-08-24 08:36:45</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6fcde5cc41cc36779e6a712660229decc9db085)</sub> | <sub>[e6fcde5](https://github.com/SimplioOfficial/simplio-app/commit/e6fcde5cc41cc36779e6a712660229decc9db085) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:52:52</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7)</sub> | <sub>[326a520](https://github.com/SimplioOfficial/simplio-app/commit/326a520f6ef4b54ffd4fb576b32e339ae0dc63e7) wip - jvrastil</sub> |
 | <sub>2022-08-24 07:46:03</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767)</sub> | <sub>[a17af48](https://github.com/SimplioOfficial/simplio-app/commit/a17af48b040e043fefb7d5fc27a6cbe4e3aa2767) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2948 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-24 07:15:29</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/073ed9daa6264ba423f0acab1dcd9da9938319ff)</sub> | <sub>[073ed9d](https://github.com/SimplioOfficial/simplio-app/commit/073ed9daa6264ba423f0acab1dcd9da9938319ff) Fixed import path to constants.dart file - Tomáš Petrík</sub> |
 | <sub>2022-08-23 23:53:25</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 8 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dff69666158f...77a3fe6282f5)</sub> | <sub>[4c3661f](https://github.com/SimplioOfficial/simplio-app/commit/4c3661ffbcb9de7f84ce05571689574ba6989e1a) Merge pull request #139 from SimplioOfficial/ta... - TomasPetrik<br>[439729f](https://github.com/SimplioOfficial/simplio-app/commit/439729fce79dd63993bf4a73931c19975b3aac18) Task/133 inventory tab view (#146) - TomasPetrik<br>[2fc39c5](https://github.com/SimplioOfficial/simplio-app/commit/2fc39c5c1aa476b65d2108a6f8a2536ac402e821) adding missing local value (#149) - storkandstars<br>[b971084](https://github.com/SimplioOfficial/simplio-app/commit/b971084c80298baac8a365640de806ab23566e73) bug/150 - Fix missing coins content and fix jso... - jvrastil<br>[b392f3d](https://github.com/SimplioOfficial/simplio-app/commit/b392f3dfda387d872fa63839ae56eb619785a0af) Task/117 - Receive coins UI (#126) - jvrastil</sub> |
 | <sub>2022-08-23 23:32:44</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee)</sub> | <sub>[dff6966](https://github.com/SimplioOfficial/simplio-app/commit/dff69666158fcc76d5e5c03413408dfec6dda6ee) Completed appbar with glass effect, - Tomáš Petrík</sub> |
-| <sub>2022-08-23 16:06:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58796a6110249d08a608d010df0795b6cbbeee1e)</sub> | <sub>[58796a6](https://github.com/SimplioOfficial/simplio-app/commit/58796a6110249d08a608d010df0795b6cbbeee1e) Refactor/147 reflect api changes of asset servi... - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

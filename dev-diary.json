@@ -52928,5 +52928,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e6fcde5cc41cc36779e6a712660229decc9db085"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-24 09:06:32.281000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a2bbd29`](https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f) bug/165 - Fix contractAddress null check error - jvrastil",
+      "title": "[simplio-app:bug/165\\-fix\\_contractAddress\\_null\\_check] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a2bbd2937d6bb27de6b263e5a04cc1e3673e006f"
+    }
   }
 ]
