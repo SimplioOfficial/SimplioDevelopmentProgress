@@ -53429,5 +53429,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/c026d38135bf...0459e1d6e817"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 15:10:57.765000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3f1ef1e`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389) feat: allow out maxfeepergas manually - PitTxid",
+      "title": "[backend-eth-wallet-lib:revert\\-create\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 15:11:27.180000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3f1ef1e`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389) feat: allow out maxfeepergas manually - PitTxid\n[`b9ce171`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b9ce17133d06cfbac30bb81c70a1437efb2ee0ef) Merge pull request #8 from SimplioOfficial/reve... - PitTxid",
+      "title": "[backend-eth-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/0459e1d6e817...b9ce17133d06"
+    }
   }
 ]
