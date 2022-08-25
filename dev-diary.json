@@ -53159,5 +53159,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ab88a2f0b80f...72008097081d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 04:28:24.428000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b431a37`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b431a372f141ffe4e8f84f035667768ee9d93d17) feat: add test for goerli testnet - PitTxid\n[`b915e6d`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b915e6d7843d381a3edb623b76accf8e3dba7d07) feat: update unit test for eth and token - PitTxid",
+      "title": "[backend-eth-wallet-lib:3\\-create\\-unit\\-test\\-for\\-eth\\-and\\-eth\\-token\\-on\\-testnet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/65dddfa09c56...b915e6d7843d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 04:28:45.485000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b431a37`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b431a372f141ffe4e8f84f035667768ee9d93d17) feat: add test for goerli testnet - PitTxid\n[`b915e6d`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b915e6d7843d381a3edb623b76accf8e3dba7d07) feat: update unit test for eth and token - PitTxid\n[`c026d38`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/c026d38135bf8cde58c0e624d79d80ad6281c8df) Merge pull request #6 from SimplioOfficial/3-cr... - PitTxid",
+      "title": "[backend-eth-wallet-lib:development] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/65dddfa09c56...c026d38135bf"
+    }
   }
 ]
