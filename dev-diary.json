@@ -53231,5 +53231,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ae73e3b9a15f18277d444695f8a74e00540ce6d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 09:16:12.297000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`c1566a1`](https://github.com/SimplioOfficial/simplio-app/commit/c1566a18a80c540bca1945b66d7795ae8929372c) bug/165 - Fix contractAddress null check error ... - jvrastil\n[`64678e7`](https://github.com/SimplioOfficial/simplio-app/commit/64678e7e2cff7e1b91f9614b5709fd0fdd2d7dd8) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`e586339`](https://github.com/SimplioOfficial/simplio-app/commit/e5863395a0e67f73b3ada3b0bd5254d65a94391e) 1. Fixed bottom_tab_bar to be have a clipped co... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/135\\-main\\-app\\-bar\\-widget] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ae73e3b9a15f...e5863395a0e6"
+    }
   }
 ]
