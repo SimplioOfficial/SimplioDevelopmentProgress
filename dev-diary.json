@@ -53321,5 +53321,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e6613488418d64e86b4b8ddb0c8ae015c936d813"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 14:21:46.219000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3371ed4`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3371ed4096fe6277b6908a955acf534c6f45b9e0) fix: token transaction address and value - PitTxid",
+      "title": "[backend-bsc-wallet-lib:token\\-transaction\\-issue] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3371ed4096fe6277b6908a955acf534c6f45b9e0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 14:22:16.555000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3371ed4`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3371ed4096fe6277b6908a955acf534c6f45b9e0) fix: token transaction address and value - PitTxid\n[`ccb2708`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ccb2708d9cfff415d1da021088105386b9a1778f) Merge pull request #18 from SimplioOfficial/tok... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/8df9f37d0773...ccb2708d9cff"
+    }
   }
 ]
