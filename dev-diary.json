@@ -53393,5 +53393,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/b1660daf19c6...b1682cf9b098"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 14:38:18.766000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fac2738`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/fac27385168e63aea2961a9beba76b386e042461) fix: token transaction - PitTxid\n[`e4a1d7b`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/e4a1d7be14caf0b8c06fac81eaa1d6f84db70197) feat: update document - PitTxid",
+      "title": "[backend-eth-wallet-lib:4\\-update\\-document] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/c026d38135bf...e4a1d7be14ca"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 14:39:13.903000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fac2738`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/fac27385168e63aea2961a9beba76b386e042461) fix: token transaction - PitTxid\n[`e4a1d7b`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/e4a1d7be14caf0b8c06fac81eaa1d6f84db70197) feat: update document - PitTxid\n[`0459e1d`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0459e1d6e81761b25aa8b12b319c4f86009e05e1) Merge pull request #7 from SimplioOfficial/4-up... - PitTxid",
+      "title": "[backend-eth-wallet-lib:development] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/c026d38135bf...0459e1d6e817"
+    }
   }
 ]
