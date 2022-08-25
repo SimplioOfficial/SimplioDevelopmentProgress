@@ -53213,5 +53213,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/72008097081d...37ff8424c839"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-25 07:56:40.285000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`ae73e3b`](https://github.com/SimplioOfficial/simplio-app/commit/ae73e3b9a15f18277d444695f8a74e00540ce6d2) 1. Revers using svg icons, - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/135\\-main\\-app\\-bar\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ae73e3b9a15f18277d444695f8a74e00540ce6d2"
+    }
   }
 ]
