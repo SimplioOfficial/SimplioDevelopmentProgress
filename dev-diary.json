@@ -53519,5 +53519,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2542d58e1d5f...0f67e2faf932"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-26 09:06:35.916000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d128359`](https://github.com/SimplioOfficial/simplio-app/commit/d1283593984af70f705a6f67a58ef6e47220c844) ci: test ci - ciripel",
+      "title": "[simplio-app:task/119\\-sending\\-an\\-asset\\-logic] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d1283593984af70f705a6f67a58ef6e47220c844"
+    }
   }
 ]
