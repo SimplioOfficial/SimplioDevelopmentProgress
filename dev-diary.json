@@ -53501,5 +53501,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/b9ce17133d06...d1f902c16aab"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-26 07:29:03.936000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0a81e5f`](https://github.com/SimplioOfficial/simplio-app/commit/0a81e5f74f9ac1359b768b10a6b88eb06d94481b) wip - jvrastil\n[`0f67e2f`](https://github.com/SimplioOfficial/simplio-app/commit/0f67e2faf932b9477e1e532bca3557730e25797f) wip - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2542d58e1d5f...0f67e2faf932"
+    }
   }
 ]
