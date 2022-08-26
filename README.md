@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2985 commits since 10/09/2021. You can see the complete history in
+There is a total of 2986 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-26 09:44:48</sub> | <sub>[[simplio-app:bug/158\-fix\_flutter\_actions\_cicd] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd)</sub> | <sub>[50cd888](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil</sub> |
 | <sub>2022-08-26 09:35:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449)</sub> | <sub>[1a4ab36](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449) ci: subosito flutter-action@v2 fix - ciripel</sub> |
 | <sub>2022-08-26 09:20:22</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/94990e9fffdc5bb7ff856a60f158f4c7ee1ed95d)</sub> | <sub>[94990e9](https://github.com/SimplioOfficial/sio_core_light/commit/94990e9fffdc5bb7ff856a60f158f4c7ee1ed95d) ci: test flutter git ver - ciripel</sub> |
 | <sub>2022-08-26 09:18:55</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/39505c7f4c1285bc3199ffca17d326b986167b1f)</sub> | <sub>[39505c7](https://github.com/SimplioOfficial/simplio-app/commit/39505c7f4c1285bc3199ffca17d326b986167b1f) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2985 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-25 15:20:39</sub> | <sub>[[backend-eth-wallet-lib:rc1\.0\.0] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d5c8447e343b^...9d2f4aaa55e2)</sub> | <sub>[d5c8447](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d5c8447e343b3bd34eb8239ec468b50660039e35) feat: update version - PitTxid<br>[9d2f4aa](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/9d2f4aaa55e2dfeaf69082d7c41a8938bdc41e81) chore(release): 1.0.0 - PitTxid</sub> |
 | <sub>2022-08-25 15:11:27</sub> | <sub>[[backend-eth-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/0459e1d6e817...b9ce17133d06)</sub> | <sub>[3f1ef1e](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389) feat: allow out maxfeepergas manually - PitTxid<br>[b9ce171](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/b9ce17133d06cfbac30bb81c70a1437efb2ee0ef) Merge pull request #8 from SimplioOfficial/reve... - PitTxid</sub> |
 | <sub>2022-08-25 15:10:57</sub> | <sub>[[backend-eth-wallet-lib:revert\-create\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389)</sub> | <sub>[3f1ef1e](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/3f1ef1e6126565d6d8fc1b8065e2a635a92fb389) feat: allow out maxfeepergas manually - PitTxid</sub> |
-| <sub>2022-08-25 14:39:13</sub> | <sub>[[backend-eth-wallet-lib:development] 3 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/c026d38135bf...0459e1d6e817)</sub> | <sub>[fac2738](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/fac27385168e63aea2961a9beba76b386e042461) fix: token transaction - PitTxid<br>[e4a1d7b](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/e4a1d7be14caf0b8c06fac81eaa1d6f84db70197) feat: update document - PitTxid<br>[0459e1d](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0459e1d6e81761b25aa8b12b319c4f86009e05e1) Merge pull request #7 from SimplioOfficial/4-up... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

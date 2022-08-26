@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-26 09:44:48</sub> | <sub>[[simplio-app:bug/158\-fix\_flutter\_actions\_cicd] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd)</sub> | <sub>[50cd888](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil</sub> |
 | <sub>2022-08-26 09:35:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449)</sub> | <sub>[1a4ab36](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449) ci: subosito flutter-action@v2 fix - ciripel</sub> |
 | <sub>2022-08-26 09:20:22</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/94990e9fffdc5bb7ff856a60f158f4c7ee1ed95d)</sub> | <sub>[94990e9](https://github.com/SimplioOfficial/sio_core_light/commit/94990e9fffdc5bb7ff856a60f158f4c7ee1ed95d) ci: test flutter git ver - ciripel</sub> |
 | <sub>2022-08-26 09:18:55</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/39505c7f4c1285bc3199ffca17d326b986167b1f)</sub> | <sub>[39505c7](https://github.com/SimplioOfficial/simplio-app/commit/39505c7f4c1285bc3199ffca17d326b986167b1f) wip - jvrastil</sub> |

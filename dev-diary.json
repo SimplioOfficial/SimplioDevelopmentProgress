@@ -53591,5 +53591,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-26 09:44:48.981000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`50cd888`](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil",
+      "title": "[simplio-app:bug/158\\-fix\\_flutter\\_actions\\_cicd] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd"
+    }
   }
 ]
