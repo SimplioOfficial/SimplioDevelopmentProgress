@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2994 commits since 10/09/2021. You can see the complete history in
+There is a total of 2995 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-26 11:36:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0d3e4e12a32c...3c26a4bce416)</sub> | <sub>[5ae6e7e](https://github.com/SimplioOfficial/simplio-app/commit/5ae6e7ecc96878e2be962507ad7db64761ec979d) pokus - jvrastil<br>[3c26a4b](https://github.com/SimplioOfficial/simplio-app/commit/3c26a4bce416e3e9b13034b5bc7752b707a7bbfb) pokus - jvrastil</sub> |
 | <sub>2022-08-26 11:25:39</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ceded993fc7e...fb945e67be02)</sub> | <sub>[da96ac3](https://github.com/SimplioOfficial/simplio-app/commit/da96ac3c5eaa7c8b5f0dd8d36a17d933b6132abd) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[15f2f93](https://github.com/SimplioOfficial/simplio-app/commit/15f2f93d0a3e39edb3ea87ed186b8b8065c67f97) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[fb945e6](https://github.com/SimplioOfficial/simplio-app/commit/fb945e67be02fee1c8fa9f11362cf96d052172bd) chore: format and analyze fix - ciripel</sub> |
 | <sub>2022-08-26 10:15:45</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d3e4e12a32c9eeed564ec605fdc858b613b0556)</sub> | <sub>[0d3e4e1](https://github.com/SimplioOfficial/simplio-app/commit/0d3e4e12a32c9eeed564ec605fdc858b613b0556) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil</sub> |
 | <sub>2022-08-26 10:15:01</sub> | <sub>[[simplio-app:bug/158\-fix\_flutter\_actions\_cicdbug/158\-fix\_flutter\_actions\_cicd\_] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85786a9cfa1b515530d6d4765111d8a17d4c7d42)</sub> | <sub>[85786a9](https://github.com/SimplioOfficial/simplio-app/commit/85786a9cfa1b515530d6d4765111d8a17d4c7d42) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 2994 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-26 10:06:46</sub> | <sub>[[simplio-app:bug/158\-fix\_flutter\_actions\_cicd] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98d392fc3223feaf5151fdf0a587c58f6f14f87b)</sub> | <sub>[98d392f](https://github.com/SimplioOfficial/simplio-app/commit/98d392fc3223feaf5151fdf0a587c58f6f14f87b) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil</sub> |
 | <sub>2022-08-26 09:46:06</sub> | <sub>[[sio_core:master] 1 new commit](https://github.com/SimplioOfficial/sio_core/commit/f36bf51e85e720cfb34ac49c01be33e1c24f221b)</sub> | <sub>[f36bf51](https://github.com/SimplioOfficial/sio_core/commit/f36bf51e85e720cfb34ac49c01be33e1c24f221b) ci: fix subosito/flutter-action@v2 env - ciripel</sub> |
 | <sub>2022-08-26 09:44:48</sub> | <sub>[[simplio-app:bug/158\-fix\_flutter\_actions\_cicd] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd)</sub> | <sub>[50cd888](https://github.com/SimplioOfficial/simplio-app/commit/50cd888049034fd32ad11e586c8af92e248bd4fd) Bug/158 - Fix issue in subosito/flutter-action@v2 - jvrastil</sub> |
-| <sub>2022-08-26 09:35:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449)</sub> | <sub>[1a4ab36](https://github.com/SimplioOfficial/sio_core_light/commit/1a4ab364ae0789ff62bf7f281b44e4613d31e449) ci: subosito flutter-action@v2 fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
