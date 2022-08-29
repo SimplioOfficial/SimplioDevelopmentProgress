@@ -53805,5 +53805,41 @@
       "title": "[simplio-app] Branch task/118\\-send\\_coins\\_ui\\_2 was force-pushed to `0184832`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-29 06:37:23.661000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0e894ef`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0e894ef9724a21ec3c19a9146c41f4e2b65d2a87) feat: update readme file - PitTxid",
+      "title": "[backend-eth-wallet-lib:development] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0e894ef9724a21ec3c19a9146c41f4e2b65d2a87"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-29 06:38:24.950000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0e894ef`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0e894ef9724a21ec3c19a9146c41f4e2b65d2a87) feat: update readme file - PitTxid\n[`5b63bf4`](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/5b63bf49dfabac42cfb971d2ebad4af211761414) Merge pull request #10 from SimplioOfficial/upd... - PitTxid",
+      "title": "[backend-eth-wallet-lib:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d1f902c16aab...5b63bf49dfab"
+    }
   }
 ]
