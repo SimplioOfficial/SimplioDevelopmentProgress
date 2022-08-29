@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3003 commits since 10/09/2021. You can see the complete history in
+There is a total of 3004 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-29 08:10:00</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863)</sub> | <sub>[1c4c64f](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863) Completed: - Tomáš Petrík</sub> |
 | <sub>2022-08-29 06:53:00</sub> | <sub>[[backend-eth-wallet-lib:master] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/5b63bf49dfab...574f2e27810c)</sub> | <sub>[d6b35aa](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978) feat: update example with maxfeepergas - PitTxid<br>[574f2e2](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/574f2e27810cccc714eb5fb83dcebc2ffa105d56) Merge pull request #11 from SimplioOfficial/upd... - PitTxid</sub> |
 | <sub>2022-08-29 06:52:09</sub> | <sub>[[backend-eth-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978)</sub> | <sub>[d6b35aa](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978) feat: update example with maxfeepergas - PitTxid</sub> |
 | <sub>2022-08-29 06:44:47</sub> | <sub>[[backend-bsc-wallet-lib:master] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/b1682cf9b098...6e0b29dbc817)</sub> | <sub>[edeab97](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/edeab977515cb88e810f2c93cf81c5e2e3c2bba3) feat: update readme - PitTxid<br>[6e0b29d](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6e0b29dbc8171961517a893b2ec58df1ea3dd9ce) Merge pull request #20 from SimplioOfficial/upd... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3003 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-26 11:54:04</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/39505c7f4c12...0184832eeb8b)</sub> |
 | <sub>2022-08-26 11:47:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3c26a4bce416...39505c7f4c12)</sub> |
 | <sub>2022-08-26 11:36:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0d3e4e12a32c...3c26a4bce416)</sub> | <sub>[5ae6e7e](https://github.com/SimplioOfficial/simplio-app/commit/5ae6e7ecc96878e2be962507ad7db64761ec979d) pokus - jvrastil<br>[3c26a4b](https://github.com/SimplioOfficial/simplio-app/commit/3c26a4bce416e3e9b13034b5bc7752b707a7bbfb) pokus - jvrastil</sub> |
-| <sub>2022-08-26 11:25:39</sub> | <sub>[[simplio-app:task/119\-sending\-an\-asset\-logic] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ceded993fc7e...fb945e67be02)</sub> | <sub>[da96ac3](https://github.com/SimplioOfficial/simplio-app/commit/da96ac3c5eaa7c8b5f0dd8d36a17d933b6132abd) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[15f2f93](https://github.com/SimplioOfficial/simplio-app/commit/15f2f93d0a3e39edb3ea87ed186b8b8065c67f97) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[fb945e6](https://github.com/SimplioOfficial/simplio-app/commit/fb945e67be02fee1c8fa9f11362cf96d052172bd) chore: format and analyze fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
