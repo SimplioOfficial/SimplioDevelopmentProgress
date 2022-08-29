@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-29 14:38:25</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8)</sub> | <sub>[7301906](https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8) Fixer PR issues. - Tomáš Petrík</sub> |
 | <sub>2022-08-29 13:20:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9)</sub> | <sub>[bf84c20](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9) Task/119 sending an asset logic (#144) - ciripel</sub> |
 | <sub>2022-08-29 12:55:17</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ba5c33f565db0b054530c4a3d52583f06b9a5698)</sub> | <sub>[ba5c33f](https://github.com/SimplioOfficial/simplio-app/commit/ba5c33f565db0b054530c4a3d52583f06b9a5698) wip - jvrastil</sub> |
 | <sub>2022-08-29 08:10:00</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863)</sub> | <sub>[1c4c64f](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863) Completed: - Tomáš Petrík</sub> |

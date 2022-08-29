@@ -53967,5 +53967,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-29 14:38:25.805000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7301906`](https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8) Fixer PR issues. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/135\\-main\\-app\\-bar\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8"
+    }
   }
 ]
