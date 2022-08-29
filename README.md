@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3004 commits since 10/09/2021. You can see the complete history in
+There is a total of 3005 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-29 12:55:17</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ba5c33f565db0b054530c4a3d52583f06b9a5698)</sub> | <sub>[ba5c33f](https://github.com/SimplioOfficial/simplio-app/commit/ba5c33f565db0b054530c4a3d52583f06b9a5698) wip - jvrastil</sub> |
 | <sub>2022-08-29 08:10:00</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863)</sub> | <sub>[1c4c64f](https://github.com/SimplioOfficial/simplio-app/commit/1c4c64f2c240199e32bb61adaa366a1e68819863) Completed: - Tomáš Petrík</sub> |
 | <sub>2022-08-29 06:53:00</sub> | <sub>[[backend-eth-wallet-lib:master] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/5b63bf49dfab...574f2e27810c)</sub> | <sub>[d6b35aa](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978) feat: update example with maxfeepergas - PitTxid<br>[574f2e2](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/574f2e27810cccc714eb5fb83dcebc2ffa105d56) Merge pull request #11 from SimplioOfficial/upd... - PitTxid</sub> |
 | <sub>2022-08-29 06:52:09</sub> | <sub>[[backend-eth-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978)</sub> | <sub>[d6b35aa](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/d6b35aa7d0ea8a87a8a69395d7007781708bd978) feat: update example with maxfeepergas - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3004 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-29 06:37:23</sub> | <sub>[[backend-eth-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0e894ef9724a21ec3c19a9146c41f4e2b65d2a87)</sub> | <sub>[0e894ef](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/0e894ef9724a21ec3c19a9146c41f4e2b65d2a87) feat: update readme file - PitTxid</sub> |
 | <sub>2022-08-26 11:54:04</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/39505c7f4c12...0184832eeb8b)</sub> |
 | <sub>2022-08-26 11:47:47</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3c26a4bce416...39505c7f4c12)</sub> |
-| <sub>2022-08-26 11:36:49</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0d3e4e12a32c...3c26a4bce416)</sub> | <sub>[5ae6e7e](https://github.com/SimplioOfficial/simplio-app/commit/5ae6e7ecc96878e2be962507ad7db64761ec979d) pokus - jvrastil<br>[3c26a4b](https://github.com/SimplioOfficial/simplio-app/commit/3c26a4bce416e3e9b13034b5bc7752b707a7bbfb) pokus - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
