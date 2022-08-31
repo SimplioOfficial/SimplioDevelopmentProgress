@@ -54325,5 +54325,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/25d7f1e08f421270515af575186e5aae16966fdc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 12:30:46.245000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`a0c8cad`](https://github.com/SimplioOfficial/simplio-app/commit/a0c8cada7ba2cf0863a6600a0cfcfbe18252ab58) Completed task/176 as follows: - Tom\u00e1\u0161 Petr\u00edk\n[`3d1a81b`](https://github.com/SimplioOfficial/simplio-app/commit/3d1a81b3067deb6fcf0d71197717ecee89ae19d2) Fixed background gradient colors. - Tom\u00e1\u0161 Petr\u00edk\n[`03be4c3`](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44) Fixed import path for constants file - Tom\u00e1\u0161 Petr\u00edk\n[`09d1d86`](https://github.com/SimplioOfficial/simplio-app/commit/09d1d86d033eeea0e3b50e0b4b8836c1988941fb) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`1320ed4`](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2) Finaly removed unnecessary body_text and themed... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:master] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9506173df70...9e2cc756d68a"
+    }
   }
 ]
