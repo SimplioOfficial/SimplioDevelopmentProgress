@@ -54467,5 +54467,23 @@
       "title": "[simplio-app] Branch task/136\\-expansion\\-asset\\-wallet\\-widget was force-pushed to `f201efd`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 19:34:51.650000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`411de04`](https://github.com/SimplioOfficial/simplio-app/commit/411de0475e828b4398e00c08d219a5afd76e8dcb) wip: wc_repository sketch - ciripel",
+      "title": "[simplio-app:task/178\\-register\\-methods\\-for\\-wallet\\-connect\\-callbacks] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/411de0475e828b4398e00c08d219a5afd76e8dcb"
+    }
   }
 ]
