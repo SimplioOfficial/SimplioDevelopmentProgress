@@ -54307,5 +54307,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5b5b922a8ecde6beab9c83f9bdb8b5220015cad0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 11:57:26.878000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`25d7f1e`](https://github.com/SimplioOfficial/simplio-app/commit/25d7f1e08f421270515af575186e5aae16966fdc) Update links - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/25d7f1e08f421270515af575186e5aae16966fdc"
+    }
   }
 ]
