@@ -54450,5 +54450,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/00366a0d93fb282c907c03edb377d0911999f70e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 15:00:45.643000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/00366a0d93fb...f201efd8f5ea)",
+      "title": "[simplio-app] Branch task/136\\-expansion\\-asset\\-wallet\\-widget was force-pushed to `f201efd`",
+      "type": "rich"
+    }
   }
 ]
