@@ -54379,5 +54379,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 12:47:31.159000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0f313a0`](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe) nullable first value - storkandstars",
+      "title": "[simplio-app:task/168\\-fetching\\-fees\\-for\\-send\\-transaction\\-summary] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe"
+    }
   }
 ]
