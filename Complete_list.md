@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 07:51:49</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44)</sub> | <sub>[03be4c3](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44) Fixed import path for constants file - Tomáš Petrík</sub> |
 | <sub>2022-08-31 07:46:45</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f)</sub> | <sub>[3f6e2ef](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f) Update README.md - daxicek</sub> |
 | <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
 | <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |

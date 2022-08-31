@@ -54164,5 +54164,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 07:51:49.010000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`03be4c3`](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44) Fixed import path for constants file - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/176\\-create\\-a\\-scan\\-code\\-screen\\-for\\-wallet\\-connect] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44"
+    }
   }
 ]

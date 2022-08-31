@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3017 commits since 10/09/2021. You can see the complete history in
+There is a total of 3018 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 07:51:49</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44)</sub> | <sub>[03be4c3](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44) Fixed import path for constants file - Tomáš Petrík</sub> |
 | <sub>2022-08-31 07:46:45</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f)</sub> | <sub>[3f6e2ef](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f) Update README.md - daxicek</sub> |
 | <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
 | <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3017 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-31 04:35:00</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/098888c8d55a...15ca3c8c1937)</sub> | <sub>[34390d4](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d) feat: support testnet transaction - PitTxid<br>[15ca3c8](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/15ca3c8c1937b05ff2186dca6cb3acdfda729ff0) Merge pull request #29 from SimplioOfficial/28-... - PitTxid</sub> |
 | <sub>2022-08-31 04:18:20</sub> | <sub>[[backend-bitcoin-wallet-lib:28\-create\-testnet\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d)</sub> | <sub>[34390d4](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d) feat: support testnet transaction - PitTxid</sub> |
 | <sub>2022-08-30 03:33:41</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/65351f5502ca...098888c8d55a)</sub> | <sub>[c058794](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9) feat: support generate testnet address - PitTxid<br>[098888c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/098888c8d55a7e14d94289efe6c19ba83cb7a96c) Merge pull request #27 from SimplioOfficial/26-... - PitTxid</sub> |
-| <sub>2022-08-30 03:33:17</sub> | <sub>[[backend-bitcoin-wallet-lib:26\-create\-bitcoin\-testnet\-address] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9)</sub> | <sub>[c058794](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9) feat: support generate testnet address - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
