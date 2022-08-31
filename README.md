@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3030 commits since 10/09/2021. You can see the complete history in
+There is a total of 3031 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 13:48:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ce04ffa52ff9...f92c6f4bcff1)</sub> |
 | <sub>2022-08-31 12:47:31</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe)</sub> | <sub>[0f313a0](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe) nullable first value - storkandstars</sub> |
 | <sub>2022-08-31 12:43:05</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798)</sub> | <sub>[705c68c](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798) adding detailed exception - storkandstars</sub> |
 | <sub>2022-08-31 12:35:13</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca)</sub> | <sub>[83d8b8d](https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca) removing feeUnit nullability - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3030 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-31 11:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/14a6771e9f82...ce04ffa52ff9)</sub> |
 | <sub>2022-08-31 11:04:06</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf84c2001d10...b442bec87563)</sub> | <sub>[549f4e6](https://github.com/SimplioOfficial/simplio-app/commit/549f4e6275edf383faac6dfcf3051b71262910b5) adding a fee repository - storkandstars<br>[b442bec](https://github.com/SimplioOfficial/simplio-app/commit/b442bec875632ff651d15692d41e777f7025ba9a) adding tests for FeeData - storkandstars</sub> |
 | <sub>2022-08-31 09:45:12</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2)</sub> | <sub>[1320ed4](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2) Finaly removed unnecessary body_text and themed... - Tomáš Petrík</sub> |
-| <sub>2022-08-31 09:37:01</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/03be4c39a0e8...09d1d86d033e)</sub> | <sub>[8ab4a27](https://github.com/SimplioOfficial/simplio-app/commit/8ab4a2701b9e46235562b54b60cca3007a1bc4c4) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[a3bf57e](https://github.com/SimplioOfficial/simplio-app/commit/a3bf57e59dd4cb1ac21a555dea9098e76ab85e3d) Bug/158 fix flutter actions cicd (#160) - jvrastil<br>[0d3e4e1](https://github.com/SimplioOfficial/simplio-app/commit/0d3e4e12a32c9eeed564ec605fdc858b613b0556) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil<br>[bf84c20](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9) Task/119 sending an asset logic (#144) - ciripel<br>[e950617](https://github.com/SimplioOfficial/simplio-app/commit/e9506173df702448df5469f486f58480b67245d9) Merge pull request #154 from SimplioOfficial/ta... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

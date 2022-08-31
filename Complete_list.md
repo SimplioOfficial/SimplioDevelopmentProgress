@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 13:48:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ce04ffa52ff9...f92c6f4bcff1)</sub> |
 | <sub>2022-08-31 12:47:31</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe)</sub> | <sub>[0f313a0](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe) nullable first value - storkandstars</sub> |
 | <sub>2022-08-31 12:43:05</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798)</sub> | <sub>[705c68c](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798) adding detailed exception - storkandstars</sub> |
 | <sub>2022-08-31 12:35:13</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca)</sub> | <sub>[83d8b8d](https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca) removing feeUnit nullability - storkandstars</sub> |
