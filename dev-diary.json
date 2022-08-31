@@ -54039,5 +54039,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 04:35:00.576000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`34390d4`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d) feat: support testnet transaction - PitTxid\n[`15ca3c8`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/15ca3c8c1937b05ff2186dca6cb3acdfda729ff0) Merge pull request #29 from SimplioOfficial/28-... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/098888c8d55a...15ca3c8c1937"
+    }
   }
 ]
