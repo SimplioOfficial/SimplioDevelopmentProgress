@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3024 commits since 10/09/2021. You can see the complete history in
+There is a total of 3025 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 11:38:25</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b5b922a8ecde6beab9c83f9bdb8b5220015cad0)</sub> | <sub>[5b5b922](https://github.com/SimplioOfficial/simplio-app/commit/5b5b922a8ecde6beab9c83f9bdb8b5220015cad0) Changed Contants to Dimensions, - Tomáš Petrík</sub> |
 | <sub>2022-08-31 11:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/14a6771e9f82...ce04ffa52ff9)</sub> |
 | <sub>2022-08-31 11:04:06</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf84c2001d10...b442bec87563)</sub> | <sub>[549f4e6](https://github.com/SimplioOfficial/simplio-app/commit/549f4e6275edf383faac6dfcf3051b71262910b5) adding a fee repository - storkandstars<br>[b442bec](https://github.com/SimplioOfficial/simplio-app/commit/b442bec875632ff651d15692d41e777f7025ba9a) adding tests for FeeData - storkandstars</sub> |
 | <sub>2022-08-31 09:45:12</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2)</sub> | <sub>[1320ed4](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2) Finaly removed unnecessary body_text and themed... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3024 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-31 07:51:49</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44)</sub> | <sub>[03be4c3](https://github.com/SimplioOfficial/simplio-app/commit/03be4c39a0e80d506a756ee758ab2e65f8559b44) Fixed import path for constants file - Tomáš Petrík</sub> |
 | <sub>2022-08-31 07:46:45</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f)</sub> | <sub>[3f6e2ef](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f) Update README.md - daxicek</sub> |
 | <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
-| <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
