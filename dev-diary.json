@@ -54414,5 +54414,41 @@
       "title": "[simplio-app] Branch task/118\\-send\\_coins\\_ui\\_2 was force-pushed to `f92c6f4`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 14:35:12.046000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`62eee9b`](https://github.com/SimplioOfficial/simplio-app/commit/62eee9b97a291b0e6d5acb7a38ac7ba1ec8a3b44) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`b3def97`](https://github.com/SimplioOfficial/simplio-app/commit/b3def97efd7b47e5fde36ded5a1f0c199767981d) Incremented version to 78 - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/136\\-expansion\\-asset\\-wallet\\-widget] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/1c4c64f2c240...b3def97efd7b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 14:37:24.192000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`00366a0`](https://github.com/SimplioOfficial/simplio-app/commit/00366a0d93fb282c907c03edb377d0911999f70e) Fixed small issues. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/136\\-expansion\\-asset\\-wallet\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/00366a0d93fb282c907c03edb377d0911999f70e"
+    }
   }
 ]

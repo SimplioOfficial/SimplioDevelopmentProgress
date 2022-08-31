@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3031 commits since 10/09/2021. You can see the complete history in
+There is a total of 3033 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 14:37:24</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00366a0d93fb282c907c03edb377d0911999f70e)</sub> | <sub>[00366a0](https://github.com/SimplioOfficial/simplio-app/commit/00366a0d93fb282c907c03edb377d0911999f70e) Fixed small issues. - Tomáš Petrík</sub> |
+| <sub>2022-08-31 14:35:12</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/1c4c64f2c240...b3def97efd7b)</sub> | <sub>[62eee9b](https://github.com/SimplioOfficial/simplio-app/commit/62eee9b97a291b0e6d5acb7a38ac7ba1ec8a3b44) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[b3def97](https://github.com/SimplioOfficial/simplio-app/commit/b3def97efd7b47e5fde36ded5a1f0c199767981d) Incremented version to 78 - Tomáš Petrík</sub> |
 | <sub>2022-08-31 13:48:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ce04ffa52ff9...f92c6f4bcff1)</sub> |
 | <sub>2022-08-31 12:47:31</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe)</sub> | <sub>[0f313a0](https://github.com/SimplioOfficial/simplio-app/commit/0f313a0ae3feadab9705057437c5731c0e0a4abe) nullable first value - storkandstars</sub> |
 | <sub>2022-08-31 12:43:05</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798)</sub> | <sub>[705c68c](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798) adding detailed exception - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 3031 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-31 11:57:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25d7f1e08f421270515af575186e5aae16966fdc)</sub> | <sub>[25d7f1e](https://github.com/SimplioOfficial/simplio-app/commit/25d7f1e08f421270515af575186e5aae16966fdc) Update links - daxicek</sub> |
 | <sub>2022-08-31 11:38:25</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b5b922a8ecde6beab9c83f9bdb8b5220015cad0)</sub> | <sub>[5b5b922](https://github.com/SimplioOfficial/simplio-app/commit/5b5b922a8ecde6beab9c83f9bdb8b5220015cad0) Changed Contants to Dimensions, - Tomáš Petrík</sub> |
 | <sub>2022-08-31 11:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/14a6771e9f82...ce04ffa52ff9)</sub> |
-| <sub>2022-08-31 11:04:06</sub> | <sub>[[simplio-app:task/168\-fetching\-fees\-for\-send\-transaction\-summary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf84c2001d10...b442bec87563)</sub> | <sub>[549f4e6](https://github.com/SimplioOfficial/simplio-app/commit/549f4e6275edf383faac6dfcf3051b71262910b5) adding a fee repository - storkandstars<br>[b442bec](https://github.com/SimplioOfficial/simplio-app/commit/b442bec875632ff651d15692d41e777f7025ba9a) adding tests for FeeData - storkandstars</sub> |
-| <sub>2022-08-31 09:45:12</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2)</sub> | <sub>[1320ed4](https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2) Finaly removed unnecessary body_text and themed... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
