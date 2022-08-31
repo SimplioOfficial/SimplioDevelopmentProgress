@@ -54254,5 +54254,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1320ed449108f36e6997fbd83a38e3467858fff2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 11:04:06.333000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`549f4e6`](https://github.com/SimplioOfficial/simplio-app/commit/549f4e6275edf383faac6dfcf3051b71262910b5) adding a fee repository - storkandstars\n[`b442bec`](https://github.com/SimplioOfficial/simplio-app/commit/b442bec875632ff651d15692d41e777f7025ba9a) adding tests for FeeData - storkandstars",
+      "title": "[simplio-app:task/168\\-fetching\\-fees\\-for\\-send\\-transaction\\-summary] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/bf84c2001d10...b442bec87563"
+    }
   }
 ]
