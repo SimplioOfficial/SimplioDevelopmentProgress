@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 07:46:45</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f)</sub> | <sub>[3f6e2ef](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f) Update README.md - daxicek</sub> |
 | <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
 | <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |
 | <sub>2022-08-31 06:58:56</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3)</sub> | <sub>[7355e32](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3) Update README file - daxicek</sub> |

@@ -54146,5 +54146,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 07:46:45.345000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`3f6e2ef`](https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f) Update README.md - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3f6e2ef45e76e25504a476119356efb24f4d498f"
+    }
   }
 ]
