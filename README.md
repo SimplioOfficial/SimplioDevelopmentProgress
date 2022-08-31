@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3015 commits since 10/09/2021. You can see the complete history in
+There is a total of 3016 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
 | <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |
 | <sub>2022-08-31 06:58:56</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3)</sub> | <sub>[7355e32](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3) Update README file - daxicek</sub> |
 | <sub>2022-08-31 06:54:39</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a0c8cada7ba2^...3d1a81b3067d)</sub> | <sub>[a0c8cad](https://github.com/SimplioOfficial/simplio-app/commit/a0c8cada7ba2cf0863a6600a0cfcfbe18252ab58) Completed task/176 as follows: - Tomáš Petrík<br>[3d1a81b](https://github.com/SimplioOfficial/simplio-app/commit/3d1a81b3067deb6fcf0d71197717ecee89ae19d2) Fixed background gradient colors. - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3015 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-08-30 03:33:41</sub> | <sub>[[backend-bitcoin-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/65351f5502ca...098888c8d55a)</sub> | <sub>[c058794](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9) feat: support generate testnet address - PitTxid<br>[098888c](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/098888c8d55a7e14d94289efe6c19ba83cb7a96c) Merge pull request #27 from SimplioOfficial/26-... - PitTxid</sub> |
 | <sub>2022-08-30 03:33:17</sub> | <sub>[[backend-bitcoin-wallet-lib:26\-create\-bitcoin\-testnet\-address] 1 new commit](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9)</sub> | <sub>[c058794](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9) feat: support generate testnet address - PitTxid</sub> |
 | <sub>2022-08-29 14:38:25</sub> | <sub>[[simplio-app:task/135\-main\-app\-bar\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8)</sub> | <sub>[7301906](https://github.com/SimplioOfficial/simplio-app/commit/7301906565bf8c4e64e7ef0481b724f5638e8ea8) Fixer PR issues. - Tomáš Petrík</sub> |
-| <sub>2022-08-29 13:20:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9)</sub> | <sub>[bf84c20](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9) Task/119 sending an asset logic (#144) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

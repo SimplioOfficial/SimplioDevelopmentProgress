@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-08-31 07:40:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2)</sub> | <sub>[ed0f98c](https://github.com/SimplioOfficial/simplio-app/commit/ed0f98c80b0087b6b6104dbc530192379ef921a2) Add LICENSE - daxicek</sub> |
 | <sub>2022-08-31 07:19:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ba5c33f565db...3220593f5ff4)</sub> |
 | <sub>2022-08-31 06:58:56</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3)</sub> | <sub>[7355e32](https://github.com/SimplioOfficial/simplio-app/commit/7355e3289840022bbacd87634f4ddcbdd74aeca3) Update README file - daxicek</sub> |
 | <sub>2022-08-31 06:54:39</sub> | <sub>[[simplio-app:task/176\-create\-a\-scan\-code\-screen\-for\-wallet\-connect] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a0c8cada7ba2^...3d1a81b3067d)</sub> | <sub>[a0c8cad](https://github.com/SimplioOfficial/simplio-app/commit/a0c8cada7ba2cf0863a6600a0cfcfbe18252ab58) Completed task/176 as follows: - Tomáš Petrík<br>[3d1a81b](https://github.com/SimplioOfficial/simplio-app/commit/3d1a81b3067deb6fcf0d71197717ecee89ae19d2) Fixed background gradient colors. - Tomáš Petrík</sub> |
