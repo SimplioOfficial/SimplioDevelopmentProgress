@@ -54343,5 +54343,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9506173df70...9e2cc756d68a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 12:35:13.483000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`83d8b8d`](https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca) removing feeUnit nullability - storkandstars",
+      "title": "[simplio-app:task/168\\-fetching\\-fees\\-for\\-send\\-transaction\\-summary] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca"
+    }
   }
 ]
