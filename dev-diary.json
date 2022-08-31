@@ -54218,5 +54218,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/bf84c2001d10...e9506173df70"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 09:37:01.753000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`8ab4a27`](https://github.com/SimplioOfficial/simplio-app/commit/8ab4a2701b9e46235562b54b60cca3007a1bc4c4) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil\n[`a3bf57e`](https://github.com/SimplioOfficial/simplio-app/commit/a3bf57e59dd4cb1ac21a555dea9098e76ab85e3d) Bug/158 fix flutter actions cicd (#160) - jvrastil\n[`0d3e4e1`](https://github.com/SimplioOfficial/simplio-app/commit/0d3e4e12a32c9eeed564ec605fdc858b613b0556) Bug/158 - Fix issue in subosito/flutter-action@... - jvrastil\n[`bf84c20`](https://github.com/SimplioOfficial/simplio-app/commit/bf84c2001d100c51f5d6a579f2c6f7cf37b368d9) Task/119 sending an asset logic (#144) - ciripel\n[`e950617`](https://github.com/SimplioOfficial/simplio-app/commit/e9506173df702448df5469f486f58480b67245d9) Merge pull request #154 from SimplioOfficial/ta... - TomasPetrik",
+      "title": "[simplio-app:task/176\\-create\\-a\\-scan\\-code\\-screen\\-for\\-wallet\\-connect] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/03be4c39a0e8...09d1d86d033e"
+    }
   }
 ]
