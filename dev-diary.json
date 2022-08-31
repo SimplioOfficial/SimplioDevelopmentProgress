@@ -54361,5 +54361,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/83d8b8db264b0131faccd95813d647ab80959fca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-08-31 12:43:05.068000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`705c68c`](https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798) adding detailed exception - storkandstars",
+      "title": "[simplio-app:task/168\\-fetching\\-fees\\-for\\-send\\-transaction\\-summary] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/705c68cf73c34362f512ae010bb27a67dace0798"
+    }
   }
 ]
