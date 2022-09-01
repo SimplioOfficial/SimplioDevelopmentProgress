@@ -54557,5 +54557,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/39f6bae7c07b...231853415c25"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 07:03:35.026000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c058794`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/c05879421cf22e28958b77cae4f50a12a3fe19e9) feat: support generate testnet address - PitTxid\n[`098888c`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/098888c8d55a7e14d94289efe6c19ba83cb7a96c) Merge pull request #27 from SimplioOfficial/26-... - PitTxid\n[`34390d4`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/34390d4743c6a3e94cfe03e2ae4397a4141c3f3d) feat: support testnet transaction - PitTxid\n[`15ca3c8`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/15ca3c8c1937b05ff2186dca6cb3acdfda729ff0) Merge pull request #29 from SimplioOfficial/28-... - PitTxid\n[`ed343c6`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/ed343c62df1080a5fd44f08dd73ef25745246da3) feat: update testnet readme - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:master] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/cb5481368ac8...4c882f55c43f"
+    }
   }
 ]
