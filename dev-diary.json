@@ -54611,5 +54611,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f19d9315e8b9b71df4a8dfd8d1f0de0f37ba4e90"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 08:57:57.273000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`aea32f8`](https://github.com/SimplioOfficial/simplio-app/commit/aea32f82a9fbda4bae374c0c6790d229dd4b22dc) Update CHANGELOG.md - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aea32f82a9fbda4bae374c0c6790d229dd4b22dc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 08:58:34.980000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`5edf785`](https://github.com/SimplioOfficial/simplio-app/commit/5edf7854519ae112cb98cae6131446259fa1e138) Update LICENSE - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5edf7854519ae112cb98cae6131446259fa1e138"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 08:59:29.226000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`da9fdc5`](https://github.com/SimplioOfficial/simplio-app/commit/da9fdc5f9b4f7eab554971222588ca28532d2aec) Update README.md - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/da9fdc5f9b4f7eab554971222588ca28532d2aec"
+    }
   }
 ]
