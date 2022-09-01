@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3051 commits since 10/09/2021. You can see the complete history in
+There is a total of 3052 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-01 11:17:29</sub> | <sub>[[simplio-app:master] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9e2cc756d68a...ff67a58be378)</sub> | <sub>[f201efd](https://github.com/SimplioOfficial/simplio-app/commit/f201efd8f5ea5a1a16c50d5cb4d707122175aaca) Completed task/136 - squashed all commits - Tomáš Petrík<br>[d964c69](https://github.com/SimplioOfficial/simplio-app/commit/d964c69002f3e8a04f6f440ea65222d9ced15df2) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[486ebe3](https://github.com/SimplioOfficial/simplio-app/commit/486ebe3ef10bbe05a5642ed87a8446cfe8a37202) Fixed PR 136 - Tomáš Petrík<br>[e03b32f](https://github.com/SimplioOfficial/simplio-app/commit/e03b32f92e81e2373ebf2f2f5821969b1f0fb097) Fixed issues for PR 136 - Tomáš Petrík<br>[fffadb7](https://github.com/SimplioOfficial/simplio-app/commit/fffadb78760e9cc345faa775687ccc84de635f09) Name correction - Tomáš Petrík</sub> |
 | <sub>2022-09-01 10:47:56</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5157a8dbe0cefb378f8c450a5b11f745dcbf284)</sub> | <sub>[c5157a8](https://github.com/SimplioOfficial/simplio-app/commit/c5157a8dbe0cefb378f8c450a5b11f745dcbf284) Added animationDuration arg for SioExpansionRad... - Tomáš Petrík</sub> |
 | <sub>2022-09-01 10:36:36</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fffadb78760e9cc345faa775687ccc84de635f09)</sub> | <sub>[fffadb7](https://github.com/SimplioOfficial/simplio-app/commit/fffadb78760e9cc345faa775687ccc84de635f09) Name correction - Tomáš Petrík</sub> |
 | <sub>2022-09-01 10:34:55</sub> | <sub>[[simplio-app:task/136\-expansion\-asset\-wallet\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e03b32f92e81e2373ebf2f2f5821969b1f0fb097)</sub> | <sub>[e03b32f](https://github.com/SimplioOfficial/simplio-app/commit/e03b32f92e81e2373ebf2f2f5821969b1f0fb097) Fixed issues for PR 136 - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3051 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-01 08:59:29</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da9fdc5f9b4f7eab554971222588ca28532d2aec)</sub> | <sub>[da9fdc5](https://github.com/SimplioOfficial/simplio-app/commit/da9fdc5f9b4f7eab554971222588ca28532d2aec) Update README.md - daxicek</sub> |
 | <sub>2022-09-01 08:58:34</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5edf7854519ae112cb98cae6131446259fa1e138)</sub> | <sub>[5edf785](https://github.com/SimplioOfficial/simplio-app/commit/5edf7854519ae112cb98cae6131446259fa1e138) Update LICENSE - daxicek</sub> |
 | <sub>2022-09-01 08:57:57</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aea32f82a9fbda4bae374c0c6790d229dd4b22dc)</sub> | <sub>[aea32f8](https://github.com/SimplioOfficial/simplio-app/commit/aea32f82a9fbda4bae374c0c6790d229dd4b22dc) Update CHANGELOG.md - daxicek</sub> |
-| <sub>2022-09-01 08:42:42</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f19d9315e8b9b71df4a8dfd8d1f0de0f37ba4e90)</sub> | <sub>[f19d931](https://github.com/SimplioOfficial/simplio-app/commit/f19d9315e8b9b71df4a8dfd8d1f0de0f37ba4e90) Remove dev guide - daxicek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
