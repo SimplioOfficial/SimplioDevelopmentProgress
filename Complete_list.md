@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-01 13:39:44</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9e2cc756d68a...0698edac1170)</sub> | <sub>[3d6d617](https://github.com/SimplioOfficial/simplio-app/commit/3d6d6177ecb78075ff6e14c7aba051ce5cdbf1e1) adding model helpers - storkandstars<br>[0698eda](https://github.com/SimplioOfficial/simplio-app/commit/0698edac11702dc8be621e1cb0d208043287f519) adding wallet_connect lib - storkandstars</sub> |
 | <sub>2022-09-01 12:05:32</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/cf3bd90b8cbe...d85a75505f98)</sub> |
 | <sub>2022-09-01 11:46:37</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/44a03745ca02...cf3bd90b8cbe)</sub> |
 | <sub>2022-09-01 11:41:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5e6c69dd93c2...44a03745ca02)</sub> |
