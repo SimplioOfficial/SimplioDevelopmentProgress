@@ -54809,5 +54809,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/902210377e11...a3af63b5a908"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 11:31:58.418000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a3af63b5a908...d324a5cd9726)",
+      "title": "[simplio-app] Branch task/171\\-total\\-balance\\-widget\\-in\\-inventory\\-screen was force-pushed to `d324a5c`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 11:34:35.019000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`f201efd`](https://github.com/SimplioOfficial/simplio-app/commit/f201efd8f5ea5a1a16c50d5cb4d707122175aaca) Completed task/136 - squashed all commits - Tom\u00e1\u0161 Petr\u00edk\n[`d964c69`](https://github.com/SimplioOfficial/simplio-app/commit/d964c69002f3e8a04f6f440ea65222d9ced15df2) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`486ebe3`](https://github.com/SimplioOfficial/simplio-app/commit/486ebe3ef10bbe05a5642ed87a8446cfe8a37202) Fixed PR 136 - Tom\u00e1\u0161 Petr\u00edk\n[`e03b32f`](https://github.com/SimplioOfficial/simplio-app/commit/e03b32f92e81e2373ebf2f2f5821969b1f0fb097) Fixed issues for PR 136 - Tom\u00e1\u0161 Petr\u00edk\n[`fffadb7`](https://github.com/SimplioOfficial/simplio-app/commit/fffadb78760e9cc345faa775687ccc84de635f09) Name correction - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/171\\-total\\-balance\\-widget\\-in\\-inventory\\-screen] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/d324a5cd9726...27f4d4106aea"
+    }
   }
 ]
