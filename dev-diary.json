@@ -54593,5 +54593,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/902210377e11ccf7d0d30af5ec6416b2dc28e6e3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 08:42:42.569000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`f19d931`](https://github.com/SimplioOfficial/simplio-app/commit/f19d9315e8b9b71df4a8dfd8d1f0de0f37ba4e90) Remove dev guide - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f19d9315e8b9b71df4a8dfd8d1f0de0f37ba4e90"
+    }
   }
 ]
