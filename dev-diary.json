@@ -54485,5 +54485,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/411de0475e828b4398e00c08d219a5afd76e8dcb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 02:10:42.067000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ed343c6`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/ed343c62df1080a5fd44f08dd73ef25745246da3) feat: update testnet readme - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:30\\-update\\-documentation\\-for\\-testnet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/ed343c62df1080a5fd44f08dd73ef25745246da3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 02:10:57.119000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`ed343c6`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/ed343c62df1080a5fd44f08dd73ef25745246da3) feat: update testnet readme - PitTxid\n[`39f6bae`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/39f6bae7c07bcce31abee37f74d2fae6ac4003d7) Merge pull request #32 from SimplioOfficial/30-... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/15ca3c8c1937...39f6bae7c07b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 02:13:56.527000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3677b78`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3677b78159c7096974834961b7245dbc9258fc88) chore(release): 2.1.0 - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:rc2\\.1\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3677b78159c7096974834961b7245dbc9258fc88"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 02:14:19.145000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`3677b78`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/3677b78159c7096974834961b7245dbc9258fc88) chore(release): 2.1.0 - PitTxid\n[`2318534`](https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/commit/231853415c252fbe4b5efee26afd51f15f3038f2) Merge pull request #33 from SimplioOfficial/rc2... - PitTxid",
+      "title": "[backend-bitcoin-wallet-lib:development] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bitcoin-wallet-lib/compare/39f6bae7c07b...231853415c25"
+    }
   }
 ]
