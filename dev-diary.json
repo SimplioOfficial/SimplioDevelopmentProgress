@@ -55020,5 +55020,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/f645a4c7bda0...93f031adf2fb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 15:45:03.351000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7ae9c00`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/7ae9c008404540ea0607805749f62b2bf118edf4) build: increase version - PitTxid\n[`2386751`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/23867516f491e3c2794050629ec675c5813a2547) chore(release): 1.4.0 - PitTxid\n[`b1682cf`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1682cf9b0982ec1daf10b51eeb6307c1b37e852) Merge pull request #19 from SimplioOfficial/rc1... - PitTxid\n[`6e0b29d`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6e0b29dbc8171961517a893b2ec58df1ea3dd9ce) Merge pull request #20 from SimplioOfficial/upd... - PitTxid\n[`c476f33`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c476f3399f86e297225b19aefb53c918b8a93be1) Merge branch 'master' into rc1.4.1 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:rc1\\.4\\.1] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/f3f52e9e69d3...c476f3399f86"
+    }
   }
 ]
