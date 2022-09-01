@@ -54879,5 +54879,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9f23a88828a2...5e6c69dd93c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-01 11:41:41.371000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5e6c69dd93c2...44a03745ca02)",
+      "title": "[simplio-app] Branch task/171\\-total\\-balance\\-widget\\-in\\-inventory\\-screen was force-pushed to `44a0374`",
+      "type": "rich"
+    }
   }
 ]
