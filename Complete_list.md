@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-02 15:58:02</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd)</sub> | <sub>[f57e76d](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd) wip: use trust_wallet_core_lib instead of web3 - ciripel</sub> |
 | <sub>2022-09-02 09:48:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/62d7bd7d094d...e9ec8afd2ac0)</sub> |
 | <sub>2022-09-02 09:45:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f92c6f4bcff1...62d7bd7d094d)</sub> |
 | <sub>2022-09-02 09:00:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477)</sub> | <sub>[7a7e016](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek</sub> |

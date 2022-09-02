@@ -55231,5 +55231,23 @@
       "title": "[simplio-app] Branch task/118\\-send\\_coins\\_ui\\_2 was force-pushed to `e9ec8af`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-02 15:58:02.227000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f57e76d`](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd) wip: use trust_wallet_core_lib instead of web3 - ciripel",
+      "title": "[sio_wallet_connect:feat/solana\\_chain\\_support] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd"
+    }
   }
 ]
