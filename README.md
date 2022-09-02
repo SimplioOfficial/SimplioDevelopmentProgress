@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3073 commits since 10/09/2021. You can see the complete history in
+There is a total of 3074 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-02 07:54:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2)</sub> | <sub>[261b6e0](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2) Developing guidelines - daxicek</sub> |
 | <sub>2022-09-02 07:38:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74)</sub> | <sub>[3b1dca0](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74) Change banner - daxicek</sub> |
 | <sub>2022-09-01 22:43:21</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-01 22:43:06</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3073 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-01 16:03:23</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9459f04546f7f03691a038760f22aaf6bc3e27a)</sub> | <sub>[e9459f0](https://github.com/SimplioOfficial/simplio-app/commit/e9459f04546f7f03691a038760f22aaf6bc3e27a) wip - opening wc connection - storkandstars</sub> |
 | <sub>2022-09-01 15:45:03</sub> | <sub>[[backend-bsc-wallet-lib:rc1\.4\.1] 5 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/f3f52e9e69d3...c476f3399f86)</sub> | <sub>[7ae9c00](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/7ae9c008404540ea0607805749f62b2bf118edf4) build: increase version - PitTxid<br>[2386751](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/23867516f491e3c2794050629ec675c5813a2547) chore(release): 1.4.0 - PitTxid<br>[b1682cf](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1682cf9b0982ec1daf10b51eeb6307c1b37e852) Merge pull request #19 from SimplioOfficial/rc1... - PitTxid<br>[6e0b29d](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6e0b29dbc8171961517a893b2ec58df1ea3dd9ce) Merge pull request #20 from SimplioOfficial/upd... - PitTxid<br>[c476f33](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c476f3399f86e297225b19aefb53c918b8a93be1) Merge branch 'master' into rc1.4.1 - PitTxid</sub> |
 | <sub>2022-09-01 15:44:07</sub> | <sub>[[backend-bsc-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/f645a4c7bda0...93f031adf2fb)</sub> | <sub>[f3f52e9](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f3f52e9e69d3cb02f4abf5de8fec9803e1b4fd52) chore(release): 1.4.1 - PitTxid<br>[93f031a](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/93f031adf2fb88e0537857ec0b5ac3ce77b92fa6) Merge pull request #23 from SimplioOfficial/rc1... - PitTxid</sub> |
-| <sub>2022-09-01 15:43:29</sub> | <sub>[[backend-bsc-wallet-lib:rc1\.4\.1] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f3f52e9e69d3cb02f4abf5de8fec9803e1b4fd52)</sub> | <sub>[f3f52e9](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f3f52e9e69d3cb02f4abf5de8fec9803e1b4fd52) chore(release): 1.4.1 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

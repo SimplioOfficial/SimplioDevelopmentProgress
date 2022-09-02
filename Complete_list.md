@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-02 07:54:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2)</sub> | <sub>[261b6e0](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2) Developing guidelines - daxicek</sub> |
 | <sub>2022-09-02 07:38:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74)</sub> | <sub>[3b1dca0](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74) Change banner - daxicek</sub> |
 | <sub>2022-09-01 22:43:21</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-01 22:43:06</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
