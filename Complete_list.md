@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-02 08:04:59</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6337a1cd044c3ddcd85e16fd6b8b58cc628753c6)</sub> | <sub>[6337a1c](https://github.com/SimplioOfficial/simplio-app/commit/6337a1cd044c3ddcd85e16fd6b8b58cc628753c6) Create GUIDE.md - daxicek</sub> |
+| <sub>2022-09-02 08:03:36</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed96332c6a2c1524286c51571c05a31b0ada4e07)</sub> | <sub>[ed96332](https://github.com/SimplioOfficial/simplio-app/commit/ed96332c6a2c1524286c51571c05a31b0ada4e07) Move dev guide - daxicek</sub> |
 | <sub>2022-09-02 07:54:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2)</sub> | <sub>[261b6e0](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2) Developing guidelines - daxicek</sub> |
 | <sub>2022-09-02 07:38:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74)</sub> | <sub>[3b1dca0](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74) Change banner - daxicek</sub> |
 | <sub>2022-09-01 22:43:21</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
