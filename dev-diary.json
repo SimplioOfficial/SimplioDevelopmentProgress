@@ -55107,5 +55107,23 @@
     "author": "GitHub",
     "content": "",
     "created_at": "2022-09-01 22:43:21.865000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-02 07:38:26.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/573455?v=4",
+        "name": "daxicek",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/4oyiLUYGEU_NBUXlVaKVlP46PxKS-7TcBTtS__5aMYg/%3Fv%3D4/https/avatars.githubusercontent.com/u/573455",
+        "url": "https://github.com/daxicek"
+      },
+      "color": 7506394,
+      "description": "[`3b1dca0`](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74) Change banner - daxicek",
+      "title": "[simplio-app:documentation/166\\-update\\-readme] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74"
+    }
   }
 ]
