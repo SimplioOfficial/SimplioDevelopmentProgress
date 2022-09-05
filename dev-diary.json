@@ -55321,5 +55321,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/61b0516e4ec418e75be85c36cf3c48c6a0de1b9d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-05 14:17:12.477000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e8639d1`](https://github.com/SimplioOfficial/simplio-app/commit/e8639d149ae74ce119cd9a800a9137671a2dfaa1) Changed java version to from 1.8 to  11 - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/171\\-total\\-balance\\-widget\\-in\\-inventory\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e8639d149ae74ce119cd9a800a9137671a2dfaa1"
+    }
   }
 ]
