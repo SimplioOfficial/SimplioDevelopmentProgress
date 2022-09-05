@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3080 commits since 10/09/2021. You can see the complete history in
+There is a total of 3081 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-05 08:16:54</sub> | <sub>[[simplio-app:task/169\-search\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b77d6c6ecbaf2aeea6ca4d84c1eb2b4e7e741e3)</sub> | <sub>[1b77d6c](https://github.com/SimplioOfficial/simplio-app/commit/1b77d6c6ecbaf2aeea6ca4d84c1eb2b4e7e741e3) Made avatar_app_bar and search_bar reusable for... - Tomáš Petrík</sub> |
 | <sub>2022-09-02 15:58:02</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd)</sub> | <sub>[f57e76d](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd) wip: use trust_wallet_core_lib instead of web3 - ciripel</sub> |
 | <sub>2022-09-02 09:48:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/62d7bd7d094d...e9ec8afd2ac0)</sub> |
 | <sub>2022-09-02 09:45:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f92c6f4bcff1...62d7bd7d094d)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3080 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-02 07:54:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2)</sub> | <sub>[261b6e0](https://github.com/SimplioOfficial/simplio-app/commit/261b6e06af199e8bbecab8ea63129c6438bfe8a2) Developing guidelines - daxicek</sub> |
 | <sub>2022-09-02 07:38:26</sub> | <sub>[[simplio-app:documentation/166\-update\-readme] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74)</sub> | <sub>[3b1dca0](https://github.com/SimplioOfficial/simplio-app/commit/3b1dca04ed41582f79bab804d210646513f97f74) Change banner - daxicek</sub> |
 | <sub>2022-09-01 22:43:21</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-09-01 22:43:06</sub> | <sub>_No Description_</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
