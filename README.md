@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3086 commits since 10/09/2021. You can see the complete history in
+There is a total of 3087 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-05 22:30:43</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25259061d21b2e7c6b6540c5c23d8e361d42ba01)</sub> | <sub>[2525906](https://github.com/SimplioOfficial/simplio-app/commit/25259061d21b2e7c6b6540c5c23d8e361d42ba01) Test setting for Java11 #2 - MariooW</sub> |
 | <sub>2022-09-05 22:15:30</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8320d0e7491e350f644fc951c7288382612b621d)</sub> | <sub>[8320d0e](https://github.com/SimplioOfficial/simplio-app/commit/8320d0e7491e350f644fc951c7288382612b621d) Test setting for Java11 - MariooW</sub> |
 | <sub>2022-09-05 14:17:12</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8639d149ae74ce119cd9a800a9137671a2dfaa1)</sub> | <sub>[e8639d1](https://github.com/SimplioOfficial/simplio-app/commit/e8639d149ae74ce119cd9a800a9137671a2dfaa1) Changed java version to from 1.8 to  11 - Tomáš Petrík</sub> |
 | <sub>2022-09-05 13:34:22</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61b0516e4ec418e75be85c36cf3c48c6a0de1b9d)</sub> | <sub>[61b0516](https://github.com/SimplioOfficial/simplio-app/commit/61b0516e4ec418e75be85c36cf3c48c6a0de1b9d) Increased api-level from 31 to 33 - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3086 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-02 15:58:02</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd)</sub> | <sub>[f57e76d](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd) wip: use trust_wallet_core_lib instead of web3 - ciripel</sub> |
 | <sub>2022-09-02 09:48:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/62d7bd7d094d...e9ec8afd2ac0)</sub> |
 | <sub>2022-09-02 09:45:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f92c6f4bcff1...62d7bd7d094d)</sub> |
-| <sub>2022-09-02 09:00:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477)</sub> | <sub>[7a7e016](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
