@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-05 09:48:42</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a0f5019f84586cfd2ac3acf1a3f136bcb3fe121)</sub> | <sub>[6a0f501](https://github.com/SimplioOfficial/simplio-app/commit/6a0f5019f84586cfd2ac3acf1a3f136bcb3fe121) 1. Fixed issues related with task/171, - Tomáš Petrík</sub> |
 | <sub>2022-09-05 08:16:54</sub> | <sub>[[simplio-app:task/169\-search\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b77d6c6ecbaf2aeea6ca4d84c1eb2b4e7e741e3)</sub> | <sub>[1b77d6c](https://github.com/SimplioOfficial/simplio-app/commit/1b77d6c6ecbaf2aeea6ca4d84c1eb2b4e7e741e3) Made avatar_app_bar and search_bar reusable for... - Tomáš Petrík</sub> |
 | <sub>2022-09-02 15:58:02</sub> | <sub>[[sio_wallet_connect:feat/solana\_chain\_support] 1 new commit](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd)</sub> | <sub>[f57e76d](https://github.com/SimplioOfficial/sio_wallet_connect/commit/f57e76d9110dd04da93b19232775b7a12774c9fd) wip: use trust_wallet_core_lib instead of web3 - ciripel</sub> |
 | <sub>2022-09-02 09:48:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/62d7bd7d094d...e9ec8afd2ac0)</sub> |
