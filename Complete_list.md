@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 16:16:13</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.0\.3](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-06 15:52:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9)</sub> | <sub>[9cafc3d](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9) Task/data field exposure (#5) - ciripel</sub> |
 | <sub>2022-09-06 15:35:20</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82)</sub> | <sub>[5de328c](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82) ci: add java temurin 11 to system - ciripel</sub> |
 | <sub>2022-09-06 14:50:30</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6)</sub> | <sub>[ac2f371](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6) ci: increase jvmTarget to 11 and minSdkVer to 23 - ciripel</sub> |
