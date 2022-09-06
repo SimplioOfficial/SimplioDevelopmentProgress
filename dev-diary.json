@@ -55591,5 +55591,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4066627fb3140fc9734b9ec49a1bc44c0d1d8ffc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 08:33:33.617000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d12bb9d`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/d12bb9d6802b7146c277c57708db50bde1a87a67) feat: support 1inch swap - PitTxid\n[`ecd3bc0`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ecd3bc03ecb30657a5136ac00275325a6fb1f427) docs: update readme for supporting input string... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:31\\-add\\-more\\-method\\-to\\-bsc\\-library\\-to\\-support\\-1inch\\-data] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/6efcf2ca2201...ecd3bc03ecb3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 08:33:55.290000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d12bb9d`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/d12bb9d6802b7146c277c57708db50bde1a87a67) feat: support 1inch swap - PitTxid\n[`ecd3bc0`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ecd3bc03ecb30657a5136ac00275325a6fb1f427) docs: update readme for supporting input string... - PitTxid\n[`acbece6`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/acbece601b97d17abe5a46f6d0cc87f2b6a40c03) Merge pull request #32 from SimplioOfficial/31-... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:development] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/6efcf2ca2201...acbece601b97"
+    }
   }
 ]
