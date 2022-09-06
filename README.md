@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3097 commits since 10/09/2021. You can see the complete history in
+There is a total of 3098 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 08:00:43</sub> | <sub>[[backend-bsc-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/c42f4cdffe05...6efcf2ca2201)</sub> | <sub>[603a2b6](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/603a2b655cc0921ec8d6b9b516df5e9ff161eaa5) feat: support string input - PitTxid<br>[6efcf2c](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6efcf2ca2201e098afc0f0f1389afbb686a3c0e2) Merge pull request #30 from SimplioOfficial/sup... - PitTxid</sub> |
 | <sub>2022-09-06 07:46:46</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17bdd04492de4028379eb9f6f456de2b2fcad86e)</sub> | <sub>[17bdd04](https://github.com/SimplioOfficial/simplio-app/commit/17bdd04492de4028379eb9f6f456de2b2fcad86e) Test setting for Java11 #4 - MariooW</sub> |
 | <sub>2022-09-06 07:39:26</sub> | <sub>[[backend-bsc-wallet-lib:support\-string\-input] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/603a2b655cc0921ec8d6b9b516df5e9ff161eaa5)</sub> | <sub>[603a2b6](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/603a2b655cc0921ec8d6b9b516df5e9ff161eaa5) feat: support string input - PitTxid</sub> |
 | <sub>2022-09-06 06:30:35</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e53075c617c4010ce41ac852f499e6c0d50b131e)</sub> | <sub>[e53075c](https://github.com/SimplioOfficial/simplio-app/commit/e53075c617c4010ce41ac852f499e6c0d50b131e) Completed task/173-transaction-item - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3097 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-06 02:33:32</sub> | <sub>[[backend-bsc-wallet-lib:rc1\.4\.2] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/38f7e61fb16c...f6bd8008f9f8)</sub> | <sub>[13d9e67](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/13d9e67b976fa4176a48fe50e64d6d60308c0fa6) chore(release): 1.4.2 - PitTxid<br>[f6bd800](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f6bd8008f9f865bab4d6de8fb2f02416baccf016) feat: increase version - PitTxid</sub> |
 | <sub>2022-09-06 02:31:32</sub> | <sub>[[backend-bsc-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/93f031adf2fb...38f7e61fb16c)</sub> | <sub>[6aeccce](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6aeccceffe432d37e48d50e037a44904547be4c2) feat: support 1inch - PitTxid<br>[38f7e61](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/38f7e61fb16ca9a5665da2c7b9c9dff31ae0531f) Merge pull request #26 from SimplioOfficial/1in... - PitTxid</sub> |
 | <sub>2022-09-06 02:29:53</sub> | <sub>[[backend-bsc-wallet-lib:1inch\-swap] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6aeccceffe432d37e48d50e037a44904547be4c2)</sub> | <sub>[6aeccce](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6aeccceffe432d37e48d50e037a44904547be4c2) feat: support 1inch - PitTxid</sub> |
-| <sub>2022-09-05 22:48:22</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19702086c4780d12daed67443cb8f37872fd7255)</sub> | <sub>[1970208](https://github.com/SimplioOfficial/simplio-app/commit/19702086c4780d12daed67443cb8f37872fd7255) Test setting for Java11 #3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
