@@ -56075,5 +56075,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/4656f6c01d0a...ab861170f132"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 21:39:42.040000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`63bf610`](https://github.com/SimplioOfficial/simplio-app/commit/63bf6105ac4e628912a0c48153a9f58f040a02d3) registering wc events - storkandstars\n[`fdffec5`](https://github.com/SimplioOfficial/simplio-app/commit/fdffec573bc55af1b4f720bc8c7889bcca839afb) adding wallet connect request widgets - storkandstars\n[`496aa79`](https://github.com/SimplioOfficial/simplio-app/commit/496aa790dca89ee9a7011911833fd994cc2f4f5b) listening to events from wc - storkandstars",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9459f04546f...496aa790dca8"
+    }
   }
 ]
