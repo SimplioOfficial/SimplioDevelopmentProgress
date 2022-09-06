@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3129 commits since 10/09/2021. You can see the complete history in
+There is a total of 3130 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 22:04:34</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5d69792d8b66...cc03a2dac503)</sub> | <sub>[486f4cf](https://github.com/SimplioOfficial/simplio-app/commit/486f4cfa1a97d2001f701f6035df48dc76ab5086) adding dev wc trigger - storkandstars<br>[cc03a2d](https://github.com/SimplioOfficial/simplio-app/commit/cc03a2dac503acc52d526f8cb618032abe20e706) triggering wc on scanner - storkandstars</sub> |
 | <sub>2022-09-06 21:55:32</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d69792d8b662f13831e863c2634a951ec8ea570)</sub> | <sub>[5d69792](https://github.com/SimplioOfficial/simplio-app/commit/5d69792d8b662f13831e863c2634a951ec8ea570) re-enabling qr scanner - storkandstars</sub> |
 | <sub>2022-09-06 21:45:00</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6357554519f4f6f89196079110d4e29a020bf011)</sub> | <sub>[6357554](https://github.com/SimplioOfficial/simplio-app/commit/6357554519f4f6f89196079110d4e29a020bf011) replacing add with update - storkandstars</sub> |
 | <sub>2022-09-06 21:39:42</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e9459f04546f...496aa790dca8)</sub> | <sub>[63bf610](https://github.com/SimplioOfficial/simplio-app/commit/63bf6105ac4e628912a0c48153a9f58f040a02d3) registering wc events - storkandstars<br>[fdffec5](https://github.com/SimplioOfficial/simplio-app/commit/fdffec573bc55af1b4f720bc8c7889bcca839afb) adding wallet connect request widgets - storkandstars<br>[496aa79](https://github.com/SimplioOfficial/simplio-app/commit/496aa790dca89ee9a7011911833fd994cc2f4f5b) listening to events from wc - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3129 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-06 16:16:13</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.0\.3](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-06 15:52:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9)</sub> | <sub>[9cafc3d](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9) Task/data field exposure (#5) - ciripel</sub> |
 | <sub>2022-09-06 15:35:20</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82)</sub> | <sub>[5de328c](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82) ci: add java temurin 11 to system - ciripel</sub> |
-| <sub>2022-09-06 14:50:30</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6)</sub> | <sub>[ac2f371](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6) ci: increase jvmTarget to 11 and minSdkVer to 23 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

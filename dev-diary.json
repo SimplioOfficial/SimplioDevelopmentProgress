@@ -56129,5 +56129,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5d69792d8b662f13831e863c2634a951ec8ea570"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 22:04:34.964000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`486f4cf`](https://github.com/SimplioOfficial/simplio-app/commit/486f4cfa1a97d2001f701f6035df48dc76ab5086) adding dev wc trigger - storkandstars\n[`cc03a2d`](https://github.com/SimplioOfficial/simplio-app/commit/cc03a2dac503acc52d526f8cb618032abe20e706) triggering wc on scanner - storkandstars",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5d69792d8b66...cc03a2dac503"
+    }
   }
 ]
