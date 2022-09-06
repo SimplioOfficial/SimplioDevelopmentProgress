@@ -55501,5 +55501,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/6dee9374275d...d07213ab837e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 06:30:35.136000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e53075c`](https://github.com/SimplioOfficial/simplio-app/commit/e53075c617c4010ce41ac852f499e6c0d50b131e) Completed task/173-transaction-item - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/173\\-transaction\\-item] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e53075c617c4010ce41ac852f499e6c0d50b131e"
+    }
   }
 ]
