@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3121 commits since 10/09/2021. You can see the complete history in
+There is a total of 3122 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 15:52:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9)</sub> | <sub>[9cafc3d](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9) Task/data field exposure (#5) - ciripel</sub> |
 | <sub>2022-09-06 15:35:20</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82)</sub> | <sub>[5de328c](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82) ci: add java temurin 11 to system - ciripel</sub> |
 | <sub>2022-09-06 14:50:30</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6)</sub> | <sub>[ac2f371](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6) ci: increase jvmTarget to 11 and minSdkVer to 23 - ciripel</sub> |
 | <sub>2022-09-06 14:38:26</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a)</sub> | <sub>[fcd3b5e](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a) chore: increase Java version to 11 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3121 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-06 13:04:30</sub> | <sub>[[backend-bsc-wallet-lib:development] 3 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/eec15befdc13...159c58bb8b61)</sub> | <sub>[ac79c7e](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ac79c7e857bd1bd7afe2d805ebc5eaf0173bfde9) fix: release folder - PitTxid<br>[3759fff](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3759fff9a24f1972b2d060f5c581df6314e2c443) feat: increase version - PitTxid<br>[159c58b](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/159c58bb8b61600b067cc22f23d3570e1121729f) Merge pull request #35 from SimplioOfficial/fix... - PitTxid</sub> |
 | <sub>2022-09-06 13:04:05</sub> | <sub>[[backend-bsc-wallet-lib:fix\-release] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/ac79c7e857bd^...3759fff9a24f)</sub> | <sub>[ac79c7e](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ac79c7e857bd1bd7afe2d805ebc5eaf0173bfde9) fix: release folder - PitTxid<br>[3759fff](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3759fff9a24f1972b2d060f5c581df6314e2c443) feat: increase version - PitTxid</sub> |
 | <sub>2022-09-06 12:28:39</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c3edbbc7e2163f387813e05fec5c87c4b0a0f9b)</sub> | <sub>[2c3edbb](https://github.com/SimplioOfficial/simplio-app/commit/2c3edbbc7e2163f387813e05fec5c87c4b0a0f9b) Test setting for Java11 #14 - MariooW</sub> |
-| <sub>2022-09-06 12:10:43</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef5d725868d870c0c02fd19d49c1a786c229b105)</sub> | <sub>[ef5d725](https://github.com/SimplioOfficial/simplio-app/commit/ef5d725868d870c0c02fd19d49c1a786c229b105) Test setting for Java11 #13 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
