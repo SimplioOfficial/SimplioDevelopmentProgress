@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 19:07:55</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a05e734e029358eac92ea7f432224f5d8e554ac1)</sub> | <sub>[a05e734](https://github.com/SimplioOfficial/simplio-app/commit/a05e734e029358eac92ea7f432224f5d8e554ac1) Reverted java version back to 1.8. - Tomáš Petrík</sub> |
 | <sub>2022-09-06 16:25:26</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/4656f6c01d0af18424ccfa934471fb2b606fcb1b)</sub> | <sub>[4656f6c](https://github.com/SimplioOfficial/sio_core_light/commit/4656f6c01d0af18424ccfa934471fb2b606fcb1b) ci: upload pub_login.sh - ciripel</sub> |
 | <sub>2022-09-06 16:16:13</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.0\.3](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.0.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-06 15:52:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9)</sub> | <sub>[9cafc3d](https://github.com/SimplioOfficial/sio_core_light/commit/9cafc3d4475ca00873225dd47b9e7bb3b355c8f9) Task/data field exposure (#5) - ciripel</sub> |
