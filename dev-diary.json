@@ -55969,5 +55969,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 15:35:20.842000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5de328c`](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82) ci: add java temurin 11 to system - ciripel",
+      "title": "[sio_core_light:Task/data\\-field\\-exposure] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82"
+    }
   }
 ]
