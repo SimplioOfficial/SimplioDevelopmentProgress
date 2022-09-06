@@ -55897,5 +55897,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bb46ba0a71533bcbdbec45355ea8b61f9945a8c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 13:57:16.643000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6b8200e`](https://github.com/SimplioOfficial/sio_core_light/commit/6b8200e25b09ccc1ddea1ebf58247ccb29d9f6a4) chore: fixed sio_core_light plugin structure - ciripel\n[`b290ad6`](https://github.com/SimplioOfficial/sio_core_light/commit/b290ad66f1fcfbf2c2ab342a4f1fdfdcd331b2b8) subtask: Used debugPrint in example - ciripel\n[`9be9017`](https://github.com/SimplioOfficial/sio_core_light/commit/9be9017936482f6606aee454a433b9771cd699cf) fix: reduced minSdkVer to 16 - ciripel\n[`357f3f2`](https://github.com/SimplioOfficial/sio_core_light/commit/357f3f2406e79f7b84459c9f2f973767b809d0ec) docs: update methods documentation - ciripel\n[`3f5e411`](https://github.com/SimplioOfficial/sio_core_light/commit/3f5e411b7908ec401cdef54f4bf15e9a053024aa) subtask: Change amount for ETH transactions in wei - ciripel",
+      "title": "[sio_core_light:Task/data\\-field\\-exposure] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/1a4ab364ae07...7ca58daaf32a"
+    }
   }
 ]
