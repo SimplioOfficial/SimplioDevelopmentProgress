@@ -55573,5 +55573,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/c42f4cdffe05...6efcf2ca2201"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 08:25:35.384000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`4066627`](https://github.com/SimplioOfficial/simplio-app/commit/4066627fb3140fc9734b9ec49a1bc44c0d1d8ffc) Test setting for Java11 #5 - MariooW",
+      "title": "[simplio-app:test/java11\\_checking\\_solution] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4066627fb3140fc9734b9ec49a1bc44c0d1d8ffc"
+    }
   }
 ]
