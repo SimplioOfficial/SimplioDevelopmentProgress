@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3127 commits since 10/09/2021. You can see the complete history in
+There is a total of 3128 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 21:45:00</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6357554519f4f6f89196079110d4e29a020bf011)</sub> | <sub>[6357554](https://github.com/SimplioOfficial/simplio-app/commit/6357554519f4f6f89196079110d4e29a020bf011) replacing add with update - storkandstars</sub> |
 | <sub>2022-09-06 21:39:42</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e9459f04546f...496aa790dca8)</sub> | <sub>[63bf610](https://github.com/SimplioOfficial/simplio-app/commit/63bf6105ac4e628912a0c48153a9f58f040a02d3) registering wc events - storkandstars<br>[fdffec5](https://github.com/SimplioOfficial/simplio-app/commit/fdffec573bc55af1b4f720bc8c7889bcca839afb) adding wallet connect request widgets - storkandstars<br>[496aa79](https://github.com/SimplioOfficial/simplio-app/commit/496aa790dca89ee9a7011911833fd994cc2f4f5b) listening to events from wc - storkandstars</sub> |
 | <sub>2022-09-06 19:11:43</sub> | <sub>[[sio_core_light:refactor\_and\_docs] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/4656f6c01d0a...ab861170f132)</sub> | <sub>[aac090f](https://github.com/SimplioOfficial/sio_core_light/commit/aac090fd731c0f554ea4af702c0897820e993472) docs: fix typo in LowTotalAmountPlusFeeException - ciripel<br>[ab86117](https://github.com/SimplioOfficial/sio_core_light/commit/ab861170f132d45bb1220ab4fba08ba44ac26d1a) refactor: Cluster & EthChainId - ciripel</sub> |
 | <sub>2022-09-06 19:07:55</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a05e734e029358eac92ea7f432224f5d8e554ac1)</sub> | <sub>[a05e734](https://github.com/SimplioOfficial/simplio-app/commit/a05e734e029358eac92ea7f432224f5d8e554ac1) Reverted java version back to 1.8. - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3127 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-06 15:35:20</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82)</sub> | <sub>[5de328c](https://github.com/SimplioOfficial/sio_core_light/commit/5de328c1245fef362059e7e938d0e35832f44b82) ci: add java temurin 11 to system - ciripel</sub> |
 | <sub>2022-09-06 14:50:30</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6)</sub> | <sub>[ac2f371](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6) ci: increase jvmTarget to 11 and minSdkVer to 23 - ciripel</sub> |
 | <sub>2022-09-06 14:38:26</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a)</sub> | <sub>[fcd3b5e](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a) chore: increase Java version to 11 - ciripel</sub> |
-| <sub>2022-09-06 14:12:09</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/de40e4f0706c81b9c9c0ec7fbabbcdcddd7f80a1)</sub> | <sub>[de40e4f](https://github.com/SimplioOfficial/sio_core_light/commit/de40e4f0706c81b9c9c0ec7fbabbcdcddd7f80a1) ci: fix integration tests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
