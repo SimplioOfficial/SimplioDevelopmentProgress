@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3119 commits since 10/09/2021. You can see the complete history in
+There is a total of 3120 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-06 14:50:30</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6)</sub> | <sub>[ac2f371](https://github.com/SimplioOfficial/sio_core_light/commit/ac2f3711fdad10b2b0d67c4e12a0b4b7a78971f6) ci: increase jvmTarget to 11 and minSdkVer to 23 - ciripel</sub> |
 | <sub>2022-09-06 14:38:26</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a)</sub> | <sub>[fcd3b5e](https://github.com/SimplioOfficial/sio_core_light/commit/fcd3b5e4daa2651dfe1a470d1d3f364cf2d6a41a) chore: increase Java version to 11 - ciripel</sub> |
 | <sub>2022-09-06 14:12:09</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/de40e4f0706c81b9c9c0ec7fbabbcdcddd7f80a1)</sub> | <sub>[de40e4f](https://github.com/SimplioOfficial/sio_core_light/commit/de40e4f0706c81b9c9c0ec7fbabbcdcddd7f80a1) ci: fix integration tests - ciripel</sub> |
 | <sub>2022-09-06 13:57:16</sub> | <sub>[[sio_core_light:Task/data\-field\-exposure] 7 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/1a4ab364ae07...7ca58daaf32a)</sub> | <sub>[6b8200e](https://github.com/SimplioOfficial/sio_core_light/commit/6b8200e25b09ccc1ddea1ebf58247ccb29d9f6a4) chore: fixed sio_core_light plugin structure - ciripel<br>[b290ad6](https://github.com/SimplioOfficial/sio_core_light/commit/b290ad66f1fcfbf2c2ab342a4f1fdfdcd331b2b8) subtask: Used debugPrint in example - ciripel<br>[9be9017](https://github.com/SimplioOfficial/sio_core_light/commit/9be9017936482f6606aee454a433b9771cd699cf) fix: reduced minSdkVer to 16 - ciripel<br>[357f3f2](https://github.com/SimplioOfficial/sio_core_light/commit/357f3f2406e79f7b84459c9f2f973767b809d0ec) docs: update methods documentation - ciripel<br>[3f5e411](https://github.com/SimplioOfficial/sio_core_light/commit/3f5e411b7908ec401cdef54f4bf15e9a053024aa) subtask: Change amount for ETH transactions in wei - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3119 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-06 12:28:39</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c3edbbc7e2163f387813e05fec5c87c4b0a0f9b)</sub> | <sub>[2c3edbb](https://github.com/SimplioOfficial/simplio-app/commit/2c3edbbc7e2163f387813e05fec5c87c4b0a0f9b) Test setting for Java11 #14 - MariooW</sub> |
 | <sub>2022-09-06 12:10:43</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef5d725868d870c0c02fd19d49c1a786c229b105)</sub> | <sub>[ef5d725](https://github.com/SimplioOfficial/simplio-app/commit/ef5d725868d870c0c02fd19d49c1a786c229b105) Test setting for Java11 #13 - MariooW</sub> |
 | <sub>2022-09-06 11:58:30</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e5a5c365c5709c1486517a4ce9187cb0051dfb0)</sub> | <sub>[5e5a5c3](https://github.com/SimplioOfficial/simplio-app/commit/5e5a5c365c5709c1486517a4ce9187cb0051dfb0) Test setting for Java11 #12 - MariooW</sub> |
-| <sub>2022-09-06 11:55:17</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4dbbd1787411fbe2f561ebcf2c3d240be061bfc2)</sub> | <sub>[4dbbd17](https://github.com/SimplioOfficial/simplio-app/commit/4dbbd1787411fbe2f561ebcf2c3d240be061bfc2) Test setting for Java11 #11 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
