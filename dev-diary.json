@@ -55393,5 +55393,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/19702086c4780d12daed67443cb8f37872fd7255"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-06 02:29:53.927000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6aeccce`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6aeccceffe432d37e48d50e037a44904547be4c2) feat: support 1inch - PitTxid",
+      "title": "[backend-bsc-wallet-lib:1inch\\-swap] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6aeccceffe432d37e48d50e037a44904547be4c2"
+    }
   }
 ]
