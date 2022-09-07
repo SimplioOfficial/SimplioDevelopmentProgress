@@ -56237,5 +56237,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/a05e734e0293...9f3466cc615d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-07 21:10:09.865000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d110225`](https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f) Changes to execute tests in this branch - MariooW",
+      "title": "[simplio-app:task/187\\_java\\_11\\_integration] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f"
+    }
   }
 ]
