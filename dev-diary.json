@@ -56485,5 +56485,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e34bd39359a741763eba8e1aa84023f4b96403af"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 17:54:20.428000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ddc9772`](https://github.com/SimplioOfficial/simplio-app/commit/ddc9772da45a225ac3d30dd2192715c8c92b450c) fix: add gasLimit to FeeData - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddc9772da45a225ac3d30dd2192715c8c92b450c"
+    }
   }
 ]
