@@ -56521,5 +56521,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ddc9772da45a...2fb87aa686e1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 20:24:37.020000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1ebb2ba`](https://github.com/SimplioOfficial/simplio-app/commit/1ebb2baf402c66dd4e64f007125b748cd9598452) feat: add assetId and chainId static methods - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1ebb2baf402c66dd4e64f007125b748cd9598452"
+    }
   }
 ]
