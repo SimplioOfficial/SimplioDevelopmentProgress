@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3138 commits since 10/09/2021. You can see the complete history in
+There is a total of 3139 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-08 16:00:24</sub> | <sub>[[sio_core_light:master] 4 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/4656f6c01d0a...b415a1627d78)</sub> | <sub>[72483bb](https://github.com/SimplioOfficial/sio_core_light/commit/72483bb8800734fd600b88e3312b8706f822feef) subtask: implement networkId and assetId - ciripel<br>[a49e448](https://github.com/SimplioOfficial/sio_core_light/commit/a49e4483dad61f51145cf39cd624b2a287986fd5) fix: improve utxo Exceptions - ciripel<br>[24f898b](https://github.com/SimplioOfficial/sio_core_light/commit/24f898b838a247870b584581810d7cdf75d733c3) chore: increase version to 1.1.0 - ciripel<br>[b415a16](https://github.com/SimplioOfficial/sio_core_light/commit/b415a1627d78daabd317fe93a0a13a2aec5f6a6d) chore: increase dependencies for example - ciripel</sub> |
 | <sub>2022-09-07 22:06:20</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26a05e9b0ce61f2dd59f5a4f2ff5de2d1b1be3bb)</sub> | <sub>[26a05e9](https://github.com/SimplioOfficial/simplio-app/commit/26a05e9b0ce61f2dd59f5a4f2ff5de2d1b1be3bb) Java11 #1 - MariooW</sub> |
 | <sub>2022-09-07 21:31:32</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ed48b18b16b8217856b04da2f5024d01b8255a0)</sub> | <sub>[0ed48b1](https://github.com/SimplioOfficial/simplio-app/commit/0ed48b18b16b8217856b04da2f5024d01b8255a0) Changes to execute tests in this branch - MariooW</sub> |
 | <sub>2022-09-07 21:10:09</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f)</sub> | <sub>[d110225](https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f) Changes to execute tests in this branch - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3138 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-07 10:30:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81)</sub> | <sub>[09db048](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81) Task/168 fetching fees for send transaction sum... - storkandstars</sub> |
 | <sub>2022-09-06 22:15:50</sub> | <sub>[[simplio-app:test/java11\_checking\_solution] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1db00ac66b2fee3f7f7e07c27e53ab25fac636f8)</sub> | <sub>[1db00ac](https://github.com/SimplioOfficial/simplio-app/commit/1db00ac66b2fee3f7f7e07c27e53ab25fac636f8) Test setting for Java11 #15 - MariooW</sub> |
 | <sub>2022-09-06 22:04:34</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5d69792d8b66...cc03a2dac503)</sub> | <sub>[486f4cf](https://github.com/SimplioOfficial/simplio-app/commit/486f4cfa1a97d2001f701f6035df48dc76ab5086) adding dev wc trigger - storkandstars<br>[cc03a2d](https://github.com/SimplioOfficial/simplio-app/commit/cc03a2dac503acc52d526f8cb618032abe20e706) triggering wc on scanner - storkandstars</sub> |
-| <sub>2022-09-06 21:55:32</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d69792d8b662f13831e863c2634a951ec8ea570)</sub> | <sub>[5d69792](https://github.com/SimplioOfficial/simplio-app/commit/5d69792d8b662f13831e863c2634a951ec8ea570) re-enabling qr scanner - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

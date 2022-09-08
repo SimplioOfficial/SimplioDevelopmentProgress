@@ -56291,5 +56291,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/26a05e9b0ce61f2dd59f5a4f2ff5de2d1b1be3bb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 16:00:24.468000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`72483bb`](https://github.com/SimplioOfficial/sio_core_light/commit/72483bb8800734fd600b88e3312b8706f822feef) subtask: implement networkId and assetId - ciripel\n[`a49e448`](https://github.com/SimplioOfficial/sio_core_light/commit/a49e4483dad61f51145cf39cd624b2a287986fd5) fix: improve utxo Exceptions - ciripel\n[`24f898b`](https://github.com/SimplioOfficial/sio_core_light/commit/24f898b838a247870b584581810d7cdf75d733c3) chore: increase version to 1.1.0 - ciripel\n[`b415a16`](https://github.com/SimplioOfficial/sio_core_light/commit/b415a1627d78daabd317fe93a0a13a2aec5f6a6d) chore: increase dependencies for example - ciripel",
+      "title": "[sio_core_light:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/4656f6c01d0a...b415a1627d78"
+    }
   }
 ]
