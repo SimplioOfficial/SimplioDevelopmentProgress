@@ -56575,5 +56575,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/59b29176053589a7199018a73ffcb2be66f21fb2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 22:38:48.852000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`4f9db80`](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422) Java11 #3 - MariooW",
+      "title": "[simplio-app:task/187\\_java\\_11\\_integration] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 22:39:51.415000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`119c1fa`](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e) Java11 #4 - MariooW",
+      "title": "[simplio-app:task/187\\_java\\_11\\_integration] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e"
+    }
   }
 ]
