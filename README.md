@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3157 commits since 10/09/2021. You can see the complete history in
+There is a total of 3158 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-08 22:46:49</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48)</sub> | <sub>[c76fd86](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48) Java11 #6 - MariooW</sub> |
 | <sub>2022-09-08 22:43:43</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87)</sub> | <sub>[fd9e74c](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87) Java11 #5 - MariooW</sub> |
 | <sub>2022-09-08 22:39:51</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e)</sub> | <sub>[119c1fa](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e) Java11 #4 - MariooW</sub> |
 | <sub>2022-09-08 22:38:48</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422)</sub> | <sub>[4f9db80](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422) Java11 #3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3157 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-08 18:43:07</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ddc9772da45a...2fb87aa686e1)</sub> | <sub>[e1d985f](https://github.com/SimplioOfficial/simplio-app/commit/e1d985f7089d81d1db0e05aa89450d95e736df8c) feat: add signWCTransaction and sendWCTransaction - ciripel<br>[5d9d704](https://github.com/SimplioOfficial/simplio-app/commit/5d9d704ea7027860f29c8fb5fab3a393ae50d723) fix: approveRequest result to String - ciripel<br>[2fb87aa](https://github.com/SimplioOfficial/simplio-app/commit/2fb87aa686e1a81819171b873eaed1703efb41a5) fix: add gasLimit to fee_repository_test - ciripel</sub> |
 | <sub>2022-09-08 17:54:20</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ddc9772da45a225ac3d30dd2192715c8c92b450c)</sub> | <sub>[ddc9772](https://github.com/SimplioOfficial/simplio-app/commit/ddc9772da45a225ac3d30dd2192715c8c92b450c) fix: add gasLimit to FeeData - ciripel</sub> |
 | <sub>2022-09-08 17:40:14</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e34bd39359a741763eba8e1aa84023f4b96403af)</sub> | <sub>[e34bd39](https://github.com/SimplioOfficial/simplio-app/commit/e34bd39359a741763eba8e1aa84023f4b96403af) chore: upgrade sio_core_light to 1.1.1 - ciripel</sub> |
-| <sub>2022-09-08 17:36:21</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.1](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.1)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

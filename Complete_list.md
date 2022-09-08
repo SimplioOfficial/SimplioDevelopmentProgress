@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-08 22:46:49</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48)</sub> | <sub>[c76fd86](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48) Java11 #6 - MariooW</sub> |
 | <sub>2022-09-08 22:43:43</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87)</sub> | <sub>[fd9e74c](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87) Java11 #5 - MariooW</sub> |
 | <sub>2022-09-08 22:39:51</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e)</sub> | <sub>[119c1fa](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e) Java11 #4 - MariooW</sub> |
 | <sub>2022-09-08 22:38:48</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422)</sub> | <sub>[4f9db80](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422) Java11 #3 - MariooW</sub> |
