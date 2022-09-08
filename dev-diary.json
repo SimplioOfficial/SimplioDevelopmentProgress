@@ -56503,5 +56503,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddc9772da45a225ac3d30dd2192715c8c92b450c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 18:43:07.183000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e1d985f`](https://github.com/SimplioOfficial/simplio-app/commit/e1d985f7089d81d1db0e05aa89450d95e736df8c) feat: add signWCTransaction and sendWCTransaction - ciripel\n[`5d9d704`](https://github.com/SimplioOfficial/simplio-app/commit/5d9d704ea7027860f29c8fb5fab3a393ae50d723) fix: approveRequest result to String - ciripel\n[`2fb87aa`](https://github.com/SimplioOfficial/simplio-app/commit/2fb87aa686e1a81819171b873eaed1703efb41a5) fix: add gasLimit to fee_repository_test - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ddc9772da45a...2fb87aa686e1"
+    }
   }
 ]
