@@ -56539,5 +56539,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1ebb2baf402c66dd4e64f007125b748cd9598452"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-08 20:57:41.103000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5013ef9`](https://github.com/SimplioOfficial/simplio-app/commit/5013ef95a38bd862007e86f7c4622562f3b67a0a) feat: expand WalletConnectTransactionRequest - ciripel\n[`e0fcade`](https://github.com/SimplioOfficial/simplio-app/commit/e0fcade26fbdc308bdcad085b979a5933581e4bf) fix: added constant constructors - ciripel\n[`aeb1178`](https://github.com/SimplioOfficial/simplio-app/commit/aeb11787404e80d6d6ed01036842594ad5e8cb86) fix: removed unused imports - ciripel\n[`c0473a8`](https://github.com/SimplioOfficial/simplio-app/commit/c0473a88fb25ab53b51b2300c1841a8717f164e6) wip: implementing approveTransactionRequest - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/1ebb2baf402c...c0473a88fb25"
+    }
   }
 ]
