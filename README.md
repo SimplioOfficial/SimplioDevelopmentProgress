@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3143 commits since 10/09/2021. You can see the complete history in
+There is a total of 3144 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-08 17:10:17</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/53f9a55d8522b3ff0f5121989c746d8d29ca9399)</sub> | <sub>[53f9a55](https://github.com/SimplioOfficial/sio_core_light/commit/53f9a55d8522b3ff0f5121989c746d8d29ca9399) ci: add .pubignore file - ciripel</sub> |
 | <sub>2022-09-08 16:52:11</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/d497117c60b62efa3ee8fe41d164156d80a84cb0)</sub> | <sub>[d497117](https://github.com/SimplioOfficial/sio_core_light/commit/d497117c60b62efa3ee8fe41d164156d80a84cb0) ci: include .pubignore file - ciripel</sub> |
 | <sub>2022-09-08 16:41:08</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-08 16:39:04</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/565df6e3d864aa4c13a3c4a970c8cbdc867336ca)</sub> | <sub>[565df6e](https://github.com/SimplioOfficial/sio_core_light/commit/565df6e3d864aa4c13a3c4a970c8cbdc867336ca) Subtask/network id and asset (#7) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3143 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-07 21:31:32</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ed48b18b16b8217856b04da2f5024d01b8255a0)</sub> | <sub>[0ed48b1](https://github.com/SimplioOfficial/simplio-app/commit/0ed48b18b16b8217856b04da2f5024d01b8255a0) Changes to execute tests in this branch - MariooW</sub> |
 | <sub>2022-09-07 21:10:09</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f)</sub> | <sub>[d110225](https://github.com/SimplioOfficial/simplio-app/commit/d11022596167dbdcb7c1531fded5d36263ae8c9f) Changes to execute tests in this branch - MariooW</sub> |
 | <sub>2022-09-07 13:24:48</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a05e734e0293...9f3466cc615d)</sub> | <sub>[7a7e016](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek<br>[09db048](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81) Task/168 fetching fees for send transaction sum... - storkandstars<br>[9f3466c](https://github.com/SimplioOfficial/simplio-app/commit/9f3466cc615d431309d2c31c643a0e97b247ff24) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
-| <sub>2022-09-07 13:21:32</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d353c176c12e77bf49e057f94bf89829f13f266)</sub> | <sub>[9d353c1](https://github.com/SimplioOfficial/simplio-app/commit/9d353c176c12e77bf49e057f94bf89829f13f266) 1. Added placeholder for empty list, - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

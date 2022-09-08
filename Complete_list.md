@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-08 17:10:17</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/53f9a55d8522b3ff0f5121989c746d8d29ca9399)</sub> | <sub>[53f9a55](https://github.com/SimplioOfficial/sio_core_light/commit/53f9a55d8522b3ff0f5121989c746d8d29ca9399) ci: add .pubignore file - ciripel</sub> |
 | <sub>2022-09-08 16:52:11</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/d497117c60b62efa3ee8fe41d164156d80a84cb0)</sub> | <sub>[d497117](https://github.com/SimplioOfficial/sio_core_light/commit/d497117c60b62efa3ee8fe41d164156d80a84cb0) ci: include .pubignore file - ciripel</sub> |
 | <sub>2022-09-08 16:41:08</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-08 16:39:04</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/565df6e3d864aa4c13a3c4a970c8cbdc867336ca)</sub> | <sub>[565df6e](https://github.com/SimplioOfficial/sio_core_light/commit/565df6e3d864aa4c13a3c4a970c8cbdc867336ca) Subtask/network id and asset (#7) - ciripel</sub> |
