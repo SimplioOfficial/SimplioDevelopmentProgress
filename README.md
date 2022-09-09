@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3166 commits since 10/09/2021. You can see the complete history in
+There is a total of 3167 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-09 09:42:26</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a)</sub> | <sub>[b9d80ef](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik</sub> |
 | <sub>2022-09-09 07:50:10</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac)</sub> | <sub>[7faca56](https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac) fix: add data fields to WC Transaction methods - ciripel</sub> |
 | <sub>2022-09-09 07:16:50</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25)</sub> | <sub>[d5c088e](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25) Fixed number_extensions.dart import - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:48:49</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08)</sub> | <sub>[16b09f3](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08) Fixed PR issues. - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3166 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-09 05:52:27</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/b3b0a5ed40ad1cf12bb2da1c1c9580e0a543906b)</sub> | <sub>[b3b0a5e](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/b3b0a5ed40ad1cf12bb2da1c1c9580e0a543906b) feat: add source - PitTxid</sub> |
 | <sub>2022-09-08 22:53:49</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29b60510b8e4ae2fb67765346689a943322a94c0)</sub> | <sub>[29b6051](https://github.com/SimplioOfficial/simplio-app/commit/29b60510b8e4ae2fb67765346689a943322a94c0) Java11 #7 - MariooW</sub> |
 | <sub>2022-09-08 22:46:49</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48)</sub> | <sub>[c76fd86](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48) Java11 #6 - MariooW</sub> |
-| <sub>2022-09-08 22:43:43</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87)</sub> | <sub>[fd9e74c](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87) Java11 #5 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
