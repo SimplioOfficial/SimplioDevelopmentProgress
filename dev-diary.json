@@ -56683,5 +56683,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/b3b0a5ed40ad1cf12bb2da1c1c9580e0a543906b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 06:21:06.296000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4e07736`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/4e07736ca3767b6930f9e5e2b48bb049bfe09ac6) feat: getting battery level successfully - PitTxid\n[`6569004`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6569004058c9c92f702bbbecd9be42b58798946b) feat: update folder - PitTxid\n[`5f5ca3a`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/5f5ca3a38bf573829eecdedbbaf95ffbd2946f0b) feat: add husky - PitTxid",
+      "title": "[Kotlin-Flutter-Test:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/b3b0a5ed40ad...5f5ca3a38bf5"
+    }
   }
 ]
