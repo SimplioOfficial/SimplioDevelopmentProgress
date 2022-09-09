@@ -56863,5 +56863,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/06749767044335566cf94710e774fa57ef27ab78"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 21:29:09.662000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`78fd167`](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329) Removed decimal dependency and made adding numb... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-balance\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329"
+    }
   }
 ]
