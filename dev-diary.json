@@ -56809,5 +56809,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 09:48:45.006000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b9d80ef`](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik\n[`4f3f748`](https://github.com/SimplioOfficial/simplio-app/commit/4f3f748b239ec1cfbeff008c7a5c9d35bff657f8) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-balance\\-widget] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9f33da324c5f...4f3f748b239e"
+    }
   }
 ]
