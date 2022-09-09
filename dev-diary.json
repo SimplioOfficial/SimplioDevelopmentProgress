@@ -56773,5 +56773,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 07:50:10.399000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7faca56`](https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac) fix: add data fields to WC Transaction methods - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac"
+    }
   }
 ]
