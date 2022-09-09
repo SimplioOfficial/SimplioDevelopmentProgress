@@ -56827,5 +56827,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9f33da324c5f...4f3f748b239e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 10:44:35.986000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7a7e016`](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek\n[`09db048`](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81) Task/168 fetching fees for send transaction sum... - storkandstars\n[`b9d80ef`](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik\n[`245f728`](https://github.com/SimplioOfficial/simplio-app/commit/245f728800fe0740ac977c7ab7100dbcc173f92a) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/173\\-transaction\\-item] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9d353c176c12...245f728800fe"
+    }
   }
 ]
