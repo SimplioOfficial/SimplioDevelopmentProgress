@@ -56701,5 +56701,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/b3b0a5ed40ad...5f5ca3a38bf5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 06:35:39.621000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`84dbdbf`](https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398) Java11 #8 - MariooW",
+      "title": "[simplio-app:task/187\\_java\\_11\\_integration] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398"
+    }
   }
 ]
