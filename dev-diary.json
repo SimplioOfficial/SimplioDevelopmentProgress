@@ -56755,5 +56755,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-09 07:16:50.448000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`d5c088e`](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25) Fixed number_extensions.dart import - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/171\\-total\\-balance\\-widget\\-in\\-inventory\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25"
+    }
   }
 ]

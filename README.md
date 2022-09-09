@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3164 commits since 10/09/2021. You can see the complete history in
+There is a total of 3165 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-09 07:16:50</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25)</sub> | <sub>[d5c088e](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25) Fixed number_extensions.dart import - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:48:49</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08)</sub> | <sub>[16b09f3](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08) Fixed PR issues. - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:42:13</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f33da324c5f94d56c06a4fd3e8a44178cc13433)</sub> | <sub>[9f33da3](https://github.com/SimplioOfficial/simplio-app/commit/9f33da324c5f94d56c06a4fd3e8a44178cc13433) Completed task/172 - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:35:39</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398)</sub> | <sub>[84dbdbf](https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398) Java11 #8 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3164 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-08 22:46:49</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48)</sub> | <sub>[c76fd86](https://github.com/SimplioOfficial/simplio-app/commit/c76fd86d9ff0c601c66ea059d37babb32b725d48) Java11 #6 - MariooW</sub> |
 | <sub>2022-09-08 22:43:43</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87)</sub> | <sub>[fd9e74c](https://github.com/SimplioOfficial/simplio-app/commit/fd9e74cab976a9360f3417ef41de7371b2e5de87) Java11 #5 - MariooW</sub> |
 | <sub>2022-09-08 22:39:51</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e)</sub> | <sub>[119c1fa](https://github.com/SimplioOfficial/simplio-app/commit/119c1fa61980ea0a3bb857ea6a66d44c45c4334e) Java11 #4 - MariooW</sub> |
-| <sub>2022-09-08 22:38:48</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422)</sub> | <sub>[4f9db80](https://github.com/SimplioOfficial/simplio-app/commit/4f9db80f1cbb4b6a19914b6c357efb91d49c9422) Java11 #3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
