@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3173 commits since 10/09/2021. You can see the complete history in
+There is a total of 3174 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-12 08:03:52</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80)</sub> | <sub>[9fc1671](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80) Renamed and moved number_extensions_test.dart t... - Tomáš Petrík</sub> |
 | <sub>2022-09-12 03:27:54</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a)</sub> | <sub>[ef47936](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a) feat: use random number - PitTxid</sub> |
 | <sub>2022-09-12 02:34:49</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0)</sub> | <sub>[6a53df4](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0) send text successfully - PitTxid</sub> |
 | <sub>2022-09-09 21:29:09</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329)</sub> | <sub>[78fd167](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329) Removed decimal dependency and made adding numb... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3173 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-09 09:42:26</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a)</sub> | <sub>[b9d80ef](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik</sub> |
 | <sub>2022-09-09 07:50:10</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac)</sub> | <sub>[7faca56](https://github.com/SimplioOfficial/simplio-app/commit/7faca56e5f0b1f9d02e7e9d2d4fc13c0269451ac) fix: add data fields to WC Transaction methods - ciripel</sub> |
 | <sub>2022-09-09 07:16:50</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25)</sub> | <sub>[d5c088e](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25) Fixed number_extensions.dart import - Tomáš Petrík</sub> |
-| <sub>2022-09-09 06:48:49</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08)</sub> | <sub>[16b09f3](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08) Fixed PR issues. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

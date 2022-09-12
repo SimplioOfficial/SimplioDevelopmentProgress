@@ -56917,5 +56917,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-12 08:03:52.234000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`9fc1671`](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80) Renamed and moved number_extensions_test.dart t... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-balance\\-widget] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80"
+    }
   }
 ]
