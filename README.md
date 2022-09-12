@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3182 commits since 10/09/2021. You can see the complete history in
+There is a total of 3183 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-12 23:32:55</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a7441d5525991a631f37e408cb5f8fa3a23eaa4)</sub> | <sub>[4a7441d](https://github.com/SimplioOfficial/simplio-app/commit/4a7441d5525991a631f37e408cb5f8fa3a23eaa4) Java11 #10 - MariooW</sub> |
 | <sub>2022-09-12 22:58:14</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6f3e4c28ae2ce8f5f5732fb4992b9b69ae710ad)</sub> | <sub>[f6f3e4c](https://github.com/SimplioOfficial/simplio-app/commit/f6f3e4c28ae2ce8f5f5732fb4992b9b69ae710ad) Java11 #9 - MariooW</sub> |
 | <sub>2022-09-12 13:59:54</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7)</sub> | <sub>[75c0e81](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7) Set compile and target android version to 31 - Tomáš Petrík</sub> |
 | <sub>2022-09-12 13:04:38</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b)</sub> | <sub>[9ef9510](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b) Fixed import right number_extensions.dart - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3182 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-12 09:04:27</sub> | <sub>[[simplio-app:task/169\-search\-widget] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/45bdf8d9a66f...be2187f8e643)</sub> | <sub>[7a7e016](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek<br>[09db048](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81) Task/168 fetching fees for send transaction sum... - storkandstars<br>[b9d80ef](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik<br>[79a03fe](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik<br>[be2187f](https://github.com/SimplioOfficial/simplio-app/commit/be2187f8e643d1063f003dd900d672c36c23b9c2) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-12 08:22:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c)</sub> | <sub>[79a03fe](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik</sub> |
 | <sub>2022-09-12 08:03:52</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80)</sub> | <sub>[9fc1671](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80) Renamed and moved number_extensions_test.dart t... - Tomáš Petrík</sub> |
-| <sub>2022-09-12 03:27:54</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a)</sub> | <sub>[ef47936](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a) feat: use random number - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
