@@ -56971,5 +56971,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/45bdf8d9a66f...be2187f8e643"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-12 09:46:15.378000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`86695be`](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8"
+    }
   }
 ]
