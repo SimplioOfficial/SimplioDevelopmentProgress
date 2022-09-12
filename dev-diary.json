@@ -57007,5 +57007,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/245f728800fe...46f495e70841"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-12 13:00:13.304000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`43ab25d`](https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207) Removed old number_extensions.dart file - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/173\\-transaction\\-item] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-12 13:04:38.910000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`9ef9510`](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b) Fixed import right number_extensions.dart - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/173\\-transaction\\-item] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b"
+    }
   }
 ]
