@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3180 commits since 10/09/2021. You can see the complete history in
+There is a total of 3181 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-12 13:59:54</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7)</sub> | <sub>[75c0e81](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7) Set compile and target android version to 31 - Tomáš Petrík</sub> |
 | <sub>2022-09-12 13:04:38</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b)</sub> | <sub>[9ef9510](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b) Fixed import right number_extensions.dart - Tomáš Petrík</sub> |
 | <sub>2022-09-12 13:00:13</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207)</sub> | <sub>[43ab25d](https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207) Removed old number_extensions.dart file - Tomáš Petrík</sub> |
 | <sub>2022-09-12 11:27:52</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/245f728800fe...46f495e70841)</sub> | <sub>[79a03fe](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik<br>[86695be](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik<br>[46f495e](https://github.com/SimplioOfficial/simplio-app/commit/46f495e70841cc21e23963e2fc66595e6134a643) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3180 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-12 08:03:52</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80)</sub> | <sub>[9fc1671](https://github.com/SimplioOfficial/simplio-app/commit/9fc1671043d48e38e9a15721b854aea977d3df80) Renamed and moved number_extensions_test.dart t... - Tomáš Petrík</sub> |
 | <sub>2022-09-12 03:27:54</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a)</sub> | <sub>[ef47936](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/ef47936f620c66606b7f7ccf04a42e076c4a8d7a) feat: use random number - PitTxid</sub> |
 | <sub>2022-09-12 02:34:49</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0)</sub> | <sub>[6a53df4](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0) send text successfully - PitTxid</sub> |
-| <sub>2022-09-09 21:29:09</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329)</sub> | <sub>[78fd167](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329) Removed decimal dependency and made adding numb... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
