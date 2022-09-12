@@ -56881,5 +56881,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-12 02:34:49.368000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6a53df4`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0) send text successfully - PitTxid",
+      "title": "[Kotlin-Flutter-Test:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0"
+    }
   }
 ]

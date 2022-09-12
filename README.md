@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3171 commits since 10/09/2021. You can see the complete history in
+There is a total of 3172 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-12 02:34:49</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0)</sub> | <sub>[6a53df4](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6a53df44724c849a75dfd50259b45c47ccf478e0) send text successfully - PitTxid</sub> |
 | <sub>2022-09-09 21:29:09</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329)</sub> | <sub>[78fd167](https://github.com/SimplioOfficial/simplio-app/commit/78fd1679689b7b961a96fbcf1328d349133ec329) Removed decimal dependency and made adding numb... - Tomáš Petrík</sub> |
 | <sub>2022-09-09 11:46:09</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/06749767044335566cf94710e774fa57ef27ab78)</sub> | <sub>[0674976](https://github.com/SimplioOfficial/simplio-app/commit/06749767044335566cf94710e774fa57ef27ab78) Completed task/190-user-level-bar - Tomáš Petrík</sub> |
 | <sub>2022-09-09 10:44:35</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9d353c176c12...245f728800fe)</sub> | <sub>[7a7e016](https://github.com/SimplioOfficial/simplio-app/commit/7a7e016de6253600db710ac21b7b823097848477) Documentation/166 update readme (#185) - daxicek<br>[09db048](https://github.com/SimplioOfficial/simplio-app/commit/09db0488962a93a16eb339ea7a1f7936a116eb81) Task/168 fetching fees for send transaction sum... - storkandstars<br>[b9d80ef](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik<br>[245f728](https://github.com/SimplioOfficial/simplio-app/commit/245f728800fe0740ac977c7ab7100dbcc173f92a) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3171 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-09 07:16:50</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25)</sub> | <sub>[d5c088e](https://github.com/SimplioOfficial/simplio-app/commit/d5c088e17b6db56e7f6f422d472ba770329efc25) Fixed number_extensions.dart import - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:48:49</sub> | <sub>[[simplio-app:task/171\-total\-balance\-widget\-in\-inventory\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08)</sub> | <sub>[16b09f3](https://github.com/SimplioOfficial/simplio-app/commit/16b09f39e5e1d48666fbf6870092036cd7ca6c08) Fixed PR issues. - Tomáš Petrík</sub> |
 | <sub>2022-09-09 06:42:13</sub> | <sub>[[simplio-app:task/172\-balance\-widget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f33da324c5f94d56c06a4fd3e8a44178cc13433)</sub> | <sub>[9f33da3](https://github.com/SimplioOfficial/simplio-app/commit/9f33da324c5f94d56c06a4fd3e8a44178cc13433) Completed task/172 - Tomáš Petrík</sub> |
-| <sub>2022-09-09 06:35:39</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398)</sub> | <sub>[84dbdbf](https://github.com/SimplioOfficial/simplio-app/commit/84dbdbfce96a4556f55921bdf09066cdf5ddd398) Java11 #8 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
