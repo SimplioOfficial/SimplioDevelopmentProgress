@@ -57151,5 +57151,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/241ecb1212667ac8237a060c27ae5ff2c62d51de"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-13 09:27:32.556000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`33848fa`](https://github.com/SimplioOfficial/simplio-app/commit/33848fa50e6f0620d8d7a0a1ef24afbcd6c305bb) Completed task/172-update-translation-syntax - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-update\\-translation\\-syntax] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/33848fa50e6f0620d8d7a0a1ef24afbcd6c305bb"
+    }
   }
 ]
