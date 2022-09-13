@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3187 commits since 10/09/2021. You can see the complete history in
+There is a total of 3188 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-13 13:21:44</sub> | <sub>[[simplio-app:task/189\-update\-font\-family] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e13df422fa9831a30ff22739c507e280ef26ce7)</sub> | <sub>[3e13df4](https://github.com/SimplioOfficial/simplio-app/commit/3e13df422fa9831a30ff22739c507e280ef26ce7) Completed task/189-update-font-family. - Tomáš Petrík</sub> |
 | <sub>2022-09-13 09:27:32</sub> | <sub>[[simplio-app:task/172\-update\-translation\-syntax] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33848fa50e6f0620d8d7a0a1ef24afbcd6c305bb)</sub> | <sub>[33848fa](https://github.com/SimplioOfficial/simplio-app/commit/33848fa50e6f0620d8d7a0a1ef24afbcd6c305bb) Completed task/172-update-translation-syntax - Tomáš Petrík</sub> |
 | <sub>2022-09-13 07:54:04</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/241ecb1212667ac8237a060c27ae5ff2c62d51de)</sub> | <sub>[241ecb1](https://github.com/SimplioOfficial/simplio-app/commit/241ecb1212667ac8237a060c27ae5ff2c62d51de) Changed run-test workflow for this branch 'task... - Tomáš Petrík</sub> |
 | <sub>2022-09-13 07:41:47</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/017b1ac36c46f5dee153f113db8c8730d19d2a24)</sub> | <sub>[017b1ac](https://github.com/SimplioOfficial/simplio-app/commit/017b1ac36c46f5dee153f113db8c8730d19d2a24) Moved transactions_cubit.dart and transactions_... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3187 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-12 13:59:54</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7)</sub> | <sub>[75c0e81](https://github.com/SimplioOfficial/simplio-app/commit/75c0e8174a1791d3a59d8428b03a826b41f6d2d7) Set compile and target android version to 31 - Tomáš Petrík</sub> |
 | <sub>2022-09-12 13:04:38</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b)</sub> | <sub>[9ef9510](https://github.com/SimplioOfficial/simplio-app/commit/9ef951028da78533e27970bacf7706b7c126849b) Fixed import right number_extensions.dart - Tomáš Petrík</sub> |
 | <sub>2022-09-12 13:00:13</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207)</sub> | <sub>[43ab25d](https://github.com/SimplioOfficial/simplio-app/commit/43ab25df7ace929a54852de74ae9e753695cc207) Removed old number_extensions.dart file - Tomáš Petrík</sub> |
-| <sub>2022-09-12 11:27:52</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/245f728800fe...46f495e70841)</sub> | <sub>[79a03fe](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik<br>[86695be](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik<br>[46f495e](https://github.com/SimplioOfficial/simplio-app/commit/46f495e70841cc21e23963e2fc66595e6134a643) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

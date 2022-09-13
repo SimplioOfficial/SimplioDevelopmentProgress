@@ -57169,5 +57169,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/33848fa50e6f0620d8d7a0a1ef24afbcd6c305bb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-13 13:21:44.109000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`3e13df4`](https://github.com/SimplioOfficial/simplio-app/commit/3e13df422fa9831a30ff22739c507e280ef26ce7) Completed task/189-update-font-family. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/189\\-update\\-font\\-family] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e13df422fa9831a30ff22739c507e280ef26ce7"
+    }
   }
 ]
