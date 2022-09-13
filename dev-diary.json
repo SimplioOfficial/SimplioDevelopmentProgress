@@ -57097,5 +57097,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4a7441d5525991a631f37e408cb5f8fa3a23eaa4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-13 05:57:15.058000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`eca4346`](https://github.com/SimplioOfficial/simplio-app/commit/eca4346b1cfa1c406066c3f9f5b530de54427f7d) Changed api level to 31 for run-e2e-tests test - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/173\\-transaction\\-item] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eca4346b1cfa1c406066c3f9f5b530de54427f7d"
+    }
   }
 ]
