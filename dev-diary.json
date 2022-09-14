@@ -57437,5 +57437,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 11:40:25.243000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`dee353b`](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik\n[`a0fbe13`](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik\n[`6d717ce`](https://github.com/SimplioOfficial/simplio-app/commit/6d717cec8ac0b2c20fda31c48b82eb2a62828af1) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-update\\-translation\\-syntax] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/33848fa50e6f...6d717cec8ac0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 11:43:07.099000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e310cb4`](https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1) Added missing common_user_level translations. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/172\\-update\\-translation\\-syntax] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1"
+    }
   }
 ]
