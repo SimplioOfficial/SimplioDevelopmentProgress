@@ -57545,5 +57545,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e32fba8127d713ef630c2daa117c20ec8b37c893"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 14:29:22.884000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2416dab`](https://github.com/SimplioOfficial/simplio-app/commit/2416dab62db2666c36a9af30e70e784c52b6e982) fix: add UserSettingService to SecuredHttpClient - ciripel\n[`b8d9ed5`](https://github.com/SimplioOfficial/simplio-app/commit/b8d9ed5567eb723df2157e8ca69161f5f2bd6d82) wip: create empty sumsub repo, cubit and state - ciripel",
+      "title": "[simplio-app:Task/199\\-Implement\\-SumSub\\-flutter\\-sdk] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/8ea37f6867db...b8d9ed5567eb"
+    }
   }
 ]
