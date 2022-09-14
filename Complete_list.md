@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-14 09:32:24</sub> | <sub>[[simplio-app:task/173\-transaction\-item] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43c9ba0b893088ed7702bf4d0ff7b3f287128643)</sub> | <sub>[43c9ba0](https://github.com/SimplioOfficial/simplio-app/commit/43c9ba0b893088ed7702bf4d0ff7b3f287128643) Fixed: - Tomáš Petrík</sub> |
 | <sub>2022-09-14 08:59:02</sub> | <sub>[[simplio-app:Task/199\-Implement\-SumSub\-flutter\-sdk] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4696b72696d065ffe4ca0bf9d705847835ae5695)</sub> | <sub>[4696b72](https://github.com/SimplioOfficial/simplio-app/commit/4696b72696d065ffe4ca0bf9d705847835ae5695) chore: install flutter_idensic_mobile_sdk_plugin - ciripel</sub> |
 | <sub>2022-09-14 08:09:07</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.2](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-14 07:55:07</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/562534dd1267ec0bdccf4e14cf2b68dcca39cf76)</sub> | <sub>[562534d](https://github.com/SimplioOfficial/sio_core_light/commit/562534dd1267ec0bdccf4e14cf2b68dcca39cf76) Subtask/9 transaction arguments non null able (... - ciripel</sub> |
