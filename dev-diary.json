@@ -57401,5 +57401,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/34c18dbd6f8fd8ad837f9892db39686a99e8a957"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 11:21:35.433000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`403c81e`](https://github.com/SimplioOfficial/simplio-app/commit/403c81e906302e37e48e3691d8b1cf88aa96c1c0) Removed old unwanted number_extensions.dart - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/190\\-user\\-level\\-bar] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/403c81e906302e37e48e3691d8b1cf88aa96c1c0"
+    }
   }
 ]
