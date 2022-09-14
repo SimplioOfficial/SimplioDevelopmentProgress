@@ -57365,5 +57365,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/df872cfbb179d5c92ec111a8335108ab4452cdd1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 11:18:05.406000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`79a03fe`](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik\n[`86695be`](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik\n[`dee353b`](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik\n[`22a0e97`](https://github.com/SimplioOfficial/simplio-app/commit/22a0e97ad557fb0f6c8f482332237b2220e2b186) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/190\\-user\\-level\\-bar] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/df872cfbb179...22a0e97ad557"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 11:19:34.980000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`34c18db`](https://github.com/SimplioOfficial/simplio-app/commit/34c18dbd6f8fd8ad837f9892db39686a99e8a957) Removed duplicated files. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/190\\-user\\-level\\-bar] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/34c18dbd6f8fd8ad837f9892db39686a99e8a957"
+    }
   }
 ]
