@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3204 commits since 10/09/2021. You can see the complete history in
+There is a total of 3205 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-14 12:04:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3475cb6cef1272ac532da231773cdf783029acac)</sub> | <sub>[3475cb6](https://github.com/SimplioOfficial/simplio-app/commit/3475cb6cef1272ac532da231773cdf783029acac) Task/170 update translation syntax (#197) - TomasPetrik</sub> |
 | <sub>2022-09-14 11:43:07</sub> | <sub>[[simplio-app:task/172\-update\-translation\-syntax] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1)</sub> | <sub>[e310cb4](https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1) Added missing common_user_level translations. - Tomáš Petrík</sub> |
 | <sub>2022-09-14 11:40:25</sub> | <sub>[[simplio-app:task/172\-update\-translation\-syntax] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/33848fa50e6f...6d717cec8ac0)</sub> | <sub>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik<br>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik<br>[6d717ce](https://github.com/SimplioOfficial/simplio-app/commit/6d717cec8ac0b2c20fda31c48b82eb2a62828af1) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-14 11:29:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897)</sub> | <sub>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 3204 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-14 11:09:39</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df872cfbb179d5c92ec111a8335108ab4452cdd1)</sub> | <sub>[df872cf](https://github.com/SimplioOfficial/simplio-app/commit/df872cfbb179d5c92ec111a8335108ab4452cdd1) Rebased by master - Tomáš Petrík</sub> |
 | <sub>2022-09-14 11:02:49</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24e3b2e9287d44722b5808e2729611596b274f63)</sub> | <sub>[24e3b2e](https://github.com/SimplioOfficial/simplio-app/commit/24e3b2e9287d44722b5808e2729611596b274f63) Fixed api level to 31, - Tomáš Petrík</sub> |
 | <sub>2022-09-14 10:59:56</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a)</sub> | <sub>[7e4be0a](https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a) Rebased task/190 by master - Tomáš Petrík</sub> |
-| <sub>2022-09-14 10:43:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78)</sub> | <sub>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
