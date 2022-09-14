@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-14 11:09:39</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df872cfbb179d5c92ec111a8335108ab4452cdd1)</sub> | <sub>[df872cf](https://github.com/SimplioOfficial/simplio-app/commit/df872cfbb179d5c92ec111a8335108ab4452cdd1) Rebased by master - Tomáš Petrík</sub> |
 | <sub>2022-09-14 11:02:49</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24e3b2e9287d44722b5808e2729611596b274f63)</sub> | <sub>[24e3b2e](https://github.com/SimplioOfficial/simplio-app/commit/24e3b2e9287d44722b5808e2729611596b274f63) Fixed api level to 31, - Tomáš Petrík</sub> |
 | <sub>2022-09-14 10:59:56</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a)</sub> | <sub>[7e4be0a](https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a) Rebased task/190 by master - Tomáš Petrík</sub> |
 | <sub>2022-09-14 10:43:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78)</sub> | <sub>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik</sub> |
