@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3209 commits since 10/09/2021. You can see the complete history in
+There is a total of 3210 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-14 14:55:21</sub> | <sub>[[Kotlin-Flutter-Test:master] 2 new commits](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/ef47936f620c...7fefb0ef8bf8)</sub> | <sub>[d1bbd50](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/d1bbd50eaebcef400d6c171f7605a2710d46d0ed) feat: build ok - PitTxid<br>[7fefb0e](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/7fefb0ef8bf8e704e45f8e913e013d4737a88599) feat: can get time from wc utils - PitTxid</sub> |
 | <sub>2022-09-14 14:29:22</sub> | <sub>[[simplio-app:Task/199\-Implement\-SumSub\-flutter\-sdk] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8ea37f6867db...b8d9ed5567eb)</sub> | <sub>[2416dab](https://github.com/SimplioOfficial/simplio-app/commit/2416dab62db2666c36a9af30e70e784c52b6e982) fix: add UserSettingService to SecuredHttpClient - ciripel<br>[b8d9ed5](https://github.com/SimplioOfficial/simplio-app/commit/b8d9ed5567eb723df2157e8ca69161f5f2bd6d82) wip: create empty sumsub repo, cubit and state - ciripel</sub> |
 | <sub>2022-09-14 12:42:42</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e32fba8127d713ef630c2daa117c20ec8b37c893)</sub> | <sub>[e32fba8](https://github.com/SimplioOfficial/simplio-app/commit/e32fba8127d713ef630c2daa117c20ec8b37c893) Task/189 update font family (#198) - TomasPetrik</sub> |
 | <sub>2022-09-14 12:09:15</sub> | <sub>[[simplio-app:Task/199\-Implement\-SumSub\-flutter\-sdk] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ea37f6867db4b4fc7e7749d7a134660944c5411)</sub> | <sub>[8ea37f6](https://github.com/SimplioOfficial/simplio-app/commit/8ea37f6867db4b4fc7e7749d7a134660944c5411) feat: add user settings service - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3209 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-14 11:40:25</sub> | <sub>[[simplio-app:task/172\-update\-translation\-syntax] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/33848fa50e6f...6d717cec8ac0)</sub> | <sub>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik<br>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik<br>[6d717ce](https://github.com/SimplioOfficial/simplio-app/commit/6d717cec8ac0b2c20fda31c48b82eb2a62828af1) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-14 11:29:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897)</sub> | <sub>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik</sub> |
 | <sub>2022-09-14 11:21:35</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/403c81e906302e37e48e3691d8b1cf88aa96c1c0)</sub> | <sub>[403c81e](https://github.com/SimplioOfficial/simplio-app/commit/403c81e906302e37e48e3691d8b1cf88aa96c1c0) Removed old unwanted number_extensions.dart - Tomáš Petrík</sub> |
-| <sub>2022-09-14 11:19:34</sub> | <sub>[[simplio-app:task/190\-user\-level\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34c18dbd6f8fd8ad837f9892db39686a99e8a957)</sub> | <sub>[34c18db](https://github.com/SimplioOfficial/simplio-app/commit/34c18dbd6f8fd8ad837f9892db39686a99e8a957) Removed duplicated files. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

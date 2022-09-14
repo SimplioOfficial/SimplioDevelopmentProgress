@@ -57563,5 +57563,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/8ea37f6867db...b8d9ed5567eb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 14:55:21.814000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d1bbd50`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/d1bbd50eaebcef400d6c171f7605a2710d46d0ed) feat: build ok - PitTxid\n[`7fefb0e`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/7fefb0ef8bf8e704e45f8e913e013d4737a88599) feat: can get time from wc utils - PitTxid",
+      "title": "[Kotlin-Flutter-Test:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/ef47936f620c...7fefb0ef8bf8"
+    }
   }
 ]
