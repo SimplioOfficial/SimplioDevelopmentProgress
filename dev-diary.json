@@ -57241,5 +57241,21 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/562534dd1267ec0bdccf4e14cf2b68dcca39cf76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 08:09:07.832000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_core_light] New release published: 1\\.1\\.2",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.2"
+    }
   }
 ]
