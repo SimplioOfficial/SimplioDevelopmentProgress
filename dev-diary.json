@@ -57311,5 +57311,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-14 10:59:56.149000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7e4be0a`](https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a) Rebased task/190 by master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/190\\-user\\-level\\-bar] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7e4be0a4883215577c3398cd7a1cf2ad9caa187a"
+    }
   }
 ]
