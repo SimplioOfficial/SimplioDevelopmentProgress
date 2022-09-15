@@ -57671,5 +57671,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/24f4123dfd7f540faab4059b0a4dc501748ecf8a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 10:33:18.647000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ccbb155`](https://github.com/SimplioOfficial/simplio-app/commit/ccbb155b1f22bb8c542ab09df26fe527804f053d) Applying changes to use api-level 33 - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ccbb155b1f22bb8c542ab09df26fe527804f053d"
+    }
   }
 ]
