@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-15 13:14:34</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5614c811e675bf216713bdb2b755fb2621bd83e)</sub> | <sub>[d5614c8](https://github.com/SimplioOfficial/simplio-app/commit/d5614c811e675bf216713bdb2b755fb2621bd83e) changes after code review - jvrastil</sub> |
+| <sub>2022-09-15 13:12:57</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7c15291fbfce4686fead9b01eba5ea7753fb7002)</sub> | <sub>[7c15291](https://github.com/SimplioOfficial/simplio-app/commit/7c15291fbfce4686fead9b01eba5ea7753fb7002) changes after code review - jvrastil</sub> |
 | <sub>2022-09-15 13:07:03</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e9ec8afd2ac0...e7d5a657bcb5)</sub> |
 | <sub>2022-09-15 12:10:20</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f651df759854936fe060be54713d3c5d9271359)</sub> | <sub>[0f651df](https://github.com/SimplioOfficial/simplio-app/commit/0f651df759854936fe060be54713d3c5d9271359) 1. Moved date_extension to view/extension folder, - Tomáš Petrík</sub> |
 | <sub>2022-09-15 11:30:15</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c7cc4b616550a28d8bb71fad49152196bd5394d3)</sub> | <sub>[c7cc4b6](https://github.com/SimplioOfficial/simplio-app/commit/c7cc4b616550a28d8bb71fad49152196bd5394d3) Prepare for PR - MariooW</sub> |

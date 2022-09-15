@@ -57742,5 +57742,41 @@
       "title": "[simplio-app] Branch task/118\\-send\\_coins\\_ui\\_2 was force-pushed to `e7d5a65`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 13:12:57.713000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7c15291`](https://github.com/SimplioOfficial/simplio-app/commit/7c15291fbfce4686fead9b01eba5ea7753fb7002) changes after code review - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7c15291fbfce4686fead9b01eba5ea7753fb7002"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 13:14:34.301000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d5614c8`](https://github.com/SimplioOfficial/simplio-app/commit/d5614c811e675bf216713bdb2b755fb2621bd83e) changes after code review - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5614c811e675bf216713bdb2b755fb2621bd83e"
+    }
   }
 ]
