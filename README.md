@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3213 commits since 10/09/2021. You can see the complete history in
+There is a total of 3214 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-15 09:14:51</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e840dcdf9ad778fb2caa1951f918d0aac4011c52)</sub> | <sub>[e840dcd](https://github.com/SimplioOfficial/simplio-app/commit/e840dcdf9ad778fb2caa1951f918d0aac4011c52) moving active sessions to configuration screen - storkandstars</sub> |
 | <sub>2022-09-14 22:09:28</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa9f6e6930c0776d6d56bacec9abc48c3a536b40)</sub> | <sub>[fa9f6e6](https://github.com/SimplioOfficial/simplio-app/commit/fa9f6e6930c0776d6d56bacec9abc48c3a536b40) Java11 #13 - MariooW</sub> |
 | <sub>2022-09-14 21:56:06</sub> | <sub>[[simplio-app:task/187\_java\_11\_integration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4c07022fe98d3fd6f203af57b478dc618f1db731)</sub> | <sub>[4c07022](https://github.com/SimplioOfficial/simplio-app/commit/4c07022fe98d3fd6f203af57b478dc618f1db731) Java11 #12 - MariooW</sub> |
 | <sub>2022-09-14 16:02:32</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/89f802e660b095fb08935af36bc84660ac5359ac)</sub> | <sub>[89f802e](https://github.com/SimplioOfficial/simplio-app/commit/89f802e660b095fb08935af36bc84660ac5359ac) updating wallet connect events - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3213 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-14 12:09:15</sub> | <sub>[[simplio-app:Task/199\-Implement\-SumSub\-flutter\-sdk] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ea37f6867db4b4fc7e7749d7a134660944c5411)</sub> | <sub>[8ea37f6](https://github.com/SimplioOfficial/simplio-app/commit/8ea37f6867db4b4fc7e7749d7a134660944c5411) feat: add user settings service - ciripel</sub> |
 | <sub>2022-09-14 12:09:07</sub> | <sub>[[simplio-app:task/189\-update\-font\-family] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e13df422fa9...ea144b350b5b)</sub> | <sub>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik<br>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik<br>[3475cb6](https://github.com/SimplioOfficial/simplio-app/commit/3475cb6cef1272ac532da231773cdf783029acac) Task/170 update translation syntax (#197) - TomasPetrik<br>[ea144b3](https://github.com/SimplioOfficial/simplio-app/commit/ea144b350b5b2df7003e5ce037e03bf53d9bf5af) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-14 12:04:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3475cb6cef1272ac532da231773cdf783029acac)</sub> | <sub>[3475cb6](https://github.com/SimplioOfficial/simplio-app/commit/3475cb6cef1272ac532da231773cdf783029acac) Task/170 update translation syntax (#197) - TomasPetrik</sub> |
-| <sub>2022-09-14 11:43:07</sub> | <sub>[[simplio-app:task/172\-update\-translation\-syntax] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1)</sub> | <sub>[e310cb4](https://github.com/SimplioOfficial/simplio-app/commit/e310cb4dc80c1d5f802ce146c4260f03b69820d1) Added missing common_user_level translations. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
