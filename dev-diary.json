@@ -57778,5 +57778,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5614c811e675bf216713bdb2b755fb2621bd83e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 14:35:39.129000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a2b20c5`](https://github.com/SimplioOfficial/sio_core_light/commit/a2b20c54803318c3cdc1318cc6de2a3cbc52596d) chore: update dependencies - ciripel\n[`65394d9`](https://github.com/SimplioOfficial/sio_core_light/commit/65394d90706aca78def91c545b84974deacd9502) subtask: implement eth signing - ciripel\n[`19c1998`](https://github.com/SimplioOfficial/sio_core_light/commit/19c1998652f445fdaab0920e661d5ea0228ce522) chore: increase version to 1.1.3 - ciripel",
+      "title": "[sio_core_light:Subtask/11\\-implement\\-ethereum\\-signing] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/562534dd1267...19c1998652f4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 14:35:57.709000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0df3a46`](https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521) build fix - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 14:37:16.845000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0d115c4`](https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd) build fix - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd"
+    }
   }
 ]
