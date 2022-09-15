@@ -57725,5 +57725,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f651df759854936fe060be54713d3c5d9271359"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 13:07:03.861000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e9ec8afd2ac0...e7d5a657bcb5)",
+      "title": "[simplio-app] Branch task/118\\-send\\_coins\\_ui\\_2 was force-pushed to `e7d5a65`",
+      "type": "rich"
+    }
   }
 ]
