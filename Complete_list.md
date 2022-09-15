@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-15 14:59:17</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.3](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-15 14:48:33</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af)</sub> | <sub>[0ffe703](https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af) Subtask/11 implement ethereum signing (#12) - ciripel</sub> |
 | <sub>2022-09-15 14:37:16</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd)</sub> | <sub>[0d115c4](https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd) build fix - jvrastil</sub> |
 | <sub>2022-09-15 14:35:57</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521)</sub> | <sub>[0df3a46](https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521) build fix - jvrastil</sub> |
