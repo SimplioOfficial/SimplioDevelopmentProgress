@@ -57884,5 +57884,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/57e1f0acbafd56b5667a7f7ce77b13f87832ef52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 18:46:46.007000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`21860f1`](https://github.com/SimplioOfficial/simplio-app/commit/21860f186ed76482513a96a1e1a69745fcb95400) feat: implement Signature Requests - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/21860f186ed76482513a96a1e1a69745fcb95400"
+    }
   }
 ]
