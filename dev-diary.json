@@ -57832,5 +57832,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-15 14:48:33.284000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0ffe703`](https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af) Subtask/11 implement ethereum signing (#12) - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af"
+    }
   }
 ]
