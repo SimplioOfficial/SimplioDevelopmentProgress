@@ -58082,5 +58082,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ca6a783d22cca8df25481e2c937c8bf4e7ad2137"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 09:20:45.887000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`1d26756`](https://github.com/SimplioOfficial/simplio-app/commit/1d2675623b222bda3c6be7dce4662ef7d11249d8) Task/118 send coins UI (#165) - jvrastil\n[`3c965d9`](https://github.com/SimplioOfficial/simplio-app/commit/3c965d9266aa4ac595f45ea5ec50ed856a846d78) Fix comments - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/d361d48d29cd...3c965d9266aa"
+    }
   }
 ]
