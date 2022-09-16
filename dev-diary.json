@@ -58118,5 +58118,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/3c965d9266aa...4d39bdb58d36"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 10:29:52.984000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4413722`](https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562) Rebased with master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/196\\-coin\\-detail\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562"
+    }
   }
 ]
