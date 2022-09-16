@@ -58154,5 +58154,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c6f1cc53d5a0a52fa545892b3c65f7f7be5d5f25"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 11:16:20.085000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f00ee83`](https://github.com/SimplioOfficial/simplio-app/commit/f00ee83157d6b156948b72f0c164747d6212880a) fix: fix Hex parsing of encoded received message - ciripel\n[`2852bcf`](https://github.com/SimplioOfficial/simplio-app/commit/2852bcfda56fc31bce8664d6b2c31d0e67faca7a) wip: fixing bugs - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2b38c3a45f86...2852bcfda56f"
+    }
   }
 ]
