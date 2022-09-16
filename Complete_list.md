@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 07:52:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2)</sub> | <sub>[bf4ede3](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil</sub> |
 | <sub>2022-09-16 07:02:55</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/076d15a95e9c83221af7dbb78310744ec6245e1a)</sub> | <sub>[076d15a](https://github.com/SimplioOfficial/simplio-app/commit/076d15a95e9c83221af7dbb78310744ec6245e1a) changes after code review 3 - jvrastil</sub> |
 | <sub>2022-09-16 06:59:53</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7242af0bec05d86212c71c323d1624597d84fb8)</sub> | <sub>[e7242af](https://github.com/SimplioOfficial/simplio-app/commit/e7242af0bec05d86212c71c323d1624597d84fb8) changes after code review 3 - jvrastil</sub> |
 | <sub>2022-09-16 06:59:13</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5497290fd24cdfa7d23472a9c4c380f48f002075)</sub> | <sub>[5497290](https://github.com/SimplioOfficial/simplio-app/commit/5497290fd24cdfa7d23472a9c4c380f48f002075) changes after code review 3 - jvrastil</sub> |

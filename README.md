@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3232 commits since 10/09/2021. You can see the complete history in
+There is a total of 3233 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 07:52:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2)</sub> | <sub>[bf4ede3](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil</sub> |
 | <sub>2022-09-16 07:02:55</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/076d15a95e9c83221af7dbb78310744ec6245e1a)</sub> | <sub>[076d15a](https://github.com/SimplioOfficial/simplio-app/commit/076d15a95e9c83221af7dbb78310744ec6245e1a) changes after code review 3 - jvrastil</sub> |
 | <sub>2022-09-16 06:59:53</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7242af0bec05d86212c71c323d1624597d84fb8)</sub> | <sub>[e7242af](https://github.com/SimplioOfficial/simplio-app/commit/e7242af0bec05d86212c71c323d1624597d84fb8) changes after code review 3 - jvrastil</sub> |
 | <sub>2022-09-16 06:59:13</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5497290fd24cdfa7d23472a9c4c380f48f002075)</sub> | <sub>[5497290](https://github.com/SimplioOfficial/simplio-app/commit/5497290fd24cdfa7d23472a9c4c380f48f002075) changes after code review 3 - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3232 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-15 14:59:17</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.3](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-15 14:48:33</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af)</sub> | <sub>[0ffe703](https://github.com/SimplioOfficial/sio_core_light/commit/0ffe703c9e94666cf49d9f29469f33206dfc49af) Subtask/11 implement ethereum signing (#12) - ciripel</sub> |
 | <sub>2022-09-15 14:37:16</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd)</sub> | <sub>[0d115c4](https://github.com/SimplioOfficial/simplio-app/commit/0d115c4ab5f7f8026613d6841ddb2738bb3cc5bd) build fix - jvrastil</sub> |
-| <sub>2022-09-15 14:35:57</sub> | <sub>[[simplio-app:task/118\-send\_coins\_ui\_2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521)</sub> | <sub>[0df3a46](https://github.com/SimplioOfficial/simplio-app/commit/0df3a46809f807598c9ede007ece6969d8a1d521) build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
