@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 22:19:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87)</sub> | <sub>[a85c8e1](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87) Task/187 upgrade to api33 (#202) - MariooW</sub> |
 | <sub>2022-09-16 16:27:45</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169)</sub> | <sub>[210b19e](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169) fix: implement sio_core_light improvements - ciripel</sub> |
 | <sub>2022-09-16 16:12:25</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.4](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.4)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-09-16 16:10:57</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a)</sub> | <sub>[59dc0bd](https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a) Subtask/13-improve-sio-core-light-arguments-typ... - ciripel</sub> |
