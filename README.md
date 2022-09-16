@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3243 commits since 10/09/2021. You can see the complete history in
+There is a total of 3244 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 11:44:27</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61ad5951525d2d1bbb4af0158da31faa37d859a5)</sub> | <sub>[61ad595](https://github.com/SimplioOfficial/simplio-app/commit/61ad5951525d2d1bbb4af0158da31faa37d859a5) Remove unnecessary line - MariooW</sub> |
 | <sub>2022-09-16 11:16:20</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2b38c3a45f86...2852bcfda56f)</sub> | <sub>[f00ee83](https://github.com/SimplioOfficial/simplio-app/commit/f00ee83157d6b156948b72f0c164747d6212880a) fix: fix Hex parsing of encoded received message - ciripel<br>[2852bcf](https://github.com/SimplioOfficial/simplio-app/commit/2852bcfda56fc31bce8664d6b2c31d0e67faca7a) wip: fixing bugs - ciripel</sub> |
 | <sub>2022-09-16 11:11:37</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6f1cc53d5a0a52fa545892b3c65f7f7be5d5f25)</sub> | <sub>[c6f1cc5](https://github.com/SimplioOfficial/simplio-app/commit/c6f1cc53d5a0a52fa545892b3c65f7f7be5d5f25) 1. Updated blur effect to be same in each bar w... - Tomáš Petrík</sub> |
 | <sub>2022-09-16 10:29:52</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562)</sub> | <sub>[4413722](https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562) Rebased with master - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3243 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-16 08:51:48</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/16cd230973b7...2b38c3a45f86)</sub> | <sub>[f5c8fcb](https://github.com/SimplioOfficial/simplio-app/commit/f5c8fcb4d95cb026c0d9ea4929949894c55e2518) renaming events to requests - storkandstars<br>[2b38c3a](https://github.com/SimplioOfficial/simplio-app/commit/2b38c3a45f8614d449cbcd59e953341d1a0e93fa) fixing imports after rebase - storkandstars</sub> |
 | <sub>2022-09-16 08:45:06</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16cd230973b75315c49bc6809a361650bb66e986)</sub> | <sub>[16cd230](https://github.com/SimplioOfficial/simplio-app/commit/16cd230973b75315c49bc6809a361650bb66e986) fix: fix chainId fallback to eth - ciripel</sub> |
 | <sub>2022-09-16 08:34:26</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1)</sub> | <sub>[87ba5da](https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1) fix: get chainId from SessionRequest - ciripel</sub> |
-| <sub>2022-09-16 08:27:22</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f)</sub> | <sub>[d361d48](https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f) Fix comments - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
