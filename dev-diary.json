@@ -58208,5 +58208,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/df6ed07f8c574ab2eec6d47c103483889daa0a92"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 12:06:08.732000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`1d9c1d0`](https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6) Switch to task/187_upgrade_to_api33 branch - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6"
+    }
   }
 ]
