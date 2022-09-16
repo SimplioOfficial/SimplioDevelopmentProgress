@@ -58010,5 +58010,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 08:34:26.890000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`87ba5da`](https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1) fix: get chainId from SessionRequest - ciripel",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1"
+    }
   }
 ]
