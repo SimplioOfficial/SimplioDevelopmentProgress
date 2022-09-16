@@ -58280,5 +58280,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/ffbd666c2a108478177aa911a0f969ad948ba8c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 16:09:16.002000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0cd0d16`](https://github.com/SimplioOfficial/sio_core_light/commit/0cd0d16bcc13445551371baa9200d880ee18d8c4) fix: message argument now String - ciripel\n[`d8781a3`](https://github.com/SimplioOfficial/sio_core_light/commit/d8781a3c328c08b6810bcd3caf0e5e0aa0b12bd8) fix: BuildTransaction method arguments to BigInt - ciripel\n[`16c475b`](https://github.com/SimplioOfficial/sio_core_light/commit/16c475bb978122216bb9824f48e36a7c3d486bf2) chore: increase version to 1.1.4 - ciripel",
+      "title": "[sio_core_light:Subtask/13\\-improve\\-sio\\-core\\-light\\-arguments\\-types] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/ffbd666c2a10...16c475bb9781"
+    }
   }
 ]
