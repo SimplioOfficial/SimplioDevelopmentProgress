@@ -58298,5 +58298,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/ffbd666c2a10...16c475bb9781"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 16:10:57.986000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`59dc0bd`](https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a) Subtask/13-improve-sio-core-light-arguments-typ... - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 16:12:25.704000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_core_light] New release published: 1\\.1\\.4",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.4"
+    }
   }
 ]
