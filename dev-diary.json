@@ -58190,5 +58190,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/61ad5951525d2d1bbb4af0158da31faa37d859a5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 12:04:37.671000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`df6ed07`](https://github.com/SimplioOfficial/simplio-app/commit/df6ed07f8c574ab2eec6d47c103483889daa0a92) Removing annotation to 118-send_ui_coins_ui_2 - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/df6ed07f8c574ab2eec6d47c103483889daa0a92"
+    }
   }
 ]
