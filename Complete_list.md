@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 08:45:06</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16cd230973b75315c49bc6809a361650bb66e986)</sub> | <sub>[16cd230](https://github.com/SimplioOfficial/simplio-app/commit/16cd230973b75315c49bc6809a361650bb66e986) fix: fix chainId fallback to eth - ciripel</sub> |
 | <sub>2022-09-16 08:34:26</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1)</sub> | <sub>[87ba5da](https://github.com/SimplioOfficial/simplio-app/commit/87ba5da26f63b60fb62564335536bd8f83d19fc1) fix: get chainId from SessionRequest - ciripel</sub> |
 | <sub>2022-09-16 08:27:22</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f)</sub> | <sub>[d361d48](https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f) Fix comments - MariooW</sub> |
 | <sub>2022-09-16 07:52:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2)</sub> | <sub>[bf4ede3](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil</sub> |
