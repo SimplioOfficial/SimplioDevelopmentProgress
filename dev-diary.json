@@ -58100,5 +58100,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/d361d48d29cd...3c965d9266aa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 09:27:17.464000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`bf4ede3`](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil\n[`4d39bdb`](https://github.com/SimplioOfficial/simplio-app/commit/4d39bdb58d36a1a1d9e071d58eb817d7df713d39) Merge branch 'master' into task/187_upgrade_to_... - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/3c965d9266aa...4d39bdb58d36"
+    }
   }
 ]
