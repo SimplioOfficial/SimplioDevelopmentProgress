@@ -57992,5 +57992,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 08:27:22.868000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d361d48`](https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f) Fix comments - MariooW",
+      "title": "[simplio-app:task/187\\_upgrade\\_to\\_api33] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d361d48d29cd8b5158f65b24f2210d941273cc4f"
+    }
   }
 ]
