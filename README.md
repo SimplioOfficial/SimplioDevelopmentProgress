@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3248 commits since 10/09/2021. You can see the complete history in
+There is a total of 3249 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-16 13:49:32</sub> | <sub>[[sio_core_light:Subtask/13\-improve\-sio\-core\-light\-arguments\-types] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/ffbd666c2a108478177aa911a0f969ad948ba8c8)</sub> | <sub>[ffbd666](https://github.com/SimplioOfficial/sio_core_light/commit/ffbd666c2a108478177aa911a0f969ad948ba8c8) fix: ethTx data type from List<int> to String - ciripel</sub> |
 | <sub>2022-09-16 13:28:49</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5df8c59ac17c9fd7841434093deee72f27f32dc9)</sub> | <sub>[5df8c59](https://github.com/SimplioOfficial/simplio-app/commit/5df8c59ac17c9fd7841434093deee72f27f32dc9) wip: improved wc1 - ciripel</sub> |
 | <sub>2022-09-16 12:16:54</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29bbe5519628d89144e5b4dc970386b68d46c39c)</sub> | <sub>[29bbe55](https://github.com/SimplioOfficial/simplio-app/commit/29bbe5519628d89144e5b4dc970386b68d46c39c) revert to master - MariooW</sub> |
 | <sub>2022-09-16 12:06:08</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6)</sub> | <sub>[1d9c1d0](https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6) Switch to task/187_upgrade_to_api33 branch - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3248 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-16 11:11:37</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6f1cc53d5a0a52fa545892b3c65f7f7be5d5f25)</sub> | <sub>[c6f1cc5](https://github.com/SimplioOfficial/simplio-app/commit/c6f1cc53d5a0a52fa545892b3c65f7f7be5d5f25) 1. Updated blur effect to be same in each bar w... - Tomáš Petrík</sub> |
 | <sub>2022-09-16 10:29:52</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562)</sub> | <sub>[4413722](https://github.com/SimplioOfficial/simplio-app/commit/4413722f3d489236d31a30997f0d39faaf070562) Rebased with master - Tomáš Petrík</sub> |
 | <sub>2022-09-16 09:27:17</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3c965d9266aa...4d39bdb58d36)</sub> | <sub>[bf4ede3](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil<br>[4d39bdb](https://github.com/SimplioOfficial/simplio-app/commit/4d39bdb58d36a1a1d9e071d58eb817d7df713d39) Merge branch 'master' into task/187_upgrade_to_... - MariooW</sub> |
-| <sub>2022-09-16 09:20:45</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d361d48d29cd...3c965d9266aa)</sub> | <sub>[1d26756](https://github.com/SimplioOfficial/simplio-app/commit/1d2675623b222bda3c6be7dce4662ef7d11249d8) Task/118 send coins UI (#165) - jvrastil<br>[3c965d9](https://github.com/SimplioOfficial/simplio-app/commit/3c965d9266aa4ac595f45ea5ec50ed856a846d78) Fix comments - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
