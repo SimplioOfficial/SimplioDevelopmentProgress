@@ -57902,5 +57902,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/21860f186ed76482513a96a1e1a69745fcb95400"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-16 06:44:37.771000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a6fd1d6`](https://github.com/SimplioOfficial/simplio-app/commit/a6fd1d6da787de9474ba70d83c79bab3dcb4188d) changes after code review 3 - jvrastil",
+      "title": "[simplio-app:task/118\\-send\\_coins\\_ui\\_2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a6fd1d6da787de9474ba70d83c79bab3dcb4188d"
+    }
   }
 ]
