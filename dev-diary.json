@@ -58368,5 +58368,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-18 20:38:28.302000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a396697`](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars\n[`94134e6`](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13) Completed task #134: - Tom\u00e1\u0161 Petr\u00edk\n[`b344e13`](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a) adding sio_core_light (#137) - storkandstars\n[`4391493`](https://github.com/SimplioOfficial/simplio-app/commit/43914939ca6fa1e1c99e3a5bf5ca2a1bb3259c96) Task/127 register blockchain endpoints (#140) - ciripel\n[`e4342d8`](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a) 1. Fixed daaps to dapps, - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 63 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/136359189a65...99b4be57ebe4"
+    }
   }
 ]

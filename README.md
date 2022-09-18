@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3254 commits since 10/09/2021. You can see the complete history in
+There is a total of 3255 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-18 20:38:28</sub> | <sub>[[simplio-app:test/integration\_tests\_gherkin] 63 new commits](https://github.com/SimplioOfficial/simplio-app/compare/136359189a65...99b4be57ebe4)</sub> | <sub>[a396697](https://github.com/SimplioOfficial/simplio-app/commit/a3966974722736d48e262a7a7038bac6b0a4c42f) Task/116 create utxo wallet (#128) - storkandstars<br>[94134e6](https://github.com/SimplioOfficial/simplio-app/commit/94134e647c3ff66983a475e1efab9320b46a6f13) Completed task #134: - Tomáš Petrík<br>[b344e13](https://github.com/SimplioOfficial/simplio-app/commit/b344e13fe2b038e12c089953cab8d2f4e423654a) adding sio_core_light (#137) - storkandstars<br>[4391493](https://github.com/SimplioOfficial/simplio-app/commit/43914939ca6fa1e1c99e3a5bf5ca2a1bb3259c96) Task/127 register blockchain endpoints (#140) - ciripel<br>[e4342d8](https://github.com/SimplioOfficial/simplio-app/commit/e4342d899da7c26e6832b4cbbb80f2ac6999ab2a) 1. Fixed daaps to dapps, - Tomáš Petrík</sub> |
 | <sub>2022-09-16 22:19:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87)</sub> | <sub>[a85c8e1](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87) Task/187 upgrade to api33 (#202) - MariooW</sub> |
 | <sub>2022-09-16 16:27:45</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169)</sub> | <sub>[210b19e](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169) fix: implement sio_core_light improvements - ciripel</sub> |
 | <sub>2022-09-16 16:12:25</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.4](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.4)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3254 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-16 13:28:49</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5df8c59ac17c9fd7841434093deee72f27f32dc9)</sub> | <sub>[5df8c59](https://github.com/SimplioOfficial/simplio-app/commit/5df8c59ac17c9fd7841434093deee72f27f32dc9) wip: improved wc1 - ciripel</sub> |
 | <sub>2022-09-16 12:16:54</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29bbe5519628d89144e5b4dc970386b68d46c39c)</sub> | <sub>[29bbe55](https://github.com/SimplioOfficial/simplio-app/commit/29bbe5519628d89144e5b4dc970386b68d46c39c) revert to master - MariooW</sub> |
 | <sub>2022-09-16 12:06:08</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6)</sub> | <sub>[1d9c1d0](https://github.com/SimplioOfficial/simplio-app/commit/1d9c1d0bb3a1e48bcb717c2d2a5353801e8414d6) Switch to task/187_upgrade_to_api33 branch - MariooW</sub> |
-| <sub>2022-09-16 12:04:37</sub> | <sub>[[simplio-app:task/187\_upgrade\_to\_api33] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df6ed07f8c574ab2eec6d47c103483889daa0a92)</sub> | <sub>[df6ed07](https://github.com/SimplioOfficial/simplio-app/commit/df6ed07f8c574ab2eec6d47c103483889daa0a92) Removing annotation to 118-send_ui_coins_ui_2 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
