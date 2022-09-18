@@ -58386,5 +58386,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/136359189a65...99b4be57ebe4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-18 21:55:04.092000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`51e9267`](https://github.com/SimplioOfficial/simplio-app/commit/51e926717e27a6b4a915bf2352219e5acc9c9120) Task/168 fetching fees for send transaction sum... - storkandstars\n[`5582387`](https://github.com/SimplioOfficial/simplio-app/commit/5582387c1be29d1b91d6d5a1990a8fd73a1b694e) Task/171 Total balance widget in inventory scre... - TomasPetrik\n[`6d1fb00`](https://github.com/SimplioOfficial/simplio-app/commit/6d1fb00fa8cc2ee8794bb007519fefb65cbf28c5) Task/172 balance widget (#188) - TomasPetrik\n[`ca18b39`](https://github.com/SimplioOfficial/simplio-app/commit/ca18b39c219fd02c065f5d9bf45fa1d8e7afb2a4) Task/169 search widget (#184) - TomasPetrik\n[`d46cace`](https://github.com/SimplioOfficial/simplio-app/commit/d46cace9eeb4ae4943bf54ccf6eb672e7342492e) Task/173-transaction-item AND Task/174-transact... - TomasPetrik",
+      "title": "[simplio-app:test/integration\\_tests\\_gherkin] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/99b4be57ebe4...55bb81ea3452"
+    }
   }
 ]
