@@ -58602,5 +58602,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-19 16:52:12.854000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b9d80ef`](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik\n[`79a03fe`](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik\n[`86695be`](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik\n[`dee353b`](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik\n[`a0fbe13`](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 14 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/475bcb2c8102...8efdec1ad645"
+    }
   }
 ]
