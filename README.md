@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3260 commits since 10/09/2021. You can see the complete history in
+There is a total of 3261 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-19 09:33:22</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d37fc624b067faede1a81339b66f38f23215a0ba)</sub> | <sub>[d37fc62](https://github.com/SimplioOfficial/simplio-app/commit/d37fc624b067faede1a81339b66f38f23215a0ba) Fixed prefer_initializing_formals - Tomáš Petrík</sub> |
 | <sub>2022-09-19 09:16:34</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9bd3783f5600d6ba5bd31b4e37adffca4e4ff0d3)</sub> | <sub>[9bd3783](https://github.com/SimplioOfficial/simplio-app/commit/9bd3783f5600d6ba5bd31b4e37adffca4e4ff0d3) Changed branch to master for tests - Tomáš Petrík</sub> |
 | <sub>2022-09-19 09:13:21</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f778578d8474...31dc38c5a767)</sub> | <sub>[bf4ede3](https://github.com/SimplioOfficial/simplio-app/commit/bf4ede3ace50fe146bd9c380ca8529a2e86442d2) Task/118 send coins UI (#165) - jvrastil<br>[a85c8e1](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87) Task/187 upgrade to api33 (#202) - MariooW<br>[31dc38c](https://github.com/SimplioOfficial/simplio-app/commit/31dc38c5a7671dcb6ebef7d1d7eade97ac4f8d74) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-19 09:09:06</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f778578d84748379b1f5388bba02ef7ce8637e16)</sub> | <sub>[f778578](https://github.com/SimplioOfficial/simplio-app/commit/f778578d84748379b1f5388bba02ef7ce8637e16) Completed task/196-coin-detail--screen - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3260 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-16 22:19:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87)</sub> | <sub>[a85c8e1](https://github.com/SimplioOfficial/simplio-app/commit/a85c8e187a26c8f2bf06975e629431ecbd727d87) Task/187 upgrade to api33 (#202) - MariooW</sub> |
 | <sub>2022-09-16 16:27:45</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169)</sub> | <sub>[210b19e](https://github.com/SimplioOfficial/simplio-app/commit/210b19e3aa0c5f768dff7adc1bbbc97be77bd169) fix: implement sio_core_light improvements - ciripel</sub> |
 | <sub>2022-09-16 16:12:25</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.4](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.4)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-09-16 16:10:57</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a)</sub> | <sub>[59dc0bd](https://github.com/SimplioOfficial/sio_core_light/commit/59dc0bd75a12f1db79a02c5b5132dca95e02e76a) Subtask/13-improve-sio-core-light-arguments-typ... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
