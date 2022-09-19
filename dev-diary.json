@@ -58584,5 +58584,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/eb9d375ef609...8bf8f42ee733"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-19 16:12:55.195000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`475bcb2`](https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700) updating wc interfaces - storkandstars",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700"
+    }
   }
 ]
