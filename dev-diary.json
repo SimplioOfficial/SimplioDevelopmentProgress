@@ -58422,5 +58422,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b44e7059456a21ccd21feae046260b291b6baa46"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-19 09:09:06.786000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`f778578`](https://github.com/SimplioOfficial/simplio-app/commit/f778578d84748379b1f5388bba02ef7ce8637e16) Completed task/196-coin-detail--screen - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/196\\-coin\\-detail\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f778578d84748379b1f5388bba02ef7ce8637e16"
+    }
   }
 ]
