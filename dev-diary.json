@@ -58458,5 +58458,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/f778578d8474...31dc38c5a767"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-19 09:16:34.190000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`9bd3783`](https://github.com/SimplioOfficial/simplio-app/commit/9bd3783f5600d6ba5bd31b4e37adffca4e4ff0d3) Changed branch to master for tests - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/196\\-coin\\-detail\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9bd3783f5600d6ba5bd31b4e37adffca4e4ff0d3"
+    }
   }
 ]
