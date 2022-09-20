@@ -58727,5 +58727,23 @@
       "title": "[simplio-app] Branch task/193\\-swap\\_form\\_ui was force-pushed to `cdd41a3`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-20 22:15:43.517000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`496c5b5`](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0) Tests - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0"
+    }
   }
 ]
