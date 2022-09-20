@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-20 22:32:55</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a)</sub> | <sub>[930936a](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a) Tests - MariooW</sub> |
 | <sub>2022-09-20 22:15:43</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0)</sub> | <sub>[496c5b5](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0) Tests - MariooW</sub> |
 | <sub>2022-09-20 08:02:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8f6b263037fd...cdd41a33a1c3)</sub> |
 | <sub>2022-09-20 07:48:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d)</sub> | <sub>[efc7b40](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik</sub> |
