@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3273 commits since 10/09/2021. You can see the complete history in
+There is a total of 3274 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-20 08:02:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8f6b263037fd...cdd41a33a1c3)</sub> |
 | <sub>2022-09-20 07:48:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d)</sub> | <sub>[efc7b40](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik</sub> |
 | <sub>2022-09-20 07:47:27</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d6ca2d0d347761f0d08bc8b72778ee8895093140)</sub> | <sub>[d6ca2d0](https://github.com/SimplioOfficial/simplio-app/commit/d6ca2d0d347761f0d08bc8b72778ee8895093140) Increase version to 84 - Tomáš Petrík</sub> |
 | <sub>2022-09-20 07:46:00</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fb629d000fa6^...8f6b263037fd)</sub> | <sub>[fb629d0](https://github.com/SimplioOfficial/simplio-app/commit/fb629d000fa68917252431c1a634f1d9e4afc6a6) wip - jvrastil<br>[a351081](https://github.com/SimplioOfficial/simplio-app/commit/a351081d079615224ca230aed2deb6404add2d48) wip - jvrastil<br>[5fbf501](https://github.com/SimplioOfficial/simplio-app/commit/5fbf50199725d951558b346449fb76fee2d384b7) wip - jvrastil<br>[9d27d1d](https://github.com/SimplioOfficial/simplio-app/commit/9d27d1d298768bfba1b98078d9d3cc4fc002d4ad) wip - jvrastil<br>[8f6b263](https://github.com/SimplioOfficial/simplio-app/commit/8f6b263037fd8fdc0cbbd63c424acd25e85c1264) wip - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3273 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-19 16:12:55</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700)</sub> | <sub>[475bcb2](https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700) updating wc interfaces - storkandstars</sub> |
 | <sub>2022-09-19 13:46:23</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/eb9d375ef609...8bf8f42ee733)</sub> | <sub>[758b5b0](https://github.com/SimplioOfficial/simplio-app/commit/758b5b08f32661ccd8f8719400f670cff0e6fbdd) Completed task/195-coin-screen-bottom-action-bar - Tomáš Petrík<br>[f4e16bc](https://github.com/SimplioOfficial/simplio-app/commit/f4e16bcf4532e4ce8bba67a3674918f1aac4beae) Merge branch 'task/195-coin-screen-bottom-actio... - Tomáš Petrík<br>[8bf8f42](https://github.com/SimplioOfficial/simplio-app/commit/8bf8f42ee733da014b64c1fd7a548a9606f9ba24) Merged with task/195-coin-screen-bottom-action-bar - Tomáš Petrík</sub> |
 | <sub>2022-09-19 12:15:05</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb9d375ef6095e1c8863b91c89f168e97537e91d)</sub> | <sub>[eb9d375](https://github.com/SimplioOfficial/simplio-app/commit/eb9d375ef6095e1c8863b91c89f168e97537e91d) PR fixations - Tomáš Petrík</sub> |
-| <sub>2022-09-19 12:04:02</sub> | <sub>[[simplio-app:task/195\-coin\-screen\-bottom\-action\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/758b5b08f32661ccd8f8719400f670cff0e6fbdd)</sub> | <sub>[758b5b0](https://github.com/SimplioOfficial/simplio-app/commit/758b5b08f32661ccd8f8719400f670cff0e6fbdd) Completed task/195-coin-screen-bottom-action-bar - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
