@@ -58853,5 +58853,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/19a2670613ec...43b16ed85a42"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-21 14:34:37.129000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8e26461`](https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c) wip: passing the ball to Honza - ciripel",
+      "title": "[simplio-app:Task/181\\-create\\-logic\\-for\\-sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c"
+    }
   }
 ]
