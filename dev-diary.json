@@ -58799,5 +58799,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/aebfbdf0c2a1e18d8764f6da601262f204d86fd0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-21 08:12:08.402000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e268f51`](https://github.com/SimplioOfficial/simplio-app/commit/e268f518d64e144ceec46e7f5e704af02e9a3d1f) wip: add wallet_Repo in asset_send cubit - ciripel\n[`f53879a`](https://github.com/SimplioOfficial/simplio-app/commit/f53879a4981553bb807d2a975e172bb9db4709f1) wip: add wallet_repo in auth_router - ciripel\n[`19a2670`](https://github.com/SimplioOfficial/simplio-app/commit/19a2670613ec03635289f5899eb38937588916c3) feat: update wallet_repo & asset_repo - ciripel",
+      "title": "[simplio-app:Task/181\\-create\\-logic\\-for\\-sending] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a85c8e187a26...19a2670613ec"
+    }
   }
 ]
