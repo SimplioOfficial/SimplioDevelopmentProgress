@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3289 commits since 10/09/2021. You can see the complete history in
+There is a total of 3290 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-21 18:20:40</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3657ec1dcdc9158948783ad8c8962d9c0b63d644)</sub> | <sub>[3657ec1](https://github.com/SimplioOfficial/simplio-app/commit/3657ec1dcdc9158948783ad8c8962d9c0b63d644) fix - analyze - storkandstars</sub> |
 | <sub>2022-09-21 18:07:12</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7e3f049e8040...61b79df84dba)</sub> | <sub>[efc7b40](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik<br>[61b79df](https://github.com/SimplioOfficial/simplio-app/commit/61b79df84dbad221c415ab327d5ca2868de059a7) Merge branch 'master' into task/175-implement-w... - storkandstars</sub> |
 | <sub>2022-09-21 18:01:57</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e3f049e8040a271dbbfa2ea72edd2c79c5c74e0)</sub> | <sub>[7e3f049](https://github.com/SimplioOfficial/simplio-app/commit/7e3f049e8040a271dbbfa2ea72edd2c79c5c74e0) Merge branch 'master' into task/175-implement-w... - storkandstars</sub> |
 | <sub>2022-09-21 17:58:20</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/cdd41a33a1c3...10efc89c88cf)</sub> | <sub>[7d5721d](https://github.com/SimplioOfficial/simplio-app/commit/7d5721dc44c4442df8173be1c15789aadd37e618) wip - jvrastil<br>[8814f62](https://github.com/SimplioOfficial/simplio-app/commit/8814f62d63aff0901b6e850a5c89db4d878cde52) wip - jvrastil<br>[10efc89](https://github.com/SimplioOfficial/simplio-app/commit/10efc89c88cf0de7268a2114b51bee663b632a60) wip - highlighted_form_element.dart - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3289 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-21 15:06:31</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d5722f6ca914200913b431fe366896b94e7465c)</sub> | <sub>[4d5722f](https://github.com/SimplioOfficial/simplio-app/commit/4d5722f6ca914200913b431fe366896b94e7465c) wip - back to Ami :) - jvrastil</sub> |
 | <sub>2022-09-21 14:34:37</sub> | <sub>[[simplio-app:Task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c)</sub> | <sub>[8e26461](https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c) wip: passing the ball to Honza - ciripel</sub> |
 | <sub>2022-09-21 11:15:00</sub> | <sub>[[simplio-app:Task/181\-create\-logic\-for\-sending] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/19a2670613ec...43b16ed85a42)</sub> | <sub>[a9b14ee](https://github.com/SimplioOfficial/simplio-app/commit/a9b14eef60bd0b82ef6b8f699c9c95743008b720) fix: add '0x' to tx.raw for eth transactions - ciripel<br>[43b16ed](https://github.com/SimplioOfficial/simplio-app/commit/43b16ed85a42b2adf79f050c00ebb4414bf09557) wip - ciripel</sub> |
-| <sub>2022-09-21 08:24:16</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0d2f155c87fc4139748bdff387b38f40fad2316)</sub> | <sub>[f0d2f15](https://github.com/SimplioOfficial/simplio-app/commit/f0d2f155c87fc4139748bdff387b38f40fad2316) feat: add '0x' on tx.raw - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
