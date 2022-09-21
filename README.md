@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3282 commits since 10/09/2021. You can see the complete history in
+There is a total of 3283 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-21 15:06:31</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d5722f6ca914200913b431fe366896b94e7465c)</sub> | <sub>[4d5722f](https://github.com/SimplioOfficial/simplio-app/commit/4d5722f6ca914200913b431fe366896b94e7465c) wip - back to Ami :) - jvrastil</sub> |
 | <sub>2022-09-21 14:34:37</sub> | <sub>[[simplio-app:Task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c)</sub> | <sub>[8e26461](https://github.com/SimplioOfficial/simplio-app/commit/8e26461c59690901d2fcfe02db0f854a8de7804c) wip: passing the ball to Honza - ciripel</sub> |
 | <sub>2022-09-21 11:15:00</sub> | <sub>[[simplio-app:Task/181\-create\-logic\-for\-sending] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/19a2670613ec...43b16ed85a42)</sub> | <sub>[a9b14ee](https://github.com/SimplioOfficial/simplio-app/commit/a9b14eef60bd0b82ef6b8f699c9c95743008b720) fix: add '0x' to tx.raw for eth transactions - ciripel<br>[43b16ed](https://github.com/SimplioOfficial/simplio-app/commit/43b16ed85a42b2adf79f050c00ebb4414bf09557) wip - ciripel</sub> |
 | <sub>2022-09-21 08:24:16</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0d2f155c87fc4139748bdff387b38f40fad2316)</sub> | <sub>[f0d2f15](https://github.com/SimplioOfficial/simplio-app/commit/f0d2f155c87fc4139748bdff387b38f40fad2316) feat: add '0x' on tx.raw - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3282 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-20 22:32:55</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a)</sub> | <sub>[930936a](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a) Tests - MariooW</sub> |
 | <sub>2022-09-20 22:15:43</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0)</sub> | <sub>[496c5b5](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0) Tests - MariooW</sub> |
 | <sub>2022-09-20 08:02:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8f6b263037fd...cdd41a33a1c3)</sub> |
-| <sub>2022-09-20 07:48:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d)</sub> | <sub>[efc7b40](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
