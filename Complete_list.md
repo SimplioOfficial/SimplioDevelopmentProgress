@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-21 21:24:12</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44652babf6a326c4e03f82d39d5eda7729155b34)</sub> | <sub>[44652ba](https://github.com/SimplioOfficial/simplio-app/commit/44652babf6a326c4e03f82d39d5eda7729155b34) Tests#2 - MariooW</sub> |
 | <sub>2022-09-21 19:41:30</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af67899c05159398eb30d91ed161db8d21c71cd0)</sub> | <sub>[af67899](https://github.com/SimplioOfficial/simplio-app/commit/af67899c05159398eb30d91ed161db8d21c71cd0) wip - numpads - jvrastil</sub> |
 | <sub>2022-09-21 19:05:59</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a06fbf10e3155103e2ba07492aae1d46d4c40d81)</sub> | <sub>[a06fbf1](https://github.com/SimplioOfficial/simplio-app/commit/a06fbf10e3155103e2ba07492aae1d46d4c40d81) increasing version - storkandstars</sub> |
 | <sub>2022-09-21 18:20:40</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3657ec1dcdc9158948783ad8c8962d9c0b63d644)</sub> | <sub>[3657ec1](https://github.com/SimplioOfficial/simplio-app/commit/3657ec1dcdc9158948783ad8c8962d9c0b63d644) fix - analyze - storkandstars</sub> |
