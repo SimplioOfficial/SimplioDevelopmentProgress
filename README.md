@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3276 commits since 10/09/2021. You can see the complete history in
+There is a total of 3277 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-21 04:17:51</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/260a7337a9c117e5bfae94ec49e1f40649289d09)</sub> | <sub>[260a733](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/260a7337a9c117e5bfae94ec49e1f40649289d09) Add wallet delegate - PitTxid</sub> |
 | <sub>2022-09-20 22:32:55</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a)</sub> | <sub>[930936a](https://github.com/SimplioOfficial/simplio-app/commit/930936adcb2c553b652dc97acb3bb6ba119c032a) Tests - MariooW</sub> |
 | <sub>2022-09-20 22:15:43</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0)</sub> | <sub>[496c5b5](https://github.com/SimplioOfficial/simplio-app/commit/496c5b561c68b86df532e5973397c2f8a74323b0) Tests - MariooW</sub> |
 | <sub>2022-09-20 08:02:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8f6b263037fd...cdd41a33a1c3)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3276 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-19 17:57:03</sub> | <sub>[[simplio-app:task/196\-coin\-detail\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e38efde627501af00d446e0442b434b8dcddc06c)</sub> | <sub>[e38efde](https://github.com/SimplioOfficial/simplio-app/commit/e38efde627501af00d446e0442b434b8dcddc06c) Fixed PRs issues - Tomáš Petrík</sub> |
 | <sub>2022-09-19 16:55:28</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1368968f2c410193d24a2eb62be8301072b405f3)</sub> | <sub>[1368968](https://github.com/SimplioOfficial/simplio-app/commit/1368968f2c410193d24a2eb62be8301072b405f3) removing comments - storkandstars</sub> |
 | <sub>2022-09-19 16:52:12</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 14 new commits](https://github.com/SimplioOfficial/simplio-app/compare/475bcb2c8102...8efdec1ad645)</sub> | <sub>[b9d80ef](https://github.com/SimplioOfficial/simplio-app/commit/b9d80efdaf3115b4970cde8ca0b99de2e52c3b5a) Task/171 Total balance widget in inventory scre... - TomasPetrik<br>[79a03fe](https://github.com/SimplioOfficial/simplio-app/commit/79a03fe59577a316a5ba81fe5f18c2ad9d20ca0c) Task/172 balance widget (#188) - TomasPetrik<br>[86695be](https://github.com/SimplioOfficial/simplio-app/commit/86695bedc53827d77ed0f1728b45a6b3ee89b9c8) Task/169 search widget (#184) - TomasPetrik<br>[dee353b](https://github.com/SimplioOfficial/simplio-app/commit/dee353bfb31113c937eb9aa0c1a9061fd3e41c78) Task/173-transaction-item AND Task/174-transact... - TomasPetrik<br>[a0fbe13](https://github.com/SimplioOfficial/simplio-app/commit/a0fbe133321874dd98d6067f4e5a07a03f24f897) Task/190 user level bar (#191) - TomasPetrik</sub> |
-| <sub>2022-09-19 16:12:55</sub> | <sub>[[simplio-app:task/175\-implement\-walletconnect\-v1] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700)</sub> | <sub>[475bcb2](https://github.com/SimplioOfficial/simplio-app/commit/475bcb2c81021680362d0f1d8c1e2b61f7537700) updating wc interfaces - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
