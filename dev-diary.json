@@ -58979,5 +58979,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7e3f049e8040a271dbbfa2ea72edd2c79c5c74e0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-21 18:07:12.180000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`efc7b40`](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik\n[`61b79df`](https://github.com/SimplioOfficial/simplio-app/commit/61b79df84dbad221c415ab327d5ca2868de059a7) Merge branch 'master' into task/175-implement-w... - storkandstars",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/7e3f049e8040...61b79df84dba"
+    }
   }
 ]
