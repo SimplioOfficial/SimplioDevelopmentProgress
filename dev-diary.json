@@ -58925,5 +58925,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/5fab719b58a4...8475a1176302"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-21 17:56:29.807000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`08fa7ed`](https://github.com/SimplioOfficial/simplio-app/commit/08fa7edc8d5ed1ed6dc7b78580caba2fa9550ea3) review - description - storkandstars",
+      "title": "[simplio-app:task/175\\-implement\\-walletconnect\\-v1] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/08fa7edc8d5ed1ed6dc7b78580caba2fa9550ea3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-21 17:58:20.187000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`7d5721d`](https://github.com/SimplioOfficial/simplio-app/commit/7d5721dc44c4442df8173be1c15789aadd37e618) wip - jvrastil\n[`8814f62`](https://github.com/SimplioOfficial/simplio-app/commit/8814f62d63aff0901b6e850a5c89db4d878cde52) wip - jvrastil\n[`10efc89`](https://github.com/SimplioOfficial/simplio-app/commit/10efc89c88cf0de7268a2114b51bee663b632a60) wip - highlighted_form_element.dart - jvrastil",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/cdd41a33a1c3...10efc89c88cf"
+    }
   }
 ]
