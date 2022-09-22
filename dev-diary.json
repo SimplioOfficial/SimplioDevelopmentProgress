@@ -59195,5 +59195,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3272e48129875a113153b5111be6ff804030e9a9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-22 08:24:53.835000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`135094f`](https://github.com/SimplioOfficial/simplio-app/commit/135094f932c5640ced3a9317c16b593ae699638a) fix: Missing length check (close #211) - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/135094f932c5640ced3a9317c16b593ae699638a"
+    }
   }
 ]
