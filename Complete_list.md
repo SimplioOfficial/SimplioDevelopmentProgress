@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-22 22:04:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1)</sub> | <sub>[4f4ea15](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1) Tests#4 - MariooW</sub> |
 | <sub>2022-09-22 19:14:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1)</sub> | <sub>[d666e4e](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1) wip - thousand separator - jvrastil</sub> |
 | <sub>2022-09-22 17:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/af67899c0515...a3abc523fcdb)</sub> |
 | <sub>2022-09-22 12:50:41</sub> | <sub>[[simplio-app:task/207\-tab\-view\-in\-discovery\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dff9e7a909c59e45f35a8dd1f01b339658eaf7ee)</sub> | <sub>[dff9e7a](https://github.com/SimplioOfficial/simplio-app/commit/dff9e7a909c59e45f35a8dd1f01b339658eaf7ee) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
