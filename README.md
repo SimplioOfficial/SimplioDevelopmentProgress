@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3304 commits since 10/09/2021. You can see the complete history in
+There is a total of 3305 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-22 19:14:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1)</sub> | <sub>[d666e4e](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1) wip - thousand separator - jvrastil</sub> |
 | <sub>2022-09-22 17:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/af67899c0515...a3abc523fcdb)</sub> |
 | <sub>2022-09-22 12:50:41</sub> | <sub>[[simplio-app:task/207\-tab\-view\-in\-discovery\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dff9e7a909c59e45f35a8dd1f01b339658eaf7ee)</sub> | <sub>[dff9e7a](https://github.com/SimplioOfficial/simplio-app/commit/dff9e7a909c59e45f35a8dd1f01b339658eaf7ee) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-22 11:04:36</sub> | <sub>[[Kotlin-Flutter-Test:master] 2 new commits](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/260a7337a9c1...0f1e8afcda27)</sub> | <sub>[f10f778](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/f10f7782c5eee40a76332fdb759bbe376ea40238) revert Walletconnect dependency - PitTxid<br>[0f1e8af](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/0f1e8afcda27ff6523281338048f6b8700159492) add init code - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3304 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-22 05:54:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0)</sub> | <sub>[2bb5d8e](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0) Task/175 implement walletconnect v1 (#206) - storkandstars</sub> |
 | <sub>2022-09-21 22:49:59</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f5fd48dfa2b424a955abb64e662824f8b9e8df9)</sub> | <sub>[4f5fd48](https://github.com/SimplioOfficial/simplio-app/commit/4f5fd48dfa2b424a955abb64e662824f8b9e8df9) Tests#4 - MariooW</sub> |
 | <sub>2022-09-21 22:30:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/77b56c5ccd63cad50f6818e52d77c3fafb848257)</sub> | <sub>[77b56c5](https://github.com/SimplioOfficial/simplio-app/commit/77b56c5ccd63cad50f6818e52d77c3fafb848257) Tests#4 - MariooW</sub> |
-| <sub>2022-09-21 21:48:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/785a6795651ffea1bba649f1100367d41217cc54)</sub> | <sub>[785a679](https://github.com/SimplioOfficial/simplio-app/commit/785a6795651ffea1bba649f1100367d41217cc54) Tests#3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
