@@ -59159,5 +59159,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-22 07:33:28.146000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0c3d26a`](https://github.com/SimplioOfficial/simplio-app/commit/0c3d26a801adad9317efc008caa7236b5e410e70) Task/196 coin detail screen (#204) - TomasPetrik\n[`a9c087e`](https://github.com/SimplioOfficial/simplio-app/commit/a9c087eca3f9a3c8c2e538f7726783c920145510) Task/175 implement walletconnect v1 (#206) - storkandstars\n[`60c9f52`](https://github.com/SimplioOfficial/simplio-app/commit/60c9f5213b4399452ef0cbcf9e2fb8b3b9f19a55) wip: passing the ball to Honza - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4d5722f6ca91...60c9f5213b43"
+    }
   }
 ]
