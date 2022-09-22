@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3301 commits since 10/09/2021. You can see the complete history in
+There is a total of 3302 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-22 11:04:36</sub> | <sub>[[Kotlin-Flutter-Test:master] 2 new commits](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/260a7337a9c1...0f1e8afcda27)</sub> | <sub>[f10f778](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/f10f7782c5eee40a76332fdb759bbe376ea40238) revert Walletconnect dependency - PitTxid<br>[0f1e8af](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/0f1e8afcda27ff6523281338048f6b8700159492) add init code - PitTxid</sub> |
 | <sub>2022-09-22 08:24:53</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/135094f932c5640ced3a9317c16b593ae699638a)</sub> | <sub>[135094f](https://github.com/SimplioOfficial/simplio-app/commit/135094f932c5640ced3a9317c16b593ae699638a) fix: Missing length check (close #211) - ciripel</sub> |
 | <sub>2022-09-22 07:40:21</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3272e48129875a113153b5111be6ff804030e9a9)</sub> | <sub>[3272e48](https://github.com/SimplioOfficial/simplio-app/commit/3272e48129875a113153b5111be6ff804030e9a9) fix: asset_send_summary_screen - ciripel</sub> |
 | <sub>2022-09-22 07:33:28</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4d5722f6ca91...60c9f5213b43)</sub> | <sub>[0c3d26a](https://github.com/SimplioOfficial/simplio-app/commit/0c3d26a801adad9317efc008caa7236b5e410e70) Task/196 coin detail screen (#204) - TomasPetrik<br>[a9c087e](https://github.com/SimplioOfficial/simplio-app/commit/a9c087eca3f9a3c8c2e538f7726783c920145510) Task/175 implement walletconnect v1 (#206) - storkandstars<br>[60c9f52](https://github.com/SimplioOfficial/simplio-app/commit/60c9f5213b4399452ef0cbcf9e2fb8b3b9f19a55) wip: passing the ball to Honza - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3301 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-21 21:48:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/785a6795651ffea1bba649f1100367d41217cc54)</sub> | <sub>[785a679](https://github.com/SimplioOfficial/simplio-app/commit/785a6795651ffea1bba649f1100367d41217cc54) Tests#3 - MariooW</sub> |
 | <sub>2022-09-21 21:45:17</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea6b4280082cdfa9b43b18de3274bdc54518b92a)</sub> | <sub>[ea6b428](https://github.com/SimplioOfficial/simplio-app/commit/ea6b4280082cdfa9b43b18de3274bdc54518b92a) Tests#2 - MariooW</sub> |
 | <sub>2022-09-21 21:24:12</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44652babf6a326c4e03f82d39d5eda7729155b34)</sub> | <sub>[44652ba](https://github.com/SimplioOfficial/simplio-app/commit/44652babf6a326c4e03f82d39d5eda7729155b34) Tests#2 - MariooW</sub> |
-| <sub>2022-09-21 19:41:30</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af67899c05159398eb30d91ed161db8d21c71cd0)</sub> | <sub>[af67899](https://github.com/SimplioOfficial/simplio-app/commit/af67899c05159398eb30d91ed161db8d21c71cd0) wip - numpads - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

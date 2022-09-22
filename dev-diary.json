@@ -59213,5 +59213,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/135094f932c5640ced3a9317c16b593ae699638a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-22 11:04:36.005000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`f10f778`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/f10f7782c5eee40a76332fdb759bbe376ea40238) revert Walletconnect dependency - PitTxid\n[`0f1e8af`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/0f1e8afcda27ff6523281338048f6b8700159492) add init code - PitTxid",
+      "title": "[Kotlin-Flutter-Test:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/compare/260a7337a9c1...0f1e8afcda27"
+    }
   }
 ]
