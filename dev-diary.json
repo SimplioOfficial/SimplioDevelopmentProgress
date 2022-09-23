@@ -59302,5 +59302,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-23 05:40:15.573000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6fbff5e`](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21) feat: decide to init app in kotlin only - PitTxid",
+      "title": "[Kotlin-Flutter-Test:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21"
+    }
   }
 ]

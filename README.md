@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3306 commits since 10/09/2021. You can see the complete history in
+There is a total of 3307 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-23 05:40:15</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21)</sub> | <sub>[6fbff5e](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21) feat: decide to init app in kotlin only - PitTxid</sub> |
 | <sub>2022-09-22 22:04:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1)</sub> | <sub>[4f4ea15](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1) Tests#4 - MariooW</sub> |
 | <sub>2022-09-22 19:14:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1)</sub> | <sub>[d666e4e](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1) wip - thousand separator - jvrastil</sub> |
 | <sub>2022-09-22 17:23:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/af67899c0515...a3abc523fcdb)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3306 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-22 07:40:21</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3272e48129875a113153b5111be6ff804030e9a9)</sub> | <sub>[3272e48](https://github.com/SimplioOfficial/simplio-app/commit/3272e48129875a113153b5111be6ff804030e9a9) fix: asset_send_summary_screen - ciripel</sub> |
 | <sub>2022-09-22 07:33:28</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4d5722f6ca91...60c9f5213b43)</sub> | <sub>[0c3d26a](https://github.com/SimplioOfficial/simplio-app/commit/0c3d26a801adad9317efc008caa7236b5e410e70) Task/196 coin detail screen (#204) - TomasPetrik<br>[a9c087e](https://github.com/SimplioOfficial/simplio-app/commit/a9c087eca3f9a3c8c2e538f7726783c920145510) Task/175 implement walletconnect v1 (#206) - storkandstars<br>[60c9f52](https://github.com/SimplioOfficial/simplio-app/commit/60c9f5213b4399452ef0cbcf9e2fb8b3b9f19a55) wip: passing the ball to Honza - ciripel</sub> |
 | <sub>2022-09-22 05:54:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0)</sub> | <sub>[2bb5d8e](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0) Task/175 implement walletconnect v1 (#206) - storkandstars</sub> |
-| <sub>2022-09-21 22:49:59</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f5fd48dfa2b424a955abb64e662824f8b9e8df9)</sub> | <sub>[4f5fd48](https://github.com/SimplioOfficial/simplio-app/commit/4f5fd48dfa2b424a955abb64e662824f8b9e8df9) Tests#4 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
