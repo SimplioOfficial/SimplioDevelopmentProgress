@@ -59338,5 +59338,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2fdf022386ae450d113c40ecf8f45805677c2094"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-23 11:12:14.326000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`25c0a53`](https://github.com/SimplioOfficial/simplio-app/commit/25c0a53a880f3e5c8efbc1fba0421e43be8a96ab) Completed task/215-games-search-in-discovery - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/215\\-games\\-search\\-in\\-discovery] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/25c0a53a880f3e5c8efbc1fba0421e43be8a96ab"
+    }
   }
 ]
