@@ -59374,5 +59374,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/25c0a53a880f...cdcfa058c11c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-23 12:47:14.081000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`aa52f53`](https://github.com/SimplioOfficial/simplio-app/commit/aa52f537749df427a36e956c28eeeb9acdd10548) wip - asset form exception - jvrastil\n[`8fc1445`](https://github.com/SimplioOfficial/simplio-app/commit/8fc14451b2a31d2226e06c4771b18d868e46c8b3) wip - asset form asset item widget - jvrastil",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2fdf022386ae...8fc14451b2a3"
+    }
   }
 ]
