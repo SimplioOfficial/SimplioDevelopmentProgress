@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-23 09:23:23</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fdf022386ae450d113c40ecf8f45805677c2094)</sub> | <sub>[2fdf022](https://github.com/SimplioOfficial/simplio-app/commit/2fdf022386ae450d113c40ecf8f45805677c2094) wip - fiat values in the form - jvrastil</sub> |
 | <sub>2022-09-23 05:40:15</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21)</sub> | <sub>[6fbff5e](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21) feat: decide to init app in kotlin only - PitTxid</sub> |
 | <sub>2022-09-22 22:04:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1)</sub> | <sub>[4f4ea15](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1) Tests#4 - MariooW</sub> |
 | <sub>2022-09-22 19:14:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1)</sub> | <sub>[d666e4e](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1) wip - thousand separator - jvrastil</sub> |
