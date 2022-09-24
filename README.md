@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3314 commits since 10/09/2021. You can see the complete history in
+There is a total of 3315 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-24 14:35:46</sub> | <sub>[[simplio-app:task/141\-update\-network\-wallet\-balance] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2bb5d8ea3df3...12e08b739dde)</sub> | <sub>[c3edfb5](https://github.com/SimplioOfficial/simplio-app/commit/c3edfb5159ec1893ce1b9d48c20a439ea137fa03) slimming balance service down - storkandstars<br>[bf906fa](https://github.com/SimplioOfficial/simplio-app/commit/bf906faea82d3bc4d7df2d9e884cd4b90bd92278) adding account wallet methods - storkandstars<br>[eb43c98](https://github.com/SimplioOfficial/simplio-app/commit/eb43c983693023698e020c5cb3ba11062634ea45) adding asset wallet methods - storkandstars<br>[c90c984](https://github.com/SimplioOfficial/simplio-app/commit/c90c98488d4d2c83b0d47e8e4ab0be6039fde324) adding network wallet method - storkandstars<br>[d45c22f](https://github.com/SimplioOfficial/simplio-app/commit/d45c22f13890d68f4dd73cb9839abce84c55b792) renaming arg names to be more expressive - storkandstars</sub> |
 | <sub>2022-09-24 07:41:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd)</sub> | <sub>[4ed735e](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd) Task/215 games search in discovery (#216) - TomasPetrik</sub> |
 | <sub>2022-09-23 19:04:09</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb51e7b40032f4ec6fbb7a7e64f4396dba2a38d9)</sub> | <sub>[bb51e7b](https://github.com/SimplioOfficial/simplio-app/commit/bb51e7b40032f4ec6fbb7a7e64f4396dba2a38d9) wip - add loading for fetching data from backend - jvrastil</sub> |
 | <sub>2022-09-23 14:24:04</sub> | <sub>[[simplio-app:task/215\-games\-search\-in\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8e01306c1ec4156c8a6a5b52ff9364544fde921)</sub> | <sub>[e8e0130](https://github.com/SimplioOfficial/simplio-app/commit/e8e01306c1ec4156c8a6a5b52ff9364544fde921) Fixed screeen typo. - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3314 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-23 09:23:23</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fdf022386ae450d113c40ecf8f45805677c2094)</sub> | <sub>[2fdf022](https://github.com/SimplioOfficial/simplio-app/commit/2fdf022386ae450d113c40ecf8f45805677c2094) wip - fiat values in the form - jvrastil</sub> |
 | <sub>2022-09-23 05:40:15</sub> | <sub>[[Kotlin-Flutter-Test:master] 1 new commit](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21)</sub> | <sub>[6fbff5e](https://github.com/SimplioOfficial/Kotlin-Flutter-Test/commit/6fbff5e56ee68ae57f672fdc37695f3430574d21) feat: decide to init app in kotlin only - PitTxid</sub> |
 | <sub>2022-09-22 22:04:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1)</sub> | <sub>[4f4ea15](https://github.com/SimplioOfficial/simplio-app/commit/4f4ea15bbdd88cd7e926b97a029aedab75ced8f1) Tests#4 - MariooW</sub> |
-| <sub>2022-09-22 19:14:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1)</sub> | <sub>[d666e4e](https://github.com/SimplioOfficial/simplio-app/commit/d666e4e17df65bddcd9a7810992f0c58aef61fd1) wip - thousand separator - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

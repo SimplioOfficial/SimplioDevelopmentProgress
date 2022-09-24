@@ -59446,5 +59446,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-24 14:35:46.686000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c3edfb5`](https://github.com/SimplioOfficial/simplio-app/commit/c3edfb5159ec1893ce1b9d48c20a439ea137fa03) slimming balance service down - storkandstars\n[`bf906fa`](https://github.com/SimplioOfficial/simplio-app/commit/bf906faea82d3bc4d7df2d9e884cd4b90bd92278) adding account wallet methods - storkandstars\n[`eb43c98`](https://github.com/SimplioOfficial/simplio-app/commit/eb43c983693023698e020c5cb3ba11062634ea45) adding asset wallet methods - storkandstars\n[`c90c984`](https://github.com/SimplioOfficial/simplio-app/commit/c90c98488d4d2c83b0d47e8e4ab0be6039fde324) adding network wallet method - storkandstars\n[`d45c22f`](https://github.com/SimplioOfficial/simplio-app/commit/d45c22f13890d68f4dd73cb9839abce84c55b792) renaming arg names to be more expressive - storkandstars",
+      "title": "[simplio-app:task/141\\-update\\-network\\-wallet\\-balance] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2bb5d8ea3df3...12e08b739dde"
+    }
   }
 ]
