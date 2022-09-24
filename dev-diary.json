@@ -59500,5 +59500,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/54a2f67b5b6343999a827b87e796808fed10c77d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-24 19:18:36.351000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ad5016c`](https://github.com/SimplioOfficial/simplio-app/commit/ad5016cb1d32ebb0162e041787ffe336e3df88a0) Task/215 games search in discovery (#216) - TomasPetrik\n[`a99ae99`](https://github.com/SimplioOfficial/simplio-app/commit/a99ae99e8e2ff2fef68d6053b93cb2fa100459bf) rebase - renaming param - storkandstars",
+      "title": "[simplio-app:task/141\\-update\\-network\\-wallet\\-balance] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/54a2f67b5b63...a99ae99e8e2f"
+    }
   }
 ]
