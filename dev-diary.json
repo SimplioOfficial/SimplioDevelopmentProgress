@@ -59518,5 +59518,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/54a2f67b5b63...a99ae99e8e2f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-24 19:20:51.264000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4ed735e`](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd) Task/215 games search in discovery (#216) - TomasPetrik\n[`aa88834`](https://github.com/SimplioOfficial/simplio-app/commit/aa88834bb6dbcc9587d8b44df59d64f9187c0b2a) Merge branch 'master' into task/141-update-netw... - storkandstars\n[`e5aeaa8`](https://github.com/SimplioOfficial/simplio-app/commit/e5aeaa826ae7e24b19119f93f2511c55bfe8c24c) merge master - storkandstars",
+      "title": "[simplio-app:task/141\\-update\\-network\\-wallet\\-balance] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a99ae99e8e2f...e5aeaa826ae7"
+    }
   }
 ]
