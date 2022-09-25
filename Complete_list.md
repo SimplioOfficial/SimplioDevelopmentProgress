@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-25 21:00:28</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a314d049e986b54f8ff4ce4c2336330973466576)</sub> | <sub>[a314d04](https://github.com/SimplioOfficial/simplio-app/commit/a314d049e986b54f8ff4ce4c2336330973466576) Tests#7 - MariooW</sub> |
 | <sub>2022-09-25 20:50:06</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d83ba3948b2a046525ea3221cdc6625dcf12d01d)</sub> | <sub>[d83ba39](https://github.com/SimplioOfficial/simplio-app/commit/d83ba3948b2a046525ea3221cdc6625dcf12d01d) Tests#6 - MariooW</sub> |
 | <sub>2022-09-25 20:24:31</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f43a3974491b56cf78c10a77fcfe542126ee2df)</sub> | <sub>[4f43a39](https://github.com/SimplioOfficial/simplio-app/commit/4f43a3974491b56cf78c10a77fcfe542126ee2df) Tests#5 - MariooW</sub> |
 | <sub>2022-09-24 22:07:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bb51e7b40032...a740852c01f5)</sub> |
