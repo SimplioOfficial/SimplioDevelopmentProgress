@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3323 commits since 10/09/2021. You can see the complete history in
+There is a total of 3324 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-25 21:21:27</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66358f3a4756520ab17a8719bbf4086adf946189)</sub> | <sub>[66358f3](https://github.com/SimplioOfficial/simplio-app/commit/66358f3a4756520ab17a8719bbf4086adf946189) Tests#8 - MariooW</sub> |
 | <sub>2022-09-25 21:00:28</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a314d049e986b54f8ff4ce4c2336330973466576)</sub> | <sub>[a314d04](https://github.com/SimplioOfficial/simplio-app/commit/a314d049e986b54f8ff4ce4c2336330973466576) Tests#7 - MariooW</sub> |
 | <sub>2022-09-25 20:50:06</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d83ba3948b2a046525ea3221cdc6625dcf12d01d)</sub> | <sub>[d83ba39](https://github.com/SimplioOfficial/simplio-app/commit/d83ba3948b2a046525ea3221cdc6625dcf12d01d) Tests#6 - MariooW</sub> |
 | <sub>2022-09-25 20:24:31</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f43a3974491b56cf78c10a77fcfe542126ee2df)</sub> | <sub>[4f43a39](https://github.com/SimplioOfficial/simplio-app/commit/4f43a3974491b56cf78c10a77fcfe542126ee2df) Tests#5 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3323 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-24 18:59:03</sub> | <sub>[[simplio-app:task/141\-update\-network\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54a2f67b5b6343999a827b87e796808fed10c77d)</sub> | <sub>[54a2f67](https://github.com/SimplioOfficial/simplio-app/commit/54a2f67b5b6343999a827b87e796808fed10c77d) increasing version - storkandstars</sub> |
 | <sub>2022-09-24 18:56:04</sub> | <sub>[[simplio-app:task/141\-update\-network\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7c5261cf3d3544c5024d4b3802681e4394e00a5b)</sub> | <sub>[7c5261c](https://github.com/SimplioOfficial/simplio-app/commit/7c5261cf3d3544c5024d4b3802681e4394e00a5b) review - simplifying condition - storkandstars</sub> |
 | <sub>2022-09-24 14:35:46</sub> | <sub>[[simplio-app:task/141\-update\-network\-wallet\-balance] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2bb5d8ea3df3...12e08b739dde)</sub> | <sub>[c3edfb5](https://github.com/SimplioOfficial/simplio-app/commit/c3edfb5159ec1893ce1b9d48c20a439ea137fa03) slimming balance service down - storkandstars<br>[bf906fa](https://github.com/SimplioOfficial/simplio-app/commit/bf906faea82d3bc4d7df2d9e884cd4b90bd92278) adding account wallet methods - storkandstars<br>[eb43c98](https://github.com/SimplioOfficial/simplio-app/commit/eb43c983693023698e020c5cb3ba11062634ea45) adding asset wallet methods - storkandstars<br>[c90c984](https://github.com/SimplioOfficial/simplio-app/commit/c90c98488d4d2c83b0d47e8e4ab0be6039fde324) adding network wallet method - storkandstars<br>[d45c22f](https://github.com/SimplioOfficial/simplio-app/commit/d45c22f13890d68f4dd73cb9839abce84c55b792) renaming arg names to be more expressive - storkandstars</sub> |
-| <sub>2022-09-24 07:41:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd)</sub> | <sub>[4ed735e](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd) Task/215 games search in discovery (#216) - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
