@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3337 commits since 10/09/2021. You can see the complete history in
+There is a total of 3338 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-26 23:29:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ccb42fbf31ce7f7df05dc27e57a0b5f7e231eb3)</sub> | <sub>[1ccb42f](https://github.com/SimplioOfficial/simplio-app/commit/1ccb42fbf31ce7f7df05dc27e57a0b5f7e231eb3) Tests#15 - MariooW</sub> |
 | <sub>2022-09-26 23:20:17</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b439cb522105c507486a0968e974addecd9ced7b)</sub> | <sub>[b439cb5](https://github.com/SimplioOfficial/simplio-app/commit/b439cb522105c507486a0968e974addecd9ced7b) Tests#14 - MariooW</sub> |
 | <sub>2022-09-26 22:59:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428)</sub> | <sub>[876b5c6](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428) Tests#14 - MariooW</sub> |
 | <sub>2022-09-26 22:39:56</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012)</sub> | <sub>[be706be](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012) Tests#13 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3337 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-26 12:57:23</sub> | <sub>[[backend-flux-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bf53b5d5255bc9cfadee458d15367dac5bcd435a)</sub> | <sub>[bf53b5d](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bf53b5d5255bc9cfadee458d15367dac5bcd435a) init - PitTxid</sub> |
 | <sub>2022-09-26 11:15:26</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87f19a6cfbbc2103abc227f54b2fc35ce68a73d3)</sub> | <sub>[87f19a6](https://github.com/SimplioOfficial/simplio-app/commit/87f19a6cfbbc2103abc227f54b2fc35ce68a73d3) wip - implement search - jvrastil</sub> |
 | <sub>2022-09-26 07:13:00</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7ec740aeea78763c0b098c024d9ea50f9107160f)</sub> | <sub>[7ec740a](https://github.com/SimplioOfficial/simplio-app/commit/7ec740aeea78763c0b098c024d9ea50f9107160f) Tests#12 - MariooW</sub> |
-| <sub>2022-09-26 06:49:21</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0381b2ea0b415b2c0441dc467256e07fbf745aa)</sub> | <sub>[c0381b2](https://github.com/SimplioOfficial/simplio-app/commit/c0381b2ea0b415b2c0441dc467256e07fbf745aa) Tests#11 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
