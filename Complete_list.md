@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 07:51:49</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1)</sub> | <sub>[ff0c4d4](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1) Merge master into task/181 - ciripel</sub> |
 | <sub>2022-09-27 06:38:46</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f)</sub> | <sub>[a70bec1](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f) fix: SendForm init refactor - ciripel</sub> |
 | <sub>2022-09-27 00:09:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65)</sub> | <sub>[6630b5b](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65) Tests#17 - MariooW</sub> |
 | <sub>2022-09-26 23:36:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411)</sub> | <sub>[6741f9f](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411) Tests#16 - MariooW</sub> |

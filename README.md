@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3342 commits since 10/09/2021. You can see the complete history in
+There is a total of 3343 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 07:51:49</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1)</sub> | <sub>[ff0c4d4](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1) Merge master into task/181 - ciripel</sub> |
 | <sub>2022-09-27 06:38:46</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f)</sub> | <sub>[a70bec1](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f) fix: SendForm init refactor - ciripel</sub> |
 | <sub>2022-09-27 00:09:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65)</sub> | <sub>[6630b5b](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65) Tests#17 - MariooW</sub> |
 | <sub>2022-09-26 23:36:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411)</sub> | <sub>[6741f9f](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411) Tests#16 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3342 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-26 22:59:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428)</sub> | <sub>[876b5c6](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428) Tests#14 - MariooW</sub> |
 | <sub>2022-09-26 22:39:56</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012)</sub> | <sub>[be706be](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012) Tests#13 - MariooW</sub> |
 | <sub>2022-09-26 21:50:33</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a97cd543acc79159f418eac6e7c68269465eb696)</sub> | <sub>[a97cd54](https://github.com/SimplioOfficial/simplio-app/commit/a97cd543acc79159f418eac6e7c68269465eb696) Tests#12 - MariooW</sub> |
-| <sub>2022-09-26 17:46:33</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3)</sub> | <sub>[92f0c35](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
