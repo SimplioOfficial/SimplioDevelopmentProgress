@@ -59967,5 +59967,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-27 08:32:34.684000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`efc7b40`](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik\n[`2bb5d8e`](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0) Task/175 implement walletconnect v1 (#206) - storkandstars\n[`4ed735e`](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd) Task/215 games search in discovery (#216) - TomasPetrik\n[`92f0c35`](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars\n[`9ace6d1`](https://github.com/SimplioOfficial/simplio-app/commit/9ace6d12cda29266431b69ce1483296082891cc4) Merge branch 'master' into task/181-create-logi... - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ff0c4d44c755...9ace6d12cda2"
+    }
   }
 ]

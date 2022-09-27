@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3343 commits since 10/09/2021. You can see the complete history in
+There is a total of 3344 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 08:32:34</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ff0c4d44c755...9ace6d12cda2)</sub> | <sub>[efc7b40](https://github.com/SimplioOfficial/simplio-app/commit/efc7b40970f16888ed02788f32b0039f37a5e45d) Task/196 coin detail screen (#204) - TomasPetrik<br>[2bb5d8e](https://github.com/SimplioOfficial/simplio-app/commit/2bb5d8ea3df39a9d0c34ac4c88b2095acf4705a0) Task/175 implement walletconnect v1 (#206) - storkandstars<br>[4ed735e](https://github.com/SimplioOfficial/simplio-app/commit/4ed735e2c47297461eb73ed585103f7d99ed66bd) Task/215 games search in discovery (#216) - TomasPetrik<br>[92f0c35](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars<br>[9ace6d1](https://github.com/SimplioOfficial/simplio-app/commit/9ace6d12cda29266431b69ce1483296082891cc4) Merge branch 'master' into task/181-create-logi... - ciripel</sub> |
 | <sub>2022-09-27 07:51:49</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1)</sub> | <sub>[ff0c4d4](https://github.com/SimplioOfficial/simplio-app/commit/ff0c4d44c7552791511aa19c1478b27b1c2c3fa1) Merge master into task/181 - ciripel</sub> |
 | <sub>2022-09-27 06:38:46</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f)</sub> | <sub>[a70bec1](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f) fix: SendForm init refactor - ciripel</sub> |
 | <sub>2022-09-27 00:09:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65)</sub> | <sub>[6630b5b](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65) Tests#17 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3343 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-26 23:20:17</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b439cb522105c507486a0968e974addecd9ced7b)</sub> | <sub>[b439cb5](https://github.com/SimplioOfficial/simplio-app/commit/b439cb522105c507486a0968e974addecd9ced7b) Tests#14 - MariooW</sub> |
 | <sub>2022-09-26 22:59:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428)</sub> | <sub>[876b5c6](https://github.com/SimplioOfficial/simplio-app/commit/876b5c68c2b922209176ef3c94ad315564942428) Tests#14 - MariooW</sub> |
 | <sub>2022-09-26 22:39:56</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012)</sub> | <sub>[be706be](https://github.com/SimplioOfficial/simplio-app/commit/be706be6d8f92444d0e0bc38b0358e9e3e449012) Tests#13 - MariooW</sub> |
-| <sub>2022-09-26 21:50:33</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a97cd543acc79159f418eac6e7c68269465eb696)</sub> | <sub>[a97cd54](https://github.com/SimplioOfficial/simplio-app/commit/a97cd543acc79159f418eac6e7c68269465eb696) Tests#12 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
