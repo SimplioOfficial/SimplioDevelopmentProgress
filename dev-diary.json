@@ -60110,5 +60110,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a01317990642cbb6b8789e5de4c3206d37b9256f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-27 15:29:03.236000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`790a0c6`](https://github.com/SimplioOfficial/simplio-app/commit/790a0c6262b1a1c2e2bacce9fa6f2bd66913308c) wip - Send UI refactoring - jvrastil\n[`dae1a83`](https://github.com/SimplioOfficial/simplio-app/commit/dae1a83cb3e8da546875462dc9c151e2b913fdd2) wip - fixes - jvrastil",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4489c8b7a455...dae1a83cb3e8"
+    }
   }
 ]
