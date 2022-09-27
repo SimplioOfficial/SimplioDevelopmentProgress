@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3369 commits since 10/09/2021. You can see the complete history in
+There is a total of 3370 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 22:26:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83)</sub> | <sub>[6dbf7c2](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83) Tests#30 - MariooW</sub> |
 | <sub>2022-09-27 22:17:37</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db)</sub> | <sub>[ce816a3](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db) Tests#29 - MariooW</sub> |
 | <sub>2022-09-27 22:15:49</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790)</sub> | <sub>[373d896](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790) Tests#29 - MariooW</sub> |
 | <sub>2022-09-27 22:05:42</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106)</sub> | <sub>[e3e454b](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106) Tests#28 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3369 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-27 21:30:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18f437187966a8e2a998218552103724fdad1a83)</sub> | <sub>[18f4371](https://github.com/SimplioOfficial/simplio-app/commit/18f437187966a8e2a998218552103724fdad1a83) Tests#25 - MariooW</sub> |
 | <sub>2022-09-27 21:29:39</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2eeacff64c21167f8c47a564ad016b2f1be2e99a)</sub> | <sub>[2eeacff](https://github.com/SimplioOfficial/simplio-app/commit/2eeacff64c21167f8c47a564ad016b2f1be2e99a) Tests#24 - MariooW</sub> |
 | <sub>2022-09-27 21:26:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a538314abe0fb22dc7723c9b299170425a3d094)</sub> | <sub>[1a53831](https://github.com/SimplioOfficial/simplio-app/commit/1a538314abe0fb22dc7723c9b299170425a3d094) Tests#24 - MariooW</sub> |
-| <sub>2022-09-27 21:23:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da6f8f8cd9321c004476c89faf9fdef99aeaebc5)</sub> | <sub>[da6f8f8](https://github.com/SimplioOfficial/simplio-app/commit/da6f8f8cd9321c004476c89faf9fdef99aeaebc5) Tests#23 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
