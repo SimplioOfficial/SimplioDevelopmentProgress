@@ -59985,5 +59985,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ff0c4d44c755...9ace6d12cda2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-27 09:11:53.504000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`92f0c35`](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars\n[`86f4ec3`](https://github.com/SimplioOfficial/simplio-app/commit/86f4ec3f30b65055f2f9a4a6cb78d57676118318) Merge branch 'master' into task/218-enable-and-... - storkandstars\n[`870a2b8`](https://github.com/SimplioOfficial/simplio-app/commit/870a2b8d94a7b5cf7db5e8951d432f4a3aa2d2e7) enable and disable network wallet - storkandstars\n[`68d90da`](https://github.com/SimplioOfficial/simplio-app/commit/68d90dae32f4efcac87c695f38f7efd5f1a65989) removing isEnabled from AssetWallet - storkandstars",
+      "title": "[simplio-app:task/218\\-enable\\-and\\-disable\\-network\\-wallets] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e5aeaa826ae7...68d90dae32f4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-27 09:14:44.352000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`66faa0f`](https://github.com/SimplioOfficial/simplio-app/commit/66faa0fa7e3dfae6ff48a37db002d93fb7a4838b) wip - update search logic - jvrastil\n[`8014dac`](https://github.com/SimplioOfficial/simplio-app/commit/8014dac4b99ec90deb617b5e1b841004d24b5ae8) wip - Gaps refactoring in constants - jvrastil\n[`82791d3`](https://github.com/SimplioOfficial/simplio-app/commit/82791d32af388130d198e27e88d3e2075ff68fc4) wip - Success screens - jvrastil",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/87f19a6cfbbc...82791d32af38"
+    }
   }
 ]
