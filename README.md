@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3367 commits since 10/09/2021. You can see the complete history in
+There is a total of 3369 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 22:17:37</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db)</sub> | <sub>[ce816a3](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db) Tests#29 - MariooW</sub> |
+| <sub>2022-09-27 22:15:49</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790)</sub> | <sub>[373d896](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790) Tests#29 - MariooW</sub> |
 | <sub>2022-09-27 22:05:42</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106)</sub> | <sub>[e3e454b](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106) Tests#28 - MariooW</sub> |
 | <sub>2022-09-27 21:38:44</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/80a949c1e21a219de7bf8f1ba2c5ad1cfd22f0cc)</sub> | <sub>[80a949c](https://github.com/SimplioOfficial/simplio-app/commit/80a949c1e21a219de7bf8f1ba2c5ad1cfd22f0cc) Tests#27 - MariooW</sub> |
 | <sub>2022-09-27 21:34:06</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1863f38eb84915879d8c95de2e1aee9945831fa2)</sub> | <sub>[1863f38](https://github.com/SimplioOfficial/simplio-app/commit/1863f38eb84915879d8c95de2e1aee9945831fa2) Tests#26 - MariooW</sub> |
@@ -16,7 +18,5 @@ There is a total of 3367 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-27 21:29:39</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2eeacff64c21167f8c47a564ad016b2f1be2e99a)</sub> | <sub>[2eeacff](https://github.com/SimplioOfficial/simplio-app/commit/2eeacff64c21167f8c47a564ad016b2f1be2e99a) Tests#24 - MariooW</sub> |
 | <sub>2022-09-27 21:26:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a538314abe0fb22dc7723c9b299170425a3d094)</sub> | <sub>[1a53831](https://github.com/SimplioOfficial/simplio-app/commit/1a538314abe0fb22dc7723c9b299170425a3d094) Tests#24 - MariooW</sub> |
 | <sub>2022-09-27 21:23:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da6f8f8cd9321c004476c89faf9fdef99aeaebc5)</sub> | <sub>[da6f8f8](https://github.com/SimplioOfficial/simplio-app/commit/da6f8f8cd9321c004476c89faf9fdef99aeaebc5) Tests#23 - MariooW</sub> |
-| <sub>2022-09-27 21:22:14</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abb3d7c0160c35590110ba06d8333b6df1cad37b)</sub> | <sub>[abb3d7c](https://github.com/SimplioOfficial/simplio-app/commit/abb3d7c0160c35590110ba06d8333b6df1cad37b) Tests#22 - MariooW</sub> |
-| <sub>2022-09-27 21:21:04</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/711eea07a52c...0c7e5aacb4e2)</sub> | <sub>[64ecb5f](https://github.com/SimplioOfficial/simplio-app/commit/64ecb5fddd0927e6cb562fdd6518c18182e1bbef) Tests#20 - MariooW<br>[0c7e5aa](https://github.com/SimplioOfficial/simplio-app/commit/0c7e5aacb4e213306718c7b0182ea2ddd1590048) Tests#21 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
