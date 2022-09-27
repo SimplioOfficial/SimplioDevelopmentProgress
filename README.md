@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3348 commits since 10/09/2021. You can see the complete history in
+There is a total of 3349 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-27 09:47:43</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/82791d32af38...4489c8b7a455)</sub> |
 | <sub>2022-09-27 09:19:49</sub> | <sub>[[simplio-app:task/218\-enable\-and\-disable\-network\-wallets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/374e7b506800844228cb07ac2bd6edb4fb2b394e)</sub> | <sub>[374e7b5](https://github.com/SimplioOfficial/simplio-app/commit/374e7b506800844228cb07ac2bd6edb4fb2b394e) fix - removing not undefined param - storkandstars</sub> |
 | <sub>2022-09-27 09:16:17</sub> | <sub>[[simplio-app:task/218\-enable\-and\-disable\-network\-wallets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a8557f35dae669e31a92aa2bc2633788df2869ca)</sub> | <sub>[a8557f3](https://github.com/SimplioOfficial/simplio-app/commit/a8557f35dae669e31a92aa2bc2633788df2869ca) removing unnecessary copyWith - storkandstars</sub> |
 | <sub>2022-09-27 09:14:44</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/87f19a6cfbbc...82791d32af38)</sub> | <sub>[66faa0f](https://github.com/SimplioOfficial/simplio-app/commit/66faa0fa7e3dfae6ff48a37db002d93fb7a4838b) wip - update search logic - jvrastil<br>[8014dac](https://github.com/SimplioOfficial/simplio-app/commit/8014dac4b99ec90deb617b5e1b841004d24b5ae8) wip - Gaps refactoring in constants - jvrastil<br>[82791d3](https://github.com/SimplioOfficial/simplio-app/commit/82791d32af388130d198e27e88d3e2075ff68fc4) wip - Success screens - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3348 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-27 06:38:46</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f)</sub> | <sub>[a70bec1](https://github.com/SimplioOfficial/simplio-app/commit/a70bec18147fa948013a9d6004719754f447f67f) fix: SendForm init refactor - ciripel</sub> |
 | <sub>2022-09-27 00:09:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65)</sub> | <sub>[6630b5b](https://github.com/SimplioOfficial/simplio-app/commit/6630b5b659010931aebcfe65a1bd7e6e3d701e65) Tests#17 - MariooW</sub> |
 | <sub>2022-09-26 23:36:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411)</sub> | <sub>[6741f9f](https://github.com/SimplioOfficial/simplio-app/commit/6741f9f2ed74ef3dc4a092f95620c6587a0bb411) Tests#16 - MariooW</sub> |
-| <sub>2022-09-26 23:34:39</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/94ef648ac347d840afd472b3ef2574280d4de464)</sub> | <sub>[94ef648](https://github.com/SimplioOfficial/simplio-app/commit/94ef648ac347d840afd472b3ef2574280d4de464) Tests#16 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
