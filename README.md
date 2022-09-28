@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3378 commits since 10/09/2021. You can see the complete history in
+There is a total of 3379 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-28 08:26:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11e33b051886423104b3047f19a3725a50a1052f)</sub> | <sub>[11e33b0](https://github.com/SimplioOfficial/simplio-app/commit/11e33b051886423104b3047f19a3725a50a1052f) Fixes account cretion - MariooW</sub> |
 | <sub>2022-09-28 07:53:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0)</sub> | <sub>[fc6720a](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0) Bug/213 incorrectly entered pin does not save t... - storkandstars</sub> |
 | <sub>2022-09-28 06:55:01</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c)</sub> | <sub>[27be12f](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c) Fixes account cretion - MariooW</sub> |
 | <sub>2022-09-28 06:27:45</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d494c64bee13...c136b12e3e1a)</sub> | <sub>[92f0c35](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars<br>[c136b12](https://github.com/SimplioOfficial/simplio-app/commit/c136b12e3e1a45caf97950031e0fb6637a1de913) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3378 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-27 22:46:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/251db9749b402672bbf6062aaf34638ad7e66bfc)</sub> | <sub>[251db97](https://github.com/SimplioOfficial/simplio-app/commit/251db9749b402672bbf6062aaf34638ad7e66bfc) Tests#32 - MariooW</sub> |
 | <sub>2022-09-27 22:31:31</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c7fcb24e0d262b544d027e6f0a95073d43a339b)</sub> | <sub>[8c7fcb2](https://github.com/SimplioOfficial/simplio-app/commit/8c7fcb24e0d262b544d027e6f0a95073d43a339b) Tests#31 - MariooW</sub> |
 | <sub>2022-09-27 22:26:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83)</sub> | <sub>[6dbf7c2](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83) Tests#30 - MariooW</sub> |
-| <sub>2022-09-27 22:17:37</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db)</sub> | <sub>[ce816a3](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db) Tests#29 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
