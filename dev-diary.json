@@ -60847,5 +60847,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-28 22:56:26.347000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a045166`](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e) Fixes account cretion #2 - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e"
+    }
   }
 ]
