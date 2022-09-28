@@ -60704,5 +60704,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f4b9b2b2893f1c6c0206988e218f165b45d9727e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-28 09:58:20.832000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`82bfcd2`](https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5) changed rawTx to txhash - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5"
+    }
   }
 ]
