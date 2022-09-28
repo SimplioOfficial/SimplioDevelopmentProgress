@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3379 commits since 10/09/2021. You can see the complete history in
+There is a total of 3380 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-28 08:58:52</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1306351f80ca8ba961e8703a959101a0d7280e09)</sub> | <sub>[1306351](https://github.com/SimplioOfficial/simplio-app/commit/1306351f80ca8ba961e8703a959101a0d7280e09) finish sendLogic? :D - ciripel</sub> |
 | <sub>2022-09-28 08:26:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11e33b051886423104b3047f19a3725a50a1052f)</sub> | <sub>[11e33b0](https://github.com/SimplioOfficial/simplio-app/commit/11e33b051886423104b3047f19a3725a50a1052f) Fixes account cretion - MariooW</sub> |
 | <sub>2022-09-28 07:53:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0)</sub> | <sub>[fc6720a](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0) Bug/213 incorrectly entered pin does not save t... - storkandstars</sub> |
 | <sub>2022-09-28 06:55:01</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c)</sub> | <sub>[27be12f](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c) Fixes account cretion - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3379 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-28 01:59:50</sub> | <sub>[[backend-flux-wallet-lib:2\-generate\-default\-address\-for\-the\-derivation\-path] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/fad024b9ab45a19f9a91735fe1f12cbada9e7223)</sub> | <sub>[fad024b](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/fad024b9ab45a19f9a91735fe1f12cbada9e7223) feat: update zcashy lib - PitTxid</sub> |
 | <sub>2022-09-27 22:46:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/251db9749b402672bbf6062aaf34638ad7e66bfc)</sub> | <sub>[251db97](https://github.com/SimplioOfficial/simplio-app/commit/251db9749b402672bbf6062aaf34638ad7e66bfc) Tests#32 - MariooW</sub> |
 | <sub>2022-09-27 22:31:31</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c7fcb24e0d262b544d027e6f0a95073d43a339b)</sub> | <sub>[8c7fcb2](https://github.com/SimplioOfficial/simplio-app/commit/8c7fcb24e0d262b544d027e6f0a95073d43a339b) Tests#31 - MariooW</sub> |
-| <sub>2022-09-27 22:26:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83)</sub> | <sub>[6dbf7c2](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83) Tests#30 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
