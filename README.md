@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3376 commits since 10/09/2021. You can see the complete history in
+There is a total of 3377 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-28 06:55:01</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c)</sub> | <sub>[27be12f](https://github.com/SimplioOfficial/simplio-app/commit/27be12f4890841143a17bd0bc464be8ef102e78c) Fixes account cretion - MariooW</sub> |
 | <sub>2022-09-28 06:27:45</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d494c64bee13...c136b12e3e1a)</sub> | <sub>[92f0c35](https://github.com/SimplioOfficial/simplio-app/commit/92f0c35e5826424207d4459566f4a56dde7991d3) Task/141 update network wallet balance (#217) - storkandstars<br>[c136b12](https://github.com/SimplioOfficial/simplio-app/commit/c136b12e3e1a45caf97950031e0fb6637a1de913) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-28 06:25:28</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d494c64bee130802b8e05783d2645af0567f03e1)</sub> | <sub>[d494c64](https://github.com/SimplioOfficial/simplio-app/commit/d494c64bee130802b8e05783d2645af0567f03e1) 1. Completed task/221-games-in-discovery-screen, - Tomáš Petrík</sub> |
 | <sub>2022-09-28 04:20:11</sub> | <sub>[[backend-flux-wallet-lib:2\-generate\-default\-address\-for\-the\-derivation\-path] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/fad024b9ab45...9e44a5ea9624)</sub> | <sub>[c229fe1](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/c229fe12f79b630e1290463d9e949dcc8268e534) feat: update get address code - PitTxid<br>[9e44a5e](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/9e44a5ea9624a419ff782655117b0cfbda46ae66) feat: fix test code to run - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3376 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-27 22:26:58</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83)</sub> | <sub>[6dbf7c2](https://github.com/SimplioOfficial/simplio-app/commit/6dbf7c29c28bb16722e86102b398b076ff323f83) Tests#30 - MariooW</sub> |
 | <sub>2022-09-27 22:17:37</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db)</sub> | <sub>[ce816a3](https://github.com/SimplioOfficial/simplio-app/commit/ce816a3855d475154fdbcb5b4008ba1e247db9db) Tests#29 - MariooW</sub> |
 | <sub>2022-09-27 22:15:49</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790)</sub> | <sub>[373d896](https://github.com/SimplioOfficial/simplio-app/commit/373d8968f217f2565c783fb2f288f6c0af478790) Tests#29 - MariooW</sub> |
-| <sub>2022-09-27 22:05:42</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106)</sub> | <sub>[e3e454b](https://github.com/SimplioOfficial/simplio-app/commit/e3e454b42a5ed5ff651223b45076a3b478b7c106) Tests#28 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
