@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3393 commits since 10/09/2021. You can see the complete history in
+There is a total of 3394 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-28 23:49:38</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88)</sub> | <sub>[66e9a14](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88) Fixes account cretion #3 - MariooW</sub> |
 | <sub>2022-09-28 22:56:26</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e)</sub> | <sub>[a045166](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e) Fixes account cretion #2 - MariooW</sub> |
 | <sub>2022-09-28 16:35:02</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5)</sub> | <sub>[73a8833](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5) wip: changes before code review - jvrastil</sub> |
 | <sub>2022-09-28 16:24:17</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a78d11610f99...1885d23c834b)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3393 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-28 10:22:41</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dae1a83cb3e8...a78d11610f99)</sub> | <sub>[a3d0838](https://github.com/SimplioOfficial/simplio-app/commit/a3d0838db2316cb53ec5c9ae85c27374cf4f5c04) wip - restyle send summary page - jvrastil<br>[119ab50](https://github.com/SimplioOfficial/simplio-app/commit/119ab50487e3003f147c30ece31b584632136ce5) wip - restyle exceptions - jvrastil<br>[9304e89](https://github.com/SimplioOfficial/simplio-app/commit/9304e89ae8c23b627bd736ebd2f7e46c0a4b7cff) wip - remove svg - jvrastil<br>[d4ce163](https://github.com/SimplioOfficial/simplio-app/commit/d4ce163bb91b7cdccba86f408974ff06fd8c2e00) wip - - jvrastil<br>[a78d116](https://github.com/SimplioOfficial/simplio-app/commit/a78d11610f9990508c12e01bc82af5d2b2d787b8) changes before review - jvrastil</sub> |
 | <sub>2022-09-28 10:05:59</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/495dbf73a6dcf5db9d1208b011b3758ed9093e2c)</sub> | <sub>[495dbf7](https://github.com/SimplioOfficial/simplio-app/commit/495dbf73a6dcf5db9d1208b011b3758ed9093e2c) wip: pass ball to Honza! - ciripel</sub> |
 | <sub>2022-09-28 09:58:20</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5)</sub> | <sub>[82bfcd2](https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5) changed rawTx to txhash - ciripel</sub> |
-| <sub>2022-09-28 09:52:25</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b9b2b2893f1c6c0206988e218f165b45d9727e)</sub> | <sub>[f4b9b2b](https://github.com/SimplioOfficial/simplio-app/commit/f4b9b2b2893f1c6c0206988e218f165b45d9727e) fix: changedAmount during screen swaps - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
