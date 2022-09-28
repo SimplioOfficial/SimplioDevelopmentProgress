@@ -60740,5 +60740,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/495dbf73a6dcf5db9d1208b011b3758ed9093e2c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-28 10:22:41.715000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a3d0838`](https://github.com/SimplioOfficial/simplio-app/commit/a3d0838db2316cb53ec5c9ae85c27374cf4f5c04) wip - restyle send summary page - jvrastil\n[`119ab50`](https://github.com/SimplioOfficial/simplio-app/commit/119ab50487e3003f147c30ece31b584632136ce5) wip - restyle exceptions - jvrastil\n[`9304e89`](https://github.com/SimplioOfficial/simplio-app/commit/9304e89ae8c23b627bd736ebd2f7e46c0a4b7cff) wip - remove svg - jvrastil\n[`d4ce163`](https://github.com/SimplioOfficial/simplio-app/commit/d4ce163bb91b7cdccba86f408974ff06fd8c2e00) wip - - jvrastil\n[`a78d116`](https://github.com/SimplioOfficial/simplio-app/commit/a78d11610f9990508c12e01bc82af5d2b2d787b8) changes before review - jvrastil",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dae1a83cb3e8...a78d11610f99"
+    }
   }
 ]
