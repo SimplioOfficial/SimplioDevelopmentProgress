@@ -60632,5 +60632,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1306351f80ca8ba961e8703a959101a0d7280e09"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-28 09:10:13.901000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fad024b`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/fad024b9ab45a19f9a91735fe1f12cbada9e7223) feat: update zcashy lib - PitTxid\n[`c229fe1`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/c229fe12f79b630e1290463d9e949dcc8268e534) feat: update get address code - PitTxid\n[`9e44a5e`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/9e44a5ea9624a419ff782655117b0cfbda46ae66) feat: fix test code to run - PitTxid\n[`d7fc153`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d7fc1538328330813e5c8371987a42becc3755b0) Merge pull request #9 from SimplioOfficial/2-ge... - PitTxid",
+      "title": "[backend-flux-wallet-lib:develop] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/bf53b5d5255b...d7fc15383283"
+    }
   }
 ]
