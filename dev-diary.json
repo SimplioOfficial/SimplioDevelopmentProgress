@@ -60668,5 +60668,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/89d6dd736ad4f13af41789cd7722e350609ed2e7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-28 09:41:42.227000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4b44463`](https://github.com/SimplioOfficial/simplio-app/commit/4b44463d496c1e53d2cf64c06f5232070771b0e9) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`9bba9a7`](https://github.com/SimplioOfficial/simplio-app/commit/9bba9a7786de6bff0715d91f3fc930ca4835c1fe) 1. Completed task/212, - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/212\\-go\\-back\\-gesture\\-on\\-authenticated\\-app\\-shows\\-empty\\-screen] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4b44463d496c^...9bba9a7786de"
+    }
   }
 ]
