@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3391 commits since 10/09/2021. You can see the complete history in
+There is a total of 3392 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-28 16:35:02</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5)</sub> | <sub>[73a8833](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5) wip: changes before code review - jvrastil</sub> |
 | <sub>2022-09-28 16:24:17</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a78d11610f99...1885d23c834b)</sub> |
 | <sub>2022-09-28 11:32:04</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a)</sub> | <sub>[4969451](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a) Task/218 enable and disable network wallets (#226) - storkandstars</sub> |
 | <sub>2022-09-28 11:15:30</sub> | <sub>[[simplio-app:task/214\-remove\-rotation\-to\-landscape] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c2d2876cdf42f0808ffe0b65481e1d39f5fc66f)</sub> | <sub>[8c2d287](https://github.com/SimplioOfficial/simplio-app/commit/8c2d2876cdf42f0808ffe0b65481e1d39f5fc66f) Completed task/214-remove-rotation-to-landscape - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3391 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-28 09:58:20</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5)</sub> | <sub>[82bfcd2](https://github.com/SimplioOfficial/simplio-app/commit/82bfcd2bd51d415b9fa149ae6b976651b7d782b5) changed rawTx to txhash - ciripel</sub> |
 | <sub>2022-09-28 09:52:25</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4b9b2b2893f1c6c0206988e218f165b45d9727e)</sub> | <sub>[f4b9b2b](https://github.com/SimplioOfficial/simplio-app/commit/f4b9b2b2893f1c6c0206988e218f165b45d9727e) fix: changedAmount during screen swaps - ciripel</sub> |
 | <sub>2022-09-28 09:41:42</sub> | <sub>[[simplio-app:task/212\-go\-back\-gesture\-on\-authenticated\-app\-shows\-empty\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4b44463d496c^...9bba9a7786de)</sub> | <sub>[4b44463](https://github.com/SimplioOfficial/simplio-app/commit/4b44463d496c1e53d2cf64c06f5232070771b0e9) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[9bba9a7](https://github.com/SimplioOfficial/simplio-app/commit/9bba9a7786de6bff0715d91f3fc930ca4835c1fe) 1. Completed task/212, - Tomáš Petrík</sub> |
-| <sub>2022-09-28 09:27:04</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/89d6dd736ad4f13af41789cd7722e350609ed2e7)</sub> | <sub>[89d6dd7](https://github.com/SimplioOfficial/simplio-app/commit/89d6dd736ad4f13af41789cd7722e350609ed2e7) fix: broadcast Tx - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
