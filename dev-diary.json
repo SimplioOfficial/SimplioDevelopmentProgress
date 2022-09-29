@@ -61045,5 +61045,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 08:57:16.335000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`9761ac0`](https://github.com/SimplioOfficial/simplio-app/commit/9761ac005f66102c54c12f06cd1c3387118d2ffc) chore: removed unused imports - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9761ac005f66102c54c12f06cd1c3387118d2ffc"
+    }
   }
 ]
