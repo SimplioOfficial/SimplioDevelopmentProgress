@@ -61027,5 +61027,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/21f74987c76cc6f0a3f00dedd3a218b7a2e7ca89"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 08:45:19.200000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`bec95e9`](https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c) wip: back to you Ami ;) - jvrastil",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c"
+    }
   }
 ]

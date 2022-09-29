@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3402 commits since 10/09/2021. You can see the complete history in
+There is a total of 3403 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-29 08:45:19</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c)</sub> | <sub>[bec95e9](https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c) wip: back to you Ami ;) - jvrastil</sub> |
 | <sub>2022-09-29 08:34:34</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21f74987c76cc6f0a3f00dedd3a218b7a2e7ca89)</sub> | <sub>[21f7498](https://github.com/SimplioOfficial/simplio-app/commit/21f74987c76cc6f0a3f00dedd3a218b7a2e7ca89) wip: Pass the ball to master Honza - ciripel</sub> |
 | <sub>2022-09-29 08:20:53</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0103359d1b272f10217f998efbc4ce88ec7b5199)</sub> | <sub>[0103359](https://github.com/SimplioOfficial/simplio-app/commit/0103359d1b272f10217f998efbc4ce88ec7b5199) wip: swipe up button update - jvrastil</sub> |
 | <sub>2022-09-29 08:13:06</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e861bc6129f4...b57a0ba91cd8)</sub> | <sub>[4969451](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a) Task/218 enable and disable network wallets (#226) - storkandstars<br>[b57a0ba](https://github.com/SimplioOfficial/simplio-app/commit/b57a0ba91cd8d242509cca81ada117ed7e3f1a9b) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3402 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 05:13:12</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/d7fc15383283...dee1ff641872)</sub> | <sub>[2b1cbb5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid<br>[dee1ff6](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dee1ff641872188aa98eb602649369961edddf38) Merge pull request #11 from SimplioOfficial/10-... - PitTxid</sub> |
 | <sub>2022-09-29 05:12:54</sub> | <sub>[[backend-flux-wallet-lib:10\-create\-flux\-address\-error] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a)</sub> | <sub>[2b1cbb5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid</sub> |
 | <sub>2022-09-28 23:49:38</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88)</sub> | <sub>[66e9a14](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88) Fixes account cretion #3 - MariooW</sub> |
-| <sub>2022-09-28 22:56:26</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e)</sub> | <sub>[a045166](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e) Fixes account cretion #2 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
