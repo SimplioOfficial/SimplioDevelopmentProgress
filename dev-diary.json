@@ -61204,5 +61204,41 @@
       "title": "[simplio-app] Branch task/193\\-swap\\_form\\_ui was force-pushed to `75f2124`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 14:55:26.954000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`305b20d`](https://github.com/SimplioOfficial/simplio-app/commit/305b20dabafa7ac4ba27d6f655dfd2a0d3f45ca1) Bug/213 incorrectly entered pin does not save t... - storkandstars\n[`8ee0217`](https://github.com/SimplioOfficial/simplio-app/commit/8ee0217c28e64cf4b493327d243cbe0ac76379d5) Task/218 enable and disable network wallets (#226) - storkandstars\n[`5b84233`](https://github.com/SimplioOfficial/simplio-app/commit/5b842330d3f61d0ef9f63d2db1d3975fa68971c1) Task/221 games in discovery screen (#229) - TomasPetrik\n[`a94f4f5`](https://github.com/SimplioOfficial/simplio-app/commit/a94f4f598918155832a96fa7ed0a0fc556d89f96) Bug/212 go back gesture on authenticated app sh... - TomasPetrik\n[`5d1c062`](https://github.com/SimplioOfficial/simplio-app/commit/5d1c0622442673594db7db2a3bbd14939b05f1ff) wip: passing the ball to Honza - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9761ac005f66...7fb98f922d4d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 14:59:12.018000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fc6720a`](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0) Bug/213 incorrectly entered pin does not save t... - storkandstars\n[`4969451`](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a) Task/218 enable and disable network wallets (#226) - storkandstars\n[`db883ff`](https://github.com/SimplioOfficial/simplio-app/commit/db883ff633bd8815e23655523bfc165310bd1914) Task/221 games in discovery screen (#229) - TomasPetrik\n[`cbeb7d7`](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64) Bug/212 go back gesture on authenticated app sh... - TomasPetrik\n[`bf19922`](https://github.com/SimplioOfficial/simplio-app/commit/bf199223a72f13f1418407c3e1420b62d02a6dde) Merge branch 'master' into task/181-create-logi... - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/7fb98f922d4d...bf199223a72f"
+    }
   }
 ]
