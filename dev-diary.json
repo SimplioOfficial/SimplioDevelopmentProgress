@@ -61135,5 +61135,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/db6e14fbb578...784ae41cc53f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 12:15:52.592000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`cbeb7d7`](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64) Bug/212 go back gesture on authenticated app sh... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64"
+    }
   }
 ]
