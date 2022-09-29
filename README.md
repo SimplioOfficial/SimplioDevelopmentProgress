@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3401 commits since 10/09/2021. You can see the complete history in
+There is a total of 3402 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-29 08:34:34</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21f74987c76cc6f0a3f00dedd3a218b7a2e7ca89)</sub> | <sub>[21f7498](https://github.com/SimplioOfficial/simplio-app/commit/21f74987c76cc6f0a3f00dedd3a218b7a2e7ca89) wip: Pass the ball to master Honza - ciripel</sub> |
 | <sub>2022-09-29 08:20:53</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0103359d1b272f10217f998efbc4ce88ec7b5199)</sub> | <sub>[0103359](https://github.com/SimplioOfficial/simplio-app/commit/0103359d1b272f10217f998efbc4ce88ec7b5199) wip: swipe up button update - jvrastil</sub> |
 | <sub>2022-09-29 08:13:06</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e861bc6129f4...b57a0ba91cd8)</sub> | <sub>[4969451](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a) Task/218 enable and disable network wallets (#226) - storkandstars<br>[b57a0ba](https://github.com/SimplioOfficial/simplio-app/commit/b57a0ba91cd8d242509cca81ada117ed7e3f1a9b) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-09-29 08:12:27</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c136b12e3e1a...e861bc6129f4)</sub> | <sub>[fc6720a](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0) Bug/213 incorrectly entered pin does not save t... - storkandstars<br>[4b44463](https://github.com/SimplioOfficial/simplio-app/commit/4b44463d496c1e53d2cf64c06f5232070771b0e9) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[e861bc6](https://github.com/SimplioOfficial/simplio-app/commit/e861bc6129f407afde874d82c729d2c6fe242b6a) 1. Fixed default appbar background color to be ... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3401 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 05:12:54</sub> | <sub>[[backend-flux-wallet-lib:10\-create\-flux\-address\-error] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a)</sub> | <sub>[2b1cbb5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid</sub> |
 | <sub>2022-09-28 23:49:38</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88)</sub> | <sub>[66e9a14](https://github.com/SimplioOfficial/simplio-app/commit/66e9a14d6dfedec85c89bdb299455be9bed4fa88) Fixes account cretion #3 - MariooW</sub> |
 | <sub>2022-09-28 22:56:26</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e)</sub> | <sub>[a045166](https://github.com/SimplioOfficial/simplio-app/commit/a045166e3b4298cc54df6d2cd78a99bdcae3691e) Fixes account cretion #2 - MariooW</sub> |
-| <sub>2022-09-28 16:35:02</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5)</sub> | <sub>[73a8833](https://github.com/SimplioOfficial/simplio-app/commit/73a8833ae4bbab66e902519958e3e7ef487eeaf5) wip: changes before code review - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
