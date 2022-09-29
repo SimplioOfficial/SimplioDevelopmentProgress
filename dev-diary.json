@@ -61063,5 +61063,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9761ac005f66102c54c12f06cd1c3387118d2ffc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-29 09:09:22.658000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b74fd1e`](https://github.com/SimplioOfficial/simplio-app/commit/b74fd1edcd32f77acc7c9184d9a2a35cf616cc42) Fixed PRs issues. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/221\\-games\\-in\\-discovery\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b74fd1edcd32f77acc7c9184d9a2a35cf616cc42"
+    }
   }
 ]
