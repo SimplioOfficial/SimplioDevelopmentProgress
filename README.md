@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3405 commits since 10/09/2021. You can see the complete history in
+There is a total of 3406 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-29 11:44:16</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4321f6be3cdfd15e708edc7661c9529bcab48ee1)</sub> | <sub>[4321f6b](https://github.com/SimplioOfficial/simplio-app/commit/4321f6be3cdfd15e708edc7661c9529bcab48ee1) Fixed PRs issues. - Tomáš Petrík</sub> |
 | <sub>2022-09-29 09:09:22</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b74fd1edcd32f77acc7c9184d9a2a35cf616cc42)</sub> | <sub>[b74fd1e](https://github.com/SimplioOfficial/simplio-app/commit/b74fd1edcd32f77acc7c9184d9a2a35cf616cc42) Fixed PRs issues. - Tomáš Petrík</sub> |
 | <sub>2022-09-29 08:57:16</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9761ac005f66102c54c12f06cd1c3387118d2ffc)</sub> | <sub>[9761ac0](https://github.com/SimplioOfficial/simplio-app/commit/9761ac005f66102c54c12f06cd1c3387118d2ffc) chore: removed unused imports - ciripel</sub> |
 | <sub>2022-09-29 08:45:19</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c)</sub> | <sub>[bec95e9](https://github.com/SimplioOfficial/simplio-app/commit/bec95e9ed1dcb57eaecfa431890265966109b43c) wip: back to you Ami ;) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3405 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 08:12:27</sub> | <sub>[[simplio-app:task/221\-games\-in\-discovery\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c136b12e3e1a...e861bc6129f4)</sub> | <sub>[fc6720a](https://github.com/SimplioOfficial/simplio-app/commit/fc6720a9ea8a4bb5743a8eac8343f64c804998d0) Bug/213 incorrectly entered pin does not save t... - storkandstars<br>[4b44463](https://github.com/SimplioOfficial/simplio-app/commit/4b44463d496c1e53d2cf64c06f5232070771b0e9) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík<br>[e861bc6](https://github.com/SimplioOfficial/simplio-app/commit/e861bc6129f407afde874d82c729d2c6fe242b6a) 1. Fixed default appbar background color to be ... - Tomáš Petrík</sub> |
 | <sub>2022-09-29 08:02:52</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8fba234fee1b917ff9729eca8934869979f59287)</sub> | <sub>[8fba234](https://github.com/SimplioOfficial/simplio-app/commit/8fba234fee1b917ff9729eca8934869979f59287) wip: toggle update - jvrastil</sub> |
 | <sub>2022-09-29 07:51:43</sub> | <sub>[[simplio-app:task/212\-go\-back\-gesture\-on\-authenticated\-app\-shows\-empty\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db6e14fbb578c0170ddc688821fe7026470d4348)</sub> | <sub>[db6e14f](https://github.com/SimplioOfficial/simplio-app/commit/db6e14fbb578c0170ddc688821fe7026470d4348) Completed task/214-remove-rotation-to-landscape... - TomasPetrik</sub> |
-| <sub>2022-09-29 05:13:12</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/d7fc15383283...dee1ff641872)</sub> | <sub>[2b1cbb5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid<br>[dee1ff6](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dee1ff641872188aa98eb602649369961edddf38) Merge pull request #11 from SimplioOfficial/10-... - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
