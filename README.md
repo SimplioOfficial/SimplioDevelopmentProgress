@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3417 commits since 10/09/2021. You can see the complete history in
+There is a total of 3418 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-29 23:13:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697)</sub> | <sub>[665242d](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697) Fixes account cretion #6 - MariooW</sub> |
 | <sub>2022-09-29 21:56:10</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2)</sub> | <sub>[c5540c8](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2) Fixes account cretion #5 - MariooW</sub> |
 | <sub>2022-09-29 21:49:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514)</sub> | <sub>[00f27ab](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514) Fixes account cretion #5 - MariooW</sub> |
 | <sub>2022-09-29 20:57:17</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fa4f61d62e30138ded0070c45eb24eacb2d64af)</sub> | <sub>[1fa4f61](https://github.com/SimplioOfficial/simplio-app/commit/1fa4f61d62e30138ded0070c45eb24eacb2d64af) Fixes account cretion #4 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3417 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 13:43:05</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f3ae3527f414...0bab6238279b)</sub> |
 | <sub>2022-09-29 12:43:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0103359d1b27...f3ae3527f414)</sub> |
 | <sub>2022-09-29 12:15:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64)</sub> | <sub>[cbeb7d7](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64) Bug/212 go back gesture on authenticated app sh... - TomasPetrik</sub> |
-| <sub>2022-09-29 12:08:43</sub> | <sub>[[simplio-app:task/212\-go\-back\-gesture\-on\-authenticated\-app\-shows\-empty\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/db6e14fbb578...784ae41cc53f)</sub> | <sub>[4969451](https://github.com/SimplioOfficial/simplio-app/commit/4969451f07d745a2f3220ec57d0d0ed8d533998a) Task/218 enable and disable network wallets (#226) - storkandstars<br>[db883ff](https://github.com/SimplioOfficial/simplio-app/commit/db883ff633bd8815e23655523bfc165310bd1914) Task/221 games in discovery screen (#229) - TomasPetrik<br>[784ae41](https://github.com/SimplioOfficial/simplio-app/commit/784ae41cc53f323a673c1c15a589492265da8de0) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
