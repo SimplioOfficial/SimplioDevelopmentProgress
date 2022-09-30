@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3426 commits since 10/09/2021. You can see the complete history in
+There is a total of 3427 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-30 10:15:31</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/096ec7b2a54513ffcd5b3e8d9d9e828989fe02e8)</sub> | <sub>[096ec7b](https://github.com/SimplioOfficial/simplio-app/commit/096ec7b2a54513ffcd5b3e8d9d9e828989fe02e8) update navigation flow after transaction is sent - jvrastil</sub> |
 | <sub>2022-09-30 10:01:00</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8434abe99ea82aa7cbcad6c6001289f3c38d4b2e)</sub> | <sub>[8434abe](https://github.com/SimplioOfficial/simplio-app/commit/8434abe99ea82aa7cbcad6c6001289f3c38d4b2e) wip: final thank god HONZA - ciripel</sub> |
 | <sub>2022-09-30 09:50:49</sub> | <sub>[[simplio-app:task/209\-slidable\-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21234533df306fff0c0cb1ed6b91303589a7f0b5)</sub> | <sub>[2123453](https://github.com/SimplioOfficial/simplio-app/commit/21234533df306fff0c0cb1ed6b91303589a7f0b5) Completed task/209-slidable-banner - Tomáš Petrík</sub> |
 | <sub>2022-09-30 09:17:38</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636)</sub> | <sub>[25466fd](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636) chore: small fixes - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3426 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-30 07:26:06</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 26 new commits](https://github.com/SimplioOfficial/simplio-app/compare/75e672e49a8b^...8ab67e715483)</sub> | <sub>[75e672e](https://github.com/SimplioOfficial/simplio-app/commit/75e672e49a8bd327a9ca3dd8f2a48ec98b8cbc37) wip: add wallet_Repo in asset_send cubit - ciripel<br>[6858aec](https://github.com/SimplioOfficial/simplio-app/commit/6858aecf6a7de65143a70f6f8b015b811dc4a659) wip: add wallet_repo in auth_router - ciripel<br>[23c876b](https://github.com/SimplioOfficial/simplio-app/commit/23c876bada0b938d59913ccd9392aa8b83ee67dc) wip - ciripel<br>[98948c1](https://github.com/SimplioOfficial/simplio-app/commit/98948c1249c4f9e068ff3e868405f30b16e4637f) wip: passing the ball to Honza - ciripel<br>[6328698](https://github.com/SimplioOfficial/simplio-app/commit/6328698eff20df635ffc3a4d41dd7c01fcb2eb99) wip - back to Ami :) - jvrastil</sub> |
 | <sub>2022-09-30 06:45:24</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/484223d2ab97b5f6eababba0c37eeefd4f232ac2)</sub> | <sub>[484223d](https://github.com/SimplioOfficial/simplio-app/commit/484223d2ab97b5f6eababba0c37eeefd4f232ac2) Fix Reformat code #1 - MariooW</sub> |
 | <sub>2022-09-29 23:13:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697)</sub> | <sub>[665242d](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697) Fixes account cretion #6 - MariooW</sub> |
-| <sub>2022-09-29 21:56:10</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2)</sub> | <sub>[c5540c8](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2) Fixes account cretion #5 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
