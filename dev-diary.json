@@ -61438,5 +61438,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/21234533df306fff0c0cb1ed6b91303589a7f0b5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 10:01:00.906000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8434abe`](https://github.com/SimplioOfficial/simplio-app/commit/8434abe99ea82aa7cbcad6c6001289f3c38d4b2e) wip: final thank god HONZA - ciripel",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending\\_rebase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8434abe99ea82aa7cbcad6c6001289f3c38d4b2e"
+    }
   }
 ]
