@@ -61330,5 +61330,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/484223d2ab97b5f6eababba0c37eeefd4f232ac2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 07:26:06.626000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`75e672e`](https://github.com/SimplioOfficial/simplio-app/commit/75e672e49a8bd327a9ca3dd8f2a48ec98b8cbc37) wip: add wallet_Repo in asset_send cubit - ciripel\n[`6858aec`](https://github.com/SimplioOfficial/simplio-app/commit/6858aecf6a7de65143a70f6f8b015b811dc4a659) wip: add wallet_repo in auth_router - ciripel\n[`23c876b`](https://github.com/SimplioOfficial/simplio-app/commit/23c876bada0b938d59913ccd9392aa8b83ee67dc) wip - ciripel\n[`98948c1`](https://github.com/SimplioOfficial/simplio-app/commit/98948c1249c4f9e068ff3e868405f30b16e4637f) wip: passing the ball to Honza - ciripel\n[`6328698`](https://github.com/SimplioOfficial/simplio-app/commit/6328698eff20df635ffc3a4d41dd7c01fcb2eb99) wip - back to Ami :) - jvrastil",
+      "title": "[simplio-app:task/181\\-create\\-logic\\-for\\-sending\\_rebase] 26 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/75e672e49a8b^...8ab67e715483"
+    }
   }
 ]
