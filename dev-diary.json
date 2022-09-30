@@ -61545,5 +61545,22 @@
       "title": "[simplio-app] Branch task/181\\-create\\-logic\\-for\\-sending\\_rebase was force-pushed to `09c7b17`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 14:05:53.317000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/75f212441fcc...688b4db00609)",
+      "title": "[simplio-app] Branch task/193\\-swap\\_form\\_ui was force-pushed to `688b4db`",
+      "type": "rich"
+    }
   }
 ]
