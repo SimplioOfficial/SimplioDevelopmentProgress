@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3418 commits since 10/09/2021. You can see the complete history in
+There is a total of 3419 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-30 06:45:24</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/484223d2ab97b5f6eababba0c37eeefd4f232ac2)</sub> | <sub>[484223d](https://github.com/SimplioOfficial/simplio-app/commit/484223d2ab97b5f6eababba0c37eeefd4f232ac2) Fix Reformat code #1 - MariooW</sub> |
 | <sub>2022-09-29 23:13:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697)</sub> | <sub>[665242d](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697) Fixes account cretion #6 - MariooW</sub> |
 | <sub>2022-09-29 21:56:10</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2)</sub> | <sub>[c5540c8](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2) Fixes account cretion #5 - MariooW</sub> |
 | <sub>2022-09-29 21:49:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514)</sub> | <sub>[00f27ab](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514) Fixes account cretion #5 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3418 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 13:52:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0bab6238279b...75f212441fcc)</sub> |
 | <sub>2022-09-29 13:43:05</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f3ae3527f414...0bab6238279b)</sub> |
 | <sub>2022-09-29 12:43:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0103359d1b27...f3ae3527f414)</sub> |
-| <sub>2022-09-29 12:15:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64)</sub> | <sub>[cbeb7d7](https://github.com/SimplioOfficial/simplio-app/commit/cbeb7d75cadc4eb5f51bfd554c40a1ed2f1b0c64) Bug/212 go back gesture on authenticated app sh... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
