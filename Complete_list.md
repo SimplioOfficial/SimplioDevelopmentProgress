@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-30 11:52:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6ea279302311...09c7b1736b95)</sub> |
 | <sub>2022-09-30 11:42:49</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2793023118f8cfedbd1beed5ba8721942b5e5)</sub> | <sub>[6ea2793](https://github.com/SimplioOfficial/simplio-app/commit/6ea2793023118f8cfedbd1beed5ba8721942b5e5) tests: fix highfee null test to bigInt.zero - ciripel</sub> |
 | <sub>2022-09-30 11:37:06</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b51d7b9ee37617b2f3a1a4c713e40827c105ae15)</sub> | <sub>[b51d7b9](https://github.com/SimplioOfficial/simplio-app/commit/b51d7b9ee37617b2f3a1a4c713e40827c105ae15) fix: Utxo converter registration - ciripel</sub> |
 | <sub>2022-09-30 10:54:00</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd07653cedc8abc5eaa882a5786cb94ae4ce2b7a)</sub> | <sub>[bd07653](https://github.com/SimplioOfficial/simplio-app/commit/bd07653cedc8abc5eaa882a5786cb94ae4ce2b7a) Enable android tests - MariooW</sub> |

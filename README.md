@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3430 commits since 10/09/2021. You can see the complete history in
+There is a total of 3431 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-30 11:52:54</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6ea279302311...09c7b1736b95)</sub> |
 | <sub>2022-09-30 11:42:49</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2793023118f8cfedbd1beed5ba8721942b5e5)</sub> | <sub>[6ea2793](https://github.com/SimplioOfficial/simplio-app/commit/6ea2793023118f8cfedbd1beed5ba8721942b5e5) tests: fix highfee null test to bigInt.zero - ciripel</sub> |
 | <sub>2022-09-30 11:37:06</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b51d7b9ee37617b2f3a1a4c713e40827c105ae15)</sub> | <sub>[b51d7b9](https://github.com/SimplioOfficial/simplio-app/commit/b51d7b9ee37617b2f3a1a4c713e40827c105ae15) fix: Utxo converter registration - ciripel</sub> |
 | <sub>2022-09-30 10:54:00</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd07653cedc8abc5eaa882a5786cb94ae4ce2b7a)</sub> | <sub>[bd07653](https://github.com/SimplioOfficial/simplio-app/commit/bd07653cedc8abc5eaa882a5786cb94ae4ce2b7a) Enable android tests - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3430 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-30 09:17:38</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636)</sub> | <sub>[25466fd](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636) chore: small fixes - ciripel</sub> |
 | <sub>2022-09-30 08:24:52</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5458ca44d816dd60811cc0e38eb433c8d88363dd)</sub> | <sub>[5458ca4](https://github.com/SimplioOfficial/simplio-app/commit/5458ca44d816dd60811cc0e38eb433c8d88363dd) Fixes for tests #1 - MariooW</sub> |
 | <sub>2022-09-30 08:05:27</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/dee1ff641872...eb09e497a399)</sub> | <sub>[d08cdbd](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67) feat: update estimated fee code - PitTxid<br>[eb09e49](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/eb09e497a399667732066a259b01fb2ec4676b49) Merge pull request #12 from SimplioOfficial/5-e... - PitTxid</sub> |
-| <sub>2022-09-30 08:05:05</sub> | <sub>[[backend-flux-wallet-lib:5\-estimate\-fee\-for\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67)</sub> | <sub>[d08cdbd](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67) feat: update estimated fee code - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
