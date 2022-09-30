@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3424 commits since 10/09/2021. You can see the complete history in
+There is a total of 3425 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-09-30 09:50:49</sub> | <sub>[[simplio-app:task/209\-slidable\-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21234533df306fff0c0cb1ed6b91303589a7f0b5)</sub> | <sub>[2123453](https://github.com/SimplioOfficial/simplio-app/commit/21234533df306fff0c0cb1ed6b91303589a7f0b5) Completed task/209-slidable-banner - Tomáš Petrík</sub> |
 | <sub>2022-09-30 09:17:38</sub> | <sub>[[simplio-app:task/181\-create\-logic\-for\-sending\_rebase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636)</sub> | <sub>[25466fd](https://github.com/SimplioOfficial/simplio-app/commit/25466fdc6510e8bbfa1fc2b96f7cd02f93c44636) chore: small fixes - ciripel</sub> |
 | <sub>2022-09-30 08:24:52</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5458ca44d816dd60811cc0e38eb433c8d88363dd)</sub> | <sub>[5458ca4](https://github.com/SimplioOfficial/simplio-app/commit/5458ca44d816dd60811cc0e38eb433c8d88363dd) Fixes for tests #1 - MariooW</sub> |
 | <sub>2022-09-30 08:05:27</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/dee1ff641872...eb09e497a399)</sub> | <sub>[d08cdbd](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67) feat: update estimated fee code - PitTxid<br>[eb09e49](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/eb09e497a399667732066a259b01fb2ec4676b49) Merge pull request #12 from SimplioOfficial/5-e... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3424 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-09-29 23:13:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697)</sub> | <sub>[665242d](https://github.com/SimplioOfficial/simplio-app/commit/665242d354dffd2673725ff71af6aa5b58091697) Fixes account cretion #6 - MariooW</sub> |
 | <sub>2022-09-29 21:56:10</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2)</sub> | <sub>[c5540c8](https://github.com/SimplioOfficial/simplio-app/commit/c5540c814c7216f480bf7013182615daf04bf2a2) Fixes account cretion #5 - MariooW</sub> |
 | <sub>2022-09-29 21:49:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514)</sub> | <sub>[00f27ab](https://github.com/SimplioOfficial/simplio-app/commit/00f27abe73fceaaf73538d68d18ec3562bbb2514) Fixes account cretion #5 - MariooW</sub> |
-| <sub>2022-09-29 20:57:17</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fa4f61d62e30138ded0070c45eb24eacb2d64af)</sub> | <sub>[1fa4f61](https://github.com/SimplioOfficial/simplio-app/commit/1fa4f61d62e30138ded0070c45eb24eacb2d64af) Fixes account cretion #4 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
