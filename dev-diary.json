@@ -61562,5 +61562,23 @@
       "title": "[simplio-app] Branch task/193\\-swap\\_form\\_ui was force-pushed to `688b4db`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 23:21:02.761000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`a08a652`](https://github.com/SimplioOfficial/simplio-app/commit/a08a6529a3441197e37b28794a5dd9a3304c1827) Enable android tests - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a08a6529a3441197e37b28794a5dd9a3304c1827"
+    }
   }
 ]
