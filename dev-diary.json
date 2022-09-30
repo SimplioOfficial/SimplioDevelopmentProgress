@@ -61348,5 +61348,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/75e672e49a8b^...8ab67e715483"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 08:05:05.497000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d08cdbd`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67) feat: update estimated fee code - PitTxid",
+      "title": "[backend-flux-wallet-lib:5\\-estimate\\-fee\\-for\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-09-30 08:05:27.706000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d08cdbd`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d08cdbd5cd011701b5ae1c8d3a997613541f5d67) feat: update estimated fee code - PitTxid\n[`eb09e49`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/eb09e497a399667732066a259b01fb2ec4676b49) Merge pull request #12 from SimplioOfficial/5-e... - PitTxid",
+      "title": "[backend-flux-wallet-lib:develop] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/dee1ff641872...eb09e497a399"
+    }
   }
 ]
