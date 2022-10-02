@@ -61688,5 +61688,113 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/eb09e497a399...13ab533e15d6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:45:35.279000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`dac2128`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601) feat: update readme - PitTxid",
+      "title": "[backend-flux-wallet-lib:7\\-create\\-documents] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:45:54.718000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`dac2128`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601) feat: update readme - PitTxid\n[`a823e68`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/a823e686f1e61d12442160051d74da76ffb339b4) Merge pull request #14 from SimplioOfficial/7-c... - PitTxid",
+      "title": "[backend-flux-wallet-lib:develop] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/13ab533e15d6...a823e686f1e6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:47:43.896000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`46a773a`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f) chore(release): 1.0.0 - PitTxid",
+      "title": "[backend-flux-wallet-lib:8\\-create\\-private\\-npm\\-package] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:47:58.632000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`46a773a`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f) chore(release): 1.0.0 - PitTxid\n[`65287f5`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/65287f50652d8089fe2be37ceae1c8a95a463830) Merge pull request #15 from SimplioOfficial/8-c... - PitTxid",
+      "title": "[backend-flux-wallet-lib:develop] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/a823e686f1e6...65287f50652d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:49:04.230000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fad024b`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/fad024b9ab45a19f9a91735fe1f12cbada9e7223) feat: update zcashy lib - PitTxid\n[`c229fe1`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/c229fe12f79b630e1290463d9e949dcc8268e534) feat: update get address code - PitTxid\n[`9e44a5e`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/9e44a5ea9624a419ff782655117b0cfbda46ae66) feat: fix test code to run - PitTxid\n[`d7fc153`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d7fc1538328330813e5c8371987a42becc3755b0) Merge pull request #9 from SimplioOfficial/2-ge... - PitTxid\n[`2b1cbb5`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid",
+      "title": "[backend-flux-wallet-lib:master] 16 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/bf53b5d5255b...40c572d0ac67"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 14:49:12.946000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`bcd16c0`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bcd16c090744b418687b3055b7653792013c5684) Revert \"Merge develop branch after releasing 1.... - PitTxid",
+      "title": "[backend-flux-wallet-lib:revert\\-16\\-develop] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bcd16c090744b418687b3055b7653792013c5684"
+    }
   }
 ]
