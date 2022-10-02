@@ -61652,5 +61652,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cd1a0234caae1703c334eeb31086ab87c829a655"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 07:05:19.469000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`97a4e33`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/97a4e33e48e6c80e4b033802ac8f0bd179dbac80) feat: add crate transaction - PitTxid\n[`6e1ca65`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/6e1ca65f6d1e34a08e7eb8407ad8b251e29cb36f) feat: create and broadcast tx successfully - PitTxid",
+      "title": "[backend-flux-wallet-lib:3\\-create\\-raw\\-transaction\\-successfully] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/eb09e497a399...6e1ca65f6d1e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-02 07:05:35.195000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`97a4e33`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/97a4e33e48e6c80e4b033802ac8f0bd179dbac80) feat: add crate transaction - PitTxid\n[`6e1ca65`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/6e1ca65f6d1e34a08e7eb8407ad8b251e29cb36f) feat: create and broadcast tx successfully - PitTxid\n[`13ab533`](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/13ab533e15d67bf8193f319b3f8cfb91d1805a3f) Merge pull request #13 from SimplioOfficial/3-c... - PitTxid",
+      "title": "[backend-flux-wallet-lib:develop] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/eb09e497a399...13ab533e15d6"
+    }
   }
 ]
