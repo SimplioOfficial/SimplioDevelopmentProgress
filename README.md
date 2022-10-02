@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3449 commits since 10/09/2021. You can see the complete history in
+There is a total of 3450 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-02 23:14:54</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18)</sub> | <sub>[ff9abc3](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18) Enable android tests#7 - MariooW</sub> |
 | <sub>2022-10-02 22:55:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/278b1b67580811c66deb08cbdb9010ab974a5b6e)</sub> | <sub>[278b1b6](https://github.com/SimplioOfficial/simplio-app/commit/278b1b67580811c66deb08cbdb9010ab974a5b6e) Enable android tests#6 - MariooW</sub> |
 | <sub>2022-10-02 21:29:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81f32167fc8578c6cab814b71fa1447b91e63966)</sub> | <sub>[81f3216](https://github.com/SimplioOfficial/simplio-app/commit/81f32167fc8578c6cab814b71fa1447b91e63966) Enable android tests#5 - MariooW</sub> |
 | <sub>2022-10-02 21:28:07</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126)</sub> | <sub>[2cda9b9](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126) Enable android tests#5 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3449 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-02 14:47:58</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/a823e686f1e6...65287f50652d)</sub> | <sub>[46a773a](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f) chore(release): 1.0.0 - PitTxid<br>[65287f5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/65287f50652d8089fe2be37ceae1c8a95a463830) Merge pull request #15 from SimplioOfficial/8-c... - PitTxid</sub> |
 | <sub>2022-10-02 14:47:43</sub> | <sub>[[backend-flux-wallet-lib:8\-create\-private\-npm\-package] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f)</sub> | <sub>[46a773a](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/46a773a0da55aacc9347116746d582fdc226c14f) chore(release): 1.0.0 - PitTxid</sub> |
 | <sub>2022-10-02 14:45:54</sub> | <sub>[[backend-flux-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/13ab533e15d6...a823e686f1e6)</sub> | <sub>[dac2128](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601) feat: update readme - PitTxid<br>[a823e68](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/a823e686f1e61d12442160051d74da76ffb339b4) Merge pull request #14 from SimplioOfficial/7-c... - PitTxid</sub> |
-| <sub>2022-10-02 14:45:35</sub> | <sub>[[backend-flux-wallet-lib:7\-create\-documents] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601)</sub> | <sub>[dac2128](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/dac2128b89adef5cd3391e56a13a01540bb9e601) feat: update readme - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
