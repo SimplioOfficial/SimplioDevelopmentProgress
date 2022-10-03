@@ -62012,5 +62012,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dba993debb838181bf01791490843da467c4f860"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-03 12:31:37.787000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b0ee098`](https://github.com/SimplioOfficial/simplio-app/commit/b0ee098b38a3cabbca312f2fb194e64f9c346422) wip: made contractAddress nullable - ciripel\n[`e4d43a8`](https://github.com/SimplioOfficial/simplio-app/commit/e4d43a8d796833098453e2b84d8eba5068f030b6) fix: do not subtract networkFee from tokenAmount - ciripel",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dba993debb83...e4d43a8d7968"
+    }
   }
 ]
