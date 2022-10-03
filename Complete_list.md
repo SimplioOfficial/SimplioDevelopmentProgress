@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-03 09:35:45</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32a58e91b8e1178f00ccec2cca33e262ef5229e2)</sub> | <sub>[32a58e9](https://github.com/SimplioOfficial/simplio-app/commit/32a58e91b8e1178f00ccec2cca33e262ef5229e2) wip - back to Ami after FE magic :)) - jvrastil</sub> |
 | <sub>2022-10-03 09:11:17</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9)</sub> | <sub>[e149679](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9) wip: pass ball to honza - ciripel</sub> |
 | <sub>2022-10-02 23:55:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02)</sub> | <sub>[58e9af8](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02) Enable android tests#10 - MariooW</sub> |
 | <sub>2022-10-02 23:27:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd)</sub> | <sub>[17217e6](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd) Enable android tests#9 - MariooW</sub> |
