@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3453 commits since 10/09/2021. You can see the complete history in
+There is a total of 3454 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-03 09:11:17</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9)</sub> | <sub>[e149679](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9) wip: pass ball to honza - ciripel</sub> |
 | <sub>2022-10-02 23:55:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02)</sub> | <sub>[58e9af8](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02) Enable android tests#10 - MariooW</sub> |
 | <sub>2022-10-02 23:27:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd)</sub> | <sub>[17217e6](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd) Enable android tests#9 - MariooW</sub> |
 | <sub>2022-10-02 23:19:45</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f71db487d7361a1e25d049bf53a198dcbf5aea0)</sub> | <sub>[4f71db4](https://github.com/SimplioOfficial/simplio-app/commit/4f71db487d7361a1e25d049bf53a198dcbf5aea0) Enable android tests#8 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3453 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-02 21:28:07</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126)</sub> | <sub>[2cda9b9](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126) Enable android tests#5 - MariooW</sub> |
 | <sub>2022-10-02 21:26:10</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03f744a83c17d496544389124a9022d50c362520)</sub> | <sub>[03f744a](https://github.com/SimplioOfficial/simplio-app/commit/03f744a83c17d496544389124a9022d50c362520) Enable android tests#5 - MariooW</sub> |
 | <sub>2022-10-02 14:49:12</sub> | <sub>[[backend-flux-wallet-lib:revert\-16\-develop] 1 new commit](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bcd16c090744b418687b3055b7653792013c5684)</sub> | <sub>[bcd16c0](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/bcd16c090744b418687b3055b7653792013c5684) Revert "Merge develop branch after releasing 1.... - PitTxid</sub> |
-| <sub>2022-10-02 14:49:04</sub> | <sub>[[backend-flux-wallet-lib:master] 16 new commits](https://github.com/SimplioOfficial/backend-flux-wallet-lib/compare/bf53b5d5255b...40c572d0ac67)</sub> | <sub>[fad024b](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/fad024b9ab45a19f9a91735fe1f12cbada9e7223) feat: update zcashy lib - PitTxid<br>[c229fe1](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/c229fe12f79b630e1290463d9e949dcc8268e534) feat: update get address code - PitTxid<br>[9e44a5e](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/9e44a5ea9624a419ff782655117b0cfbda46ae66) feat: fix test code to run - PitTxid<br>[d7fc153](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/d7fc1538328330813e5c8371987a42becc3755b0) Merge pull request #9 from SimplioOfficial/2-ge... - PitTxid<br>[2b1cbb5](https://github.com/SimplioOfficial/backend-flux-wallet-lib/commit/2b1cbb58b04752e5ffb723bf343c3f18d7eb7b4a) fix: address created issue - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
