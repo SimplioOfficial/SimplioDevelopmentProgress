@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-02 23:55:36</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02)</sub> | <sub>[58e9af8](https://github.com/SimplioOfficial/simplio-app/commit/58e9af8ab20cf7b96ef75c80e4a8be422f1fae02) Enable android tests#10 - MariooW</sub> |
 | <sub>2022-10-02 23:27:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd)</sub> | <sub>[17217e6](https://github.com/SimplioOfficial/simplio-app/commit/17217e6127658a7be35bcfd9c29e0e7546c7fcfd) Enable android tests#9 - MariooW</sub> |
 | <sub>2022-10-02 23:19:45</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f71db487d7361a1e25d049bf53a198dcbf5aea0)</sub> | <sub>[4f71db4](https://github.com/SimplioOfficial/simplio-app/commit/4f71db487d7361a1e25d049bf53a198dcbf5aea0) Enable android tests#8 - MariooW</sub> |
 | <sub>2022-10-02 23:14:54</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18)</sub> | <sub>[ff9abc3](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18) Enable android tests#7 - MariooW</sub> |
