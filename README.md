@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3456 commits since 10/09/2021. You can see the complete history in
+There is a total of 3457 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-03 11:41:22</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dba993debb838181bf01791490843da467c4f860)</sub> | <sub>[dba993d](https://github.com/SimplioOfficial/simplio-app/commit/dba993debb838181bf01791490843da467c4f860) fix: balance for token, signTx eth null check - ciripel</sub> |
 | <sub>2022-10-03 11:18:13</sub> | <sub>[[simplio-app:bug/242\-missing\-contractaddress\-param] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/cbeb7d75cadc...fc2c50c6a7af)</sub> | <sub>[68bd76a](https://github.com/SimplioOfficial/simplio-app/commit/68bd76ae8ab83e97d357ad1a7ae48ec23d9f95be) adding contractAddress param - storkandstars<br>[fc2c50c](https://github.com/SimplioOfficial/simplio-app/commit/fc2c50c6a7af0b7305946f9e2d6504de15fe854a) increasing version - storkandstars</sub> |
 | <sub>2022-10-03 09:35:45</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32a58e91b8e1178f00ccec2cca33e262ef5229e2)</sub> | <sub>[32a58e9](https://github.com/SimplioOfficial/simplio-app/commit/32a58e91b8e1178f00ccec2cca33e262ef5229e2) wip - back to Ami after FE magic :)) - jvrastil</sub> |
 | <sub>2022-10-03 09:11:17</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9)</sub> | <sub>[e149679](https://github.com/SimplioOfficial/simplio-app/commit/e149679a72e34db8423e8707735c0940e70194f9) wip: pass ball to honza - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3456 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-02 23:14:54</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18)</sub> | <sub>[ff9abc3](https://github.com/SimplioOfficial/simplio-app/commit/ff9abc3625983ac31f5ee2cb0ced053a14342d18) Enable android tests#7 - MariooW</sub> |
 | <sub>2022-10-02 22:55:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/278b1b67580811c66deb08cbdb9010ab974a5b6e)</sub> | <sub>[278b1b6](https://github.com/SimplioOfficial/simplio-app/commit/278b1b67580811c66deb08cbdb9010ab974a5b6e) Enable android tests#6 - MariooW</sub> |
 | <sub>2022-10-02 21:29:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81f32167fc8578c6cab814b71fa1447b91e63966)</sub> | <sub>[81f3216](https://github.com/SimplioOfficial/simplio-app/commit/81f32167fc8578c6cab814b71fa1447b91e63966) Enable android tests#5 - MariooW</sub> |
-| <sub>2022-10-02 21:28:07</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126)</sub> | <sub>[2cda9b9](https://github.com/SimplioOfficial/simplio-app/commit/2cda9b9544dfae2649353b20530baa3c0066e126) Enable android tests#5 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
