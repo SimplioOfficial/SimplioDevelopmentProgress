@@ -62084,5 +62084,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/89286f6a346bc2d9b76e3ef90f12d7122b19c9d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-03 13:43:31.671000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`37e85df`](https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1) fix: token transactions - ciripel",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1"
+    }
   }
 ]
