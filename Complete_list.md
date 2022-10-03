@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-03 13:46:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/37e85df881f2...0a3a70451973)</sub> |
 | <sub>2022-10-03 13:43:31</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1)</sub> | <sub>[37e85df](https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1) fix: token transactions - ciripel</sub> |
 | <sub>2022-10-03 13:39:12</sub> | <sub>[[backend-zcash-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/89286f6a346bc2d9b76e3ef90f12d7122b19c9d2)</sub> | <sub>[89286f6](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/89286f6a346bc2d9b76e3ef90f12d7122b19c9d2) feat: init - PitTxid</sub> |
 | <sub>2022-10-03 13:16:47</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/41e57463f12c1878e1273d89b00c95a931aef338)</sub> | <sub>[41e5746](https://github.com/SimplioOfficial/simplio-app/commit/41e57463f12c1878e1273d89b00c95a931aef338) wip: Passing hot potato to Ami - jvrastil</sub> |
