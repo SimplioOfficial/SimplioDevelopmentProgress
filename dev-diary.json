@@ -62533,5 +62533,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/8342e5be2c24...bcd85c9dfc7a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 19:37:34.881000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`0275614`](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7) task/209-slidable-banner (#238) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7"
+    }
   }
 ]
