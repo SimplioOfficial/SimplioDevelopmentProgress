@@ -62299,5 +62299,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/236f60cbab1d...0b030878ed5a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 08:08:49.713000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`800d3cb`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/800d3cb6fe460136d6667d6b5f5bbf5d29839802) chore(release): 1.0.0 - PitTxid",
+      "title": "[backend-zcash-wallet-lib:3\\-create\\-private\\-package] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/800d3cb6fe460136d6667d6b5f5bbf5d29839802"
+    }
   }
 ]
