@@ -62353,5 +62353,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/89286f6a346b...130fbfb2d6e3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 11:06:43.455000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d153177`](https://github.com/SimplioOfficial/simplio-app/commit/d1531779f950d955ae33bb7fd745b874b037c033) fixed: changes asked by Tomas - ciripel",
+      "title": "[simplio-app:task/193\\-swap\\_form\\_ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d1531779f950d955ae33bb7fd745b874b037c033"
+    }
   }
 ]
