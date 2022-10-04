@@ -62227,5 +62227,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f339f5b5e1fea976e0e75f03a430ddfd0825951d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 02:14:44.555000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`5314673`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/5314673c13dfcd706bdf9873ce39458ef8730498) feat: update zec configuration - PitTxid\n[`e032204`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/e0322046703645b5806b2d06231e0062da65a823) feat: update branch id - PitTxid\n[`383226c`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/383226c430ffccf78d7887726da4367bbac147ba) feat: fix testing code - PitTxid",
+      "title": "[backend-zcash-wallet-lib:1\\-create\\-zcash\\-library\\-and\\-update\\-parameters] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/39362afa526f...383226c430ff"
+    }
   }
 ]

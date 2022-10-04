@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3469 commits since 10/09/2021. You can see the complete history in
+There is a total of 3470 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-04 02:14:44</sub> | <sub>[[backend-zcash-wallet-lib:1\-create\-zcash\-library\-and\-update\-parameters] 3 new commits](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/39362afa526f...383226c430ff)</sub> | <sub>[5314673](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/5314673c13dfcd706bdf9873ce39458ef8730498) feat: update zec configuration - PitTxid<br>[e032204](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/e0322046703645b5806b2d06231e0062da65a823) feat: update branch id - PitTxid<br>[383226c](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/383226c430ffccf78d7887726da4367bbac147ba) feat: fix testing code - PitTxid</sub> |
 | <sub>2022-10-03 17:23:48</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f339f5b5e1fea976e0e75f03a430ddfd0825951d)</sub> | <sub>[f339f5b](https://github.com/SimplioOfficial/simplio-app/commit/f339f5b5e1fea976e0e75f03a430ddfd0825951d) remove mnemonic malaka - jvrastil</sub> |
 | <sub>2022-10-03 15:11:08</sub> | <sub>[[backend-zcash-wallet-lib:1\-create\-zcash\-library\-and\-update\-parameters] 1 new commit](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/39362afa526f3bf9e7d3f5c5dcf81f57068f2104)</sub> | <sub>[39362af](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/39362afa526f3bf9e7d3f5c5dcf81f57068f2104) feat: rename package - PitTxid</sub> |
 | <sub>2022-10-03 14:36:28</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3acdf5625bdae9a01c4baeef529bbe6b7b98be1)</sub> | <sub>[a3acdf5](https://github.com/SimplioOfficial/simplio-app/commit/a3acdf5625bdae9a01c4baeef529bbe6b7b98be1) fix number extensions tests - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3469 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-03 13:46:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/37e85df881f2...0a3a70451973)</sub> |
 | <sub>2022-10-03 13:43:31</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1)</sub> | <sub>[37e85df](https://github.com/SimplioOfficial/simplio-app/commit/37e85df881f2d56f8b986c5fb9cbf200add2bba1) fix: token transactions - ciripel</sub> |
 | <sub>2022-10-03 13:39:12</sub> | <sub>[[backend-zcash-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/89286f6a346bc2d9b76e3ef90f12d7122b19c9d2)</sub> | <sub>[89286f6](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/89286f6a346bc2d9b76e3ef90f12d7122b19c9d2) feat: init - PitTxid</sub> |
-| <sub>2022-10-03 13:16:47</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/41e57463f12c1878e1273d89b00c95a931aef338)</sub> | <sub>[41e5746](https://github.com/SimplioOfficial/simplio-app/commit/41e57463f12c1878e1273d89b00c95a931aef338) wip: Passing hot potato to Ami - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
