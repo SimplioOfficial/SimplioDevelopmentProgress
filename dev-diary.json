@@ -62515,5 +62515,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8342e5be2c24dbd8d84aa682535e91f36d87b133"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 18:37:04.463000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`cd16d48`](https://github.com/SimplioOfficial/simplio-app/commit/cd16d48b07cdb0fbb810483a1573b4903a241b2d) Bug/242 missing contractaddress param (#243) - storkandstars\n[`806b57f`](https://github.com/SimplioOfficial/simplio-app/commit/806b57f76e2d9a92692fd3b45d13eaeef066b939) Task/193 swap form UI (#227) - jvrastil\n[`bcd85c9`](https://github.com/SimplioOfficial/simplio-app/commit/bcd85c9dfc7adbe32dbc3a6771433d2e836b9766) Rebased with master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/209\\-slidable\\-banner] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/8342e5be2c24...bcd85c9dfc7a"
+    }
   }
 ]
