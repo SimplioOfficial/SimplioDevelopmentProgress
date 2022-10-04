@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-04 11:37:12</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b)</sub> | <sub>[722e0d2](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b) build fix - jvrastil</sub> |
 | <sub>2022-10-04 11:29:48</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c)</sub> | <sub>[ceddd23](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c) Changes after codereview - jvrastil</sub> |
 | <sub>2022-10-04 11:26:00</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f35e0bcfc7a2cf3c7613c9bfd5de659344fae1b7)</sub> | <sub>[f35e0bc](https://github.com/SimplioOfficial/simplio-app/commit/f35e0bcfc7a2cf3c7613c9bfd5de659344fae1b7) chore: placed comments for future possible uses - ciripel</sub> |
 | <sub>2022-10-04 11:19:24</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c6abbf324d1c5ffa8df605a17ce057616158471)</sub> | <sub>[8c6abbf](https://github.com/SimplioOfficial/simplio-app/commit/8c6abbf324d1c5ffa8df605a17ce057616158471) fix: delete getCurrentAccountWalletId - ciripel</sub> |
