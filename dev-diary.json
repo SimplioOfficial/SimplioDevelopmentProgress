@@ -62461,5 +62461,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 15:14:35.894000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`75f2124`](https://github.com/SimplioOfficial/simplio-app/commit/75f212441fcc6c3f9601a1f8c14e479c129d9505) Task/193 - Swap form UI - jvrastil\n[`29d4bde`](https://github.com/SimplioOfficial/simplio-app/commit/29d4bde59fb46d4fba8e1097780189c2ab67cce6) wip - jvrastil\n[`7037181`](https://github.com/SimplioOfficial/simplio-app/commit/7037181e8e6778922554abf6ca7e3676be153e1d) wip - jvrastil\n[`ba5ba4d`](https://github.com/SimplioOfficial/simplio-app/commit/ba5ba4d9645dc7377c053ab0f1fdb115e14da214) wip - jvrastil\n[`ae9a7ef`](https://github.com/SimplioOfficial/simplio-app/commit/ae9a7efc5fe9f4173d95e5a13413d852c1d770b6) wip - jvrastil",
+      "title": "[simplio-app:task/230\\-buy\\_form\\_ui] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/75f212441fcc^...7491a266a1f9"
+    }
   }
 ]
