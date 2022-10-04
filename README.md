@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3481 commits since 10/09/2021. You can see the complete history in
+There is a total of 3482 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-04 11:54:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853)</sub> | <sub>[9228bdc](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853) Changes after code review (2) - jvrastil</sub> |
 | <sub>2022-10-04 11:37:12</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b)</sub> | <sub>[722e0d2](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b) build fix - jvrastil</sub> |
 | <sub>2022-10-04 11:29:48</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c)</sub> | <sub>[ceddd23](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c) Changes after codereview - jvrastil</sub> |
 | <sub>2022-10-04 11:26:00</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f35e0bcfc7a2cf3c7613c9bfd5de659344fae1b7)</sub> | <sub>[f35e0bc](https://github.com/SimplioOfficial/simplio-app/commit/f35e0bcfc7a2cf3c7613c9bfd5de659344fae1b7) chore: placed comments for future possible uses - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3481 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-04 08:10:02</sub> | <sub>[[backend-zcash-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/0b030878ed5a...b11f89c431c8)</sub> | <sub>[800d3cb](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/800d3cb6fe460136d6667d6b5f5bbf5d29839802) chore(release): 1.0.0 - PitTxid<br>[b11f89c](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/b11f89c431c85d61692ee02a472c2727596fa4c6) Merge pull request #7 from SimplioOfficial/3-cr... - PitTxid</sub> |
 | <sub>2022-10-04 08:08:49</sub> | <sub>[[backend-zcash-wallet-lib:3\-create\-private\-package] 1 new commit](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/800d3cb6fe460136d6667d6b5f5bbf5d29839802)</sub> | <sub>[800d3cb](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/800d3cb6fe460136d6667d6b5f5bbf5d29839802) chore(release): 1.0.0 - PitTxid</sub> |
 | <sub>2022-10-04 03:09:22</sub> | <sub>[[backend-zcash-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/236f60cbab1d...0b030878ed5a)</sub> | <sub>[1d4516a](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/1d4516a7dd0c0fecb6e9ee2a5ae477fe6d85564d) feat: update readme file - PitTxid<br>[0b03087](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/0b030878ed5aca678e40ad3e8e1737d6edc5d51e) Merge pull request #6 from SimplioOfficial/2-up... - PitTxid</sub> |
-| <sub>2022-10-04 03:09:10</sub> | <sub>[[backend-zcash-wallet-lib:2\-update\-document] 1 new commit](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/1d4516a7dd0c0fecb6e9ee2a5ae477fe6d85564d)</sub> | <sub>[1d4516a](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/1d4516a7dd0c0fecb6e9ee2a5ae477fe6d85564d) feat: update readme file - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
