@@ -62245,5 +62245,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/39362afa526f...383226c430ff"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-04 02:28:23.625000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`39362af`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/39362afa526f3bf9e7d3f5c5dcf81f57068f2104) feat: rename package - PitTxid\n[`5314673`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/5314673c13dfcd706bdf9873ce39458ef8730498) feat: update zec configuration - PitTxid\n[`e032204`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/e0322046703645b5806b2d06231e0062da65a823) feat: update branch id - PitTxid\n[`383226c`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/383226c430ffccf78d7887726da4367bbac147ba) feat: fix testing code - PitTxid\n[`236f60c`](https://github.com/SimplioOfficial/backend-zcash-wallet-lib/commit/236f60cbab1df35d54420dd2a8c2982f4f031401) Merge pull request #5 from SimplioOfficial/1-cr... - PitTxid",
+      "title": "[backend-zcash-wallet-lib:develop] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-zcash-wallet-lib/compare/89286f6a346b...236f60cbab1d"
+    }
   }
 ]
