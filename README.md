@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3491 commits since 10/09/2021. You can see the complete history in
+There is a total of 3492 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-05 08:08:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17f95988bac740a47548cc0bb66f04a29d8670c3)</sub> | <sub>[17f9598](https://github.com/SimplioOfficial/simplio-app/commit/17f95988bac740a47548cc0bb66f04a29d8670c3) Enable android tests#13 - MariooW</sub> |
 | <sub>2022-10-05 07:37:08</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602)</sub> | <sub>[04eb188](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 07:32:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3)</sub> | <sub>[947d2ff](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 06:28:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354)</sub> | <sub>[886d789](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354) Enable android tests#11 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3491 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-04 18:08:11</sub> | <sub>[[simplio-app:task/209\-slidable\-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8342e5be2c24dbd8d84aa682535e91f36d87b133)</sub> | <sub>[8342e5b](https://github.com/SimplioOfficial/simplio-app/commit/8342e5be2c24dbd8d84aa682535e91f36d87b133) Rebased with master - Tomáš Petrík</sub> |
 | <sub>2022-10-04 17:46:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/806b57f76e2d9a92692fd3b45d13eaeef066b939)</sub> | <sub>[806b57f](https://github.com/SimplioOfficial/simplio-app/commit/806b57f76e2d9a92692fd3b45d13eaeef066b939) Task/193 swap form UI (#227) - jvrastil</sub> |
 | <sub>2022-10-04 15:14:35</sub> | <sub>[[simplio-app:task/230\-buy\_form\_ui] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/75f212441fcc^...7491a266a1f9)</sub> | <sub>[75f2124](https://github.com/SimplioOfficial/simplio-app/commit/75f212441fcc6c3f9601a1f8c14e479c129d9505) Task/193 - Swap form UI - jvrastil<br>[29d4bde](https://github.com/SimplioOfficial/simplio-app/commit/29d4bde59fb46d4fba8e1097780189c2ab67cce6) wip - jvrastil<br>[7037181](https://github.com/SimplioOfficial/simplio-app/commit/7037181e8e6778922554abf6ca7e3676be153e1d) wip - jvrastil<br>[ba5ba4d](https://github.com/SimplioOfficial/simplio-app/commit/ba5ba4d9645dc7377c053ab0f1fdb115e14da214) wip - jvrastil<br>[ae9a7ef](https://github.com/SimplioOfficial/simplio-app/commit/ae9a7efc5fe9f4173d95e5a13413d852c1d770b6) wip - jvrastil</sub> |
-| <sub>2022-10-04 11:54:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853)</sub> | <sub>[9228bdc](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853) Changes after code review (2) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
