@@ -62641,5 +62641,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/17f95988bac740a47548cc0bb66f04a29d8670c3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 08:11:07.583000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9228bdc86f65...5deb5a06a92c)",
+      "title": "[simplio-app] Branch task/193\\-swap\\_form\\_ui was force-pushed to `5deb5a0`",
+      "type": "rich"
+    }
   }
 ]
