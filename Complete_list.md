@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-05 07:32:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3)</sub> | <sub>[947d2ff](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 06:28:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354)</sub> | <sub>[886d789](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354) Enable android tests#11 - MariooW</sub> |
 | <sub>2022-10-05 06:17:34</sub> | <sub>[[backend-litecoin-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315)</sub> | <sub>[e9e2e10](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315) feat: init - PitTxid</sub> |
 | <sub>2022-10-04 19:37:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7)</sub> | <sub>[0275614](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7) task/209-slidable-banner (#238) - TomasPetrik</sub> |

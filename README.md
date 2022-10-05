@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3489 commits since 10/09/2021. You can see the complete history in
+There is a total of 3490 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-05 07:32:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3)</sub> | <sub>[947d2ff](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 06:28:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354)</sub> | <sub>[886d789](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354) Enable android tests#11 - MariooW</sub> |
 | <sub>2022-10-05 06:17:34</sub> | <sub>[[backend-litecoin-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315)</sub> | <sub>[e9e2e10](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315) feat: init - PitTxid</sub> |
 | <sub>2022-10-04 19:37:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7)</sub> | <sub>[0275614](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7) task/209-slidable-banner (#238) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 3489 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-04 15:14:35</sub> | <sub>[[simplio-app:task/230\-buy\_form\_ui] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/75f212441fcc^...7491a266a1f9)</sub> | <sub>[75f2124](https://github.com/SimplioOfficial/simplio-app/commit/75f212441fcc6c3f9601a1f8c14e479c129d9505) Task/193 - Swap form UI - jvrastil<br>[29d4bde](https://github.com/SimplioOfficial/simplio-app/commit/29d4bde59fb46d4fba8e1097780189c2ab67cce6) wip - jvrastil<br>[7037181](https://github.com/SimplioOfficial/simplio-app/commit/7037181e8e6778922554abf6ca7e3676be153e1d) wip - jvrastil<br>[ba5ba4d](https://github.com/SimplioOfficial/simplio-app/commit/ba5ba4d9645dc7377c053ab0f1fdb115e14da214) wip - jvrastil<br>[ae9a7ef](https://github.com/SimplioOfficial/simplio-app/commit/ae9a7efc5fe9f4173d95e5a13413d852c1d770b6) wip - jvrastil</sub> |
 | <sub>2022-10-04 11:54:15</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853)</sub> | <sub>[9228bdc](https://github.com/SimplioOfficial/simplio-app/commit/9228bdc86f655dbbc9a72f9f1bb7a53da6e1e853) Changes after code review (2) - jvrastil</sub> |
 | <sub>2022-10-04 11:37:12</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b)</sub> | <sub>[722e0d2](https://github.com/SimplioOfficial/simplio-app/commit/722e0d2912c2a1d695df47a60c91c604c9e85c9b) build fix - jvrastil</sub> |
-| <sub>2022-10-04 11:29:48</sub> | <sub>[[simplio-app:task/193\-swap\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c)</sub> | <sub>[ceddd23](https://github.com/SimplioOfficial/simplio-app/commit/ceddd23f9787bfa1c2aa33fd7a5a27e58d74865c) Changes after codereview - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
