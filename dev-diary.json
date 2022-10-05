@@ -62766,5 +62766,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f410bb6fa89b5308e0de48ac867ec6f2833eecf3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 15:59:47.122000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1e618fa`](https://github.com/SimplioOfficial/simplio-app/commit/1e618fad889d8079379ee45fe0f30082b8962af9) wip - jvrastil\n[`cbc016a`](https://github.com/SimplioOfficial/simplio-app/commit/cbc016ab7c8b58e10c75b03102da5ad7936a69fc) add webview - jvrastil",
+      "title": "[simplio-app:task/230\\-buy\\_form\\_ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5deb5a06a92c...cbc016ab7c8b"
+    }
   }
 ]
