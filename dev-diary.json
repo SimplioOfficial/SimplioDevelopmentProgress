@@ -62605,5 +62605,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 07:37:08.998000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`04eb188`](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602) Enable android tests#12 - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602"
+    }
   }
 ]
