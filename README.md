@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3498 commits since 10/09/2021. You can see the complete history in
+There is a total of 3499 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-05 11:00:29</sub> | <sub>[[simplio-app:task/236\-colors\-refactoring] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f410bb6fa89b5308e0de48ac867ec6f2833eecf3)</sub> | <sub>[f410bb6](https://github.com/SimplioOfficial/simplio-app/commit/f410bb6fa89b5308e0de48ac867ec6f2833eecf3) Put back account_repository which didn't have t... - Tomáš Petrík</sub> |
 | <sub>2022-10-05 10:52:51</sub> | <sub>[[simplio-app:task/236\-colors\-refactoring] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c)</sub> | <sub>[b74c497](https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c) Completed task/236-colors-refactoring - Tomáš Petrík</sub> |
 | <sub>2022-10-05 10:00:50</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0275614f5f3d...6ac086a56f02)</sub> | <sub>[32ac28e](https://github.com/SimplioOfficial/simplio-app/commit/32ac28e2eb6ea0113da5613beb3887c2a953afe4) chore: delete duplicate unused service - ciripel<br>[6ac086a](https://github.com/SimplioOfficial/simplio-app/commit/6ac086a56f02b88e06aa69eb3269a18d2339493a) register swap endpoints - ciripel</sub> |
 | <sub>2022-10-05 08:38:07</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073)</sub> | <sub>[567ae27](https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073) Enable android tests#14 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3498 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-05 08:08:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/17f95988bac740a47548cc0bb66f04a29d8670c3)</sub> | <sub>[17f9598](https://github.com/SimplioOfficial/simplio-app/commit/17f95988bac740a47548cc0bb66f04a29d8670c3) Enable android tests#13 - MariooW</sub> |
 | <sub>2022-10-05 07:37:08</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602)</sub> | <sub>[04eb188](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 07:32:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3)</sub> | <sub>[947d2ff](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3) Enable android tests#12 - MariooW</sub> |
-| <sub>2022-10-05 06:28:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354)</sub> | <sub>[886d789](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354) Enable android tests#11 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
