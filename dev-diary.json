@@ -62712,5 +62712,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 10:00:50.363000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`32ac28e`](https://github.com/SimplioOfficial/simplio-app/commit/32ac28e2eb6ea0113da5613beb3887c2a953afe4) chore: delete duplicate unused service - ciripel\n[`6ac086a`](https://github.com/SimplioOfficial/simplio-app/commit/6ac086a56f02b88e06aa69eb3269a18d2339493a) register swap endpoints - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0275614f5f3d...6ac086a56f02"
+    }
   }
 ]
