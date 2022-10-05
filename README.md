@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3497 commits since 10/09/2021. You can see the complete history in
+There is a total of 3498 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-05 10:52:51</sub> | <sub>[[simplio-app:task/236\-colors\-refactoring] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c)</sub> | <sub>[b74c497](https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c) Completed task/236-colors-refactoring - Tomáš Petrík</sub> |
 | <sub>2022-10-05 10:00:50</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0275614f5f3d...6ac086a56f02)</sub> | <sub>[32ac28e](https://github.com/SimplioOfficial/simplio-app/commit/32ac28e2eb6ea0113da5613beb3887c2a953afe4) chore: delete duplicate unused service - ciripel<br>[6ac086a](https://github.com/SimplioOfficial/simplio-app/commit/6ac086a56f02b88e06aa69eb3269a18d2339493a) register swap endpoints - ciripel</sub> |
 | <sub>2022-10-05 08:38:07</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073)</sub> | <sub>[567ae27](https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073) Enable android tests#14 - MariooW</sub> |
 | <sub>2022-10-05 08:16:57</sub> | <sub>[[backend-litecoin-wallet-lib:develop] 4 new commits](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/e9e2e106d590...814fa9a9eb1e)</sub> | <sub>[c0ba684](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/c0ba684ee7c2f11823231872c63317aa51fc1c6f) feat: update dependencies and configuration - PitTxid<br>[50e7b8b](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/50e7b8b7fe0347df655bb5036a49ab9713f193d1) feat: update ltc derive path - PitTxid<br>[4116441](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/411644198b59b16eb9e38d81ecdb1be0583267db) feat: update ltc address test - PitTxid<br>[814fa9a](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/814fa9a9eb1ea4ee9578419862a7252ab31874fc) Merge pull request #8 from SimplioOfficial/2-ge... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3497 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-05 07:37:08</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602)</sub> | <sub>[04eb188](https://github.com/SimplioOfficial/simplio-app/commit/04eb188c1ff800cd09b62a6fb8b1a4878e2af602) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 07:32:13</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3)</sub> | <sub>[947d2ff](https://github.com/SimplioOfficial/simplio-app/commit/947d2ffeb3959c4b755e559c778604ad029402f3) Enable android tests#12 - MariooW</sub> |
 | <sub>2022-10-05 06:28:19</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354)</sub> | <sub>[886d789](https://github.com/SimplioOfficial/simplio-app/commit/886d789ba917bf1d8568f56fe17ffe286d657354) Enable android tests#11 - MariooW</sub> |
-| <sub>2022-10-05 06:17:34</sub> | <sub>[[backend-litecoin-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315)</sub> | <sub>[e9e2e10](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315) feat: init - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -62730,5 +62730,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/0275614f5f3d...6ac086a56f02"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 10:52:51.397000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b74c497`](https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c) Completed task/236-colors-refactoring - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/236\\-colors\\-refactoring] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b74c497c8195b3ef4ef1fedc802e6691c874191c"
+    }
   }
 ]
