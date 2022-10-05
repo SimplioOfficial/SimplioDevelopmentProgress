@@ -62551,5 +62551,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 06:17:34.480000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e9e2e10`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315) feat: init - PitTxid",
+      "title": "[backend-litecoin-wallet-lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/e9e2e106d590e629eb2463ffb5dc8bbfd7bb1315"
+    }
   }
 ]
