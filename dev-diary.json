@@ -62694,5 +62694,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/e9e2e106d590...814fa9a9eb1e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-05 08:38:07.977000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`567ae27`](https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073) Enable android tests#14 - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/567ae270a759207d6e8cab4a4f1f60ad2e936073"
+    }
   }
 ]
