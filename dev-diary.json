@@ -63052,5 +63052,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/95ba293cbf344039c4027a2931a05c11bd7baa05"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 15:45:30.852000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`87a0b84`](https://github.com/SimplioOfficial/simplio-app/commit/87a0b84be6f75782f8dc5ae8b2abc8750f563ee4) wip: load exchange from assets from BE - jvrastil",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/87a0b84be6f75782f8dc5ae8b2abc8750f563ee4"
+    }
   }
 ]
