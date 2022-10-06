@@ -62856,5 +62856,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/305a2a2cdae55654fe8c4d9c899ca2b9f2fe97e1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 11:33:41.149000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4780428`](https://github.com/SimplioOfficial/simplio-app/commit/47804280bb181b510f157a20a8cddf5417cf192e) wip: adjusted SingleSwapBody - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/47804280bb181b510f157a20a8cddf5417cf192e"
+    }
   }
 ]
