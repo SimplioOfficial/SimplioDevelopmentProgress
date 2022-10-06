@@ -62838,5 +62838,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d94e093b9061e93c357163d25ce33e16b3e964bc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 11:23:03.250000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`305a2a2`](https://github.com/SimplioOfficial/simplio-app/commit/305a2a2cdae55654fe8c4d9c899ca2b9f2fe97e1) 1. Fixed colors bugs on some screens and compon... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/236\\-colors\\-refactoring] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/305a2a2cdae55654fe8c4d9c899ca2b9f2fe97e1"
+    }
   }
 ]
