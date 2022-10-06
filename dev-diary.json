@@ -62891,5 +62891,40 @@
       "title": "[simplio-app] Branch task/230\\-buy\\_form\\_ui was force-pushed to `d816762`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 13:27:24.955000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d8167627d2f9...c9f6a3c164b6)",
+      "title": "[simplio-app] Branch task/230\\-buy\\_form\\_ui was force-pushed to `c9f6a3c`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 13:28:25.337000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`9a3df16`](https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8) change before code review - jvrastil",
+      "title": "[simplio-app:task/230\\-buy\\_form\\_ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8"
+    }
   }
 ]

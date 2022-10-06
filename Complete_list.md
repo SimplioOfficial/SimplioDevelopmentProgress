@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-06 13:28:25</sub> | <sub>[[simplio-app:task/230\-buy\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8)</sub> | <sub>[9a3df16](https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8) change before code review - jvrastil</sub> |
+| <sub>2022-10-06 13:27:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d8167627d2f9...c9f6a3c164b6)</sub> |
 | <sub>2022-10-06 12:39:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/cbc016ab7c8b...d8167627d2f9)</sub> |
 | <sub>2022-10-06 11:33:41</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/47804280bb181b510f157a20a8cddf5417cf192e)</sub> | <sub>[4780428](https://github.com/SimplioOfficial/simplio-app/commit/47804280bb181b510f157a20a8cddf5417cf192e) wip: adjusted SingleSwapBody - ciripel</sub> |
 | <sub>2022-10-06 11:23:03</sub> | <sub>[[simplio-app:task/236\-colors\-refactoring] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/305a2a2cdae55654fe8c4d9c899ca2b9f2fe97e1)</sub> | <sub>[305a2a2](https://github.com/SimplioOfficial/simplio-app/commit/305a2a2cdae55654fe8c4d9c899ca2b9f2fe97e1) 1. Fixed colors bugs on some screens and compon... - Tomáš Petrík</sub> |
