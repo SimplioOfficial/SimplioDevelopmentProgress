@@ -62962,5 +62962,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8c9694717258d26f476479a831add9171d5d45f6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 15:20:12.098000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a956a4c`](https://github.com/SimplioOfficial/simplio-app/commit/a956a4c57caf02c6d56c10afe62ee4f5f5e1e120) removing unused import - storkandstars",
+      "title": "[simplio-app:task/223\\-buy\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a956a4c57caf02c6d56c10afe62ee4f5f5e1e120"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 15:21:03.240000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0d8fb12`](https://github.com/SimplioOfficial/simplio-app/commit/0d8fb128763eb9803afbcea6b5bceb305d3232f1) removing unnecessary future - storkandstars",
+      "title": "[simplio-app:task/223\\-buy\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0d8fb128763eb9803afbcea6b5bceb305d3232f1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-06 15:24:44.541000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9f64a48`](https://github.com/SimplioOfficial/simplio-app/commit/9f64a4864ca8863697e3e5a67e40c471edd1fa57) removing unrelated changes - storkandstars",
+      "title": "[simplio-app:task/223\\-buy\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9f64a4864ca8863697e3e5a67e40c471edd1fa57"
+    }
   }
 ]
