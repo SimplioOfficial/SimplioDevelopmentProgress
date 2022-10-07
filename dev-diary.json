@@ -63178,5 +63178,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/1e72e8fdaff9...31327ecf3bf9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 01:57:25.647000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`0fe7f42`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/0fe7f4224c68e942a9a337e2c60798246010b93d) chore(release): 1.0.0 - PitTxid",
+      "title": "[backend-litecoin-wallet-lib:] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/0fe7f4224c68e942a9a337e2c60798246010b93d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 01:59:34.193000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c0ba684`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/c0ba684ee7c2f11823231872c63317aa51fc1c6f) feat: update dependencies and configuration - PitTxid\n[`50e7b8b`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/50e7b8b7fe0347df655bb5036a49ab9713f193d1) feat: update ltc derive path - PitTxid\n[`4116441`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/411644198b59b16eb9e38d81ecdb1be0583267db) feat: update ltc address test - PitTxid\n[`814fa9a`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/814fa9a9eb1ea4ee9578419862a7252ab31874fc) Merge pull request #8 from SimplioOfficial/2-ge... - PitTxid\n[`4d3369d`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06) feat: update test fee - PitTxid",
+      "title": "[backend-litecoin-wallet-lib:master] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/e9e2e106d590...5bc51a001f47"
+    }
   }
 ]
