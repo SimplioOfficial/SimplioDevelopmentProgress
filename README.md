@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3545 commits since 10/09/2021. You can see the complete history in
+There is a total of 3546 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-07 19:45:42</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/961a36ae6037fe14af673e866b14bec61c173fe7)</sub> | <sub>[961a36a](https://github.com/SimplioOfficial/simplio-app/commit/961a36ae6037fe14af673e866b14bec61c173fe7) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 19:42:02</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54a2d023d076b19cfcfc59b46fc1cf0eedb22389)</sub> | <sub>[54a2d02](https://github.com/SimplioOfficial/simplio-app/commit/54a2d023d076b19cfcfc59b46fc1cf0eedb22389) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 19:28:20</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3f2f8a83e46d37de94c493821159f9fc32f3cde)</sub> | <sub>[e3f2f8a](https://github.com/SimplioOfficial/simplio-app/commit/e3f2f8a83e46d37de94c493821159f9fc32f3cde) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 19:21:35</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24828c423ef7ebdaf47dffec59f7a51b99199756)</sub> | <sub>[24828c4](https://github.com/SimplioOfficial/simplio-app/commit/24828c423ef7ebdaf47dffec59f7a51b99199756) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3545 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-07 17:07:54</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec5f5ff9dacbcea3eed236d252a0be189c6d001c)</sub> | <sub>[ec5f5ff](https://github.com/SimplioOfficial/simplio-app/commit/ec5f5ff9dacbcea3eed236d252a0be189c6d001c) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 17:07:29</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9840ddbddb8093facc0aeeb357680c6622eea130)</sub> | <sub>[9840ddb](https://github.com/SimplioOfficial/simplio-app/commit/9840ddbddb8093facc0aeeb357680c6622eea130) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 15:23:46</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ab1877a85b9c3de7802447b9993281c343d0a53)</sub> | <sub>[8ab1877](https://github.com/SimplioOfficial/simplio-app/commit/8ab1877a85b9c3de7802447b9993281c343d0a53) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
-| <sub>2022-10-07 15:01:28</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60e9f503ac72fddefcde3a8a55ac62264d00a4e8)</sub> | <sub>[60e9f50](https://github.com/SimplioOfficial/simplio-app/commit/60e9f503ac72fddefcde3a8a55ac62264d00a4e8) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
