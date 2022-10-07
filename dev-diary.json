@@ -63070,5 +63070,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/87a0b84be6f75782f8dc5ae8b2abc8750f563ee4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 01:44:49.281000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4d3369d`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06) feat: update test fee - PitTxid",
+      "title": "[backend-litecoin-wallet-lib:3\\-estimate\\-fee\\-for\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 01:45:00.002000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4d3369d`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06) feat: update test fee - PitTxid\n[`ea61019`](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/ea6101977f04ef97dfe4bda9083500452d7f6815) Merge pull request #9 from SimplioOfficial/3-es... - PitTxid",
+      "title": "[backend-litecoin-wallet-lib:develop] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/814fa9a9eb1e...ea6101977f04"
+    }
   }
 ]

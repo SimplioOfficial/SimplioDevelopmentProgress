@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3516 commits since 10/09/2021. You can see the complete history in
+There is a total of 3518 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-07 01:45:00</sub> | <sub>[[backend-litecoin-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/814fa9a9eb1e...ea6101977f04)</sub> | <sub>[4d3369d](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06) feat: update test fee - PitTxid<br>[ea61019](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/ea6101977f04ef97dfe4bda9083500452d7f6815) Merge pull request #9 from SimplioOfficial/3-es... - PitTxid</sub> |
+| <sub>2022-10-07 01:44:49</sub> | <sub>[[backend-litecoin-wallet-lib:3\-estimate\-fee\-for\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06)</sub> | <sub>[4d3369d](https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/commit/4d3369d3c726ed0ed981158d6a17c514475edc06) feat: update test fee - PitTxid</sub> |
 | <sub>2022-10-06 15:45:30</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87a0b84be6f75782f8dc5ae8b2abc8750f563ee4)</sub> | <sub>[87a0b84](https://github.com/SimplioOfficial/simplio-app/commit/87a0b84be6f75782f8dc5ae8b2abc8750f563ee4) wip: load exchange from assets from BE - jvrastil</sub> |
 | <sub>2022-10-06 15:31:17</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95ba293cbf344039c4027a2931a05c11bd7baa05)</sub> | <sub>[95ba293](https://github.com/SimplioOfficial/simplio-app/commit/95ba293cbf344039c4027a2931a05c11bd7baa05) removing nesting - storkandstars</sub> |
 | <sub>2022-10-06 15:28:37</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0461d371c0259f4035405e066d65f11344764f5f)</sub> | <sub>[0461d37](https://github.com/SimplioOfficial/simplio-app/commit/0461d371c0259f4035405e066d65f11344764f5f) reading code value from error - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 3516 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-06 15:20:12</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a956a4c57caf02c6d56c10afe62ee4f5f5e1e120)</sub> | <sub>[a956a4c](https://github.com/SimplioOfficial/simplio-app/commit/a956a4c57caf02c6d56c10afe62ee4f5f5e1e120) removing unused import - storkandstars</sub> |
 | <sub>2022-10-06 15:16:55</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c9694717258d26f476479a831add9171d5d45f6)</sub> | <sub>[8c96947](https://github.com/SimplioOfficial/simplio-app/commit/8c9694717258d26f476479a831add9171d5d45f6) migrating to a new interface - storkandstars</sub> |
 | <sub>2022-10-06 13:31:52</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10a92bc75ce17bd2b9e61b27ce7d715f9456daea)</sub> | <sub>[10a92bc](https://github.com/SimplioOfficial/simplio-app/commit/10a92bc75ce17bd2b9e61b27ce7d715f9456daea) wip: loaded swap routes - ciripel</sub> |
-| <sub>2022-10-06 13:28:25</sub> | <sub>[[simplio-app:task/230\-buy\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8)</sub> | <sub>[9a3df16](https://github.com/SimplioOfficial/simplio-app/commit/9a3df1691212197845e53a1887dac59a9fef84a8) change before code review - jvrastil</sub> |
-| <sub>2022-10-06 13:27:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d8167627d2f9...c9f6a3c164b6)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
