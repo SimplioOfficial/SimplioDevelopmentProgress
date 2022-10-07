@@ -63250,5 +63250,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-litecoin-wallet-lib/compare/31327ecf3bf9...fe74c45f3a53"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 02:10:07.899000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`38a7079`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/38a7079212c97b9b2b95d547694acfc9d8ff39ff) feat: init - PitTxid",
+      "title": "[backend-digibyte-wallet-lib:develop] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/38a7079212c97b9b2b95d547694acfc9d8ff39ff"
+    }
   }
 ]
