@@ -63376,5 +63376,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9bee07367c80a119e67d86093892cc54b2fc3b08"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 13:41:13.136000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`d580fc4`](https://github.com/SimplioOfficial/simplio-app/commit/d580fc4bafcf50b41f0e8d18c338d86722931d08) Infrastructure/194 - Release new dev version wi... - jvrastil",
+      "title": "[simplio-app:infrastructure/194\\-release\\_version\\_from\\_tag] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d580fc4bafcf50b41f0e8d18c338d86722931d08"
+    }
   }
 ]
