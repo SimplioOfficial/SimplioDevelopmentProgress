@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3536 commits since 10/09/2021. You can see the complete history in
+There is a total of 3537 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-07 15:23:46</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ab1877a85b9c3de7802447b9993281c343d0a53)</sub> | <sub>[8ab1877](https://github.com/SimplioOfficial/simplio-app/commit/8ab1877a85b9c3de7802447b9993281c343d0a53) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 15:01:28</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60e9f503ac72fddefcde3a8a55ac62264d00a4e8)</sub> | <sub>[60e9f50](https://github.com/SimplioOfficial/simplio-app/commit/60e9f503ac72fddefcde3a8a55ac62264d00a4e8) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 14:15:32</sub> | <sub>[[simplio-app:task/236\-colors\-refactoring] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ac9d0620c518b10608bbaba7ff8f21a543ea826)</sub> | <sub>[2ac9d06](https://github.com/SimplioOfficial/simplio-app/commit/2ac9d0620c518b10608bbaba7ff8f21a543ea826) Removed unused variable 'networkDetail' - Tomáš Petrík</sub> |
 | <sub>2022-10-07 13:41:13</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d580fc4bafcf50b41f0e8d18c338d86722931d08)</sub> | <sub>[d580fc4](https://github.com/SimplioOfficial/simplio-app/commit/d580fc4bafcf50b41f0e8d18c338d86722931d08) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3536 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-07 10:18:38</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19ee1f97d56e199c34124d63adcb303e9768358a)</sub> | <sub>[19ee1f9](https://github.com/SimplioOfficial/simplio-app/commit/19ee1f97d56e199c34124d63adcb303e9768358a) wip: working on swap repo/cubit - ciripel</sub> |
 | <sub>2022-10-07 08:59:27</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af6387b312bc7df30d1c292a4e43928306636b28)</sub> | <sub>[af6387b](https://github.com/SimplioOfficial/simplio-app/commit/af6387b312bc7df30d1c292a4e43928306636b28) wip: add maxButton functionality - ciripel</sub> |
 | <sub>2022-10-07 08:46:52</sub> | <sub>[[simplio-app:task/230\-buy\_form\_ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/93174467a314cbb4f1f9da49c4156d666ffdc077)</sub> | <sub>[9317446](https://github.com/SimplioOfficial/simplio-app/commit/93174467a314cbb4f1f9da49c4156d666ffdc077) changes before code review - jvrastil</sub> |
-| <sub>2022-10-07 02:10:07</sub> | <sub>[[backend-digibyte-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/38a7079212c97b9b2b95d547694acfc9d8ff39ff)</sub> | <sub>[38a7079](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/38a7079212c97b9b2b95d547694acfc9d8ff39ff) feat: init - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
