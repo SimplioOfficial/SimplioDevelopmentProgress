@@ -63322,5 +63322,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/19ee1f97d56e199c34124d63adcb303e9768358a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 11:46:18.145000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1282884`](https://github.com/SimplioOfficial/simplio-app/commit/12828846ac839b39b38b507e67ed52088a57f4b0) Fixed PR's issues - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/236\\-colors\\-refactoring] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/12828846ac839b39b38b507e67ed52088a57f4b0"
+    }
   }
 ]
