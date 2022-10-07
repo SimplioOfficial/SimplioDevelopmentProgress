@@ -63304,5 +63304,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/af6387b312bc7df30d1c292a4e43928306636b28"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-07 10:18:38.512000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`19ee1f9`](https://github.com/SimplioOfficial/simplio-app/commit/19ee1f97d56e199c34124d63adcb303e9768358a) wip: working on swap repo/cubit - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/19ee1f97d56e199c34124d63adcb303e9768358a"
+    }
   }
 ]
