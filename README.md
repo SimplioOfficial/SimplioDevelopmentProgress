@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3558 commits since 10/09/2021. You can see the complete history in
+There is a total of 3559 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-08 10:57:20</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3bd4f251012198e164ee03c99678c0fea8b61857)</sub> | <sub>[3bd4f25](https://github.com/SimplioOfficial/simplio-app/commit/3bd4f251012198e164ee03c99678c0fea8b61857) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-08 10:41:29</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f5c936e6b586625fc4711452325dbb433fe0c0f)</sub> | <sub>[1f5c936](https://github.com/SimplioOfficial/simplio-app/commit/1f5c936e6b586625fc4711452325dbb433fe0c0f) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-08 10:29:06</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74bb008dd9f6d68a3ed1ffe87c58a695b937cc44)</sub> | <sub>[74bb008](https://github.com/SimplioOfficial/simplio-app/commit/74bb008dd9f6d68a3ed1ffe87c58a695b937cc44) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-08 10:03:00</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b7c886ee8833f03d87fae09fa2cf6aaaf23aa817)</sub> | <sub>[b7c886e](https://github.com/SimplioOfficial/simplio-app/commit/b7c886ee8833f03d87fae09fa2cf6aaaf23aa817) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3558 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-08 07:58:06</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/95ba293cbf34...9d9ae2f88844)</sub> | <sub>[806b57f](https://github.com/SimplioOfficial/simplio-app/commit/806b57f76e2d9a92692fd3b45d13eaeef066b939) Task/193 swap form UI (#227) - jvrastil<br>[0275614](https://github.com/SimplioOfficial/simplio-app/commit/0275614f5f3dc20d13ea1467255eaba2fc0072e7) task/209-slidable-banner (#238) - TomasPetrik<br>[9d9ae2f](https://github.com/SimplioOfficial/simplio-app/commit/9d9ae2f8884463ef90e8d242b5a4237e6506f007) Merge branch 'master' into task/223-buy-logic-i... - storkandstars</sub> |
 | <sub>2022-10-08 07:54:21</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faa13ce7a221edbba2203626f56adc416174fd5b)</sub> | <sub>[faa13ce](https://github.com/SimplioOfficial/simplio-app/commit/faa13ce7a221edbba2203626f56adc416174fd5b) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-08 07:32:37</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec38f6668a1cbf07e4ea9856be769ce5634c2dea)</sub> | <sub>[ec38f66](https://github.com/SimplioOfficial/simplio-app/commit/ec38f6668a1cbf07e4ea9856be769ce5634c2dea) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
-| <sub>2022-10-08 07:17:03</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66e72a2df720014df90d5f15b01c53e567bd67c6)</sub> | <sub>[66e72a2](https://github.com/SimplioOfficial/simplio-app/commit/66e72a2df720014df90d5f15b01c53e567bd67c6) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
