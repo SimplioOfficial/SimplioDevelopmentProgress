@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3547 commits since 10/09/2021. You can see the complete history in
+There is a total of 3548 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-08 06:36:16</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9332f9735f4258d1263cf285bd8288cf96e43c73)</sub> | <sub>[9332f97](https://github.com/SimplioOfficial/simplio-app/commit/9332f9735f4258d1263cf285bd8288cf96e43c73) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 21:13:26</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a86d9cffe88b...aa58e27a520c)</sub> | <sub>[49dc6c4](https://github.com/SimplioOfficial/simplio-app/commit/49dc6c44c4537a95e9ad1a1e8be5c5b49a63a174) wip: updated swap service - ciripel<br>[aa58e27](https://github.com/SimplioOfficial/simplio-app/commit/aa58e27a520c36cd341cfa9c519fe494efd6b589) wip: implement startSwap method in swap_repository - ciripel</sub> |
 | <sub>2022-10-07 19:45:42</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/961a36ae6037fe14af673e866b14bec61c173fe7)</sub> | <sub>[961a36a](https://github.com/SimplioOfficial/simplio-app/commit/961a36ae6037fe14af673e866b14bec61c173fe7) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 19:42:02</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54a2d023d076b19cfcfc59b46fc1cf0eedb22389)</sub> | <sub>[54a2d02](https://github.com/SimplioOfficial/simplio-app/commit/54a2d023d076b19cfcfc59b46fc1cf0eedb22389) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3547 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-07 17:14:09</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76d96135930185114aa17ef65b1b01d1fc5abfe3)</sub> | <sub>[76d9613](https://github.com/SimplioOfficial/simplio-app/commit/76d96135930185114aa17ef65b1b01d1fc5abfe3) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 17:11:44</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e86d688f14364735bbbc876c41fc4d354097e3d4)</sub> | <sub>[e86d688](https://github.com/SimplioOfficial/simplio-app/commit/e86d688f14364735bbbc876c41fc4d354097e3d4) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-07 17:07:54</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec5f5ff9dacbcea3eed236d252a0be189c6d001c)</sub> | <sub>[ec5f5ff](https://github.com/SimplioOfficial/simplio-app/commit/ec5f5ff9dacbcea3eed236d252a0be189c6d001c) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
-| <sub>2022-10-07 17:07:29</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9840ddbddb8093facc0aeeb357680c6622eea130)</sub> | <sub>[9840ddb](https://github.com/SimplioOfficial/simplio-app/commit/9840ddbddb8093facc0aeeb357680c6622eea130) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
