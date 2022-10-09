@@ -63934,5 +63934,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/960b1281a920a910397068d0b7aa5105d1bd3a72"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-09 07:47:24.887000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b60469e`](https://github.com/SimplioOfficial/simplio-app/commit/b60469eb140bd14aa296e97959dea5678b07c252) wip: implement temporary notifySentTx - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b60469eb140bd14aa296e97959dea5678b07c252"
+    }
   }
 ]
