@@ -63988,5 +63988,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/51cc45225b6a504e7ae8d0b2c19c9ca55c3e9968"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-09 14:35:48.107000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c5fc3fa`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/c5fc3fa84774cb8a097cdf67662d0753b2b6edc8) feat: create transation successfully - PitTxid\n[`1c3edea`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/1c3edea5eb238857fbbc65e62b98bde5a954fb43) feat: update readme - PitTxid\n[`6fe698b`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/6fe698b1a06524f637c93e64fe7f51b70371f10e) chore(release): 1.0.0 - PitTxid\n[`51cc452`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/51cc45225b6a504e7ae8d0b2c19c9ca55c3e9968) feat: update package name - PitTxid\n[`b428a1a`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/b428a1aee9ba10b0dad999ec1a9a070863a1b688) Merge pull request #4 from SimplioOfficial/3-cr... - PitTxid",
+      "title": "[backend-digibyte-wallet-lib:develop] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/compare/38a7079212c9...b428a1aee9ba"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-09 14:37:37.004000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`c5fc3fa`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/c5fc3fa84774cb8a097cdf67662d0753b2b6edc8) feat: create transation successfully - PitTxid\n[`1c3edea`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/1c3edea5eb238857fbbc65e62b98bde5a954fb43) feat: update readme - PitTxid\n[`6fe698b`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/6fe698b1a06524f637c93e64fe7f51b70371f10e) chore(release): 1.0.0 - PitTxid\n[`51cc452`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/51cc45225b6a504e7ae8d0b2c19c9ca55c3e9968) feat: update package name - PitTxid\n[`e168079`](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/e16807920679ade3f61bb937b8c575bbd8602859) Merge pull request #5 from SimplioOfficial/rc1 - PitTxid",
+      "title": "[backend-digibyte-wallet-lib:master] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/compare/38a7079212c9...e16807920679"
+    }
   }
 ]
