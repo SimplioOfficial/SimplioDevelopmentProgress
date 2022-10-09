@@ -64024,5 +64024,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/compare/38a7079212c9...e16807920679"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-09 22:57:29.797000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`e56476e`](https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443) Adding env variable - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443"
+    }
   }
 ]
