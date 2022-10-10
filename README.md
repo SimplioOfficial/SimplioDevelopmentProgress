@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3578 commits since 10/09/2021. You can see the complete history in
+There is a total of 3579 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 07:30:20</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c878b86ec1b8a05c7dcbdc478ea441e7d4ddad05)</sub> | <sub>[c878b86](https://github.com/SimplioOfficial/simplio-app/commit/c878b86ec1b8a05c7dcbdc478ea441e7d4ddad05) Reformat Code#4 - MariooW</sub> |
 | <sub>2022-10-10 07:28:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bd77c2acab6a...6c1c138cf83a)</sub> |
 | <sub>2022-10-10 07:20:42</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/059bcc79d0a95d2a569f1723dab3892eb978b894)</sub> | <sub>[059bcc7](https://github.com/SimplioOfficial/simplio-app/commit/059bcc79d0a95d2a569f1723dab3892eb978b894) Disabling Andrpid part on tests (#252) - MariooW</sub> |
 | <sub>2022-10-10 07:16:06</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd77c2acab6a6484078908d2e57ff42a16188562)</sub> | <sub>[bd77c2a](https://github.com/SimplioOfficial/simplio-app/commit/bd77c2acab6a6484078908d2e57ff42a16188562) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3578 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 00:06:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ba64d3c250a9ccdc798ea186f82353bb6e91e73)</sub> | <sub>[5ba64d3](https://github.com/SimplioOfficial/simplio-app/commit/5ba64d3c250a9ccdc798ea186f82353bb6e91e73) Reformat Code - MariooW</sub> |
 | <sub>2022-10-09 23:00:29</sub> | <sub>[[simplio-app:test/disabling\_android\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2f958acb6e55db3624eb0b31d0cd5c72a5abc8c)</sub> | <sub>[b2f958a](https://github.com/SimplioOfficial/simplio-app/commit/b2f958acb6e55db3624eb0b31d0cd5c72a5abc8c) Disabling Andrpid part on tests - MariooW</sub> |
 | <sub>2022-10-09 22:57:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443)</sub> | <sub>[e56476e](https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443) Adding env variable - MariooW</sub> |
-| <sub>2022-10-09 14:37:37</sub> | <sub>[[backend-digibyte-wallet-lib:master] 5 new commits](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/compare/38a7079212c9...e16807920679)</sub> | <sub>[c5fc3fa](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/c5fc3fa84774cb8a097cdf67662d0753b2b6edc8) feat: create transation successfully - PitTxid<br>[1c3edea](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/1c3edea5eb238857fbbc65e62b98bde5a954fb43) feat: update readme - PitTxid<br>[6fe698b](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/6fe698b1a06524f637c93e64fe7f51b70371f10e) chore(release): 1.0.0 - PitTxid<br>[51cc452](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/51cc45225b6a504e7ae8d0b2c19c9ca55c3e9968) feat: update package name - PitTxid<br>[e168079](https://github.com/SimplioOfficial/backend-digibyte-wallet-lib/commit/e16807920679ade3f61bb937b8c575bbd8602859) Merge pull request #5 from SimplioOfficial/rc1 - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
