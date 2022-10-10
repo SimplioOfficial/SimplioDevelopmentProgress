@@ -64256,5 +64256,22 @@
       "title": "[simplio-app] Branch infrastructure/194\\-release\\_version\\_from\\_tag was force-pushed to `71d840a`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-10 08:15:17.160000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b60469eb140b...3fb0c1d3e131)",
+      "title": "[simplio-app] Branch task/222\\-swap\\-logic\\-implementation was force-pushed to `3fb0c1d`",
+      "type": "rich"
+    }
   }
 ]
