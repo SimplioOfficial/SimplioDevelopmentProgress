@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 07:28:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bd77c2acab6a...6c1c138cf83a)</sub> |
 | <sub>2022-10-10 07:20:42</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/059bcc79d0a95d2a569f1723dab3892eb978b894)</sub> | <sub>[059bcc7](https://github.com/SimplioOfficial/simplio-app/commit/059bcc79d0a95d2a569f1723dab3892eb978b894) Disabling Andrpid part on tests (#252) - MariooW</sub> |
 | <sub>2022-10-10 07:16:06</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd77c2acab6a6484078908d2e57ff42a16188562)</sub> | <sub>[bd77c2a](https://github.com/SimplioOfficial/simplio-app/commit/bd77c2acab6a6484078908d2e57ff42a16188562) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-10 07:02:04</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5c94ecc5cf6a0844d85c01a3bfc3264815cbe9e)</sub> | <sub>[e5c94ec](https://github.com/SimplioOfficial/simplio-app/commit/e5c94ecc5cf6a0844d85c01a3bfc3264815cbe9e) Reformat Code#3 - MariooW</sub> |
