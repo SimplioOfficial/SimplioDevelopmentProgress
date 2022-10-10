@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3601 commits since 10/09/2021. You can see the complete history in
+There is a total of 3602 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 23:04:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0a015496e160...da6decbea44e)</sub> | <sub>[3b1c7c0](https://github.com/SimplioOfficial/simplio-app/commit/3b1c7c0c8f405e7bbe38e0197f50ca173b5c8198) Task/196 coin detail screen (#204) - TomasPetrik<br>[d3e6b26](https://github.com/SimplioOfficial/simplio-app/commit/d3e6b266c63b33281a93d7e79e83f3a966022374) Task/175 implement walletconnect v1 (#206) - storkandstars<br>[453ba5c](https://github.com/SimplioOfficial/simplio-app/commit/453ba5c938042151f7dea65107303732fdc4d920) Task/215 games search in discovery (#216) - TomasPetrik<br>[26e0bdd](https://github.com/SimplioOfficial/simplio-app/commit/26e0bdd1809c033c2a219363e77d20d10eccd0b4) Task/141 update network wallet balance (#217) - storkandstars<br>[3057889](https://github.com/SimplioOfficial/simplio-app/commit/3057889df2fbbe9cf991c6f4e5c3dbeb7d5c1ee3) Bug/213 incorrectly entered pin does not save t... - storkandstars</sub> |
 | <sub>2022-10-10 22:44:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a015496e1602a993a3525aa74bd5c7a8d894f12)</sub> | <sub>[0a01549](https://github.com/SimplioOfficial/simplio-app/commit/0a015496e1602a993a3525aa74bd5c7a8d894f12) Tests of env variables#5 - MariooW</sub> |
 | <sub>2022-10-10 22:17:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad)</sub> | <sub>[c05868b](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad) Tests of env variables#4 - MariooW</sub> |
 | <sub>2022-10-10 22:02:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900)</sub> | <sub>[e381875](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900) Tests of env variables#3 - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3601 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 15:28:50</sub> | <sub>[[simplio-app:task/255\-Crypto\-icons\-library] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cf7218405ca5abf195dd0ee301750bd12c874255)</sub> | <sub>[cf72184](https://github.com/SimplioOfficial/simplio-app/commit/cf7218405ca5abf195dd0ee301750bd12c874255) Completed task/255-crypto-icons-library - Tomáš Petrík</sub> |
 | <sub>2022-10-10 13:49:03</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73073cde599fa73e1e0e40b6bc411cf740efb60b)</sub> | <sub>[73073cd](https://github.com/SimplioOfficial/simplio-app/commit/73073cde599fa73e1e0e40b6bc411cf740efb60b) wip: passing ball to honza - ciripel</sub> |
 | <sub>2022-10-10 12:55:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/96128a352864...568ab087f644)</sub> |
-| <sub>2022-10-10 12:23:58</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232)</sub> | <sub>[75977cb](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232) wip: fix cache isValid - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
