@@ -64096,5 +64096,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5d22ac4e7e1a2450beb6543a55e5ea15d8bb8ea7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-10 06:30:52.790000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f8b7703`](https://github.com/SimplioOfficial/simplio-app/commit/f8b7703df5dbc66b79dc13face0633a4ec835214) Reformat Code#2 - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f8b7703df5dbc66b79dc13face0633a4ec835214"
+    }
   }
 ]
