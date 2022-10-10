@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 13:49:03</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73073cde599fa73e1e0e40b6bc411cf740efb60b)</sub> | <sub>[73073cd](https://github.com/SimplioOfficial/simplio-app/commit/73073cde599fa73e1e0e40b6bc411cf740efb60b) wip: passing ball to honza - ciripel</sub> |
 | <sub>2022-10-10 12:55:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/96128a352864...568ab087f644)</sub> |
 | <sub>2022-10-10 12:23:58</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232)</sub> | <sub>[75977cb](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232) wip: fix cache isValid - ciripel</sub> |
 | <sub>2022-10-10 10:53:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b)</sub> | <sub>[f46b597](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b) wip: fixing incorrect unit calculation - jvrastil</sub> |
