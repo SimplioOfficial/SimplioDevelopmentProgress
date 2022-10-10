@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 05:29:05</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d22ac4e7e1a2450beb6543a55e5ea15d8bb8ea7)</sub> | <sub>[5d22ac4](https://github.com/SimplioOfficial/simplio-app/commit/5d22ac4e7e1a2450beb6543a55e5ea15d8bb8ea7) Reformat Code - MariooW</sub> |
 | <sub>2022-10-10 00:06:57</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ba64d3c250a9ccdc798ea186f82353bb6e91e73)</sub> | <sub>[5ba64d3](https://github.com/SimplioOfficial/simplio-app/commit/5ba64d3c250a9ccdc798ea186f82353bb6e91e73) Reformat Code - MariooW</sub> |
 | <sub>2022-10-09 23:00:29</sub> | <sub>[[simplio-app:test/disabling\_android\_tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2f958acb6e55db3624eb0b31d0cd5c72a5abc8c)</sub> | <sub>[b2f958a](https://github.com/SimplioOfficial/simplio-app/commit/b2f958acb6e55db3624eb0b31d0cd5c72a5abc8c) Disabling Andrpid part on tests - MariooW</sub> |
 | <sub>2022-10-09 22:57:29</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443)</sub> | <sub>[e56476e](https://github.com/SimplioOfficial/simplio-app/commit/e56476e1891a4b50c3804f9db48e722241a97443) Adding env variable - MariooW</sub> |
