@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 09:57:39</sub> | <sub>[[simplio-app:infrastructure/194\-release\_version\_from\_tag] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49501c1365630fd286deac4c1cae8c0e13a5e1fe)</sub> | <sub>[49501c1](https://github.com/SimplioOfficial/simplio-app/commit/49501c1365630fd286deac4c1cae8c0e13a5e1fe) changes before code review - jvrastil</sub> |
+| <sub>2022-10-10 09:55:58</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/93174467a314...96128a352864)</sub> |
 | <sub>2022-10-10 08:15:17</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b60469eb140b...3fb0c1d3e131)</sub> |
 | <sub>2022-10-10 07:52:00</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6e6034d6f6ca...71d840ab3a63)</sub> |
 | <sub>2022-10-10 07:48:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c00944f34fdfefb97d538739a4fbefaaea8a18cc)</sub> | <sub>[c00944f](https://github.com/SimplioOfficial/simplio-app/commit/c00944f34fdfefb97d538739a4fbefaaea8a18cc) Completed task/236-colors-refactoring (#247) - TomasPetrik</sub> |
