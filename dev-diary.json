@@ -64326,5 +64326,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/300dcd10c2aa680507c8f882f1630e5db13c624f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-10 10:10:09.452000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`771acd2`](https://github.com/SimplioOfficial/simplio-app/commit/771acd2abec04662ce9ff3cdd9add5a35e519044) Tests of env variables - MariooW",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/771acd2abec04662ce9ff3cdd9add5a35e519044"
+    }
   }
 ]
