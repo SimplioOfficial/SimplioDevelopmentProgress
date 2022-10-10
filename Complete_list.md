@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 10:24:12</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11e94da2c5532a6ef3b5d68f93b9e5be88b372ee)</sub> | <sub>[11e94da](https://github.com/SimplioOfficial/simplio-app/commit/11e94da2c5532a6ef3b5d68f93b9e5be88b372ee) Tests of env variables#2 - MariooW</sub> |
 | <sub>2022-10-10 10:16:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4bbc4260856e8e9d6bd9a52e4a5f188caec731c8)</sub> | <sub>[4bbc426](https://github.com/SimplioOfficial/simplio-app/commit/4bbc4260856e8e9d6bd9a52e4a5f188caec731c8) Tests of env variables - MariooW</sub> |
 | <sub>2022-10-10 10:10:09</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/771acd2abec04662ce9ff3cdd9add5a35e519044)</sub> | <sub>[771acd2](https://github.com/SimplioOfficial/simplio-app/commit/771acd2abec04662ce9ff3cdd9add5a35e519044) Tests of env variables - MariooW</sub> |
 | <sub>2022-10-10 10:06:25</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/300dcd10c2aa680507c8f882f1630e5db13c624f)</sub> | <sub>[300dcd1](https://github.com/SimplioOfficial/simplio-app/commit/300dcd10c2aa680507c8f882f1630e5db13c624f) Tests of env variables - MariooW</sub> |
