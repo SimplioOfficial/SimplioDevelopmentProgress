@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 12:55:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/96128a352864...568ab087f644)</sub> |
 | <sub>2022-10-10 12:23:58</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232)</sub> | <sub>[75977cb](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232) wip: fix cache isValid - ciripel</sub> |
 | <sub>2022-10-10 10:53:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b)</sub> | <sub>[f46b597](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b) wip: fixing incorrect unit calculation - jvrastil</sub> |
 | <sub>2022-10-10 10:28:41</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3304a9baa98d53f81f1840fa1f10749b094caf5f)</sub> | <sub>[3304a9b](https://github.com/SimplioOfficial/simplio-app/commit/3304a9baa98d53f81f1840fa1f10749b094caf5f) wip: changed cacheLifetime to 300 - ciripel</sub> |
