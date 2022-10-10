@@ -64505,5 +64505,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f2f95d1cd8dfb15b5f2d5a3d7fcb4568d63ece99"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-10 20:24:57.951000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`548dcc7`](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528) Completed task/255-crypto-icons-library (#259) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528"
+    }
   }
 ]
