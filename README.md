@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3599 commits since 10/09/2021. You can see the complete history in
+There is a total of 3600 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-10 22:17:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad)</sub> | <sub>[c05868b](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad) Tests of env variables#4 - MariooW</sub> |
 | <sub>2022-10-10 22:02:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900)</sub> | <sub>[e381875](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900) Tests of env variables#3 - MariooW</sub> |
 | <sub>2022-10-10 22:00:32</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881)</sub> | <sub>[2965a18](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881) Tests of env variables#2 - MariooW</sub> |
 | <sub>2022-10-10 20:24:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528)</sub> | <sub>[548dcc7](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528) Completed task/255-crypto-icons-library (#259) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 3599 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 12:55:25</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/96128a352864...568ab087f644)</sub> |
 | <sub>2022-10-10 12:23:58</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232)</sub> | <sub>[75977cb](https://github.com/SimplioOfficial/simplio-app/commit/75977cb34b02e490c00ee403b623565859a7b232) wip: fix cache isValid - ciripel</sub> |
 | <sub>2022-10-10 10:53:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b)</sub> | <sub>[f46b597](https://github.com/SimplioOfficial/simplio-app/commit/f46b597743b16abc1bdb0459b0ec5a59def2490b) wip: fixing incorrect unit calculation - jvrastil</sub> |
-| <sub>2022-10-10 10:28:41</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3304a9baa98d53f81f1840fa1f10749b094caf5f)</sub> | <sub>[3304a9b](https://github.com/SimplioOfficial/simplio-app/commit/3304a9baa98d53f81f1840fa1f10749b094caf5f) wip: changed cacheLifetime to 300 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
