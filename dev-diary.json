@@ -64613,5 +64613,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/0a015496e160...da6decbea44e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-10 23:41:48.668000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f2e4a2d`](https://github.com/SimplioOfficial/simplio-app/commit/f2e4a2dcff229cc54e1930a6954294afc63cf04e) Task/218 enable and disable network wallets (#226) - storkandstars\n[`93f60dc`](https://github.com/SimplioOfficial/simplio-app/commit/93f60dc530440dd6149c2e8a59287537ca5b24a5) Task/221 games in discovery screen (#229) - TomasPetrik\n[`a05e406`](https://github.com/SimplioOfficial/simplio-app/commit/a05e40681b492d68466eb5b81cc45730b97be014) Bug/212 go back gesture on authenticated app sh... - TomasPetrik\n[`46fee3b`](https://github.com/SimplioOfficial/simplio-app/commit/46fee3bc696b221fc5231a93d4d1a4d5672d2336) Bug/242 missing contractaddress param (#243) - storkandstars\n[`3c91754`](https://github.com/SimplioOfficial/simplio-app/commit/3c91754c2a7fc0d89a1e37cb87d9d686cb3280a9) Task/193 swap form UI (#227) - jvrastil",
+      "title": "[simplio-app:test/integration\\-tests\\-gherkin] 15 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/da6decbea44e...a0ba4aa89bf2"
+    }
   }
 ]
