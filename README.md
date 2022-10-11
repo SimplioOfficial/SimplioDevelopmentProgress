@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3605 commits since 10/09/2021. You can see the complete history in
+There is a total of 3606 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 08:24:10</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe)</sub> | <sub>[baa1e2f](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 07:54:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/49501c136563...63edfef193d9)</sub> |
 | <sub>2022-10-11 00:26:30</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77)</sub> | <sub>[e7e90c5](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77) Upload tests - MariooW</sub> |
 | <sub>2022-10-10 23:41:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 15 new commits](https://github.com/SimplioOfficial/simplio-app/compare/da6decbea44e...a0ba4aa89bf2)</sub> | <sub>[f2e4a2d](https://github.com/SimplioOfficial/simplio-app/commit/f2e4a2dcff229cc54e1930a6954294afc63cf04e) Task/218 enable and disable network wallets (#226) - storkandstars<br>[93f60dc](https://github.com/SimplioOfficial/simplio-app/commit/93f60dc530440dd6149c2e8a59287537ca5b24a5) Task/221 games in discovery screen (#229) - TomasPetrik<br>[a05e406](https://github.com/SimplioOfficial/simplio-app/commit/a05e40681b492d68466eb5b81cc45730b97be014) Bug/212 go back gesture on authenticated app sh... - TomasPetrik<br>[46fee3b](https://github.com/SimplioOfficial/simplio-app/commit/46fee3bc696b221fc5231a93d4d1a4d5672d2336) Bug/242 missing contractaddress param (#243) - storkandstars<br>[3c91754](https://github.com/SimplioOfficial/simplio-app/commit/3c91754c2a7fc0d89a1e37cb87d9d686cb3280a9) Task/193 swap form UI (#227) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3605 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 22:02:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900)</sub> | <sub>[e381875](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900) Tests of env variables#3 - MariooW</sub> |
 | <sub>2022-10-10 22:00:32</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881)</sub> | <sub>[2965a18](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881) Tests of env variables#2 - MariooW</sub> |
 | <sub>2022-10-10 20:24:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528)</sub> | <sub>[548dcc7](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528) Completed task/255-crypto-icons-library (#259) - TomasPetrik</sub> |
-| <sub>2022-10-10 15:38:34</sub> | <sub>[[simplio-app:task/255\-Crypto\-icons\-library] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2f95d1cd8dfb15b5f2d5a3d7fcb4568d63ece99)</sub> | <sub>[f2f95d1](https://github.com/SimplioOfficial/simplio-app/commit/f2f95d1cd8dfb15b5f2d5a3d7fcb4568d63ece99) Formatted attributes by camel case format. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
