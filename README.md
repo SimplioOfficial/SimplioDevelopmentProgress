@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3606 commits since 10/09/2021. You can see the complete history in
+There is a total of 3607 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 08:39:03</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101)</sub> | <sub>[6d83f1f](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101) 192 - tests implementatnion - reformat code - MariooW</sub> |
 | <sub>2022-10-11 08:24:10</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe)</sub> | <sub>[baa1e2f](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 07:54:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/49501c136563...63edfef193d9)</sub> |
 | <sub>2022-10-11 00:26:30</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77)</sub> | <sub>[e7e90c5](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77) Upload tests - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3606 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 22:17:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad)</sub> | <sub>[c05868b](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad) Tests of env variables#4 - MariooW</sub> |
 | <sub>2022-10-10 22:02:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900)</sub> | <sub>[e381875](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900) Tests of env variables#3 - MariooW</sub> |
 | <sub>2022-10-10 22:00:32</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881)</sub> | <sub>[2965a18](https://github.com/SimplioOfficial/simplio-app/commit/2965a184770f2379f26f182a1a95ea8271892881) Tests of env variables#2 - MariooW</sub> |
-| <sub>2022-10-10 20:24:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528)</sub> | <sub>[548dcc7](https://github.com/SimplioOfficial/simplio-app/commit/548dcc73ff296c9d2ea0be8b32e3835dbf516528) Completed task/255-crypto-icons-library (#259) - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 08:39:03</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101)</sub> | <sub>[6d83f1f](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101) 192 - tests implementatnion - reformat code - MariooW</sub> |
 | <sub>2022-10-11 08:24:10</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe)</sub> | <sub>[baa1e2f](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 07:54:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/49501c136563...63edfef193d9)</sub> |
 | <sub>2022-10-11 00:26:30</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77)</sub> | <sub>[e7e90c5](https://github.com/SimplioOfficial/simplio-app/commit/e7e90c57d9b9a5179d3126af71e47fce28aeab77) Upload tests - MariooW</sub> |
