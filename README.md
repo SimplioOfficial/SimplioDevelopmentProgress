@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3608 commits since 10/09/2021. You can see the complete history in
+There is a total of 3609 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 09:04:41</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95)</sub> | <sub>[fca2996](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 | <sub>2022-10-11 08:56:54</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bf0cc2bcc695c8d7c9066b01d488da45a6a64f0)</sub> | <sub>[7bf0cc2](https://github.com/SimplioOfficial/simplio-app/commit/7bf0cc2bcc695c8d7c9066b01d488da45a6a64f0) 192 - tests implementatnion - update Unit tests - MariooW</sub> |
 | <sub>2022-10-11 08:39:03</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101)</sub> | <sub>[6d83f1f](https://github.com/SimplioOfficial/simplio-app/commit/6d83f1fbb68e0d5659a7700d3a987a3578569101) 192 - tests implementatnion - reformat code - MariooW</sub> |
 | <sub>2022-10-11 08:24:10</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe)</sub> | <sub>[baa1e2f](https://github.com/SimplioOfficial/simplio-app/commit/baa1e2f3da55a1db4a941bdd8aad6c7ad51920fe) 192 - tests implementatnion - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3608 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-10 23:04:48</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0a015496e160...da6decbea44e)</sub> | <sub>[3b1c7c0](https://github.com/SimplioOfficial/simplio-app/commit/3b1c7c0c8f405e7bbe38e0197f50ca173b5c8198) Task/196 coin detail screen (#204) - TomasPetrik<br>[d3e6b26](https://github.com/SimplioOfficial/simplio-app/commit/d3e6b266c63b33281a93d7e79e83f3a966022374) Task/175 implement walletconnect v1 (#206) - storkandstars<br>[453ba5c](https://github.com/SimplioOfficial/simplio-app/commit/453ba5c938042151f7dea65107303732fdc4d920) Task/215 games search in discovery (#216) - TomasPetrik<br>[26e0bdd](https://github.com/SimplioOfficial/simplio-app/commit/26e0bdd1809c033c2a219363e77d20d10eccd0b4) Task/141 update network wallet balance (#217) - storkandstars<br>[3057889](https://github.com/SimplioOfficial/simplio-app/commit/3057889df2fbbe9cf991c6f4e5c3dbeb7d5c1ee3) Bug/213 incorrectly entered pin does not save t... - storkandstars</sub> |
 | <sub>2022-10-10 22:44:40</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a015496e1602a993a3525aa74bd5c7a8d894f12)</sub> | <sub>[0a01549](https://github.com/SimplioOfficial/simplio-app/commit/0a015496e1602a993a3525aa74bd5c7a8d894f12) Tests of env variables#5 - MariooW</sub> |
 | <sub>2022-10-10 22:17:41</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad)</sub> | <sub>[c05868b](https://github.com/SimplioOfficial/simplio-app/commit/c05868bddb7f3af08cdd7be6e56acfa3620ddcad) Tests of env variables#4 - MariooW</sub> |
-| <sub>2022-10-10 22:02:23</sub> | <sub>[[simplio-app:test/integration\-tests\-gherkin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900)</sub> | <sub>[e381875](https://github.com/SimplioOfficial/simplio-app/commit/e381875f7b760133d27ed317666fe9d81f8e6900) Tests of env variables#3 - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
