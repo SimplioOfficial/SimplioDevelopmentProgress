@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3618 commits since 10/09/2021. You can see the complete history in
+There is a total of 3619 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 12:19:42</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66ecca34d576183315cca175e664e8ff436da72b)</sub> | <sub>[66ecca3](https://github.com/SimplioOfficial/simplio-app/commit/66ecca34d576183315cca175e664e8ff436da72b) wip: changed cubits level to support - ciripel</sub> |
 | <sub>2022-10-11 12:05:32</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/568b71fca9509e6619c60cb3ead5d7cddacd9701)</sub> | <sub>[568b71f](https://github.com/SimplioOfficial/simplio-app/commit/568b71fca9509e6619c60cb3ead5d7cddacd9701) 192 - tests implementatnion fixed workflows - MariooW</sub> |
 | <sub>2022-10-11 12:02:10</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8738f966425cdc2f3f51273bc5b97ef9dc79d860)</sub> | <sub>[8738f96](https://github.com/SimplioOfficial/simplio-app/commit/8738f966425cdc2f3f51273bc5b97ef9dc79d860) Update run_tests_on_push_test_branch.yml - MariooW</sub> |
 | <sub>2022-10-11 12:01:34</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3b523d02777d7476177e5ab0132e05e6e4ece57)</sub> | <sub>[f3b523d](https://github.com/SimplioOfficial/simplio-app/commit/f3b523d02777d7476177e5ab0132e05e6e4ece57) Update publish_test_versions.yml - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3618 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-11 09:23:47</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c8d993b73f788d7917c725dc48c96b855b1ad4f)</sub> | <sub>[2c8d993](https://github.com/SimplioOfficial/simplio-app/commit/2c8d993b73f788d7917c725dc48c96b855b1ad4f) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 09:16:26</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95cd579d39afcdc41b45aea068c4ba69a53dbe86)</sub> | <sub>[95cd579](https://github.com/SimplioOfficial/simplio-app/commit/95cd579d39afcdc41b45aea068c4ba69a53dbe86) 192 - tests implementatnion - remove printenv - MariooW</sub> |
 | <sub>2022-10-11 09:05:14</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe)</sub> | <sub>[87f2b9c](https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe) Task/230 - Buy form UI (#248) - jvrastil</sub> |
-| <sub>2022-10-11 09:04:41</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95)</sub> | <sub>[fca2996](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -64900,5 +64900,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/568b71fca9509e6619c60cb3ead5d7cddacd9701"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 12:19:42.892000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`66ecca3`](https://github.com/SimplioOfficial/simplio-app/commit/66ecca34d576183315cca175e664e8ff436da72b) wip: changed cubits level to support - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/66ecca34d576183315cca175e664e8ff436da72b"
+    }
   }
 ]
