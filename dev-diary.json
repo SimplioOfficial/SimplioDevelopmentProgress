@@ -64936,5 +64936,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/704c5e489a1d7d6637ed4dc950d79c42193b42b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 14:20:58.127000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6d759fc`](https://github.com/SimplioOfficial/simplio-app/commit/6d759fcae855f445679ed0ff6b22f647f893d5ce) wip: back to Ami after I fixed his malakia :) - jvrastil",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6d759fcae855f445679ed0ff6b22f647f893d5ce"
+    }
   }
 ]
