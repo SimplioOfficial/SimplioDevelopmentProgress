@@ -64738,5 +64738,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 09:05:14.949000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`87f2b9c`](https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe) Task/230 - Buy form UI (#248) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe"
+    }
   }
 ]
