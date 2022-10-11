@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-11 09:23:47</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c8d993b73f788d7917c725dc48c96b855b1ad4f)</sub> | <sub>[2c8d993](https://github.com/SimplioOfficial/simplio-app/commit/2c8d993b73f788d7917c725dc48c96b855b1ad4f) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 09:16:26</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95cd579d39afcdc41b45aea068c4ba69a53dbe86)</sub> | <sub>[95cd579](https://github.com/SimplioOfficial/simplio-app/commit/95cd579d39afcdc41b45aea068c4ba69a53dbe86) 192 - tests implementatnion - remove printenv - MariooW</sub> |
 | <sub>2022-10-11 09:05:14</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe)</sub> | <sub>[87f2b9c](https://github.com/SimplioOfficial/simplio-app/commit/87f2b9c143a150f3e4bd4ad8f5c0f0e664a06afe) Task/230 - Buy form UI (#248) - jvrastil</sub> |
 | <sub>2022-10-11 09:04:41</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95)</sub> | <sub>[fca2996](https://github.com/SimplioOfficial/simplio-app/commit/fca2996cf32cb49660d08562a35546606a91eb95) Infrastructure/194 - Release new dev version wi... - jvrastil</sub> |
