@@ -64828,5 +64828,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/b1c34c9ccbcc...dbbea60d4fa7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 12:01:14.790000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`6199b54`](https://github.com/SimplioOfficial/simplio-app/commit/6199b54cccecce6436ab6d6e3fc1995dd91c868e) Update publish_production_version.yml - MariooW",
+      "title": "[simplio-app:test/192\\_tests\\_preparation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6199b54cccecce6436ab6d6e3fc1995dd91c868e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 12:01:34.083000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f3b523d`](https://github.com/SimplioOfficial/simplio-app/commit/f3b523d02777d7476177e5ab0132e05e6e4ece57) Update publish_test_versions.yml - MariooW",
+      "title": "[simplio-app:test/192\\_tests\\_preparation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f3b523d02777d7476177e5ab0132e05e6e4ece57"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-11 12:02:10.039000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`8738f96`](https://github.com/SimplioOfficial/simplio-app/commit/8738f966425cdc2f3f51273bc5b97ef9dc79d860) Update run_tests_on_push_test_branch.yml - MariooW",
+      "title": "[simplio-app:test/192\\_tests\\_preparation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8738f966425cdc2f3f51273bc5b97ef9dc79d860"
+    }
   }
 ]
