@@ -65043,5 +65043,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/41d04f4bf83f67c1458c199b5fcebcbbf56af508"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-12 07:08:30.721000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e657789`](https://github.com/SimplioOfficial/simplio-app/commit/e657789832926986800f727f9dbfe6242b49fd44) 1. Fixed showing bnb, but it's still carshing. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/251\\-app\\-stopped\\-working] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e657789832926986800f727f9dbfe6242b49fd44"
+    }
   }
 ]
