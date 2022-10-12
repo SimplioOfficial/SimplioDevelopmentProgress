@@ -65169,5 +65169,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/162ce90c4abf85ece45c023679595c2dba8a8c30"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-12 12:50:29.866000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8b0cc56`](https://github.com/SimplioOfficial/simplio-app/commit/8b0cc56727d318420774d49ee5a5630c0be8f5e7) wip: add sourceDepositAddress in state - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8b0cc56727d318420774d49ee5a5630c0be8f5e7"
+    }
   }
 ]
