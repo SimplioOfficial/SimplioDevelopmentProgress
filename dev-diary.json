@@ -65259,5 +65259,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/39c9ad83c7371542cf0f5cda760525010f248da6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-12 20:34:20.831000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`bf75c44`](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc) wip: summary screen finished - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc"
+    }
   }
 ]

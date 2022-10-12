@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3638 commits since 10/09/2021. You can see the complete history in
+There is a total of 3639 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-12 20:34:20</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc)</sub> | <sub>[bf75c44](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc) wip: summary screen finished - ciripel</sub> |
 | <sub>2022-10-12 19:34:11</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/39c9ad83c7371542cf0f5cda760525010f248da6)</sub> | <sub>[39c9ad8](https://github.com/SimplioOfficial/simplio-app/commit/39c9ad83c7371542cf0f5cda760525010f248da6) fix: remove notify_sent_tx_service - ciripel</sub> |
 | <sub>2022-10-12 19:22:44</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2891a042a82b16874c097a20adbfcba914eb976)</sub> | <sub>[c2891a0](https://github.com/SimplioOfficial/simplio-app/commit/c2891a042a82b16874c097a20adbfcba914eb976) wip: finish sumaryPageReadyState - ciripel</sub> |
 | <sub>2022-10-12 13:18:44</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e11522fc5e0a99a09074e93aa071a61a11d369c)</sub> | <sub>[3e11522](https://github.com/SimplioOfficial/simplio-app/commit/3e11522fc5e0a99a09074e93aa071a61a11d369c) wip: add sourceDepositAddress - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3638 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-12 11:25:12</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c5e0cd6483ee9f1b80aff8f082a3b011fb6ad09)</sub> | <sub>[8c5e0cd](https://github.com/SimplioOfficial/simplio-app/commit/8c5e0cd6483ee9f1b80aff8f082a3b011fb6ad09) 264 - adding small fixes - MariooW</sub> |
 | <sub>2022-10-12 10:42:32</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d6f35fb5f4704b8e466702f4de7bbedd087d7a6)</sub> | <sub>[8d6f35f](https://github.com/SimplioOfficial/simplio-app/commit/8d6f35fb5f4704b8e466702f4de7bbedd087d7a6) wip: implement fetchAmountTo & fetchAmountFrom - ciripel</sub> |
 | <sub>2022-10-12 09:01:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f167452fbd544cfdbe50dee23caf92218e1b229)</sub> | <sub>[9f16745](https://github.com/SimplioOfficial/simplio-app/commit/9f167452fbd544cfdbe50dee23caf92218e1b229) Test/192 tests preparation (#263) - MariooW</sub> |
-| <sub>2022-10-12 08:11:21</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2795053b4c6cc08c78db3b5c6dbc1d7f35f19413)</sub> | <sub>[2795053](https://github.com/SimplioOfficial/simplio-app/commit/2795053b4c6cc08c78db3b5c6dbc1d7f35f19413) 192 - tests implementatnion changes local branc... - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
