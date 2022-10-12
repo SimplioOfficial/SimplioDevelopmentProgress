@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3630 commits since 10/09/2021. You can see the complete history in
+There is a total of 3631 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-12 10:42:32</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d6f35fb5f4704b8e466702f4de7bbedd087d7a6)</sub> | <sub>[8d6f35f](https://github.com/SimplioOfficial/simplio-app/commit/8d6f35fb5f4704b8e466702f4de7bbedd087d7a6) wip: implement fetchAmountTo & fetchAmountFrom - ciripel</sub> |
 | <sub>2022-10-12 09:01:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f167452fbd544cfdbe50dee23caf92218e1b229)</sub> | <sub>[9f16745](https://github.com/SimplioOfficial/simplio-app/commit/9f167452fbd544cfdbe50dee23caf92218e1b229) Test/192 tests preparation (#263) - MariooW</sub> |
 | <sub>2022-10-12 08:11:21</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2795053b4c6cc08c78db3b5c6dbc1d7f35f19413)</sub> | <sub>[2795053](https://github.com/SimplioOfficial/simplio-app/commit/2795053b4c6cc08c78db3b5c6dbc1d7f35f19413) 192 - tests implementatnion changes local branc... - MariooW</sub> |
 | <sub>2022-10-12 08:03:06</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c29188d95096819a98d564c026ce8c6ef884918b)</sub> | <sub>[c29188d](https://github.com/SimplioOfficial/simplio-app/commit/c29188d95096819a98d564c026ce8c6ef884918b) 192 - tests implementatnion changes local branc... - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3630 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-11 23:01:18</sub> | <sub>[[simplio-app:test/192\_tests\_preparation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b20f7c2798332eaf244dfa8fa775827d598a00bf)</sub> | <sub>[b20f7c2](https://github.com/SimplioOfficial/simplio-app/commit/b20f7c2798332eaf244dfa8fa775827d598a00bf) 192 - tests implementatnion - MariooW</sub> |
 | <sub>2022-10-11 15:54:16</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6797661b5ce24559fd4cdc48431f5a4196d6c38b)</sub> | <sub>[6797661](https://github.com/SimplioOfficial/simplio-app/commit/6797661b5ce24559fd4cdc48431f5a4196d6c38b) wip: implement min button - ciripel</sub> |
 | <sub>2022-10-11 14:55:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6d759fcae855...8df051e2101e)</sub> |
-| <sub>2022-10-11 14:20:58</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d759fcae855f445679ed0ff6b22f647f893d5ce)</sub> | <sub>[6d759fc](https://github.com/SimplioOfficial/simplio-app/commit/6d759fcae855f445679ed0ff6b22f647f893d5ce) wip: back to Ami after I fixed his malakia :) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
