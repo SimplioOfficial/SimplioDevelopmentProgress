@@ -65025,5 +65025,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8440be7f89df67d60d0d333b53f434ee36210d4a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-12 06:14:52.865000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`41d04f4`](https://github.com/SimplioOfficial/simplio-app/commit/41d04f4bf83f67c1458c199b5fcebcbbf56af508) 192 - tests implementatnion - MariooW",
+      "title": "[simplio-app:test/192\\_tests\\_preparation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/41d04f4bf83f67c1458c199b5fcebcbbf56af508"
+    }
   }
 ]
