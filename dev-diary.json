@@ -65295,5 +65295,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fd795e9e406bf3c2d717a9e532f24ae600f689b8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-13 09:39:46.118000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`4ad456c`](https://github.com/SimplioOfficial/simplio-app/commit/4ad456cb4128d0cbed3acb8f165f7c4a71d11706) wip: back to Ami after bug fixes - jvrastil",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4ad456cb4128d0cbed3acb8f165f7c4a71d11706"
+    }
   }
 ]
