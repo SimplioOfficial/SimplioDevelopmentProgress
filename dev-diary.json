@@ -65331,5 +65331,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/09caa6da565b79d1a3d99595465dd98ed221d48b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-13 19:34:20.369000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`17f8509`](https://github.com/SimplioOfficial/simplio-app/commit/17f8509d2e7455bf068aab0f009091cc0fd90e58) Task/223 buy logic implementation - storkandstars\n[`4b91a50`](https://github.com/SimplioOfficial/simplio-app/commit/4b91a501903fab7c340aa6438bd8ab482433f2db) wip - jvrastil\n[`2b0eaff`](https://github.com/SimplioOfficial/simplio-app/commit/2b0eaffa6200b29e3717eadfcc223856c1a9923b) wip - jvrastil\n[`a72a2b8`](https://github.com/SimplioOfficial/simplio-app/commit/a72a2b8288cf93ee53869763b9a6c554edef480d) wip - jvrastil\n[`d30c511`](https://github.com/SimplioOfficial/simplio-app/commit/d30c511f197393fc0a5a43e30232ffa0f020e3e2) wip - jvrastil",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/17f8509d2e74^...1eb0244df0e3"
+    }
   }
 ]
