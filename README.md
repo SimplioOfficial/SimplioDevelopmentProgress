@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3646 commits since 10/09/2021. You can see the complete history in
+There is a total of 3647 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-14 14:46:27</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/1eb0244df0e3...ed985df056c9)</sub> | <sub>[5391e9b](https://github.com/SimplioOfficial/simplio-app/commit/5391e9bffd9e30ecb811d567c19a502341d00b13) wip: add errors (WIP!) - jvrastil<br>[ed985df](https://github.com/SimplioOfficial/simplio-app/commit/ed985df056c9d96fe9b1d46775ee61d7f0d61ae2) wip: validations... - jvrastil</sub> |
 | <sub>2022-10-14 12:51:32</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f68d77164235c781fb2a0c15106ac36a7b483b1)</sub> | <sub>[4f68d77](https://github.com/SimplioOfficial/simplio-app/commit/4f68d77164235c781fb2a0c15106ac36a7b483b1) wip: working on bugFixes and swap - ciripel</sub> |
 | <sub>2022-10-14 10:49:57</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8cf4b43cec73d3f8edf91b2479983ebde9a7da7)</sub> | <sub>[e8cf4b4](https://github.com/SimplioOfficial/simplio-app/commit/e8cf4b43cec73d3f8edf91b2479983ebde9a7da7) wip: back to Ami after bug fix - price calculat... - jvrastil</sub> |
 | <sub>2022-10-14 09:31:28</sub> | <sub>[[simplio-app:task/266\-redesign\-splash\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e741b1ed2f5118d1fba55a29600ed2c1f6e9eb6)</sub> | <sub>[3e741b1](https://github.com/SimplioOfficial/simplio-app/commit/3e741b1ed2f5118d1fba55a29600ed2c1f6e9eb6) Completed task/266-redesign-splash-screen - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3646 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-13 07:54:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd795e9e406bf3c2d717a9e532f24ae600f689b8)</sub> | <sub>[fd795e9](https://github.com/SimplioOfficial/simplio-app/commit/fd795e9e406bf3c2d717a9e532f24ae600f689b8) wip: pass ball to honza - ciripel</sub> |
 | <sub>2022-10-12 20:34:20</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc)</sub> | <sub>[bf75c44](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc) wip: summary screen finished - ciripel</sub> |
 | <sub>2022-10-12 19:34:11</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/39c9ad83c7371542cf0f5cda760525010f248da6)</sub> | <sub>[39c9ad8](https://github.com/SimplioOfficial/simplio-app/commit/39c9ad83c7371542cf0f5cda760525010f248da6) fix: remove notify_sent_tx_service - ciripel</sub> |
-| <sub>2022-10-12 19:22:44</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2891a042a82b16874c097a20adbfcba914eb976)</sub> | <sub>[c2891a0](https://github.com/SimplioOfficial/simplio-app/commit/c2891a042a82b16874c097a20adbfcba914eb976) wip: finish sumaryPageReadyState - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
