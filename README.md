@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3648 commits since 10/09/2021. You can see the complete history in
+There is a total of 3649 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-14 19:11:18</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8371718996265298e3aec062befb892b65b69012)</sub> | <sub>[8371718](https://github.com/SimplioOfficial/simplio-app/commit/8371718996265298e3aec062befb892b65b69012) implement start swap - ciripel</sub> |
 | <sub>2022-10-14 15:18:39</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9fb736cb216456b89c1e8086798cc9fdf496f57b)</sub> | <sub>[9fb736c](https://github.com/SimplioOfficial/simplio-app/commit/9fb736cb216456b89c1e8086798cc9fdf496f57b) wip: fix bug with zero amount - jvrastil</sub> |
 | <sub>2022-10-14 14:46:27</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/1eb0244df0e3...ed985df056c9)</sub> | <sub>[5391e9b](https://github.com/SimplioOfficial/simplio-app/commit/5391e9bffd9e30ecb811d567c19a502341d00b13) wip: add errors (WIP!) - jvrastil<br>[ed985df](https://github.com/SimplioOfficial/simplio-app/commit/ed985df056c9d96fe9b1d46775ee61d7f0d61ae2) wip: validations... - jvrastil</sub> |
 | <sub>2022-10-14 12:51:32</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f68d77164235c781fb2a0c15106ac36a7b483b1)</sub> | <sub>[4f68d77](https://github.com/SimplioOfficial/simplio-app/commit/4f68d77164235c781fb2a0c15106ac36a7b483b1) wip: working on bugFixes and swap - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3648 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-13 11:11:28</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09caa6da565b79d1a3d99595465dd98ed221d48b)</sub> | <sub>[09caa6d](https://github.com/SimplioOfficial/simplio-app/commit/09caa6da565b79d1a3d99595465dd98ed221d48b) wip: pass ball to honza - ciripel</sub> |
 | <sub>2022-10-13 09:39:46</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ad456cb4128d0cbed3acb8f165f7c4a71d11706)</sub> | <sub>[4ad456c](https://github.com/SimplioOfficial/simplio-app/commit/4ad456cb4128d0cbed3acb8f165f7c4a71d11706) wip: back to Ami after bug fixes - jvrastil</sub> |
 | <sub>2022-10-13 07:54:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd795e9e406bf3c2d717a9e532f24ae600f689b8)</sub> | <sub>[fd795e9](https://github.com/SimplioOfficial/simplio-app/commit/fd795e9e406bf3c2d717a9e532f24ae600f689b8) wip: pass ball to honza - ciripel</sub> |
-| <sub>2022-10-12 20:34:20</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc)</sub> | <sub>[bf75c44](https://github.com/SimplioOfficial/simplio-app/commit/bf75c44a38d7de37e52ee9cc754bdbc9faf814dc) wip: summary screen finished - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
