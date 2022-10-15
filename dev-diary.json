@@ -65457,5 +65457,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8371718996265298e3aec062befb892b65b69012"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-15 08:24:27.611000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`186f5db`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/186f5dbcfb109f1c5dbb4baafc7a25b4c8bb41ae) feat: update rpc endpoint for testnet - PitTxid",
+      "title": "[backend-polygon-wallet-lib:2\\-create\\-wallet\\-and\\-transaction\\-on\\-testnet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/186f5dbcfb109f1c5dbb4baafc7a25b4c8bb41ae"
+    }
   }
 ]
