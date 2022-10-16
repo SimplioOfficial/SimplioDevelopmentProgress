@@ -65475,5 +65475,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/186f5dbcfb109f1c5dbb4baafc7a25b4c8bb41ae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-16 08:25:56.815000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dd7be51`](https://github.com/SimplioOfficial/simplio-app/commit/dd7be51818bc781311b4bbb4ba0b1a6a65c8e6b9) finish swap - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/dd7be51818bc781311b4bbb4ba0b1a6a65c8e6b9"
+    }
   }
 ]
