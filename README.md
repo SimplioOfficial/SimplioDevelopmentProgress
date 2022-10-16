@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3651 commits since 10/09/2021. You can see the complete history in
+There is a total of 3652 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-16 09:04:37</sub> | <sub>[[simplio-app:task/266\-redesign\-splash\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b7e6d9946ffadf843dc8314dd7d7fd97ad05a16e)</sub> | <sub>[b7e6d99](https://github.com/SimplioOfficial/simplio-app/commit/b7e6d9946ffadf843dc8314dd7d7fd97ad05a16e) Reverted pubspec.lock - Tomáš Petrík</sub> |
 | <sub>2022-10-16 08:25:56</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd7be51818bc781311b4bbb4ba0b1a6a65c8e6b9)</sub> | <sub>[dd7be51](https://github.com/SimplioOfficial/simplio-app/commit/dd7be51818bc781311b4bbb4ba0b1a6a65c8e6b9) finish swap - ciripel</sub> |
 | <sub>2022-10-15 08:24:27</sub> | <sub>[[backend-polygon-wallet-lib:2\-create\-wallet\-and\-transaction\-on\-testnet] 1 new commit](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/186f5dbcfb109f1c5dbb4baafc7a25b4c8bb41ae)</sub> | <sub>[186f5db](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/186f5dbcfb109f1c5dbb4baafc7a25b4c8bb41ae) feat: update rpc endpoint for testnet - PitTxid</sub> |
 | <sub>2022-10-14 19:11:18</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8371718996265298e3aec062befb892b65b69012)</sub> | <sub>[8371718](https://github.com/SimplioOfficial/simplio-app/commit/8371718996265298e3aec062befb892b65b69012) implement start swap - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3651 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-14 10:49:57</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8cf4b43cec73d3f8edf91b2479983ebde9a7da7)</sub> | <sub>[e8cf4b4](https://github.com/SimplioOfficial/simplio-app/commit/e8cf4b43cec73d3f8edf91b2479983ebde9a7da7) wip: back to Ami after bug fix - price calculat... - jvrastil</sub> |
 | <sub>2022-10-14 09:31:28</sub> | <sub>[[simplio-app:task/266\-redesign\-splash\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e741b1ed2f5118d1fba55a29600ed2c1f6e9eb6)</sub> | <sub>[3e741b1](https://github.com/SimplioOfficial/simplio-app/commit/3e741b1ed2f5118d1fba55a29600ed2c1f6e9eb6) Completed task/266-redesign-splash-screen - Tomáš Petrík</sub> |
 | <sub>2022-10-13 19:34:20</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 9 new commits](https://github.com/SimplioOfficial/simplio-app/compare/17f8509d2e74^...1eb0244df0e3)</sub> | <sub>[17f8509](https://github.com/SimplioOfficial/simplio-app/commit/17f8509d2e7455bf068aab0f009091cc0fd90e58) Task/223 buy logic implementation - storkandstars<br>[4b91a50](https://github.com/SimplioOfficial/simplio-app/commit/4b91a501903fab7c340aa6438bd8ab482433f2db) wip - jvrastil<br>[2b0eaff](https://github.com/SimplioOfficial/simplio-app/commit/2b0eaffa6200b29e3717eadfcc223856c1a9923b) wip - jvrastil<br>[a72a2b8](https://github.com/SimplioOfficial/simplio-app/commit/a72a2b8288cf93ee53869763b9a6c554edef480d) wip - jvrastil<br>[d30c511](https://github.com/SimplioOfficial/simplio-app/commit/d30c511f197393fc0a5a43e30232ffa0f020e3e2) wip - jvrastil</sub> |
-| <sub>2022-10-13 11:11:28</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09caa6da565b79d1a3d99595465dd98ed221d48b)</sub> | <sub>[09caa6d](https://github.com/SimplioOfficial/simplio-app/commit/09caa6da565b79d1a3d99595465dd98ed221d48b) wip: pass ball to honza - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
