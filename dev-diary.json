@@ -65760,5 +65760,23 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `761a552`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 14:33:09.319000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c6a26f2`](https://github.com/SimplioOfficial/simplio-app/commit/c6a26f2e6b91f2bfa9be73026f624dee90176b95) fix: fixed bug in startSwap repository - ciripel\n[`b12dbcb`](https://github.com/SimplioOfficial/simplio-app/commit/b12dbcb758bb351db83b378e526120c9fbdc2367) chore: upgrade sio_core_light to 1.1.5 - ciripel\n[`743746b`](https://github.com/SimplioOfficial/simplio-app/commit/743746b6499befde33656ff125110a3d96e5f9ba) fix: local wallet to swap not sourceDepositAddress - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/6f5352631173...743746b6499b"
+    }
   }
 ]
