@@ -65547,5 +65547,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9645b95e6d7de12187becf301a529392a57f8e48"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 07:58:50.067000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2fad8df`](https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de) wip - jvrastil",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 07:58:51.195000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`0ec0cdd`](https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5) Changes in PIN test - MariooW",
+      "title": "[simplio-app:test/check\\_why\\_test\\_failing] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5"
+    }
   }
 ]
