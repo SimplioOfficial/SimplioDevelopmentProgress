@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3670 commits since 10/09/2021. You can see the complete history in
+There is a total of 3671 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-17 23:29:42</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81db6a536cd22f73c496ed4f976dc7c2218c6549)</sub> | <sub>[81db6a5](https://github.com/SimplioOfficial/simplio-app/commit/81db6a536cd22f73c496ed4f976dc7c2218c6549) Stres test if scenarios - MariooW</sub> |
 | <sub>2022-10-17 16:11:23</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26027ac11588299603652e92a0f4a8f2ef41ac70)</sub> | <sub>[26027ac](https://github.com/SimplioOfficial/simplio-app/commit/26027ac11588299603652e92a0f4a8f2ef41ac70) fix: improvements to summary screen - ciripel</sub> |
 | <sub>2022-10-17 15:11:00</sub> | <sub>[[simplio-app:task/244\-simplio\-glyphs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb7773e18bb463ec45ecad8080c18215081c785c)</sub> | <sub>[cb7773e](https://github.com/SimplioOfficial/simplio-app/commit/cb7773e18bb463ec45ecad8080c18215081c785c) Setup  sdk: '>=2.17.1 <3.0.0' - Tomáš Petrík</sub> |
 | <sub>2022-10-17 15:08:09</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb11c2d66cc102ad30d3bde798467a8e638e0da6)</sub> | <sub>[bb11c2d](https://github.com/SimplioOfficial/simplio-app/commit/bb11c2d66cc102ad30d3bde798467a8e638e0da6) fix: subtract only initial send tx fee from amount - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3670 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-17 11:51:19</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.5](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-10-17 11:49:30</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3)</sub> | <sub>[fffcb64](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3) generate 12 words mnemonics (#19) - ciripel</sub> |
 | <sub>2022-10-17 11:48:40</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434)</sub> | <sub>[2134438](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434) chore: increase ver to 1.1.5 - ciripel</sub> |
-| <sub>2022-10-17 11:40:29</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a)</sub> | <sub>[cb44183](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a) generate 12 words mnemonics - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
