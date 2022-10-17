@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-17 11:51:19</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.5](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-10-17 11:49:30</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3)</sub> | <sub>[fffcb64](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3) generate 12 words mnemonics (#19) - ciripel</sub> |
 | <sub>2022-10-17 11:48:40</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434)</sub> | <sub>[2134438](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434) chore: increase ver to 1.1.5 - ciripel</sub> |
 | <sub>2022-10-17 11:40:29</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a)</sub> | <sub>[cb44183](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a) generate 12 words mnemonics - ciripel</sub> |

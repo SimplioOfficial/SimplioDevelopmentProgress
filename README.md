@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3663 commits since 10/09/2021. You can see the complete history in
+There is a total of 3664 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-17 11:51:19</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.5](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-10-17 11:49:30</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3)</sub> | <sub>[fffcb64](https://github.com/SimplioOfficial/sio_core_light/commit/fffcb64a11cda0d62d479580c7248ac15ca101c3) generate 12 words mnemonics (#19) - ciripel</sub> |
 | <sub>2022-10-17 11:48:40</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434)</sub> | <sub>[2134438](https://github.com/SimplioOfficial/sio_core_light/commit/2134438322a07fc0c8368f62fe271136a4a43434) chore: increase ver to 1.1.5 - ciripel</sub> |
 | <sub>2022-10-17 11:40:29</sub> | <sub>[[sio_core_light:task/17\-generate\-12\-words\-mnemonic] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a)</sub> | <sub>[cb44183](https://github.com/SimplioOfficial/sio_core_light/commit/cb441838714206f50058478da41c06975565547a) generate 12 words mnemonics - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3663 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-17 09:06:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045)</sub> | <sub>[bcf62d5](https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045) Completed task/266-redesign-splash-screen (#267) - TomasPetrik</sub> |
 | <sub>2022-10-17 07:58:51</sub> | <sub>[[simplio-app:test/check\_why\_test\_failing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5)</sub> | <sub>[0ec0cdd](https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5) Changes in PIN test - MariooW</sub> |
 | <sub>2022-10-17 07:58:50</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de)</sub> | <sub>[2fad8df](https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de) wip - jvrastil</sub> |
-| <sub>2022-10-17 07:38:22</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9645b95e6d7de12187becf301a529392a57f8e48)</sub> | <sub>[9645b95](https://github.com/SimplioOfficial/simplio-app/commit/9645b95e6d7de12187becf301a529392a57f8e48) 264 - adding small fixes - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
