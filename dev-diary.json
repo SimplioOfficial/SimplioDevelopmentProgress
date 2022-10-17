@@ -65601,5 +65601,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 09:46:39.556000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`d7cbfd3`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/d7cbfd3068fc8a7f36b89370076c5a87cb351b3a) feat: eth to matic - PitTxid\n[`49654eb`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/49654ebb96c169b9b1bd637f41231418ee5733e1) feat: update testnet token - PitTxid",
+      "title": "[backend-polygon-wallet-lib:2\\-create\\-wallet\\-and\\-transaction\\-on\\-testnet] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/186f5dbcfb10...49654ebb96c1"
+    }
   }
 ]
