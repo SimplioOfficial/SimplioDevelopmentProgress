@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-17 09:06:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045)</sub> | <sub>[bcf62d5](https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045) Completed task/266-redesign-splash-screen (#267) - TomasPetrik</sub> |
 | <sub>2022-10-17 07:58:51</sub> | <sub>[[simplio-app:test/check\_why\_test\_failing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5)</sub> | <sub>[0ec0cdd](https://github.com/SimplioOfficial/simplio-app/commit/0ec0cdde5b20915ce97751b2c73e9ff10efd43a5) Changes in PIN test - MariooW</sub> |
 | <sub>2022-10-17 07:58:50</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de)</sub> | <sub>[2fad8df](https://github.com/SimplioOfficial/simplio-app/commit/2fad8dfcb68610bb944a6e53dd05fd31356c20de) wip - jvrastil</sub> |
 | <sub>2022-10-17 07:38:22</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9645b95e6d7de12187becf301a529392a57f8e48)</sub> | <sub>[9645b95](https://github.com/SimplioOfficial/simplio-app/commit/9645b95e6d7de12187becf301a529392a57f8e48) 264 - adding small fixes - MariooW</sub> |
