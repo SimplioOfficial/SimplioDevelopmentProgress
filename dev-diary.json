@@ -65619,5 +65619,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/186f5dbcfb10...49654ebb96c1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 10:13:20.534000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8eb1283`](https://github.com/SimplioOfficial/sio_core_light/commit/8eb12839ed7a57cfcdf8c1123729bfda156af947) add bnb testnet support - ciripel\n[`b515788`](https://github.com/SimplioOfficial/sio_core_light/commit/b515788a6e65f213ae0fbc504a8180a8fd2b3b61) add network groups tests - ciripel",
+      "title": "[sio_core_light:task/16\\-bnb\\-testnet\\-support] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/59dc0bd75a12...b515788a6e65"
+    }
   }
 ]
