@@ -65778,5 +65778,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/6f5352631173...743746b6499b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-17 15:08:09.185000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`bb11c2d`](https://github.com/SimplioOfficial/simplio-app/commit/bb11c2d66cc102ad30d3bde798467a8e638e0da6) fix: subtract only initial send tx fee from amount - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bb11c2d66cc102ad30d3bde798467a8e638e0da6"
+    }
   }
 ]
