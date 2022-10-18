@@ -65976,5 +65976,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/66d3cd18d66bec816d53e42d8894ae8c4a3ac223"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 12:34:16.847000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`66a2e51`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/66a2e517ec19f138f803ae3ff680253db5e6c95d) feat: add value field to swap transaction - PitTxid\n[`c57aaf8`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c57aaf8116968ee7ddb9c89a33b5bcd422c4f1cd) feat: update readme - PitTxid",
+      "title": "[backend-bsc-wallet-lib:36\\-support\\-value\\-field\\-in\\-swap\\-transaction] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/159c58bb8b61...c57aaf811696"
+    }
   }
 ]
