@@ -65904,5 +65904,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/57d59ca6db14d0d8685be946103261eca6fe9bab"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 09:27:16.061000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`236e7dc`](https://github.com/SimplioOfficial/simplio-app/commit/236e7dc3a4915bcfddeaf81cd43814ddd493955d) Fixes for code analysis - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/236e7dc3a4915bcfddeaf81cd43814ddd493955d"
+    }
   }
 ]
