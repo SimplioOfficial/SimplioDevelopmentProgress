@@ -66084,5 +66084,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/508bdb6c320c59a640eaaac4a0f8c98d678f245b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 15:40:16.905000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`bcec5bc`](https://github.com/SimplioOfficial/simplio-app/commit/bcec5bc361a0093fc9bdbfe837f96e8f98cedef4) Completed task/272-re-design-forgot-password-sc... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/272\\-re\\-design\\-forgot\\-password\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bcec5bc361a0093fc9bdbfe837f96e8f98cedef4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 15:43:14.906000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`8e59e26`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/8e59e2624624320868137f2a4f0b43ed347bf60d) feat: use legacy tx - PitTxid",
+      "title": "[backend-polygon-wallet-lib:2\\-create\\-wallet\\-and\\-transaction\\-on\\-testnet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/8e59e2624624320868137f2a4f0b43ed347bf60d"
+    }
   }
 ]
