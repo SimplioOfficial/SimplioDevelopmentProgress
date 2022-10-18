@@ -65994,5 +65994,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/159c58bb8b61...c57aaf811696"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 12:36:04.311000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`a1dcc7e`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/a1dcc7e648bc2bbcf73cbe804b86d932ab6fb362) feat: increase version - PitTxid\n[`0e6e2ff`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0e6e2ff1585a1bb698ea16e41a9fddf466c82ad3) chore(release): 1.5.3 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:36\\-support\\-value\\-field\\-in\\-swap\\-transaction] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/c57aaf811696...0e6e2ff1585a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 12:36:56.015000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`66a2e51`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/66a2e517ec19f138f803ae3ff680253db5e6c95d) feat: add value field to swap transaction - PitTxid\n[`c57aaf8`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c57aaf8116968ee7ddb9c89a33b5bcd422c4f1cd) feat: update readme - PitTxid\n[`a1dcc7e`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/a1dcc7e648bc2bbcf73cbe804b86d932ab6fb362) feat: increase version - PitTxid\n[`0e6e2ff`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0e6e2ff1585a1bb698ea16e41a9fddf466c82ad3) chore(release): 1.5.3 - PitTxid\n[`51b279a`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/51b279a4f32206e725f796ceabe3f2a706e4be1c) Merge pull request #37 from SimplioOfficial/36-... - PitTxid",
+      "title": "[backend-bsc-wallet-lib:development] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/159c58bb8b61...51b279a4f322"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 12:38:46.534000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`7ae9c00`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/7ae9c008404540ea0607805749f62b2bf118edf4) build: increase version - PitTxid\n[`2386751`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/23867516f491e3c2794050629ec675c5813a2547) chore(release): 1.4.0 - PitTxid\n[`b1682cf`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1682cf9b0982ec1daf10b51eeb6307c1b37e852) Merge pull request #19 from SimplioOfficial/rc1... - PitTxid\n[`6e0b29d`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6e0b29dbc8171961517a893b2ec58df1ea3dd9ce) Merge pull request #20 from SimplioOfficial/upd... - PitTxid\n[`c476f33`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c476f3399f86e297225b19aefb53c918b8a93be1) Merge branch 'master' into rc1.4.1 - PitTxid",
+      "title": "[backend-bsc-wallet-lib:rc1\\.5\\.3] 10 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/51b279a4f322...bf81b128440b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-18 12:38:56.308000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`eec15be`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/eec15befdc13e0fe19517f167f7b8180ef6435fe) Merge pull request #33 from SimplioOfficial/rc1... - PitTxid\n[`ac79c7e`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/ac79c7e857bd1bd7afe2d805ebc5eaf0173bfde9) fix: release folder - PitTxid\n[`3759fff`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/3759fff9a24f1972b2d060f5c581df6314e2c443) feat: increase version - PitTxid\n[`159c58b`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/159c58bb8b61600b067cc22f23d3570e1121729f) Merge pull request #35 from SimplioOfficial/fix... - PitTxid\n[`66a2e51`](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/66a2e517ec19f138f803ae3ff680253db5e6c95d) feat: add value field to swap transaction - PitTxid",
+      "title": "[backend-bsc-wallet-lib:master] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/fd347d34bc32...d0511a56c755"
+    }
   }
 ]
