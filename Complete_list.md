@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-19 13:49:06</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/37a756117c90...373d009254ba)</sub> | <sub>[43841f4](https://github.com/SimplioOfficial/simplio-app/commit/43841f4ad182a3739e9eb220b0ac99e511bcd277) wip - price refreshing - jvrastil<br>[373d009](https://github.com/SimplioOfficial/simplio-app/commit/373d009254baf1e89ad1b90ca1383ad6a8be2ce9) wip - build fix - jvrastil</sub> |
 | <sub>2022-10-19 13:13:35</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/508bdb6c320c...37a756117c90)</sub> |
 | <sub>2022-10-19 13:11:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/66d3cd18d66b...9f9448caadff)</sub> |
 | <sub>2022-10-19 10:52:25</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3f61845d4dec1c0c64755cf84c743d8fea0a041)</sub> | <sub>[c3f6184](https://github.com/SimplioOfficial/simplio-app/commit/c3f61845d4dec1c0c64755cf84c743d8fea0a041) wip: add fiat switch (only UI) - jvrastil</sub> |

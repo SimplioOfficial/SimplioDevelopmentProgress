@@ -66442,5 +66442,23 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `37a7561`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-19 13:49:06.352000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`43841f4`](https://github.com/SimplioOfficial/simplio-app/commit/43841f4ad182a3739e9eb220b0ac99e511bcd277) wip - price refreshing - jvrastil\n[`373d009`](https://github.com/SimplioOfficial/simplio-app/commit/373d009254baf1e89ad1b90ca1383ad6a8be2ce9) wip - build fix - jvrastil",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/37a756117c90...373d009254ba"
+    }
   }
 ]
