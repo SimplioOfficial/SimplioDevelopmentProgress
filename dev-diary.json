@@ -66174,5 +66174,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/a6566f2bf3dd...50ac55ac4aa3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-19 06:14:11.346000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4e764b3`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/4e764b39ef33854bd259c1dd557416f70f8ae53e) feat: update package name - PitTxid\n[`b846a5b`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b846a5b2dceb48bbb25513015aec3d87c2e16f53) feat: update readme - PitTxid\n[`a4dc8ec`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/a4dc8ec1c919288d56809177eaa8b79ece2565bf) chore(release): 1.0.0 - PitTxid",
+      "title": "[backend-polygon-wallet-lib:3\\-update\\-document\\-and\\-create\\-package] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/50ac55ac4aa3...a4dc8ec1c919"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-19 06:14:53.148000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`4e764b3`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/4e764b39ef33854bd259c1dd557416f70f8ae53e) feat: update package name - PitTxid\n[`b846a5b`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b846a5b2dceb48bbb25513015aec3d87c2e16f53) feat: update readme - PitTxid\n[`a4dc8ec`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/a4dc8ec1c919288d56809177eaa8b79ece2565bf) chore(release): 1.0.0 - PitTxid\n[`ebcd4de`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/ebcd4de827bdfd1318544e390491e8b1de727aae) Merge pull request #6 from SimplioOfficial/3-up... - PitTxid",
+      "title": "[backend-polygon-wallet-lib:develop] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/50ac55ac4aa3...ebcd4de827bd"
+    }
   }
 ]
