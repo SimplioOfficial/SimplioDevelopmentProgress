@@ -66568,5 +66568,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/c9864d86df6bee6af41b8facc683b643871b920c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 08:19:07.319000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c3f61845d4de...e2191cde2563)",
+      "title": "[simplio-app] Branch task/222\\-swap\\-logic\\-implementation was force-pushed to `e2191cd`",
+      "type": "rich"
+    }
   }
 ]
