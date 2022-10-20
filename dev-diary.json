@@ -66603,5 +66603,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7f247eb61155104b4e9202d9d077232ee11231d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 08:36:14.366000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b9eae46`](https://github.com/SimplioOfficial/simplio-app/commit/b9eae46bd06cc3efde2c3024486e9c83216b2e03) fix before code review - jvrastil",
+      "title": "[simplio-app:task/258\\-configure\\_qr\\_scanner] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b9eae46bd06cc3efde2c3024486e9c83216b2e03"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 08:37:26.610000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`2633cea`](https://github.com/SimplioOfficial/simplio-app/commit/2633cea00e7213ebceae0c946ccba2455fd30844) build \"fix\" - jvrastil",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2633cea00e7213ebceae0c946ccba2455fd30844"
+    }
   }
 ]
