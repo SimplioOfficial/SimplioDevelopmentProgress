@@ -66745,5 +66745,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 12:26:20.857000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`61c258e`](https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d) fix: add public address validation - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d"
+    }
   }
 ]
