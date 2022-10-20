@@ -66550,5 +66550,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/aa36440bf015...5b06798ba574"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 06:20:55.470000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c9864d8`](https://github.com/SimplioOfficial/sio_core_light/commit/c9864d86df6bee6af41b8facc683b643871b920c) fix: remove BNBTestnet ( close #16) - ciripel",
+      "title": "[sio_core_light:task/15\\-pubkey\\-validator] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/c9864d86df6bee6af41b8facc683b643871b920c"
+    }
   }
 ]
