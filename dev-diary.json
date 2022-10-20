@@ -66871,5 +66871,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 17:52:16.261000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`eab8670`](https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b) Task/276 - Add fiat balance - jvrastil",
+      "title": "[simplio-app:task/276\\-fiat\\_values] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b"
+    }
   }
 ]

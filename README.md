@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3728 commits since 10/09/2021. You can see the complete history in
+There is a total of 3729 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-20 17:52:16</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b)</sub> | <sub>[eab8670](https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b) Task/276 - Add fiat balance - jvrastil</sub> |
 | <sub>2022-10-20 16:37:01</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c)</sub> | <sub>[a16c050](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c) Removed focus node - Tomáš Petrík</sub> |
 | <sub>2022-10-20 15:27:22</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14)</sub> | <sub>[98deb4d](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14) Fixed input text issues. - Tomáš Petrík</sub> |
 | <sub>2022-10-20 14:01:59</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd)</sub> | <sub>[da7524d](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd) fix: address validation at summary screen init - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3728 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-20 12:26:20</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d)</sub> | <sub>[61c258e](https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d) fix: add public address validation - ciripel</sub> |
 | <sub>2022-10-20 12:01:45</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.6](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.6)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-10-20 11:53:31</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/800afb0a81180fd7bcb6ff9af199e6a96434f3fe)</sub> | <sub>[800afb0](https://github.com/SimplioOfficial/sio_core_light/commit/800afb0a81180fd7bcb6ff9af199e6a96434f3fe) Task/15 pubkey validator (#20) - ciripel</sub> |
-| <sub>2022-10-20 11:48:11</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7778c8ae0bd5fd4923fcb4da38d6c068ce1ae3a2)</sub> | <sub>[7778c8a](https://github.com/SimplioOfficial/simplio-app/commit/7778c8ae0bd5fd4923fcb4da38d6c068ce1ae3a2) fix: update swap service to reflex final backend - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
