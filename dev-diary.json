@@ -66514,5 +66514,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d6b35aa7d0ea...d004e1dc380a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 03:47:48.750000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b26e353`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b26e3538ca413412d0c3e81ef7ab31a122d3d1cb) feat: 1inch swap support - PitTxid\n[`903acc4`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/903acc4111217764cc2ff8294c618c803d6af430) feat: increase version - PitTxid\n[`b0db227`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b0db2277f15666035119bf204157bf23563d5a02) chore(release): 1.0.1 - PitTxid\n[`eb1728a`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/eb1728a33506ddc1723326f08241ebd00201c42d) Merge pull request #8 from SimplioOfficial/4-su... - PitTxid",
+      "title": "[backend-polygon-wallet-lib:develop] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/ebcd4de827bd...eb1728a33506"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 03:49:00.430000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`b26e353`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b26e3538ca413412d0c3e81ef7ab31a122d3d1cb) feat: 1inch swap support - PitTxid\n[`903acc4`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/903acc4111217764cc2ff8294c618c803d6af430) feat: increase version - PitTxid\n[`b0db227`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b0db2277f15666035119bf204157bf23563d5a02) chore(release): 1.0.1 - PitTxid\n[`eb1728a`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/eb1728a33506ddc1723326f08241ebd00201c42d) Merge pull request #8 from SimplioOfficial/4-su... - PitTxid\n[`5b06798`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/5b06798ba5747291f7b7b72b3078c40d89be2ea4) Merge pull request #9 from SimplioOfficial/rc1.0.1 - PitTxid",
+      "title": "[backend-polygon-wallet-lib:master] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/aa36440bf015...5b06798ba574"
+    }
   }
 ]
