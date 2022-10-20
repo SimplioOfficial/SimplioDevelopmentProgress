@@ -66675,5 +66675,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/edb7a733c61dc01920bf9d0178d030accd61d3f5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 10:54:22.370000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`efcf145`](https://github.com/SimplioOfficial/sio_core_light/commit/efcf145bc5c10891ae1db865ba3864c2baf1593f) implement pubkey validator and tests - ciripel\n[`273cf1f`](https://github.com/SimplioOfficial/sio_core_light/commit/273cf1f2b6650a291a5b54bf70401eb568908a79) chore: increase version to 1.1.6 - ciripel",
+      "title": "[sio_core_light:task/15\\-pubkey\\-validator] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/c9864d86df6b...273cf1f2b665"
+    }
   }
 ]
