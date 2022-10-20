@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3705 commits since 10/09/2021. You can see the complete history in
+There is a total of 3706 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-20 03:33:59</sub> | <sub>[[backend-polygon-wallet-lib:4\-support\-1\-inch\-swap] 3 new commits](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/compare/ebcd4de827bd...b0db2277f156)</sub> | <sub>[b26e353](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b26e3538ca413412d0c3e81ef7ab31a122d3d1cb) feat: 1inch swap support - PitTxid<br>[903acc4](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/903acc4111217764cc2ff8294c618c803d6af430) feat: increase version - PitTxid<br>[b0db227](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/b0db2277f15666035119bf204157bf23563d5a02) chore(release): 1.0.1 - PitTxid</sub> |
 | <sub>2022-10-19 13:49:06</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/37a756117c90...373d009254ba)</sub> | <sub>[43841f4](https://github.com/SimplioOfficial/simplio-app/commit/43841f4ad182a3739e9eb220b0ac99e511bcd277) wip - price refreshing - jvrastil<br>[373d009](https://github.com/SimplioOfficial/simplio-app/commit/373d009254baf1e89ad1b90ca1383ad6a8be2ce9) wip - build fix - jvrastil</sub> |
 | <sub>2022-10-19 13:13:35</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/508bdb6c320c...37a756117c90)</sub> |
 | <sub>2022-10-19 13:11:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/66d3cd18d66b...9f9448caadff)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3705 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-19 10:27:02</sub> | <sub>[[simplio-app:task/271\-redesign\-login\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1aebb34a5eba520610b6f1a22003a768df9d5288)</sub> | <sub>[1aebb34](https://github.com/SimplioOfficial/simplio-app/commit/1aebb34a5eba520610b6f1a22003a768df9d5288) Rebased by master - Tomáš Petrík</sub> |
 | <sub>2022-10-19 10:16:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f699126507f05b92a6e7246f0f6221bc60140f2)</sub> | <sub>[4f69912](https://github.com/SimplioOfficial/simplio-app/commit/4f699126507f05b92a6e7246f0f6221bc60140f2) Task/244 simplio glyphs (#270) - TomasPetrik</sub> |
 | <sub>2022-10-19 10:15:51</sub> | <sub>[[simplio-app:task/244\-simplio\-glyphs] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/40ccec987fc5...9079ebb600db)</sub> | <sub>[bcf62d5](https://github.com/SimplioOfficial/simplio-app/commit/bcf62d5d89101dc3f7b1e1175c3fd94006313045) Completed task/266-redesign-splash-screen (#267) - TomasPetrik<br>[9079ebb](https://github.com/SimplioOfficial/simplio-app/commit/9079ebb600db3c5852e09442cdd7b8c4064924aa) Rebased by master - Tomáš Petrík</sub> |
-| <sub>2022-10-19 10:03:42</sub> | <sub>[[simplio-app:task/271\-redesign\-login\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81a88f5c0611bbe8bad321e5a9c0ff3d263223db)</sub> | <sub>[81a88f5](https://github.com/SimplioOfficial/simplio-app/commit/81a88f5c0611bbe8bad321e5a9c0ff3d263223db) Fixed PR's issues. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
