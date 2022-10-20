@@ -66763,5 +66763,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-20 12:52:41.953000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`ea7191f`](https://github.com/SimplioOfficial/simplio-app/commit/ea7191f9e978910e20273ddb99041d87aa56e3b8) Completed task/266-redesign-splash-screen (#267) - TomasPetrik\n[`422820f`](https://github.com/SimplioOfficial/simplio-app/commit/422820fc43e88ebf2cb787482465d4764cd56387) Fixes for timeout - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/16b89fcacf2d...422820fc43e8"
+    }
   }
 ]
