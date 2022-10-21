@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3733 commits since 10/09/2021. You can see the complete history in
+There is a total of 3734 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-21 09:14:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b9eae46bd06c...57fbb2890dad)</sub> |
 | <sub>2022-10-21 07:34:43</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d)</sub> | <sub>[b10424a](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d) Completed task/278-redesign-create-new-account-... - TomasPetrik</sub> |
 | <sub>2022-10-21 06:58:55</sub> | <sub>[[simplio-app:test/fixes\_tests\_for\_258] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971)</sub> | <sub>[b39e8c5](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971) Fixes after pages refactoring - MariooW</sub> |
 | <sub>2022-10-21 06:31:33</sub> | <sub>[[backend-eth-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d004e1dc380a...a8f0690d6ba9)</sub> | <sub>[6999181](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/69991811f00e65912cd6c43e64798cceae597717) feat: support swap transaction - PitTxid<br>[a8f0690](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/a8f0690d6ba9bdb81ee59ef02a9d3c3dc39a6a4a) Merge pull request #16 from SimplioOfficial/13-... - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3733 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-20 15:27:22</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14)</sub> | <sub>[98deb4d](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14) Fixed input text issues. - Tomáš Petrík</sub> |
 | <sub>2022-10-20 14:01:59</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd)</sub> | <sub>[da7524d](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd) fix: address validation at summary screen init - ciripel</sub> |
 | <sub>2022-10-20 13:51:46</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c42cbcc56c6b8744241a8621cddb8f756325ec01)</sub> | <sub>[c42cbcc](https://github.com/SimplioOfficial/simplio-app/commit/c42cbcc56c6b8744241a8621cddb8f756325ec01) wip: back to Ami after fixing Tom's malakia - jvrastil</sub> |
-| <sub>2022-10-20 13:46:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3d0a87fcbee75a286990e00c7aa3f49ed80b723)</sub> | <sub>[f3d0a87](https://github.com/SimplioOfficial/simplio-app/commit/f3d0a87fcbee75a286990e00c7aa3f49ed80b723) fix: networkAsset ticker - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
