@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3734 commits since 10/09/2021. You can see the complete history in
+There is a total of 3735 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-21 10:12:46</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b)</sub> | <sub>[0cb179a](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b) Completed task/284-redesign-change-password - Tomáš Petrík</sub> |
 | <sub>2022-10-21 09:14:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b9eae46bd06c...57fbb2890dad)</sub> |
 | <sub>2022-10-21 07:34:43</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d)</sub> | <sub>[b10424a](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d) Completed task/278-redesign-create-new-account-... - TomasPetrik</sub> |
 | <sub>2022-10-21 06:58:55</sub> | <sub>[[simplio-app:test/fixes\_tests\_for\_258] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971)</sub> | <sub>[b39e8c5](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971) Fixes after pages refactoring - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3734 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-20 16:37:01</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c)</sub> | <sub>[a16c050](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c) Removed focus node - Tomáš Petrík</sub> |
 | <sub>2022-10-20 15:27:22</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14)</sub> | <sub>[98deb4d](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14) Fixed input text issues. - Tomáš Petrík</sub> |
 | <sub>2022-10-20 14:01:59</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd)</sub> | <sub>[da7524d](https://github.com/SimplioOfficial/simplio-app/commit/da7524d2a8745e0400c503fc7c548c4461be3ebd) fix: address validation at summary screen init - ciripel</sub> |
-| <sub>2022-10-20 13:51:46</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c42cbcc56c6b8744241a8621cddb8f756325ec01)</sub> | <sub>[c42cbcc](https://github.com/SimplioOfficial/simplio-app/commit/c42cbcc56c6b8744241a8621cddb8f756325ec01) wip: back to Ami after fixing Tom's malakia - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

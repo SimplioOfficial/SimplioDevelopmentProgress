@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-21 10:12:46</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b)</sub> | <sub>[0cb179a](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b) Completed task/284-redesign-change-password - Tomáš Petrík</sub> |
 | <sub>2022-10-21 09:14:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b9eae46bd06c...57fbb2890dad)</sub> |
 | <sub>2022-10-21 07:34:43</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d)</sub> | <sub>[b10424a](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d) Completed task/278-redesign-create-new-account-... - TomasPetrik</sub> |
 | <sub>2022-10-21 06:58:55</sub> | <sub>[[simplio-app:test/fixes\_tests\_for\_258] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971)</sub> | <sub>[b39e8c5](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971) Fixes after pages refactoring - MariooW</sub> |
