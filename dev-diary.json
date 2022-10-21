@@ -67031,5 +67031,23 @@
       "title": "[simplio-app] Branch task/276\\-fiat\\_values was force-pushed to `8f8f9e1`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-21 12:57:08.630000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c1db529`](https://github.com/SimplioOfficial/simplio-app/commit/c1db529ead40c6559dd92f92dfe48a130aa4c743) Revert \"wip: back to Ami after fixing Tom's mal... - jvrastil\n[`bb2b550`](https://github.com/SimplioOfficial/simplio-app/commit/bb2b5500cfbffbb601a6b093defec2b726a441bc) wip: fix go back actions - jvrastil",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/301f63eec6f2...bb2b5500cfbf"
+    }
   }
 ]
