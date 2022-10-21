@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3729 commits since 10/09/2021. You can see the complete history in
+There is a total of 3731 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-21 06:31:33</sub> | <sub>[[backend-eth-wallet-lib:development] 2 new commits](https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d004e1dc380a...a8f0690d6ba9)</sub> | <sub>[6999181](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/69991811f00e65912cd6c43e64798cceae597717) feat: support swap transaction - PitTxid<br>[a8f0690](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/a8f0690d6ba9bdb81ee59ef02a9d3c3dc39a6a4a) Merge pull request #16 from SimplioOfficial/13-... - PitTxid</sub> |
+| <sub>2022-10-21 06:31:07</sub> | <sub>[[backend-eth-wallet-lib:13\-support\-value\-field\-in\-swap\-transaction] 1 new commit](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/69991811f00e65912cd6c43e64798cceae597717)</sub> | <sub>[6999181](https://github.com/SimplioOfficial/backend-eth-wallet-lib/commit/69991811f00e65912cd6c43e64798cceae597717) feat: support swap transaction - PitTxid</sub> |
 | <sub>2022-10-20 17:52:16</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b)</sub> | <sub>[eab8670](https://github.com/SimplioOfficial/simplio-app/commit/eab867023af4a2b8c033acc1c1d8641bd05dd55b) Task/276 - Add fiat balance - jvrastil</sub> |
 | <sub>2022-10-20 16:37:01</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c)</sub> | <sub>[a16c050](https://github.com/SimplioOfficial/simplio-app/commit/a16c050fbf5587db0c60be879204527117c8ac5c) Removed focus node - Tomáš Petrík</sub> |
 | <sub>2022-10-20 15:27:22</sub> | <sub>[[simplio-app:task/278\-redesign\-create\-new\-account\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14)</sub> | <sub>[98deb4d](https://github.com/SimplioOfficial/simplio-app/commit/98deb4dd8e29aec7e3fb8243170e52f0dd7eaf14) Fixed input text issues. - Tomáš Petrík</sub> |
@@ -16,7 +18,5 @@ There is a total of 3729 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-20 13:46:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3d0a87fcbee75a286990e00c7aa3f49ed80b723)</sub> | <sub>[f3d0a87](https://github.com/SimplioOfficial/simplio-app/commit/f3d0a87fcbee75a286990e00c7aa3f49ed80b723) fix: networkAsset ticker - ciripel</sub> |
 | <sub>2022-10-20 12:52:41</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/16b89fcacf2d...422820fc43e8)</sub> | <sub>[ea7191f](https://github.com/SimplioOfficial/simplio-app/commit/ea7191f9e978910e20273ddb99041d87aa56e3b8) Completed task/266-redesign-splash-screen (#267) - TomasPetrik<br>[422820f](https://github.com/SimplioOfficial/simplio-app/commit/422820fc43e88ebf2cb787482465d4764cd56387) Fixes for timeout - MariooW</sub> |
 | <sub>2022-10-20 12:26:20</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d)</sub> | <sub>[61c258e](https://github.com/SimplioOfficial/simplio-app/commit/61c258ea1f5e89faeaa00cd4edb65f2bd7c4270d) fix: add public address validation - ciripel</sub> |
-| <sub>2022-10-20 12:01:45</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.6](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.6)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-10-20 11:53:31</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/800afb0a81180fd7bcb6ff9af199e6a96434f3fe)</sub> | <sub>[800afb0](https://github.com/SimplioOfficial/sio_core_light/commit/800afb0a81180fd7bcb6ff9af199e6a96434f3fe) Task/15 pubkey validator (#20) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
