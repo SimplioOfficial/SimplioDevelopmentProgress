@@ -66925,5 +66925,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-eth-wallet-lib/compare/d004e1dc380a...a8f0690d6ba9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-21 06:58:55.885000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`b39e8c5`](https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971) Fixes after pages refactoring - MariooW",
+      "title": "[simplio-app:test/fixes\\_tests\\_for\\_258] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b39e8c52d3a3719eab934ad0771dd172dabfb971"
+    }
   }
 ]
