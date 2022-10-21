@@ -66996,5 +66996,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-21 11:45:37.495000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`301f63e`](https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc) Clear swap cache when add new coin in wallet - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc"
+    }
   }
 ]
