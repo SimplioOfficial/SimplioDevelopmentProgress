@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-22 07:18:29</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb)</sub> | <sub>[e6f8b58](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb) wip - jvrastil</sub> |
 | <sub>2022-10-21 18:01:37</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/373d009254ba...7699233f8be0)</sub> |
 | <sub>2022-10-21 12:57:08</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/301f63eec6f2...bb2b5500cfbf)</sub> | <sub>[c1db529](https://github.com/SimplioOfficial/simplio-app/commit/c1db529ead40c6559dd92f92dfe48a130aa4c743) Revert "wip: back to Ami after fixing Tom's mal... - jvrastil<br>[bb2b550](https://github.com/SimplioOfficial/simplio-app/commit/bb2b5500cfbffbb601a6b093defec2b726a441bc) wip: fix go back actions - jvrastil</sub> |
 | <sub>2022-10-21 12:35:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/eab867023af4...8f8f9e1697e3)</sub> |
