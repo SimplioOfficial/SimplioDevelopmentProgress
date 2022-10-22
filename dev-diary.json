@@ -67084,5 +67084,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-22 14:12:43.453000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`1a1d49f`](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a) feat: add test swap - PitTxid",
+      "title": "[backend-polygon-wallet-lib:develop] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a"
+    }
   }
 ]
