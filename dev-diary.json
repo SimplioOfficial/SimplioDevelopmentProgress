@@ -67120,5 +67120,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-22 21:38:21.091000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5a9c738`](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364"
+    }
   }
 ]

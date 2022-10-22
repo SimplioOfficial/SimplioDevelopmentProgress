@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-22 21:38:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364)</sub> | <sub>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil</sub> |
 | <sub>2022-10-22 19:49:40</sub> | <sub>[[simplio-app:task/258\-configure\_qr\_scanner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac)</sub> | <sub>[bd6ba33](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac) Fixes after pages refactoring - MariooW</sub> |
 | <sub>2022-10-22 14:12:43</sub> | <sub>[[backend-polygon-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a)</sub> | <sub>[1a1d49f](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a) feat: add test swap - PitTxid</sub> |
 | <sub>2022-10-22 07:18:29</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb)</sub> | <sub>[e6f8b58](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb) wip - jvrastil</sub> |
