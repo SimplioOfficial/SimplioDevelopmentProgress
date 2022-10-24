@@ -67565,5 +67565,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/791cc4fc1e93d6c2a79f9add77a017c5a50c67f4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 22:29:41.547000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`0f40995`](https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9) Changed keys in tests to be in line with code - MariooW",
+      "title": "[simplio-app:task/269\\-search\\-coins\\-detail\\-ui] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9"
+    }
   }
 ]
