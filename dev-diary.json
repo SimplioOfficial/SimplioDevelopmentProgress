@@ -67529,5 +67529,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 22:00:17.501000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`704c281`](https://github.com/SimplioOfficial/simplio-app/commit/704c281e70077992662fe56edd91d4de336574c1) Task/244 simplio glyphs (#270) - TomasPetrik\n[`a5f77f1`](https://github.com/SimplioOfficial/simplio-app/commit/a5f77f109d4322184823a5a612e7d48bf766b707) Task/271 redesign login screen (#277) - TomasPetrik\n[`48c94a8`](https://github.com/SimplioOfficial/simplio-app/commit/48c94a8edc7724b321864849e878588442de2fc2) Completed task/278-redesign-create-new-account-... - TomasPetrik\n[`fd096b4`](https://github.com/SimplioOfficial/simplio-app/commit/fd096b4bc2a6616480d687925bc5f308013febbf) Task/258 - Configure QR scanners (#273) - jvrastil\n[`26d2da0`](https://github.com/SimplioOfficial/simplio-app/commit/26d2da0dee10a41c012c5e27433d90e9ed1722d2) 264 - adding small fixes - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 9 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/422820fc43e8...4f5801680c42"
+    }
   }
 ]
