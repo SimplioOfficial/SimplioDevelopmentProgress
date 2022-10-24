@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 21:59:35</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912)</sub> | <sub>[4b723db](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912) 1. Fixed all naviagatio back action from app bar, - Tomáš Petrík</sub> |
 | <sub>2022-10-24 19:31:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c80706259b6d...39b6dadc3246)</sub> |
 | <sub>2022-10-24 19:19:20</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5274e187908e...2e480823d1ad)</sub> |
 | <sub>2022-10-24 18:44:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a22ed5a9dc56...c80706259b6d)</sub> | <sub>[118bf22](https://github.com/SimplioOfficial/simplio-app/commit/118bf2218fbf9b9c4440830a9cc95bf3d5eae322) fix: update swap_serv to reflect current backend - ciripel<br>[c807062](https://github.com/SimplioOfficial/simplio-app/commit/c80706259b6d7eca6bc0a40f02031dcf0ca592c2) chore: remove debugging print - ciripel</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3764 commits since 10/09/2021. You can see the complete history in
+There is a total of 3765 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 21:59:35</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912)</sub> | <sub>[4b723db](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912) 1. Fixed all naviagatio back action from app bar, - Tomáš Petrík</sub> |
 | <sub>2022-10-24 19:31:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c80706259b6d...39b6dadc3246)</sub> |
 | <sub>2022-10-24 19:19:20</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5274e187908e...2e480823d1ad)</sub> |
 | <sub>2022-10-24 18:44:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a22ed5a9dc56...c80706259b6d)</sub> | <sub>[118bf22](https://github.com/SimplioOfficial/simplio-app/commit/118bf2218fbf9b9c4440830a9cc95bf3d5eae322) fix: update swap_serv to reflect current backend - ciripel<br>[c807062](https://github.com/SimplioOfficial/simplio-app/commit/c80706259b6d7eca6bc0a40f02031dcf0ca592c2) chore: remove debugging print - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3764 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-24 14:46:07</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b506aec0817052c11fc87af5687f0e62f0e3641e)</sub> | <sub>[b506aec](https://github.com/SimplioOfficial/simplio-app/commit/b506aec0817052c11fc87af5687f0e62f0e3641e) Task/284 redesign change password (#285) - TomasPetrik</sub> |
 | <sub>2022-10-24 14:45:18</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/413a6d8f1be8...9fe66729f6fb)</sub> | <sub>[b10424a](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d) Completed task/278-redesign-create-new-account-... - TomasPetrik<br>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil<br>[9fe6672](https://github.com/SimplioOfficial/simplio-app/commit/9fe66729f6fbbfd6ba4d808901011f1a18812cca) Rebased with master. - Tomáš Petrík</sub> |
 | <sub>2022-10-24 14:30:30</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/413a6d8f1be89e0df9e222ee63877834fb407b47)</sub> | <sub>[413a6d8](https://github.com/SimplioOfficial/simplio-app/commit/413a6d8f1be89e0df9e222ee63877834fb407b47) Put back unit to be not nullable. - Tomáš Petrík</sub> |
-| <sub>2022-10-24 14:17:26</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/860992184a4edfeb28fe62a2a27b765af9227ac2)</sub> | <sub>[8609921](https://github.com/SimplioOfficial/simplio-app/commit/860992184a4edfeb28fe62a2a27b765af9227ac2) 1. Put feeUnit back to be not nullable. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
