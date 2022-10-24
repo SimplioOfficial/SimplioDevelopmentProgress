@@ -67351,5 +67351,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/860992184a4edfeb28fe62a2a27b765af9227ac2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 14:30:30.239000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`413a6d8`](https://github.com/SimplioOfficial/simplio-app/commit/413a6d8f1be89e0df9e222ee63877834fb407b47) Put back unit to be not nullable. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/284\\-redesign\\-change\\-password] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/413a6d8f1be89e0df9e222ee63877834fb407b47"
+    }
   }
 ]
