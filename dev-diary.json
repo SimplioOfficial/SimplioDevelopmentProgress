@@ -67369,5 +67369,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/413a6d8f1be89e0df9e222ee63877834fb407b47"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 14:45:18.526000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b10424a`](https://github.com/SimplioOfficial/simplio-app/commit/b10424a656d2233886abb8ef3102108844ed506d) Completed task/278-redesign-create-new-account-... - TomasPetrik\n[`5a9c738`](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil\n[`9fe6672`](https://github.com/SimplioOfficial/simplio-app/commit/9fe66729f6fbbfd6ba4d808901011f1a18812cca) Rebased with master. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/284\\-redesign\\-change\\-password] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/413a6d8f1be8...9fe66729f6fb"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 14:46:07.145000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b506aec`](https://github.com/SimplioOfficial/simplio-app/commit/b506aec0817052c11fc87af5687f0e62f0e3641e) Task/284 redesign change password (#285) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b506aec0817052c11fc87af5687f0e62f0e3641e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 14:48:15.593000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b506aec`](https://github.com/SimplioOfficial/simplio-app/commit/b506aec0817052c11fc87af5687f0e62f0e3641e) Task/284 redesign change password (#285) - TomasPetrik\n[`7825128`](https://github.com/SimplioOfficial/simplio-app/commit/78251282c0ae081d920dc0b1acbbf69b444088e4) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/269\\-search\\-coins\\-detail\\-ui] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/59046c2a6d2a...78251282c0ae"
+    }
   }
 ]
