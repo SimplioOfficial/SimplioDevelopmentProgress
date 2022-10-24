@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 12:43:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7699233f8be0...853f568d77a2)</sub> |
 | <sub>2022-10-24 08:51:02</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238)</sub> | <sub>[a22ed5a](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238) fix: rename property of assetSendQrScanner - ciripel</sub> |
 | <sub>2022-10-24 08:35:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bb2b5500cfbf...638561b5ce60)</sub> |
 | <sub>2022-10-24 07:23:02</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27)</sub> | <sub>[6a830bc](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27) changes before code review - jvrastil</sub> |
