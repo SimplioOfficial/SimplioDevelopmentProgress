@@ -67459,5 +67459,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d26adbf40d1786f88f06e0f32f8c1925a4c8f578"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 18:44:35.891000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`118bf22`](https://github.com/SimplioOfficial/simplio-app/commit/118bf2218fbf9b9c4440830a9cc95bf3d5eae322) fix: update swap_serv to reflect current backend - ciripel\n[`c807062`](https://github.com/SimplioOfficial/simplio-app/commit/c80706259b6d7eca6bc0a40f02031dcf0ca592c2) chore: remove debugging print - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a22ed5a9dc56...c80706259b6d"
+    }
   }
 ]
