@@ -67279,5 +67279,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/66659ffa7796...5ede526fb089"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 13:25:32.299000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`5274e18`](https://github.com/SimplioOfficial/simplio-app/commit/5274e187908efaa6692519f8ed98c651cb97bbe5) build fix - jvrastil",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5274e187908efaa6692519f8ed98c651cb97bbe5"
+    }
   }
 ]
