@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3754 commits since 10/09/2021. You can see the complete history in
+There is a total of 3755 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 14:17:26</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/860992184a4edfeb28fe62a2a27b765af9227ac2)</sub> | <sub>[8609921](https://github.com/SimplioOfficial/simplio-app/commit/860992184a4edfeb28fe62a2a27b765af9227ac2) 1. Put feeUnit back to be not nullable. - Tomáš Petrík</sub> |
 | <sub>2022-10-24 14:06:02</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eaa923b975f9cf14d2dec632fe97fd026207d2ff)</sub> | <sub>[eaa923b](https://github.com/SimplioOfficial/simplio-app/commit/eaa923b975f9cf14d2dec632fe97fd026207d2ff) Added toto to change icons once they will be de... - Tomáš Petrík</sub> |
 | <sub>2022-10-24 14:02:37</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59046c2a6d2adf02fdde32e99ba2059b2ef24e60)</sub> | <sub>[59046c2](https://github.com/SimplioOfficial/simplio-app/commit/59046c2a6d2adf02fdde32e99ba2059b2ef24e60) Completed task/269-search-coins-detail-ui - Tomáš Petrík</sub> |
 | <sub>2022-10-24 13:25:32</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5274e187908efaa6692519f8ed98c651cb97bbe5)</sub> | <sub>[5274e18](https://github.com/SimplioOfficial/simplio-app/commit/5274e187908efaa6692519f8ed98c651cb97bbe5) build fix - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3754 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-24 08:51:02</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238)</sub> | <sub>[a22ed5a](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238) fix: rename property of assetSendQrScanner - ciripel</sub> |
 | <sub>2022-10-24 08:35:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bb2b5500cfbf...638561b5ce60)</sub> |
 | <sub>2022-10-24 07:23:02</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27)</sub> | <sub>[6a830bc](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27) changes before code review - jvrastil</sub> |
-| <sub>2022-10-24 07:10:49</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52)</sub> | <sub>[a307557](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52) wip: fix go back actions - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
