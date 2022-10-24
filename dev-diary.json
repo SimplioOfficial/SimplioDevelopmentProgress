@@ -67494,5 +67494,22 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `2e48082`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 19:31:38.495000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c80706259b6d...39b6dadc3246)",
+      "title": "[simplio-app] Branch task/222\\-swap\\-logic\\-implementation was force-pushed to `39b6dad`",
+      "type": "rich"
+    }
   }
 ]
