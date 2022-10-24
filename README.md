@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3749 commits since 10/09/2021. You can see the complete history in
+There is a total of 3750 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 12:54:17</sub> | <sub>[[simplio-app:task/223\-buy\-logic\-implementation] 17 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9d9ae2f88844...66659ffa7796)</sub> | <sub>[92d8212](https://github.com/SimplioOfficial/simplio-app/commit/92d82129b82a56fd449d94dceec32f89e4eafd55) Disabling Andrpid part on tests (#252) - MariooW<br>[40ba0bb](https://github.com/SimplioOfficial/simplio-app/commit/40ba0bbd71f7108623bc4f8ac975b2f285d06b4f) Completed task/236-colors-refactoring (#247) - TomasPetrik<br>[0bcea32](https://github.com/SimplioOfficial/simplio-app/commit/0bcea32eaa0f9afaf315e93319fa7276221683ec) Completed task/255-crypto-icons-library (#259) - TomasPetrik<br>[d4c9acf](https://github.com/SimplioOfficial/simplio-app/commit/d4c9acf67190ab0269daf93fd3882dbfeefddf7d) Infrastructure/194 - Release new dev version wi... - jvrastil<br>[629ea6f](https://github.com/SimplioOfficial/simplio-app/commit/629ea6fe62ed265fa2f435d88fb14f0dfaf9dcd8) Task/230 - Buy form UI (#248) - jvrastil</sub> |
 | <sub>2022-10-24 12:43:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7699233f8be0...853f568d77a2)</sub> |
 | <sub>2022-10-24 08:51:02</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238)</sub> | <sub>[a22ed5a](https://github.com/SimplioOfficial/simplio-app/commit/a22ed5a9dc563c972656df3f3ec216900967b238) fix: rename property of assetSendQrScanner - ciripel</sub> |
 | <sub>2022-10-24 08:35:13</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bb2b5500cfbf...638561b5ce60)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3749 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-22 21:38:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364)</sub> | <sub>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil</sub> |
 | <sub>2022-10-22 19:49:40</sub> | <sub>[[simplio-app:task/258\-configure\_qr\_scanner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac)</sub> | <sub>[bd6ba33](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac) Fixes after pages refactoring - MariooW</sub> |
 | <sub>2022-10-22 14:12:43</sub> | <sub>[[backend-polygon-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a)</sub> | <sub>[1a1d49f](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a) feat: add test swap - PitTxid</sub> |
-| <sub>2022-10-22 07:18:29</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb)</sub> | <sub>[e6f8b58](https://github.com/SimplioOfficial/simplio-app/commit/e6f8b5841bc3a30e8d29b439d3a65402a7b868bb) wip - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

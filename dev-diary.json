@@ -67243,5 +67243,23 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `853f568`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 12:54:17.154000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`92d8212`](https://github.com/SimplioOfficial/simplio-app/commit/92d82129b82a56fd449d94dceec32f89e4eafd55) Disabling Andrpid part on tests (#252) - MariooW\n[`40ba0bb`](https://github.com/SimplioOfficial/simplio-app/commit/40ba0bbd71f7108623bc4f8ac975b2f285d06b4f) Completed task/236-colors-refactoring (#247) - TomasPetrik\n[`0bcea32`](https://github.com/SimplioOfficial/simplio-app/commit/0bcea32eaa0f9afaf315e93319fa7276221683ec) Completed task/255-crypto-icons-library (#259) - TomasPetrik\n[`d4c9acf`](https://github.com/SimplioOfficial/simplio-app/commit/d4c9acf67190ab0269daf93fd3882dbfeefddf7d) Infrastructure/194 - Release new dev version wi... - jvrastil\n[`629ea6f`](https://github.com/SimplioOfficial/simplio-app/commit/629ea6fe62ed265fa2f435d88fb14f0dfaf9dcd8) Task/230 - Buy form UI (#248) - jvrastil",
+      "title": "[simplio-app:task/223\\-buy\\-logic\\-implementation] 17 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9d9ae2f88844...66659ffa7796"
+    }
   }
 ]
