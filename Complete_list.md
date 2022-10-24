@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 07:23:02</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27)</sub> | <sub>[6a830bc](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27) changes before code review - jvrastil</sub> |
 | <sub>2022-10-24 07:10:49</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52)</sub> | <sub>[a307557](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52) wip: fix go back actions - jvrastil</sub> |
 | <sub>2022-10-24 06:50:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6f8b5841bc3...30e7666936f6)</sub> |
 | <sub>2022-10-22 21:38:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364)</sub> | <sub>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3745 commits since 10/09/2021. You can see the complete history in
+There is a total of 3746 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 07:23:02</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27)</sub> | <sub>[6a830bc](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27) changes before code review - jvrastil</sub> |
 | <sub>2022-10-24 07:10:49</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52)</sub> | <sub>[a307557](https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52) wip: fix go back actions - jvrastil</sub> |
 | <sub>2022-10-24 06:50:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6f8b5841bc3...30e7666936f6)</sub> |
 | <sub>2022-10-22 21:38:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364)</sub> | <sub>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3745 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-21 18:01:37</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/373d009254ba...7699233f8be0)</sub> |
 | <sub>2022-10-21 12:57:08</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/301f63eec6f2...bb2b5500cfbf)</sub> | <sub>[c1db529](https://github.com/SimplioOfficial/simplio-app/commit/c1db529ead40c6559dd92f92dfe48a130aa4c743) Revert "wip: back to Ami after fixing Tom's mal... - jvrastil<br>[bb2b550](https://github.com/SimplioOfficial/simplio-app/commit/bb2b5500cfbffbb601a6b093defec2b726a441bc) wip: fix go back actions - jvrastil</sub> |
 | <sub>2022-10-21 12:35:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/eab867023af4...8f8f9e1697e3)</sub> |
-| <sub>2022-10-21 11:45:37</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc)</sub> | <sub>[301f63e](https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc) Clear swap cache when add new coin in wallet - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

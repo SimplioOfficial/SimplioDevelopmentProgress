@@ -67173,5 +67173,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a30755781defc9f06a43a15e0ca678dfbafade52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 07:23:02.173000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`6a830bc`](https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27) changes before code review - jvrastil",
+      "title": "[simplio-app:task/276\\-fiat\\_values] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6a830bcc3eaf11100d43bb16094faa22bbc37d27"
+    }
   }
 ]
