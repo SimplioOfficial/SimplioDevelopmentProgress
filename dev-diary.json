@@ -67138,5 +67138,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 06:50:41.904000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6f8b5841bc3...30e7666936f6)",
+      "title": "[simplio-app] Branch task/276\\-fiat\\_values was force-pushed to `30e7666`",
+      "type": "rich"
+    }
   }
 ]

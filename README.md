@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3743 commits since 10/09/2021. You can see the complete history in
+There is a total of 3744 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-24 06:50:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e6f8b5841bc3...30e7666936f6)</sub> |
 | <sub>2022-10-22 21:38:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364)</sub> | <sub>[5a9c738](https://github.com/SimplioOfficial/simplio-app/commit/5a9c73823a3bebe927f53d13332a42a0d6c92364) Task/258 - Configure QR scanners (#273) - jvrastil</sub> |
 | <sub>2022-10-22 19:49:40</sub> | <sub>[[simplio-app:task/258\-configure\_qr\_scanner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac)</sub> | <sub>[bd6ba33](https://github.com/SimplioOfficial/simplio-app/commit/bd6ba33b6c321a28d6895eb0607c7385a25057ac) Fixes after pages refactoring - MariooW</sub> |
 | <sub>2022-10-22 14:12:43</sub> | <sub>[[backend-polygon-wallet-lib:develop] 1 new commit](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a)</sub> | <sub>[1a1d49f](https://github.com/SimplioOfficial/backend-polygon-wallet-lib/commit/1a1d49f720d20667035ddeb638472b1e1ca5e73a) feat: add test swap - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3743 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-21 12:35:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/eab867023af4...8f8f9e1697e3)</sub> |
 | <sub>2022-10-21 11:45:37</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc)</sub> | <sub>[301f63e](https://github.com/SimplioOfficial/simplio-app/commit/301f63eec6f25af2e34dff996e39fce13e3d9dfc) Clear swap cache when add new coin in wallet - ciripel</sub> |
 | <sub>2022-10-21 10:12:46</sub> | <sub>[[simplio-app:task/284\-redesign\-change\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b)</sub> | <sub>[0cb179a](https://github.com/SimplioOfficial/simplio-app/commit/0cb179a14630318eb540933fa5369f1dcad8054b) Completed task/284-redesign-change-password - Tomáš Petrík</sub> |
-| <sub>2022-10-21 09:14:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b9eae46bd06c...57fbb2890dad)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
