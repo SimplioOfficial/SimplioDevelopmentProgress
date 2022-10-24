@@ -67315,5 +67315,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/59046c2a6d2adf02fdde32e99ba2059b2ef24e60"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-24 14:06:02.262000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`eaa923b`](https://github.com/SimplioOfficial/simplio-app/commit/eaa923b975f9cf14d2dec632fe97fd026207d2ff) Added toto to change icons once they will be de... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/284\\-redesign\\-change\\-password] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eaa923b975f9cf14d2dec632fe97fd026207d2ff"
+    }
   }
 ]
