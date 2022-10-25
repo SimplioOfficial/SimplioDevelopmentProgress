@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3769 commits since 10/09/2021. You can see the complete history in
+There is a total of 3770 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-25 07:16:26</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c)</sub> | <sub>[99e97a5](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c) test fix - jvrastil</sub> |
 | <sub>2022-10-25 07:11:56</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805)</sub> | <sub>[e609cd9](https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805) Completed task/269-search-coins-detail-ui (#291) - TomasPetrik</sub> |
 | <sub>2022-10-24 22:29:41</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9)</sub> | <sub>[0f40995](https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9) Changed keys in tests to be in line with code - MariooW</sub> |
 | <sub>2022-10-24 22:11:23</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/791cc4fc1e93d6c2a79f9add77a017c5a50c67f4)</sub> | <sub>[791cc4f](https://github.com/SimplioOfficial/simplio-app/commit/791cc4fc1e93d6c2a79f9add77a017c5a50c67f4) Adding new test - fixes - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3769 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-24 19:19:20</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5274e187908e...2e480823d1ad)</sub> |
 | <sub>2022-10-24 18:44:35</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a22ed5a9dc56...c80706259b6d)</sub> | <sub>[118bf22](https://github.com/SimplioOfficial/simplio-app/commit/118bf2218fbf9b9c4440830a9cc95bf3d5eae322) fix: update swap_serv to reflect current backend - ciripel<br>[c807062](https://github.com/SimplioOfficial/simplio-app/commit/c80706259b6d7eca6bc0a40f02031dcf0ca592c2) chore: remove debugging print - ciripel</sub> |
 | <sub>2022-10-24 15:45:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d26adbf40d1786f88f06e0f32f8c1925a4c8f578)</sub> | <sub>[d26adbf](https://github.com/SimplioOfficial/simplio-app/commit/d26adbf40d1786f88f06e0f32f8c1925a4c8f578) Task/223 buy logic implementation (#249) - storkandstars</sub> |
-| <sub>2022-10-24 15:20:22</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76ea7f8c975f95c06974b145bae3de1ea8a8be36)</sub> | <sub>[76ea7f8](https://github.com/SimplioOfficial/simplio-app/commit/76ea7f8c975f95c06974b145bae3de1ea8a8be36) Moved Navigator.of(context).pop() method to be ... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
