@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-25 07:50:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/99e97a505ead...8f0ec3e54525)</sub> |
 | <sub>2022-10-25 07:16:26</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c)</sub> | <sub>[99e97a5](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c) test fix - jvrastil</sub> |
 | <sub>2022-10-25 07:11:56</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805)</sub> | <sub>[e609cd9](https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805) Completed task/269-search-coins-detail-ui (#291) - TomasPetrik</sub> |
 | <sub>2022-10-24 22:29:41</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9)</sub> | <sub>[0f40995](https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9) Changed keys in tests to be in line with code - MariooW</sub> |
