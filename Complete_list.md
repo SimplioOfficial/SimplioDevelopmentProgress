@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-25 12:43:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d)</sub> | <sub>[867d17d](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
+| <sub>2022-10-25 12:40:59</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18)</sub> | <sub>[228f73b](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18) add todo item - jvrastil</sub> |
 | <sub>2022-10-25 08:32:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6a830bcc3eaf...0e41e84f0d81)</sub> |
 | <sub>2022-10-25 07:50:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/99e97a505ead...8f0ec3e54525)</sub> |
 | <sub>2022-10-25 07:16:26</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c)</sub> | <sub>[99e97a5](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c) test fix - jvrastil</sub> |

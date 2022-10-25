@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3772 commits since 10/09/2021. You can see the complete history in
+There is a total of 3774 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-25 12:43:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d)</sub> | <sub>[867d17d](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
+| <sub>2022-10-25 12:40:59</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18)</sub> | <sub>[228f73b](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18) add todo item - jvrastil</sub> |
 | <sub>2022-10-25 08:32:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6a830bcc3eaf...0e41e84f0d81)</sub> |
 | <sub>2022-10-25 07:50:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/99e97a505ead...8f0ec3e54525)</sub> |
 | <sub>2022-10-25 07:16:26</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c)</sub> | <sub>[99e97a5](https://github.com/SimplioOfficial/simplio-app/commit/99e97a505ead907d68ca56c73bcb45d53f4e1b4c) test fix - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 3772 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-24 22:11:23</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/791cc4fc1e93d6c2a79f9add77a017c5a50c67f4)</sub> | <sub>[791cc4f](https://github.com/SimplioOfficial/simplio-app/commit/791cc4fc1e93d6c2a79f9add77a017c5a50c67f4) Adding new test - fixes - MariooW</sub> |
 | <sub>2022-10-24 22:00:17</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 9 new commits](https://github.com/SimplioOfficial/simplio-app/compare/422820fc43e8...4f5801680c42)</sub> | <sub>[704c281](https://github.com/SimplioOfficial/simplio-app/commit/704c281e70077992662fe56edd91d4de336574c1) Task/244 simplio glyphs (#270) - TomasPetrik<br>[a5f77f1](https://github.com/SimplioOfficial/simplio-app/commit/a5f77f109d4322184823a5a612e7d48bf766b707) Task/271 redesign login screen (#277) - TomasPetrik<br>[48c94a8](https://github.com/SimplioOfficial/simplio-app/commit/48c94a8edc7724b321864849e878588442de2fc2) Completed task/278-redesign-create-new-account-... - TomasPetrik<br>[fd096b4](https://github.com/SimplioOfficial/simplio-app/commit/fd096b4bc2a6616480d687925bc5f308013febbf) Task/258 - Configure QR scanners (#273) - jvrastil<br>[26d2da0](https://github.com/SimplioOfficial/simplio-app/commit/26d2da0dee10a41c012c5e27433d90e9ed1722d2) 264 - adding small fixes - MariooW</sub> |
 | <sub>2022-10-24 21:59:35</sub> | <sub>[[simplio-app:task/269\-search\-coins\-detail\-ui] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912)</sub> | <sub>[4b723db](https://github.com/SimplioOfficial/simplio-app/commit/4b723dbe59ea143d62666f5d8b52a621ae88d912) 1. Fixed all naviagatio back action from app bar, - Tomáš Petrík</sub> |
-| <sub>2022-10-24 19:31:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c80706259b6d...39b6dadc3246)</sub> |
-| <sub>2022-10-24 19:19:20</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/5274e187908e...2e480823d1ad)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
