@@ -67689,5 +67689,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-25 12:47:34.840000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`53f5f0b`](https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74) Refactor/290 - Coin search with marketplace ser... - jvrastil",
+      "title": "[simplio-app:refactor/coin\\_search\\_with\\_marketplace\\_service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74"
+    }
   }
 ]

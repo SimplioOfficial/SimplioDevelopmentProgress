@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-25 12:47:34</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74)</sub> | <sub>[53f5f0b](https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74) Refactor/290 - Coin search with marketplace ser... - jvrastil</sub> |
 | <sub>2022-10-25 12:43:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d)</sub> | <sub>[867d17d](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
 | <sub>2022-10-25 12:40:59</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18)</sub> | <sub>[228f73b](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18) add todo item - jvrastil</sub> |
 | <sub>2022-10-25 08:32:11</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6a830bcc3eaf...0e41e84f0d81)</sub> |
