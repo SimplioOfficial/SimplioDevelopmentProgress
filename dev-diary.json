@@ -67583,5 +67583,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f40995803c81baf2babece5fb87fdf0cdc3fec9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-25 07:11:56.245000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e609cd9`](https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805) Completed task/269-search-coins-detail-ui (#291) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e609cd972fb735399ca5079297be3d5c40141805"
+    }
   }
 ]
