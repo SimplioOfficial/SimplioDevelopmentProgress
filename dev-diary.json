@@ -67742,5 +67742,41 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `6a4cb8e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-26 02:21:28.971000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6861448`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/686144834767e1609005fa620db05910c26915e8) feat: remove unneccesary files - PitTxid\n[`ae5072a`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/ae5072a2a9128b15265892b56667fe9f7ce091f0) feat: get cosmos address successfully - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:2\\-create\\-cosmos\\-address] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/09f1f1567437...ae5072a2a912"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-26 02:21:52.061000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`6861448`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/686144834767e1609005fa620db05910c26915e8) feat: remove unneccesary files - PitTxid\n[`ae5072a`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/ae5072a2a9128b15265892b56667fe9f7ce091f0) feat: get cosmos address successfully - PitTxid\n[`eb7834e`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/eb7834e28204c3ff6bf09c850a4d7560e13fda42) Merge pull request #7 from SimplioOfficial/2-cr... - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:develop] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/09f1f1567437...eb7834e28204"
+    }
   }
 ]
