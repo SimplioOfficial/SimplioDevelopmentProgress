@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3782 commits since 10/09/2021. You can see the complete history in
+There is a total of 3784 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-26 23:11:36</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088)</sub> | <sub>[d125280](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088) Delete hourly workflow - MariooW</sub> |
+| <sub>2022-10-26 23:10:46</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/791cc4fc1e93...948c5bd534b9)</sub> | <sub>[60dd5e1](https://github.com/SimplioOfficial/simplio-app/commit/60dd5e1e58857ea298d15008c2038d8bfecbcc86) Task/258 - Configure QR scanners (#273) - jvrastil<br>[d53c799](https://github.com/SimplioOfficial/simplio-app/commit/d53c799c94c94b6721bbb74203d1838b763db32c) Task/284 redesign change password (#285) - TomasPetrik<br>[9f0a4d6](https://github.com/SimplioOfficial/simplio-app/commit/9f0a4d672db7df44dce41a143b5bb60ed0606d34) Task/223 buy logic implementation (#249) - storkandstars<br>[b9ac683](https://github.com/SimplioOfficial/simplio-app/commit/b9ac6835ac8366d30b2e65ba0a7ae0bb0979d9e4) Completed task/269-search-coins-detail-ui (#291) - TomasPetrik<br>[5913fe1](https://github.com/SimplioOfficial/simplio-app/commit/5913fe1c5b008975fc2cbf68fac6294334daff21) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
 | <sub>2022-10-26 13:04:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6a4cb8e038e6...9040c52ca687)</sub> |
 | <sub>2022-10-26 11:14:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b3fc74f39d4a...43a2bee5d235)</sub> |
 | <sub>2022-10-26 08:49:00</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/39b6dadc3246...b3fc74f39d4a)</sub> |
@@ -16,7 +18,5 @@ There is a total of 3782 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-25 20:45:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8f0ec3e54525...6a4cb8e038e6)</sub> |
 | <sub>2022-10-25 17:19:47</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4c3df0651d7bf34359cd254ae4463a4abd5b7e6a)</sub> | <sub>[4c3df06](https://github.com/SimplioOfficial/simplio-app/commit/4c3df0651d7bf34359cd254ae4463a4abd5b7e6a) wip - jvrastil</sub> |
 | <sub>2022-10-25 12:47:34</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74)</sub> | <sub>[53f5f0b](https://github.com/SimplioOfficial/simplio-app/commit/53f5f0b4e3d2c45e896b6f69153b9b7040602b74) Refactor/290 - Coin search with marketplace ser... - jvrastil</sub> |
-| <sub>2022-10-25 12:43:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d)</sub> | <sub>[867d17d](https://github.com/SimplioOfficial/simplio-app/commit/867d17ddab05c72df9b01885c101ad3e2cc3583d) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
-| <sub>2022-10-25 12:40:59</sub> | <sub>[[simplio-app:task/276\-fiat\_values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18)</sub> | <sub>[228f73b](https://github.com/SimplioOfficial/simplio-app/commit/228f73b7ef7753d804e992ee22158a842dd5bd18) add todo item - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
