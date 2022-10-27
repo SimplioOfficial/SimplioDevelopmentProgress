@@ -68153,5 +68153,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 19:32:25.623000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b29a288`](https://github.com/SimplioOfficial/simplio-app/commit/b29a288b6ff64d9ba0a0c37c7a62c8a721318104) wip - jvrastil\n[`9f1a002`](https://github.com/SimplioOfficial/simplio-app/commit/9f1a002a22ee4ddaf4c544c8e0acaa60fa2d2231) wip - jvrastil\n[`35a2282`](https://github.com/SimplioOfficial/simplio-app/commit/35a2282c81a9804490055b8cc87387c9b164b7a2) wip - jvrastil\n[`6ff5abd`](https://github.com/SimplioOfficial/simplio-app/commit/6ff5abdf03ee91f355302c297beb342094d9307a) fix expansion list - jvrastil",
+      "title": "[simplio-app:refactor/coin\\_search\\_with\\_marketplace\\_service] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4c3df0651d7b...6ff5abdf03ee"
+    }
   }
 ]
