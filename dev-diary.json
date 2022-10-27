@@ -67919,5 +67919,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 07:20:10.379000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`26c0f93`](https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca) changes after BE update - jvrastil",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca"
+    }
   }
 ]

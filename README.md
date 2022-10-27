@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3787 commits since 10/09/2021. You can see the complete history in
+There is a total of 3788 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 07:20:10</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca)</sub> | <sub>[26c0f93](https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca) changes after BE update - jvrastil</sub> |
 | <sub>2022-10-27 03:58:12</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300)</sub> | <sub>[edc360a](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300) feat: create cosmos tx - PitTxid</sub> |
 | <sub>2022-10-27 00:03:05</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591)</sub> | <sub>[5e0d071](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591) Delete hourly workflow - MariooW</sub> |
 | <sub>2022-10-26 23:27:01</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b)</sub> | <sub>[1af4ffc](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b) Delete hourly workflow - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3787 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-26 11:14:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b3fc74f39d4a...43a2bee5d235)</sub> |
 | <sub>2022-10-26 08:49:00</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/39b6dadc3246...b3fc74f39d4a)</sub> |
 | <sub>2022-10-26 02:21:52</sub> | <sub>[[backend-cosmos-wallet-lib:develop] 3 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/09f1f1567437...eb7834e28204)</sub> | <sub>[6861448](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/686144834767e1609005fa620db05910c26915e8) feat: remove unneccesary files - PitTxid<br>[ae5072a](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/ae5072a2a9128b15265892b56667fe9f7ce091f0) feat: get cosmos address successfully - PitTxid<br>[eb7834e](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/eb7834e28204c3ff6bf09c850a4d7560e13fda42) Merge pull request #7 from SimplioOfficial/2-cr... - PitTxid</sub> |
-| <sub>2022-10-26 02:21:28</sub> | <sub>[[backend-cosmos-wallet-lib:2\-create\-cosmos\-address] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/09f1f1567437...ae5072a2a912)</sub> | <sub>[6861448](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/686144834767e1609005fa620db05910c26915e8) feat: remove unneccesary files - PitTxid<br>[ae5072a](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/ae5072a2a9128b15265892b56667fe9f7ce091f0) feat: get cosmos address successfully - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
