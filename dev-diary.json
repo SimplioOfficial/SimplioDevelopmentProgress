@@ -68081,5 +68081,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2064121134207323ea66a82a68dfec1ce9719f0e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 12:57:09.048000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`aca1d89`](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f) fix: Stream has already been listened to fix - ciripel",
+      "title": "[simplio-app:bug/245\\-wallet\\-connect\\-stream\\-is\\-already\\-listened\\-to] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f"
+    }
   }
 ]
