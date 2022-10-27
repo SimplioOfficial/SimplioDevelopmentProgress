@@ -67937,5 +67937,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 07:55:51.681000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`d51533c`](https://github.com/SimplioOfficial/simplio-app/commit/d51533cbda1d06022319804c81fb119052657d34) Task/258 - Configure QR scanners (#273) - jvrastil\n[`c0d5d22`](https://github.com/SimplioOfficial/simplio-app/commit/c0d5d22b80f58043ea7a96b85cc03f5357fac810) 264 - adding small fixes - MariooW\n[`10bbab1`](https://github.com/SimplioOfficial/simplio-app/commit/10bbab11084928298774c334f54d703c27c109ce) Stres test if scenarios - MariooW\n[`5ec275f`](https://github.com/SimplioOfficial/simplio-app/commit/5ec275ffd6ce6237185ef5aa23ec1c3da777c708) Task/258 - Configure QR scanners (#273) - jvrastil\n[`c833a6f`](https://github.com/SimplioOfficial/simplio-app/commit/c833a6fa573c70b2bdc50411be4b1e6035597bf4) Stres test if scenarios - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5e0d07162fac...c833a6fa573c"
+    }
   }
 ]
