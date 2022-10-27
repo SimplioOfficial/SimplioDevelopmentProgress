@@ -67883,5 +67883,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 00:03:05.788000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`5e0d071`](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591) Delete hourly workflow - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591"
+    }
   }
 ]
