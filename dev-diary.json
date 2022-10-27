@@ -68009,5 +68009,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 10:14:48.778000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`f3f19a8`](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef) Fixes after rebase - MariooW",
+      "title": "[simplio-app:test/264\\_tests\\_improvement] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef"
+    }
   }
 ]

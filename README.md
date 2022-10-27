@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3792 commits since 10/09/2021. You can see the complete history in
+There is a total of 3793 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 10:14:48</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef)</sub> | <sub>[f3f19a8](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef) Fixes after rebase - MariooW</sub> |
 | <sub>2022-10-27 08:34:36</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509)</sub> | <sub>[12fb788](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509) remove mnemonic loading - jvrastil</sub> |
 | <sub>2022-10-27 08:07:40</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675)</sub> | <sub>[69dc1c1](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675) Reformat - MariooW</sub> |
 | <sub>2022-10-27 08:00:33</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3)</sub> | <sub>[6189425](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3) Remove hourly run - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3792 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 00:03:05</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591)</sub> | <sub>[5e0d071](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591) Delete hourly workflow - MariooW</sub> |
 | <sub>2022-10-26 23:27:01</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b)</sub> | <sub>[1af4ffc](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b) Delete hourly workflow - MariooW</sub> |
 | <sub>2022-10-26 23:11:36</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088)</sub> | <sub>[d125280](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088) Delete hourly workflow - MariooW</sub> |
-| <sub>2022-10-26 23:10:46</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/791cc4fc1e93...948c5bd534b9)</sub> | <sub>[60dd5e1](https://github.com/SimplioOfficial/simplio-app/commit/60dd5e1e58857ea298d15008c2038d8bfecbcc86) Task/258 - Configure QR scanners (#273) - jvrastil<br>[d53c799](https://github.com/SimplioOfficial/simplio-app/commit/d53c799c94c94b6721bbb74203d1838b763db32c) Task/284 redesign change password (#285) - TomasPetrik<br>[9f0a4d6](https://github.com/SimplioOfficial/simplio-app/commit/9f0a4d672db7df44dce41a143b5bb60ed0606d34) Task/223 buy logic implementation (#249) - storkandstars<br>[b9ac683](https://github.com/SimplioOfficial/simplio-app/commit/b9ac6835ac8366d30b2e65ba0a7ae0bb0979d9e4) Completed task/269-search-coins-detail-ui (#291) - TomasPetrik<br>[5913fe1](https://github.com/SimplioOfficial/simplio-app/commit/5913fe1c5b008975fc2cbf68fac6294334daff21) Task/276 - Add fiat balance (#283) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
