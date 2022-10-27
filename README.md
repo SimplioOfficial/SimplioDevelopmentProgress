@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3793 commits since 10/09/2021. You can see the complete history in
+There is a total of 3794 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 11:06:11</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df3c37259290099d2958cfa6aa90fb54bbf54d9c)</sub> | <sub>[df3c372](https://github.com/SimplioOfficial/simplio-app/commit/df3c37259290099d2958cfa6aa90fb54bbf54d9c) Adding test fixes - MariooW</sub> |
 | <sub>2022-10-27 10:14:48</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef)</sub> | <sub>[f3f19a8](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef) Fixes after rebase - MariooW</sub> |
 | <sub>2022-10-27 08:34:36</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509)</sub> | <sub>[12fb788](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509) remove mnemonic loading - jvrastil</sub> |
 | <sub>2022-10-27 08:07:40</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675)</sub> | <sub>[69dc1c1](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675) Reformat - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3793 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 03:58:12</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300)</sub> | <sub>[edc360a](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300) feat: create cosmos tx - PitTxid</sub> |
 | <sub>2022-10-27 00:03:05</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591)</sub> | <sub>[5e0d071](https://github.com/SimplioOfficial/simplio-app/commit/5e0d07162fac5d599e6d26ebe3b83d1518514591) Delete hourly workflow - MariooW</sub> |
 | <sub>2022-10-26 23:27:01</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b)</sub> | <sub>[1af4ffc](https://github.com/SimplioOfficial/simplio-app/commit/1af4ffcf64bada2757926c736bbaff3e616cd49b) Delete hourly workflow - MariooW</sub> |
-| <sub>2022-10-26 23:11:36</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088)</sub> | <sub>[d125280](https://github.com/SimplioOfficial/simplio-app/commit/d125280b251a420dfcc7ea75a20ea7b449d09088) Delete hourly workflow - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
