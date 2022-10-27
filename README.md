@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3799 commits since 10/09/2021. You can see the complete history in
+There is a total of 3800 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 17:14:25</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW</sub> |
 | <sub>2022-10-27 15:29:01</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2)</sub> | <sub>[667b003](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2) navigate to success screen after payment - jvrastil</sub> |
 | <sub>2022-10-27 13:42:27</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5)</sub> | <sub>[20add15](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5) Adding test fixes next part - MariooW</sub> |
 | <sub>2022-10-27 12:57:09</sub> | <sub>[[simplio-app:bug/245\-wallet\-connect\-stream\-is\-already\-listened\-to] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f)</sub> | <sub>[aca1d89](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f) fix: Stream has already been listened to fix - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3799 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 10:14:48</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef)</sub> | <sub>[f3f19a8](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef) Fixes after rebase - MariooW</sub> |
 | <sub>2022-10-27 08:34:36</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509)</sub> | <sub>[12fb788](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509) remove mnemonic loading - jvrastil</sub> |
 | <sub>2022-10-27 08:07:40</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675)</sub> | <sub>[69dc1c1](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675) Reformat - MariooW</sub> |
-| <sub>2022-10-27 08:00:33</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3)</sub> | <sub>[6189425](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3) Remove hourly run - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
