@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3797 commits since 10/09/2021. You can see the complete history in
+There is a total of 3798 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 13:42:27</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5)</sub> | <sub>[20add15](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5) Adding test fixes next part - MariooW</sub> |
 | <sub>2022-10-27 12:57:09</sub> | <sub>[[simplio-app:bug/245\-wallet\-connect\-stream\-is\-already\-listened\-to] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f)</sub> | <sub>[aca1d89](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f) fix: Stream has already been listened to fix - ciripel</sub> |
 | <sub>2022-10-27 12:37:49</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2064121134207323ea66a82a68dfec1ce9719f0e)</sub> | <sub>[2064121](https://github.com/SimplioOfficial/simplio-app/commit/2064121134207323ea66a82a68dfec1ce9719f0e) Completed task/297-redesign-startup-screen - Tomáš Petrík</sub> |
 | <sub>2022-10-27 12:28:54</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318)</sub> | <sub>[c03e998](https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318) fix: cover BadRequestHttpError - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3797 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 08:07:40</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675)</sub> | <sub>[69dc1c1](https://github.com/SimplioOfficial/simplio-app/commit/69dc1c1ed28aa0115f3722aceac2a8e0b2049675) Reformat - MariooW</sub> |
 | <sub>2022-10-27 08:00:33</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3)</sub> | <sub>[6189425](https://github.com/SimplioOfficial/simplio-app/commit/618942580a03610eb35f3d3a86c116f1097aa8a3) Remove hourly run - MariooW</sub> |
 | <sub>2022-10-27 07:55:51</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5e0d07162fac...c833a6fa573c)</sub> | <sub>[d51533c](https://github.com/SimplioOfficial/simplio-app/commit/d51533cbda1d06022319804c81fb119052657d34) Task/258 - Configure QR scanners (#273) - jvrastil<br>[c0d5d22](https://github.com/SimplioOfficial/simplio-app/commit/c0d5d22b80f58043ea7a96b85cc03f5357fac810) 264 - adding small fixes - MariooW<br>[10bbab1](https://github.com/SimplioOfficial/simplio-app/commit/10bbab11084928298774c334f54d703c27c109ce) Stres test if scenarios - MariooW<br>[5ec275f](https://github.com/SimplioOfficial/simplio-app/commit/5ec275ffd6ce6237185ef5aa23ec1c3da777c708) Task/258 - Configure QR scanners (#273) - jvrastil<br>[c833a6f](https://github.com/SimplioOfficial/simplio-app/commit/c833a6fa573c70b2bdc50411be4b1e6035597bf4) Stres test if scenarios - MariooW</sub> |
-| <sub>2022-10-27 07:20:10</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca)</sub> | <sub>[26c0f93](https://github.com/SimplioOfficial/simplio-app/commit/26c0f93c33c23edb6e857ad697741b0396fe6dca) changes after BE update - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
