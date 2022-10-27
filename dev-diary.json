@@ -68171,5 +68171,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/4c3df0651d7b...6ff5abdf03ee"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 19:40:59.763000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c0469ef`](https://github.com/SimplioOfficial/simplio-app/commit/c0469efcbf7bb309b13e5ae68af1cdd1a44ea72f) adding presets to crypto assets - storkandstars\n[`0af884d`](https://github.com/SimplioOfficial/simplio-app/commit/0af884d0eabde4d19771577e4a4f691a027f3430) adding translations - storkandstars\n[`fb334fc`](https://github.com/SimplioOfficial/simplio-app/commit/fb334fcd4d200226e544c4768d34c85d28d84405) updating styles - storkandstars\n[`c8f02ac`](https://github.com/SimplioOfficial/simplio-app/commit/c8f02ac0cd80016159c100dd9555261ab7582011) applying asset presets - storkandstars",
+      "title": "[simplio-app:task/256\\-update\\-ui\\-for\\-wallet\\-connect\\-request] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/867d17ddab05...c8f02ac0cd80"
+    }
   }
 ]
