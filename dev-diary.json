@@ -68045,5 +68045,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/df3c37259290099d2958cfa6aa90fb54bbf54d9c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-27 12:28:54.391000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c03e998`](https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318) fix: cover BadRequestHttpError - ciripel",
+      "title": "[simplio-app:task/222\\-swap\\-logic\\-implementation] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318"
+    }
   }
 ]

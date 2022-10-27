@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-27 12:28:54</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318)</sub> | <sub>[c03e998](https://github.com/SimplioOfficial/simplio-app/commit/c03e998d8135d605395271e6d63a38f350f74318) fix: cover BadRequestHttpError - ciripel</sub> |
 | <sub>2022-10-27 11:06:11</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/df3c37259290099d2958cfa6aa90fb54bbf54d9c)</sub> | <sub>[df3c372](https://github.com/SimplioOfficial/simplio-app/commit/df3c37259290099d2958cfa6aa90fb54bbf54d9c) Adding test fixes - MariooW</sub> |
 | <sub>2022-10-27 10:14:48</sub> | <sub>[[simplio-app:test/264\_tests\_improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef)</sub> | <sub>[f3f19a8](https://github.com/SimplioOfficial/simplio-app/commit/f3f19a8d2ccfdf305265587721aa27e5437778ef) Fixes after rebase - MariooW</sub> |
 | <sub>2022-10-27 08:34:36</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509)</sub> | <sub>[12fb788](https://github.com/SimplioOfficial/simplio-app/commit/12fb7885b0af21349ab3efd6335d5e8cb73e7509) remove mnemonic loading - jvrastil</sub> |
