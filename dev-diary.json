@@ -68385,5 +68385,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 08:46:34.116000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`79da743`](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW\n[`8a90b9c`](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil\n[`fe4fe24`](https://github.com/SimplioOfficial/simplio-app/commit/fe4fe2434d22ac0378a60ab7d3e9e5c1e7e0c2fa) Merge branch 'master' into task/256-update-ui-f... - storkandstars",
+      "title": "[simplio-app:task/256\\-update\\-ui\\-for\\-wallet\\-connect\\-request] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22"
+    }
   }
 ]

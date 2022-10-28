@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3813 commits since 10/09/2021. You can see the complete history in
+There is a total of 3814 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 08:46:34</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW<br>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil<br>[fe4fe24](https://github.com/SimplioOfficial/simplio-app/commit/fe4fe2434d22ac0378a60ab7d3e9e5c1e7e0c2fa) Merge branch 'master' into task/256-update-ui-f... - storkandstars</sub> |
 | <sub>2022-10-28 08:33:02</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e)</sub> | <sub>[6ab58fb](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e) unified ids definition - storkandstars</sub> |
 | <sub>2022-10-28 08:19:11</sub> | <sub>[[simplio-app:Task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW</sub> |
 | <sub>2022-10-28 07:52:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92)</sub> | <sub>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3813 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 06:59:31</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c)</sub> | <sub>[e7a6640](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c) fix: change solana decimals to 9 - ciripel</sub> |
 | <sub>2022-10-28 06:27:26</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000)</sub> | <sub>[0c6bc37](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000) fix: remove bnbSmartChainTestnet - ciripel</sub> |
 | <sub>2022-10-28 06:00:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)</sub> |
-| <sub>2022-10-28 05:58:03</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e5557df43b52...879eebf09604)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
