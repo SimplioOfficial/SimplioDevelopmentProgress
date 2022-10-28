@@ -68349,5 +68349,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 08:19:11.999000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`bf19fb7`](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW",
+      "title": "[simplio-app:Task/297\\-redesign\\-startup\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f"
+    }
   }
 ]
