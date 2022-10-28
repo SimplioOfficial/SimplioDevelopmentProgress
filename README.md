@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3818 commits since 10/09/2021. You can see the complete history in
+There is a total of 3819 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 09:30:10</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/54fe084ac77d...cb8c77b859bf)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW<br>[cb8c77b](https://github.com/SimplioOfficial/simplio-app/commit/cb8c77b859bfc2dc71b4a9a3af27a2c11ddbd1af) Merge branch 'Task/297-redesign-startup-screen'... - Tomáš Petrík</sub> |
 | <sub>2022-10-28 09:27:05</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54fe084ac77d4850ff4b3cb045432c1b32094c24)</sub> | <sub>[54fe084](https://github.com/SimplioOfficial/simplio-app/commit/54fe084ac77d4850ff4b3cb045432c1b32094c24) 1. Precache splash screen images, otherwise the... - Tomáš Petrík</sub> |
 | <sub>2022-10-28 09:11:18</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc)</sub> | <sub>[22c031e](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc) fixing merge conflicts - storkandstars</sub> |
 | <sub>2022-10-28 08:58:30</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853)</sub> | <sub>[c9b6842](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853) changes before code review - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3818 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 08:19:11</sub> | <sub>[[simplio-app:Task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW</sub> |
 | <sub>2022-10-28 07:52:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92)</sub> | <sub>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil</sub> |
 | <sub>2022-10-28 07:20:21</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6)</sub> | <sub>[afdee23](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6) feat: update gas calculation - PitTxid</sub> |
-| <sub>2022-10-28 07:19:25</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/edc360abcde9...18be0c5f2e28)</sub> | <sub>[122d541](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/122d54173540c379c4c7c48ba21eb86a6932ea1e) feat: broadcast successfully with @cosmos-clien... - PitTxid<br>[18be0c5](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/18be0c5f2e28eb02ab8500eea48157ee78133c49) feat: broadcast with official lib successfully - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
