@@ -68403,5 +68403,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 08:52:02.196000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/667b0037265a...38a04e4eaab7)",
+      "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `38a04e4`",
+      "type": "rich"
+    }
   }
 ]
