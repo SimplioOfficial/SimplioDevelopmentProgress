@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3816 commits since 10/09/2021. You can see the complete history in
+There is a total of 3817 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 09:11:18</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc)</sub> | <sub>[22c031e](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc) fixing merge conflicts - storkandstars</sub> |
 | <sub>2022-10-28 08:58:30</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853)</sub> | <sub>[c9b6842](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853) changes before code review - jvrastil</sub> |
 | <sub>2022-10-28 08:52:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/667b0037265a...38a04e4eaab7)</sub> |
 | <sub>2022-10-28 08:46:34</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW<br>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil<br>[fe4fe24](https://github.com/SimplioOfficial/simplio-app/commit/fe4fe2434d22ac0378a60ab7d3e9e5c1e7e0c2fa) Merge branch 'master' into task/256-update-ui-f... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3816 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 07:20:21</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6)</sub> | <sub>[afdee23](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6) feat: update gas calculation - PitTxid</sub> |
 | <sub>2022-10-28 07:19:25</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/edc360abcde9...18be0c5f2e28)</sub> | <sub>[122d541](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/122d54173540c379c4c7c48ba21eb86a6932ea1e) feat: broadcast successfully with @cosmos-clien... - PitTxid<br>[18be0c5](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/18be0c5f2e28eb02ab8500eea48157ee78133c49) feat: broadcast with official lib successfully - PitTxid</sub> |
 | <sub>2022-10-28 07:09:15</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/738cb2395203b61c99e8b0f7313ce0ac3f90b36b)</sub> | <sub>[738cb23](https://github.com/SimplioOfficial/simplio-app/commit/738cb2395203b61c99e8b0f7313ce0ac3f90b36b) 1. Updated startup images, - Tomáš Petrík</sub> |
-| <sub>2022-10-28 06:59:31</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c)</sub> | <sub>[e7a6640](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c) fix: change solana decimals to 9 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

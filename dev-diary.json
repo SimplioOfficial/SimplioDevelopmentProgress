@@ -68438,5 +68438,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 09:11:18.204000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`22c031e`](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc) fixing merge conflicts - storkandstars",
+      "title": "[simplio-app:task/256\\-update\\-ui\\-for\\-wallet\\-connect\\-request] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc"
+    }
   }
 ]
