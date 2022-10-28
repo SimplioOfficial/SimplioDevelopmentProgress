@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3821 commits since 10/09/2021. You can see the complete history in
+There is a total of 3822 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 14:25:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c9b684226f7a...de20d4c905ff)</sub> |
 | <sub>2022-10-28 14:09:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0d3a2065a5d6b36e8349993378617d8fd284d28)</sub> | <sub>[c0d3a20](https://github.com/SimplioOfficial/simplio-app/commit/c0d3a2065a5d6b36e8349993378617d8fd284d28) Task/256 update UI for wallet connect request (... - storkandstars</sub> |
 | <sub>2022-10-28 14:09:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c7f2b9964f39ac6320097b029151d3dfb1316745)</sub> | <sub>[c7f2b99](https://github.com/SimplioOfficial/simplio-app/commit/c7f2b9964f39ac6320097b029151d3dfb1316745) fix: Stream has already been listened to fix (#... - ciripel</sub> |
 | <sub>2022-10-28 09:30:10</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/54fe084ac77d...cb8c77b859bf)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW<br>[cb8c77b](https://github.com/SimplioOfficial/simplio-app/commit/cb8c77b859bfc2dc71b4a9a3af27a2c11ddbd1af) Merge branch 'Task/297-redesign-startup-screen'... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3821 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 08:52:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/667b0037265a...38a04e4eaab7)</sub> |
 | <sub>2022-10-28 08:46:34</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW<br>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil<br>[fe4fe24](https://github.com/SimplioOfficial/simplio-app/commit/fe4fe2434d22ac0378a60ab7d3e9e5c1e7e0c2fa) Merge branch 'master' into task/256-update-ui-f... - storkandstars</sub> |
 | <sub>2022-10-28 08:33:02</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e)</sub> | <sub>[6ab58fb](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e) unified ids definition - storkandstars</sub> |
-| <sub>2022-10-28 08:19:11</sub> | <sub>[[simplio-app:Task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
