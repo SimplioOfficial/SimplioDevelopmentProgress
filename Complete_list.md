@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 16:25:28</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.7](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.7)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-10-28 16:23:15</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/332a7712b15e8d45cf5c3d86a1cd97141a48aec8)</sub> | <sub>[332a771](https://github.com/SimplioOfficial/sio_core_light/commit/332a7712b15e8d45cf5c3d86a1cd97141a48aec8) Task/21 error handle unsupported network ids (#22) - ciripel</sub> |
 | <sub>2022-10-28 15:06:53</sub> | <sub>[[sio_core_light:task/21\-error\-handle\-unsupported\-networkIds] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/800afb0a8118...f59be9688c86)</sub> | <sub>[fc807cd](https://github.com/SimplioOfficial/sio_core_light/commit/fc807cdf304b058945d104ef620c5433fe3182c1) task: add supported network bool - ciripel<br>[f59be96](https://github.com/SimplioOfficial/sio_core_light/commit/f59be9688c8641b1f444e00f340bfac8192b6ead) chore: increase version to 1.1.7 - ciripel</sub> |
 | <sub>2022-10-28 14:25:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c9b684226f7a...de20d4c905ff)</sub> |
