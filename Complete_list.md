@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 09:27:05</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/54fe084ac77d4850ff4b3cb045432c1b32094c24)</sub> | <sub>[54fe084](https://github.com/SimplioOfficial/simplio-app/commit/54fe084ac77d4850ff4b3cb045432c1b32094c24) 1. Precache splash screen images, otherwise the... - Tomáš Petrík</sub> |
 | <sub>2022-10-28 09:11:18</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc)</sub> | <sub>[22c031e](https://github.com/SimplioOfficial/simplio-app/commit/22c031e780f5222a26c160a65d934bb62b4ea3bc) fixing merge conflicts - storkandstars</sub> |
 | <sub>2022-10-28 08:58:30</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853)</sub> | <sub>[c9b6842](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853) changes before code review - jvrastil</sub> |
 | <sub>2022-10-28 08:52:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/667b0037265a...38a04e4eaab7)</sub> |
