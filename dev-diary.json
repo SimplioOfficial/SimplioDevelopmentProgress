@@ -68597,5 +68597,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 17:03:59.365000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ae82e9e`](https://github.com/SimplioOfficial/simplio-app/commit/ae82e9e08f86affbbe829bdda146732179e2da94) chore: upgrade sio_core_light to 1.1.7 - ciripel\n[`26561ff`](https://github.com/SimplioOfficial/simplio-app/commit/26561ff0cc123790f6a03795a873659709eb272c) fix: throw error in case of unsupported networkId - ciripel",
+      "title": "[simplio-app:bug/302\\-implement\\-unsupported\\-networkId\\-throw\\-error] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/c0d3a2065a5d...26561ff0cc12"
+    }
   }
 ]
