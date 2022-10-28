@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3807 commits since 10/09/2021. You can see the complete history in
+There is a total of 3808 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 07:09:15</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/738cb2395203b61c99e8b0f7313ce0ac3f90b36b)</sub> | <sub>[738cb23](https://github.com/SimplioOfficial/simplio-app/commit/738cb2395203b61c99e8b0f7313ce0ac3f90b36b) 1. Updated startup images, - Tomáš Petrík</sub> |
 | <sub>2022-10-28 06:59:31</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c)</sub> | <sub>[e7a6640](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c) fix: change solana decimals to 9 - ciripel</sub> |
 | <sub>2022-10-28 06:27:26</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000)</sub> | <sub>[0c6bc37](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000) fix: remove bnbSmartChainTestnet - ciripel</sub> |
 | <sub>2022-10-28 06:00:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3807 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 19:32:25</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4c3df0651d7b...6ff5abdf03ee)</sub> | <sub>[b29a288](https://github.com/SimplioOfficial/simplio-app/commit/b29a288b6ff64d9ba0a0c37c7a62c8a721318104) wip - jvrastil<br>[9f1a002](https://github.com/SimplioOfficial/simplio-app/commit/9f1a002a22ee4ddaf4c544c8e0acaa60fa2d2231) wip - jvrastil<br>[35a2282](https://github.com/SimplioOfficial/simplio-app/commit/35a2282c81a9804490055b8cc87387c9b164b7a2) wip - jvrastil<br>[6ff5abd](https://github.com/SimplioOfficial/simplio-app/commit/6ff5abdf03ee91f355302c297beb342094d9307a) fix expansion list - jvrastil</sub> |
 | <sub>2022-10-27 17:14:25</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW</sub> |
 | <sub>2022-10-27 15:29:01</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2)</sub> | <sub>[667b003](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2) navigate to success screen after payment - jvrastil</sub> |
-| <sub>2022-10-27 13:42:27</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5)</sub> | <sub>[20add15](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5) Adding test fixes next part - MariooW</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
