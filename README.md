@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3822 commits since 10/09/2021. You can see the complete history in
+There is a total of 3823 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 15:06:53</sub> | <sub>[[sio_core_light:task/21\-error\-handle\-unsupported\-networkIds] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/800afb0a8118...f59be9688c86)</sub> | <sub>[fc807cd](https://github.com/SimplioOfficial/sio_core_light/commit/fc807cdf304b058945d104ef620c5433fe3182c1) task: add supported network bool - ciripel<br>[f59be96](https://github.com/SimplioOfficial/sio_core_light/commit/f59be9688c8641b1f444e00f340bfac8192b6ead) chore: increase version to 1.1.7 - ciripel</sub> |
 | <sub>2022-10-28 14:25:12</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c9b684226f7a...de20d4c905ff)</sub> |
 | <sub>2022-10-28 14:09:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0d3a2065a5d6b36e8349993378617d8fd284d28)</sub> | <sub>[c0d3a20](https://github.com/SimplioOfficial/simplio-app/commit/c0d3a2065a5d6b36e8349993378617d8fd284d28) Task/256 update UI for wallet connect request (... - storkandstars</sub> |
 | <sub>2022-10-28 14:09:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c7f2b9964f39ac6320097b029151d3dfb1316745)</sub> | <sub>[c7f2b99](https://github.com/SimplioOfficial/simplio-app/commit/c7f2b9964f39ac6320097b029151d3dfb1316745) fix: Stream has already been listened to fix (#... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3822 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 08:58:30</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853)</sub> | <sub>[c9b6842](https://github.com/SimplioOfficial/simplio-app/commit/c9b684226f7a4ae414cdd1cc3cd4213ec866b853) changes before code review - jvrastil</sub> |
 | <sub>2022-10-28 08:52:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/667b0037265a...38a04e4eaab7)</sub> |
 | <sub>2022-10-28 08:46:34</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6ab58fb5be76...fe4fe2434d22)</sub> | <sub>[79da743](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW<br>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil<br>[fe4fe24](https://github.com/SimplioOfficial/simplio-app/commit/fe4fe2434d22ac0378a60ab7d3e9e5c1e7e0c2fa) Merge branch 'master' into task/256-update-ui-f... - storkandstars</sub> |
-| <sub>2022-10-28 08:33:02</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e)</sub> | <sub>[6ab58fb](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e) unified ids definition - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

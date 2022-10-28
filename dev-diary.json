@@ -68545,5 +68545,23 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `de20d4c`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 15:06:53.411000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fc807cd`](https://github.com/SimplioOfficial/sio_core_light/commit/fc807cdf304b058945d104ef620c5433fe3182c1) task: add supported network bool - ciripel\n[`f59be96`](https://github.com/SimplioOfficial/sio_core_light/commit/f59be9688c8641b1f444e00f340bfac8192b6ead) chore: increase version to 1.1.7 - ciripel",
+      "title": "[sio_core_light:task/21\\-error\\-handle\\-unsupported\\-networkIds] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/800afb0a8118...f59be9688c86"
+    }
   }
 ]
