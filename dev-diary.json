@@ -68259,5 +68259,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 06:59:31.150000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e7a6640`](https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c) fix: change solana decimals to 9 - ciripel",
+      "title": "[simplio-app:task/256\\-update\\-ui\\-for\\-wallet\\-connect\\-request] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e7a66405532f2dd6746b3d5cc5edc568c003851c"
+    }
   }
 ]
