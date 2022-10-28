@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3805 commits since 10/09/2021. You can see the complete history in
+There is a total of 3806 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 06:27:26</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000)</sub> | <sub>[0c6bc37](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000) fix: remove bnbSmartChainTestnet - ciripel</sub> |
 | <sub>2022-10-28 06:00:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)</sub> |
 | <sub>2022-10-28 05:58:03</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e5557df43b52...879eebf09604)</sub> |
 | <sub>2022-10-28 05:55:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8)</sub> | <sub>[e5557df](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8) fix: fixed relative import - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3805 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-27 15:29:01</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2)</sub> | <sub>[667b003](https://github.com/SimplioOfficial/simplio-app/commit/667b0037265a937d6c765e8640ffcc88ec1084f2) navigate to success screen after payment - jvrastil</sub> |
 | <sub>2022-10-27 13:42:27</sub> | <sub>[[simplio-app:test/264\-tests\-improvement] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5)</sub> | <sub>[20add15](https://github.com/SimplioOfficial/simplio-app/commit/20add15caf4f665ab26d7d32c41c7d0d87678dd5) Adding test fixes next part - MariooW</sub> |
 | <sub>2022-10-27 12:57:09</sub> | <sub>[[simplio-app:bug/245\-wallet\-connect\-stream\-is\-already\-listened\-to] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f)</sub> | <sub>[aca1d89](https://github.com/SimplioOfficial/simplio-app/commit/aca1d89ea533a08e5b1c50bea7d8a75e735db80f) fix: Stream has already been listened to fix - ciripel</sub> |
-| <sub>2022-10-27 12:37:49</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2064121134207323ea66a82a68dfec1ce9719f0e)</sub> | <sub>[2064121](https://github.com/SimplioOfficial/simplio-app/commit/2064121134207323ea66a82a68dfec1ce9719f0e) Completed task/297-redesign-startup-screen - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

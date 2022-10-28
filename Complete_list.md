@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 06:27:26</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000)</sub> | <sub>[0c6bc37](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000) fix: remove bnbSmartChainTestnet - ciripel</sub> |
 | <sub>2022-10-28 06:00:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)</sub> |
 | <sub>2022-10-28 05:58:03</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e5557df43b52...879eebf09604)</sub> |
 | <sub>2022-10-28 05:55:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8)</sub> | <sub>[e5557df](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8) fix: fixed relative import - ciripel</sub> |
