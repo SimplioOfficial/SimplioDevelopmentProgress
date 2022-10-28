@@ -68224,5 +68224,22 @@
       "title": "[simplio-app] Branch task/222\\-swap\\-logic\\-implementation was force-pushed to `879eebf`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 06:00:49.957000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)",
+      "title": "[simplio-app] Branch bug/245\\-wallet\\-connect\\-stream\\-is\\-already\\-listened\\-to was force-pushed to `cf0772a`",
+      "type": "rich"
+    }
   }
 ]
