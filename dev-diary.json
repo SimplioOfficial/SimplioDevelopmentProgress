@@ -68615,5 +68615,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/c0d3a2065a5d...26561ff0cc12"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 17:45:00.910000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`24147be`](https://github.com/SimplioOfficial/simplio-app/commit/24147beaabf5172bb9c1ad326d43321973a192e3) chore: upgrade sio_core_light in yaml file - ciripel",
+      "title": "[simplio-app:bug/302\\-implement\\-unsupported\\-networkId\\-throw\\-error] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/24147beaabf5172bb9c1ad326d43321973a192e3"
+    }
   }
 ]
