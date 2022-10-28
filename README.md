@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3812 commits since 10/09/2021. You can see the complete history in
+There is a total of 3813 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-28 08:33:02</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e)</sub> | <sub>[6ab58fb](https://github.com/SimplioOfficial/simplio-app/commit/6ab58fb5be7682735555843250fb3f5d95ba414e) unified ids definition - storkandstars</sub> |
 | <sub>2022-10-28 08:19:11</sub> | <sub>[[simplio-app:Task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f)</sub> | <sub>[bf19fb7](https://github.com/SimplioOfficial/simplio-app/commit/bf19fb7d56fb587cad02856414091939bcb4ed9f) Adding test fixes to be in line with app changes - MariooW</sub> |
 | <sub>2022-10-28 07:52:57</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92)</sub> | <sub>[8a90b9c](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil</sub> |
 | <sub>2022-10-28 07:20:21</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6)</sub> | <sub>[afdee23](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6) feat: update gas calculation - PitTxid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3812 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-28 06:27:26</sub> | <sub>[[simplio-app:task/256\-update\-ui\-for\-wallet\-connect\-request] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000)</sub> | <sub>[0c6bc37](https://github.com/SimplioOfficial/simplio-app/commit/0c6bc37280f85fc278b6ff9e13b18b82606a5000) fix: remove bnbSmartChainTestnet - ciripel</sub> |
 | <sub>2022-10-28 06:00:49</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/aca1d89ea533...cf0772ab559e)</sub> |
 | <sub>2022-10-28 05:58:03</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e5557df43b52...879eebf09604)</sub> |
-| <sub>2022-10-28 05:55:00</sub> | <sub>[[simplio-app:task/222\-swap\-logic\-implementation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8)</sub> | <sub>[e5557df](https://github.com/SimplioOfficial/simplio-app/commit/e5557df43b52f9e273149d61f0510ae3e733d9b8) fix: fixed relative import - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
