@@ -68295,5 +68295,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/738cb2395203b61c99e8b0f7313ce0ac3f90b36b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-28 07:19:25.340000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`122d541`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/122d54173540c379c4c7c48ba21eb86a6932ea1e) feat: broadcast successfully with @cosmos-clien... - PitTxid\n[`18be0c5`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/18be0c5f2e28eb02ab8500eea48157ee78133c49) feat: broadcast with official lib successfully - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:4\\-build\\-cosmos\\-tx] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/edc360abcde9...18be0c5f2e28"
+    }
   }
 ]
