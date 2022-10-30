@@ -68633,5 +68633,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/24147beaabf5172bb9c1ad326d43321973a192e3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-30 09:16:16.287000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`53d2e4f`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/53d2e4fd5475a2ffad461a1e10235043bc69c6fa) feat: remove unused testing code - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:4\\-build\\-cosmos\\-tx] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/53d2e4fd5475a2ffad461a1e10235043bc69c6fa"
+    }
   }
 ]
