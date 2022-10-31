@@ -68883,5 +68883,41 @@
       "title": "[simplio-app] Branch task/257\\-connect\\_buy\\_logic\\_to\\_UI was force-pushed to `e64b82e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 13:41:50.424000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e3382a6`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/e3382a6d4b6b61279c9f27bfbb9819c8a1de6e58) feat: update package version: - PitTxid\n[`5b8ae76`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/5b8ae76ae0a1222eff0a696f3a7dc2e9f64f6703) chore(release): 1.0.0 - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:6\\-create\\-private\\-package] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/55ef48b726ab...5b8ae76ae0a1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 13:44:37.434000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`e3382a6`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/e3382a6d4b6b61279c9f27bfbb9819c8a1de6e58) feat: update package version: - PitTxid\n[`5b8ae76`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/5b8ae76ae0a1222eff0a696f3a7dc2e9f64f6703) chore(release): 1.0.0 - PitTxid\n[`6476040`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/6476040e83ba0fb3560b37b1e545b69bac704e06) Merge pull request #10 from SimplioOfficial/6-c... - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:develop] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/55ef48b726ab...6476040e83ba"
+    }
   }
 ]
