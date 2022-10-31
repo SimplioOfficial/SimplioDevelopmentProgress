@@ -68777,5 +68777,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/96825e9a20613dad5b49d0f20eb2e1511aed0dd1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 08:14:58.776000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`79da743`](https://github.com/SimplioOfficial/simplio-app/commit/79da743347f4496f65d4e1d83fe9f35cf90cf8cf) Adding test fixes (#296) - MariooW\n[`8a90b9c`](https://github.com/SimplioOfficial/simplio-app/commit/8a90b9cfa361be6f90f384dc96ddde8c4e1a1a92) Task/222 swap logic implementation (#281) - jvrastil\n[`c7f2b99`](https://github.com/SimplioOfficial/simplio-app/commit/c7f2b9964f39ac6320097b029151d3dfb1316745) fix: Stream has already been listened to fix (#... - ciripel\n[`c0d3a20`](https://github.com/SimplioOfficial/simplio-app/commit/c0d3a2065a5d6b36e8349993378617d8fd284d28) Task/256 update UI for wallet connect request (... - storkandstars\n[`871ca1a`](https://github.com/SimplioOfficial/simplio-app/commit/871ca1ae03b91762b8a063e6db7312120eabb023) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/297\\-redesign\\-startup\\-screen] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/96825e9a2061...871ca1ae03b9"
+    }
   }
 ]
