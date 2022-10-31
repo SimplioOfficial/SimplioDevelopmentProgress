@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3840 commits since 10/09/2021. You can see the complete history in
+There is a total of 3841 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-31 13:22:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8219ff525d31...e64b82e36a5f)</sub> |
 | <sub>2022-10-31 11:12:19</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98590c65b87f0f250c33818cf58f7b98b38bf085)</sub> | <sub>[98590c6](https://github.com/SimplioOfficial/simplio-app/commit/98590c65b87f0f250c33818cf58f7b98b38bf085) wip: need improvements but work - ciripel</sub> |
 | <sub>2022-10-31 11:04:43</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/218f7acb075714d8cd22277cc483044167f94716)</sub> | <sub>[218f7ac](https://github.com/SimplioOfficial/simplio-app/commit/218f7acb075714d8cd22277cc483044167f94716) wip: add InAppWebView on discover_games_content - ciripel</sub> |
 | <sub>2022-10-31 08:28:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/af38d9666301...4655ab52927f)</sub> |
@@ -17,6 +18,5 @@ There is a total of 3840 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-31 07:11:19</sub> | <sub>[[backend-cosmos-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/515a79faafb7...55ef48b726ab)</sub> | <sub>[fe8752b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid<br>[55ef48b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/55ef48b726ab2d61babec5a12611e1f0ac098340) Merge pull request #9 from SimplioOfficial/5-up... - PitTxid</sub> |
 | <sub>2022-10-31 07:10:49</sub> | <sub>[[backend-cosmos-wallet-lib:5\-update\-document] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e)</sub> | <sub>[fe8752b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid</sub> |
 | <sub>2022-10-30 23:59:02</sub> | <sub>[[simplio-app:bug/302\-implement\-unsupported\-networkId\-throw\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d)</sub> | <sub>[af38d96](https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d) Adding test fixes to be in line with app changes - MariooW</sub> |
-| <sub>2022-10-30 14:47:03</sub> | <sub>[[backend-cosmos-wallet-lib:develop] 7 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/eb7834e28204...515a79faafb7)</sub> | <sub>[edc360a](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/edc360abcde97ded6133b99f195725e1f8944300) feat: create cosmos tx - PitTxid<br>[122d541](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/122d54173540c379c4c7c48ba21eb86a6932ea1e) feat: broadcast successfully with @cosmos-clien... - PitTxid<br>[18be0c5](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/18be0c5f2e28eb02ab8500eea48157ee78133c49) feat: broadcast with official lib successfully - PitTxid<br>[afdee23](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/afdee234896ee668146afd6351207f84d68a2db6) feat: update gas calculation - PitTxid<br>[53d2e4f](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/53d2e4fd5475a2ffad461a1e10235043bc69c6fa) feat: remove unused testing code - PitTxid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
