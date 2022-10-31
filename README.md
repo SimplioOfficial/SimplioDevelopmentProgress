@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3834 commits since 10/09/2021. You can see the complete history in
+There is a total of 3835 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-10-31 07:34:25</sub> | <sub>[[simplio-app:task/297\-redesign\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96825e9a20613dad5b49d0f20eb2e1511aed0dd1)</sub> | <sub>[96825e9](https://github.com/SimplioOfficial/simplio-app/commit/96825e9a20613dad5b49d0f20eb2e1511aed0dd1) Removed unneccessary white space from welcome s... - Tomáš Petrík</sub> |
 | <sub>2022-10-31 07:11:19</sub> | <sub>[[backend-cosmos-wallet-lib:develop] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/515a79faafb7...55ef48b726ab)</sub> | <sub>[fe8752b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid<br>[55ef48b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/55ef48b726ab2d61babec5a12611e1f0ac098340) Merge pull request #9 from SimplioOfficial/5-up... - PitTxid</sub> |
 | <sub>2022-10-31 07:10:49</sub> | <sub>[[backend-cosmos-wallet-lib:5\-update\-document] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e)</sub> | <sub>[fe8752b](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid</sub> |
 | <sub>2022-10-30 23:59:02</sub> | <sub>[[simplio-app:bug/302\-implement\-unsupported\-networkId\-throw\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d)</sub> | <sub>[af38d96](https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d) Adding test fixes to be in line with app changes - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3834 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-30 09:16:16</sub> | <sub>[[backend-cosmos-wallet-lib:4\-build\-cosmos\-tx] 1 new commit](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/53d2e4fd5475a2ffad461a1e10235043bc69c6fa)</sub> | <sub>[53d2e4f](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/53d2e4fd5475a2ffad461a1e10235043bc69c6fa) feat: remove unused testing code - PitTxid</sub> |
 | <sub>2022-10-28 17:45:00</sub> | <sub>[[simplio-app:bug/302\-implement\-unsupported\-networkId\-throw\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24147beaabf5172bb9c1ad326d43321973a192e3)</sub> | <sub>[24147be](https://github.com/SimplioOfficial/simplio-app/commit/24147beaabf5172bb9c1ad326d43321973a192e3) chore: upgrade sio_core_light in yaml file - ciripel</sub> |
 | <sub>2022-10-28 17:03:59</sub> | <sub>[[simplio-app:bug/302\-implement\-unsupported\-networkId\-throw\-error] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c0d3a2065a5d...26561ff0cc12)</sub> | <sub>[ae82e9e](https://github.com/SimplioOfficial/simplio-app/commit/ae82e9e08f86affbbe829bdda146732179e2da94) chore: upgrade sio_core_light to 1.1.7 - ciripel<br>[26561ff](https://github.com/SimplioOfficial/simplio-app/commit/26561ff0cc123790f6a03795a873659709eb272c) fix: throw error in case of unsupported networkId - ciripel</sub> |
-| <sub>2022-10-28 16:25:28</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.7](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.7)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
