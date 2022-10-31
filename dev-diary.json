@@ -68795,5 +68795,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/96825e9a2061...871ca1ae03b9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 08:15:18.917000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`611c282`](https://github.com/SimplioOfficial/simplio-app/commit/611c282d7223a147c36ff9eaeea441548401e3fe) Completed task/297-redesign-startup-screen (#298) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/611c282d7223a147c36ff9eaeea441548401e3fe"
+    }
   }
 ]
