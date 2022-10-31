@@ -68723,5 +68723,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 07:10:49.658000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fe8752b`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:5\\-update\\-document] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-31 07:11:19.541000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`fe8752b`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/fe8752b581e88751b464b9629f0a01ac4944fb6e) feat: update package name and readme file - PitTxid\n[`55ef48b`](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/55ef48b726ab2d61babec5a12611e1f0ac098340) Merge pull request #9 from SimplioOfficial/5-up... - PitTxid",
+      "title": "[backend-cosmos-wallet-lib:develop] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/515a79faafb7...55ef48b726ab"
+    }
   }
 ]
