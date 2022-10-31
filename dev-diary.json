@@ -68705,5 +68705,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/eb7834e28204...515a79faafb7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-10-30 23:59:02.349000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`af38d96`](https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d) Adding test fixes to be in line with app changes - MariooW",
+      "title": "[simplio-app:bug/302\\-implement\\-unsupported\\-networkId\\-throw\\-error] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/af38d9666301d811f79ee7009f57f5313750e12d"
+    }
   }
 ]
