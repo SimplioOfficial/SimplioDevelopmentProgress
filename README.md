@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3848 commits since 10/09/2021. You can see the complete history in
+There is a total of 3849 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-01 14:59:43</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3fe85117a197975df1bb32add6ea02e91d3b8243)</sub> | <sub>[3fe8511](https://github.com/SimplioOfficial/simplio-app/commit/3fe85117a197975df1bb32add6ea02e91d3b8243) starting session - storkandstars</sub> |
 | <sub>2022-11-01 14:46:10</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0256dd5e55fb11bfa474c95abfde2b2490485317)</sub> | <sub>[0256dd5](https://github.com/SimplioOfficial/simplio-app/commit/0256dd5e55fb11bfa474c95abfde2b2490485317) catching console message - storkandstars</sub> |
 | <sub>2022-11-01 14:34:29</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3861085f8fe362fa26871d8ca82371a93e6bafc)</sub> | <sub>[e386108](https://github.com/SimplioOfficial/simplio-app/commit/e3861085f8fe362fa26871d8ca82371a93e6bafc) adding gameplay screen - storkandstars</sub> |
 | <sub>2022-11-01 06:53:59</sub> | <sub>[[simplio-app:task/257\-connect\_buy\_logic\_to\_UI] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a646e85d068bbd5ba34f030bd7f90bb387e7bd5)</sub> | <sub>[4a646e8](https://github.com/SimplioOfficial/simplio-app/commit/4a646e85d068bbd5ba34f030bd7f90bb387e7bd5) Changes PIN CODE test - MariooW</sub> |
@@ -17,6 +18,5 @@ There is a total of 3848 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-10-31 13:41:50</sub> | <sub>[[backend-cosmos-wallet-lib:6\-create\-private\-package] 2 new commits](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/55ef48b726ab...5b8ae76ae0a1)</sub> | <sub>[e3382a6](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/e3382a6d4b6b61279c9f27bfbb9819c8a1de6e58) feat: update package version: - PitTxid<br>[5b8ae76](https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/commit/5b8ae76ae0a1222eff0a696f3a7dc2e9f64f6703) chore(release): 1.0.0 - PitTxid</sub> |
 | <sub>2022-10-31 13:22:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/8219ff525d31...e64b82e36a5f)</sub> |
 | <sub>2022-10-31 11:12:19</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98590c65b87f0f250c33818cf58f7b98b38bf085)</sub> | <sub>[98590c6](https://github.com/SimplioOfficial/simplio-app/commit/98590c65b87f0f250c33818cf58f7b98b38bf085) wip: need improvements but work - ciripel</sub> |
-| <sub>2022-10-31 11:04:43</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/218f7acb075714d8cd22277cc483044167f94716)</sub> | <sub>[218f7ac](https://github.com/SimplioOfficial/simplio-app/commit/218f7acb075714d8cd22277cc483044167f94716) wip: add InAppWebView on discover_games_content - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
