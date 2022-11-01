@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-01 15:36:58</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8)</sub> | <sub>[758d9a5](https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8) changes before code review - jvrastil</sub> |
 | <sub>2022-11-01 15:30:00</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6ff5abdf03ee...00233648c0fe)</sub> |
 | <sub>2022-11-01 14:59:43</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3fe85117a197975df1bb32add6ea02e91d3b8243)</sub> | <sub>[3fe8511](https://github.com/SimplioOfficial/simplio-app/commit/3fe85117a197975df1bb32add6ea02e91d3b8243) starting session - storkandstars</sub> |
 | <sub>2022-11-01 14:46:10</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0256dd5e55fb11bfa474c95abfde2b2490485317)</sub> | <sub>[0256dd5](https://github.com/SimplioOfficial/simplio-app/commit/0256dd5e55fb11bfa474c95abfde2b2490485317) catching console message - storkandstars</sub> |

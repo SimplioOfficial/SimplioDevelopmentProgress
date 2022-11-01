@@ -69044,5 +69044,23 @@
       "title": "[simplio-app] Branch refactor/coin\\_search\\_with\\_marketplace\\_service was force-pushed to `0023364`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-01 15:36:58.476000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`758d9a5`](https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8) changes before code review - jvrastil",
+      "title": "[simplio-app:refactor/coin\\_search\\_with\\_marketplace\\_service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8"
+    }
   }
 ]
