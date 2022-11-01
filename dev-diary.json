@@ -68973,5 +68973,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4a646e85d068bbd5ba34f030bd7f90bb387e7bd5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-01 14:34:29.905000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e386108`](https://github.com/SimplioOfficial/simplio-app/commit/e3861085f8fe362fa26871d8ca82371a93e6bafc) adding gameplay screen - storkandstars",
+      "title": "[simplio-app:task/292\\-connect\\-and\\-play\\-game] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e3861085f8fe362fa26871d8ca82371a93e6bafc"
+    }
   }
 ]
