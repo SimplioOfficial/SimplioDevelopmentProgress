@@ -68937,5 +68937,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/backend-cosmos-wallet-lib/compare/09f1f1567437...40bdfe09658b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-01 06:14:57.553000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/87430514?v=4",
+        "name": "MariooW",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/goY6aERATbrHnVtn_ktzRFUYpuMA8xc50n4UvnHdu0g/%3Fv%3D4/https/avatars.githubusercontent.com/u/87430514",
+        "url": "https://github.com/MariooW"
+      },
+      "color": 7506394,
+      "description": "[`321c3cf`](https://github.com/SimplioOfficial/simplio-app/commit/321c3cfdefb6d9ba0c3823cd3ceb8f91984f52f0) Adding test fixes to be in line with app changes - MariooW",
+      "title": "[simplio-app:task/257\\-connect\\_buy\\_logic\\_to\\_UI] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/321c3cfdefb6d9ba0c3823cd3ceb8f91984f52f0"
+    }
   }
 ]
