@@ -69027,5 +69027,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3fe85117a197975df1bb32add6ea02e91d3b8243"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-01 15:30:00.226000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6ff5abdf03ee...00233648c0fe)",
+      "title": "[simplio-app] Branch refactor/coin\\_search\\_with\\_marketplace\\_service was force-pushed to `0023364`",
+      "type": "rich"
+    }
   }
 ]
