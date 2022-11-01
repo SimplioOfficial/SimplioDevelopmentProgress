@@ -69062,5 +69062,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-01 19:56:14.407000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`ddf5f15`](https://github.com/SimplioOfficial/simplio-app/commit/ddf5f15e24122a6c6a478c7792d0fe301759df38) improve dialog - jvrastil",
+      "title": "[simplio-app:refactor/coin\\_search\\_with\\_marketplace\\_service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ddf5f15e24122a6c6a478c7792d0fe301759df38"
+    }
   }
 ]
