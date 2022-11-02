@@ -69170,5 +69170,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/d2bb92959899...b834ee759fb3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-02 18:23:35.162000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`f13a0c9`](https://github.com/SimplioOfficial/simplio-app/commit/f13a0c9a19c0ea9f654ce7eb558e3e15f265404e) fixed empty string in search input - jvrastil",
+      "title": "[simplio-app:task/306\\-coin\\_listing\\_in\\_discovery\\_and\\_seach\\_screens] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f13a0c9a19c0ea9f654ce7eb558e3e15f265404e"
+    }
   }
 ]
