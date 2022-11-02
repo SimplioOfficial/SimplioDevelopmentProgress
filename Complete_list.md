@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-02 12:25:27</sub> | <sub>[[simplio-app:task/306\-coin\_listing\_in\_discovery\_and\_seach\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/04bbded2e9db6e6f1036c72a3b3dc265bad660f0)</sub> | <sub>[04bbded](https://github.com/SimplioOfficial/simplio-app/commit/04bbded2e9db6e6f1036c72a3b3dc265bad660f0) add localization - jvrastil</sub> |
 | <sub>2022-11-01 19:56:14</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ddf5f15e24122a6c6a478c7792d0fe301759df38)</sub> | <sub>[ddf5f15](https://github.com/SimplioOfficial/simplio-app/commit/ddf5f15e24122a6c6a478c7792d0fe301759df38) improve dialog - jvrastil</sub> |
 | <sub>2022-11-01 15:36:58</sub> | <sub>[[simplio-app:refactor/coin\_search\_with\_marketplace\_service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8)</sub> | <sub>[758d9a5](https://github.com/SimplioOfficial/simplio-app/commit/758d9a5dfd3b3c114139013d4386410c440b72c8) changes before code review - jvrastil</sub> |
 | <sub>2022-11-01 15:30:00</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6ff5abdf03ee...00233648c0fe)</sub> |
