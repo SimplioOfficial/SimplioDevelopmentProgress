@@ -69383,5 +69383,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e73930c0bfa86d9a9773683b9d9a44e9f0ac669c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 11:15:27.430000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`fdb865c`](https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil",
+      "title": "[simplio-app:bug/313\\-reword\\_popup\\_when\\_reseting\\_password] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50"
+    }
   }
 ]
