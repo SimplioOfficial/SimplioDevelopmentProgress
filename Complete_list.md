@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 10:21:58</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6)</sub> | <sub>[d65fb96](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel</sub> |
 | <sub>2022-11-03 10:16:15</sub> | <sub>[[simplio-app:bug/314\-typo\_in\_pin\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e)</sub> | <sub>[daf5519](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e) Bug/314 - Fix typo in pin setup screen - jvrastil</sub> |
 | <sub>2022-11-03 10:04:21</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.8](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.8)</sub> | <sub>_No Commits_</sub> |
 | <sub>2022-11-03 10:03:08</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3)</sub> | <sub>[7244fa7](https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3) fix: Eth sign message not work for normal messa... - ciripel</sub> |
