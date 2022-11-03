@@ -69277,5 +69277,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/8ecf2928c269ad9d04237bd385c6d1609a07316b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 09:56:57.664000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3dd21e4`](https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc) chore: increase version to 1.1.8 - ciripel",
+      "title": "[sio_core_light:bug/23\\-eth\\-sign\\-message\\-not\\-work\\-for\\-normal\\-messages] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc"
+    }
   }
 ]

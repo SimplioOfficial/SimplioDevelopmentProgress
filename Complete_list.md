@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 09:56:57</sub> | <sub>[[sio_core_light:bug/23\-eth\-sign\-message\-not\-work\-for\-normal\-messages] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc)</sub> | <sub>[3dd21e4](https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc) chore: increase version to 1.1.8 - ciripel</sub> |
 | <sub>2022-11-03 09:49:25</sub> | <sub>[[sio_core_light:bug/23\-eth\-sign\-message\-not\-work\-for\-normal\-messages] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/8ecf2928c269ad9d04237bd385c6d1609a07316b)</sub> | <sub>[8ecf292](https://github.com/SimplioOfficial/sio_core_light/commit/8ecf2928c269ad9d04237bd385c6d1609a07316b) fix: Eth sign message not work for normal messages - ciripel</sub> |
 | <sub>2022-11-03 09:42:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0)</sub> | <sub>[1ef3275](https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0) Task/306 coin listing in discovery and seach sc... - jvrastil</sub> |
 | <sub>2022-11-03 08:54:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3e2ec91741a8...be4cce5517e2)</sub> |
