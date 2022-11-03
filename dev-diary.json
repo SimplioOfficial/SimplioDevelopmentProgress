@@ -69545,5 +69545,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/440f1f4fb49f...bd44f9fc7daa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 19:52:24.021000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5dd146a`](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14) adding url decoding to wc validator - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14"
+    }
   }
 ]

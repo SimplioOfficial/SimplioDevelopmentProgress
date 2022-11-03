@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3878 commits since 10/09/2021. You can see the complete history in
+There is a total of 3879 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 19:52:24</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14)</sub> | <sub>[5dd146a](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14) adding url decoding to wc validator - storkandstars</sub> |
 | <sub>2022-11-03 17:28:15</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/440f1f4fb49f...bd44f9fc7daa)</sub> | <sub>[d65fb96](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel<br>[bd44f9f](https://github.com/SimplioOfficial/simplio-app/commit/bd44f9fc7daa337c6dd01cb6bbfc7cdf612bdd91) Merge branch 'task/292-connect-and-play-game' i... - storkandstars</sub> |
 | <sub>2022-11-03 17:19:02</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed)</sub> | <sub>[440f1f4](https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed) removing ignores - storkandstars</sub> |
 | <sub>2022-11-03 17:15:23</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2c6638901fd5...5fe08dac0f2f)</sub> | <sub>[4546835](https://github.com/SimplioOfficial/simplio-app/commit/4546835aa851bee40ac7e29b0af1ed6405782ecf) constant sessionId in gameplay - storkandstars<br>[5fe08da](https://github.com/SimplioOfficial/simplio-app/commit/5fe08dac0f2f21943595df3b843de6a0fb25c2b9) killing all session with the same sessionId - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3878 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-03 12:37:12</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e)</sub> | <sub>[fc03f69](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e) adding pre approved wallet connect session request - storkandstars</sub> |
 | <sub>2022-11-03 11:21:34</sub> | <sub>[[simplio-app:bug/312\-multiple\_clicking\_on\_send\_button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f)</sub> | <sub>[c29afd6](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f) build fix - jvrastil</sub> |
 | <sub>2022-11-03 11:15:27</sub> | <sub>[[simplio-app:bug/313\-reword\_popup\_when\_reseting\_password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50)</sub> | <sub>[fdb865c](https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil</sub> |
-| <sub>2022-11-03 11:07:55</sub> | <sub>[[simplio-app:bug/312\-multiple\_clicking\_on\_send\_button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e73930c0bfa86d9a9773683b9d9a44e9f0ac669c)</sub> | <sub>[e73930c](https://github.com/SimplioOfficial/simplio-app/commit/e73930c0bfa86d9a9773683b9d9a44e9f0ac669c) Bug/312 - Disable send button on reset password... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
