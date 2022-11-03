@@ -69581,5 +69581,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9be2c098de6cc707b9628f1068763cf625d118f9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 20:43:44.968000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`906d45a`](https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b) adding todo - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b"
+    }
   }
 ]

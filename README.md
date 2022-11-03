@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3880 commits since 10/09/2021. You can see the complete history in
+There is a total of 3881 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 20:43:44</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b)</sub> | <sub>[906d45a](https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b) adding todo - storkandstars</sub> |
 | <sub>2022-11-03 20:35:19</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9be2c098de6cc707b9628f1068763cf625d118f9)</sub> | <sub>[9be2c09](https://github.com/SimplioOfficial/simplio-app/commit/9be2c098de6cc707b9628f1068763cf625d118f9) opening approved wc session with provided network - storkandstars</sub> |
 | <sub>2022-11-03 19:52:24</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14)</sub> | <sub>[5dd146a](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14) adding url decoding to wc validator - storkandstars</sub> |
 | <sub>2022-11-03 17:28:15</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/440f1f4fb49f...bd44f9fc7daa)</sub> | <sub>[d65fb96](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel<br>[bd44f9f](https://github.com/SimplioOfficial/simplio-app/commit/bd44f9fc7daa337c6dd01cb6bbfc7cdf612bdd91) Merge branch 'task/292-connect-and-play-game' i... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3880 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-03 16:16:44</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74)</sub> | <sub>[50c38f1](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74) adding wc uri validator - storkandstars</sub> |
 | <sub>2022-11-03 13:09:50</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fc03f69fa699...51107435d970)</sub> | <sub>[724b0b5](https://github.com/SimplioOfficial/simplio-app/commit/724b0b5c4e830a8c8a588163fa9ef6ee89452e88) updating spinner - storkandstars<br>[5110743](https://github.com/SimplioOfficial/simplio-app/commit/51107435d9700bfb6ce3f7c7e40d4e53eeb498ca) formatted future builder - storkandstars</sub> |
 | <sub>2022-11-03 12:37:12</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e)</sub> | <sub>[fc03f69](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e) adding pre approved wallet connect session request - storkandstars</sub> |
-| <sub>2022-11-03 11:21:34</sub> | <sub>[[simplio-app:bug/312\-multiple\_clicking\_on\_send\_button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f)</sub> | <sub>[c29afd6](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f) build fix - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
