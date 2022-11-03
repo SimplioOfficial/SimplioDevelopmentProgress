@@ -69259,5 +69259,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 09:49:25.123000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8ecf292`](https://github.com/SimplioOfficial/sio_core_light/commit/8ecf2928c269ad9d04237bd385c6d1609a07316b) fix: Eth sign message not work for normal messages - ciripel",
+      "title": "[sio_core_light:bug/23\\-eth\\-sign\\-message\\-not\\-work\\-for\\-normal\\-messages] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/8ecf2928c269ad9d04237bd385c6d1609a07316b"
+    }
   }
 ]
