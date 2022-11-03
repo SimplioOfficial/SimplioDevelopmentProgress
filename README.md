@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3873 commits since 10/09/2021. You can see the complete history in
+There is a total of 3875 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 16:18:18</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c6638901fd58212dcf3e9a0639d8bac74a4f2b4)</sub> | <sub>[2c66389](https://github.com/SimplioOfficial/simplio-app/commit/2c6638901fd58212dcf3e9a0639d8bac74a4f2b4) fix analyze - storkandstars</sub> |
+| <sub>2022-11-03 16:16:44</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74)</sub> | <sub>[50c38f1](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74) adding wc uri validator - storkandstars</sub> |
 | <sub>2022-11-03 13:09:50</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fc03f69fa699...51107435d970)</sub> | <sub>[724b0b5](https://github.com/SimplioOfficial/simplio-app/commit/724b0b5c4e830a8c8a588163fa9ef6ee89452e88) updating spinner - storkandstars<br>[5110743](https://github.com/SimplioOfficial/simplio-app/commit/51107435d9700bfb6ce3f7c7e40d4e53eeb498ca) formatted future builder - storkandstars</sub> |
 | <sub>2022-11-03 12:37:12</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e)</sub> | <sub>[fc03f69](https://github.com/SimplioOfficial/simplio-app/commit/fc03f69fa6997c545f527d577b563dcf078c749e) adding pre approved wallet connect session request - storkandstars</sub> |
 | <sub>2022-11-03 11:21:34</sub> | <sub>[[simplio-app:bug/312\-multiple\_clicking\_on\_send\_button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f)</sub> | <sub>[c29afd6](https://github.com/SimplioOfficial/simplio-app/commit/c29afd67332a199e76e6d949214cd66cc837880f) build fix - jvrastil</sub> |
@@ -16,7 +18,5 @@ There is a total of 3873 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-03 10:21:58</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6)</sub> | <sub>[d65fb96](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel</sub> |
 | <sub>2022-11-03 10:16:15</sub> | <sub>[[simplio-app:bug/314\-typo\_in\_pin\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e)</sub> | <sub>[daf5519](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e) Bug/314 - Fix typo in pin setup screen - jvrastil</sub> |
 | <sub>2022-11-03 10:04:21</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.8](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.8)</sub> | <sub>_No Commits_</sub> |
-| <sub>2022-11-03 10:03:08</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3)</sub> | <sub>[7244fa7](https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3) fix: Eth sign message not work for normal messa... - ciripel</sub> |
-| <sub>2022-11-03 09:56:57</sub> | <sub>[[sio_core_light:bug/23\-eth\-sign\-message\-not\-work\-for\-normal\-messages] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc)</sub> | <sub>[3dd21e4](https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc) chore: increase version to 1.1.8 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
