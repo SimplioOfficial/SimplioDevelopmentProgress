@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 09:42:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0)</sub> | <sub>[1ef3275](https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0) Task/306 coin listing in discovery and seach sc... - jvrastil</sub> |
 | <sub>2022-11-03 08:54:10</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3e2ec91741a8...be4cce5517e2)</sub> |
 | <sub>2022-11-03 08:52:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c99be22539969416f2cc52c997c56e9c3703fbb)</sub> | <sub>[0c99be2](https://github.com/SimplioOfficial/simplio-app/commit/0c99be22539969416f2cc52c997c56e9c3703fbb) Task/257 - Connect buy logic to UI (#287) - jvrastil</sub> |
 | <sub>2022-11-03 08:41:26</sub> | <sub>[[simplio-app:task/306\-coin\_listing\_in\_discovery\_and\_seach\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e2ec91741a84a92820f6e3992e39b62b40caa74)</sub> | <sub>[3e2ec91](https://github.com/SimplioOfficial/simplio-app/commit/3e2ec91741a84a92820f6e3992e39b62b40caa74) close dialog on background tap - jvrastil</sub> |
