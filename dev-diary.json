@@ -69295,5 +69295,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/3dd21e4d1dea0a7b0f2e1220826877b6b48602bc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 10:03:08.595000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7244fa7`](https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3) fix: Eth sign message not work for normal messa... - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/7244fa7fee7d3dd97328735cf6b7fbab7593d8c3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 10:04:21.451000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_core_light] New release published: 1\\.1\\.8",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.8"
+    }
   }
 ]
