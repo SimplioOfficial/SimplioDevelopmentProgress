@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3875 commits since 10/09/2021. You can see the complete history in
+There is a total of 3877 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-03 17:19:02</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed)</sub> | <sub>[440f1f4](https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed) removing ignores - storkandstars</sub> |
+| <sub>2022-11-03 17:15:23</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2c6638901fd5...5fe08dac0f2f)</sub> | <sub>[4546835](https://github.com/SimplioOfficial/simplio-app/commit/4546835aa851bee40ac7e29b0af1ed6405782ecf) constant sessionId in gameplay - storkandstars<br>[5fe08da](https://github.com/SimplioOfficial/simplio-app/commit/5fe08dac0f2f21943595df3b843de6a0fb25c2b9) killing all session with the same sessionId - storkandstars</sub> |
 | <sub>2022-11-03 16:18:18</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c6638901fd58212dcf3e9a0639d8bac74a4f2b4)</sub> | <sub>[2c66389](https://github.com/SimplioOfficial/simplio-app/commit/2c6638901fd58212dcf3e9a0639d8bac74a4f2b4) fix analyze - storkandstars</sub> |
 | <sub>2022-11-03 16:16:44</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74)</sub> | <sub>[50c38f1](https://github.com/SimplioOfficial/simplio-app/commit/50c38f1688892432cf679bf71fd7a8afd9117c74) adding wc uri validator - storkandstars</sub> |
 | <sub>2022-11-03 13:09:50</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fc03f69fa699...51107435d970)</sub> | <sub>[724b0b5](https://github.com/SimplioOfficial/simplio-app/commit/724b0b5c4e830a8c8a588163fa9ef6ee89452e88) updating spinner - storkandstars<br>[5110743](https://github.com/SimplioOfficial/simplio-app/commit/51107435d9700bfb6ce3f7c7e40d4e53eeb498ca) formatted future builder - storkandstars</sub> |
@@ -16,7 +18,5 @@ There is a total of 3875 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-03 11:15:27</sub> | <sub>[[simplio-app:bug/313\-reword\_popup\_when\_reseting\_password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50)</sub> | <sub>[fdb865c](https://github.com/SimplioOfficial/simplio-app/commit/fdb865c1031dc28683ff2af2f3d527f06150ef50) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil</sub> |
 | <sub>2022-11-03 11:07:55</sub> | <sub>[[simplio-app:bug/312\-multiple\_clicking\_on\_send\_button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e73930c0bfa86d9a9773683b9d9a44e9f0ac669c)</sub> | <sub>[e73930c](https://github.com/SimplioOfficial/simplio-app/commit/e73930c0bfa86d9a9773683b9d9a44e9f0ac669c) Bug/312 - Disable send button on reset password... - jvrastil</sub> |
 | <sub>2022-11-03 10:21:58</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6)</sub> | <sub>[d65fb96](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel</sub> |
-| <sub>2022-11-03 10:16:15</sub> | <sub>[[simplio-app:bug/314\-typo\_in\_pin\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e)</sub> | <sub>[daf5519](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e) Bug/314 - Fix typo in pin setup screen - jvrastil</sub> |
-| <sub>2022-11-03 10:04:21</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.8](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.8)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

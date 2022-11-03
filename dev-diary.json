@@ -69491,5 +69491,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2c6638901fd58212dcf3e9a0639d8bac74a4f2b4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 17:15:23.156000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4546835`](https://github.com/SimplioOfficial/simplio-app/commit/4546835aa851bee40ac7e29b0af1ed6405782ecf) constant sessionId in gameplay - storkandstars\n[`5fe08da`](https://github.com/SimplioOfficial/simplio-app/commit/5fe08dac0f2f21943595df3b843de6a0fb25c2b9) killing all session with the same sessionId - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2c6638901fd5...5fe08dac0f2f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 17:19:02.982000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`440f1f4`](https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed) removing ignores - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed"
+    }
   }
 ]
