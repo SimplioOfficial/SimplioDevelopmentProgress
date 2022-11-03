@@ -69206,5 +69206,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e2ec91741a84a92820f6e3992e39b62b40caa74"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 08:52:28.057000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0c99be2`](https://github.com/SimplioOfficial/simplio-app/commit/0c99be22539969416f2cc52c997c56e9c3703fbb) Task/257 - Connect buy logic to UI (#287) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0c99be22539969416f2cc52c997c56e9c3703fbb"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 08:54:10.934000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3e2ec91741a8...be4cce5517e2)",
+      "title": "[simplio-app] Branch task/306\\-coin\\_listing\\_in\\_discovery\\_and\\_seach\\_screens was force-pushed to `be4cce5`",
+      "type": "rich"
+    }
   }
 ]
