@@ -69527,5 +69527,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/440f1f4fb49f338961aca3327196f8a49efd9aed"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-03 17:28:15.767000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d65fb96`](https://github.com/SimplioOfficial/simplio-app/commit/d65fb9640174beec5476c4f796b0199eeb7e40e6) chore: upgrade sio_core_light to 1.1.8 - ciripel\n[`bd44f9f`](https://github.com/SimplioOfficial/simplio-app/commit/bd44f9fc7daa337c6dd01cb6bbfc7cdf612bdd91) Merge branch 'task/292-connect-and-play-game' i... - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/440f1f4fb49f...bd44f9fc7daa"
+    }
   }
 ]
