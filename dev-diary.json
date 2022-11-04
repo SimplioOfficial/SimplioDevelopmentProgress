@@ -69635,5 +69635,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e8c887ca2e950702113f33b2b9315f054fce221d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-04 10:05:58.731000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`022c7ca`](https://github.com/SimplioOfficial/simplio-app/commit/022c7ca0b3b8e1a34c47f864f1143487dbc5cf18) chore: upgrade sio_core_light to 1.1.7 - ciripel\n[`8b6b3b2`](https://github.com/SimplioOfficial/simplio-app/commit/8b6b3b2ae9c62794f5834820317256e6780d3921) fix: throw error in case of unsupported networkId - ciripel\n[`4655ab5`](https://github.com/SimplioOfficial/simplio-app/commit/4655ab52927f7cee5ff4d8e3e14e41a0a3b8cd6a) chore: upgrade sio_core_light in yaml file - ciripel\n[`fc2fd32`](https://github.com/SimplioOfficial/simplio-app/commit/fc2fd32cc416871f367b4dcb5a2aae554d8bffec) Merge pull request #303 from SimplioOfficial/bu... - PitTxid",
+      "title": "[simplio-app:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/1ef3275c69b6...fc2fd32cc416"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-04 10:06:41.977000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/40324305?v=4",
+        "name": "PitTxid",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/-0Y9FtC9KeW9J5z818shne9Vth2wlE28QqGdshhbZkI/%3Fv%3D4/https/avatars.githubusercontent.com/u/40324305",
+        "url": "https://github.com/PitTxid"
+      },
+      "color": 7506394,
+      "description": "[`daf5519`](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e) Bug/314 - Fix typo in pin setup screen - jvrastil\n[`15f5954`](https://github.com/SimplioOfficial/simplio-app/commit/15f5954c6139730806a88dc34ac4cf7b20b558c4) Merge pull request #315 from SimplioOfficial/bu... - PitTxid",
+      "title": "[simplio-app:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/fc2fd32cc416...15f5954c6139"
+    }
   }
 ]
