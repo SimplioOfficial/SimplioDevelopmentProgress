@@ -69599,5 +69599,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-04 09:57:08.927000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`84907d2`](https://github.com/SimplioOfficial/simplio-app/commit/84907d2eba7610460264e4357695b111eb4a10b9) using provided playUri - storkandstars",
+      "title": "[simplio-app:subtask/approved\\-wallet\\-connect\\-session] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/84907d2eba7610460264e4357695b111eb4a10b9"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-04 09:57:27.763000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e8c887c`](https://github.com/SimplioOfficial/simplio-app/commit/e8c887ca2e950702113f33b2b9315f054fce221d) Subtask/adding pre approved wallet connect sess... - storkandstars",
+      "title": "[simplio-app:task/292\\-connect\\-and\\-play\\-game] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e8c887ca2e950702113f33b2b9315f054fce221d"
+    }
   }
 ]
