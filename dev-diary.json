@@ -69707,5 +69707,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ad3b0d9218576e9572967a9e5ac1186ea56af65a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-04 13:33:04.801000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4b7308c`](https://github.com/SimplioOfficial/simplio-app/commit/4b7308c2d4ded1e00457b10fb4d7fea9d8078d1c) filtering enabled wallets - storkandstars\n[`be5c5a1`](https://github.com/SimplioOfficial/simplio-app/commit/be5c5a14abef401daf9942c198e35d0358cfe8ca) adding on remove from inventory callback - storkandstars\n[`60d9050`](https://github.com/SimplioOfficial/simplio-app/commit/60d90505b6549c46d2a457a0485e44e77f43ff04) applying remove from inventory callback - storkandstars",
+      "title": "[simplio-app:task/309\\-filter\\-enabled\\-asset\\-wallets\\-in\\-inventory\\-screen] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/15f5954c6139...60d90505b654"
+    }
   }
 ]
