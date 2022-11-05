@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3888 commits since 10/09/2021. You can see the complete history in
+There is a total of 3889 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-05 18:05:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937)</sub> | <sub>[c43dba1](https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937) Task/293 - Add backup mnemonic screen (#321) - jvrastil</sub> |
 | <sub>2022-11-04 13:33:04</sub> | <sub>[[simplio-app:task/309\-filter\-enabled\-asset\-wallets\-in\-inventory\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/15f5954c6139...60d90505b654)</sub> | <sub>[4b7308c](https://github.com/SimplioOfficial/simplio-app/commit/4b7308c2d4ded1e00457b10fb4d7fea9d8078d1c) filtering enabled wallets - storkandstars<br>[be5c5a1](https://github.com/SimplioOfficial/simplio-app/commit/be5c5a14abef401daf9942c198e35d0358cfe8ca) adding on remove from inventory callback - storkandstars<br>[60d9050](https://github.com/SimplioOfficial/simplio-app/commit/60d90505b6549c46d2a457a0485e44e77f43ff04) applying remove from inventory callback - storkandstars</sub> |
 | <sub>2022-11-04 13:20:08</sub> | <sub>[[simplio-app:task/293\-mnemonic\_backup\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad3b0d9218576e9572967a9e5ac1186ea56af65a)</sub> | <sub>[ad3b0d9](https://github.com/SimplioOfficial/simplio-app/commit/ad3b0d9218576e9572967a9e5ac1186ea56af65a) Task/293 - Add backup mnemonic screen - jvrastil</sub> |
 | <sub>2022-11-04 12:54:13</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bdf78bdd12f6c7917a4f49e61b91720a7a0d0d54)</sub> | <sub>[bdf78bd](https://github.com/SimplioOfficial/simplio-app/commit/bdf78bdd12f6c7917a4f49e61b91720a7a0d0d54) fix: invert priority of EthSignMessage - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3888 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-04 09:57:08</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84907d2eba7610460264e4357695b111eb4a10b9)</sub> | <sub>[84907d2](https://github.com/SimplioOfficial/simplio-app/commit/84907d2eba7610460264e4357695b111eb4a10b9) using provided playUri - storkandstars</sub> |
 | <sub>2022-11-03 20:43:44</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b)</sub> | <sub>[906d45a](https://github.com/SimplioOfficial/simplio-app/commit/906d45a8100b63fd73854c5b8edd43604787f74b) adding todo - storkandstars</sub> |
 | <sub>2022-11-03 20:35:19</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9be2c098de6cc707b9628f1068763cf625d118f9)</sub> | <sub>[9be2c09](https://github.com/SimplioOfficial/simplio-app/commit/9be2c098de6cc707b9628f1068763cf625d118f9) opening approved wc session with provided network - storkandstars</sub> |
-| <sub>2022-11-03 19:52:24</sub> | <sub>[[simplio-app:subtask/approved\-wallet\-connect\-session] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14)</sub> | <sub>[5dd146a](https://github.com/SimplioOfficial/simplio-app/commit/5dd146aa3e6e6726c2d67fde041fd4fc33415c14) adding url decoding to wc validator - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

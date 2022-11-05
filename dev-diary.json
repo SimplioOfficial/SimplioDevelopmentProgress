@@ -69725,5 +69725,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/15f5954c6139...60d90505b654"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-05 18:05:11.981000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`c43dba1`](https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937) Task/293 - Add backup mnemonic screen (#321) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937"
+    }
   }
 ]
