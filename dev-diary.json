@@ -69761,5 +69761,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/24ff810e1589045b98a36c686454a419281fafca"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 08:37:11.268000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`022c7ca`](https://github.com/SimplioOfficial/simplio-app/commit/022c7ca0b3b8e1a34c47f864f1143487dbc5cf18) chore: upgrade sio_core_light to 1.1.7 - ciripel\n[`8b6b3b2`](https://github.com/SimplioOfficial/simplio-app/commit/8b6b3b2ae9c62794f5834820317256e6780d3921) fix: throw error in case of unsupported networkId - ciripel\n[`4655ab5`](https://github.com/SimplioOfficial/simplio-app/commit/4655ab52927f7cee5ff4d8e3e14e41a0a3b8cd6a) chore: upgrade sio_core_light in yaml file - ciripel\n[`daf5519`](https://github.com/SimplioOfficial/simplio-app/commit/daf5519ff0996a523c7e101d6b89d1b7c302161e) Bug/314 - Fix typo in pin setup screen - jvrastil\n[`fc2fd32`](https://github.com/SimplioOfficial/simplio-app/commit/fc2fd32cc416871f367b4dcb5a2aae554d8bffec) Merge pull request #303 from SimplioOfficial/bu... - PitTxid",
+      "title": "[simplio-app:task/288\\-game\\-listing\\-with\\-game\\-detail] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/24ff810e1589...dc10ea725daf"
+    }
   }
 ]
