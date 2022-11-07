@@ -69887,5 +69887,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/3684688e6627^...3512bcc91fb1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 18:37:58.593000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`6cf70af`](https://github.com/SimplioOfficial/simplio-app/commit/6cf70af6a56b54d006e053faddad43b296a449fd) upgrade flutter_svg - storkandstars\n[`5317350`](https://github.com/SimplioOfficial/simplio-app/commit/5317350221da98a333483db8b61a32d61d8d7f73) adding tinc coin - storkandstars\n[`e717a37`](https://github.com/SimplioOfficial/simplio-app/commit/e717a3738577b073d4ae030b53c87379ae7f6259) adding dai coin - storkandstars\n[`2e947ea`](https://github.com/SimplioOfficial/simplio-app/commit/2e947ea54da280554239377490a267934abac90b) optimizing solana - storkandstars\n[`b52837e`](https://github.com/SimplioOfficial/simplio-app/commit/b52837ee20269b24deabc1c24a530e142e66ec4c) optimizing bitcoin - storkandstars",
+      "title": "[simplio-app:task/320\\-add\\-game\\-asset\\-icon] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/c43dba1ea00f...2a7db6ebe324"
+    }
   }
 ]
