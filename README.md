@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3902 commits since 10/09/2021. You can see the complete history in
+There is a total of 3903 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-07 21:09:45</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b)</sub> | <sub>[145a26f](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b) Task/320 add game asset icon (#328) - storkandstars</sub> |
 | <sub>2022-11-07 20:47:22</sub> | <sub>[[simplio-app:bug/324\-adding\_coin\_does\_not\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3)</sub> | <sub>[a09c9c8](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3) add todo item - jvrastil</sub> |
 | <sub>2022-11-07 20:33:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086)</sub> | <sub>[0f9a314](https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086) Task/319 - Add "responsive design" for welcome_... - jvrastil</sub> |
 | <sub>2022-11-07 19:39:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e54f14fa693b7b2419257f5c18068844fd2325c)</sub> | <sub>[5e54f14](https://github.com/SimplioOfficial/simplio-app/commit/5e54f14fa693b7b2419257f5c18068844fd2325c) Task/309 filter enabled asset wallets in invent... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3902 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-07 10:16:57</sub> | <sub>[[simplio-app:bug/319\-fix\_welcome\_screens\_for\_smaller\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0bdaf2d9ad4757f834fea10bb061fc72787644b)</sub> | <sub>[d0bdaf2](https://github.com/SimplioOfficial/simplio-app/commit/d0bdaf2d9ad4757f834fea10bb061fc72787644b) Task/319 - Add "responsive design" for welcome_... - jvrastil</sub> |
 | <sub>2022-11-07 09:48:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988)</sub> | <sub>[b481fdc](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988) Bug/312 - Disable send button on reset password... - jvrastil</sub> |
 | <sub>2022-11-07 09:48:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4)</sub> | <sub>[0ac385c](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil</sub> |
-| <sub>2022-11-07 09:34:05</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/056f8fd263fb1266dc37698b2d11c4483f76b23b)</sub> | <sub>[056f8fd](https://github.com/SimplioOfficial/simplio-app/commit/056f8fd263fb1266dc37698b2d11c4483f76b23b) fix merge - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

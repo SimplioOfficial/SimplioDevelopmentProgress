@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-07 21:09:45</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b)</sub> | <sub>[145a26f](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b) Task/320 add game asset icon (#328) - storkandstars</sub> |
 | <sub>2022-11-07 20:47:22</sub> | <sub>[[simplio-app:bug/324\-adding\_coin\_does\_not\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3)</sub> | <sub>[a09c9c8](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3) add todo item - jvrastil</sub> |
 | <sub>2022-11-07 20:33:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086)</sub> | <sub>[0f9a314](https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086) Task/319 - Add "responsive design" for welcome_... - jvrastil</sub> |
 | <sub>2022-11-07 19:39:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e54f14fa693b7b2419257f5c18068844fd2325c)</sub> | <sub>[5e54f14](https://github.com/SimplioOfficial/simplio-app/commit/5e54f14fa693b7b2419257f5c18068844fd2325c) Task/309 filter enabled asset wallets in invent... - storkandstars</sub> |
