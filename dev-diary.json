@@ -69959,5 +69959,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 20:47:22.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a09c9c8`](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3) add todo item - jvrastil",
+      "title": "[simplio-app:bug/324\\-adding\\_coin\\_does\\_not\\_update] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3"
+    }
   }
 ]
