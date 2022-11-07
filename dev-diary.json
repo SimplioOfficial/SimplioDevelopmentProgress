@@ -69815,5 +69815,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/056f8fd263fb1266dc37698b2d11c4483f76b23b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 09:48:20.774000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`0ac385c`](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 09:48:39.227000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b481fdc`](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988) Bug/312 - Disable send button on reset password... - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988"
+    }
   }
 ]
