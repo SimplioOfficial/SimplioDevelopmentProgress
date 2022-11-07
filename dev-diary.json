@@ -69869,5 +69869,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d0bdaf2d9ad4757f834fea10bb061fc72787644b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 15:32:33.657000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`3684688`](https://github.com/SimplioOfficial/simplio-app/commit/3684688e6627331502ff940de882193e877c4ee4) filtering enabled wallets - storkandstars\n[`7d26806`](https://github.com/SimplioOfficial/simplio-app/commit/7d26806c3c3bf8adb154fe47f08507c7eda48922) adding on remove from inventory callback - storkandstars\n[`341d0fa`](https://github.com/SimplioOfficial/simplio-app/commit/341d0fa699b46ac297f2f48b423ead6c96c10cbb) applying remove from inventory callback - storkandstars\n[`3512bcc`](https://github.com/SimplioOfficial/simplio-app/commit/3512bcc91fb1674c126ad96855f448c08f90748a) Bug/324 - Refresh coin lists after adding / rem... - jvrastil",
+      "title": "[simplio-app:bug/324\\-adding\\_coin\\_does\\_not\\_update] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/3684688e6627^...3512bcc91fb1"
+    }
   }
 ]
