@@ -69779,5 +69779,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/24ff810e1589...dc10ea725daf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-07 09:08:14.833000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`022c7ca`](https://github.com/SimplioOfficial/simplio-app/commit/022c7ca0b3b8e1a34c47f864f1143487dbc5cf18) chore: upgrade sio_core_light to 1.1.7 - ciripel\n[`8b6b3b2`](https://github.com/SimplioOfficial/simplio-app/commit/8b6b3b2ae9c62794f5834820317256e6780d3921) fix: throw error in case of unsupported networkId - ciripel\n[`4655ab5`](https://github.com/SimplioOfficial/simplio-app/commit/4655ab52927f7cee5ff4d8e3e14e41a0a3b8cd6a) chore: upgrade sio_core_light in yaml file - ciripel\n[`0c99be2`](https://github.com/SimplioOfficial/simplio-app/commit/0c99be22539969416f2cc52c997c56e9c3703fbb) Task/257 - Connect buy logic to UI (#287) - jvrastil\n[`1ef3275`](https://github.com/SimplioOfficial/simplio-app/commit/1ef3275c69b6ae37c11a6f5707d0d70f5c8903e0) Task/306 coin listing in discovery and seach sc... - jvrastil",
+      "title": "[simplio-app:task/292\\-connect\\-and\\-play\\-game] 10 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/bdf78bdd12f6...c37c201da80d"
+    }
   }
 ]
