@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3895 commits since 10/09/2021. You can see the complete history in
+There is a total of 3896 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-07 10:16:57</sub> | <sub>[[simplio-app:bug/319\-fix\_welcome\_screens\_for\_smaller\_screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0bdaf2d9ad4757f834fea10bb061fc72787644b)</sub> | <sub>[d0bdaf2](https://github.com/SimplioOfficial/simplio-app/commit/d0bdaf2d9ad4757f834fea10bb061fc72787644b) Task/319 - Add "responsive design" for welcome_... - jvrastil</sub> |
 | <sub>2022-11-07 09:48:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988)</sub> | <sub>[b481fdc](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988) Bug/312 - Disable send button on reset password... - jvrastil</sub> |
 | <sub>2022-11-07 09:48:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4)</sub> | <sub>[0ac385c](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil</sub> |
 | <sub>2022-11-07 09:34:05</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/056f8fd263fb1266dc37698b2d11c4483f76b23b)</sub> | <sub>[056f8fd](https://github.com/SimplioOfficial/simplio-app/commit/056f8fd263fb1266dc37698b2d11c4483f76b23b) fix merge - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3895 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-05 18:05:11</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937)</sub> | <sub>[c43dba1](https://github.com/SimplioOfficial/simplio-app/commit/c43dba1ea00f60d334a41e3b76ec40bc5eee9937) Task/293 - Add backup mnemonic screen (#321) - jvrastil</sub> |
 | <sub>2022-11-04 13:33:04</sub> | <sub>[[simplio-app:task/309\-filter\-enabled\-asset\-wallets\-in\-inventory\-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/15f5954c6139...60d90505b654)</sub> | <sub>[4b7308c](https://github.com/SimplioOfficial/simplio-app/commit/4b7308c2d4ded1e00457b10fb4d7fea9d8078d1c) filtering enabled wallets - storkandstars<br>[be5c5a1](https://github.com/SimplioOfficial/simplio-app/commit/be5c5a14abef401daf9942c198e35d0358cfe8ca) adding on remove from inventory callback - storkandstars<br>[60d9050](https://github.com/SimplioOfficial/simplio-app/commit/60d90505b6549c46d2a457a0485e44e77f43ff04) applying remove from inventory callback - storkandstars</sub> |
 | <sub>2022-11-04 13:20:08</sub> | <sub>[[simplio-app:task/293\-mnemonic\_backup\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad3b0d9218576e9572967a9e5ac1186ea56af65a)</sub> | <sub>[ad3b0d9](https://github.com/SimplioOfficial/simplio-app/commit/ad3b0d9218576e9572967a9e5ac1186ea56af65a) Task/293 - Add backup mnemonic screen - jvrastil</sub> |
-| <sub>2022-11-04 12:54:13</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bdf78bdd12f6c7917a4f49e61b91720a7a0d0d54)</sub> | <sub>[bdf78bd](https://github.com/SimplioOfficial/simplio-app/commit/bdf78bdd12f6c7917a4f49e61b91720a7a0d0d54) fix: invert priority of EthSignMessage - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
