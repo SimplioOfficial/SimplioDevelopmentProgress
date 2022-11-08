@@ -70175,5 +70175,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/513106df35dc6c64ae153aca5deea46102513320"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-08 13:34:53.692000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`a47dc19`](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc) Infrastructure/330 - Disable ios tests in pipel... - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc"
+    }
   }
 ]

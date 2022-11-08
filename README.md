@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3913 commits since 10/09/2021. You can see the complete history in
+There is a total of 3914 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-08 13:34:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc)</sub> | <sub>[a47dc19](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc) Infrastructure/330 - Disable ios tests in pipel... - jvrastil</sub> |
 | <sub>2022-11-08 13:28:55</sub> | <sub>[[simplio-app:infrastructure/330\-disable\_ios\_tests\_in\_build] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/513106df35dc6c64ae153aca5deea46102513320)</sub> | <sub>[513106d](https://github.com/SimplioOfficial/simplio-app/commit/513106df35dc6c64ae153aca5deea46102513320) Infrastructure/330 - Disable ios tests in pipeline - jvrastil</sub> |
 | <sub>2022-11-08 13:27:08</sub> | <sub>[[simplio-app:infrastructure/330\-disable\_ios\_tests\_in\_build] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8099d0aefafc7b603dd2f1535a8fd47ba6b3e944)</sub> | <sub>[8099d0a](https://github.com/SimplioOfficial/simplio-app/commit/8099d0aefafc7b603dd2f1535a8fd47ba6b3e944) Infrastructure/330 - Disable ios tests in pipeline - jvrastil</sub> |
 | <sub>2022-11-08 11:53:31</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e)</sub> | <sub>[907f52e](https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e) Completed task/288-game-listing-with-game-detai... - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 3913 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-08 09:07:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab8695bb2d5c645ac4687f3402521c380db3f4e9)</sub> | <sub>[ab8695b](https://github.com/SimplioOfficial/simplio-app/commit/ab8695bb2d5c645ac4687f3402521c380db3f4e9) Bug/324 adding coin does not update (#327) - jvrastil</sub> |
 | <sub>2022-11-08 09:05:43</sub> | <sub>[[simplio-app:task/288\-game\-listing\-with\-game\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e60fe47d68930ddacf8f91c8e10cef508eceaf5e)</sub> | <sub>[e60fe47](https://github.com/SimplioOfficial/simplio-app/commit/e60fe47d68930ddacf8f91c8e10cef508eceaf5e) Fixed PRs issues. - Tomáš Petrík</sub> |
 | <sub>2022-11-08 08:40:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/666ed6f7cce62451d17d976242ab15d366f15c5f)</sub> | <sub>[666ed6f](https://github.com/SimplioOfficial/simplio-app/commit/666ed6f7cce62451d17d976242ab15d366f15c5f) Task/292 connect and play game (#305) - storkandstars</sub> |
-| <sub>2022-11-07 21:11:56</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3a871bd627faf4a7ec879c9b4494303da13f990)</sub> | <sub>[e3a871b](https://github.com/SimplioOfficial/simplio-app/commit/e3a871bd627faf4a7ec879c9b4494303da13f990) adding todo to remove webview - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
