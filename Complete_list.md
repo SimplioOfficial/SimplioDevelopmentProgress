@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-08 08:40:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/666ed6f7cce62451d17d976242ab15d366f15c5f)</sub> | <sub>[666ed6f](https://github.com/SimplioOfficial/simplio-app/commit/666ed6f7cce62451d17d976242ab15d366f15c5f) Task/292 connect and play game (#305) - storkandstars</sub> |
 | <sub>2022-11-07 21:11:56</sub> | <sub>[[simplio-app:task/292\-connect\-and\-play\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e3a871bd627faf4a7ec879c9b4494303da13f990)</sub> | <sub>[e3a871b](https://github.com/SimplioOfficial/simplio-app/commit/e3a871bd627faf4a7ec879c9b4494303da13f990) adding todo to remove webview - storkandstars</sub> |
 | <sub>2022-11-07 21:09:45</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b)</sub> | <sub>[145a26f](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b) Task/320 add game asset icon (#328) - storkandstars</sub> |
 | <sub>2022-11-07 20:47:22</sub> | <sub>[[simplio-app:bug/324\-adding\_coin\_does\_not\_update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3)</sub> | <sub>[a09c9c8](https://github.com/SimplioOfficial/simplio-app/commit/a09c9c810587a3f0c60a4ed4ef39e34520d898a3) add todo item - jvrastil</sub> |
