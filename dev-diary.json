@@ -70067,5 +70067,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ab8695bb2d5c645ac4687f3402521c380db3f4e9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-08 09:47:51.818000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`0ac385c`](https://github.com/SimplioOfficial/simplio-app/commit/0ac385c73056c78a37205218ee0a5536badcf4b4) Bug/313 - Restyle popup dialog in reset passwor... - jvrastil\n[`b481fdc`](https://github.com/SimplioOfficial/simplio-app/commit/b481fdc99d05567f9df9d09565fb9fcf81e89988) Bug/312 - Disable send button on reset password... - jvrastil\n[`5e54f14`](https://github.com/SimplioOfficial/simplio-app/commit/5e54f14fa693b7b2419257f5c18068844fd2325c) Task/309 filter enabled asset wallets in invent... - storkandstars\n[`0f9a314`](https://github.com/SimplioOfficial/simplio-app/commit/0f9a314b10420d1527e9142da10645297c309086) Task/319 - Add \"responsive design\" for welcome_... - jvrastil\n[`145a26f`](https://github.com/SimplioOfficial/simplio-app/commit/145a26fc5bce842a448212e28d5ff99750b3f40b) Task/320 add game asset icon (#328) - storkandstars",
+      "title": "[simplio-app:task/288\\-game\\-listing\\-with\\-game\\-detail] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e60fe47d6893...2399ed144e62"
+    }
   }
 ]
