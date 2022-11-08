@@ -70121,5 +70121,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/feaefaed1ccc242f81caa510fbbad02ce58a10c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-08 11:53:31.915000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`907f52e`](https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e) Completed task/288-game-listing-with-game-detai... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e"
+    }
   }
 ]
