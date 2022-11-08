@@ -70085,5 +70085,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e60fe47d6893...2399ed144e62"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-08 10:02:15.749000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`ab8695b`](https://github.com/SimplioOfficial/simplio-app/commit/ab8695bb2d5c645ac4687f3402521c380db3f4e9) Bug/324 adding coin does not update (#327) - jvrastil\n[`7a6da12`](https://github.com/SimplioOfficial/simplio-app/commit/7a6da120f3b92c05d865ca797114ef9fda814ba1) Rebased with master 2. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/288\\-game\\-listing\\-with\\-game\\-detail] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2399ed144e62...7a6da120f3b9"
+    }
   }
 ]
