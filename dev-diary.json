@@ -70391,5 +70391,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/22fc29c43a8cd73cf1d4dc91ada27d08ee07c397"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 14:30:33.761000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`bc7915b`](https://github.com/SimplioOfficial/simplio-app/commit/bc7915b9b8a6c8f9670432b05b3ebc1719cdb9c7) 1. Fixed bug/340-app-bar-is-not-fixed-on-forgot... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/340\\-app\\-bar\\-is\\-not\\-fixed\\-on\\-forgot\\-password\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bc7915b9b8a6c8f9670432b05b3ebc1719cdb9c7"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 14:31:25.949000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`46c1b86`](https://github.com/SimplioOfficial/simplio-app/commit/46c1b86efe8391b3c05f719972df13e6e6665fb2) Task/310 update protected guard design on pin v... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/46c1b86efe8391b3c05f719972df13e6e6665fb2"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 14:32:29.368000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`46c1b86`](https://github.com/SimplioOfficial/simplio-app/commit/46c1b86efe8391b3c05f719972df13e6e6665fb2) Task/310 update protected guard design on pin v... - TomasPetrik\n[`db5ea84`](https://github.com/SimplioOfficial/simplio-app/commit/db5ea84ec4e669eab2e1a2220c1d8d6cd406b3b9) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/340\\-app\\-bar\\-is\\-not\\-fixed\\-on\\-forgot\\-password\\-screen] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/bc7915b9b8a6...db5ea84ec4e6"
+    }
   }
 ]
