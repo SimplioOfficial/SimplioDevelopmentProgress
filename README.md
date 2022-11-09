@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3924 commits since 10/09/2021. You can see the complete history in
+There is a total of 3925 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-09 13:41:19</sub> | <sub>[[simplio-app:bug/335\-app\-bar\-glitches\-when\-changing\-section] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22fc29c43a8cd73cf1d4dc91ada27d08ee07c397)</sub> | <sub>[22fc29c](https://github.com/SimplioOfficial/simplio-app/commit/22fc29c43a8cd73cf1d4dc91ada27d08ee07c397) Fixed bug/335-app-bar-glitches-when-changing-se... - Tomáš Petrík</sub> |
 | <sub>2022-11-09 13:02:27</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b1f824a5e9bf6ff425ea1020ff2f97e42fb44ccc)</sub> | <sub>[b1f824a](https://github.com/SimplioOfficial/simplio-app/commit/b1f824a5e9bf6ff425ea1020ff2f97e42fb44ccc) Bug/332 - Fix fetching games (#336) - jvrastil</sub> |
 | <sub>2022-11-09 12:59:15</sub> | <sub>[[simplio-app:bug/341\-going\_back\_from\_buy\_page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/025e1943ea617508c8675aae7121ece158ea09b4)</sub> | <sub>[025e194](https://github.com/SimplioOfficial/simplio-app/commit/025e1943ea617508c8675aae7121ece158ea09b4) Bug/341 - Fix going back from buy page - jvrastil</sub> |
 | <sub>2022-11-09 11:53:39</sub> | <sub>[[simplio-app:bug/334\-fix\_bar\_codes\_scanning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820)</sub> | <sub>[1093ef6](https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820) Bug/334 - Fix QR scanners - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3924 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-09 10:59:40</sub> | <sub>[[simplio-app:task/310\-update\-protected\-guard\-design\-on\-pin\-verification] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ab8695bb2d5c...08f0b8af8c0d)</sub> | <sub>[907f52e](https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e) Completed task/288-game-listing-with-game-detai... - TomasPetrik<br>[a47dc19](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc) Infrastructure/330 - Disable ios tests in pipel... - jvrastil<br>[8ddd3b8](https://github.com/SimplioOfficial/simplio-app/commit/8ddd3b8a58524d41d9dc5c7076aa5d7d3b85113e) Fixed bug/333-search-screens-are-scrollable - Tomáš Petrík<br>[08f0b8a](https://github.com/SimplioOfficial/simplio-app/commit/08f0b8af8c0d2336a9dc69171ed9d3c19e42b13b) Completed task/310-update-protected-guard-desig... - Tomáš Petrík</sub> |
 | <sub>2022-11-09 09:20:55</sub> | <sub>[[simplio-app:bug/333\-search\-screens\-are\-scrollable] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ddd3b8a58524d41d9dc5c7076aa5d7d3b85113e)</sub> | <sub>[8ddd3b8](https://github.com/SimplioOfficial/simplio-app/commit/8ddd3b8a58524d41d9dc5c7076aa5d7d3b85113e) Fixed bug/333-search-screens-are-scrollable - Tomáš Petrík</sub> |
 | <sub>2022-11-09 09:04:07</sub> | <sub>[[simplio-app:bug/332\-fetching\_game\_record\_fails] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/797177dedaa556e6a49be058217a14b19c4016d0)</sub> | <sub>[797177d](https://github.com/SimplioOfficial/simplio-app/commit/797177dedaa556e6a49be058217a14b19c4016d0) update model - jvrastil</sub> |
-| <sub>2022-11-08 20:27:47</sub> | <sub>[[simplio-app:bug/332\-fetching\_game\_record\_fails] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51dab4e70e764a35323d07a8b5c1f93fd261f526)</sub> | <sub>[51dab4e](https://github.com/SimplioOfficial/simplio-app/commit/51dab4e70e764a35323d07a8b5c1f93fd261f526) Bug/332 - Fix fetching games - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
