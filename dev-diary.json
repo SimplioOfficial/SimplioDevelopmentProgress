@@ -70463,5 +70463,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/22fc29c43a8c...27606d8447aa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 14:45:31.939000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3a1810e`](https://github.com/SimplioOfficial/simplio-app/commit/3a1810e1781b24000b2ef8ccdbdf09983c4468d9) fix: fix number_extensions tests - ciripel",
+      "title": "[simplio-app:bug/280\\-balance\\-is\\-incorrect\\-in\\-app] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3a1810e1781b24000b2ef8ccdbdf09983c4468d9"
+    }
   }
 ]
