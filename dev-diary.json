@@ -70355,5 +70355,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/025e1943ea617508c8675aae7121ece158ea09b4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 13:02:27.170000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b1f824a`](https://github.com/SimplioOfficial/simplio-app/commit/b1f824a5e9bf6ff425ea1020ff2f97e42fb44ccc) Bug/332 - Fix fetching games (#336) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b1f824a5e9bf6ff425ea1020ff2f97e42fb44ccc"
+    }
   }
 ]
