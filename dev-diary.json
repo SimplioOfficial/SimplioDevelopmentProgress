@@ -70247,5 +70247,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8ddd3b8a58524d41d9dc5c7076aa5d7d3b85113e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 10:59:40.221000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`907f52e`](https://github.com/SimplioOfficial/simplio-app/commit/907f52e4321c820a2c8a398d4d2ba1515468161e) Completed task/288-game-listing-with-game-detai... - TomasPetrik\n[`a47dc19`](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc) Infrastructure/330 - Disable ios tests in pipel... - jvrastil\n[`8ddd3b8`](https://github.com/SimplioOfficial/simplio-app/commit/8ddd3b8a58524d41d9dc5c7076aa5d7d3b85113e) Fixed bug/333-search-screens-are-scrollable - Tom\u00e1\u0161 Petr\u00edk\n[`08f0b8a`](https://github.com/SimplioOfficial/simplio-app/commit/08f0b8af8c0d2336a9dc69171ed9d3c19e42b13b) Completed task/310-update-protected-guard-desig... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/310\\-update\\-protected\\-guard\\-design\\-on\\-pin\\-verification] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/ab8695bb2d5c...08f0b8af8c0d"
+    }
   }
 ]
