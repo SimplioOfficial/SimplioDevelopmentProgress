@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3921 commits since 10/09/2021. You can see the complete history in
+There is a total of 3922 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-09 11:53:39</sub> | <sub>[[simplio-app:bug/334\-fix\_bar\_codes\_scanning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820)</sub> | <sub>[1093ef6](https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820) Bug/334 - Fix QR scanners - jvrastil</sub> |
 | <sub>2022-11-09 11:16:54</sub> | <sub>[[simplio-app:bug/280\-balance\-is\-incorrect\-in\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/046a931be6e7a31e1b0282387d2d226f74cc5c0e)</sub> | <sub>[046a931](https://github.com/SimplioOfficial/simplio-app/commit/046a931be6e7a31e1b0282387d2d226f74cc5c0e) chore: fix analyze - ciripel</sub> |
 | <sub>2022-11-09 11:15:45</sub> | <sub>[[simplio-app:bug/280\-balance\-is\-incorrect\-in\-app] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a47dc1903554...368cbd515ef9)</sub> | <sub>[6939d14](https://github.com/SimplioOfficial/simplio-app/commit/6939d149726d55eb7e3579e0c46d827c693ce658) remove unused refreshNetworkWalletBalance method - ciripel<br>[368cbd5](https://github.com/SimplioOfficial/simplio-app/commit/368cbd515ef9b25623483553908bb72a1d76677c) fix: balance error was in toDecimalString - ciripel</sub> |
 | <sub>2022-11-09 11:07:44</sub> | <sub>[[simplio-app:task/337\-create\-a\-reproducible\-mnemonic\-id] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a47dc1903554...121356eff943)</sub> | <sub>[e442f15](https://github.com/SimplioOfficial/simplio-app/commit/e442f15bbf0be80dc0ea605821be60d37ed514bd) adding uuid v5 to account wallet - storkandstars<br>[d7b08d3](https://github.com/SimplioOfficial/simplio-app/commit/d7b08d361a0b773100d552ba0b208354da5bc1e1) exporting asset id and network id values - storkandstars<br>[121356e](https://github.com/SimplioOfficial/simplio-app/commit/121356eff9431ef89a31bf5e946473225c48a433) applying reproducible mnemonic id - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3921 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-08 20:27:47</sub> | <sub>[[simplio-app:bug/332\-fetching\_game\_record\_fails] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51dab4e70e764a35323d07a8b5c1f93fd261f526)</sub> | <sub>[51dab4e](https://github.com/SimplioOfficial/simplio-app/commit/51dab4e70e764a35323d07a8b5c1f93fd261f526) Bug/332 - Fix fetching games - jvrastil</sub> |
 | <sub>2022-11-08 13:34:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc)</sub> | <sub>[a47dc19](https://github.com/SimplioOfficial/simplio-app/commit/a47dc1903554c452f0a876ae2d70ade285b1d9fc) Infrastructure/330 - Disable ios tests in pipel... - jvrastil</sub> |
 | <sub>2022-11-08 13:28:55</sub> | <sub>[[simplio-app:infrastructure/330\-disable\_ios\_tests\_in\_build] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/513106df35dc6c64ae153aca5deea46102513320)</sub> | <sub>[513106d](https://github.com/SimplioOfficial/simplio-app/commit/513106df35dc6c64ae153aca5deea46102513320) Infrastructure/330 - Disable ios tests in pipeline - jvrastil</sub> |
-| <sub>2022-11-08 13:27:08</sub> | <sub>[[simplio-app:infrastructure/330\-disable\_ios\_tests\_in\_build] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8099d0aefafc7b603dd2f1535a8fd47ba6b3e944)</sub> | <sub>[8099d0a](https://github.com/SimplioOfficial/simplio-app/commit/8099d0aefafc7b603dd2f1535a8fd47ba6b3e944) Infrastructure/330 - Disable ios tests in pipeline - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

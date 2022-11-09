@@ -70319,5 +70319,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/046a931be6e7a31e1b0282387d2d226f74cc5c0e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 11:53:39.546000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`1093ef6`](https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820) Bug/334 - Fix QR scanners - jvrastil",
+      "title": "[simplio-app:bug/334\\-fix\\_bar\\_codes\\_scanning] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1093ef6d2e4081284c2cc8cbb520052abf0c0820"
+    }
   }
 ]
