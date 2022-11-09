@@ -70211,5 +70211,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/51dab4e70e764a35323d07a8b5c1f93fd261f526"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-09 09:04:07.499000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`797177d`](https://github.com/SimplioOfficial/simplio-app/commit/797177dedaa556e6a49be058217a14b19c4016d0) update model - jvrastil",
+      "title": "[simplio-app:bug/332\\-fetching\\_game\\_record\\_fails] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/797177dedaa556e6a49be058217a14b19c4016d0"
+    }
   }
 ]
