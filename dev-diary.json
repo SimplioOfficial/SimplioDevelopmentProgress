@@ -70606,5 +70606,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 11:22:33.788000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`5873130`](https://github.com/SimplioOfficial/simplio-app/commit/58731300ac4d00b7d71040352d8cf739e9d74087) Bug/334 - Fix QR scanners (#352) - jvrastil\n[`c92f45f`](https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7) Task/337 create a reproducible mnemonic (#348) - storkandstars\n[`61dbd36`](https://github.com/SimplioOfficial/simplio-app/commit/61dbd368ed14a6d9f064cdb0feb9efd0e2015ca8) 1. Fixed bug/340-app-bar-is-not-fixed-on-forgot... - TomasPetrik\n[`a8c5ae4`](https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714) Fixed bug/333-search-screens-are-scrollable (#338) - TomasPetrik\n[`755a80a`](https://github.com/SimplioOfficial/simplio-app/commit/755a80a2ec83e01893ffdd1534b0be59ae3205d3) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/335\\-app\\-bar\\-glitches\\-when\\-changing\\-section] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/27606d8447aa...755a80a2ec83"
+    }
   }
 ]
