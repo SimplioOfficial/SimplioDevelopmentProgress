@@ -70481,5 +70481,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3a1810e1781b24000b2ef8ccdbdf09983c4468d9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 08:40:23.869000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5873130`](https://github.com/SimplioOfficial/simplio-app/commit/58731300ac4d00b7d71040352d8cf739e9d74087) Bug/334 - Fix QR scanners (#352) - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/58731300ac4d00b7d71040352d8cf739e9d74087"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 08:41:10.825000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c92f45f`](https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7) Task/337 create a reproducible mnemonic (#348) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7"
+    }
   }
 ]
