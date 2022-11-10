@@ -70553,5 +70553,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 10:53:22.720000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3a1810e1781b...607c92e1cc0d)",
+      "title": "[simplio-app] Branch bug/280\\-balance\\-is\\-incorrect\\-in\\-app was force-pushed to `607c92e`",
+      "type": "rich"
+    }
   }
 ]
