@@ -70535,5 +70535,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/8ddd3b8a5852...d909ae86ac5c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 10:06:47.468000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`00eb48b`](https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747) Fixed PRs issues. - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/333\\-search\\-screens\\-are\\-scrollable] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747"
+    }
   }
 ]
