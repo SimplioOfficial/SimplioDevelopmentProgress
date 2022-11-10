@@ -70642,5 +70642,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0d89c612a828ac825e9f1e587d2d0cb78802e393"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 19:05:47.816000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`06f6039`](https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6) Bug/343 - Fix reloading assets search list on a... - jvrastil",
+      "title": "[simplio-app:bug/343\\-reloading\\_after\\_adding\\_asset\\_to\\_inventory] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6"
+    }
   }
 ]
