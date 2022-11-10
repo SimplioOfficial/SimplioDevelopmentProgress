@@ -70570,5 +70570,41 @@
       "title": "[simplio-app] Branch bug/280\\-balance\\-is\\-incorrect\\-in\\-app was force-pushed to `607c92e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 11:18:20.080000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`61dbd36`](https://github.com/SimplioOfficial/simplio-app/commit/61dbd368ed14a6d9f064cdb0feb9efd0e2015ca8) 1. Fixed bug/340-app-bar-is-not-fixed-on-forgot... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/61dbd368ed14a6d9f064cdb0feb9efd0e2015ca8"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-10 11:18:44.016000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`a8c5ae4`](https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714) Fixed bug/333-search-screens-are-scrollable (#338) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714"
+    }
   }
 ]
