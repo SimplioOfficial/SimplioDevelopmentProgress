@@ -70857,5 +70857,22 @@
       "title": "[simplio-app] Branch bug/343\\-reloading\\_after\\_adding\\_asset\\_to\\_inventory was force-pushed to `33739f3`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 16:30:23.057000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7e6944081747...38015ed2fec1)",
+      "title": "[simplio-app] Branch bug/354\\-missing\\_provider\\_on\\_exchange\\_summary\\_screen was force-pushed to `38015ed`",
+      "type": "rich"
+    }
   }
 ]
