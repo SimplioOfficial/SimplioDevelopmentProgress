@@ -70822,5 +70822,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/85e5798fc169b9f15a59b765fbf68a47fff3ec5e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 16:23:21.739000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`87ea360`](https://github.com/SimplioOfficial/simplio-app/commit/87ea360a5bd41549fcde228714db9f196574d8ac) code review changes - jvrastil",
+      "title": "[simplio-app:bug/342\\-fix\\_dapp\\_screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/87ea360a5bd41549fcde228714db9f196574d8ac"
+    }
   }
 ]
