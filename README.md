@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3948 commits since 10/09/2021. You can see the complete history in
+There is a total of 3949 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-11 16:19:04</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85e5798fc169b9f15a59b765fbf68a47fff3ec5e)</sub> | <sub>[85e5798](https://github.com/SimplioOfficial/simplio-app/commit/85e5798fc169b9f15a59b765fbf68a47fff3ec5e) Completed bug/366-emit-new-states-after-calling... - TomasPetrik</sub> |
 | <sub>2022-11-11 16:06:04</sub> | <sub>[[simplio-app:bug/342\-fix\_dapp\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cab8a28cd9051c4403d505e5e714366446392f75)</sub> | <sub>[cab8a28](https://github.com/SimplioOfficial/simplio-app/commit/cab8a28cd9051c4403d505e5e714366446392f75) Bug/342 - Add Find dapp coming soon page - jvrastil</sub> |
 | <sub>2022-11-11 16:01:07</sub> | <sub>[[simplio-app:bug/366\-emit\-new\-states\-after\-calling\-close\-exception] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d8508f536916f9918ede462e6daf55c86084505)</sub> | <sub>[1d8508f](https://github.com/SimplioOfficial/simplio-app/commit/1d8508f536916f9918ede462e6daf55c86084505) Completed bug/366-emit-new-states-after-calling... - Tomáš Petrík</sub> |
 | <sub>2022-11-11 15:51:26</sub> | <sub>[[simplio-app:bug/343\-reloading\_after\_adding\_asset\_to\_inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2df5527e9d7bea942a617f39d67024d902c54d70)</sub> | <sub>[2df5527](https://github.com/SimplioOfficial/simplio-app/commit/2df5527e9d7bea942a617f39d67024d902c54d70) fixes after code reviews - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3948 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-11 08:52:22</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c)</sub> | <sub>[74192b0](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c) fix: set autoFocus to true in asset search screen - ciripel</sub> |
 | <sub>2022-11-11 07:35:32</sub> | <sub>[[simplio-app:bug/347\-incorrect\-regex\-for\-validating\-special\-characters\-in\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b)</sub> | <sub>[05a7d67](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b) fix: remove [space] from specialCharRegexp - ciripel</sub> |
 | <sub>2022-11-10 19:05:47</sub> | <sub>[[simplio-app:bug/343\-reloading\_after\_adding\_asset\_to\_inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6)</sub> | <sub>[06f6039](https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6) Bug/343 - Fix reloading assets search list on a... - jvrastil</sub> |
-| <sub>2022-11-10 11:36:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d89c612a828ac825e9f1e587d2d0cb78802e393)</sub> | <sub>[0d89c61](https://github.com/SimplioOfficial/simplio-app/commit/0d89c612a828ac825e9f1e587d2d0cb78802e393) Bug/341 - Fix going back from buy page (#356) - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
