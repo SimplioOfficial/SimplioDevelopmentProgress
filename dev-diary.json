@@ -70910,5 +70910,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dc2d0e540566b7a51a3c20e945feb4e6207df3a6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 16:51:34.870000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/38015ed2fec1...2b3556cfd1cb)",
+      "title": "[simplio-app] Branch bug/354\\-missing\\_provider\\_on\\_exchange\\_summary\\_screen was force-pushed to `2b3556c`",
+      "type": "rich"
+    }
   }
 ]
