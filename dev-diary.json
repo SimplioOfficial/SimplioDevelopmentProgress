@@ -70714,5 +70714,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/4ccedd7efbf3^...7e6944081747"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 13:17:00.091000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4b4f751`](https://github.com/SimplioOfficial/simplio-app/commit/4b4f7511b12989b4f2e727f836fad25158f669b0) Bug/335 app bar glitches when changing section ... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4b4f7511b12989b4f2e727f836fad25158f669b0"
+    }
   }
 ]

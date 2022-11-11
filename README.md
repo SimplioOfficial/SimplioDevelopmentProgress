@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3943 commits since 10/09/2021. You can see the complete history in
+There is a total of 3944 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-11 13:17:00</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b4f7511b12989b4f2e727f836fad25158f669b0)</sub> | <sub>[4b4f751](https://github.com/SimplioOfficial/simplio-app/commit/4b4f7511b12989b4f2e727f836fad25158f669b0) Bug/335 app bar glitches when changing section ... - TomasPetrik</sub> |
 | <sub>2022-11-11 11:36:19</sub> | <sub>[[simplio-app:bug/354\-missing\_provider\_on\_exchange\_summary\_screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4ccedd7efbf3^...7e6944081747)</sub> | <sub>[4ccedd7](https://github.com/SimplioOfficial/simplio-app/commit/4ccedd7efbf370ae7808835a1df027083849138f) Bug/343 - Fix reloading assets search list on a... - jvrastil<br>[7e69440](https://github.com/SimplioOfficial/simplio-app/commit/7e6944081747ab47780ad7ddec3de3899d3b5a51) Bug/354 - Fix missing provider on exchange summ... - jvrastil</sub> |
 | <sub>2022-11-11 08:52:22</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c)</sub> | <sub>[74192b0](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c) fix: set autoFocus to true in asset search screen - ciripel</sub> |
 | <sub>2022-11-11 07:35:32</sub> | <sub>[[simplio-app:bug/347\-incorrect\-regex\-for\-validating\-special\-characters\-in\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b)</sub> | <sub>[05a7d67](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b) fix: remove [space] from specialCharRegexp - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3943 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-10 11:18:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714)</sub> | <sub>[a8c5ae4](https://github.com/SimplioOfficial/simplio-app/commit/a8c5ae4abc35336904bc81f5ce375c6fef4de714) Fixed bug/333-search-screens-are-scrollable (#338) - TomasPetrik</sub> |
 | <sub>2022-11-10 11:18:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61dbd368ed14a6d9f064cdb0feb9efd0e2015ca8)</sub> | <sub>[61dbd36](https://github.com/SimplioOfficial/simplio-app/commit/61dbd368ed14a6d9f064cdb0feb9efd0e2015ca8) 1. Fixed bug/340-app-bar-is-not-fixed-on-forgot... - TomasPetrik</sub> |
 | <sub>2022-11-10 10:53:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3a1810e1781b...607c92e1cc0d)</sub> |
-| <sub>2022-11-10 10:06:47</sub> | <sub>[[simplio-app:bug/333\-search\-screens\-are\-scrollable] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747)</sub> | <sub>[00eb48b](https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747) Fixed PRs issues. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
