@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-11 17:16:43</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859)</sub> | <sub>[b0f7ad0](https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859) Bug/354 - Fix missing provider on exchange summ... - jvrastil</sub> |
 | <sub>2022-11-11 17:14:15</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79879583af4fe9e5e2bbfea00a0be97696c0e8fa)</sub> | <sub>[7987958](https://github.com/SimplioOfficial/simplio-app/commit/79879583af4fe9e5e2bbfea00a0be97696c0e8fa) fix: remove [space] from specialCharRegexp (#363) - ciripel</sub> |
 | <sub>2022-11-11 17:14:01</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3640185f2a5add98fb919e85532997e8d416b00e)</sub> | <sub>[3640185](https://github.com/SimplioOfficial/simplio-app/commit/3640185f2a5add98fb919e85532997e8d416b00e) Bug/280 balance is incorrect in app (#350) - ciripel</sub> |
 | <sub>2022-11-11 16:51:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/38015ed2fec1...2b3556cfd1cb)</sub> |

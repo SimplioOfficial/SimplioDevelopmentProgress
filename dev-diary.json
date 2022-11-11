@@ -70963,5 +70963,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/79879583af4fe9e5e2bbfea00a0be97696c0e8fa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 17:16:43.117000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`b0f7ad0`](https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859) Bug/354 - Fix missing provider on exchange summ... - jvrastil",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859"
+    }
   }
 ]
