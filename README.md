@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3941 commits since 10/09/2021. You can see the complete history in
+There is a total of 3942 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-11 08:52:22</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c)</sub> | <sub>[74192b0](https://github.com/SimplioOfficial/simplio-app/commit/74192b0c760bfc3509614c641a5d7f9620f1612c) fix: set autoFocus to true in asset search screen - ciripel</sub> |
 | <sub>2022-11-11 07:35:32</sub> | <sub>[[simplio-app:bug/347\-incorrect\-regex\-for\-validating\-special\-characters\-in\-password] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b)</sub> | <sub>[05a7d67](https://github.com/SimplioOfficial/simplio-app/commit/05a7d6717146529c2e3e6fab573f1b9cf335998b) fix: remove [space] from specialCharRegexp - ciripel</sub> |
 | <sub>2022-11-10 19:05:47</sub> | <sub>[[simplio-app:bug/343\-reloading\_after\_adding\_asset\_to\_inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6)</sub> | <sub>[06f6039](https://github.com/SimplioOfficial/simplio-app/commit/06f6039ccbdc39fe05b1f7453a421a38470636d6) Bug/343 - Fix reloading assets search list on a... - jvrastil</sub> |
 | <sub>2022-11-10 11:36:40</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d89c612a828ac825e9f1e587d2d0cb78802e393)</sub> | <sub>[0d89c61](https://github.com/SimplioOfficial/simplio-app/commit/0d89c612a828ac825e9f1e587d2d0cb78802e393) Bug/341 - Fix going back from buy page (#356) - jvrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 3941 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-10 10:53:22</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3a1810e1781b...607c92e1cc0d)</sub> |
 | <sub>2022-11-10 10:06:47</sub> | <sub>[[simplio-app:bug/333\-search\-screens\-are\-scrollable] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747)</sub> | <sub>[00eb48b](https://github.com/SimplioOfficial/simplio-app/commit/00eb48bc676c84a010585d3965574385160b7747) Fixed PRs issues. - Tomáš Petrík</sub> |
 | <sub>2022-11-10 08:50:11</sub> | <sub>[[simplio-app:bug/333\-search\-screens\-are\-scrollable] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8ddd3b8a5852...d909ae86ac5c)</sub> | <sub>[b1f824a](https://github.com/SimplioOfficial/simplio-app/commit/b1f824a5e9bf6ff425ea1020ff2f97e42fb44ccc) Bug/332 - Fix fetching games (#336) - jvrastil<br>[46c1b86](https://github.com/SimplioOfficial/simplio-app/commit/46c1b86efe8391b3c05f719972df13e6e6665fb2) Task/310 update protected guard design on pin v... - TomasPetrik<br>[5873130](https://github.com/SimplioOfficial/simplio-app/commit/58731300ac4d00b7d71040352d8cf739e9d74087) Bug/334 - Fix QR scanners (#352) - jvrastil<br>[c92f45f](https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7) Task/337 create a reproducible mnemonic (#348) - storkandstars<br>[d909ae8](https://github.com/SimplioOfficial/simplio-app/commit/d909ae86ac5c1b310d2b721977f94094d6fb51fa) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
-| <sub>2022-11-10 08:41:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7)</sub> | <sub>[c92f45f](https://github.com/SimplioOfficial/simplio-app/commit/c92f45fb401ee6bd63753b84471e5c614ab5bbf7) Task/337 create a reproducible mnemonic (#348) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
