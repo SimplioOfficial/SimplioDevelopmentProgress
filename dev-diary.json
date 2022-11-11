@@ -70732,5 +70732,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4b4f7511b12989b4f2e727f836fad25158f669b0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-11 15:28:57.407000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`8a88d16`](https://github.com/SimplioOfficial/simplio-app/commit/8a88d162cd1186181aed22098f17e53e6a3d10a9) fixes after code reviews - jvrastil",
+      "title": "[simplio-app:bug/343\\-reloading\\_after\\_adding\\_asset\\_to\\_inventory] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8a88d162cd1186181aed22098f17e53e6a3d10a9"
+    }
   }
 ]
