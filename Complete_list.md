@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-11 16:49:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc2d0e540566b7a51a3c20e945feb4e6207df3a6)</sub> | <sub>[dc2d0e5](https://github.com/SimplioOfficial/simplio-app/commit/dc2d0e540566b7a51a3c20e945feb4e6207df3a6) Bug/343 - Fix reloading assets search list on a... - jvrastil</sub> |
+| <sub>2022-11-11 16:45:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e934161a7fb64d2bf6af940346f7a6bfd50dfe3)</sub> | <sub>[0e93416](https://github.com/SimplioOfficial/simplio-app/commit/0e934161a7fb64d2bf6af940346f7a6bfd50dfe3) Bug/342 - Add Find dapp coming soon page (#368) - jvrastil</sub> |
 | <sub>2022-11-11 16:30:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7e6944081747...38015ed2fec1)</sub> |
 | <sub>2022-11-11 16:27:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2df5527e9d7b...33739f3c95fb)</sub> |
 | <sub>2022-11-11 16:23:21</sub> | <sub>[[simplio-app:bug/342\-fix\_dapp\_screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87ea360a5bd41549fcde228714db9f196574d8ac)</sub> | <sub>[87ea360](https://github.com/SimplioOfficial/simplio-app/commit/87ea360a5bd41549fcde228714db9f196574d8ac) code review changes - jvrastil</sub> |
