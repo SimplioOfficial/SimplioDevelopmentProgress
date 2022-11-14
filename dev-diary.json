@@ -71035,5 +71035,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a6f16064e6bf074d9d7a0669403f28c638d6d7ac"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-14 13:58:52.053000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ac5febf`](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2) fix: add autofocus and maxLines=1 in all 4 screens - ciripel",
+      "title": "[simplio-app:bug/346\\-inputs\\-are\\-validated\\-immediately\\-after\\-input] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2"
+    }
   }
 ]
