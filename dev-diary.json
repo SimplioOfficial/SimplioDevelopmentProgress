@@ -71053,5 +71053,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-14 17:53:37.941000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 7506394,
+      "description": "[`00a1e86`](https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738) Bug/345 - Fix multiple taps on resend email button - jvrastil",
+      "title": "[simplio-app:bug/345\\-multiple\\_taps\\_on\\_resend\\_email] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738"
+    }
   }
 ]
