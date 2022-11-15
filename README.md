@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3968 commits since 10/09/2021. You can see the complete history in
+There is a total of 3969 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-15 10:12:08</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3)</sub> | <sub>[6af5f11](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3) Completed: Manual ga - Tomáš Petrík</sub> |
 | <sub>2022-11-15 09:19:00</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d)</sub> | <sub>[ab60e61](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d) adding defined precision to zero constr - storkandstars</sub> |
 | <sub>2022-11-15 09:17:08</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2)</sub> | <sub>[566eba8](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2) blocking inserting larger number than 64bit - storkandstars</sub> |
 | <sub>2022-11-15 09:06:08</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/475a1cff8edf...34288fb96cec)</sub> | <sub>[8fff985](https://github.com/SimplioOfficial/simplio-app/commit/8fff98598a5331fde3e3f65ea94bce4f41b344f1) renaming decimalPlaces to precision - storkandstars<br>[34288fb](https://github.com/SimplioOfficial/simplio-app/commit/34288fb96cec9d380b94c81f95fc89a1ffc75d2b) renaming isFilled to isFinite - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3968 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-14 13:58:52</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2)</sub> | <sub>[ac5febf](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2) fix: add autofocus and maxLines=1 in all 4 screens - ciripel</sub> |
 | <sub>2022-11-14 13:15:04</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a6f16064e6bf074d9d7a0669403f28c638d6d7ac)</sub> | <sub>[a6f1606](https://github.com/SimplioOfficial/simplio-app/commit/a6f16064e6bf074d9d7a0669403f28c638d6d7ac) fix: add autofocus on mail input in sign in screen - ciripel</sub> |
 | <sub>2022-11-14 09:33:12</sub> | <sub>[[simplio-app:bug/339\-gestures\-work\-uneven\-on\-welcome\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51bec295e79badc47fef80058245d89274ec4af0)</sub> | <sub>[51bec29](https://github.com/SimplioOfficial/simplio-app/commit/51bec295e79badc47fef80058245d89274ec4af0) Fixed bug/339-gestures-work-uneven-on-welcome-p... - Tomáš Petrík</sub> |
-| <sub>2022-11-14 07:56:50</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859)</sub> | <sub>[b0f7ad0](https://github.com/SimplioOfficial/simplio-app/commit/b0f7ad07415af08062050d6dab0e74e8b3021859) Bug/354 - Fix missing provider on exchange summ... - jvrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
