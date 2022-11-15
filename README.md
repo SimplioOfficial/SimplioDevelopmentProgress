@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3969 commits since 10/09/2021. You can see the complete history in
+There is a total of 3970 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-15 10:58:33</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81)</sub> | <sub>[bf9f674](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81) Fixed search and broken down games_cubit on {my... - Tomáš Petrík</sub> |
 | <sub>2022-11-15 10:12:08</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3)</sub> | <sub>[6af5f11](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3) Completed: Manual ga - Tomáš Petrík</sub> |
 | <sub>2022-11-15 09:19:00</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d)</sub> | <sub>[ab60e61](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d) adding defined precision to zero constr - storkandstars</sub> |
 | <sub>2022-11-15 09:17:08</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2)</sub> | <sub>[566eba8](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2) blocking inserting larger number than 64bit - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 3969 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-14 17:53:37</sub> | <sub>[[simplio-app:bug/345\-multiple\_taps\_on\_resend\_email] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738)</sub> | <sub>[00a1e86](https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738) Bug/345 - Fix multiple taps on resend email button - jvrastil</sub> |
 | <sub>2022-11-14 13:58:52</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2)</sub> | <sub>[ac5febf](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2) fix: add autofocus and maxLines=1 in all 4 screens - ciripel</sub> |
 | <sub>2022-11-14 13:15:04</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a6f16064e6bf074d9d7a0669403f28c638d6d7ac)</sub> | <sub>[a6f1606](https://github.com/SimplioOfficial/simplio-app/commit/a6f16064e6bf074d9d7a0669403f28c638d6d7ac) fix: add autofocus on mail input in sign in screen - ciripel</sub> |
-| <sub>2022-11-14 09:33:12</sub> | <sub>[[simplio-app:bug/339\-gestures\-work\-uneven\-on\-welcome\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51bec295e79badc47fef80058245d89274ec4af0)</sub> | <sub>[51bec29](https://github.com/SimplioOfficial/simplio-app/commit/51bec295e79badc47fef80058245d89274ec4af0) Fixed bug/339-gestures-work-uneven-on-welcome-p... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
