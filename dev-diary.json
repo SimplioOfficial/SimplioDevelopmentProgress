@@ -71071,5 +71071,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-15 08:05:50.207000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4825d67`](https://github.com/SimplioOfficial/simplio-app/commit/4825d67b3b712d7be212d9b024953be2212dbaf6) fix: validate the scanned address vs networkId - ciripel",
+      "title": "[simplio-app:bug/376\\-QR\\-scanner\\-send\\-target\\-address\\-return\\-invalid\\-address] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4825d67b3b712d7be212d9b024953be2212dbaf6"
+    }
   }
 ]
