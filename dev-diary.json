@@ -71197,5 +71197,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-15 11:01:10.509000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`cef3b91`](https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1) Fixed passing better arg - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/374\\-manual\\-games\\-and\\-coins\\-refresh\\-on\\-discovery] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1"
+    }
   }
 ]
