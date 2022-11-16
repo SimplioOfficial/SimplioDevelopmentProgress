@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3974 commits since 10/09/2021. You can see the complete history in
+There is a total of 3975 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-16 16:18:31</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9176d52d8ee0e4c6ff242b0fa180208f081b44a)</sub> | <sub>[c9176d5](https://github.com/SimplioOfficial/simplio-app/commit/c9176d52d8ee0e4c6ff242b0fa180208f081b44a) fix: typo fix in exception - ciripel</sub> |
 | <sub>2022-11-16 16:03:02</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da3333b224a0b98eec845007db8b47e0c6517329)</sub> | <sub>[da3333b](https://github.com/SimplioOfficial/simplio-app/commit/da3333b224a0b98eec845007db8b47e0c6517329) fix: add Popups in signIn and PassChange screen - ciripel</sub> |
 | <sub>2022-11-16 14:52:22</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4e21dd73742244eaaf2ba36fca2db39e3e74e4d)</sub> | <sub>[e4e21dd](https://github.com/SimplioOfficial/simplio-app/commit/e4e21dd73742244eaaf2ba36fca2db39e3e74e4d) fix: add showError Popup on exceptions on signUp - ciripel</sub> |
 | <sub>2022-11-16 14:42:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c)</sub> | <sub>[37bd870](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c) fix: add showError Popup on exceptions on signUp - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3974 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-15 09:19:00</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d)</sub> | <sub>[ab60e61](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d) adding defined precision to zero constr - storkandstars</sub> |
 | <sub>2022-11-15 09:17:08</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2)</sub> | <sub>[566eba8](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2) blocking inserting larger number than 64bit - storkandstars</sub> |
 | <sub>2022-11-15 09:06:08</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/475a1cff8edf...34288fb96cec)</sub> | <sub>[8fff985](https://github.com/SimplioOfficial/simplio-app/commit/8fff98598a5331fde3e3f65ea94bce4f41b344f1) renaming decimalPlaces to precision - storkandstars<br>[34288fb](https://github.com/SimplioOfficial/simplio-app/commit/34288fb96cec9d380b94c81f95fc89a1ffc75d2b) renaming isFilled to isFinite - storkandstars</sub> |
-| <sub>2022-11-15 08:41:20</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/475a1cff8edf94dc8bd020af433fd4bd87620ac3)</sub> | <sub>[475a1cf](https://github.com/SimplioOfficial/simplio-app/commit/475a1cff8edf94dc8bd020af433fd4bd87620ac3) wip - initial bloc implementation and ui changes - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
