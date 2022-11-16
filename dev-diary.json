@@ -71233,5 +71233,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-16 14:52:22.530000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e4e21dd`](https://github.com/SimplioOfficial/simplio-app/commit/e4e21dd73742244eaaf2ba36fca2db39e3e74e4d) fix: add showError Popup on exceptions on signUp - ciripel",
+      "title": "[simplio-app:bug/382\\-sign\\-up\\-with\\-existing\\-account] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e4e21dd73742244eaaf2ba36fca2db39e3e74e4d"
+    }
   }
 ]
