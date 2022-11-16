@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3971 commits since 10/09/2021. You can see the complete history in
+There is a total of 3972 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-16 14:42:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c)</sub> | <sub>[37bd870](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c) fix: add showError Popup on exceptions on signUp - ciripel</sub> |
 | <sub>2022-11-15 11:01:10</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1)</sub> | <sub>[cef3b91](https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1) Fixed passing better arg - Tomáš Petrík</sub> |
 | <sub>2022-11-15 10:58:33</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81)</sub> | <sub>[bf9f674](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81) Fixed search and broken down games_cubit on {my... - Tomáš Petrík</sub> |
 | <sub>2022-11-15 10:12:08</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3)</sub> | <sub>[6af5f11](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3) Completed: Manual ga - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3971 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-15 08:41:20</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/475a1cff8edf94dc8bd020af433fd4bd87620ac3)</sub> | <sub>[475a1cf](https://github.com/SimplioOfficial/simplio-app/commit/475a1cff8edf94dc8bd020af433fd4bd87620ac3) wip - initial bloc implementation and ui changes - storkandstars</sub> |
 | <sub>2022-11-15 08:05:50</sub> | <sub>[[simplio-app:bug/376\-QR\-scanner\-send\-target\-address\-return\-invalid\-address] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4825d67b3b712d7be212d9b024953be2212dbaf6)</sub> | <sub>[4825d67](https://github.com/SimplioOfficial/simplio-app/commit/4825d67b3b712d7be212d9b024953be2212dbaf6) fix: validate the scanned address vs networkId - ciripel</sub> |
 | <sub>2022-11-14 17:53:37</sub> | <sub>[[simplio-app:bug/345\-multiple\_taps\_on\_resend\_email] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738)</sub> | <sub>[00a1e86](https://github.com/SimplioOfficial/simplio-app/commit/00a1e86a5640f780c962c7e3f14a402f05889738) Bug/345 - Fix multiple taps on resend email button - jvrastil</sub> |
-| <sub>2022-11-14 13:58:52</sub> | <sub>[[simplio-app:bug/346\-inputs\-are\-validated\-immediately\-after\-input] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2)</sub> | <sub>[ac5febf](https://github.com/SimplioOfficial/simplio-app/commit/ac5febfd4e9367e52bcdf2fb87039da6c22ab1f2) fix: add autofocus and maxLines=1 in all 4 screens - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
