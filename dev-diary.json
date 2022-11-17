@@ -71359,5 +71359,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e6c10c9ab5accb379b3cd50d69e1a29172ead6f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-17 17:18:07.967000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`811e710`](https://github.com/SimplioOfficial/simplio-app/commit/811e7101b12c684c11d0cb062053cb74045b88f5) Fixed bug/372-showing-duplicated-results-on-any... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/372\\-showing\\-duplicated\\-results\\-on\\-any\\-search\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/811e7101b12c684c11d0cb062053cb74045b88f5"
+    }
   }
 ]
