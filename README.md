@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3978 commits since 10/09/2021. You can see the complete history in
+There is a total of 3979 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-17 14:18:10</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e6c10c9ab5accb379b3cd50d69e1a29172ead6f)</sub> | <sub>[5e6c10c](https://github.com/SimplioOfficial/simplio-app/commit/5e6c10c9ab5accb379b3cd50d69e1a29172ead6f) fix: add listenWhen on all 3 remaining screens - ciripel</sub> |
 | <sub>2022-11-17 09:59:52</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61639d90f9d7a08a2d7a3e0e06430d41b24cca90)</sub> | <sub>[61639d9](https://github.com/SimplioOfficial/simplio-app/commit/61639d90f9d7a08a2d7a3e0e06430d41b24cca90) fix: fixed notification show on every change char - ciripel</sub> |
 | <sub>2022-11-17 08:37:50</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a55d530698a774d739575569f448a2b75a690bf)</sub> | <sub>[6a55d53](https://github.com/SimplioOfficial/simplio-app/commit/6a55d530698a774d739575569f448a2b75a690bf) chore: removed fixed TODO - ciripel</sub> |
 | <sub>2022-11-17 08:37:07</sub> | <sub>[[simplio-app:bug/382\-sign\-up\-with\-existing\-account] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b9fcafe213448a30549d96a46c00c34bb86fe784)</sub> | <sub>[b9fcafe](https://github.com/SimplioOfficial/simplio-app/commit/b9fcafe213448a30549d96a46c00c34bb86fe784) fix: add localization to pass change notification - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3978 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-16 14:42:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c)</sub> | <sub>[37bd870](https://github.com/SimplioOfficial/simplio-app/commit/37bd870c5f9bfb0b72c6e3c227d55aeca48e055c) fix: add showError Popup on exceptions on signUp - ciripel</sub> |
 | <sub>2022-11-15 11:01:10</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1)</sub> | <sub>[cef3b91](https://github.com/SimplioOfficial/simplio-app/commit/cef3b91a7c2deb1e47f39d48bda7f6de6045ada1) Fixed passing better arg - Tomáš Petrík</sub> |
 | <sub>2022-11-15 10:58:33</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81)</sub> | <sub>[bf9f674](https://github.com/SimplioOfficial/simplio-app/commit/bf9f674f1a09de5fec9ff1e85725273f081bfc81) Fixed search and broken down games_cubit on {my... - Tomáš Petrík</sub> |
-| <sub>2022-11-15 10:12:08</sub> | <sub>[[simplio-app:refactor/374\-manual\-games\-and\-coins\-refresh\-on\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3)</sub> | <sub>[6af5f11](https://github.com/SimplioOfficial/simplio-app/commit/6af5f110c7ffbb26ecdb338efd10d2a9f8bc2dd3) Completed: Manual ga - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
