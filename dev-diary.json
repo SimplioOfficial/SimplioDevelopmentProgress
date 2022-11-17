@@ -71323,5 +71323,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6a55d530698a774d739575569f448a2b75a690bf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-17 09:59:52.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`61639d9`](https://github.com/SimplioOfficial/simplio-app/commit/61639d90f9d7a08a2d7a3e0e06430d41b24cca90) fix: fixed notification show on every change char - ciripel",
+      "title": "[simplio-app:bug/382\\-sign\\-up\\-with\\-existing\\-account] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/61639d90f9d7a08a2d7a3e0e06430d41b24cca90"
+    }
   }
 ]
