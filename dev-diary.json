@@ -71287,5 +71287,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c9176d52d8ee0e4c6ff242b0fa180208f081b44a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-17 08:37:07.195000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b9fcafe`](https://github.com/SimplioOfficial/simplio-app/commit/b9fcafe213448a30549d96a46c00c34bb86fe784) fix: add localization to pass change notification - ciripel",
+      "title": "[simplio-app:bug/382\\-sign\\-up\\-with\\-existing\\-account] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b9fcafe213448a30549d96a46c00c34bb86fe784"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-17 08:37:50.885000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6a55d53`](https://github.com/SimplioOfficial/simplio-app/commit/6a55d530698a774d739575569f448a2b75a690bf) chore: removed fixed TODO - ciripel",
+      "title": "[simplio-app:bug/382\\-sign\\-up\\-with\\-existing\\-account] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6a55d530698a774d739575569f448a2b75a690bf"
+    }
   }
 ]
