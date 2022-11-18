@@ -71611,5 +71611,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/5be01d04bfa4...1e43c61d7e61"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-18 17:50:48.877000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/44293042?v=4",
+        "name": "jvrastil",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/QrKalj6lBFMoDvvOE_vYigLrRfdwB__G934ajryaczc/%3Fv%3D4/https/avatars.githubusercontent.com/u/44293042",
+        "url": "https://github.com/jvrastil"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a24465119551...9ed4e4764f01)",
+      "title": "[simplio-app] Branch refactor/373\\-refactor\\_buy\\_asset\\_form was force-pushed to `9ed4e47`",
+      "type": "rich"
+    }
   }
 ]

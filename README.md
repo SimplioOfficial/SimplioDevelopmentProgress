@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3993 commits since 10/09/2021. You can see the complete history in
+There is a total of 3994 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-18 17:50:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a24465119551...9ed4e4764f01)</sub> |
 | <sub>2022-11-18 17:17:35</sub> | <sub>[[simplio-app:bug/339\-gestures\-work\-uneven\-on\-welcome\-page] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5be01d04bfa4...1e43c61d7e61)</sub> | <sub>[b8ae06c](https://github.com/SimplioOfficial/simplio-app/commit/b8ae06cba3633280e826002ae78d3eb08fad75c0) fix: validate the scanned address vs networkId ... - ciripel<br>[79f1f0e](https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf) Fixed bug/339-gestures-work-uneven-on-welcome-p... - TomasPetrik<br>[b3dcbeb](https://github.com/SimplioOfficial/simplio-app/commit/b3dcbeb654c55f137d48440679d4c18791b5db42) Bug/372 showing duplicated results on any searc... - TomasPetrik<br>[352f263](https://github.com/SimplioOfficial/simplio-app/commit/352f263325fa3c220ddae114e80f8d2cd96e80fe) Bug/345 - Fix multiple taps on resend email but... - jvrastil<br>[0f8ce1e](https://github.com/SimplioOfficial/simplio-app/commit/0f8ce1e4580762c1943249312e2718c46539e805) fix: add showError Popup on exceptions on signU... - ciripel</sub> |
 | <sub>2022-11-18 17:16:20</sub> | <sub>[[simplio-app:bug/339\-gesture\-work\-unevent\-on\-welcome\-page\-2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5fcd4fafbf4238ddec3aa406f6f7e1cd80d1ba9a)</sub> | <sub>[5fcd4fa](https://github.com/SimplioOfficial/simplio-app/commit/5fcd4fafbf4238ddec3aa406f6f7e1cd80d1ba9a) Rebased with master - Tomáš Petrík</sub> |
 | <sub>2022-11-18 17:03:58</sub> | <sub>[[simplio-app:bug/339\-gestures\-work\-uneven\-on\-welcome\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5be01d04bfa4c4957badc07a9a921f2fb24819a8)</sub> | <sub>[5be01d0](https://github.com/SimplioOfficial/simplio-app/commit/5be01d04bfa4c4957badc07a9a921f2fb24819a8) Rebased by master - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 3993 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-18 16:42:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/352f263325fa3c220ddae114e80f8d2cd96e80fe)</sub> | <sub>[352f263](https://github.com/SimplioOfficial/simplio-app/commit/352f263325fa3c220ddae114e80f8d2cd96e80fe) Bug/345 - Fix multiple taps on resend email but... - jvrastil</sub> |
 | <sub>2022-11-18 16:41:04</sub> | <sub>[[simplio-app:bug/339\-gestures\-work\-uneven\-on\-welcome\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/809bb0ad87b2045f2b6a41b895310361a2db98d7)</sub> | <sub>[809bb0a](https://github.com/SimplioOfficial/simplio-app/commit/809bb0ad87b2045f2b6a41b895310361a2db98d7) Refactor/374 manual games and coins refresh on ... - TomasPetrik</sub> |
 | <sub>2022-11-18 16:40:30</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3dcbeb654c55f137d48440679d4c18791b5db42)</sub> | <sub>[b3dcbeb](https://github.com/SimplioOfficial/simplio-app/commit/b3dcbeb654c55f137d48440679d4c18791b5db42) Bug/372 showing duplicated results on any searc... - TomasPetrik</sub> |
-| <sub>2022-11-18 14:03:36</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf)</sub> | <sub>[79f1f0e](https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf) Fixed bug/339-gestures-work-uneven-on-welcome-p... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
