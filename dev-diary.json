@@ -71575,5 +71575,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5be01d04bfa4c4957badc07a9a921f2fb24819a8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-18 17:16:20.147000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`5fcd4fa`](https://github.com/SimplioOfficial/simplio-app/commit/5fcd4fafbf4238ddec3aa406f6f7e1cd80d1ba9a) Rebased with master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/339\\-gesture\\-work\\-unevent\\-on\\-welcome\\-page\\-2] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5fcd4fafbf4238ddec3aa406f6f7e1cd80d1ba9a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-18 17:17:35.994000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b8ae06c`](https://github.com/SimplioOfficial/simplio-app/commit/b8ae06cba3633280e826002ae78d3eb08fad75c0) fix: validate the scanned address vs networkId ... - ciripel\n[`79f1f0e`](https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf) Fixed bug/339-gestures-work-uneven-on-welcome-p... - TomasPetrik\n[`b3dcbeb`](https://github.com/SimplioOfficial/simplio-app/commit/b3dcbeb654c55f137d48440679d4c18791b5db42) Bug/372 showing duplicated results on any searc... - TomasPetrik\n[`352f263`](https://github.com/SimplioOfficial/simplio-app/commit/352f263325fa3c220ddae114e80f8d2cd96e80fe) Bug/345 - Fix multiple taps on resend email but... - jvrastil\n[`0f8ce1e`](https://github.com/SimplioOfficial/simplio-app/commit/0f8ce1e4580762c1943249312e2718c46539e805) fix: add showError Popup on exceptions on signU... - ciripel",
+      "title": "[simplio-app:bug/339\\-gestures\\-work\\-uneven\\-on\\-welcome\\-page] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/5be01d04bfa4...1e43c61d7e61"
+    }
   }
 ]
