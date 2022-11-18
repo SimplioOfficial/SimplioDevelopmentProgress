@@ -71431,5 +71431,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8ae06cba3633280e826002ae78d3eb08fad75c0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-18 14:03:36.179000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`79f1f0e`](https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf) Fixed bug/339-gestures-work-uneven-on-welcome-p... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/79f1f0ecbe01e76631b2e5325db62a6cacb026cf"
+    }
   }
 ]
