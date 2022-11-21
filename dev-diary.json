@@ -71700,5 +71700,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/689cb2f7f07f...2032b4ab792f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-21 13:35:35.764000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7505f22`](https://github.com/SimplioOfficial/simplio-app/commit/7505f229e32adfdac868ab3f1d8ad0470cc02b6e) updating blocking value conversion - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7505f229e32adfdac868ab3f1d8ad0470cc02b6e"
+    }
   }
 ]
