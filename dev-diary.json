@@ -71682,5 +71682,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cf20d0e90b1e93df7c38df2e4f2bf750d3fe492e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-21 13:14:56.529000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`689a176`](https://github.com/SimplioOfficial/simplio-app/commit/689a176669090b9e23837ab773fcab7f9310889b) moving keypad styling to a wrapper - storkandstars\n[`f995f61`](https://github.com/SimplioOfficial/simplio-app/commit/f995f611125acf1328bfbdcb859f1467c849934a) adding error codes - storkandstars\n[`251c043`](https://github.com/SimplioOfficial/simplio-app/commit/251c0432c887655b1be1a9bbcc278cbabf977dd2) updating http errors - storkandstars\n[`2845c78`](https://github.com/SimplioOfficial/simplio-app/commit/2845c785c203899d5da139e234357f92ba0d41ef) syncing key names with api response - storkandstars\n[`f29f9f7`](https://github.com/SimplioOfficial/simplio-app/commit/f29f9f7eab167099206e37b9c936da3213af4973) removing print - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/689cb2f7f07f...2032b4ab792f"
+    }
   }
 ]
