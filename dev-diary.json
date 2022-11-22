@@ -71790,5 +71790,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2490da0f16d9479bdaeb4191c3bab82bb3e69ad7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-22 12:01:42.627000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c2dc2dd`](https://github.com/SimplioOfficial/simplio-app/commit/c2dc2dd9d14a55e2cf31c612833a5b9a4ad2e45f) renaming loaded state - storkandstars\n[`ce9ba4d`](https://github.com/SimplioOfficial/simplio-app/commit/ce9ba4d738e3037f6e8f1f4fbdeaec031ac32b5e) removing super class for memory cache - storkandstars\n[`4343efe`](https://github.com/SimplioOfficial/simplio-app/commit/4343efe0ac0a28164814dafc6c1d8137da47abc2) wip - returning to sliver layout - storkandstars\n[`e7fc879`](https://github.com/SimplioOfficial/simplio-app/commit/e7fc87962c23b01fb2bc8ea4e49a799b65e6bc9d) adding repository interfaces - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2490da0f16d9...e7fc87962c23"
+    }
   }
 ]
