@@ -71916,5 +71916,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-25 09:38:26.568000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`060efce`](https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820) fix: added Mobox details. - Waiting icon from dax - ciripel",
+      "title": "[simplio-app:task/395\\-add\\-TINC\\-and\\-MOBOX] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820"
+    }
   }
 ]
