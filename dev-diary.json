@@ -71988,5 +71988,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9a524d1f1790356bb8d5ee4df46a14c47d4c78fb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:09:02.867000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fa2d462`](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1) wip: pairs mocked - ciripel",
+      "title": "[simplio-app:task/394\\-buy\\-screen\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1"
+    }
   }
 ]

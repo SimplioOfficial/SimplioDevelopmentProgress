@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4014 commits since 10/09/2021. You can see the complete history in
+There is a total of 4015 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-28 14:09:02</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1)</sub> | <sub>[fa2d462](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1) wip: pairs mocked - ciripel</sub> |
 | <sub>2022-11-28 11:44:34</sub> | <sub>[[simplio-app:refactor/398\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a524d1f1790356bb8d5ee4df46a14c47d4c78fb)</sub> | <sub>[9a524d1](https://github.com/SimplioOfficial/simplio-app/commit/9a524d1f1790356bb8d5ee4df46a14c47d4c78fb) Wrapped form fields back to form again - Tomáš Petrík</sub> |
 | <sub>2022-11-28 10:33:39</sub> | <sub>[[simplio-app:refactor/398\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4eacc9619f181c9d6c4e5b0db831c4e1aa48bde1)</sub> | <sub>[4eacc96](https://github.com/SimplioOfficial/simplio-app/commit/4eacc9619f181c9d6c4e5b0db831c4e1aa48bde1) Completed refactor/398-startup-screen - Tomáš Petrík</sub> |
 | <sub>2022-11-28 08:07:39</sub> | <sub>[[simplio-app:refactor/396\-signup\-confirmation\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f6a55304fb8c5ce6df776df0c87129566d0e877)</sub> | <sub>[4f6a553](https://github.com/SimplioOfficial/simplio-app/commit/4f6a55304fb8c5ce6df776df0c87129566d0e877) Completed REFACTOR - signup confirmation screen... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 4014 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-24 09:44:13</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9709ff3fdd62eea9808a673453ef04d4f3c3c92f)</sub> | <sub>[9709ff3](https://github.com/SimplioOfficial/simplio-app/commit/9709ff3fdd62eea9808a673453ef04d4f3c3c92f) Fixed typos - Tomáš Petrík</sub> |
 | <sub>2022-11-24 09:42:10</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/82a7b28356f8...9eda31575537)</sub> | <sub>[e70a2c7](https://github.com/SimplioOfficial/simplio-app/commit/e70a2c7662859632e0d255447cca3e5f6bf3379d) Bug/346 inputs are validated immediately after ... - ciripel<br>[9eda315](https://github.com/SimplioOfficial/simplio-app/commit/9eda315755377a14309928d26dadc0bfea3558c5) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 | <sub>2022-11-24 09:41:09</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/82a7b28356f812d0b52f2e6120c802cad13746ca)</sub> | <sub>[82a7b28](https://github.com/SimplioOfficial/simplio-app/commit/82a7b28356f812d0b52f2e6120c802cad13746ca) Fixed bug/381-block-brawler-blocks-the-application - Tomáš Petrík</sub> |
-| <sub>2022-11-22 15:01:38</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e70a2c7662859632e0d255447cca3e5f6bf3379d)</sub> | <sub>[e70a2c7](https://github.com/SimplioOfficial/simplio-app/commit/e70a2c7662859632e0d255447cca3e5f6bf3379d) Bug/346 inputs are validated immediately after ... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
