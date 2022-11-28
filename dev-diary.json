@@ -72186,5 +72186,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 16:50:58.780000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`76083f3`](https://github.com/SimplioOfficial/simplio-app/commit/76083f35e5c911ef5c2f8a577f473e027e3f9e59) fix: moved mocked in repository - ciripel",
+      "title": "[simplio-app:task/394\\-buy\\-screen\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/76083f35e5c911ef5c2f8a577f473e027e3f9e59"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 16:54:05.897000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e371b25`](https://github.com/SimplioOfficial/simplio-app/commit/e371b256535bab3025f1967effb83e66c131f49b) fix: buy pairs list - ciripel",
+      "title": "[simplio-app:task/394\\-buy\\-screen\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e371b256535bab3025f1967effb83e66c131f49b"
+    }
   }
 ]
