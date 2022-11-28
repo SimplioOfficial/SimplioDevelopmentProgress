@@ -72150,5 +72150,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:48:13.822000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ebd0c1b`](https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae) test FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD - ciripel",
+      "title": "[simplio-app:bug/fix\\-fastlane] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae"
+    }
   }
 ]
