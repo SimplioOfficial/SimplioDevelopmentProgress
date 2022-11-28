@@ -72060,5 +72060,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:25:25.697000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4669b1a`](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik\n[`8748302`](https://github.com/SimplioOfficial/simplio-app/commit/8748302e1e6b734670f1db6a3793e945eb17f902) Rebased by master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/396\\-signup\\-confirmation\\-screen] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4f6a55304fb8...8748302e1e6b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:28:19.317000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4669b1a`](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik\n[`e6f972f`](https://github.com/SimplioOfficial/simplio-app/commit/e6f972f27084138e7a8763f309e091fbba63bb17) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/381\\-block\\-brawler\\-blocks\\-the\\-application] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9709ff3fdd62...e6f972f27084"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:29:35.779000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4669b1a`](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik\n[`724a52a`](https://github.com/SimplioOfficial/simplio-app/commit/724a52a4bf4134337433fd3f19bb67aa22f2b8dc) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/392\\-disable\\-search\\-and\\-history\\-on\\-inventory\\-page] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/9b1a2d80f57a...724a52a4bf41"
+    }
   }
 ]
