@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4024 commits since 10/09/2021. You can see the complete history in
+There is a total of 4025 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-28 15:25:16</sub> | <sub>[[simplio-app:refactor/403\-show\-green\-checkmark\-on\-pin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9)</sub> | <sub>[e9c5770](https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9) Completed show green checkmark on PIN#403 - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:48:13</sub> | <sub>[[simplio-app:bug/fix\-fastlane] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae)</sub> | <sub>[ebd0c1b](https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae) test FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD - ciripel</sub> |
 | <sub>2022-11-28 14:37:15</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126)</sub> | <sub>[c2deae6](https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126) Fixed colors - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:35:12</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fb4af3e3685f...166379d6de4a)</sub> | <sub>[4669b1a](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik<br>[166379d](https://github.com/SimplioOfficial/simplio-app/commit/166379d6de4add3057b2f5bf546f2b921d7e85a0) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 4024 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-28 14:20:18</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc)</sub> | <sub>[4669b1a](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik</sub> |
 | <sub>2022-11-28 14:17:07</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a)</sub> | <sub>[fb4af3e](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a) refactor/400-find-dapps-for-mvp - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:15:34</sub> | <sub>[[simplio-app:bug/fix\-fastlane] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967)</sub> | <sub>[5deabc4](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967) test with GIT_AUTHORIZATION - ciripel</sub> |
-| <sub>2022-11-28 14:09:02</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1)</sub> | <sub>[fa2d462](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1) wip: pairs mocked - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

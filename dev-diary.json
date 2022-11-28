@@ -72168,5 +72168,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 15:25:16.355000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e9c5770`](https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9) Completed show green checkmark on PIN#403 - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/403\\-show\\-green\\-checkmark\\-on\\-pin] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9"
+    }
   }
 ]
