@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4017 commits since 10/09/2021. You can see the complete history in
+There is a total of 4018 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-28 14:20:18</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc)</sub> | <sub>[4669b1a](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik</sub> |
 | <sub>2022-11-28 14:17:07</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a)</sub> | <sub>[fb4af3e](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a) refactor/400-find-dapps-for-mvp - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:15:34</sub> | <sub>[[simplio-app:bug/fix\-fastlane] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967)</sub> | <sub>[5deabc4](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967) test with GIT_AUTHORIZATION - ciripel</sub> |
 | <sub>2022-11-28 14:09:02</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1)</sub> | <sub>[fa2d462](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1) wip: pairs mocked - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4017 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-25 09:38:26</sub> | <sub>[[simplio-app:task/395\-add\-TINC\-and\-MOBOX] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820)</sub> | <sub>[060efce](https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820) fix: added Mobox details. - Waiting icon from dax - ciripel</sub> |
 | <sub>2022-11-25 08:43:32</sub> | <sub>[[simplio-app:refactor/392\-disable\-search\-and\-history\-on\-inventory\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3)</sub> | <sub>[9b1a2d8](https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3) Completed REFACTOR - disable search and history... - Tomáš Petrík</sub> |
 | <sub>2022-11-24 13:14:43</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e7fc87962c23...84fbe085ff27)</sub> | <sub>[e50ca0e](https://github.com/SimplioOfficial/simplio-app/commit/e50ca0e361ecd4074e673c853d3fef6760092cde) adding asset wallet form item - storkandstars<br>[a403d01](https://github.com/SimplioOfficial/simplio-app/commit/a403d014f981ced37df5f8bb166fbf9e88eebe12) adding custom wallet id type definitions - storkandstars<br>[b98c195](https://github.com/SimplioOfficial/simplio-app/commit/b98c195cacfccdf3fcb007867d12004e75d481a1) override back action - storkandstars<br>[84fbe08](https://github.com/SimplioOfficial/simplio-app/commit/84fbe085ff27fc3f03fa678491583181fb3e2d39) wip - selecting route - storkandstars</sub> |
-| <sub>2022-11-24 09:44:13</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9709ff3fdd62eea9808a673453ef04d4f3c3c92f)</sub> | <sub>[9709ff3](https://github.com/SimplioOfficial/simplio-app/commit/9709ff3fdd62eea9808a673453ef04d4f3c3c92f) Fixed typos - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

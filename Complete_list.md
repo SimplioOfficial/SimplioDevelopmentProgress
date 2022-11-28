@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-28 14:20:18</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc)</sub> | <sub>[4669b1a](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik</sub> |
 | <sub>2022-11-28 14:17:07</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a)</sub> | <sub>[fb4af3e](https://github.com/SimplioOfficial/simplio-app/commit/fb4af3e3685f845b747083f48318a7e45897d86a) refactor/400-find-dapps-for-mvp - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:15:34</sub> | <sub>[[simplio-app:bug/fix\-fastlane] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967)</sub> | <sub>[5deabc4](https://github.com/SimplioOfficial/simplio-app/commit/5deabc44de264ccdea6fce5fba59af07b78ce967) test with GIT_AUTHORIZATION - ciripel</sub> |
 | <sub>2022-11-28 14:09:02</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1)</sub> | <sub>[fa2d462](https://github.com/SimplioOfficial/simplio-app/commit/fa2d4623a4186fc90cdf6ab22a7cf61e5502c3d1) wip: pairs mocked - ciripel</sub> |
