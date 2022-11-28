@@ -72222,5 +72222,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e371b256535bab3025f1967effb83e66c131f49b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 21:37:57.193000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3d889a0`](https://github.com/SimplioOfficial/simplio-app/commit/3d889a014ba8ddc6cea54470af772fd2b1bbd252) wip - changing value - storkandstars\n[`5204aa6`](https://github.com/SimplioOfficial/simplio-app/commit/5204aa6e94715e008e898b63299791f4762630ad) wip - analyzing cubit implementation - storkandstars\n[`03a6bda`](https://github.com/SimplioOfficial/simplio-app/commit/03a6bda7592c321dd5928fbaa848c1d98c0a8b0e) adding other option to select - storkandstars\n[`504167a`](https://github.com/SimplioOfficial/simplio-app/commit/504167a6cff0ad365abf673bca4675e23ab5f5bb) Merge branch 'master' into refactor/swap-showcase - storkandstars\n[`88bedd9`](https://github.com/SimplioOfficial/simplio-app/commit/88bedd9a25c4e20c09e2f03becb0638f336b1667) selecting route - storkandstars",
+      "title": "[simplio-app:refactor/swap\\-showcase] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/3d889a014ba8^...f7feeaecca26"
+    }
   }
 ]
