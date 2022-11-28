@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4012 commits since 10/09/2021. You can see the complete history in
+There is a total of 4013 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-28 10:33:39</sub> | <sub>[[simplio-app:refactor/398\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4eacc9619f181c9d6c4e5b0db831c4e1aa48bde1)</sub> | <sub>[4eacc96](https://github.com/SimplioOfficial/simplio-app/commit/4eacc9619f181c9d6c4e5b0db831c4e1aa48bde1) Completed refactor/398-startup-screen - Tomáš Petrík</sub> |
 | <sub>2022-11-28 08:07:39</sub> | <sub>[[simplio-app:refactor/396\-signup\-confirmation\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f6a55304fb8c5ce6df776df0c87129566d0e877)</sub> | <sub>[4f6a553](https://github.com/SimplioOfficial/simplio-app/commit/4f6a55304fb8c5ce6df776df0c87129566d0e877) Completed REFACTOR - signup confirmation screen... - Tomáš Petrík</sub> |
 | <sub>2022-11-25 09:38:26</sub> | <sub>[[simplio-app:task/395\-add\-TINC\-and\-MOBOX] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820)</sub> | <sub>[060efce](https://github.com/SimplioOfficial/simplio-app/commit/060efcea75a89b6b564429608aecf1d4396b6820) fix: added Mobox details. - Waiting icon from dax - ciripel</sub> |
 | <sub>2022-11-25 08:43:32</sub> | <sub>[[simplio-app:refactor/392\-disable\-search\-and\-history\-on\-inventory\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3)</sub> | <sub>[9b1a2d8](https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3) Completed REFACTOR - disable search and history... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 4012 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-24 09:41:09</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/82a7b28356f812d0b52f2e6120c802cad13746ca)</sub> | <sub>[82a7b28](https://github.com/SimplioOfficial/simplio-app/commit/82a7b28356f812d0b52f2e6120c802cad13746ca) Fixed bug/381-block-brawler-blocks-the-application - Tomáš Petrík</sub> |
 | <sub>2022-11-22 15:01:38</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e70a2c7662859632e0d255447cca3e5f6bf3379d)</sub> | <sub>[e70a2c7](https://github.com/SimplioOfficial/simplio-app/commit/e70a2c7662859632e0d255447cca3e5f6bf3379d) Bug/346 inputs are validated immediately after ... - ciripel</sub> |
 | <sub>2022-11-22 12:01:42</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2490da0f16d9...e7fc87962c23)</sub> | <sub>[c2dc2dd](https://github.com/SimplioOfficial/simplio-app/commit/c2dc2dd9d14a55e2cf31c612833a5b9a4ad2e45f) renaming loaded state - storkandstars<br>[ce9ba4d](https://github.com/SimplioOfficial/simplio-app/commit/ce9ba4d738e3037f6e8f1f4fbdeaec031ac32b5e) removing super class for memory cache - storkandstars<br>[4343efe](https://github.com/SimplioOfficial/simplio-app/commit/4343efe0ac0a28164814dafc6c1d8137da47abc2) wip - returning to sliver layout - storkandstars<br>[e7fc879](https://github.com/SimplioOfficial/simplio-app/commit/e7fc87962c23b01fb2bc8ea4e49a799b65e6bc9d) adding repository interfaces - storkandstars</sub> |
-| <sub>2022-11-22 09:41:13</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2490da0f16d9479bdaeb4191c3bab82bb3e69ad7)</sub> | <sub>[2490da0](https://github.com/SimplioOfficial/simplio-app/commit/2490da0f16d9479bdaeb4191c3bab82bb3e69ad7) changing sliver layout - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
