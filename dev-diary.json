@@ -72114,5 +72114,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9b1a2d80f57a...724a52a4bf41"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:35:12.270000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4669b1a`](https://github.com/SimplioOfficial/simplio-app/commit/4669b1a2d1476925f33f74ba3c0b4634f4ba47bc) Refactor/398 startup screen (#399) - TomasPetrik\n[`166379d`](https://github.com/SimplioOfficial/simplio-app/commit/166379d6de4add3057b2f5bf546f2b921d7e85a0) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/400\\-find\\-dapps\\-for\\-mvp] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/fb4af3e3685f...166379d6de4a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-28 14:37:15.466000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`c2deae6`](https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126) Fixed colors - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/400\\-find\\-dapps\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126"
+    }
   }
 ]
