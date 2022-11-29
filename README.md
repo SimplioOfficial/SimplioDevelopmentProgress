@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4049 commits since 10/09/2021. You can see the complete history in
+There is a total of 4050 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-29 15:34:47</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/09c8549c3811...bd7f40685054)</sub> | <sub>[4f94967](https://github.com/SimplioOfficial/simplio-app/commit/4f949675c0911bfc2d983317f708c497167385aa) removing unnecessary gesture detectors - storkandstars<br>[bd7f406](https://github.com/SimplioOfficial/simplio-app/commit/bd7f406850542bb992bba7f2887e8c4fd08e9c60) fixing unresponsive form - storkandstars</sub> |
 | <sub>2022-11-29 14:40:52</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654)</sub> | <sub>[09c8549](https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654) deselecting on keyboard hides - storkandstars</sub> |
 | <sub>2022-11-29 14:31:10</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53)</sub> | <sub>[44e3db0](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53) display min and max only on highlighted - storkandstars</sub> |
 | <sub>2022-11-29 14:27:23</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ee8e7a2aea30...bd2b334fa94f)</sub> | <sub>[8b001c3](https://github.com/SimplioOfficial/simplio-app/commit/8b001c3937a6795e2708e3fdfb48de66d0c1a771) removing unnecessary state emits - storkandstars<br>[bd2b334](https://github.com/SimplioOfficial/simplio-app/commit/bd2b334fa94fe6695a20fe4de1a2ca3fd209394e) changing direction - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4049 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 13:02:32</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f60b40467926...68a9616e7dea)</sub> |
 | <sub>2022-11-29 12:51:04</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/23435f4a3d78...4ff855d1a635)</sub> | <sub>[4d4dc67](https://github.com/SimplioOfficial/simplio-app/commit/4d4dc67d13261db59602dcfe04b39665c0bbbcdc) updating max possible amount - storkandstars<br>[4ff855d](https://github.com/SimplioOfficial/simplio-app/commit/4ff855d1a635c72c01547c3289663acb8ed155ab) updating fee values - storkandstars</sub> |
 | <sub>2022-11-29 12:46:50</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6)</sub> | <sub>[f60b404](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6) buy for mvp. - ciripel</sub> |
-| <sub>2022-11-29 11:58:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639)</sub> | <sub>[aab7ab8](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639) Bug/381 block brawler blocks the application (#... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
