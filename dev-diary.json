@@ -72527,5 +72527,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/4ff855d1a635...ee8e7a2aea30"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 13:06:03.649000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`bfc5c0c`](https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640) fix: analyze - ciripel",
+      "title": "[simplio-app:refactor/373\\-refactor\\_buy\\_asset\\_form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640"
+    }
   }
 ]
