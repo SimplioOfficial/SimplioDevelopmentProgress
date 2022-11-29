@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4047 commits since 10/09/2021. You can see the complete history in
+There is a total of 4048 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-29 14:31:10</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53)</sub> | <sub>[44e3db0](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53) display min and max only on highlighted - storkandstars</sub> |
 | <sub>2022-11-29 14:27:23</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ee8e7a2aea30...bd2b334fa94f)</sub> | <sub>[8b001c3](https://github.com/SimplioOfficial/simplio-app/commit/8b001c3937a6795e2708e3fdfb48de66d0c1a771) removing unnecessary state emits - storkandstars<br>[bd2b334](https://github.com/SimplioOfficial/simplio-app/commit/bd2b334fa94fe6695a20fe4de1a2ca3fd209394e) changing direction - storkandstars</sub> |
 | <sub>2022-11-29 13:58:20</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d69cae7d65c1e9b0e94333e5914b7aa2a3950f8f)</sub> | <sub>[d69cae7](https://github.com/SimplioOfficial/simplio-app/commit/d69cae7d65c1e9b0e94333e5914b7aa2a3950f8f) fix: router from done button - ciripel</sub> |
 | <sub>2022-11-29 13:06:03</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640)</sub> | <sub>[bfc5c0c](https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640) fix: analyze - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4047 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 12:46:50</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6)</sub> | <sub>[f60b404](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6) buy for mvp. - ciripel</sub> |
 | <sub>2022-11-29 11:58:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639)</sub> | <sub>[aab7ab8](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639) Bug/381 block brawler blocks the application (#... - TomasPetrik</sub> |
 | <sub>2022-11-29 11:45:06</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/23435f4a3d7874750de120ad5ef07784ed26bfe5)</sub> | <sub>[23435f4](https://github.com/SimplioOfficial/simplio-app/commit/23435f4a3d7874750de120ad5ef07784ed26bfe5) exchange redirecting - storkandstars</sub> |
-| <sub>2022-11-29 11:44:12</sub> | <sub>[[simplio-app:bug/381\-block\-brawler\-blocks\-the\-application] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e6f972f27084...2b226375873d)</sub> | <sub>[51ee15b](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6) Completed BUG - bottom dialog is not showing up... - TomasPetrik<br>[fec95b4](https://github.com/SimplioOfficial/simplio-app/commit/fec95b47801d9577f5895c7dab3f5ce6b621d89b) Completed REFACTOR - change text on create pin ... - TomasPetrik<br>[44f5bad](https://github.com/SimplioOfficial/simplio-app/commit/44f5badfa7ba1f192f95d57cf269e083ed77b32c) Completed REDESIGN - add disabled items to mark... - TomasPetrik<br>[2b22637](https://github.com/SimplioOfficial/simplio-app/commit/2b226375873df661754586d9b69524729d59b736) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -72581,5 +72581,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/ee8e7a2aea30...bd2b334fa94f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 14:31:10.353000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`44e3db0`](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53) display min and max only on highlighted - storkandstars",
+      "title": "[simplio-app:refactor/swap\\-showcase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53"
+    }
   }
 ]
