@@ -72384,5 +72384,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/44f5badfa7ba1f192f95d57cf269e083ed77b32c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 10:21:24.809000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d8d4a6b`](https://github.com/SimplioOfficial/simplio-app/commit/d8d4a6b5d0317129ed1b6a232122c2b78f35eb50) catching errors - storkandstars\n[`18953a3`](https://github.com/SimplioOfficial/simplio-app/commit/18953a3c9c98e475d444adc960bf666342a7b7a3) adding keys to widgets - storkandstars\n[`25e5717`](https://github.com/SimplioOfficial/simplio-app/commit/25e57171b63e76746c66405f9a4d787492e4a0f4) updating erasing value - storkandstars",
+      "title": "[simplio-app:refactor/swap\\-showcase] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/42084181688c...25e57171b63e"
+    }
   }
 ]
