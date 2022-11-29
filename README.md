@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4041 commits since 10/09/2021. You can see the complete history in
+There is a total of 4042 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-29 12:51:04</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/23435f4a3d78...4ff855d1a635)</sub> | <sub>[4d4dc67](https://github.com/SimplioOfficial/simplio-app/commit/4d4dc67d13261db59602dcfe04b39665c0bbbcdc) updating max possible amount - storkandstars<br>[4ff855d](https://github.com/SimplioOfficial/simplio-app/commit/4ff855d1a635c72c01547c3289663acb8ed155ab) updating fee values - storkandstars</sub> |
 | <sub>2022-11-29 12:46:50</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6)</sub> | <sub>[f60b404](https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6) buy for mvp. - ciripel</sub> |
 | <sub>2022-11-29 11:58:44</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639)</sub> | <sub>[aab7ab8](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639) Bug/381 block brawler blocks the application (#... - TomasPetrik</sub> |
 | <sub>2022-11-29 11:45:06</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/23435f4a3d7874750de120ad5ef07784ed26bfe5)</sub> | <sub>[23435f4](https://github.com/SimplioOfficial/simplio-app/commit/23435f4a3d7874750de120ad5ef07784ed26bfe5) exchange redirecting - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4041 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 09:56:15</sub> | <sub>[[simplio-app:refactor/398\-startup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/52095902b157269cdd747f7359c3319754e3dee6)</sub> | <sub>[5209590](https://github.com/SimplioOfficial/simplio-app/commit/52095902b157269cdd747f7359c3319754e3dee6) Refactor/400 find dapps for mvp (#402) - TomasPetrik</sub> |
 | <sub>2022-11-29 09:54:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fec95b47801d9577f5895c7dab3f5ce6b621d89b)</sub> | <sub>[fec95b4](https://github.com/SimplioOfficial/simplio-app/commit/fec95b47801d9577f5895c7dab3f5ce6b621d89b) Completed REFACTOR - change text on create pin ... - TomasPetrik</sub> |
 | <sub>2022-11-29 09:11:04</sub> | <sub>[[simplio-app:redesign/407\-add\-disabled\-items\-to\-marketplace] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f42e10d7b069a1127dc7c1eac4066d8c673160f4)</sub> | <sub>[f42e10d](https://github.com/SimplioOfficial/simplio-app/commit/f42e10d7b069a1127dc7c1eac4066d8c673160f4) Completed REDESIGN - add disabled items to mark... - Tomáš Petrík</sub> |
-| <sub>2022-11-29 08:31:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6)</sub> | <sub>[51ee15b](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6) Completed BUG - bottom dialog is not showing up... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

@@ -72474,5 +72474,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f60b4046792602a6491eb744cc39c908f90ae3a6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 12:51:04.634000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`4d4dc67`](https://github.com/SimplioOfficial/simplio-app/commit/4d4dc67d13261db59602dcfe04b39665c0bbbcdc) updating max possible amount - storkandstars\n[`4ff855d`](https://github.com/SimplioOfficial/simplio-app/commit/4ff855d1a635c72c01547c3289663acb8ed155ab) updating fee values - storkandstars",
+      "title": "[simplio-app:refactor/swap\\-showcase] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/23435f4a3d78...4ff855d1a635"
+    }
   }
 ]
