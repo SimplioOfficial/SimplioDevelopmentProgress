@@ -72438,5 +72438,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/23435f4a3d7874750de120ad5ef07784ed26bfe5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 11:58:44.594000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`aab7ab8`](https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639) Bug/381 block brawler blocks the application (#... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/aab7ab8eeb4295070633ef188b7832123bd85639"
+    }
   }
 ]
