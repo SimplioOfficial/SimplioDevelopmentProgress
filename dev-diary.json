@@ -72294,5 +72294,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dc4c6d0f7f039449fdf4d311572ad685f4e812e5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 08:31:53.601000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`51ee15b`](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6) Completed BUG - bottom dialog is not showing up... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6"
+    }
   }
 ]
