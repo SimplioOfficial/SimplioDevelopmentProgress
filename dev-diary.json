@@ -72599,5 +72599,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-29 14:40:52.228000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`09c8549`](https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654) deselecting on keyboard hides - storkandstars",
+      "title": "[simplio-app:refactor/swap\\-showcase] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654"
+    }
   }
 ]
