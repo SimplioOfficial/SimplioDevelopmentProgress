@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4032 commits since 10/09/2021. You can see the complete history in
+There is a total of 4033 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-29 09:11:04</sub> | <sub>[[simplio-app:redesign/407\-add\-disabled\-items\-to\-marketplace] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f42e10d7b069a1127dc7c1eac4066d8c673160f4)</sub> | <sub>[f42e10d](https://github.com/SimplioOfficial/simplio-app/commit/f42e10d7b069a1127dc7c1eac4066d8c673160f4) Completed REDESIGN - add disabled items to mark... - Tomáš Petrík</sub> |
 | <sub>2022-11-29 08:31:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6)</sub> | <sub>[51ee15b](https://github.com/SimplioOfficial/simplio-app/commit/51ee15b9f0f95327313a6776004229ee21c157b6) Completed BUG - bottom dialog is not showing up... - TomasPetrik</sub> |
 | <sub>2022-11-29 07:45:10</sub> | <sub>[[simplio-app:bug/408\-bottom\-dialog\-is\-not\-showing\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc4c6d0f7f039449fdf4d311572ad685f4e812e5)</sub> | <sub>[dc4c6d0](https://github.com/SimplioOfficial/simplio-app/commit/dc4c6d0f7f039449fdf4d311572ad685f4e812e5) Completed BUG - bottom dialog is not showing up... - Tomáš Petrík</sub> |
 | <sub>2022-11-29 07:09:41</sub> | <sub>[[simplio-app:refactor/405\-change\-text\-on\-create\-pin\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2f8b58d35a6b67b1479e9606c33bac4e7222ae6a)</sub> | <sub>[2f8b58d](https://github.com/SimplioOfficial/simplio-app/commit/2f8b58d35a6b67b1479e9606c33bac4e7222ae6a) Completed REFACTOR - change text on create pin ... - Tomáš Petrík</sub> |
@@ -17,6 +18,5 @@ There is a total of 4032 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-28 16:50:58</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76083f35e5c911ef5c2f8a577f473e027e3f9e59)</sub> | <sub>[76083f3](https://github.com/SimplioOfficial/simplio-app/commit/76083f35e5c911ef5c2f8a577f473e027e3f9e59) fix: moved mocked in repository - ciripel</sub> |
 | <sub>2022-11-28 15:25:16</sub> | <sub>[[simplio-app:refactor/403\-show\-green\-checkmark\-on\-pin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9)</sub> | <sub>[e9c5770](https://github.com/SimplioOfficial/simplio-app/commit/e9c5770553729e7a0bd076d6b034fdf4adb29ac9) Completed show green checkmark on PIN#403 - Tomáš Petrík</sub> |
 | <sub>2022-11-28 14:48:13</sub> | <sub>[[simplio-app:bug/fix\-fastlane] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae)</sub> | <sub>[ebd0c1b](https://github.com/SimplioOfficial/simplio-app/commit/ebd0c1b67495efdb06dd90ac9eb616bb2fff6eae) test FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD - ciripel</sub> |
-| <sub>2022-11-28 14:37:15</sub> | <sub>[[simplio-app:refactor/400\-find\-dapps\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126)</sub> | <sub>[c2deae6](https://github.com/SimplioOfficial/simplio-app/commit/c2deae60a3f8a7eb0d4568e5ebc457719e0e4126) Fixed colors - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
