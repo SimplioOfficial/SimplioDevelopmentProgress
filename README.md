@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4052 commits since 10/09/2021. You can see the complete history in
+There is a total of 4053 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-29 15:52:15</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ddf473576535f6910ec9e35c0e671accbcd3fc8)</sub> | <sub>[1ddf473](https://github.com/SimplioOfficial/simplio-app/commit/1ddf473576535f6910ec9e35c0e671accbcd3fc8) fixing fiat to fiat conversion - storkandstars</sub> |
 | <sub>2022-11-29 15:44:19</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ad3016ca06f716ff9f33883fa2e8a3f4901a4dc)</sub> | <sub>[8ad3016](https://github.com/SimplioOfficial/simplio-app/commit/8ad3016ca06f716ff9f33883fa2e8a3f4901a4dc) removing unused import - storkandstars</sub> |
 | <sub>2022-11-29 15:43:38</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0)</sub> | <sub>[6653042](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0) updating conversion - storkandstars</sub> |
 | <sub>2022-11-29 15:34:47</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/09c8549c3811...bd7f40685054)</sub> | <sub>[4f94967](https://github.com/SimplioOfficial/simplio-app/commit/4f949675c0911bfc2d983317f708c497167385aa) removing unnecessary gesture detectors - storkandstars<br>[bd7f406](https://github.com/SimplioOfficial/simplio-app/commit/bd7f406850542bb992bba7f2887e8c4fd08e9c60) fixing unresponsive form - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4052 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 13:58:20</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d69cae7d65c1e9b0e94333e5914b7aa2a3950f8f)</sub> | <sub>[d69cae7](https://github.com/SimplioOfficial/simplio-app/commit/d69cae7d65c1e9b0e94333e5914b7aa2a3950f8f) fix: router from done button - ciripel</sub> |
 | <sub>2022-11-29 13:06:03</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640)</sub> | <sub>[bfc5c0c](https://github.com/SimplioOfficial/simplio-app/commit/bfc5c0cbeef3d2b6e1f50cb78eccbd40402a5640) fix: analyze - ciripel</sub> |
 | <sub>2022-11-29 13:03:34</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4ff855d1a635...ee8e7a2aea30)</sub> | <sub>[cbb3e1f](https://github.com/SimplioOfficial/simplio-app/commit/cbb3e1f02e8846ad1f1155938e4103ff5df14783) constant min and max values - storkandstars<br>[b87701b](https://github.com/SimplioOfficial/simplio-app/commit/b87701b104a368364c595af3c0f87e88ec38f82f) updating validation - storkandstars<br>[ee8e7a2](https://github.com/SimplioOfficial/simplio-app/commit/ee8e7a2aea3042ec8bf8a0977cca5a4aa87700bb) simplifying state - storkandstars</sub> |
-| <sub>2022-11-29 13:02:32</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f60b40467926...68a9616e7dea)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
