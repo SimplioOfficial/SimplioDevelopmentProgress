@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4059 commits since 10/09/2021. You can see the complete history in
+There is a total of 4060 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-30 11:52:50</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1d583b39b53b7cbd6d66f4704dfb3bc4f2d9eb0)</sub> | <sub>[f1d583b](https://github.com/SimplioOfficial/simplio-app/commit/f1d583b39b53b7cbd6d66f4704dfb3bc4f2d9eb0) Fixed hidding navigators for connect wallet sca... - Tomáš Petrík</sub> |
 | <sub>2022-11-30 11:43:58</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/623c4f539fca4c007ce159a002b747504664dfda)</sub> | <sub>[623c4f5](https://github.com/SimplioOfficial/simplio-app/commit/623c4f539fca4c007ce159a002b747504664dfda) Handle appBar and tabBar visibility independent. - Tomáš Petrík</sub> |
 | <sub>2022-11-30 11:23:07</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98109b54e0b9dc487dc0904ca94ed6d417f92d96)</sub> | <sub>[98109b5](https://github.com/SimplioOfficial/simplio-app/commit/98109b54e0b9dc487dc0904ca94ed6d417f92d96) flashing app bar when switching between tabs#413 - Tomáš Petrík</sub> |
 | <sub>2022-11-30 09:34:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d)</sub> | <sub>[1caada0](https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d) Refactor/403 show green checkmark on pin (#404) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4059 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 15:52:15</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1ddf473576535f6910ec9e35c0e671accbcd3fc8)</sub> | <sub>[1ddf473](https://github.com/SimplioOfficial/simplio-app/commit/1ddf473576535f6910ec9e35c0e671accbcd3fc8) fixing fiat to fiat conversion - storkandstars</sub> |
 | <sub>2022-11-29 15:44:19</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ad3016ca06f716ff9f33883fa2e8a3f4901a4dc)</sub> | <sub>[8ad3016](https://github.com/SimplioOfficial/simplio-app/commit/8ad3016ca06f716ff9f33883fa2e8a3f4901a4dc) removing unused import - storkandstars</sub> |
 | <sub>2022-11-29 15:43:38</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0)</sub> | <sub>[6653042](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0) updating conversion - storkandstars</sub> |
-| <sub>2022-11-29 15:34:47</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/09c8549c3811...bd7f40685054)</sub> | <sub>[4f94967](https://github.com/SimplioOfficial/simplio-app/commit/4f949675c0911bfc2d983317f708c497167385aa) removing unnecessary gesture detectors - storkandstars<br>[bd7f406](https://github.com/SimplioOfficial/simplio-app/commit/bd7f406850542bb992bba7f2887e8c4fd08e9c60) fixing unresponsive form - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
