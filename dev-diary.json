@@ -72725,5 +72725,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/949ff9ff498cbc916ece9a9326517f1bd67fad07"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 09:34:14.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`fb97e1e`](https://github.com/SimplioOfficial/simplio-app/commit/fb97e1ef6f540d68127260923d28b9cede9f8f64) task/395 add TINC and MBOX (#411) - ciripel",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fb97e1ef6f540d68127260923d28b9cede9f8f64"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 09:34:46.658000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`1caada0`](https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d) Refactor/403 show green checkmark on pin (#404) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d"
+    }
   }
 ]
