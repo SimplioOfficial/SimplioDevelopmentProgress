@@ -72869,5 +72869,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f29657a2548dc99c51820318a44715c83af4fa84"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 12:41:54.800000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`f29657a`](https://github.com/SimplioOfficial/simplio-app/commit/f29657a2548dc99c51820318a44715c83af4fa84) Refactor/415 swap showcase (#414) - storkandstars\n[`58bc5e3`](https://github.com/SimplioOfficial/simplio-app/commit/58bc5e3e4c53acf7b5c67ced22084000f208e582) Rebased by master - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/413\\-flashing\\-app\\-bar\\-when\\-switching\\-between\\-tabs] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/1fe864383307...58bc5e3e4c53"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 12:42:21.475000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e75b556`](https://github.com/SimplioOfficial/simplio-app/commit/e75b55617577fce594f7b6b132066885d3ec7243) Flashing app bar when switching between tabs#41... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e75b55617577fce594f7b6b132066885d3ec7243"
+    }
   }
 ]
