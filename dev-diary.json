@@ -73103,5 +73103,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/a96078839a61...163f4b448509"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 16:12:39.849000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e621a68`](https://github.com/SimplioOfficial/simplio-app/commit/e621a68cd08e985781f7df65cdeb8321e4dd4523) Fixed welcome screen unresposive on touches#424... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e621a68cd08e985781f7df65cdeb8321e4dd4523"
+    }
   }
 ]
