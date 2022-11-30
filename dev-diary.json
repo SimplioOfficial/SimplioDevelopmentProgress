@@ -72815,5 +72815,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f1d583b39b53b7cbd6d66f4704dfb3bc4f2d9eb0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 11:56:24.274000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`493db8e`](https://github.com/SimplioOfficial/simplio-app/commit/493db8eac51da4ba10fe45a9b97681dee277eefb) Fixed selected color for find dapps tab - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/413\\-flashing\\-app\\-bar\\-when\\-switching\\-between\\-tabs] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/493db8eac51da4ba10fe45a9b97681dee277eefb"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 11:58:31.810000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1fe8643`](https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529) Removed commented code - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:refactor/413\\-flashing\\-app\\-bar\\-when\\-switching\\-between\\-tabs] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529"
+    }
   }
 ]
