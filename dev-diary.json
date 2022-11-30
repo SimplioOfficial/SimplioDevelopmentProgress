@@ -73175,5 +73175,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/f42e10d7b069...6e2b6d801748"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 16:50:00.945000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`9b1a2d8`](https://github.com/SimplioOfficial/simplio-app/commit/9b1a2d80f57ac6fd57a8c1c1a671e2ac27d046e3) Completed REFACTOR - disable search and history... - Tom\u00e1\u0161 Petr\u00edk\n[`724a52a`](https://github.com/SimplioOfficial/simplio-app/commit/724a52a4bf4134337433fd3f19bb67aa22f2b8dc) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`027fce3`](https://github.com/SimplioOfficial/simplio-app/commit/027fce3cfc7a186d338d4af43f023947adf212cd) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk\n[`24bc98e`](https://github.com/SimplioOfficial/simplio-app/commit/24bc98e19fa965a298e2022f16d0cfff8bcc035f) Removed search placeholder from my gamesscreen - Tom\u00e1\u0161 Petr\u00edk\n[`4ab8f8c`](https://github.com/SimplioOfficial/simplio-app/commit/4ab8f8ca59931beaae18337afd51a0fc6c04c24a) Merge branch 'refactor/392-disable-search-and-h... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:redesign/407\\-add\\-disabled\\-items\\-to\\-marketplace] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/6e2b6d801748...c67a90722e03"
+    }
   }
 ]
