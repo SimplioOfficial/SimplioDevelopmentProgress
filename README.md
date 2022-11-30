@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4071 commits since 10/09/2021. You can see the complete history in
+There is a total of 4072 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-30 14:44:56</sub> | <sub>[[simplio-app:bug/422\-map\-game\-categories\-with\-translations] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/474af358461f6a666c1725e0e9845a7f1706548a)</sub> | <sub>[474af35](https://github.com/SimplioOfficial/simplio-app/commit/474af358461f6a666c1725e0e9845a7f1706548a) adding numeric values to translation files - storkandstars</sub> |
 | <sub>2022-11-30 14:33:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98ccdad83094dbb7d2741b32252e3a98b9d2de5b)</sub> | <sub>[98ccdad](https://github.com/SimplioOfficial/simplio-app/commit/98ccdad83094dbb7d2741b32252e3a98b9d2de5b) fix: mocked fixes (#418) - ciripel</sub> |
 | <sub>2022-11-30 14:32:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e60f945b70264c9ca4205a419830c26714c29e1)</sub> | <sub>[3e60f94](https://github.com/SimplioOfficial/simplio-app/commit/3e60f945b70264c9ca4205a419830c26714c29e1) Bug/417 game detail should display game token (... - storkandstars</sub> |
 | <sub>2022-11-30 14:13:17</sub> | <sub>[[simplio-app:bug/420\-rename\-login\-to\-sign\-in] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...137046f95a0c)</sub> | <sub>[e43c5c0](https://github.com/SimplioOfficial/simplio-app/commit/e43c5c09c183cfef8a9e7e884fb3f1896a6b5fad) updating translations - storkandstars<br>[137046f](https://github.com/SimplioOfficial/simplio-app/commit/137046f95a0ca2ad99b5f5b1039d9998bd3dd2fe) applying changes to translations - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4071 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-30 12:42:21</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e75b55617577fce594f7b6b132066885d3ec7243)</sub> | <sub>[e75b556](https://github.com/SimplioOfficial/simplio-app/commit/e75b55617577fce594f7b6b132066885d3ec7243) Flashing app bar when switching between tabs#41... - TomasPetrik</sub> |
 | <sub>2022-11-30 12:41:54</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/1fe864383307...58bc5e3e4c53)</sub> | <sub>[f29657a](https://github.com/SimplioOfficial/simplio-app/commit/f29657a2548dc99c51820318a44715c83af4fa84) Refactor/415 swap showcase (#414) - storkandstars<br>[58bc5e3](https://github.com/SimplioOfficial/simplio-app/commit/58bc5e3e4c53acf7b5c67ced22084000f208e582) Rebased by master - Tomáš Petrík</sub> |
 | <sub>2022-11-30 12:28:20</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f29657a2548dc99c51820318a44715c83af4fa84)</sub> | <sub>[f29657a](https://github.com/SimplioOfficial/simplio-app/commit/f29657a2548dc99c51820318a44715c83af4fa84) Refactor/415 swap showcase (#414) - storkandstars</sub> |
-| <sub>2022-11-30 11:58:31</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529)</sub> | <sub>[1fe8643](https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529) Removed commented code - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

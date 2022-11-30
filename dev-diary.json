@@ -73013,5 +73013,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/98ccdad83094dbb7d2741b32252e3a98b9d2de5b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 14:44:56.561000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`474af35`](https://github.com/SimplioOfficial/simplio-app/commit/474af358461f6a666c1725e0e9845a7f1706548a) adding numeric values to translation files - storkandstars",
+      "title": "[simplio-app:bug/422\\-map\\-game\\-categories\\-with\\-translations] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/474af358461f6a666c1725e0e9845a7f1706548a"
+    }
   }
 ]
