@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4057 commits since 10/09/2021. You can see the complete history in
+There is a total of 4058 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-30 11:23:07</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98109b54e0b9dc487dc0904ca94ed6d417f92d96)</sub> | <sub>[98109b5](https://github.com/SimplioOfficial/simplio-app/commit/98109b54e0b9dc487dc0904ca94ed6d417f92d96) flashing app bar when switching between tabs#413 - Tomáš Petrík</sub> |
 | <sub>2022-11-30 09:34:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d)</sub> | <sub>[1caada0](https://github.com/SimplioOfficial/simplio-app/commit/1caada09a600a530b612664b6fdb3817fee4526d) Refactor/403 show green checkmark on pin (#404) - TomasPetrik</sub> |
 | <sub>2022-11-30 09:34:14</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fb97e1ef6f540d68127260923d28b9cede9f8f64)</sub> | <sub>[fb97e1e](https://github.com/SimplioOfficial/simplio-app/commit/fb97e1ef6f540d68127260923d28b9cede9f8f64) task/395 add TINC and MBOX (#411) - ciripel</sub> |
 | <sub>2022-11-30 08:57:59</sub> | <sub>[[simplio-app:task/395\-add\-TINC\-and\-MOBOX] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/949ff9ff498cbc916ece9a9326517f1bd67fad07)</sub> | <sub>[949ff9f](https://github.com/SimplioOfficial/simplio-app/commit/949ff9ff498cbc916ece9a9326517f1bd67fad07) fix: corrected mbox icon - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4057 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-29 15:43:38</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0)</sub> | <sub>[6653042](https://github.com/SimplioOfficial/simplio-app/commit/66530420a4de697581b2a6bf5e55d7acecff07a0) updating conversion - storkandstars</sub> |
 | <sub>2022-11-29 15:34:47</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/09c8549c3811...bd7f40685054)</sub> | <sub>[4f94967](https://github.com/SimplioOfficial/simplio-app/commit/4f949675c0911bfc2d983317f708c497167385aa) removing unnecessary gesture detectors - storkandstars<br>[bd7f406](https://github.com/SimplioOfficial/simplio-app/commit/bd7f406850542bb992bba7f2887e8c4fd08e9c60) fixing unresponsive form - storkandstars</sub> |
 | <sub>2022-11-29 14:40:52</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654)</sub> | <sub>[09c8549](https://github.com/SimplioOfficial/simplio-app/commit/09c8549c38112470664ed43a9fd98c91f4fda654) deselecting on keyboard hides - storkandstars</sub> |
-| <sub>2022-11-29 14:31:10</sub> | <sub>[[simplio-app:refactor/swap\-showcase] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53)</sub> | <sub>[44e3db0](https://github.com/SimplioOfficial/simplio-app/commit/44e3db0672a4bb5ce775472a8bd92272caf49a53) display min and max only on highlighted - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
