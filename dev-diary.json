@@ -73031,5 +73031,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/474af358461f6a666c1725e0e9845a7f1706548a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 14:45:37.540000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`fe01b73`](https://github.com/SimplioOfficial/simplio-app/commit/fe01b73a8a42e16678dfa674f4d1819affa1668a) Bug/420 rename login to sign in (#421) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/fe01b73a8a42e16678dfa674f4d1819affa1668a"
+    }
   }
 ]
