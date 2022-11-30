@@ -72959,5 +72959,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...d482b9d2cc44"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 14:13:17.081000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e43c5c0`](https://github.com/SimplioOfficial/simplio-app/commit/e43c5c09c183cfef8a9e7e884fb3f1896a6b5fad) updating translations - storkandstars\n[`137046f`](https://github.com/SimplioOfficial/simplio-app/commit/137046f95a0ca2ad99b5f5b1039d9998bd3dd2fe) applying changes to translations - storkandstars",
+      "title": "[simplio-app:bug/420\\-rename\\-login\\-to\\-sign\\-in] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...137046f95a0c"
+    }
   }
 ]

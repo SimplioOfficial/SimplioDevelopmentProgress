@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4068 commits since 10/09/2021. You can see the complete history in
+There is a total of 4069 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-11-30 14:13:17</sub> | <sub>[[simplio-app:bug/420\-rename\-login\-to\-sign\-in] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...137046f95a0c)</sub> | <sub>[e43c5c0](https://github.com/SimplioOfficial/simplio-app/commit/e43c5c09c183cfef8a9e7e884fb3f1896a6b5fad) updating translations - storkandstars<br>[137046f](https://github.com/SimplioOfficial/simplio-app/commit/137046f95a0ca2ad99b5f5b1039d9998bd3dd2fe) applying changes to translations - storkandstars</sub> |
 | <sub>2022-11-30 14:03:24</sub> | <sub>[[simplio-app:bug/417\-game\-detail\-should\-display\-game\-token] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...d482b9d2cc44)</sub> | <sub>[975422b](https://github.com/SimplioOfficial/simplio-app/commit/975422b84baf502238b4d060bda6b0aabb55834d) displaying asset - storkandstars<br>[d482b9d](https://github.com/SimplioOfficial/simplio-app/commit/d482b9d2cc4433d193602311e268268f079824aa) renaming balance to price on game detail - storkandstars</sub> |
 | <sub>2022-11-30 14:00:26</sub> | <sub>[[simplio-app:task/394\-buy\-screen\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0a4e0cc503e27749203b155b7204758df3bd4454)</sub> | <sub>[0a4e0cc](https://github.com/SimplioOfficial/simplio-app/commit/0a4e0cc503e27749203b155b7204758df3bd4454) fix: mocked fixes - ciripel</sub> |
 | <sub>2022-11-30 13:02:52</sub> | <sub>[[simplio-app:refactor/373\-refactor\_buy\_asset\_form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b72bcdf0a5039d20df0e9a7b6314accb658d58b)</sub> | <sub>[7b72bcd](https://github.com/SimplioOfficial/simplio-app/commit/7b72bcdf0a5039d20df0e9a7b6314accb658d58b) generate - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4068 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-11-30 11:58:31</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529)</sub> | <sub>[1fe8643](https://github.com/SimplioOfficial/simplio-app/commit/1fe864383307905e5cd7c810e4f8a1c6df7c0529) Removed commented code - Tomáš Petrík</sub> |
 | <sub>2022-11-30 11:56:24</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/493db8eac51da4ba10fe45a9b97681dee277eefb)</sub> | <sub>[493db8e](https://github.com/SimplioOfficial/simplio-app/commit/493db8eac51da4ba10fe45a9b97681dee277eefb) Fixed selected color for find dapps tab - Tomáš Petrík</sub> |
 | <sub>2022-11-30 11:52:50</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1d583b39b53b7cbd6d66f4704dfb3bc4f2d9eb0)</sub> | <sub>[f1d583b](https://github.com/SimplioOfficial/simplio-app/commit/f1d583b39b53b7cbd6d66f4704dfb3bc4f2d9eb0) Fixed hidding navigators for connect wallet sca... - Tomáš Petrík</sub> |
-| <sub>2022-11-30 11:43:58</sub> | <sub>[[simplio-app:refactor/413\-flashing\-app\-bar\-when\-switching\-between\-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/623c4f539fca4c007ce159a002b747504664dfda)</sub> | <sub>[623c4f5](https://github.com/SimplioOfficial/simplio-app/commit/623c4f539fca4c007ce159a002b747504664dfda) Handle appBar and tabBar visibility independent. - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
