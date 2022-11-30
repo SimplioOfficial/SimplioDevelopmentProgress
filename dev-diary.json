@@ -72923,5 +72923,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7b72bcdf0a5039d20df0e9a7b6314accb658d58b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 14:00:26.296000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0a4e0cc`](https://github.com/SimplioOfficial/simplio-app/commit/0a4e0cc503e27749203b155b7204758df3bd4454) fix: mocked fixes - ciripel",
+      "title": "[simplio-app:task/394\\-buy\\-screen\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/0a4e0cc503e27749203b155b7204758df3bd4454"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 14:03:24.258000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`975422b`](https://github.com/SimplioOfficial/simplio-app/commit/975422b84baf502238b4d060bda6b0aabb55834d) displaying asset - storkandstars\n[`d482b9d`](https://github.com/SimplioOfficial/simplio-app/commit/d482b9d2cc4433d193602311e268268f079824aa) renaming balance to price on game detail - storkandstars",
+      "title": "[simplio-app:bug/417\\-game\\-detail\\-should\\-display\\-game\\-token] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e75b55617577...d482b9d2cc44"
+    }
   }
 ]
