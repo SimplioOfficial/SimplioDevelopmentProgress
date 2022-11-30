@@ -73067,5 +73067,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1e1a5dac4c3b6323af832b5bc816632ef94f501f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 16:05:21.123000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`a960788`](https://github.com/SimplioOfficial/simplio-app/commit/a96078839a614c46b9f4d6024d27e2555b12c483) Fixed welcome screen unresposive on touches#424 - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/424\\-welcome\\-screen\\-unresposive\\-on\\-touches] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a96078839a614c46b9f4d6024d27e2555b12c483"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 16:05:55.711000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1e1a5da`](https://github.com/SimplioOfficial/simplio-app/commit/1e1a5dac4c3b6323af832b5bc816632ef94f501f) adding numeric values to translation files (#423) - storkandstars\n[`163f4b4`](https://github.com/SimplioOfficial/simplio-app/commit/163f4b44850962db1e900d9064e740f71613ddce) Merge branch 'master' of https://github.com/Sim... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/424\\-welcome\\-screen\\-unresposive\\-on\\-touches] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a96078839a61...163f4b448509"
+    }
   }
 ]
