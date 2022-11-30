@@ -72707,5 +72707,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9c577055372...50d02320f450"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-11-30 08:57:59.446000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`949ff9f`](https://github.com/SimplioOfficial/simplio-app/commit/949ff9ff498cbc916ece9a9326517f1bd67fad07) fix: corrected mbox icon - ciripel",
+      "title": "[simplio-app:task/395\\-add\\-TINC\\-and\\-MOBOX] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/949ff9ff498cbc916ece9a9326517f1bd67fad07"
+    }
   }
 ]
