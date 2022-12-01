@@ -73319,5 +73319,77 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7e05231116240148b3fb197af17b6eb1ccfdf5a5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 10:21:19.086000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`bc11c6a`](https://github.com/SimplioOfficial/simplio-app/commit/bc11c6a44c5a34bb057e3b56d8f22855920a1e3e) Simpliona aligned to bottom for sign up and sig... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/418\\-initial\\-screens\\-ui\\-gaps] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/bc11c6a44c5a34bb057e3b56d8f22855920a1e3e"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 10:21:56.302000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7b189ee`](https://github.com/SimplioOfficial/simplio-app/commit/7b189ee86eb81ef80f476ccab36d9260523c90b3) Refactor/392 disable search and history on inve... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7b189ee86eb81ef80f476ccab36d9260523c90b3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 10:22:33.598000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1711658`](https://github.com/SimplioOfficial/simplio-app/commit/171165824340e91434444155564d8d13222879ec) Redesign/407 add disabled items to marketplace ... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/171165824340e91434444155564d8d13222879ec"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 10:22:56.160000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4263484`](https://github.com/SimplioOfficial/simplio-app/commit/42634849c61e25ed61e07c5f8e4cd6191e6d6190) Bug/418 initial screens UI gaps (#429) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/42634849c61e25ed61e07c5f8e4cd6191e6d6190"
+    }
   }
 ]
