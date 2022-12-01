@@ -73517,5 +73517,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/eff75098e5b82a84392bb7bce986d1ec333be913"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 21:15:47.632000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7b189ee`](https://github.com/SimplioOfficial/simplio-app/commit/7b189ee86eb81ef80f476ccab36d9260523c90b3) Refactor/392 disable search and history on inve... - TomasPetrik\n[`1711658`](https://github.com/SimplioOfficial/simplio-app/commit/171165824340e91434444155564d8d13222879ec) Redesign/407 add disabled items to marketplace ... - TomasPetrik\n[`4263484`](https://github.com/SimplioOfficial/simplio-app/commit/42634849c61e25ed61e07c5f8e4cd6191e6d6190) Bug/418 initial screens UI gaps (#429) - TomasPetrik\n[`7c223ba`](https://github.com/SimplioOfficial/simplio-app/commit/7c223ba4e98f39eae4240f4b79488a292775c5ba) Refactor/396 signup confirmation screen (#430) - TomasPetrik\n[`25ad8f9`](https://github.com/SimplioOfficial/simplio-app/commit/25ad8f9d5ddfb3364172f78b76aec52b26a74d25) Task/431 update games in horizonal slider (#432) - TomasPetrik",
+      "title": "[simplio-app:redesign/407\\-add\\-disabled\\-items\\-to\\-marketplace] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/eff75098e5b8...9cbd4ef7766d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 21:17:12.647000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b5f471b`](https://github.com/SimplioOfficial/simplio-app/commit/b5f471b7db4bbbf73b7aa7227c089db823997a3d) reverted project.pbxproj - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:redesign/407\\-add\\-disabled\\-items\\-to\\-marketplace] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b5f471b7db4bbbf73b7aa7227c089db823997a3d"
+    }
   }
 ]
