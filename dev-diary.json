@@ -73229,5 +73229,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/02e3d879623423b044794e74a8c4964b2954a8fd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 08:41:08.747000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/103266068?v=4",
+        "name": "JiriBestak",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/PHoOuBgfGZvqY3UqFMWmVuMgT9efhULVIFT3cojsIeA/%3Fv%3D4/https/avatars.githubusercontent.com/u/103266068",
+        "url": "https://github.com/JiriBestak"
+      },
+      "color": 7506394,
+      "description": "[`33e5c53`](https://github.com/SimplioOfficial/documentation/commit/33e5c533280cb4d44dd79eda71f7dda16894ec93) Create howToAddNewAssetsToSystem - JiriBestak",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/33e5c533280cb4d44dd79eda71f7dda16894ec93"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 08:44:32.391000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/103266004?v=4",
+        "name": "JiriVrbas-Eria",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/7hDnAOiSxWdWlbr9Azr9PngCuMebo_3u9PMKRivzVlI/%3Fv%3D4/https/avatars.githubusercontent.com/u/103266004",
+        "url": "https://github.com/JiriVrbas-Eria"
+      },
+      "color": 7506394,
+      "description": "[`e1d6c7a`](https://github.com/SimplioOfficial/documentation/commit/e1d6c7a4c8f27e928d08e3e73040c2e4eb1dcfe7) Update and rename howToAddNewAssetsToSystem to ... - JiriVrbas\\-Eria",
+      "title": "[documentation:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/documentation/commit/e1d6c7a4c8f27e928d08e3e73040c2e4eb1dcfe7"
+    }
   }
 ]
