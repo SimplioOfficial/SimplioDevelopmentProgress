@@ -73193,5 +73193,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/6e2b6d801748...c67a90722e03"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 02:25:26.444000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`eff7509`](https://github.com/SimplioOfficial/simplio-app/commit/eff75098e5b82a84392bb7bce986d1ec333be913) Completed BUG - initial screens UI gaps#428 - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/418\\-initial\\-screens\\-ui\\-gaps] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eff75098e5b82a84392bb7bce986d1ec333be913"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 02:27:55.154000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`02e3d87`](https://github.com/SimplioOfficial/simplio-app/commit/02e3d879623423b044794e74a8c4964b2954a8fd) reverted project.pbxproj to original state - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:bug/418\\-initial\\-screens\\-ui\\-gaps] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/02e3d879623423b044794e74a8c4964b2954a8fd"
+    }
   }
 ]
