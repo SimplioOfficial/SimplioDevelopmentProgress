@@ -73463,5 +73463,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/25ad8f9d5ddfb3364172f78b76aec52b26a74d25"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 12:32:26.007000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f8b9985`](https://github.com/SimplioOfficial/simplio-app/commit/f8b9985f602e1c709bc2f873a8ca9a23f90c6a23) fixing loading asset - storkandstars\n[`aa5cf5f`](https://github.com/SimplioOfficial/simplio-app/commit/aa5cf5fc2419432784a1caa6828c2bebf3fa1e4e) removing unused files - storkandstars\n[`ff9e4d8`](https://github.com/SimplioOfficial/simplio-app/commit/ff9e4d82c91c68658bf6be69f0a9e1b2acc4db96) removing unused repository - storkandstars\n[`28d1a57`](https://github.com/SimplioOfficial/simplio-app/commit/28d1a578380ffd3acedd82e342dca5fe500f1dce) removing commented code - storkandstars\n[`8149054`](https://github.com/SimplioOfficial/simplio-app/commit/814905450c1556c96b6b5890e9b90d4ed73026bb) fix analyze - storkandstars",
+      "title": "[simplio-app:bug/buy\\-showcase\\-does\\-not\\-load\\-asset] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f8b9985f602e^...814905450c15"
+    }
   }
 ]
