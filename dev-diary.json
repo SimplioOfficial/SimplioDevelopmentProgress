@@ -73427,5 +73427,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/7c223ba4e98f39eae4240f4b79488a292775c5ba"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 11:17:32.053000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`7b189ee`](https://github.com/SimplioOfficial/simplio-app/commit/7b189ee86eb81ef80f476ccab36d9260523c90b3) Refactor/392 disable search and history on inve... - TomasPetrik\n[`1711658`](https://github.com/SimplioOfficial/simplio-app/commit/171165824340e91434444155564d8d13222879ec) Redesign/407 add disabled items to marketplace ... - TomasPetrik\n[`4263484`](https://github.com/SimplioOfficial/simplio-app/commit/42634849c61e25ed61e07c5f8e4cd6191e6d6190) Bug/418 initial screens UI gaps (#429) - TomasPetrik\n[`7c223ba`](https://github.com/SimplioOfficial/simplio-app/commit/7c223ba4e98f39eae4240f4b79488a292775c5ba) Refactor/396 signup confirmation screen (#430) - TomasPetrik\n[`b58c41d`](https://github.com/SimplioOfficial/simplio-app/commit/b58c41dd52b42778a203cea7b556683605e47de0) Merge branch master of https://github.com/Simpl... - Tom\u00e1\u0161 Petr\u00edk",
+      "title": "[simplio-app:task/431\\-update\\-games\\-in\\-horizonal\\-slider] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/7e0523111624...b58c41dd52b4"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-01 11:18:56.030000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`25ad8f9`](https://github.com/SimplioOfficial/simplio-app/commit/25ad8f9d5ddfb3364172f78b76aec52b26a74d25) Task/431 update games in horizonal slider (#432) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/25ad8f9d5ddfb3364172f78b76aec52b26a74d25"
+    }
   }
 ]
