@@ -73607,5 +73607,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d2e457b1ebb30e16f57398ca7791c312a622534b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-02 08:09:37.969000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`99c7f28`](https://github.com/SimplioOfficial/simplio-app/commit/99c7f2896a5492f5db476b2cf223259bb5eb01d7) Redesign/407 add disabled items to marketplace ... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/99c7f2896a5492f5db476b2cf223259bb5eb01d7"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-02 08:09:53.151000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`926872c`](https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e) Task/431 update games in horizonal slider (#435) - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e"
+    }
   }
 ]
