@@ -73697,5 +73697,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/549a1bb62c8c90fc20bf29b4908c6489cea19206"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-05 10:38:59.990000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`eed2045`](https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728) auto corrected - ciripel",
+      "title": "[simplio-app:bug/439\\-webview\\-rebuild\\-when\\-keyboard\\-opens\\-inside\\-a\\-game] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728"
+    }
   }
 ]
