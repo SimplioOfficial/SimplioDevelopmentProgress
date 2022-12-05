@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4115 commits since 10/09/2021. You can see the complete history in
+There is a total of 4116 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-05 12:59:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a)</sub> | <sub>[c601cf0](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a) task/447-upgrade-flutter-to-3.3.8 #448 - ciripel</sub> |
 | <sub>2022-12-05 12:33:58</sub> | <sub>[[simplio-app:task/447\-upgrade\-flutter\-to\-3\.3\.8] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/648e81fd8dc2c2693e5314f5b81eaf4900187399)</sub> | <sub>[648e81f](https://github.com/SimplioOfficial/simplio-app/commit/648e81fd8dc2c2693e5314f5b81eaf4900187399) fix: increase flutter ver to 3.3.8 - ciripel</sub> |
 | <sub>2022-12-05 12:26:08</sub> | <sub>[[simplio-app:task/445\-change\-date\-and\-tickers\-on\-history\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/345bcbd3006f79ef7a6783d8aea0bcaa2a4c334a)</sub> | <sub>[345bcbd](https://github.com/SimplioOfficial/simplio-app/commit/345bcbd3006f79ef7a6783d8aea0bcaa2a4c334a) fix: changed txes as requested - ciripel</sub> |
 | <sub>2022-12-05 11:52:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c)</sub> | <sub>[c013d6d](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c) wip on Podfile - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4115 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-05 10:09:28</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/549a1bb62c8c90fc20bf29b4908c6489cea19206)</sub> | <sub>[549a1bb](https://github.com/SimplioOfficial/simplio-app/commit/549a1bb62c8c90fc20bf29b4908c6489cea19206) update flutter to 3.3.8 - ciripel</sub> |
 | <sub>2022-12-05 09:43:56</sub> | <sub>[[simplio-app:subtask/438\-turn\-off\-test\-featureson\-testing\-environment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/31776273830b71c027f36b94d4e0c526f72c6004)</sub> | <sub>[3177627](https://github.com/SimplioOfficial/simplio-app/commit/31776273830b71c027f36b94d4e0c526f72c6004) subtask: turn off test features on test env - ciripel</sub> |
 | <sub>2022-12-04 14:49:05</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/926872cf971e...56cacc7da5bf)</sub> | <sub>[1f318a4](https://github.com/SimplioOfficial/simplio-app/commit/1f318a4a2b9157697c0a12e324df32d128642d31) upgrading in app webview - storkandstars<br>[2ec3087](https://github.com/SimplioOfficial/simplio-app/commit/2ec308745b39dccaaeebf78301cfc784c7d803fa) removing unused flutter webview - storkandstars<br>[56cacc7](https://github.com/SimplioOfficial/simplio-app/commit/56cacc7da5bfecaa6b1f4b1a5693b1fda256e063) can display keyboard and blocked fullscreen on ios - storkandstars</sub> |
-| <sub>2022-12-02 08:09:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e)</sub> | <sub>[926872c](https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e) Task/431 update games in horizonal slider (#435) - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
