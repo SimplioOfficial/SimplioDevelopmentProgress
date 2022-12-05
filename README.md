@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4112 commits since 10/09/2021. You can see the complete history in
+There is a total of 4113 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-05 11:52:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c)</sub> | <sub>[c013d6d](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c) wip on Podfile - ciripel</sub> |
 | <sub>2022-12-05 11:12:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8)</sub> | <sub>[6c47d32](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8) tests - ciripel</sub> |
 | <sub>2022-12-05 11:10:43</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16)</sub> | <sub>[721d339](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16) fix cocoapods to ios 13.0? - ciripel</sub> |
 | <sub>2022-12-05 10:38:59</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728)</sub> | <sub>[eed2045](https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728) auto corrected - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4112 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-02 08:09:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e)</sub> | <sub>[926872c](https://github.com/SimplioOfficial/simplio-app/commit/926872cf971ed83210bb08e0cee155383110f03e) Task/431 update games in horizonal slider (#435) - TomasPetrik</sub> |
 | <sub>2022-12-02 08:09:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/99c7f2896a5492f5db476b2cf223259bb5eb01d7)</sub> | <sub>[99c7f28](https://github.com/SimplioOfficial/simplio-app/commit/99c7f2896a5492f5db476b2cf223259bb5eb01d7) Redesign/407 add disabled items to marketplace ... - TomasPetrik</sub> |
 | <sub>2022-12-01 22:30:07</sub> | <sub>[[simplio-app:task/431\-update\-games\-in\-horizonal\-slider] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2e457b1ebb30e16f57398ca7791c312a622534b)</sub> | <sub>[d2e457b](https://github.com/SimplioOfficial/simplio-app/commit/d2e457b1ebb30e16f57398ca7791c312a622534b) Replaced valut_hill marketing image by benji ba... - Tomáš Petrík</sub> |
-| <sub>2022-12-01 2</sub> | <sub>[[simplio-app:task/431\-update\-games\-in\-horizonal\-slider] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b58c41dd52b4...41cb32e7a992)</sub> | <sub>[25ad8f9](https://github.com/SimplioOfficial/simplio-app/commit/25ad8f9d5ddfb3364172f78b76aec52b26a74d25) Task/431 update games in horizonal slider (#432) - TomasPetrik<br>[de5cf73](https://github.com/SimplioOfficial/simplio-app/commit/de5cf73d30550608c4bcf225dfc50f91a3e06dfb) Bug/buy showcase does not load asset (#433) - storkandstars<br>[41cb32e](https://github.com/SimplioOfficial/simplio-app/commit/41cb32e7a992210393a62fefaf6c4f4e9daafd16) Merge branch 'master' of https://github.com/Sim... - Tomáš Petrík</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
