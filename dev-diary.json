@@ -73876,5 +73876,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-05 17:03:59.359000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`8728f47`](https://github.com/SimplioOfficial/simplio-app/commit/8728f4738a7b89bb6cef577d43c164447d9206c3) adding option for displaying app bar - storkandstars\n[`b929dd1`](https://github.com/SimplioOfficial/simplio-app/commit/b929dd12cf6cf3fd5ca210d6933dc23b91e785de) adding gap - storkandstars\n[`96c7000`](https://github.com/SimplioOfficial/simplio-app/commit/96c700025f5f3039cfa1c695351e29806786f656) updating gap size - storkandstars\n[`8fb8eb8`](https://github.com/SimplioOfficial/simplio-app/commit/8fb8eb8aaaa473ce9fea00d054e26c0dcac83753) adding loaded field to unlocked account state - storkandstars\n[`db6e60a`](https://github.com/SimplioOfficial/simplio-app/commit/db6e60ad8dfb6d43b41c8e6101a68449fe64da10) restricted loading wallets - storkandstars",
+      "title": "[simplio-app:bug/440\\-protected\\-guard\\-inside\\-application\\-does\\-not\\-have\\-app\\-bar\\-with\\-go\\-back\\-button] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/926872cf971e...a7f05e5ad9fc"
+    }
   }
 ]
