@@ -73858,5 +73858,23 @@
       "title": "[simplio-app] Branch bug/439\\-webview\\-rebuild\\-when\\-keyboard\\-opens\\-inside\\-a\\-game was force-pushed to `d615bbd`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-05 13:12:20.875000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ff35d14`](https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e) fix: Podfile CocoaPods issue fix - ciripel",
+      "title": "[simplio-app:bug/439\\-webview\\-rebuild\\-when\\-keyboard\\-opens\\-inside\\-a\\-game] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4118 commits since 10/09/2021. You can see the complete history in
+There is a total of 4119 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-05 13:12:20</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e)</sub> | <sub>[ff35d14](https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e) fix: Podfile CocoaPods issue fix - ciripel</sub> |
 | <sub>2022-12-05 13:07:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a4b0aba84240...d615bbda45fb)</sub> |
 | <sub>2022-12-05 13:05:43</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4b0aba8424016912e5fa6c0aaaa33664557c062)</sub> | <sub>[a4b0aba](https://github.com/SimplioOfficial/simplio-app/commit/a4b0aba8424016912e5fa6c0aaaa33664557c062) fix: Podfile CocoaPods issue fix - ciripel</sub> |
 | <sub>2022-12-05 12:59:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a)</sub> | <sub>[c601cf0](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a) task/447-upgrade-flutter-to-3.3.8 #448 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4118 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-05 11:12:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8)</sub> | <sub>[6c47d32](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8) tests - ciripel</sub> |
 | <sub>2022-12-05 11:10:43</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16)</sub> | <sub>[721d339](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16) fix cocoapods to ios 13.0? - ciripel</sub> |
 | <sub>2022-12-05 10:38:59</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728)</sub> | <sub>[eed2045](https://github.com/SimplioOfficial/simplio-app/commit/eed2045302af222867f92b7966b5fdbee3adb728) auto corrected - ciripel</sub> |
-| <sub>2022-12-05 10:09:28</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/549a1bb62c8c90fc20bf29b4908c6489cea19206)</sub> | <sub>[549a1bb](https://github.com/SimplioOfficial/simplio-app/commit/549a1bb62c8c90fc20bf29b4908c6489cea19206) update flutter to 3.3.8 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
