@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4120 commits since 10/09/2021. You can see the complete history in
+There is a total of 4121 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-05 17:29:02</sub> | <sub>[[simplio-app:bug/440\-protected\-guard\-inside\-application\-does\-not\-have\-app\-bar\-with\-go\-back\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7035c7d7d97253dae28c04d66aaa3b96fd317176)</sub> | <sub>[7035c7d](https://github.com/SimplioOfficial/simplio-app/commit/7035c7d7d97253dae28c04d66aaa3b96fd317176) hot fixing expensive rebuilds - storkandstars</sub> |
 | <sub>2022-12-05 17:03:59</sub> | <sub>[[simplio-app:bug/440\-protected\-guard\-inside\-application\-does\-not\-have\-app\-bar\-with\-go\-back\-button] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/926872cf971e...a7f05e5ad9fc)</sub> | <sub>[8728f47](https://github.com/SimplioOfficial/simplio-app/commit/8728f4738a7b89bb6cef577d43c164447d9206c3) adding option for displaying app bar - storkandstars<br>[b929dd1](https://github.com/SimplioOfficial/simplio-app/commit/b929dd12cf6cf3fd5ca210d6933dc23b91e785de) adding gap - storkandstars<br>[96c7000](https://github.com/SimplioOfficial/simplio-app/commit/96c700025f5f3039cfa1c695351e29806786f656) updating gap size - storkandstars<br>[8fb8eb8](https://github.com/SimplioOfficial/simplio-app/commit/8fb8eb8aaaa473ce9fea00d054e26c0dcac83753) adding loaded field to unlocked account state - storkandstars<br>[db6e60a](https://github.com/SimplioOfficial/simplio-app/commit/db6e60ad8dfb6d43b41c8e6101a68449fe64da10) restricted loading wallets - storkandstars</sub> |
 | <sub>2022-12-05 13:12:20</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e)</sub> | <sub>[ff35d14](https://github.com/SimplioOfficial/simplio-app/commit/ff35d140a0b0463a6817712deaddbc2c5ca1607e) fix: Podfile CocoaPods issue fix - ciripel</sub> |
 | <sub>2022-12-05 13:07:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a4b0aba84240...d615bbda45fb)</sub> |
@@ -17,6 +18,5 @@ There is a total of 4120 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-05 12:26:08</sub> | <sub>[[simplio-app:task/445\-change\-date\-and\-tickers\-on\-history\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/345bcbd3006f79ef7a6783d8aea0bcaa2a4c334a)</sub> | <sub>[345bcbd](https://github.com/SimplioOfficial/simplio-app/commit/345bcbd3006f79ef7a6783d8aea0bcaa2a4c334a) fix: changed txes as requested - ciripel</sub> |
 | <sub>2022-12-05 11:52:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c)</sub> | <sub>[c013d6d](https://github.com/SimplioOfficial/simplio-app/commit/c013d6db7b30c4cba451dfe1b14785ee6ac89a9c) wip on Podfile - ciripel</sub> |
 | <sub>2022-12-05 11:12:09</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8)</sub> | <sub>[6c47d32](https://github.com/SimplioOfficial/simplio-app/commit/6c47d320aa003824b42e94047fbeb2f5c4cd3dc8) tests - ciripel</sub> |
-| <sub>2022-12-05 11:10:43</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16)</sub> | <sub>[721d339](https://github.com/SimplioOfficial/simplio-app/commit/721d3392ea5847243469ce44f461bdeca9487c16) fix cocoapods to ios 13.0? - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
