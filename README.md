@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4124 commits since 10/09/2021. You can see the complete history in
+There is a total of 4125 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-06 10:29:29</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/31776273830b...0c1a3a216ce2)</sub> |
 | <sub>2022-12-06 09:26:13</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/446d8f3b81cefd96cb74a8eb6f276db75aed44d9)</sub> | <sub>[446d8f3](https://github.com/SimplioOfficial/simplio-app/commit/446d8f3b81cefd96cb74a8eb6f276db75aed44d9) Bug/439 webview rebuild when keyboard opens ins... - storkandstars</sub> |
 | <sub>2022-12-06 09:25:49</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90850b5690c283dbc465118a56d265a40e18b817)</sub> | <sub>[90850b5](https://github.com/SimplioOfficial/simplio-app/commit/90850b5690c283dbc465118a56d265a40e18b817) task/445-change-date-and-tickers-on-history-pag... - ciripel</sub> |
 | <sub>2022-12-05 17:31:31</sub> | <sub>[[simplio-app:bug/440\-protected\-guard\-inside\-application\-does\-not\-have\-app\-bar\-with\-go\-back\-button] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7035c7d7d972...3dfee8c04b51)</sub> | <sub>[c601cf0](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a) task/447-upgrade-flutter-to-3.3.8 #448 - ciripel<br>[3dfee8c](https://github.com/SimplioOfficial/simplio-app/commit/3dfee8c04b51fc0fcbc70fbee07943d6a6d284eb) Merge branch 'master' into bug/440-protected-gu... - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4124 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-05 13:07:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/a4b0aba84240...d615bbda45fb)</sub> |
 | <sub>2022-12-05 13:05:43</sub> | <sub>[[simplio-app:bug/439\-webview\-rebuild\-when\-keyboard\-opens\-inside\-a\-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4b0aba8424016912e5fa6c0aaaa33664557c062)</sub> | <sub>[a4b0aba](https://github.com/SimplioOfficial/simplio-app/commit/a4b0aba8424016912e5fa6c0aaaa33664557c062) fix: Podfile CocoaPods issue fix - ciripel</sub> |
 | <sub>2022-12-05 12:59:09</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a)</sub> | <sub>[c601cf0](https://github.com/SimplioOfficial/simplio-app/commit/c601cf0cdb1405f91bd874732632607688e0140a) task/447-upgrade-flutter-to-3.3.8 #448 - ciripel</sub> |
-| <sub>2022-12-05 12:33:58</sub> | <sub>[[simplio-app:task/447\-upgrade\-flutter\-to\-3\.3\.8] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/648e81fd8dc2c2693e5314f5b81eaf4900187399)</sub> | <sub>[648e81f](https://github.com/SimplioOfficial/simplio-app/commit/648e81fd8dc2c2693e5314f5b81eaf4900187399) fix: increase flutter ver to 3.3.8 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

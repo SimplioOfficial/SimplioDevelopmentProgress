@@ -73966,5 +73966,22 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/446d8f3b81cefd96cb74a8eb6f276db75aed44d9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-06 10:29:29.508000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/31776273830b...0c1a3a216ce2)",
+      "title": "[simplio-app] Branch subtask/438\\-turn\\-off\\-test\\-featureson\\-testing\\-environment was force-pushed to `0c1a3a2`",
+      "type": "rich"
+    }
   }
 ]
