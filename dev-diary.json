@@ -74037,5 +74037,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/446d8f3b81ce...60983885a5cf"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-06 20:31:15.087000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`062101d`](https://github.com/SimplioOfficial/simplio-app/commit/062101d2504b19229908cfee65cf07c30e3015d5) searching nft from api - storkandstars\n[`e5d5e05`](https://github.com/SimplioOfficial/simplio-app/commit/e5d5e05e5ab22de136e6dab1016279b6ea89e3ce) updating loading with bloc events - storkandstars\n[`b20ece8`](https://github.com/SimplioOfficial/simplio-app/commit/b20ece862c711873c0b87550f406a6362158edff) removing unused import - storkandstars",
+      "title": "[simplio-app:task/450\\-add\\-dummy\\-nft\\-items\\-to\\-discovery\\-screen] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/60983885a5cf...b20ece862c71"
+    }
   }
 ]
