@@ -74019,5 +74019,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/60715df111c9f0bee99eacb2c3a48ab344f7d0a2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-06 15:05:58.461000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c468bfe`](https://github.com/SimplioOfficial/simplio-app/commit/c468bfe3eddc55118138f41e1eac94e2d6477b0e) extending preview with low and high resolution - storkandstars\n[`2619e74`](https://github.com/SimplioOfficial/simplio-app/commit/2619e74ac971eadf9a5ec00b0bae5bf52736cb45) adding search nft endpoint - storkandstars\n[`50d0077`](https://github.com/SimplioOfficial/simplio-app/commit/50d007798cf4131635ce666bad578b9bfc48ed9a) adding nft item - storkandstars\n[`1d72164`](https://github.com/SimplioOfficial/simplio-app/commit/1d72164815fa6042059842d441740bb496bb1178) adding a todo to fix a typo - storkandstars\n[`b8015cf`](https://github.com/SimplioOfficial/simplio-app/commit/b8015cf7b9f39df35bd5e2e57b75c157fae73926) adding discovery nft content - storkandstars",
+      "title": "[simplio-app:task/450\\-add\\-dummy\\-nft\\-items\\-to\\-discovery\\-screen] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/446d8f3b81ce...60983885a5cf"
+    }
   }
 ]
