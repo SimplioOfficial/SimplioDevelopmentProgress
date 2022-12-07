@@ -74235,5 +74235,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2555112ad53c74ae444db4bd5efe559e213ed494"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-07 14:00:43.464000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`71c538c`](https://github.com/SimplioOfficial/simplio-app/commit/71c538cf02459c5338d0162098cbc8afbc2ed7fd) adding precached placeholder image - storkandstars\n[`0160aa5`](https://github.com/SimplioOfficial/simplio-app/commit/0160aa545e2b72e4de8f71b55aafb95a47e1cbd9) updating preview resolution for game detail - storkandstars",
+      "title": "[simplio-app:bug/456\\-update\\-preview\\-resolution\\-for\\-game\\-detail] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2555112ad53c...0160aa545e2b"
+    }
   }
 ]
