@@ -74109,5 +74109,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/60715df111c9...c65335201ff4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-07 11:09:38.099000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`0103d35`](https://github.com/SimplioOfficial/simplio-app/commit/0103d35fd3c2ff2da10724f2c507757f8541f8aa) updating ignore file - storkandstars\n[`b347015`](https://github.com/SimplioOfficial/simplio-app/commit/b347015e553ce507ab6d47728c36c1cd68697283) adding launch example for vscode - storkandstars\n[`35160f2`](https://github.com/SimplioOfficial/simplio-app/commit/35160f2f7c414a17e8f2395f91b65bb2b89a572a) adding makefile - storkandstars\n[`b0d95d2`](https://github.com/SimplioOfficial/simplio-app/commit/b0d95d24a31cd9a04ecf6391ef92701a6ea01f6f) removing obsolete run.sh - storkandstars",
+      "title": "[simplio-app:infrastructure/adding\\-makefile] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0103d35fd3c2^...b0d95d24a31c"
+    }
   }
 ]
