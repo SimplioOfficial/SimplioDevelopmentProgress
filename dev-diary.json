@@ -74343,5 +74343,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/89f2e1302076ea3e09475f4f4da9622ec145e08f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-08 09:38:35.177000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b4ac1c2`](https://github.com/SimplioOfficial/simplio-app/commit/b4ac1c29813e771b4e46943d1bf46fa4cb651de3) enabling cache - storkandstars",
+      "title": "[simplio-app:bug/enabling\\-gameplay\\-cache\\-for\\-mvp] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b4ac1c29813e771b4e46943d1bf46fa4cb651de3"
+    }
   }
 ]

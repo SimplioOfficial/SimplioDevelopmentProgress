@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4145 commits since 10/09/2021. You can see the complete history in
+There is a total of 4146 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-08 09:38:35</sub> | <sub>[[simplio-app:bug/enabling\-gameplay\-cache\-for\-mvp] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4ac1c29813e771b4e46943d1bf46fa4cb651de3)</sub> | <sub>[b4ac1c2](https://github.com/SimplioOfficial/simplio-app/commit/b4ac1c29813e771b4e46943d1bf46fa4cb651de3) enabling cache - storkandstars</sub> |
 | <sub>2022-12-08 09:26:28</sub> | <sub>[[simplio-app:bug/renaming\-nft\-action\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/89f2e1302076ea3e09475f4f4da9622ec145e08f)</sub> | <sub>[89f2e13](https://github.com/SimplioOfficial/simplio-app/commit/89f2e1302076ea3e09475f4f4da9622ec145e08f) updating buy nft translation - storkandstars</sub> |
 | <sub>2022-12-08 08:22:08</sub> | <sub>[[simplio-app:bug/436\-navigation\-tabs\-is\-not\-stucked\-when\-scroll] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1de994b527c55760d76ce3ba4895c00d476ed675)</sub> | <sub>[1de994b](https://github.com/SimplioOfficial/simplio-app/commit/1de994b527c55760d76ce3ba4895c00d476ed675) 1. Formatted files properly - Tomas Petrik</sub> |
 | <sub>2022-12-07 15:29:55</sub> | <sub>[[simplio-app:bug/436\-navigation\-tabs\-is\-not\-stucked\-when\-scroll] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f222ba213b5fe0a38b15780b4f2ccd0d2e9457a)</sub> | <sub>[1f222ba](https://github.com/SimplioOfficial/simplio-app/commit/1f222ba213b5fe0a38b15780b4f2ccd0d2e9457a) Reverted project.pbxproj - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4145 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-07 12:45:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2555112ad53c74ae444db4bd5efe559e213ed494)</sub> | <sub>[2555112](https://github.com/SimplioOfficial/simplio-app/commit/2555112ad53c74ae444db4bd5efe559e213ed494) Infrastructure/adding makefile (#455) - storkandstars</sub> |
 | <sub>2022-12-07 12:33:07</sub> | <sub>[[simplio-app:infrastructure/adding\-makefile] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/db24011cdc05...a038f4321f4c)</sub> | <sub>[03a236c](https://github.com/SimplioOfficial/simplio-app/commit/03a236ce9ac9840dc978a505317e54fcecfac3eb) Task/450 add dummy nft items to discovery scree... - storkandstars<br>[abc2410](https://github.com/SimplioOfficial/simplio-app/commit/abc2410b206b525886b627678f5e2d13f904c0d1) Bug/440 protected guard inside application does... - storkandstars<br>[6993808](https://github.com/SimplioOfficial/simplio-app/commit/69938085b71cd6ad91117020dd7b3a1551291ba2) Task/453 add a placeholder in nft invetory (#454) - storkandstars<br>[a038f43](https://github.com/SimplioOfficial/simplio-app/commit/a038f4321f4cbbb15fa4f7a576a5fe8c3e80dfe5) Merge branch 'master' into infrastructure/addin... - storkandstars</sub> |
 | <sub>2022-12-07 12:29:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69938085b71cd6ad91117020dd7b3a1551291ba2)</sub> | <sub>[6993808](https://github.com/SimplioOfficial/simplio-app/commit/69938085b71cd6ad91117020dd7b3a1551291ba2) Task/453 add a placeholder in nft invetory (#454) - storkandstars</sub> |
-| <sub>2022-12-07 12:27:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abc2410b206b525886b627678f5e2d13f904c0d1)</sub> | <sub>[abc2410](https://github.com/SimplioOfficial/simplio-app/commit/abc2410b206b525886b627678f5e2d13f904c0d1) Bug/440 protected guard inside application does... - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
