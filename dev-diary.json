@@ -74397,5 +74397,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0f71a65b0b2ce00160e88074bf0354516c3505f8"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-08 09:48:50.051000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`faa95e0`](https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0) fixing analyze - storkandstars",
+      "title": "[simplio-app:bug/fixing\\-analyze] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-08 09:49:34.249000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`21bb15c`](https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed) Bug/Fixing analyze (#461) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed"
+    }
   }
 ]
