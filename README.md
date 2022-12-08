@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4150 commits since 10/09/2021. You can see the complete history in
+There is a total of 4151 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-08 10:23:57</sub> | <sub>[[simplio-app:refactor/cached\-gameplay\-webview] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76bf3e41dc1b3f8e9d65dff53fb5232292297b3e)</sub> | <sub>[76bf3e4](https://github.com/SimplioOfficial/simplio-app/commit/76bf3e41dc1b3f8e9d65dff53fb5232292297b3e) turning stateful to stateless gameplay widget - storkandstars</sub> |
 | <sub>2022-12-08 09:49:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed)</sub> | <sub>[21bb15c](https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed) Bug/Fixing analyze (#461) - storkandstars</sub> |
 | <sub>2022-12-08 09:48:50</sub> | <sub>[[simplio-app:bug/fixing\-analyze] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0)</sub> | <sub>[faa95e0](https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0) fixing analyze - storkandstars</sub> |
 | <sub>2022-12-08 09:44:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f71a65b0b2ce00160e88074bf0354516c3505f8)</sub> | <sub>[0f71a65](https://github.com/SimplioOfficial/simplio-app/commit/0f71a65b0b2ce00160e88074bf0354516c3505f8) bug/enabling-gameplay-cache-for-mvp (#460) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4150 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-08 08:22:08</sub> | <sub>[[simplio-app:bug/436\-navigation\-tabs\-is\-not\-stucked\-when\-scroll] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1de994b527c55760d76ce3ba4895c00d476ed675)</sub> | <sub>[1de994b](https://github.com/SimplioOfficial/simplio-app/commit/1de994b527c55760d76ce3ba4895c00d476ed675) 1. Formatted files properly - Tomas Petrik</sub> |
 | <sub>2022-12-07 15:29:55</sub> | <sub>[[simplio-app:bug/436\-navigation\-tabs\-is\-not\-stucked\-when\-scroll] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f222ba213b5fe0a38b15780b4f2ccd0d2e9457a)</sub> | <sub>[1f222ba](https://github.com/SimplioOfficial/simplio-app/commit/1f222ba213b5fe0a38b15780b4f2ccd0d2e9457a) Reverted project.pbxproj - Tomas Petrik</sub> |
 | <sub>2022-12-07 15:27:36</sub> | <sub>[[simplio-app:bug/436\-navigation\-tabs\-is\-not\-stucked\-when\-scroll] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34e10b8269e37fa101753d09536a22cf758e54a5)</sub> | <sub>[34e10b8](https://github.com/SimplioOfficial/simplio-app/commit/34e10b8269e37fa101753d09536a22cf758e54a5) Completed navigation tabs is not stucked when s... - Tomas Petrik</sub> |
-| <sub>2022-12-07 14:11:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3fed981ebe053d23d40803fff4ba5d76578d0442)</sub> | <sub>[3fed981](https://github.com/SimplioOfficial/simplio-app/commit/3fed981ebe053d23d40803fff4ba5d76578d0442) Bug/456 update preview resolution for game deta... - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
