@@ -74325,5 +74325,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/1de994b527c55760d76ce3ba4895c00d476ed675"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-08 09:26:28.124000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`89f2e13`](https://github.com/SimplioOfficial/simplio-app/commit/89f2e1302076ea3e09475f4f4da9622ec145e08f) updating buy nft translation - storkandstars",
+      "title": "[simplio-app:bug/renaming\\-nft\\-action\\-button] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/89f2e1302076ea3e09475f4f4da9622ec145e08f"
+    }
   }
 ]
