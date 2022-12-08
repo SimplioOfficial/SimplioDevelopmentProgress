@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-08 10:52:41</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b096bd15697fd1d98da5f05dd9a25da0464dbfb9)</sub> | <sub>[b096bd1](https://github.com/SimplioOfficial/simplio-app/commit/b096bd15697fd1d98da5f05dd9a25da0464dbfb9) Refactor/Cached gameplay webview (#462) - storkandstars</sub> |
 | <sub>2022-12-08 10:23:57</sub> | <sub>[[simplio-app:refactor/cached\-gameplay\-webview] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76bf3e41dc1b3f8e9d65dff53fb5232292297b3e)</sub> | <sub>[76bf3e4](https://github.com/SimplioOfficial/simplio-app/commit/76bf3e41dc1b3f8e9d65dff53fb5232292297b3e) turning stateful to stateless gameplay widget - storkandstars</sub> |
 | <sub>2022-12-08 09:49:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed)</sub> | <sub>[21bb15c](https://github.com/SimplioOfficial/simplio-app/commit/21bb15c84dfb364a8e22e32f89184ac67e0b78ed) Bug/Fixing analyze (#461) - storkandstars</sub> |
 | <sub>2022-12-08 09:48:50</sub> | <sub>[[simplio-app:bug/fixing\-analyze] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0)</sub> | <sub>[faa95e0](https://github.com/SimplioOfficial/simplio-app/commit/faa95e09c83bdcece8f1d7689b0da1d4ee379ac0) fixing analyze - storkandstars</sub> |
