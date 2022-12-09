@@ -74523,5 +74523,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2555112ad53c...b9d9bb55d67f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-09 08:41:40.872000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`6303ea4`](https://github.com/SimplioOfficial/simplio-app/commit/6303ea428cdce2de8f1ea4dc99d9aa277603eb94) Removed unnecessary LifecycleEventHandler - Tomas Petrik",
+      "title": "[simplio-app:bug/441\\-removed\\-game\\-from\\-my\\-games\\-stays\\-until\\-refreshing\\-the\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6303ea428cdce2de8f1ea4dc99d9aa277603eb94"
+    }
   }
 ]
