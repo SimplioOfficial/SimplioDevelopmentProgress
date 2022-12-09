@@ -74487,5 +74487,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/84fbe085ff27...28de03ef254f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-09 07:20:49.198000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`9bb2b4d`](https://github.com/SimplioOfficial/simplio-app/commit/9bb2b4d0040e80535ca7294a56c6290444a4c300) 1. Remember scroll position, - Tomas Petrik",
+      "title": "[simplio-app:bug/436\\-navigation\\-tabs\\-is\\-not\\-stucked\\-when\\-scroll] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9bb2b4d0040e80535ca7294a56c6290444a4c300"
+    }
   }
 ]
