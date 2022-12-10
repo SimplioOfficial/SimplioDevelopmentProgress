@@ -74595,5 +74595,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/28de03ef254f...e87262e7aa59"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-10 15:02:11.501000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`27edb42`](https://github.com/SimplioOfficial/simplio-app/commit/27edb42d46f0ded84b05a03a3e9069bd8846296e) adding value switch - storkandstars\n[`239908b`](https://github.com/SimplioOfficial/simplio-app/commit/239908bbc8c57503ff42f7ae46d53f57435edae0) adding value form field - storkandstars\n[`7445738`](https://github.com/SimplioOfficial/simplio-app/commit/7445738f881465c1bf1cc1cb8aadddd975feeceb) adding selectable form section - storkandstars\n[`78995e9`](https://github.com/SimplioOfficial/simplio-app/commit/78995e92acf988a453402c4331e8bcd99c931ee5) updating asset swap screen - storkandstars\n[`4ac6365`](https://github.com/SimplioOfficial/simplio-app/commit/4ac6365343e77c6c05ecd291625ca31953e99af5) removing sio switch - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e87262e7aa59...4ac6365343e7"
+    }
   }
 ]
