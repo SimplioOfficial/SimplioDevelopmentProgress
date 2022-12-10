@@ -74577,5 +74577,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9bb2b4d0040e...4c421d23f975"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-10 11:26:01.003000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`001c4c0`](https://github.com/SimplioOfficial/simplio-app/commit/001c4c07ebede9be664654c40a212cad37053fc6) wip - updated sio switcher - storkandstars\n[`e92b66c`](https://github.com/SimplioOfficial/simplio-app/commit/e92b66cd6d9d6e144cb93b7d0bc9d868cf075dba) Completed bug/441-removed-game-from-my-games-st... - TomasPetrik\n[`1158860`](https://github.com/SimplioOfficial/simplio-app/commit/11588605e9640a2fd4b408065a65e60c9f1975e8) Merge branch 'master' into bug/359-malfunctioni... - storkandstars\n[`e87262e`](https://github.com/SimplioOfficial/simplio-app/commit/e87262e7aa594e3c2b790b647664a2465194c7f1) finishing sio switch widget - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/28de03ef254f...e87262e7aa59"
+    }
   }
 ]
