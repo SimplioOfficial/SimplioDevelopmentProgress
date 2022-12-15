@@ -74685,5 +74685,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/dfd61b83fb91...369db3e5d22e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-15 19:35:09.999000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`2643480`](https://github.com/SimplioOfficial/simplio-app/commit/2643480af1ee9b42fb521f36659104e7f3972057) removing unnecessary async function - storkandstars\n[`924b5e5`](https://github.com/SimplioOfficial/simplio-app/commit/924b5e5fd5c5807249cf4c2de97a31864f20d487) renaming expansion list types - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/369db3e5d22e...924b5e5fd5c5"
+    }
   }
 ]
