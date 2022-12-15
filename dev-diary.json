@@ -74703,5 +74703,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/369db3e5d22e...924b5e5fd5c5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-15 20:36:54.899000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5772e12`](https://github.com/SimplioOfficial/simplio-app/commit/5772e1204c39d710db6bbfae079035d005b797eb) blocking selecting the same direction - storkandstars\n[`68a5222`](https://github.com/SimplioOfficial/simplio-app/commit/68a5222adfdb663ad304bae99bab529719a415a5) adding pill button - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/924b5e5fd5c5...68a5222adfdb"
+    }
   }
 ]
