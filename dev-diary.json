@@ -74667,5 +74667,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dfd61b83fb91b670c331d7db2ef28b8d5fd83f5b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-15 19:22:27.215000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c862b48`](https://github.com/SimplioOfficial/simplio-app/commit/c862b487975a3149b930299f8399ecce6690eb57) adding currency text - storkandstars\n[`7c65546`](https://github.com/SimplioOfficial/simplio-app/commit/7c65546c55adc8e08ec2c9a6d9cb84eb01d4066c) exposing enabled asset and network wallets - storkandstars\n[`a9b6e00`](https://github.com/SimplioOfficial/simplio-app/commit/a9b6e0042fa0519f959896728cb072d8d98a6587) optional locale for BigDecimal format output - storkandstars\n[`31c5f47`](https://github.com/SimplioOfficial/simplio-app/commit/31c5f4766cb650333c5e1cf32cb92fc2c8d5a9c9) removing pulse effect on expansion item - storkandstars\n[`b18bfe4`](https://github.com/SimplioOfficial/simplio-app/commit/b18bfe42e2f1f96d47daba41b6aab77d565c95bb) adding todo - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 8 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/dfd61b83fb91...369db3e5d22e"
+    }
   }
 ]
