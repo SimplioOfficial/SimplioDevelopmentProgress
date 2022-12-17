@@ -74721,5 +74721,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/924b5e5fd5c5...68a5222adfdb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-17 22:38:39.719000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7d80223`](https://github.com/SimplioOfficial/simplio-app/commit/7d8022329961eb7326856017aee16fbcf8dafbdd) exposing min amount from service - storkandstars\n[`7cab786`](https://github.com/SimplioOfficial/simplio-app/commit/7cab786556d9bfa24cff675eed7e799c4c21af7f) wip - adding min and max fn - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/68a5222adfdb...7cab786556d9"
+    }
   }
 ]
