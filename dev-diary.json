@@ -74829,5 +74829,59 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/590ef397e1c17dd91673e01735b8ee1b2040f894"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-20 16:36:12.059000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3aa127f`](https://github.com/SimplioOfficial/simplio-app/commit/3aa127f98bf29a9024fbf362907cdf9c0901762f) removing wallet creating popup on tapping on swap - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3aa127f98bf29a9024fbf362907cdf9c0901762f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-20 16:39:02.997000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`697e6c5`](https://github.com/SimplioOfficial/simplio-app/commit/697e6c599c5c2155480a383db7aa4fe7b14b3e39) renaming action type to swap - storkandstars\n[`efd5630`](https://github.com/SimplioOfficial/simplio-app/commit/efd563090db1f0861dbe458d40be3316abf2b4ff) fixing typo - storkandstars\n[`be258dc`](https://github.com/SimplioOfficial/simplio-app/commit/be258dc911fe8ebc7dab4379f857c839a35a6173) removing navigating to buy - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/3aa127f98bf2...be258dc911fe"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-20 16:39:45.112000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d588347`](https://github.com/SimplioOfficial/simplio-app/commit/d5883476fd1810eed41687c921e32825e384bb81) removing unused import - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d5883476fd1810eed41687c921e32825e384bb81"
+    }
   }
 ]
