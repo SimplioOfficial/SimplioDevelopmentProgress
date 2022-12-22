@@ -74937,5 +74937,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/48b07be53d8739cf11e1d2e179a353b29c7730a2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-22 14:56:37.194000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`958991d`](https://github.com/SimplioOfficial/simplio-app/commit/958991d2aa0cdd7c22665941834f68a7fcd93c0e) adding detailed row for summary screens - storkandstars\n[`a863f16`](https://github.com/SimplioOfficial/simplio-app/commit/a863f163b7f996493766266a4301a00a779b3a32) renaming to gradient container - storkandstars\n[`8351bbb`](https://github.com/SimplioOfficial/simplio-app/commit/8351bbbf37eadec15d90c467695977437c11b50f) adding notes - storkandstars\n[`e805b89`](https://github.com/SimplioOfficial/simplio-app/commit/e805b892cdf53c826edf5822cf2caf98d8d7627f) removing exchange cubit provider - storkandstars\n[`e9317a7`](https://github.com/SimplioOfficial/simplio-app/commit/e9317a7a41faf1bd96546dd11cb003d1a45781f4) wip - adding exchange summary content - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 5 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/48b07be53d87...e9317a7a41fa"
+    }
   }
 ]
