@@ -74955,5 +74955,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/48b07be53d87...e9317a7a41fa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-23 12:35:47.073000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ffeb299`](https://github.com/SimplioOfficial/simplio-app/commit/ffeb299618661b447f885aada5f1595ec1539c22) updating translations - storkandstars\n[`23a6c32`](https://github.com/SimplioOfficial/simplio-app/commit/23a6c3250c483924d3fe9fc5e588cad45cdfb064) adding asset swap reload dialog - storkandstars\n[`7d85170`](https://github.com/SimplioOfficial/simplio-app/commit/7d8517031ea0b469ba8068cbdf89227601b58e25) adding todos for current dialog impl - storkandstars\n[`85422d7`](https://github.com/SimplioOfficial/simplio-app/commit/85422d741cb05e7eea0bc654d441b83f2cc7fceb) temporary disabling buy on asset detail screen - storkandstars\n[`06e25af`](https://github.com/SimplioOfficial/simplio-app/commit/06e25afa09f33930a82728985ce7b60a71ec9975) adding highlighted text - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9317a7a41fa...ef41e7f1876c"
+    }
   }
 ]
