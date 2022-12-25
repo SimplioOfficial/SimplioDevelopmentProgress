@@ -74973,5 +74973,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e9317a7a41fa...ef41e7f1876c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-25 12:31:19.145000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`2803af6`](https://github.com/SimplioOfficial/simplio-app/commit/2803af66c53c9aedad8daef809eaf17af6ee394f) adding swipe-to-action button - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2803af66c53c9aedad8daef809eaf17af6ee394f"
+    }
   }
 ]
