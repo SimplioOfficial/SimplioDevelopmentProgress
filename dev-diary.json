@@ -74991,5 +74991,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2803af66c53c9aedad8daef809eaf17af6ee394f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-25 20:56:26.353000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`bec8670`](https://github.com/SimplioOfficial/simplio-app/commit/bec867038037721b65d10dcdf184a3e26ec7cbea) updating gradient container color - storkandstars\n[`1490c11`](https://github.com/SimplioOfficial/simplio-app/commit/1490c11eacf1a18ae6c6bc4efb64b6d8f8f8e742) adding button types to highlighted elevated button - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2803af66c53c...1490c11eacf1"
+    }
   }
 ]
