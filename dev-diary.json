@@ -75063,5 +75063,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/a7136c96bf8d...4a0cd3578b27"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-26 11:29:48.827000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a4948a5`](https://github.com/SimplioOfficial/simplio-app/commit/a4948a5322ffafd540ec2c1c1b833bc7a2cab030) removing unused toggle - storkandstars\n[`b8bed4a`](https://github.com/SimplioOfficial/simplio-app/commit/b8bed4a34db8e367f2f7ba14b44614be6e2f2fc0) removing unused swipe up button - storkandstars\n[`ea86314`](https://github.com/SimplioOfficial/simplio-app/commit/ea86314a6b74ea2450ed78000a702f7889c690e3) refactoring screen titles with highlighted text - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4a0cd3578b27...ea86314a6b74"
+    }
   }
 ]
