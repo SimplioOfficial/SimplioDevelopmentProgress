@@ -75045,5 +75045,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/df5c3d35d505...a7136c96bf8d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-26 09:57:10.927000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`da57249`](https://github.com/SimplioOfficial/simplio-app/commit/da57249b60a47a38d3614f122b9ffff2bf94a011) removing mvp buy - storkandstars\n[`7a4343f`](https://github.com/SimplioOfficial/simplio-app/commit/7a4343f2fd3d699d8e7822a774fa9ba62ef76422) adding note to remove swipe button - storkandstars\n[`14477a5`](https://github.com/SimplioOfficial/simplio-app/commit/14477a55375507354a157bd96af017bb88d7092f) moving highlighted button to button folder - storkandstars\n[`50c8a77`](https://github.com/SimplioOfficial/simplio-app/commit/50c8a772ab28453eff3620ef3a8e35ade0e29e91) adding a note to refactor an existing dialog - storkandstars\n[`23fe149`](https://github.com/SimplioOfficial/simplio-app/commit/23fe14930eba96878525851f4d9e05671f375902) adding todos - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a7136c96bf8d...4a0cd3578b27"
+    }
   }
 ]
