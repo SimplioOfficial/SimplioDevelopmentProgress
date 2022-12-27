@@ -75171,5 +75171,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/38e20a5778dc6d733a19860029cee33c862fac30"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 14:10:12.598000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`27e0dac`](https://github.com/SimplioOfficial/simplio-app/commit/27e0dac7fc11cecd7c15d1827466335004b4908f) adding bigdecimal updater mixin - storkandstars\n[`96f0788`](https://github.com/SimplioOfficial/simplio-app/commit/96f0788235d38bab265cca803399b66b7697951d) removing named builder constructor - storkandstars\n[`72b2605`](https://github.com/SimplioOfficial/simplio-app/commit/72b2605c510e7ab39d73d11917e352198a89c241) moving validators in qr code scanner - storkandstars\n[`6f3c5ec`](https://github.com/SimplioOfficial/simplio-app/commit/6f3c5ec0a81946460e5a22d47a3efc2dbdff0591) moving mixins to view layer - storkandstars\n[`cb8c553`](https://github.com/SimplioOfficial/simplio-app/commit/cb8c553bbcec77dc8fb7a0e36430461cce34ae01) removing unused formatter - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/38e20a5778dc...91454c82ea15"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 14:11:34.991000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`64b8817`](https://github.com/SimplioOfficial/simplio-app/commit/64b881705079abb04b870752eec3218a0b2383d4) adding wallet address validator - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/64b881705079abb04b870752eec3218a0b2383d4"
+    }
   }
 ]
