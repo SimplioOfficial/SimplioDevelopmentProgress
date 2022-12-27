@@ -75207,5 +75207,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/64b881705079abb04b870752eec3218a0b2383d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 14:35:05.994000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`e9c41ff`](https://github.com/SimplioOfficial/simplio-app/commit/e9c41ff980fb28fa449315ba9bf74c8e28594059) renaming send and swap screens - storkandstars\n[`cc59011`](https://github.com/SimplioOfficial/simplio-app/commit/cc590116122f1d280e13a939e09e7da02d7b1eeb) adding validation error on logic layer - storkandstars\n[`0c4d247`](https://github.com/SimplioOfficial/simplio-app/commit/0c4d2474f494ec86c958eefca9dc7f34095b0a48) wip - send form validation - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/64b881705079...0c4d2474f494"
+    }
   }
 ]
