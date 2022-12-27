@@ -75261,5 +75261,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a5f3935b7dda79f1b73c865350e182b3fe375f41"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 18:57:54.146000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7a7ee6d`](https://github.com/SimplioOfficial/simplio-app/commit/7a7ee6db3d4eafe46bf063da93d9bd963ee63ffb) refactoring asset wallet balance widget - storkandstars\n[`a8b2c47`](https://github.com/SimplioOfficial/simplio-app/commit/a8b2c47c60b1f9ec1fd4b080fd83b557f6d5c7bd) adding todo - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a5f3935b7dda...a8b2c47c60b1"
+    }
   }
 ]
