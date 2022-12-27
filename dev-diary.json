@@ -75279,5 +75279,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/a5f3935b7dda...a8b2c47c60b1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 23:04:13.962000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9fcce56`](https://github.com/SimplioOfficial/simplio-app/commit/9fcce561518a97c8fe50c100e393089e96b88403) adding todo - storkandstars\n[`3cc34bf`](https://github.com/SimplioOfficial/simplio-app/commit/3cc34bfa1b6722334b61c0c421c0f65cd631aeff) updating translations - storkandstars\n[`6a3f76c`](https://github.com/SimplioOfficial/simplio-app/commit/6a3f76c548345ad811620875b3dfaa62850645f8) updating podfile - storkandstars\n[`9bca1ac`](https://github.com/SimplioOfficial/simplio-app/commit/9bca1ac6cb5e1f71903096b9050582cc635caf15) allowing detail row have a child widget - storkandstars\n[`c707a34`](https://github.com/SimplioOfficial/simplio-app/commit/c707a34850d70245454915125368cc4d4dc4d40b) extending gradient button styling - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 14 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/a8b2c47c60b1...c1f48bae06ae"
+    }
   }
 ]
