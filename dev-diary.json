@@ -75225,5 +75225,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/64b881705079...0c4d2474f494"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 17:55:17.907000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`fa1e759`](https://github.com/SimplioOfficial/simplio-app/commit/fa1e759d470a4122a1dc71c44b4f61e7db670884) adding gradient button - storkandstars\n[`fac8fc7`](https://github.com/SimplioOfficial/simplio-app/commit/fac8fc7510301ba35c9cfad583389883fb26198d) fixing validation - storkandstars\n[`62505e0`](https://github.com/SimplioOfficial/simplio-app/commit/62505e05403a142d617817711e147c412765e557) adding requesting max value - storkandstars\n[`9419bb3`](https://github.com/SimplioOfficial/simplio-app/commit/9419bb324a739a1cfa2a43a6dab74e896c1f7974) adding switching currency type - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0c4d2474f494...9419bb324a73"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 17:56:37.714000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a5f3935`](https://github.com/SimplioOfficial/simplio-app/commit/a5f3935b7dda79f1b73c865350e182b3fe375f41) changing source network wallet - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a5f3935b7dda79f1b73c865350e182b3fe375f41"
+    }
   }
 ]
