@@ -75099,5 +75099,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/da787760e63176c43398fff414741e454fd52347"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-27 00:09:47.509000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`688078f`](https://github.com/SimplioOfficial/simplio-app/commit/688078f1fcee2371cec250fa2d6d9134689351bb) removing success page - storkandstars\n[`2c4eccd`](https://github.com/SimplioOfficial/simplio-app/commit/2c4eccd5a8a80dfe319c7bc79c5122ebd5367b4b) removing double extensions - storkandstars\n[`c1e2700`](https://github.com/SimplioOfficial/simplio-app/commit/c1e27003f5e2fefa23c4037f1dcaf5df3ce9481d) removing mvp sending - storkandstars\n[`81c7735`](https://github.com/SimplioOfficial/simplio-app/commit/81c77358330cabb0c7124a36b7db9c03ca2093aa) moving locales to assets - storkandstars\n[`2757f8b`](https://github.com/SimplioOfficial/simplio-app/commit/2757f8bd2892e00722e52662730368ef969d4bd0) removing mvp send cubit - storkandstars",
+      "title": "[simplio-app:bug/359\\-malfunctioning\\-exchange\\-form] 6 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/da787760e631...6019cd17d25c"
+    }
   }
 ]
