@@ -75351,5 +75351,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/5fdc15d44dd6174d44a0911da830234683a5b47e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-29 12:41:48.717000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`81abcfe`](https://github.com/SimplioOfficial/simplio-app/commit/81abcfecd9d741e1c31dbf17886fd0e2afc4034c) sorting screens based on application type - storkandstars",
+      "title": "[simplio-app:infrastructure/upgrade\\-packages\\-12\\-22] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/81abcfecd9d741e1c31dbf17886fd0e2afc4034c"
+    }
   }
 ]
