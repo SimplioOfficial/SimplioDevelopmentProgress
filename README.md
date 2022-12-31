@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4209 commits since 10/09/2021. You can see the complete history in
+There is a total of 4210 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-31 12:09:35</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/de4e20f57a39...c4a17b28ff86)</sub> | <sub>[7490d6b](https://github.com/SimplioOfficial/simplio-app/commit/7490d6bc0224b701e7e7e859bb4d8f975dcb21eb) renaming make steps - storkandstars<br>[c4a17b2](https://github.com/SimplioOfficial/simplio-app/commit/c4a17b28ff86f208a064b8cba32825a60698b0b8) solidify wallet model - storkandstars</sub> |
 | <sub>2022-12-31 11:05:14</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3d5e08eeb381^...de4e20f57a39)</sub> | <sub>[3d5e08e](https://github.com/SimplioOfficial/simplio-app/commit/3d5e08eeb381baaa067aafc89ac3383729a37e93) reorganizing data layer files - storkandstars<br>[6ae410c](https://github.com/SimplioOfficial/simplio-app/commit/6ae410cd171c3ac94864166acf73cd2d3c019ef4) adding test step to makefile - storkandstars<br>[de4e20f](https://github.com/SimplioOfficial/simplio-app/commit/de4e20f57a3944b9ae0c6d53ee6367d427d2d46d) reordering make file - storkandstars</sub> |
 | <sub>2022-12-29 18:31:31</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/328e9bc37b83...9a12953f90a4)</sub> | <sub>[75cf2e9](https://github.com/SimplioOfficial/simplio-app/commit/75cf2e93c7036b9240269ed6512e92e596f4d96a) moving set paths to upper navigator - storkandstars<br>[9a12953](https://github.com/SimplioOfficial/simplio-app/commit/9a12953f90a49851253f372bc05c38764f7f20cd) adding todo - storkandstars</sub> |
 | <sub>2022-12-29 14:22:17</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/328e9bc37b83bf67f84aa357c5e898cc1ffe926e)</sub> | <sub>[328e9bc](https://github.com/SimplioOfficial/simplio-app/commit/328e9bc37b83bf67f84aa357c5e898cc1ffe926e) switching navigator parents - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4209 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-29 12:58:05</sub> | <sub>[[simplio-app:infrastructure/upgrade\-packages\-12\-22] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d86b9ee08cd4efd7992c24e54666c066f3a0cfba)</sub> | <sub>[d86b9ee](https://github.com/SimplioOfficial/simplio-app/commit/d86b9ee08cd4efd7992c24e54666c066f3a0cfba) removing unused code - storkandstars</sub> |
 | <sub>2022-12-29 12:41:48</sub> | <sub>[[simplio-app:infrastructure/upgrade\-packages\-12\-22] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81abcfecd9d741e1c31dbf17886fd0e2afc4034c)</sub> | <sub>[81abcfe](https://github.com/SimplioOfficial/simplio-app/commit/81abcfecd9d741e1c31dbf17886fd0e2afc4034c) sorting screens based on application type - storkandstars</sub> |
 | <sub>2022-12-29 12:05:54</sub> | <sub>[[simplio-app:infrastructure/upgrade\-packages\-12\-22] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5fdc15d44dd6174d44a0911da830234683a5b47e)</sub> | <sub>[5fdc15d](https://github.com/SimplioOfficial/simplio-app/commit/5fdc15d44dd6174d44a0911da830234683a5b47e) adding todo for dialog mixin - storkandstars</sub> |
-| <sub>2022-12-29 11:57:12</sub> | <sub>[[simplio-app:infrastructure/upgrade\-packages\-12\-22] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/42d22bd14cbdaa898068b4e95cd945dad7a0c367)</sub> | <sub>[42d22bd](https://github.com/SimplioOfficial/simplio-app/commit/42d22bd14cbdaa898068b4e95cd945dad7a0c367) adding wallet connect qr scanner route - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
