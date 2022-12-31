@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4213 commits since 10/09/2021. You can see the complete history in
+There is a total of 4214 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2022-12-31 13:30:09</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/392118333ff74f82f78dbf0edfe6f073a1795d03)</sub> | <sub>[3921183](https://github.com/SimplioOfficial/simplio-app/commit/392118333ff74f82f78dbf0edfe6f073a1795d03) setting milliseconds instead of microseconds - storkandstars</sub> |
 | <sub>2022-12-31 13:22:26</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/80aed38e897e3a18842d19f616b79bc602d3ad1c)</sub> | <sub>[80aed38](https://github.com/SimplioOfficial/simplio-app/commit/80aed38e897e3a18842d19f616b79bc602d3ad1c) adding balance in equality - storkandstars</sub> |
 | <sub>2022-12-31 12:12:30</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aefe16eab8490cb5f3c3b23d9e70fffcbc63e6be)</sub> | <sub>[aefe16e](https://github.com/SimplioOfficial/simplio-app/commit/aefe16eab8490cb5f3c3b23d9e70fffcbc63e6be) updating id type - storkandstars</sub> |
 | <sub>2022-12-31 12:11:19</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc8f4e4a864bfcdf685863faa200f5b7c714302b)</sub> | <sub>[bc8f4e4](https://github.com/SimplioOfficial/simplio-app/commit/bc8f4e4a864bfcdf685863faa200f5b7c714302b) removing unused method - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4213 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-29 14:22:17</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/328e9bc37b83bf67f84aa357c5e898cc1ffe926e)</sub> | <sub>[328e9bc](https://github.com/SimplioOfficial/simplio-app/commit/328e9bc37b83bf67f84aa357c5e898cc1ffe926e) switching navigator parents - storkandstars</sub> |
 | <sub>2022-12-29 14:07:51</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/599c78e8ce89...147ac832d3a4)</sub> | <sub>[c010e37](https://github.com/SimplioOfficial/simplio-app/commit/c010e377c31255c75fcfec93337ac9e03df097db) removing unused mixin - storkandstars<br>[147ac83](https://github.com/SimplioOfficial/simplio-app/commit/147ac832d3a42adffc6d3d2e00fac83c0e312829) adding todo - storkandstars</sub> |
 | <sub>2022-12-29 13:52:04</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/599c78e8ce89d06b10dfdb3965d5637028e5ee38)</sub> | <sub>[599c78e](https://github.com/SimplioOfficial/simplio-app/commit/599c78e8ce89d06b10dfdb3965d5637028e5ee38) removing unused widgets - storkandstars</sub> |
-| <sub>2022-12-29 13:19:36</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/312deeaa43451124c7a30b57e74ddb09d037d982)</sub> | <sub>[312deea](https://github.com/SimplioOfficial/simplio-app/commit/312deeaa43451124c7a30b57e74ddb09d037d982) Infrastructure/upgrade packages 12 22 (#465) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
