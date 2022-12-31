@@ -75549,5 +75549,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/aefe16eab8490cb5f3c3b23d9e70fffcbc63e6be"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2022-12-31 13:22:26.708000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`80aed38`](https://github.com/SimplioOfficial/simplio-app/commit/80aed38e897e3a18842d19f616b79bc602d3ad1c) adding balance in equality - storkandstars",
+      "title": "[simplio-app:refactor/restructuring\\-data\\-layer] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/80aed38e897e3a18842d19f616b79bc602d3ad1c"
+    }
   }
 ]
