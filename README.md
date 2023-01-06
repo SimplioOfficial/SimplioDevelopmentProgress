@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4218 commits since 10/09/2021. You can see the complete history in
+There is a total of 4219 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-06 16:17:00</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/9be29cf0ca00b4cf29cc008ef7cb4cdd7b999844)</sub> | <sub>[9be29cf](https://github.com/SimplioOfficial/sio_big_decimal/commit/9be29cf0ca00b4cf29cc008ef7cb4cdd7b999844) ci: remove coverage bug - ciripel</sub> |
 | <sub>2023-01-06 16:13:55</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.0](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-01-06 16:09:27</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/c540a22dac4c4ef26a32bde49b0dece1405c6a6a)</sub> | <sub>[c540a22](https://github.com/SimplioOfficial/sio_big_decimal/commit/c540a22dac4c4ef26a32bde49b0dece1405c6a6a) init repo - ciripel</sub> |
 | <sub>2023-01-02 12:39:54</sub> | <sub>[[simplio-app:bug/359\-malfunctioning\-exchange\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98ee5af8e9c7c6be459120bae6e7959ed0b411da)</sub> | <sub>[98ee5af](https://github.com/SimplioOfficial/simplio-app/commit/98ee5af8e9c7c6be459120bae6e7959ed0b411da) adding todo - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4218 commits since 10/09/2021. You can see the complete hist
 | <sub>2022-12-31 12:12:30</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aefe16eab8490cb5f3c3b23d9e70fffcbc63e6be)</sub> | <sub>[aefe16e](https://github.com/SimplioOfficial/simplio-app/commit/aefe16eab8490cb5f3c3b23d9e70fffcbc63e6be) updating id type - storkandstars</sub> |
 | <sub>2022-12-31 12:11:19</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc8f4e4a864bfcdf685863faa200f5b7c714302b)</sub> | <sub>[bc8f4e4](https://github.com/SimplioOfficial/simplio-app/commit/bc8f4e4a864bfcdf685863faa200f5b7c714302b) removing unused method - storkandstars</sub> |
 | <sub>2022-12-31 12:09:35</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/de4e20f57a39...c4a17b28ff86)</sub> | <sub>[7490d6b](https://github.com/SimplioOfficial/simplio-app/commit/7490d6bc0224b701e7e7e859bb4d8f975dcb21eb) renaming make steps - storkandstars<br>[c4a17b2](https://github.com/SimplioOfficial/simplio-app/commit/c4a17b28ff86f208a064b8cba32825a60698b0b8) solidify wallet model - storkandstars</sub> |
-| <sub>2022-12-31 11:05:14</sub> | <sub>[[simplio-app:refactor/restructuring\-data\-layer] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3d5e08eeb381^...de4e20f57a39)</sub> | <sub>[3d5e08e](https://github.com/SimplioOfficial/simplio-app/commit/3d5e08eeb381baaa067aafc89ac3383729a37e93) reorganizing data layer files - storkandstars<br>[6ae410c](https://github.com/SimplioOfficial/simplio-app/commit/6ae410cd171c3ac94864166acf73cd2d3c019ef4) adding test step to makefile - storkandstars<br>[de4e20f](https://github.com/SimplioOfficial/simplio-app/commit/de4e20f57a3944b9ae0c6d53ee6367d427d2d46d) reordering make file - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
