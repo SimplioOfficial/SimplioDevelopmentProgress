@@ -75673,5 +75673,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/9be29cf0ca00b4cf29cc008ef7cb4cdd7b999844"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-10 09:45:09.785000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`015d8cb`](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8) Removed API_KEY and removed api_key_interceptor... - Tomas Petrik",
+      "title": "[simplio-app:task/changed\\-mvp\\-env] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8"
+    }
   }
 ]
