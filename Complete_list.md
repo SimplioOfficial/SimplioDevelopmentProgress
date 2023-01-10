@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-10 10:18:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08)</sub> | <sub>[a2b74b2](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08) Removed API_KEY and removed api_key_interceptor... - TomasPetrik</sub> |
 | <sub>2023-01-10 09:45:09</sub> | <sub>[[simplio-app:task/changed\-mvp\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8)</sub> | <sub>[015d8cb](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8) Removed API_KEY and removed api_key_interceptor... - Tomas Petrik</sub> |
 | <sub>2023-01-06 16:17:00</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/9be29cf0ca00b4cf29cc008ef7cb4cdd7b999844)</sub> | <sub>[9be29cf](https://github.com/SimplioOfficial/sio_big_decimal/commit/9be29cf0ca00b4cf29cc008ef7cb4cdd7b999844) ci: remove coverage bug - ciripel</sub> |
 | <sub>2023-01-06 16:13:55</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.0](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.0)</sub> | <sub>_No Commits_</sub> |
