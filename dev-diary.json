@@ -75727,5 +75727,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0460bc3ec5e4121d65c40dfaeeaa7d6a4712098c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-10 14:35:39.816000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`baef252`](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787) update gemfile.lock (#472) - ciripel",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787"
+    }
   }
 ]

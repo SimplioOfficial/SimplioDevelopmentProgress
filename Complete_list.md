@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-10 14:35:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787)</sub> | <sub>[baef252](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787) update gemfile.lock (#472) - ciripel</sub> |
 | <sub>2023-01-10 14:34:27</sub> | <sub>[[simplio-app:ci/gem\_bundler\_upgrade] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0460bc3ec5e4121d65c40dfaeeaa7d6a4712098c)</sub> | <sub>[0460bc3](https://github.com/SimplioOfficial/simplio-app/commit/0460bc3ec5e4121d65c40dfaeeaa7d6a4712098c) update gemfile.lock - ciripel</sub> |
 | <sub>2023-01-10 10:18:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08)</sub> | <sub>[a2b74b2](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08) Removed API_KEY and removed api_key_interceptor... - TomasPetrik</sub> |
 | <sub>2023-01-10 09:45:09</sub> | <sub>[[simplio-app:task/changed\-mvp\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8)</sub> | <sub>[015d8cb](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8) Removed API_KEY and removed api_key_interceptor... - Tomas Petrik</sub> |
