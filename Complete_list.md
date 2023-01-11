@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-11 11:55:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c20a6c44481570bd169d45529c2cd47c29c6ed22)</sub> | <sub>[c20a6c4](https://github.com/SimplioOfficial/simplio-app/commit/c20a6c44481570bd169d45529c2cd47c29c6ed22) Refactor/initial code review after mvp (#379) - storkandstars</sub> |
 | <sub>2023-01-11 11:10:59</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8)</sub> | <sub>[b4f6eac](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8) bug: fix _publish_android.yml (#474) - ciripel</sub> |
 | <sub>2023-01-11 11:10:30</sub> | <sub>[[simplio-app:ci/bug\-give\-write\-perminsions\-to\-android\-build\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb)</sub> | <sub>[97a3ee0](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb) bug: fix _publish_android.yml - ciripel</sub> |
 | <sub>2023-01-10 14:35:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787)</sub> | <sub>[baef252](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787) update gemfile.lock (#472) - ciripel</sub> |
