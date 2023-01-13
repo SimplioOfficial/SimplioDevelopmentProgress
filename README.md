@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4230 commits since 10/09/2021. You can see the complete history in
+There is a total of 4232 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-13 15:06:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737)</sub> | <sub>[0202925](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737) Refactor/468 add coin to inventory on discovery... - TomasPetrik</sub> |
+| <sub>2023-01-13 15:05:20</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b)</sub> | <sub>[58fa9cd](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b) Renamed onPressed to onTap - Tomas Petrik</sub> |
 | <sub>2023-01-13 14:39:09</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a64e47f8c4b5ce8c3e48df2e1b1acd475603f08e)</sub> | <sub>[a64e47f](https://github.com/SimplioOfficial/simplio-app/commit/a64e47f8c4b5ce8c3e48df2e1b1acd475603f08e) Formatted files to be using 80 character long l... - Tomas Petrik</sub> |
 | <sub>2023-01-13 13:07:11</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0c5fef34584503f01a08b782997fd7e68e7137c)</sub> | <sub>[b0c5fef](https://github.com/SimplioOfficial/simplio-app/commit/b0c5fef34584503f01a08b782997fd7e68e7137c) Updated bottom sheet opening - it wont be using... - Tomas Petrik</sub> |
 | <sub>2023-01-13 10:51:27</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1285e2009b629e033237b0acb1144ec0685a0005)</sub> | <sub>[1285e20](https://github.com/SimplioOfficial/simplio-app/commit/1285e2009b629e033237b0acb1144ec0685a0005) 1. Fixed 468 - Add coin to inventory on Discove... - Tomas Petrik</sub> |
@@ -16,7 +18,5 @@ There is a total of 4230 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-11 11:10:59</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8)</sub> | <sub>[b4f6eac](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8) bug: fix _publish_android.yml (#474) - ciripel</sub> |
 | <sub>2023-01-11 11:10:30</sub> | <sub>[[simplio-app:ci/bug\-give\-write\-perminsions\-to\-android\-build\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb)</sub> | <sub>[97a3ee0](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb) bug: fix _publish_android.yml - ciripel</sub> |
 | <sub>2023-01-10 14:35:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787)</sub> | <sub>[baef252](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787) update gemfile.lock (#472) - ciripel</sub> |
-| <sub>2023-01-10 14:34:27</sub> | <sub>[[simplio-app:ci/gem\_bundler\_upgrade] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0460bc3ec5e4121d65c40dfaeeaa7d6a4712098c)</sub> | <sub>[0460bc3](https://github.com/SimplioOfficial/simplio-app/commit/0460bc3ec5e4121d65c40dfaeeaa7d6a4712098c) update gemfile.lock - ciripel</sub> |
-| <sub>2023-01-10 10:18:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08)</sub> | <sub>[a2b74b2](https://github.com/SimplioOfficial/simplio-app/commit/a2b74b2d25a3896ccc196a14268c43c58e4fdb08) Removed API_KEY and removed api_key_interceptor... - TomasPetrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

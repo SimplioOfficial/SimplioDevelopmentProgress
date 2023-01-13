@@ -75871,5 +75871,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a64e47f8c4b5ce8c3e48df2e1b1acd475603f08e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-13 15:05:20.489000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`58fa9cd`](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b) Renamed onPressed to onTap - Tomas Petrik",
+      "title": "[simplio-app:refactor/468\\-add\\-coin\\-to\\-inventory\\-on\\-discovery\\-screen\\-doent\\-work] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-13 15:06:22.903000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`0202925`](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737) Refactor/468 add coin to inventory on discovery... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737"
+    }
   }
 ]
