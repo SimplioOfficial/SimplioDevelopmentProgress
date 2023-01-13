@@ -75817,5 +75817,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e6d21199b0f0^...96c099b7cf17"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-13 10:51:27.406000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1285e20`](https://github.com/SimplioOfficial/simplio-app/commit/1285e2009b629e033237b0acb1144ec0685a0005) 1. Fixed 468 - Add coin to inventory on Discove... - Tomas Petrik",
+      "title": "[simplio-app:refactor/468\\-add\\-coin\\-to\\-inventory\\-on\\-discovery\\-screen\\-doent\\-work] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1285e2009b629e033237b0acb1144ec0685a0005"
+    }
   }
 ]
