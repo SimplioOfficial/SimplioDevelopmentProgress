@@ -75799,5 +75799,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c20a6c44481570bd169d45529c2cd47c29c6ed22"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-13 10:48:43.319000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`e6d2119`](https://github.com/SimplioOfficial/simplio-app/commit/e6d21199b0f0510ef1f3898673ef4f98dc07fa7a) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik\n[`96c099b`](https://github.com/SimplioOfficial/simplio-app/commit/96c099b7cf1752d7b35cb0afbb56c928b7ddb71b) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik",
+      "title": "[simplio-app:refactor/468\\-add\\-coin\\-to\\-inventory\\-on\\-discovery\\-screen\\-doent\\-work] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e6d21199b0f0^...96c099b7cf17"
+    }
   }
 ]
