@@ -75925,5 +75925,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-16 09:54:35.937000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`604f775`](https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d) replaced android keys - ciripel",
+      "title": "[simplio-app:ci/test\\-apps\\-in\\-google\\-and\\-appstore] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d"
+    }
   }
 ]
