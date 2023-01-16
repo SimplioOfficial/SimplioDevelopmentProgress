@@ -75943,5 +75943,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-16 09:56:28.012000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`95cfed4`](https://github.com/SimplioOfficial/simplio-app/commit/95cfed4a28b25ef15f6ecde2ddb0014bf98fb026) Ci/test apps in google and appstore (#480) - ciripel",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/95cfed4a28b25ef15f6ecde2ddb0014bf98fb026"
+    }
   }
 ]
