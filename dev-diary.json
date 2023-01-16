@@ -75907,5 +75907,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-16 09:45:41.723000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`977d5d2`](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3) change app ids in stores - ciripel",
+      "title": "[simplio-app:ci/test\\-apps\\-in\\-google\\-and\\-appstore] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3"
+    }
   }
 ]

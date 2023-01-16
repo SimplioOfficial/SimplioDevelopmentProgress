@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4232 commits since 10/09/2021. You can see the complete history in
+There is a total of 4233 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-16 09:45:41</sub> | <sub>[[simplio-app:ci/test\-apps\-in\-google\-and\-appstore] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3)</sub> | <sub>[977d5d2](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3) change app ids in stores - ciripel</sub> |
 | <sub>2023-01-13 15:06:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737)</sub> | <sub>[0202925](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737) Refactor/468 add coin to inventory on discovery... - TomasPetrik</sub> |
 | <sub>2023-01-13 15:05:20</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b)</sub> | <sub>[58fa9cd](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b) Renamed onPressed to onTap - Tomas Petrik</sub> |
 | <sub>2023-01-13 14:39:09</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a64e47f8c4b5ce8c3e48df2e1b1acd475603f08e)</sub> | <sub>[a64e47f](https://github.com/SimplioOfficial/simplio-app/commit/a64e47f8c4b5ce8c3e48df2e1b1acd475603f08e) Formatted files to be using 80 character long l... - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4232 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-11 11:55:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c20a6c44481570bd169d45529c2cd47c29c6ed22)</sub> | <sub>[c20a6c4](https://github.com/SimplioOfficial/simplio-app/commit/c20a6c44481570bd169d45529c2cd47c29c6ed22) Refactor/initial code review after mvp (#379) - storkandstars</sub> |
 | <sub>2023-01-11 11:10:59</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8)</sub> | <sub>[b4f6eac](https://github.com/SimplioOfficial/simplio-app/commit/b4f6eacc62fb27d2bf58884720328fc527bb45a8) bug: fix _publish_android.yml (#474) - ciripel</sub> |
 | <sub>2023-01-11 11:10:30</sub> | <sub>[[simplio-app:ci/bug\-give\-write\-perminsions\-to\-android\-build\-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb)</sub> | <sub>[97a3ee0](https://github.com/SimplioOfficial/simplio-app/commit/97a3ee04dae45bca2bb9fc2a8aaf6823fbaaf2eb) bug: fix _publish_android.yml - ciripel</sub> |
-| <sub>2023-01-10 14:35:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787)</sub> | <sub>[baef252](https://github.com/SimplioOfficial/simplio-app/commit/baef25253184ff9cc004ad2cf3a4d7c91f8bc787) update gemfile.lock (#472) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
