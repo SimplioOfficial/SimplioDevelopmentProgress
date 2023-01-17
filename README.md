@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4240 commits since 10/09/2021. You can see the complete history in
+There is a total of 4241 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-17 15:13:33</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18)</sub> | <sub>[6f625af](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18) Defined new bundle identifiers for app store re... - Tomas Petrik</sub> |
 | <sub>2023-01-17 09:18:13</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-01-17 09:15:21</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3)</sub> | <sub>[b99e17d](https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3) fix: Changed intl dependency version to ^0.17.0 - ciripel</sub> |
 | <sub>2023-01-17 08:46:20</sub> | <sub>[[simplio-app:bug/477\-button\-is\-not\-updated\-after\-asset\-is\-removed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e308a000026587ee0dbbc7cecf4a812bdb9c13a)</sub> | <sub>[3e308a0](https://github.com/SimplioOfficial/simplio-app/commit/3e308a000026587ee0dbbc7cecf4a812bdb9c13a) Fixed: Button is not updated after asset is rem... - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4240 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-16 09:54:35</sub> | <sub>[[simplio-app:ci/test\-apps\-in\-google\-and\-appstore] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d)</sub> | <sub>[604f775](https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d) replaced android keys - ciripel</sub> |
 | <sub>2023-01-16 09:45:41</sub> | <sub>[[simplio-app:ci/test\-apps\-in\-google\-and\-appstore] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3)</sub> | <sub>[977d5d2](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3) change app ids in stores - ciripel</sub> |
 | <sub>2023-01-13 15:06:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737)</sub> | <sub>[0202925](https://github.com/SimplioOfficial/simplio-app/commit/02029254dda2472f162cda07a2b7561ab5c2b737) Refactor/468 add coin to inventory on discovery... - TomasPetrik</sub> |
-| <sub>2023-01-13 15:05:20</sub> | <sub>[[simplio-app:refactor/468\-add\-coin\-to\-inventory\-on\-discovery\-screen\-doent\-work] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b)</sub> | <sub>[58fa9cd](https://github.com/SimplioOfficial/simplio-app/commit/58fa9cd3d3d0dd250a73d7db0fb88c7958f9730b) Renamed onPressed to onTap - Tomas Petrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

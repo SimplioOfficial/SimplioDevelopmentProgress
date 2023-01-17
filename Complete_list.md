@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-17 15:13:33</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18)</sub> | <sub>[6f625af](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18) Defined new bundle identifiers for app store re... - Tomas Petrik</sub> |
 | <sub>2023-01-17 09:18:13</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-01-17 09:15:21</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3)</sub> | <sub>[b99e17d](https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3) fix: Changed intl dependency version to ^0.17.0 - ciripel</sub> |
 | <sub>2023-01-17 08:46:20</sub> | <sub>[[simplio-app:bug/477\-button\-is\-not\-updated\-after\-asset\-is\-removed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3e308a000026587ee0dbbc7cecf4a812bdb9c13a)</sub> | <sub>[3e308a0](https://github.com/SimplioOfficial/simplio-app/commit/3e308a000026587ee0dbbc7cecf4a812bdb9c13a) Fixed: Button is not updated after asset is rem... - Tomas Petrik</sub> |
