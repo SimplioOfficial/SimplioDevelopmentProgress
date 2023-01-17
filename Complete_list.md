@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-17 15:34:47</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef)</sub> | <sub>[66609dd](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef) updated android fastlanes and build.gradle - ciripel</sub> |
 | <sub>2023-01-17 15:21:35</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe)</sub> | <sub>[37f3164](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe) chore: updated gemfile.lock - ciripel</sub> |
 | <sub>2023-01-17 15:13:33</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18)</sub> | <sub>[6f625af](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18) Defined new bundle identifiers for app store re... - Tomas Petrik</sub> |
 | <sub>2023-01-17 09:18:13</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1)</sub> | <sub>_No Commits_</sub> |

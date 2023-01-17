@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4242 commits since 10/09/2021. You can see the complete history in
+There is a total of 4243 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-17 15:34:47</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef)</sub> | <sub>[66609dd](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef) updated android fastlanes and build.gradle - ciripel</sub> |
 | <sub>2023-01-17 15:21:35</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe)</sub> | <sub>[37f3164](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe) chore: updated gemfile.lock - ciripel</sub> |
 | <sub>2023-01-17 15:13:33</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18)</sub> | <sub>[6f625af](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18) Defined new bundle identifiers for app store re... - Tomas Petrik</sub> |
 | <sub>2023-01-17 09:18:13</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4242 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-17 07:55:02</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/015d8cbfd090^...d3909837f463)</sub> | <sub>[015d8cb](https://github.com/SimplioOfficial/simplio-app/commit/015d8cbfd09043749eb70deea569ec9254ab99a8) Removed API_KEY and removed api_key_interceptor... - Tomas Petrik<br>[e6d2119](https://github.com/SimplioOfficial/simplio-app/commit/e6d21199b0f0510ef1f3898673ef4f98dc07fa7a) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[96c099b](https://github.com/SimplioOfficial/simplio-app/commit/96c099b7cf1752d7b35cb0afbb56c928b7ddb71b) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[755b1c9](https://github.com/SimplioOfficial/simplio-app/commit/755b1c91fa6c5e28a9f6806a33a040366c3e4763) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[d390983](https://github.com/SimplioOfficial/simplio-app/commit/d3909837f463d9fed959278f80cb1e1944d60ec5) bug/467-no-placeholder-for-empty-coins-in-inven... - Tomas Petrik</sub> |
 | <sub>2023-01-16 09:56:28</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95cfed4a28b25ef15f6ecde2ddb0014bf98fb026)</sub> | <sub>[95cfed4](https://github.com/SimplioOfficial/simplio-app/commit/95cfed4a28b25ef15f6ecde2ddb0014bf98fb026) Ci/test apps in google and appstore (#480) - ciripel</sub> |
 | <sub>2023-01-16 09:54:35</sub> | <sub>[[simplio-app:ci/test\-apps\-in\-google\-and\-appstore] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d)</sub> | <sub>[604f775](https://github.com/SimplioOfficial/simplio-app/commit/604f775bf792039e1861676c9d5639cad57b303d) replaced android keys - ciripel</sub> |
-| <sub>2023-01-16 09:45:41</sub> | <sub>[[simplio-app:ci/test\-apps\-in\-google\-and\-appstore] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3)</sub> | <sub>[977d5d2](https://github.com/SimplioOfficial/simplio-app/commit/977d5d20839ce63130b693887d2deae65c4ee9a3) change app ids in stores - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
