@@ -76015,5 +76015,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/3e308a000026587ee0dbbc7cecf4a812bdb9c13a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-17 09:15:21.828000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b99e17d`](https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3) fix: Changed intl dependency version to ^0.17.0 - ciripel",
+      "title": "[sio_big_decimal:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/b99e17d1c6242bd6f46b778722ca1ea5c30482b3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-17 09:18:13.896000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_big_decimal] New release published: v0\\.1\\.1",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1"
+    }
   }
 ]
