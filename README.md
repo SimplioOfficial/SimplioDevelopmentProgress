@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4258 commits since 10/09/2021. You can see the complete history in
+There is a total of 4259 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-18 15:34:38</sub> | <sub>[[simplio-app:refactor/479\-refactor\-outlined\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78084570aa6705c1bd5a168f29b886b2bf971996)</sub> | <sub>[7808457](https://github.com/SimplioOfficial/simplio-app/commit/78084570aa6705c1bd5a168f29b886b2bf971996) Completed refactor/479-refactor-outlined-buttons - Tomas Petrik</sub> |
 | <sub>2023-01-18 13:54:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd)</sub> | <sub>[3b8d7a3](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd) Bug/467 no placeholder for empty coins in inven... - TomasPetrik</sub> |
 | <sub>2023-01-18 13:48:16</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6)</sub> | <sub>[036af1d](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6) Fixed: Button is not updated after asset is rem... - TomasPetrik</sub> |
 | <sub>2023-01-18 13:43:27</sub> | <sub>[[simplio-app:bug/477\-button\-is\-not\-updated\-after\-asset\-is\-removed] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e308a000026...c25d41d57b37)</sub> | <sub>[6f3e682](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea) Formated asset_wallet_expansion_list.dart file - Tomas Petrik<br>[c25d41d](https://github.com/SimplioOfficial/simplio-app/commit/c25d41d57b3745299282ab2244ea2c8e4482fb29) Merge branch 'bug/467-no-placeholder-for-empty-... - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4258 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-18 12:05:59</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ccc7d0f1a128...1b4c9f7e44df)</sub> | <sub>[57fce17](https://github.com/SimplioOfficial/simplio-app/commit/57fce17bf67f14b4ea383845e128bf365ab473af) changing used bigint values to big decimal - storkandstars<br>[1b4c9f7](https://github.com/SimplioOfficial/simplio-app/commit/1b4c9f7e44df2465b6b24dab388503a6f42c08b6) refactoring total balance widget - storkandstars</sub> |
 | <sub>2023-01-18 03:27:36</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/96af22082663...ccc7d0f1a128)</sub> | <sub>[a771cd8](https://github.com/SimplioOfficial/simplio-app/commit/a771cd8c5d2e7c0c7ce0facf435fb49b46248e27) adding big decimal package - storkandstars<br>[ccc7d0f](https://github.com/SimplioOfficial/simplio-app/commit/ccc7d0f1a1288274b4e966cef62b9a1293353773) replacing big decimal package - storkandstars</sub> |
 | <sub>2023-01-18 03:06:28</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7)</sub> | <sub>[96af220](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7) updating dart sdk version - storkandstars</sub> |
-| <sub>2023-01-18 02:59:40</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2)</sub> | <sub>[72d3aab](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2) updating wallet test - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
