@@ -76139,5 +76139,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f411053b99d0cff2b394fd765d9fec030766dad1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-18 02:46:31.097000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b8154d3`](https://github.com/SimplioOfficial/simplio-app/commit/b8154d39bc3056b0cb93ff0d1aeba6fdc0e90e90) moving models to models folder - storkandstars\n[`ee72b02`](https://github.com/SimplioOfficial/simplio-app/commit/ee72b02ea44849f02e299a1a1275cfab7224aa0d) adding entities - storkandstars\n[`e1398a2`](https://github.com/SimplioOfficial/simplio-app/commit/e1398a264ed7f17bd2fba473a80b0ae90daa776a) adding database interfaces - storkandstars\n[`c3aba6a`](https://github.com/SimplioOfficial/simplio-app/commit/c3aba6aed2a8d58c39e9fa66e9509e1351e6024c) adding repository interfaces - storkandstars\n[`d0a790a`](https://github.com/SimplioOfficial/simplio-app/commit/d0a790a55676056d90de3cec5fb08e353d2a7103) adding provider mapper - storkandstars",
+      "title": "[simplio-app:refactor/485\\-abstract\\-data\\-layer] 18 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/95cfed4a28b2...f65087a33f8b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-18 02:48:25.818000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`f2f3abc`](https://github.com/SimplioOfficial/simplio-app/commit/f2f3abc01da5161244d33ae39b2b99935af2a89a) removing unused imports - storkandstars",
+      "title": "[simplio-app:refactor/485\\-abstract\\-data\\-layer] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/f2f3abc01da5161244d33ae39b2b99935af2a89a"
+    }
   }
 ]
