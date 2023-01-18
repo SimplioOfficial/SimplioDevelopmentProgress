@@ -76355,5 +76355,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-18 13:54:52.257000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`3b8d7a3`](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd) Bug/467 no placeholder for empty coins in inven... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd"
+    }
   }
 ]
