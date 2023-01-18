@@ -76175,5 +76175,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f2f3abc01da5161244d33ae39b2b99935af2a89a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-18 02:54:42.082000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3c25a4d`](https://github.com/SimplioOfficial/simplio-app/commit/3c25a4dbbcddf499d5c5209b9aada798d38411ff) renaming mapper param - storkandstars\n[`7abe8d6`](https://github.com/SimplioOfficial/simplio-app/commit/7abe8d6751c9bc2914d99790b39731dd3c18c443) fixing forgotten balance renaming - storkandstars\n[`4e782da`](https://github.com/SimplioOfficial/simplio-app/commit/4e782da56d945ca2c8254155517d68eac4cfb420) updating address validator origin - storkandstars",
+      "title": "[simplio-app:refactor/485\\-abstract\\-data\\-layer] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/f2f3abc01da5...4e782da56d94"
+    }
   }
 ]
