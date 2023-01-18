@@ -76283,5 +76283,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/76673bc7148e36e6f06e934744c7b6fd89d66652"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-18 12:22:11.052000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9753c37`](https://github.com/SimplioOfficial/simplio-app/commit/9753c3717b3d5e19307187b21a0194f02d11cf83) removing tests - storkandstars\n[`ae64b3c`](https://github.com/SimplioOfficial/simplio-app/commit/ae64b3cf7552705b56ef5d4b96e7e4f8d70d9307) removing unused imports - storkandstars\n[`425ad3b`](https://github.com/SimplioOfficial/simplio-app/commit/425ad3b100d01b146dd67d1f0fb95dab0a9881a1) formatting wrapped code - storkandstars",
+      "title": "[simplio-app:refactor/484\\-implementing\\-big\\-decimal\\-package] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/76673bc7148e...425ad3b100d0"
+    }
   }
 ]
