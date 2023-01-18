@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4251 commits since 10/09/2021. You can see the complete history in
+There is a total of 4252 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-18 12:05:59</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ccc7d0f1a128...1b4c9f7e44df)</sub> | <sub>[57fce17](https://github.com/SimplioOfficial/simplio-app/commit/57fce17bf67f14b4ea383845e128bf365ab473af) changing used bigint values to big decimal - storkandstars<br>[1b4c9f7](https://github.com/SimplioOfficial/simplio-app/commit/1b4c9f7e44df2465b6b24dab388503a6f42c08b6) refactoring total balance widget - storkandstars</sub> |
 | <sub>2023-01-18 03:27:36</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/96af22082663...ccc7d0f1a128)</sub> | <sub>[a771cd8](https://github.com/SimplioOfficial/simplio-app/commit/a771cd8c5d2e7c0c7ce0facf435fb49b46248e27) adding big decimal package - storkandstars<br>[ccc7d0f](https://github.com/SimplioOfficial/simplio-app/commit/ccc7d0f1a1288274b4e966cef62b9a1293353773) replacing big decimal package - storkandstars</sub> |
 | <sub>2023-01-18 03:06:28</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7)</sub> | <sub>[96af220](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7) updating dart sdk version - storkandstars</sub> |
 | <sub>2023-01-18 02:59:40</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2)</sub> | <sub>[72d3aab](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2) updating wallet test - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4251 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-17 19:43:15</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f411053b99d0cff2b394fd765d9fec030766dad1)</sub> | <sub>[f411053](https://github.com/SimplioOfficial/simplio-app/commit/f411053b99d0cff2b394fd765d9fec030766dad1) Changed CODE_SIGN_STYLE to Manual - ciripel</sub> |
 | <sub>2023-01-17 17:28:05</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc69d0d8037551805c93bdd461a4b12f79149e9c)</sub> | <sub>[dc69d0d](https://github.com/SimplioOfficial/simplio-app/commit/dc69d0d8037551805c93bdd461a4b12f79149e9c) Renamed test flavor to devTest - ciripel</sub> |
 | <sub>2023-01-17 15:34:47</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef)</sub> | <sub>[66609dd](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef) updated android fastlanes and build.gradle - ciripel</sub> |
-| <sub>2023-01-17 15:21:35</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe)</sub> | <sub>[37f3164](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe) chore: updated gemfile.lock - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
