@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4249 commits since 10/09/2021. You can see the complete history in
+There is a total of 4250 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-18 03:06:28</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7)</sub> | <sub>[96af220](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7) updating dart sdk version - storkandstars</sub> |
 | <sub>2023-01-18 02:59:40</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2)</sub> | <sub>[72d3aab](https://github.com/SimplioOfficial/simplio-app/commit/72d3aab13d58df246d73635eb164a01a07a7bcc2) updating wallet test - storkandstars</sub> |
 | <sub>2023-01-18 02:54:42</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f2f3abc01da5...4e782da56d94)</sub> | <sub>[3c25a4d](https://github.com/SimplioOfficial/simplio-app/commit/3c25a4dbbcddf499d5c5209b9aada798d38411ff) renaming mapper param - storkandstars<br>[7abe8d6](https://github.com/SimplioOfficial/simplio-app/commit/7abe8d6751c9bc2914d99790b39731dd3c18c443) fixing forgotten balance renaming - storkandstars<br>[4e782da](https://github.com/SimplioOfficial/simplio-app/commit/4e782da56d945ca2c8254155517d68eac4cfb420) updating address validator origin - storkandstars</sub> |
 | <sub>2023-01-18 02:48:25</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2f3abc01da5161244d33ae39b2b99935af2a89a)</sub> | <sub>[f2f3abc](https://github.com/SimplioOfficial/simplio-app/commit/f2f3abc01da5161244d33ae39b2b99935af2a89a) removing unused imports - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4249 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-17 15:34:47</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef)</sub> | <sub>[66609dd](https://github.com/SimplioOfficial/simplio-app/commit/66609dd4e5bcc3996f95fa0edbeb6b1dcc4c39ef) updated android fastlanes and build.gradle - ciripel</sub> |
 | <sub>2023-01-17 15:21:35</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe)</sub> | <sub>[37f3164](https://github.com/SimplioOfficial/simplio-app/commit/37f3164beb976e191c93f489b6035535cd4c7bbe) chore: updated gemfile.lock - ciripel</sub> |
 | <sub>2023-01-17 15:13:33</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18)</sub> | <sub>[6f625af](https://github.com/SimplioOfficial/simplio-app/commit/6f625af4b1347f0042ea4a86b3771bc002d68f18) Defined new bundle identifiers for app store re... - Tomas Petrik</sub> |
-| <sub>2023-01-17 09:18:13</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.1)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
