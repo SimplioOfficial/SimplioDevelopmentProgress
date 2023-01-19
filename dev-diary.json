@@ -76607,5 +76607,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/78084570aa67...24493b962367"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-19 22:34:43.122000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`37dd07b`](https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb) adding wallet inventory service - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb"
+    }
   }
 ]
