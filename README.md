@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4262 commits since 10/09/2021. You can see the complete history in
+There is a total of 4263 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-19 10:10:48</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e)</sub> | <sub>[f817747](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e) revert changes? - ciripel</sub> |
 | <sub>2023-01-19 09:34:06</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4)</sub> | <sub>[6d6a540](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4) change prov specifier - ciripel</sub> |
 | <sub>2023-01-19 08:25:11</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f39a574791cfd5b0f27a54d675a98a0b809833d)</sub> | <sub>[3f39a57](https://github.com/SimplioOfficial/simplio-app/commit/3f39a574791cfd5b0f27a54d675a98a0b809833d) fix: assign provisioning profile specifiers - ciripel</sub> |
 | <sub>2023-01-19 08:15:40</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0d06a673ba7f6ca4baa42329bd2433bd0f2b57b)</sub> | <sub>[e0d06a6](https://github.com/SimplioOfficial/simplio-app/commit/e0d06a673ba7f6ca4baa42329bd2433bd0f2b57b) renamed test env flavor - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4262 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-18 13:43:27</sub> | <sub>[[simplio-app:bug/477\-button\-is\-not\-updated\-after\-asset\-is\-removed] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e308a000026...c25d41d57b37)</sub> | <sub>[6f3e682](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea) Formated asset_wallet_expansion_list.dart file - Tomas Petrik<br>[c25d41d](https://github.com/SimplioOfficial/simplio-app/commit/c25d41d57b3745299282ab2244ea2c8e4482fb29) Merge branch 'bug/467-no-placeholder-for-empty-... - Tomas Petrik</sub> |
 | <sub>2023-01-18 13:39:55</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea)</sub> | <sub>[6f3e682](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea) Formated asset_wallet_expansion_list.dart file - Tomas Petrik</sub> |
 | <sub>2023-01-18 12:22:11</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/76673bc7148e...425ad3b100d0)</sub> | <sub>[9753c37](https://github.com/SimplioOfficial/simplio-app/commit/9753c3717b3d5e19307187b21a0194f02d11cf83) removing tests - storkandstars<br>[ae64b3c](https://github.com/SimplioOfficial/simplio-app/commit/ae64b3cf7552705b56ef5d4b96e7e4f8d70d9307) removing unused imports - storkandstars<br>[425ad3b](https://github.com/SimplioOfficial/simplio-app/commit/425ad3b100d01b146dd67d1f0fb95dab0a9881a1) formatting wrapped code - storkandstars</sub> |
-| <sub>2023-01-18 12:17:49</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76673bc7148e36e6f06e934744c7b6fd89d66652)</sub> | <sub>[76673bc](https://github.com/SimplioOfficial/simplio-app/commit/76673bc7148e36e6f06e934744c7b6fd89d66652) replacing partially imps of down num extension - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
