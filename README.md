@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4259 commits since 10/09/2021. You can see the complete history in
+There is a total of 4260 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-19 08:15:40</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0d06a673ba7f6ca4baa42329bd2433bd0f2b57b)</sub> | <sub>[e0d06a6](https://github.com/SimplioOfficial/simplio-app/commit/e0d06a673ba7f6ca4baa42329bd2433bd0f2b57b) renamed test env flavor - ciripel</sub> |
 | <sub>2023-01-18 15:34:38</sub> | <sub>[[simplio-app:refactor/479\-refactor\-outlined\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78084570aa6705c1bd5a168f29b886b2bf971996)</sub> | <sub>[7808457](https://github.com/SimplioOfficial/simplio-app/commit/78084570aa6705c1bd5a168f29b886b2bf971996) Completed refactor/479-refactor-outlined-buttons - Tomas Petrik</sub> |
 | <sub>2023-01-18 13:54:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd)</sub> | <sub>[3b8d7a3](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd) Bug/467 no placeholder for empty coins in inven... - TomasPetrik</sub> |
 | <sub>2023-01-18 13:48:16</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6)</sub> | <sub>[036af1d](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6) Fixed: Button is not updated after asset is rem... - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4259 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-18 12:17:49</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76673bc7148e36e6f06e934744c7b6fd89d66652)</sub> | <sub>[76673bc](https://github.com/SimplioOfficial/simplio-app/commit/76673bc7148e36e6f06e934744c7b6fd89d66652) replacing partially imps of down num extension - storkandstars</sub> |
 | <sub>2023-01-18 12:05:59</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ccc7d0f1a128...1b4c9f7e44df)</sub> | <sub>[57fce17](https://github.com/SimplioOfficial/simplio-app/commit/57fce17bf67f14b4ea383845e128bf365ab473af) changing used bigint values to big decimal - storkandstars<br>[1b4c9f7](https://github.com/SimplioOfficial/simplio-app/commit/1b4c9f7e44df2465b6b24dab388503a6f42c08b6) refactoring total balance widget - storkandstars</sub> |
 | <sub>2023-01-18 03:27:36</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/96af22082663...ccc7d0f1a128)</sub> | <sub>[a771cd8](https://github.com/SimplioOfficial/simplio-app/commit/a771cd8c5d2e7c0c7ce0facf435fb49b46248e27) adding big decimal package - storkandstars<br>[ccc7d0f](https://github.com/SimplioOfficial/simplio-app/commit/ccc7d0f1a1288274b4e966cef62b9a1293353773) replacing big decimal package - storkandstars</sub> |
-| <sub>2023-01-18 03:06:28</sub> | <sub>[[simplio-app:refactor/485\-abstract\-data\-layer] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7)</sub> | <sub>[96af220](https://github.com/SimplioOfficial/simplio-app/commit/96af220826630dc7ea19119c1ebf6a0264ed2ef7) updating dart sdk version - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
