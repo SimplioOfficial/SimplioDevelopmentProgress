@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4264 commits since 10/09/2021. You can see the complete history in
+There is a total of 4265 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-19 13:20:53</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af)</sub> | <sub>[d44a790](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af) introducing api communication layer - storkandstars</sub> |
 | <sub>2023-01-19 12:01:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b)</sub> | <sub>[4140a85](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik</sub> |
 | <sub>2023-01-19 10:10:48</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e)</sub> | <sub>[f817747](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e) revert changes? - ciripel</sub> |
 | <sub>2023-01-19 09:34:06</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4)</sub> | <sub>[6d6a540](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4) change prov specifier - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4264 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-18 13:54:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd)</sub> | <sub>[3b8d7a3](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd) Bug/467 no placeholder for empty coins in inven... - TomasPetrik</sub> |
 | <sub>2023-01-18 13:48:16</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6)</sub> | <sub>[036af1d](https://github.com/SimplioOfficial/simplio-app/commit/036af1da96fafa23fc194396f3a398f8abee8cd6) Fixed: Button is not updated after asset is rem... - TomasPetrik</sub> |
 | <sub>2023-01-18 13:43:27</sub> | <sub>[[simplio-app:bug/477\-button\-is\-not\-updated\-after\-asset\-is\-removed] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3e308a000026...c25d41d57b37)</sub> | <sub>[6f3e682](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea) Formated asset_wallet_expansion_list.dart file - Tomas Petrik<br>[c25d41d](https://github.com/SimplioOfficial/simplio-app/commit/c25d41d57b3745299282ab2244ea2c8e4482fb29) Merge branch 'bug/467-no-placeholder-for-empty-... - Tomas Petrik</sub> |
-| <sub>2023-01-18 13:39:55</sub> | <sub>[[simplio-app:bug/467\-no\-placeholder\-for\-empty\-coins\-in\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea)</sub> | <sub>[6f3e682](https://github.com/SimplioOfficial/simplio-app/commit/6f3e682d3f6b5373e261d02be5fce8c2bf8478ea) Formated asset_wallet_expansion_list.dart file - Tomas Petrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

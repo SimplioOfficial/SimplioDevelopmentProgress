@@ -76481,5 +76481,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-19 13:20:53.247000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d44a790`](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af) introducing api communication layer - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af"
+    }
   }
 ]
