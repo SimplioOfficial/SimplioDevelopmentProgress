@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-19 12:01:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b)</sub> | <sub>[4140a85](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik</sub> |
 | <sub>2023-01-19 10:10:48</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e)</sub> | <sub>[f817747](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e) revert changes? - ciripel</sub> |
 | <sub>2023-01-19 09:34:06</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4)</sub> | <sub>[6d6a540](https://github.com/SimplioOfficial/simplio-app/commit/6d6a540528b739dab48857d1414911358dfeaef4) change prov specifier - ciripel</sub> |
 | <sub>2023-01-19 08:25:11</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f39a574791cfd5b0f27a54d675a98a0b809833d)</sub> | <sub>[3f39a57](https://github.com/SimplioOfficial/simplio-app/commit/3f39a574791cfd5b0f27a54d675a98a0b809833d) fix: assign provisioning profile specifiers - ciripel</sub> |

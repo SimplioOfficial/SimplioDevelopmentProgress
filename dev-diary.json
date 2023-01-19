@@ -76463,5 +76463,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-19 12:01:32.555000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4140a85`](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b"
+    }
   }
 ]
