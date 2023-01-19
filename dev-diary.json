@@ -76589,5 +76589,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cc3fad39e15d437612cd0e0ddf472b50e2fc9645"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-19 21:34:41.964000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`4140a85`](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik\n[`cc3fad3`](https://github.com/SimplioOfficial/simplio-app/commit/cc3fad39e15d437612cd0e0ddf472b50e2fc9645) Refactor/485 abstract data layer (#487) - storkandstars\n[`24493b9`](https://github.com/SimplioOfficial/simplio-app/commit/24493b962367ea1ac4730a05a6a061d5bba7dd18) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik",
+      "title": "[simplio-app:refactor/479\\-refactor\\-outlined\\-buttons] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/78084570aa67...24493b962367"
+    }
   }
 ]
