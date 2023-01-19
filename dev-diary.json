@@ -76553,5 +76553,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/85bd5facd81e...a2220321aa14"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-19 14:17:53.227000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3b8d7a3`](https://github.com/SimplioOfficial/simplio-app/commit/3b8d7a39d0c87035cb0a5ef4044f7da64480a5cd) Bug/467 no placeholder for empty coins in inven... - TomasPetrik\n[`4140a85`](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik\n[`4520aa8`](https://github.com/SimplioOfficial/simplio-app/commit/4520aa8da112c84efe3a7d45b59e25c99b9a218c) Merge branch 'master' into refactor/485-abstrac... - storkandstars\n[`cdbd18c`](https://github.com/SimplioOfficial/simplio-app/commit/cdbd18c38cfe791dfad086da09b31ace3327813f) updating balance name - storkandstars",
+      "title": "[simplio-app:refactor/485\\-abstract\\-data\\-layer] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/96af22082663...cdbd18c38cfe"
+    }
   }
 ]
