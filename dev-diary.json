@@ -76679,5 +76679,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9723c6cc0287350fcf1c412981f4d67aaf7444fd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-20 12:02:30.492000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4fbc56f`](https://github.com/SimplioOfficial/simplio-app/commit/4fbc56f6bf99986eb9d083e7082b92e81687ebc3) add test version deployment - ciripel",
+      "title": "[simplio-app:task491/ci\\-cd\\-adjustments\\-for\\-3\\-lanes] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/4fbc56f6bf99986eb9d083e7082b92e81687ebc3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-20 12:04:14.176000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7f107b2`](https://github.com/SimplioOfficial/simplio-app/commit/7f107b2a8b9b0512c210a6a6d593775e32f881f1) task491/ci-cd-adjustments-for-3-lanes (#493) - ciripel",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/7f107b2a8b9b0512c210a6a6d593775e32f881f1"
+    }
   }
 ]
