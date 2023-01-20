@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4274 commits since 10/09/2021. You can see the complete history in
+There is a total of 4275 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-20 10:36:28</sub> | <sub>[[simplio-app:task491/ci\-cd\-adjustments\-for\-3\-lanes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9723c6cc0287350fcf1c412981f4d67aaf7444fd)</sub> | <sub>[9723c6c](https://github.com/SimplioOfficial/simplio-app/commit/9723c6cc0287350fcf1c412981f4d67aaf7444fd) * remove DART_DEFINE_API_KEY_DEV - ciripel</sub> |
 | <sub>2023-01-20 10:13:39</sub> | <sub>[[simplio-app:refactor/471\-refactor\-dialog\-displays] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b5662b1728ac5f76123e5183e9d30333c0c94616)</sub> | <sub>[b5662b1](https://github.com/SimplioOfficial/simplio-app/commit/b5662b1728ac5f76123e5183e9d30333c0c94616) 1. Fix showing popup when adding or removing ne... - Tomas Petrik</sub> |
 | <sub>2023-01-20 09:56:33</sub> | <sub>[[simplio-app:refactor/471\-refactor\-dialog\-displays] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75)</sub> | <sub>[6772972](https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75) 1. Bottom sheet dialogs are using showModalBot... - Tomas Petrik</sub> |
 | <sub>2023-01-19 22:34:43</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb)</sub> | <sub>[37dd07b](https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb) adding wallet inventory service - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4274 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-19 13:34:13</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/85bd5facd81e...a2220321aa14)</sub> | <sub>[515e64d](https://github.com/SimplioOfficial/simplio-app/commit/515e64d961bf80faae8d958461355ce39cf01586) auth guard returns account instance - storkandstars<br>[a222032](https://github.com/SimplioOfficial/simplio-app/commit/a2220321aa14362a3f7bad9b673adb6d860a333e) formatting apis - storkandstars</sub> |
 | <sub>2023-01-19 13:29:07</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85bd5facd81eaddf0c2341258ad7cc1bb95a8197)</sub> | <sub>[85bd5fa](https://github.com/SimplioOfficial/simplio-app/commit/85bd5facd81eaddf0c2341258ad7cc1bb95a8197) adding todo - storkandstars</sub> |
 | <sub>2023-01-19 13:28:12</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf8ca4e071758d1f511a41453d593a77f573e5c9)</sub> | <sub>[bf8ca4e](https://github.com/SimplioOfficial/simplio-app/commit/bf8ca4e071758d1f511a41453d593a77f573e5c9) moving image precache to related applications - storkandstars</sub> |
-| <sub>2023-01-19 13:20:53</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af)</sub> | <sub>[d44a790](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af) introducing api communication layer - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
