@@ -76625,5 +76625,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-20 09:56:33.524000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`6772972`](https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75) 1. Bottom sheet dialogs are using `showModalBot... - Tomas Petrik",
+      "title": "[simplio-app:refactor/471\\-refactor\\-dialog\\-displays] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75"
+    }
   }
 ]

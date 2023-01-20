@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4272 commits since 10/09/2021. You can see the complete history in
+There is a total of 4273 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-20 09:56:33</sub> | <sub>[[simplio-app:refactor/471\-refactor\-dialog\-displays] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75)</sub> | <sub>[6772972](https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75) 1. Bottom sheet dialogs are using showModalBot... - Tomas Petrik</sub> |
 | <sub>2023-01-19 22:34:43</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb)</sub> | <sub>[37dd07b](https://github.com/SimplioOfficial/simplio-app/commit/37dd07b8c36d5656e30fa0eb972a7a6a22b1d6eb) adding wallet inventory service - storkandstars</sub> |
 | <sub>2023-01-19 21:34:41</sub> | <sub>[[simplio-app:refactor/479\-refactor\-outlined\-buttons] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/78084570aa67...24493b962367)</sub> | <sub>[4140a85](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik<br>[cc3fad3](https://github.com/SimplioOfficial/simplio-app/commit/cc3fad39e15d437612cd0e0ddf472b50e2fc9645) Refactor/485 abstract data layer (#487) - storkandstars<br>[24493b9](https://github.com/SimplioOfficial/simplio-app/commit/24493b962367ea1ac4730a05a6a061d5bba7dd18) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik</sub> |
 | <sub>2023-01-19 16:17:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cc3fad39e15d437612cd0e0ddf472b50e2fc9645)</sub> | <sub>[cc3fad3](https://github.com/SimplioOfficial/simplio-app/commit/cc3fad39e15d437612cd0e0ddf472b50e2fc9645) Refactor/485 abstract data layer (#487) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4272 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-19 13:28:12</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf8ca4e071758d1f511a41453d593a77f573e5c9)</sub> | <sub>[bf8ca4e](https://github.com/SimplioOfficial/simplio-app/commit/bf8ca4e071758d1f511a41453d593a77f573e5c9) moving image precache to related applications - storkandstars</sub> |
 | <sub>2023-01-19 13:20:53</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af)</sub> | <sub>[d44a790](https://github.com/SimplioOfficial/simplio-app/commit/d44a79021da6d0526a04bc9b9011e8e63d83c1af) introducing api communication layer - storkandstars</sub> |
 | <sub>2023-01-19 12:01:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b)</sub> | <sub>[4140a85](https://github.com/SimplioOfficial/simplio-app/commit/4140a85ee85b48741dffd2fd45d7c6a8c2117e1b) Defined new bundle identifiers for app store re... - TomasPetrik</sub> |
-| <sub>2023-01-19 10:10:48</sub> | <sub>[[simplio-app:fix\-android\-deployment] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e)</sub> | <sub>[f817747](https://github.com/SimplioOfficial/simplio-app/commit/f8177474052c9fb9ba20890efc7ad69a36b1ea8e) revert changes? - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
