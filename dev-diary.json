@@ -76643,5 +76643,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/677297267adfa14c5a3427d1a044c7f98f0baa75"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-20 10:13:39.200000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b5662b1`](https://github.com/SimplioOfficial/simplio-app/commit/b5662b1728ac5f76123e5183e9d30333c0c94616) 1. Fix showing popup when adding or removing ne... - Tomas Petrik",
+      "title": "[simplio-app:refactor/471\\-refactor\\-dialog\\-displays] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b5662b1728ac5f76123e5183e9d30333c0c94616"
+    }
   }
 ]
