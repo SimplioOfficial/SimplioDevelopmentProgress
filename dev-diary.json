@@ -76769,5 +76769,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/126a6e56a51c49b3dc70442df8bb215b17ff9827"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-23 11:51:23.695000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3f82937`](https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/3f829375849804698f727dc4627de6d739140099) fix: complete package and switched to dart - ciripel",
+      "title": "[wallet_connect_uri_validator:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/3f829375849804698f727dc4627de6d739140099"
+    }
   }
 ]
