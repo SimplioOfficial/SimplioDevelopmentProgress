@@ -76805,5 +76805,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect_uri_validator/compare/3f8293758498...ea3efea281be"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-23 14:52:03.729000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`83df9f5`](https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/83df9f5b7c79722426ec2f15138e2d5924a57501) fix: fix publish - ciripel",
+      "title": "[wallet_connect_uri_validator:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/83df9f5b7c79722426ec2f15138e2d5924a57501"
+    }
   }
 ]
