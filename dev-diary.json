@@ -76823,5 +76823,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/83df9f5b7c79722426ec2f15138e2d5924a57501"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-24 11:13:06.204000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ee1fcef`](https://github.com/SimplioOfficial/simplio-app/commit/ee1fceffb1d5b5f77125f71386a3bf2dd6d22f80) adding mapper subtypes - storkandstars\n[`0381163`](https://github.com/SimplioOfficial/simplio-app/commit/0381163ceecf6b3e0a8384154e577e7f024d2a06) updating wallet repository interface - storkandstars\n[`7d8ea22`](https://github.com/SimplioOfficial/simplio-app/commit/7d8ea227c6d42cc3303b6e28cd6e75632ef1c10f) renaming address to walletAddress - storkandstars\n[`036e896`](https://github.com/SimplioOfficial/simplio-app/commit/036e89675197120586972d2e028645ff19dd6bf0) using extension as mapper instead of a helper func - storkandstars\n[`f8f6a1f`](https://github.com/SimplioOfficial/simplio-app/commit/f8f6a1f61fbe235b29754b22eed839cd8bd42ade) updating http errors - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 31 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/37dd07b8c36d...1a0ab18b76ed"
+    }
   }
 ]
