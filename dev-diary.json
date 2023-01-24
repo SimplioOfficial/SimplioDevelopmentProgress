@@ -76967,5 +76967,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/126a6e56a51c...92eab7d3e2b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-24 13:30:53.245000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b3f0fdd`](https://github.com/SimplioOfficial/simplio-app/commit/b3f0fdd345552049e935613a2a0aaf49b51ac8fa) Completed refactor/479-refactor-outlined-button... - TomasPetrik\n[`34b6216`](https://github.com/SimplioOfficial/simplio-app/commit/34b62164a0f6a920e11750f56350ab9aa8be4028) Merge branch 'master' into refactor/484-impleme... - storkandstars",
+      "title": "[simplio-app:refactor/484\\-implementing\\-big\\-decimal\\-package] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/25a28aa8141e...34b62164a0f6"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-24 13:32:06.927000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`63b3c43`](https://github.com/SimplioOfficial/simplio-app/commit/63b3c43d5416486299a6506bb7177de002c4d787) removing unused import - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/63b3c43d5416486299a6506bb7177de002c4d787"
+    }
   }
 ]
