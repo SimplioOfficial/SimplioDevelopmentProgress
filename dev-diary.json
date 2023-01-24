@@ -77003,5 +77003,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/63b3c43d5416486299a6506bb7177de002c4d787"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-24 14:03:35.943000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`78ccbc0`](https://github.com/SimplioOfficial/simplio-app/commit/78ccbc0202e64281ddf63c5425eff503d23f26e7) Fixed bug/489-initial-redirections-on-screens-i... - Tomas Petrik",
+      "title": "[simplio-app:bug/489\\-initial\\-redirections\\-on\\-screens\\-issue] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/78ccbc0202e64281ddf63c5425eff503d23f26e7"
+    }
   }
 ]
