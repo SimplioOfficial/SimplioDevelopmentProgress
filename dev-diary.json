@@ -77075,5 +77075,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/63b3c43d5416...0787e8a2b27d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-25 13:34:05.382000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`85c2dcc`](https://github.com/SimplioOfficial/simplio-app/commit/85c2dccd4720a16e0666e8c0a45eacbe44a860fc) removing print - storkandstars\n[`5a839c4`](https://github.com/SimplioOfficial/simplio-app/commit/5a839c4a4e2b56ee7231b5f33a89c6ac0ad9ab49) removing unused import - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0787e8a2b27d...5a839c4a4e2b"
+    }
   }
 ]
