@@ -77039,5 +77039,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/cc570f9f0d572f350bd7c29d24eba9d49a6dbb84"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-25 07:43:53.429000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`b8a08b0`](https://github.com/SimplioOfficial/simplio-app/commit/b8a08b053f114d4f0064c49186bb7d9762a7055d) bug/496-refresh-indicator-doesnt-appear-on-coin... - Tomas Petrik",
+      "title": "[simplio-app:bug/496\\-refresh\\-indicator\\-doesnt\\-appear\\-on\\-coins\\-and\\-nft] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8a08b053f114d4f0064c49186bb7d9762a7055d"
+    }
   }
 ]
