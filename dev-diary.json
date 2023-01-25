@@ -77129,5 +77129,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/dd329f243a8341272cc64b253cef01e3f977f323"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-25 17:01:28.355000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9a480f1`](https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1) replacing number extension with big decimal imp - storkandstars",
+      "title": "[simplio-app:refactor/484\\-implementing\\-big\\-decimal\\-package] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1"
+    }
   }
 ]
