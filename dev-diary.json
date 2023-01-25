@@ -77057,5 +77057,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b8a08b053f114d4f0064c49186bb7d9762a7055d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-25 12:11:51.285000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ffd3269`](https://github.com/SimplioOfficial/simplio-app/commit/ffd3269d865aa580b32c0a50ecf706ac8a982287) adding default currency - storkandstars\n[`2a902fd`](https://github.com/SimplioOfficial/simplio-app/commit/2a902fdf789671dcd398dab82e587feac8648316) adding currency getter mixin - storkandstars\n[`11e162d`](https://github.com/SimplioOfficial/simplio-app/commit/11e162d9a51f4e768484bd20a261a640dd1a2cfc) adding precision to currency text - storkandstars\n[`2c0bf43`](https://github.com/SimplioOfficial/simplio-app/commit/2c0bf4350a9b9da534d4071711c88d1836ae8cc4) applying account currency - storkandstars\n[`e04e72c`](https://github.com/SimplioOfficial/simplio-app/commit/e04e72ca690806bb46c9eb6b12b57737bdd38343) updating service definition - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/63b3c43d5416...0787e8a2b27d"
+    }
   }
 ]
