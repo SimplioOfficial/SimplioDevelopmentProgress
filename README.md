@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4310 commits since 10/09/2021. You can see the complete history in
+There is a total of 4311 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-25 20:27:44</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e8b3c063704de6f7edaaec6545464730367e32a)</sub> | <sub>[6e8b3c0](https://github.com/SimplioOfficial/simplio-app/commit/6e8b3c063704de6f7edaaec6545464730367e32a) removing entity mapper - storkandstars</sub> |
 | <sub>2023-01-25 20:20:03</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4e565731e56e...db872abac6db)</sub> | <sub>[5c47d6a](https://github.com/SimplioOfficial/simplio-app/commit/5c47d6ad3183ca95c80c3e0a8af9ba12f4657816) removing builder constructor - storkandstars<br>[db872ab](https://github.com/SimplioOfficial/simplio-app/commit/db872abac6db85d2a1baa242e8f850815a7228e2) updating todo - storkandstars</sub> |
 | <sub>2023-01-25 20:10:22</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e565731e56e965297f9ed14aefb7b94800d3937)</sub> | <sub>[4e56573](https://github.com/SimplioOfficial/simplio-app/commit/4e565731e56e965297f9ed14aefb7b94800d3937) fixing forgotten currency value - storkandstars</sub> |
 | <sub>2023-01-25 20:08:27</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d844e0d30a36ed381f1dd1bf2c9d83b3107b8157)</sub> | <sub>[d844e0d](https://github.com/SimplioOfficial/simplio-app/commit/d844e0d30a36ed381f1dd1bf2c9d83b3107b8157) fixing displaying game price - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4310 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-25 17:42:19</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98e757889d9fe8a6971789c44e806cbfd85a6236)</sub> | <sub>[98e7578](https://github.com/SimplioOfficial/simplio-app/commit/98e757889d9fe8a6971789c44e806cbfd85a6236) updating min version - storkandstars</sub> |
 | <sub>2023-01-25 17:35:07</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c887abb93347a6c69920590f1b7ae7550e8c8729)</sub> | <sub>[c887abb](https://github.com/SimplioOfficial/simplio-app/commit/c887abb93347a6c69920590f1b7ae7550e8c8729) replacing validators with mixin imp - storkandstars</sub> |
 | <sub>2023-01-25 17:25:14</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b3f0fdd34555...df2c5290cf73)</sub> | <sub>[b85d9fb](https://github.com/SimplioOfficial/simplio-app/commit/b85d9fbf2567e53758778ea5c560e35db40c770f) adding wallet connect uri validator package - storkandstars<br>[df2c529](https://github.com/SimplioOfficial/simplio-app/commit/df2c5290cf738ecd4c38e054a113884f4d7dfe0c) replacing implementation - storkandstars</sub> |
-| <sub>2023-01-25 17:01:28</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1)</sub> | <sub>[9a480f1](https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1) replacing number extension with big decimal imp - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
