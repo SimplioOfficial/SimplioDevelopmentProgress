@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4302 commits since 10/09/2021. You can see the complete history in
+There is a total of 4303 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-25 17:35:07</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c887abb93347a6c69920590f1b7ae7550e8c8729)</sub> | <sub>[c887abb](https://github.com/SimplioOfficial/simplio-app/commit/c887abb93347a6c69920590f1b7ae7550e8c8729) replacing validators with mixin imp - storkandstars</sub> |
 | <sub>2023-01-25 17:25:14</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b3f0fdd34555...df2c5290cf73)</sub> | <sub>[b85d9fb](https://github.com/SimplioOfficial/simplio-app/commit/b85d9fbf2567e53758778ea5c560e35db40c770f) adding wallet connect uri validator package - storkandstars<br>[df2c529](https://github.com/SimplioOfficial/simplio-app/commit/df2c5290cf738ecd4c38e054a113884f4d7dfe0c) replacing implementation - storkandstars</sub> |
 | <sub>2023-01-25 17:01:28</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1)</sub> | <sub>[9a480f1](https://github.com/SimplioOfficial/simplio-app/commit/9a480f125d22d8838512cca3a5713962b26328a1) replacing number extension with big decimal imp - storkandstars</sub> |
 | <sub>2023-01-25 14:34:54</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd329f243a8341272cc64b253cef01e3f977f323)</sub> | <sub>[dd329f2](https://github.com/SimplioOfficial/simplio-app/commit/dd329f243a8341272cc64b253cef01e3f977f323) updating currency text - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4302 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-25 07:43:53</sub> | <sub>[[simplio-app:bug/496\-refresh\-indicator\-doesnt\-appear\-on\-coins\-and\-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8a08b053f114d4f0064c49186bb7d9762a7055d)</sub> | <sub>[b8a08b0](https://github.com/SimplioOfficial/simplio-app/commit/b8a08b053f114d4f0064c49186bb7d9762a7055d) bug/496-refresh-indicator-doesnt-appear-on-coin... - Tomas Petrik</sub> |
 | <sub>2023-01-24 15:32:16</sub> | <sub>[[simplio-app:refactor/484\-implementing\-big\-decimal\-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cc570f9f0d572f350bd7c29d24eba9d49a6dbb84)</sub> | <sub>[cc570f9](https://github.com/SimplioOfficial/simplio-app/commit/cc570f9f0d572f350bd7c29d24eba9d49a6dbb84) fixing currency text and its type for stake button - storkandstars</sub> |
 | <sub>2023-01-24 14:03:35</sub> | <sub>[[simplio-app:bug/489\-initial\-redirections\-on\-screens\-issue] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78ccbc0202e64281ddf63c5425eff503d23f26e7)</sub> | <sub>[78ccbc0](https://github.com/SimplioOfficial/simplio-app/commit/78ccbc0202e64281ddf63c5425eff503d23f26e7) Fixed bug/489-initial-redirections-on-screens-i... - Tomas Petrik</sub> |
-| <sub>2023-01-24 13:32:06</sub> | <sub>[[simplio-app:refactor/486\-fetching\-wallet\-balance] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63b3c43d5416486299a6506bb7177de002c4d787)</sub> | <sub>[63b3c43](https://github.com/SimplioOfficial/simplio-app/commit/63b3c43d5416486299a6506bb7177de002c4d787) removing unused import - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
