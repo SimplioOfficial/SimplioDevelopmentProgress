@@ -77291,5 +77291,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/4e565731e56e965297f9ed14aefb7b94800d3937"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-25 20:20:03.244000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5c47d6a`](https://github.com/SimplioOfficial/simplio-app/commit/5c47d6ad3183ca95c80c3e0a8af9ba12f4657816) removing builder constructor - storkandstars\n[`db872ab`](https://github.com/SimplioOfficial/simplio-app/commit/db872abac6db85d2a1baa242e8f850815a7228e2) updating todo - storkandstars",
+      "title": "[simplio-app:refactor/486\\-fetching\\-wallet\\-balance] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/4e565731e56e...db872abac6db"
+    }
   }
 ]
