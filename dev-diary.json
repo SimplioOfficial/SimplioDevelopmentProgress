@@ -77561,5 +77561,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d258041d7e22d52d895c8e5e9bd864516f79666b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-26 18:11:06.737000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3321ae9`](https://github.com/SimplioOfficial/simplio-app/commit/3321ae96c574f7053c3b051b20edb6b0f54a37f5) removing assetId as it is part of networkWallet - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/3321ae96c574f7053c3b051b20edb6b0f54a37f5"
+    }
   }
 ]
