@@ -77489,5 +77489,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/0d42bfdd40f7dbd82af9a6112a7ebb5e8d8007b4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-26 17:45:59.448000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`eb3dec1`](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1"
+    }
   }
 ]
