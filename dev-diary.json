@@ -77327,5 +77327,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/6e8b3c063704de6f7edaaec6545464730367e32a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-26 10:38:49.365000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`42c80a6`](https://github.com/SimplioOfficial/simplio-app/commit/42c80a6c74dbebcb2a446796c67ede6f53d8f5eb) bug/498-app-stucks-on-dark-screen-when-swipe-on... - Tomas Petrik",
+      "title": "[simplio-app:bug/498\\-app\\-stucks\\-on\\-dark\\-screen\\-when\\-swipe\\-on\\-main\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/42c80a6c74dbebcb2a446796c67ede6f53d8f5eb"
+    }
   }
 ]
