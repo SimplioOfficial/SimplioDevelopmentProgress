@@ -77507,5 +77507,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-26 17:51:33.398000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`44404a2`](https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d) bug/496-refresh-indicator-doesnt-appear-on-coin... - TomasPetrik\n[`719d04a`](https://github.com/SimplioOfficial/simplio-app/commit/719d04a1a224cd48117ff06d46a1b90c2eb417a5) Refactor/471 refactor dialog displays (#492) - TomasPetrik\n[`eb3dec1`](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars\n[`fc6b28f`](https://github.com/SimplioOfficial/simplio-app/commit/fc6b28f0910b8ff834cdd9cc3c255ed5f6cd18bc) Merge branch 'master' into task/502-disabled-se... - storkandstars",
+      "title": "[simplio-app:task/502\\-disabled\\-send\\-button\\-for\\-empty\\-wallets] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/db9b525cadc0...fc6b28f0910b"
+    }
   }
 ]
