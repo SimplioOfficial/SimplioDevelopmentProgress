@@ -77381,5 +77381,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-26 13:01:33.734000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`44404a2`](https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d) bug/496-refresh-indicator-doesnt-appear-on-coin... - TomasPetrik\n[`344486f`](https://github.com/SimplioOfficial/simplio-app/commit/344486f4f115c88d42bf1cb2c36c1aa20bf7833f) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik",
+      "title": "[simplio-app:bug/498\\-app\\-stucks\\-on\\-dark\\-screen\\-when\\-swipe\\-on\\-main\\-screen] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/42c80a6c74db...344486f4f115"
+    }
   }
 ]
