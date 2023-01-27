@@ -77669,5 +77669,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/a89e00b13a8eba03f328ebcab2ad2b95d1a33b50"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-27 11:46:05.873000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`999cf18`](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-27 11:47:52.396000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`eb3dec1`](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars\n[`05cc129`](https://github.com/SimplioOfficial/simplio-app/commit/05cc1295449fb2fd88f7a5f7ea13708831f148df) Task/502 disabled send button for empty wallets... - storkandstars\n[`999cf18`](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik\n[`19da485`](https://github.com/SimplioOfficial/simplio-app/commit/19da4857b4c9353301a482b1b56f1e6807575886) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik",
+      "title": "[simplio-app:bug/498\\-app\\-stucks\\-on\\-dark\\-screen\\-when\\-swipe\\-on\\-main\\-screen] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/0e72eb3932bd...19da4857b4c9"
+    }
   }
 ]
