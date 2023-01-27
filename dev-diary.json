@@ -77723,5 +77723,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/497477d1db094e266ae303b81ad5df16f67368f9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-27 19:14:55.039000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`235e336`](https://github.com/SimplioOfficial/simplio-app/commit/235e33669287de2c11e21d50e9b3e9fc4dbf3a37) using helper functions for math - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/235e33669287de2c11e21d50e9b3e9fc4dbf3a37"
+    }
   }
 ]
