@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4332 commits since 10/09/2021. You can see the complete history in
+There is a total of 4333 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-27 19:01:42</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/497477d1db094e266ae303b81ad5df16f67368f9)</sub> | <sub>[497477d](https://github.com/SimplioOfficial/simplio-app/commit/497477d1db094e266ae303b81ad5df16f67368f9) moving validation to state objects - storkandstars</sub> |
 | <sub>2023-01-27 11:47:52</sub> | <sub>[[simplio-app:bug/498\-app\-stucks\-on\-dark\-screen\-when\-swipe\-on\-main\-screen] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0e72eb3932bd...19da4857b4c9)</sub> | <sub>[eb3dec1](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars<br>[05cc129](https://github.com/SimplioOfficial/simplio-app/commit/05cc1295449fb2fd88f7a5f7ea13708831f148df) Task/502 disabled send button for empty wallets... - storkandstars<br>[999cf18](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik<br>[19da485](https://github.com/SimplioOfficial/simplio-app/commit/19da4857b4c9353301a482b1b56f1e6807575886) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik</sub> |
 | <sub>2023-01-27 11:46:05</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348)</sub> | <sub>[999cf18](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik</sub> |
 | <sub>2023-01-27 11:25:50</sub> | <sub>[[simplio-app:infrastructure/506\-refactor\-app\-using\-flutter\-3\.7] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a89e00b13a8eba03f328ebcab2ad2b95d1a33b50)</sub> | <sub>[a89e00b](https://github.com/SimplioOfficial/simplio-app/commit/a89e00b13a8eba03f328ebcab2ad2b95d1a33b50) 1. Reverted orihect.obxproj file - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4332 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-26 18:15:33</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05cc1295449fb2fd88f7a5f7ea13708831f148df)</sub> | <sub>[05cc129](https://github.com/SimplioOfficial/simplio-app/commit/05cc1295449fb2fd88f7a5f7ea13708831f148df) Task/502 disabled send button for empty wallets... - storkandstars</sub> |
 | <sub>2023-01-26 18:11:06</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3321ae96c574f7053c3b051b20edb6b0f54a37f5)</sub> | <sub>[3321ae9](https://github.com/SimplioOfficial/simplio-app/commit/3321ae96c574f7053c3b051b20edb6b0f54a37f5) removing assetId as it is part of networkWallet - storkandstars</sub> |
 | <sub>2023-01-26 18:00:05</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d258041d7e22d52d895c8e5e9bd864516f79666b)</sub> | <sub>[d258041](https://github.com/SimplioOfficial/simplio-app/commit/d258041d7e22d52d895c8e5e9bd864516f79666b) trimming balance - storkandstars</sub> |
-| <sub>2023-01-26 17:57:56</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b7d47ff2a9851d401f4fe6ac23f879959b27bac)</sub> | <sub>[0b7d47f](https://github.com/SimplioOfficial/simplio-app/commit/0b7d47ff2a9851d401f4fe6ac23f879959b27bac) removing unused widget - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
