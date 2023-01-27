@@ -77633,5 +77633,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e850ddc8de6959186071e1ed667642b516859f23"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-27 11:21:55.453000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`ef9303e`](https://github.com/SimplioOfficial/simplio-app/commit/ef9303ec01ec4c33b2899472d449e168c4fecc29) 1. Completed Refactor app using Flutter 3.7#506. - Tomas Petrik",
+      "title": "[simplio-app:infrastructure/506\\-refactor\\-app\\-using\\-flutter\\-3\\.7] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ef9303ec01ec4c33b2899472d449e168c4fecc29"
+    }
   }
 ]
