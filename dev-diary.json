@@ -77651,5 +77651,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ef9303ec01ec4c33b2899472d449e168c4fecc29"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-27 11:25:50.366000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`a89e00b`](https://github.com/SimplioOfficial/simplio-app/commit/a89e00b13a8eba03f328ebcab2ad2b95d1a33b50) 1. Reverted orihect.obxproj file - Tomas Petrik",
+      "title": "[simplio-app:infrastructure/506\\-refactor\\-app\\-using\\-flutter\\-3\\.7] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/a89e00b13a8eba03f328ebcab2ad2b95d1a33b50"
+    }
   }
 ]
