@@ -77813,5 +77813,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/8ea61ac22ada20aaffce57a4878c475bc0439e5b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-28 16:29:55.493000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`7bba636`](https://github.com/SimplioOfficial/simplio-app/commit/7bba636fd0f312f3de2ac6c81faa285b4a23b56f) using account currency - storkandstars\n[`063a202`](https://github.com/SimplioOfficial/simplio-app/commit/063a202b2e2e5001a98870f6c61030b76d12891f) updating translation - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/8ea61ac22ada...063a202b2e2e"
+    }
   }
 ]
