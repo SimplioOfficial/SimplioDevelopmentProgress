@@ -77867,5 +77867,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/c947d1d2326cabc9e937b46642ffb7f37eda6f5f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-29 21:25:23.539000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`3ad774d`](https://github.com/SimplioOfficial/simplio-app/commit/3ad774da415b852a0d985167b69ad78cfb18ed00) activating onDrag action - storkandstars\n[`ab30464`](https://github.com/SimplioOfficial/simplio-app/commit/ab304642fcd5804893d69974c69c17a4b3843c8e) wip - sending transaction - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/c947d1d2326c...ab304642fcd5"
+    }
   }
 ]
