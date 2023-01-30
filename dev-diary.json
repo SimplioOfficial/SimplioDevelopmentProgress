@@ -77957,5 +77957,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/b279dd0fb7c1...8d35aa86d6fa"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-30 01:59:15.101000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`5e1073f`](https://github.com/SimplioOfficial/simplio-app/commit/5e1073f7f07bd8c9e0c14c6c11ab7fcef4be910a) updating index based translation keys - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/5e1073f7f07bd8c9e0c14c6c11ab7fcef4be910a"
+    }
   }
 ]
