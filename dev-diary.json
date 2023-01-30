@@ -77939,5 +77939,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-30 01:10:40.038000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`999cf18`](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik\n[`8d35aa8`](https://github.com/SimplioOfficial/simplio-app/commit/8d35aa86d6faa757bd7145927c81de1bcbbaa816) Merge branch 'master' into task/476-asset-send-... - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/b279dd0fb7c1...8d35aa86d6fa"
+    }
   }
 ]
