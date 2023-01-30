@@ -77921,5 +77921,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/196ddac22e06685d484491ff28a2a8c4ad7cce02"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-30 01:08:55.025000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`b279dd0`](https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890) updating sending content - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890"
+    }
   }
 ]

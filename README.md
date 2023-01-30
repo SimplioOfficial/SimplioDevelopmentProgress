@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4344 commits since 10/09/2021. You can see the complete history in
+There is a total of 4345 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-30 01:08:55</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890)</sub> | <sub>[b279dd0](https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890) updating sending content - storkandstars</sub> |
 | <sub>2023-01-29 22:47:50</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/196ddac22e06685d484491ff28a2a8c4ad7cce02)</sub> | <sub>[196ddac](https://github.com/SimplioOfficial/simplio-app/commit/196ddac22e06685d484491ff28a2a8c4ad7cce02) removing unused imports - storkandstars</sub> |
 | <sub>2023-01-29 22:47:24</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3ede9a3553a5df590cb5f2fd05a5db7241806eb)</sub> | <sub>[f3ede9a](https://github.com/SimplioOfficial/simplio-app/commit/f3ede9a3553a5df590cb5f2fd05a5db7241806eb) reordering summary screen - storkandstars</sub> |
 | <sub>2023-01-29 21:25:23</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c947d1d2326c...ab304642fcd5)</sub> | <sub>[3ad774d](https://github.com/SimplioOfficial/simplio-app/commit/3ad774da415b852a0d985167b69ad78cfb18ed00) activating onDrag action - storkandstars<br>[ab30464](https://github.com/SimplioOfficial/simplio-app/commit/ab304642fcd5804893d69974c69c17a4b3843c8e) wip - sending transaction - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4344 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-27 22:32:18</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ea61ac22ada20aaffce57a4878c475bc0439e5b)</sub> | <sub>[8ea61ac](https://github.com/SimplioOfficial/simplio-app/commit/8ea61ac22ada20aaffce57a4878c475bc0439e5b) adding todo - storkandstars</sub> |
 | <sub>2023-01-27 22:22:31</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2a4f50ab95714ea9a634227929a854db9d8fd0d)</sub> | <sub>[d2a4f50](https://github.com/SimplioOfficial/simplio-app/commit/d2a4f50ab95714ea9a634227929a854db9d8fd0d) updating send form translations - storkandstars</sub> |
 | <sub>2023-01-27 22:07:40</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/28c1f78b46f1...36d4a811807d)</sub> | <sub>[0a77fb5](https://github.com/SimplioOfficial/simplio-app/commit/0a77fb57c8fb950f392b56d5bd21d0e0f7a65629) making validation error mutable - storkandstars<br>[b6283b6](https://github.com/SimplioOfficial/simplio-app/commit/b6283b6d9fdede62fdd7191310c981a81ef212c7) updating send form validation - storkandstars<br>[edaa98c](https://github.com/SimplioOfficial/simplio-app/commit/edaa98c9be924eb53920c9172a29cd9a88abc0b9) adding wallet filter to wallet model - storkandstars<br>[36d4a81](https://github.com/SimplioOfficial/simplio-app/commit/36d4a811807d24e6bda0ca7d4fd26db941ba341f) filtering zero balance wallet - storkandstars</sub> |
-| <sub>2023-01-27 19:21:56</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/28c1f78b46f1fdf33202989ee15f5c7e27e0fc89)</sub> | <sub>[28c1f78](https://github.com/SimplioOfficial/simplio-app/commit/28c1f78b46f1fdf33202989ee15f5c7e27e0fc89) adding path navigation for receive asset screen - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
