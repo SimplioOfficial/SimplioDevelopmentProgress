@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-30 12:12:59</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795)</sub> | <sub>[fd34a45](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795) updating big decimal package - storkandstars</sub> |
 | <sub>2023-01-30 10:55:47</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.2](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-01-30 10:37:38</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/ed0dfd27953172a99438ccb4734d0deb1c840e44)</sub> | <sub>[ed0dfd2](https://github.com/SimplioOfficial/sio_big_decimal/commit/ed0dfd27953172a99438ccb4734d0deb1c840e44) fix: made implicit sign empty string. - ciripel</sub> |
 | <sub>2023-01-30 07:54:51</sub> | <sub>[[simplio-app:bug/504\-move\-willpopccope\-on\-top] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/983f1ef293ea9e6b68b44b4aaf23713cb4feb89f)</sub> | <sub>[983f1ef](https://github.com/SimplioOfficial/simplio-app/commit/983f1ef293ea9e6b68b44b4aaf23713cb4feb89f) Completer bug/504-move-willpopccope-on-top - Tomas Petrik</sub> |
