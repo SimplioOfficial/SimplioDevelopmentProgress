@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4347 commits since 10/09/2021. You can see the complete history in
+There is a total of 4348 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-01-30 02:04:05</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/929e820564f8b924113bd8a7e8d176fad5d38bfb)</sub> | <sub>[929e820](https://github.com/SimplioOfficial/simplio-app/commit/929e820564f8b924113bd8a7e8d176fad5d38bfb) removing unused import - storkandstars</sub> |
 | <sub>2023-01-30 01:59:15</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e1073f7f07bd8c9e0c14c6c11ab7fcef4be910a)</sub> | <sub>[5e1073f](https://github.com/SimplioOfficial/simplio-app/commit/5e1073f7f07bd8c9e0c14c6c11ab7fcef4be910a) updating index based translation keys - storkandstars</sub> |
 | <sub>2023-01-30 01:10:40</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b279dd0fb7c1...8d35aa86d6fa)</sub> | <sub>[999cf18](https://github.com/SimplioOfficial/simplio-app/commit/999cf1839a32cbf9b029033ce3fed23424a4d348) 1. Completed Refactor app using Flutter 3.7#506... - TomasPetrik<br>[8d35aa8](https://github.com/SimplioOfficial/simplio-app/commit/8d35aa86d6faa757bd7145927c81de1bcbbaa816) Merge branch 'master' into task/476-asset-send-... - storkandstars</sub> |
 | <sub>2023-01-30 01:08:55</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890)</sub> | <sub>[b279dd0](https://github.com/SimplioOfficial/simplio-app/commit/b279dd0fb7c1149e810c00810fe658cfe68ed890) updating sending content - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4347 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-29 21:22:53</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c947d1d2326cabc9e937b46642ffb7f37eda6f5f)</sub> | <sub>[c947d1d](https://github.com/SimplioOfficial/simplio-app/commit/c947d1d2326cabc9e937b46642ffb7f37eda6f5f) fixing incorrect big int value - storkandstars</sub> |
 | <sub>2023-01-29 20:48:14</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/70eb8d6c477ee11aa1b62bdbbddebc6894e6add4)</sub> | <sub>[70eb8d6](https://github.com/SimplioOfficial/simplio-app/commit/70eb8d6c477ee11aa1b62bdbbddebc6894e6add4) validating summary screen - storkandstars</sub> |
 | <sub>2023-01-28 16:29:55</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8ea61ac22ada...063a202b2e2e)</sub> | <sub>[7bba636](https://github.com/SimplioOfficial/simplio-app/commit/7bba636fd0f312f3de2ac6c81faa285b4a23b56f) using account currency - storkandstars<br>[063a202](https://github.com/SimplioOfficial/simplio-app/commit/063a202b2e2e5001a98870f6c61030b76d12891f) updating translation - storkandstars</sub> |
-| <sub>2023-01-27 22:32:18</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ea61ac22ada20aaffce57a4878c475bc0439e5b)</sub> | <sub>[8ea61ac](https://github.com/SimplioOfficial/simplio-app/commit/8ea61ac22ada20aaffce57a4878c475bc0439e5b) adding todo - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
