@@ -78081,5 +78081,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-31 12:46:28.367000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`34ee4e1`](https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5) feat: add signTransactions - ciripel",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5"
+    }
   }
 ]
