@@ -78099,5 +78099,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-01-31 13:06:16.736000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c97f462`](https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558) fix: fix _signSolanaTransactions - ciripel",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558"
+    }
   }
 ]
