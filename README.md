@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4365 commits since 10/09/2021. You can see the complete history in
+There is a total of 4366 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-02 20:35:29</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9)</sub> | <sub>[e269ec3](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9) fix sending to correct wallet address - storkandstars</sub> |
 | <sub>2023-02-02 18:04:54</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/aafd2bfdb03d...5578d394c905)</sub> | <sub>[c1625f9](https://github.com/SimplioOfficial/simplio-app/commit/c1625f9814f7fd78d78da2645e8cad118bedfa59) turning fee data into network fee - storkandstars<br>[d1f432b](https://github.com/SimplioOfficial/simplio-app/commit/d1f432b2a13a9dbd9320cdc7df395300a2e5f253) updating http client - storkandstars<br>[5578d39](https://github.com/SimplioOfficial/simplio-app/commit/5578d394c905c7e8280bfeba62de567ef6e67de6) wip - broadcasting tx - storkandstars</sub> |
 | <sub>2023-02-02 16:18:59</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.4](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-02 16:16:12</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)</sub> | <sub>[076d726](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)  implement more operators - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4365 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-01 15:39:27</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c97f462f983e...1b17d1154207)</sub> | <sub>[afd2324](https://github.com/SimplioOfficial/simplio-app/commit/afd232474be30ef3ee80214cd6882a6a8679c19e) add nonZeroValues in FeeData - ciripel<br>[77f7ef7](https://github.com/SimplioOfficial/simplio-app/commit/77f7ef74aff5e60189edb4d90f58103b1aaaad57) add dependency_check in makefile - ciripel<br>[5992dc8](https://github.com/SimplioOfficial/simplio-app/commit/5992dc893b13f2d422867f7dbcb4ad4b570a68b2) upgrade dependencies - ciripel<br>[1b17d11](https://github.com/SimplioOfficial/simplio-app/commit/1b17d115420758322f8edc24900c6a18e17a0c59) feat: impl cryptoAmountToSendAfterFee in signedTx - ciripel</sub> |
 | <sub>2023-02-01 13:12:24</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.3](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.3)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-01 13:07:28</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/f09dcd2d133c9a8084d14ce6b5bb0f4ee16eaf81)</sub> | <sub>[f09dcd2](https://github.com/SimplioOfficial/sio_big_decimal/commit/f09dcd2d133c9a8084d14ce6b5bb0f4ee16eaf81) add compareTo method (#1) - ciripel</sub> |
-| <sub>2023-02-01 12:57:44</sub> | <sub>[[sio_big_decimal:feat/add\-compareTo\-method] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/ed0dfd279531...ce49bfaaa6f5)</sub> | <sub>[22ec49c](https://github.com/SimplioOfficial/sio_big_decimal/commit/22ec49c91fcac0e2258b4240f75edc03747ef8e5) feat: added isNegative, one, two and compareTo - ciripel<br>[ce49bfa](https://github.com/SimplioOfficial/sio_big_decimal/commit/ce49bfaaa6f5042bccd85ca812f2012d73a351fe) increase ver to 0.1.3 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
