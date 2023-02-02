@@ -78223,5 +78223,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-02 16:04:58.800000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`bb9ce29`](https://github.com/SimplioOfficial/sio_big_decimal/commit/bb9ce297bbb1de45b34b32adf0fa0ef53adfa85b) fix: implements Comparable interface - ciripel\n[`0d53e61`](https://github.com/SimplioOfficial/sio_big_decimal/commit/0d53e614ea3894e4224061c5563d2f1e3273a4f2) implement more operators - ciripel\n[`7159ed5`](https://github.com/SimplioOfficial/sio_big_decimal/commit/7159ed599396baf1e9feaf218caae88b843160af) increase ver to v0.1.4 - ciripel",
+      "title": "[sio_big_decimal:fix/implements\\_comparable] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/770932a58f86...7159ed599396"
+    }
   }
 ]

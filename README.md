@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4361 commits since 10/09/2021. You can see the complete history in
+There is a total of 4362 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-02 16:04:58</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 3 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/770932a58f86...7159ed599396)</sub> | <sub>[bb9ce29](https://github.com/SimplioOfficial/sio_big_decimal/commit/bb9ce297bbb1de45b34b32adf0fa0ef53adfa85b) fix: implements Comparable interface - ciripel<br>[0d53e61](https://github.com/SimplioOfficial/sio_big_decimal/commit/0d53e614ea3894e4224061c5563d2f1e3273a4f2) implement more operators - ciripel<br>[7159ed5](https://github.com/SimplioOfficial/sio_big_decimal/commit/7159ed599396baf1e9feaf218caae88b843160af) increase ver to v0.1.4 - ciripel</sub> |
 | <sub>2023-02-02 14:10:56</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298)</sub> | <sub>[770932a](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298) chore: upgrade dependencies - ciripel</sub> |
 | <sub>2023-02-02 09:33:50</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aafd2bfdb03d6cf27fa123c67c76f8e35b1aee3d)</sub> | <sub>[aafd2bf](https://github.com/SimplioOfficial/simplio-app/commit/aafd2bfdb03d6cf27fa123c67c76f8e35b1aee3d) fix: SignedTransaction -> BigDecimal networkFee - ciripel</sub> |
 | <sub>2023-02-01 15:39:27</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c97f462f983e...1b17d1154207)</sub> | <sub>[afd2324](https://github.com/SimplioOfficial/simplio-app/commit/afd232474be30ef3ee80214cd6882a6a8679c19e) add nonZeroValues in FeeData - ciripel<br>[77f7ef7](https://github.com/SimplioOfficial/simplio-app/commit/77f7ef74aff5e60189edb4d90f58103b1aaaad57) add dependency_check in makefile - ciripel<br>[5992dc8](https://github.com/SimplioOfficial/simplio-app/commit/5992dc893b13f2d422867f7dbcb4ad4b570a68b2) upgrade dependencies - ciripel<br>[1b17d11](https://github.com/SimplioOfficial/simplio-app/commit/1b17d115420758322f8edc24900c6a18e17a0c59) feat: impl cryptoAmountToSendAfterFee in signedTx - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4361 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-01-31 13:06:16</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558)</sub> | <sub>[c97f462](https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558) fix: fix _signSolanaTransactions - ciripel</sub> |
 | <sub>2023-01-31 12:46:28</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5)</sub> | <sub>[34ee4e1](https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5) feat: add signTransactions - ciripel</sub> |
 | <sub>2023-01-30 12:12:59</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795)</sub> | <sub>[fd34a45](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795) updating big decimal package - storkandstars</sub> |
-| <sub>2023-01-30 10:55:47</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.2](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.2)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
