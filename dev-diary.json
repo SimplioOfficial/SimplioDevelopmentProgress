@@ -78241,5 +78241,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/770932a58f86...7159ed599396"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-02 16:16:12.921000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`076d726`](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)  implement more operators - ciripel",
+      "title": "[sio_big_decimal:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-02 16:18:59.618000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_big_decimal] New release published: v0\\.1\\.4",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4"
+    }
   }
 ]

@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4362 commits since 10/09/2021. You can see the complete history in
+There is a total of 4364 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-02 16:18:59</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.4](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4)</sub> | <sub>_No Commits_</sub> |
+| <sub>2023-02-02 16:16:12</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)</sub> | <sub>[076d726](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)  implement more operators - ciripel</sub> |
 | <sub>2023-02-02 16:04:58</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 3 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/770932a58f86...7159ed599396)</sub> | <sub>[bb9ce29](https://github.com/SimplioOfficial/sio_big_decimal/commit/bb9ce297bbb1de45b34b32adf0fa0ef53adfa85b) fix: implements Comparable interface - ciripel<br>[0d53e61](https://github.com/SimplioOfficial/sio_big_decimal/commit/0d53e614ea3894e4224061c5563d2f1e3273a4f2) implement more operators - ciripel<br>[7159ed5](https://github.com/SimplioOfficial/sio_big_decimal/commit/7159ed599396baf1e9feaf218caae88b843160af) increase ver to v0.1.4 - ciripel</sub> |
 | <sub>2023-02-02 14:10:56</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298)</sub> | <sub>[770932a](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298) chore: upgrade dependencies - ciripel</sub> |
 | <sub>2023-02-02 09:33:50</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aafd2bfdb03d6cf27fa123c67c76f8e35b1aee3d)</sub> | <sub>[aafd2bf](https://github.com/SimplioOfficial/simplio-app/commit/aafd2bfdb03d6cf27fa123c67c76f8e35b1aee3d) fix: SignedTransaction -> BigDecimal networkFee - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 4362 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-01 13:07:28</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/f09dcd2d133c9a8084d14ce6b5bb0f4ee16eaf81)</sub> | <sub>[f09dcd2](https://github.com/SimplioOfficial/sio_big_decimal/commit/f09dcd2d133c9a8084d14ce6b5bb0f4ee16eaf81) add compareTo method (#1) - ciripel</sub> |
 | <sub>2023-02-01 12:57:44</sub> | <sub>[[sio_big_decimal:feat/add\-compareTo\-method] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/ed0dfd279531...ce49bfaaa6f5)</sub> | <sub>[22ec49c](https://github.com/SimplioOfficial/sio_big_decimal/commit/22ec49c91fcac0e2258b4240f75edc03747ef8e5) feat: added isNegative, one, two and compareTo - ciripel<br>[ce49bfa](https://github.com/SimplioOfficial/sio_big_decimal/commit/ce49bfaaa6f5042bccd85ca812f2012d73a351fe) increase ver to 0.1.3 - ciripel</sub> |
 | <sub>2023-01-31 13:06:16</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558)</sub> | <sub>[c97f462](https://github.com/SimplioOfficial/simplio-app/commit/c97f462f983e6840ddbc2237e384dd1766e32558) fix: fix _signSolanaTransactions - ciripel</sub> |
-| <sub>2023-01-31 12:46:28</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5)</sub> | <sub>[34ee4e1](https://github.com/SimplioOfficial/simplio-app/commit/34ee4e1f0bf004a2999fcc84f59c43c58e4107f5) feat: add signTransactions - ciripel</sub> |
-| <sub>2023-01-30 12:12:59</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795)</sub> | <sub>[fd34a45](https://github.com/SimplioOfficial/simplio-app/commit/fd34a452bbc4de5d65b11e2eb91a6a507f6e1795) updating big decimal package - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
