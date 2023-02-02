@@ -78275,5 +78275,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-02 18:04:54.782000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`c1625f9`](https://github.com/SimplioOfficial/simplio-app/commit/c1625f9814f7fd78d78da2645e8cad118bedfa59) turning fee data into network fee - storkandstars\n[`d1f432b`](https://github.com/SimplioOfficial/simplio-app/commit/d1f432b2a13a9dbd9320cdc7df395300a2e5f253) updating http client - storkandstars\n[`5578d39`](https://github.com/SimplioOfficial/simplio-app/commit/5578d394c905c7e8280bfeba62de567ef6e67de6) wip - broadcasting tx - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/aafd2bfdb03d...5578d394c905"
+    }
   }
 ]
