@@ -78437,5 +78437,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/076d72632abd...63f3c2f71f19"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 12:50:52.510000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dc7a30b`](https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8) Fix/fix compare to (#3) - ciripel",
+      "title": "[sio_big_decimal:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8"
+    }
   }
 ]
