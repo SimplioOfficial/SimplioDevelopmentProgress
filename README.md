@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4372 commits since 10/09/2021. You can see the complete history in
+There is a total of 4373 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-03 12:48:57</sub> | <sub>[[sio_big_decimal:fix/fix\_compareTo] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/076d72632abd...63f3c2f71f19)</sub> | <sub>[67fc6c5](https://github.com/SimplioOfficial/sio_big_decimal/commit/67fc6c57f14b02cc3301e25dc28bbe2fac0cbf69) fix: compareTo works with different precisions now - ciripel<br>[63f3c2f](https://github.com/SimplioOfficial/sio_big_decimal/commit/63f3c2f71f19b710ce2f17fbfc31c6769676a101) chore: increase ver to v.0.1.5 - ciripel</sub> |
 | <sub>2023-02-03 11:15:56</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d91a99129d2cf89c71552898cf4c7e6f04243f78)</sub> | <sub>[d91a991](https://github.com/SimplioOfficial/simplio-app/commit/d91a99129d2cf89c71552898cf4c7e6f04243f78) chore: dependency_overrides intl 0.18.0 - ciripel</sub> |
 | <sub>2023-02-03 07:45:42</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07)</sub> | <sub>[1fa7a57](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07) 1. Fixed stucked expanded item when go back fro... - Tomas Petrik</sub> |
 | <sub>2023-02-03 07:41:13</sub> | <sub>[[simplio-app:bug/498\-app\-stucks\-on\-dark\-screen\-when\-swipe\-on\-main\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5)</sub> | <sub>[597542e](https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5) Bug/504 move willpopccope on top (#510) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4372 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-02 20:35:29</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9)</sub> | <sub>[e269ec3](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9) fix sending to correct wallet address - storkandstars</sub> |
 | <sub>2023-02-02 18:04:54</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/aafd2bfdb03d...5578d394c905)</sub> | <sub>[c1625f9](https://github.com/SimplioOfficial/simplio-app/commit/c1625f9814f7fd78d78da2645e8cad118bedfa59) turning fee data into network fee - storkandstars<br>[d1f432b](https://github.com/SimplioOfficial/simplio-app/commit/d1f432b2a13a9dbd9320cdc7df395300a2e5f253) updating http client - storkandstars<br>[5578d39](https://github.com/SimplioOfficial/simplio-app/commit/5578d394c905c7e8280bfeba62de567ef6e67de6) wip - broadcasting tx - storkandstars</sub> |
 | <sub>2023-02-02 16:18:59</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.4](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4)</sub> | <sub>_No Commits_</sub> |
-| <sub>2023-02-02 16:16:12</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)</sub> | <sub>[076d726](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)  implement more operators - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

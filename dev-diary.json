@@ -78419,5 +78419,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d91a99129d2cf89c71552898cf4c7e6f04243f78"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 12:48:57.743000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`67fc6c5`](https://github.com/SimplioOfficial/sio_big_decimal/commit/67fc6c57f14b02cc3301e25dc28bbe2fac0cbf69) fix: compareTo works with different precisions now - ciripel\n[`63f3c2f`](https://github.com/SimplioOfficial/sio_big_decimal/commit/63f3c2f71f19b710ce2f17fbfc31c6769676a101) chore: increase ver to v.0.1.5 - ciripel",
+      "title": "[sio_big_decimal:fix/fix\\_compareTo] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/076d72632abd...63f3c2f71f19"
+    }
   }
 ]
