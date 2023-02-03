@@ -78489,5 +78489,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/d91a99129d2c...2ab369a1d9c2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 15:36:38.126000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9b4e8bd`](https://github.com/SimplioOfficial/simplio-app/commit/9b4e8bd2947848cd3673d0868d7b497ca30af4ce) lowering refresh balance interval - storkandstars\n[`3d45a11`](https://github.com/SimplioOfficial/simplio-app/commit/3d45a1192072ac74e33f6ec25055b9e522ffaeb1) catching error while signing - storkandstars\n[`a0e06c0`](https://github.com/SimplioOfficial/simplio-app/commit/a0e06c0e492f404640a4e3e4b4d182707e21ed89) handing empty list - storkandstars\n[`3cb623c`](https://github.com/SimplioOfficial/simplio-app/commit/3cb623c4d67ae0f949139e410aa79d3d6a28320f) updating crypto value after signing - storkandstars\n[`1ac8a5a`](https://github.com/SimplioOfficial/simplio-app/commit/1ac8a5ae7812212b3876f96381d847d5631bb3b5) removing comments - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/2ab369a1d9c2...e2feaee948ea"
+    }
   }
 ]
