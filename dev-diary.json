@@ -78507,5 +78507,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/2ab369a1d9c2...e2feaee948ea"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 19:27:13.798000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`6e7cfe7`](https://github.com/SimplioOfficial/simplio-app/commit/6e7cfe726ac1682084c35e065161e98e6a798936) network fee with set of big decimal values - storkandstars",
+      "title": "[simplio-app:task/476\\-asset\\-send\\-form] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/6e7cfe726ac1682084c35e065161e98e6a798936"
+    }
   }
 ]
