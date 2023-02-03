@@ -78347,5 +78347,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 07:40:54.141000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`d189b22`](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135) bug/498-app-stucks-on-dark-screen-when-swipe-on... - TomasPetrik\n[`2ff74af`](https://github.com/SimplioOfficial/simplio-app/commit/2ff74afc04f1bbd4c8e34631572775d4189b7f08) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik",
+      "title": "[simplio-app:bug/504\\-move\\-willpopccope\\-on\\-top] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/983f1ef293ea...2ff74afc04f1"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 07:41:13.148000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`597542e`](https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5) Bug/504 move willpopccope on top (#510) - TomasPetrik",
+      "title": "[simplio-app:bug/498\\-app\\-stucks\\-on\\-dark\\-screen\\-when\\-swipe\\-on\\-main\\-screen] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5"
+    }
   }
 ]
