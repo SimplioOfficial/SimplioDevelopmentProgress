@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4370 commits since 10/09/2021. You can see the complete history in
+There is a total of 4371 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-03 07:45:42</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07)</sub> | <sub>[1fa7a57](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07) 1. Fixed stucked expanded item when go back fro... - Tomas Petrik</sub> |
 | <sub>2023-02-03 07:41:13</sub> | <sub>[[simplio-app:bug/498\-app\-stucks\-on\-dark\-screen\-when\-swipe\-on\-main\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5)</sub> | <sub>[597542e](https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5) Bug/504 move willpopccope on top (#510) - TomasPetrik</sub> |
 | <sub>2023-02-03 07:40:54</sub> | <sub>[[simplio-app:bug/504\-move\-willpopccope\-on\-top] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/983f1ef293ea...2ff74afc04f1)</sub> | <sub>[d189b22](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135) bug/498-app-stucks-on-dark-screen-when-swipe-on... - TomasPetrik<br>[2ff74af](https://github.com/SimplioOfficial/simplio-app/commit/2ff74afc04f1bbd4c8e34631572775d4189b7f08) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik</sub> |
 | <sub>2023-02-03 07:37:55</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135)</sub> | <sub>[d189b22](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135) bug/498-app-stucks-on-dark-screen-when-swipe-on... - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4370 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-02 16:18:59</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.4](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.4)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-02 16:16:12</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)</sub> | <sub>[076d726](https://github.com/SimplioOfficial/sio_big_decimal/commit/076d72632abd149477103d04db2fa19aa80718cb)  implement more operators - ciripel</sub> |
 | <sub>2023-02-02 16:04:58</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 3 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/770932a58f86...7159ed599396)</sub> | <sub>[bb9ce29](https://github.com/SimplioOfficial/sio_big_decimal/commit/bb9ce297bbb1de45b34b32adf0fa0ef53adfa85b) fix: implements Comparable interface - ciripel<br>[0d53e61](https://github.com/SimplioOfficial/sio_big_decimal/commit/0d53e614ea3894e4224061c5563d2f1e3273a4f2) implement more operators - ciripel<br>[7159ed5](https://github.com/SimplioOfficial/sio_big_decimal/commit/7159ed599396baf1e9feaf218caae88b843160af) increase ver to v0.1.4 - ciripel</sub> |
-| <sub>2023-02-02 14:10:56</sub> | <sub>[[sio_big_decimal:fix/implements\_comparable] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298)</sub> | <sub>[770932a](https://github.com/SimplioOfficial/sio_big_decimal/commit/770932a58f86dd37cdf463160fc750cf4a2b3298) chore: upgrade dependencies - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

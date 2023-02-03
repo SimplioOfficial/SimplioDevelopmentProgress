@@ -78383,5 +78383,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/597542e929050eca70f4627aa8a0570134e06fa5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-03 07:45:42.242000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`1fa7a57`](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07) 1. Fixed stucked expanded item when go back fro... - Tomas Petrik",
+      "title": "[simplio-app:bug/508\\-stucked\\-expanded\\-item\\-when\\-go\\-back\\-from\\-coin\\-detail] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07"
+    }
   }
 ]
