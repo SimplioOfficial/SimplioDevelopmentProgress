@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4375 commits since 10/09/2021. You can see the complete history in
+There is a total of 4376 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-03 13:22:39</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d91a99129d2c...2ab369a1d9c2)</sub> | <sub>[1845457](https://github.com/SimplioOfficial/simplio-app/commit/1845457a7808519a02ab02d8df67f143c06de818) chore: increase sio_big_decimal to 0.1.5 - ciripel<br>[b9602a8](https://github.com/SimplioOfficial/simplio-app/commit/b9602a864b8f8deed814f0f430d0804c44c14385) fix: cryptoAmountToSendAfterFee - ciripel<br>[2ab369a](https://github.com/SimplioOfficial/simplio-app/commit/2ab369a1d9c23c39bcd18e895ece3f620ee40eb4) refactor: use BigDecimal operators - ciripel</sub> |
 | <sub>2023-02-03 12:55:20</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.1\.5](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.1.5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-03 12:50:52</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8)</sub> | <sub>[dc7a30b](https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8) Fix/fix compare to (#3) - ciripel</sub> |
 | <sub>2023-02-03 12:48:57</sub> | <sub>[[sio_big_decimal:fix/fix\_compareTo] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/076d72632abd...63f3c2f71f19)</sub> | <sub>[67fc6c5](https://github.com/SimplioOfficial/sio_big_decimal/commit/67fc6c57f14b02cc3301e25dc28bbe2fac0cbf69) fix: compareTo works with different precisions now - ciripel<br>[63f3c2f](https://github.com/SimplioOfficial/sio_big_decimal/commit/63f3c2f71f19b710ce2f17fbfc31c6769676a101) chore: increase ver to v.0.1.5 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4375 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-03 07:40:54</sub> | <sub>[[simplio-app:bug/504\-move\-willpopccope\-on\-top] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/983f1ef293ea...2ff74afc04f1)</sub> | <sub>[d189b22](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135) bug/498-app-stucks-on-dark-screen-when-swipe-on... - TomasPetrik<br>[2ff74af](https://github.com/SimplioOfficial/simplio-app/commit/2ff74afc04f1bbd4c8e34631572775d4189b7f08) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik</sub> |
 | <sub>2023-02-03 07:37:55</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135)</sub> | <sub>[d189b22](https://github.com/SimplioOfficial/simplio-app/commit/d189b229d5d84b08d261db282b890abc59832135) bug/498-app-stucks-on-dark-screen-when-swipe-on... - TomasPetrik</sub> |
 | <sub>2023-02-02 21:48:27</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0bf1c10b9604c7a393fb04c9fd391a28eb5ab45)</sub> | <sub>[f0bf1c1](https://github.com/SimplioOfficial/simplio-app/commit/f0bf1c10b9604c7a393fb04c9fd391a28eb5ab45) wip - updating total crypto amount - storkandstars</sub> |
-| <sub>2023-02-02 20:35:29</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9)</sub> | <sub>[e269ec3](https://github.com/SimplioOfficial/simplio-app/commit/e269ec3f31317e04aa3e518825a30048d13571a9) fix sending to correct wallet address - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
