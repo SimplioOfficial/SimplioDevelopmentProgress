@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4380 commits since 10/09/2021. You can see the complete history in
+There is a total of 4381 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-04 20:51:19</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e177f4ca3d1119f9b474fc2b11975ed27ad0a003)</sub> | <sub>[e177f4c](https://github.com/SimplioOfficial/simplio-app/commit/e177f4ca3d1119f9b474fc2b11975ed27ad0a003) adding select box widget - storkandstars</sub> |
 | <sub>2023-02-04 20:09:30</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c26b4f8c4c01f78ba2b9a9bebf7bba858c372d2c)</sub> | <sub>[c26b4f8](https://github.com/SimplioOfficial/simplio-app/commit/c26b4f8c4c01f78ba2b9a9bebf7bba858c372d2c) analyze fix - storkandstars</sub> |
 | <sub>2023-02-04 19:56:07</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8ebb8269bda9b9843e29790bdca1b74e09fceb1)</sub> | <sub>[c8ebb82](https://github.com/SimplioOfficial/simplio-app/commit/c8ebb8269bda9b9843e29790bdca1b74e09fceb1) optional auth token entity - storkandstars</sub> |
 | <sub>2023-02-03 19:27:13</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e7cfe726ac1682084c35e065161e98e6a798936)</sub> | <sub>[6e7cfe7](https://github.com/SimplioOfficial/simplio-app/commit/6e7cfe726ac1682084c35e065161e98e6a798936) network fee with set of big decimal values - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4380 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-03 12:50:52</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8)</sub> | <sub>[dc7a30b](https://github.com/SimplioOfficial/sio_big_decimal/commit/dc7a30b17f5199fafac68a6779ea14716d97e2a8) Fix/fix compare to (#3) - ciripel</sub> |
 | <sub>2023-02-03 12:48:57</sub> | <sub>[[sio_big_decimal:fix/fix\_compareTo] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/076d72632abd...63f3c2f71f19)</sub> | <sub>[67fc6c5](https://github.com/SimplioOfficial/sio_big_decimal/commit/67fc6c57f14b02cc3301e25dc28bbe2fac0cbf69) fix: compareTo works with different precisions now - ciripel<br>[63f3c2f](https://github.com/SimplioOfficial/sio_big_decimal/commit/63f3c2f71f19b710ce2f17fbfc31c6769676a101) chore: increase ver to v.0.1.5 - ciripel</sub> |
 | <sub>2023-02-03 11:15:56</sub> | <sub>[[simplio-app:task/476\-asset\-send\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d91a99129d2cf89c71552898cf4c7e6f04243f78)</sub> | <sub>[d91a991](https://github.com/SimplioOfficial/simplio-app/commit/d91a99129d2cf89c71552898cf4c7e6f04243f78) chore: dependency_overrides intl 0.18.0 - ciripel</sub> |
-| <sub>2023-02-03 07:45:42</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07)</sub> | <sub>[1fa7a57](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07) 1. Fixed stucked expanded item when go back fro... - Tomas Petrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
