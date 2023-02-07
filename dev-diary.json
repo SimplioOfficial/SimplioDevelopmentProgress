@@ -78669,5 +78669,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/d0ff624aaee36b6fe9dbfdaf6acc67edb3666d4d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-07 20:06:01.167000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8a1b107`](https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288) chore: update dependencies - ciripel",
+      "title": "[trust_wallet_core_lib:feat/update\\_core\\_api\\_to\\_3\\.1\\.12] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288"
+    }
   }
 ]
