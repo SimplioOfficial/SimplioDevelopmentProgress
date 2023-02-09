@@ -78759,5 +78759,57 @@
       "type": "rich",
       "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/344a971b063e1a807e8a7b4a0f12106de309f7d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-09 11:25:58.542000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c2a1b41`](https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2) chore: increase version to 0.0.7+3.0.4 - ciripel",
+      "title": "[trust_wallet_core_lib:feat/update\\_core\\_api\\_to\\_3\\.0\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-09 11:27:13.592000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c142caa`](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202) Feat/update core api to 3.0.4 (#4) - ciripel",
+      "title": "[trust_wallet_core_lib:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-09 11:29:10.584000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[ciripel/trust_wallet_core_lib] New release published: 0\\.0\\.7\\+3\\.0\\.4",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4"
+    }
   }
 ]
