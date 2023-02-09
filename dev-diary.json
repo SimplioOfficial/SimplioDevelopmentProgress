@@ -78741,5 +78741,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/trust_wallet_core_lib/compare/15cf44310f72...0bd0a9a361f6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-09 10:04:47.787000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`344a971`](https://github.com/ciripel/trust_wallet_core_lib/commit/344a971b063e1a807e8a7b4a0f12106de309f7d4) chore: replace symlinks with actual files - ciripel",
+      "title": "[trust_wallet_core_lib:feat/update\\_core\\_api\\_to\\_3\\.0\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/trust_wallet_core_lib/commit/344a971b063e1a807e8a7b4a0f12106de309f7d4"
+    }
   }
 ]
