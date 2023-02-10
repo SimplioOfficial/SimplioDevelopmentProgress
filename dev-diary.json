@@ -78811,5 +78811,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-10 09:34:59.748000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/19605213?v=4",
+        "name": "TomasPetrik",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/E6EFSXs-49ZbcyFR3YUsJvTJeITFz1iUIrgQzcqEQ5U/%3Fv%3D4/https/avatars.githubusercontent.com/u/19605213",
+        "url": "https://github.com/TomasPetrik"
+      },
+      "color": 7506394,
+      "description": "[`8ffdca0`](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7) 1. Commeted code for authenticate method for Re... - Tomas Petrik",
+      "title": "[simplio-app:refactor/512\\-blocking\\-authenticator] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7"
+    }
   }
 ]

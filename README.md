@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4394 commits since 10/09/2021. You can see the complete history in
+There is a total of 4395 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-10 09:34:59</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7)</sub> | <sub>[8ffdca0](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7) 1. Commeted code for authenticate method for Re... - Tomas Petrik</sub> |
 | <sub>2023-02-09 11:29:10</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.7\+3\.0\.4](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-09 11:27:13</sub> | <sub>[[trust_wallet_core_lib:master] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202)</sub> | <sub>[c142caa](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202) Feat/update core api to 3.0.4 (#4) - ciripel</sub> |
 | <sub>2023-02-09 11:25:58</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.0\.4] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2)</sub> | <sub>[c2a1b41](https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2) chore: increase version to 0.0.7+3.0.4 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4394 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-08 14:07:16</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dca13baa2cf003d4454512a34d779145d4764d6e)</sub> | <sub>[dca13ba](https://github.com/SimplioOfficial/simplio-app/commit/dca13baa2cf003d4454512a34d779145d4764d6e) Completed REFACTOR - blocking authenticator#512 - Tomas Petrik</sub> |
 | <sub>2023-02-07 20:06:01</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.1\.12] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288)</sub> | <sub>[8a1b107](https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288) chore: update dependencies - ciripel</sub> |
 | <sub>2023-02-07 19:52:17</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.1\.12] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/d0ff624aaee36b6fe9dbfdaf6acc67edb3666d4d)</sub> | <sub>[d0ff624](https://github.com/ciripel/trust_wallet_core_lib/commit/d0ff624aaee36b6fe9dbfdaf6acc67edb3666d4d) update build to 3.1.2 - ciripel</sub> |
-| <sub>2023-02-06 14:30:55</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fb510b633ae5840f262dd5797da198fc46f929ab)</sub> | <sub>[fb510b6](https://github.com/SimplioOfficial/simplio-app/commit/fb510b633ae5840f262dd5797da198fc46f929ab) Task/476 sending assets (#509) - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
