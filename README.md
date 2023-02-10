@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4396 commits since 10/09/2021. You can see the complete history in
+There is a total of 4397 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-10 09:48:24</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af3d2b1cad8e15aa858fdeee43c051ff058c6516)</sub> | <sub>[af3d2b1](https://github.com/SimplioOfficial/simplio-app/commit/af3d2b1cad8e15aa858fdeee43c051ff058c6516) 1. Added ios/Podfile.lock to .gitignore - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:40:40</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5)</sub> | <sub>[537491a](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5) Reverted Podfile.lock - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:34:59</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7)</sub> | <sub>[8ffdca0](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7) 1. Commeted code for authenticate method for Re... - Tomas Petrik</sub> |
 | <sub>2023-02-09 11:29:10</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.7\+3\.0\.4](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4396 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-09 09:44:33</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.0\.4] 7 new commits](https://github.com/ciripel/trust_wallet_core_lib/compare/15cf44310f72...0bd0a9a361f6)</sub> | <sub>[cd7847c](https://github.com/ciripel/trust_wallet_core_lib/commit/cd7847c661a5f501d3cc22a738b45cec38a3687e) feat: update native ios and android builds - ciripel<br>[8553f3c](https://github.com/ciripel/trust_wallet_core_lib/commit/8553f3cc206f05edfaf57c475550e80bcc4d081d) feat: update proto schema and script - ciripel<br>[08ea70e](https://github.com/ciripel/trust_wallet_core_lib/commit/08ea70ea556c22488304cf76d7894f9240188770) chore: format files - ciripel<br>[b7ab393](https://github.com/ciripel/trust_wallet_core_lib/commit/b7ab393fc18a8fd4230404501cb6923e0ce166cb) chore: upgrade dependencies - ciripel<br>[29530a8](https://github.com/ciripel/trust_wallet_core_lib/commit/29530a8bd4feed8e03bd60b6fae018151d688a3b) feat: upgrade lib impl - ciripel</sub> |
 | <sub>2023-02-09 07:40:27</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.1\.12] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/b8755e387b54587669653a99629239fc0a03f9fc)</sub> | <sub>[b8755e3](https://github.com/ciripel/trust_wallet_core_lib/commit/b8755e387b54587669653a99629239fc0a03f9fc) feat: update proto files to 3.1.12 - ciripel</sub> |
 | <sub>2023-02-08 14:07:16</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dca13baa2cf003d4454512a34d779145d4764d6e)</sub> | <sub>[dca13ba](https://github.com/SimplioOfficial/simplio-app/commit/dca13baa2cf003d4454512a34d779145d4764d6e) Completed REFACTOR - blocking authenticator#512 - Tomas Petrik</sub> |
-| <sub>2023-02-07 20:06:01</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.1\.12] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288)</sub> | <sub>[8a1b107](https://github.com/ciripel/trust_wallet_core_lib/commit/8a1b10715ddb9d442bbbfe398f463335c3961288) chore: update dependencies - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

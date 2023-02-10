@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-10 09:48:24</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af3d2b1cad8e15aa858fdeee43c051ff058c6516)</sub> | <sub>[af3d2b1](https://github.com/SimplioOfficial/simplio-app/commit/af3d2b1cad8e15aa858fdeee43c051ff058c6516) 1. Added ios/Podfile.lock to .gitignore - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:40:40</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5)</sub> | <sub>[537491a](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5) Reverted Podfile.lock - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:34:59</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7)</sub> | <sub>[8ffdca0](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7) 1. Commeted code for authenticate method for Re... - Tomas Petrik</sub> |
 | <sub>2023-02-09 11:29:10</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.7\+3\.0\.4](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4)</sub> | <sub>_No Commits_</sub> |
