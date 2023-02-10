@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4400 commits since 10/09/2021. You can see the complete history in
+There is a total of 4401 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-10 11:15:45</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0)</sub> | <sub>[f711509](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0) fix: use already signed selected tx for utxo coins - ciripel</sub> |
 | <sub>2023-02-10 09:53:39</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3)</sub> | <sub>[035538c](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3) 1. Reverted pubspec.lock - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:52:01</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcaa425cd9fbc8c11701fd05758a944ddc36e4db)</sub> | <sub>[bcaa425](https://github.com/SimplioOfficial/simplio-app/commit/bcaa425cd9fbc8c11701fd05758a944ddc36e4db) 1. Reverted pubspec.lock - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:50:37</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8ffdca0ee5fd...236a63f4ecac)</sub> | <sub>[1fa7a57](https://github.com/SimplioOfficial/simplio-app/commit/1fa7a57df055cb4bfc04780f4190f8f754a7fa07) 1. Fixed stucked expanded item when go back fro... - Tomas Petrik<br>[537491a](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5) Reverted Podfile.lock - Tomas Petrik<br>[af3d2b1](https://github.com/SimplioOfficial/simplio-app/commit/af3d2b1cad8e15aa858fdeee43c051ff058c6516) 1. Added ios/Podfile.lock to .gitignore - Tomas Petrik<br>[236a63f](https://github.com/SimplioOfficial/simplio-app/commit/236a63f4ecac78098efdf5335b7a6c5d23e722a6) 1. Rebased by #508 - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4400 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-09 11:29:10</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.7\+3\.0\.4](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-09 11:27:13</sub> | <sub>[[trust_wallet_core_lib:master] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202)</sub> | <sub>[c142caa](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202) Feat/update core api to 3.0.4 (#4) - ciripel</sub> |
 | <sub>2023-02-09 11:25:58</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.0\.4] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2)</sub> | <sub>[c2a1b41](https://github.com/ciripel/trust_wallet_core_lib/commit/c2a1b41032c9a236d51552595c65369268f38da2) chore: increase version to 0.0.7+3.0.4 - ciripel</sub> |
-| <sub>2023-02-09 10:04:47</sub> | <sub>[[trust_wallet_core_lib:feat/update\_core\_api\_to\_3\.0\.4] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/344a971b063e1a807e8a7b4a0f12106de309f7d4)</sub> | <sub>[344a971](https://github.com/ciripel/trust_wallet_core_lib/commit/344a971b063e1a807e8a7b4a0f12106de309f7d4) chore: replace symlinks with actual files - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
