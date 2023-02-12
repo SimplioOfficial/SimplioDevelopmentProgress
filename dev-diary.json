@@ -78955,5 +78955,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/7244fa7fee7d...8cf24f4ad6b2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-12 16:36:42.430000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3200855`](https://github.com/SimplioOfficial/sio_core_light/commit/3200855179f4b4852d12ae777f7950e786fd1a05) fix: allow signed max amount - ciripel",
+      "title": "[sio_core_light:feat/implement\\_utxo\\_signing\\_without\\_error\\_handling] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/3200855179f4b4852d12ae777f7950e786fd1a05"
+    }
   }
 ]

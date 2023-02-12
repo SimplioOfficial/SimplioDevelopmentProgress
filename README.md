@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4402 commits since 10/09/2021. You can see the complete history in
+There is a total of 4403 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-12 16:36:42</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/3200855179f4b4852d12ae777f7950e786fd1a05)</sub> | <sub>[3200855](https://github.com/SimplioOfficial/sio_core_light/commit/3200855179f4b4852d12ae777f7950e786fd1a05) fix: allow signed max amount - ciripel</sub> |
 | <sub>2023-02-12 16:03:59</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/7244fa7fee7d...8cf24f4ad6b2)</sub> | <sub>[0818ecf](https://github.com/SimplioOfficial/sio_core_light/commit/0818ecf45e1906dd9e0fb2f0aaa07b9d84377ece) chore: update dependencies - ciripel<br>[8cf24f4](https://github.com/SimplioOfficial/sio_core_light/commit/8cf24f4ad6b2694f696f44af2a00ad29edb11ec7) ci: upgrade flutter to 3.7.3 - ciripel</sub> |
 | <sub>2023-02-10 11:15:45</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0)</sub> | <sub>[f711509](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0) fix: use already signed selected tx for utxo coins - ciripel</sub> |
 | <sub>2023-02-10 09:53:39</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3)</sub> | <sub>[035538c](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3) 1. Reverted pubspec.lock - Tomas Petrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 4402 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-10 09:40:40</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5)</sub> | <sub>[537491a](https://github.com/SimplioOfficial/simplio-app/commit/537491a1ac518414918cd4b096d7a631922958b5) Reverted Podfile.lock - Tomas Petrik</sub> |
 | <sub>2023-02-10 09:34:59</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7)</sub> | <sub>[8ffdca0](https://github.com/SimplioOfficial/simplio-app/commit/8ffdca0ee5fd93d4d1a092761b7097e0022180e7) 1. Commeted code for authenticate method for Re... - Tomas Petrik</sub> |
 | <sub>2023-02-09 11:29:10</sub> | <sub>[[ciripel/trust_wallet_core_lib] New release published: 0\.0\.7\+3\.0\.4](https://github.com/ciripel/trust_wallet_core_lib/releases/tag/0.0.7%2B3.0.4)</sub> | <sub>_No Commits_</sub> |
-| <sub>2023-02-09 11:27:13</sub> | <sub>[[trust_wallet_core_lib:master] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202)</sub> | <sub>[c142caa](https://github.com/ciripel/trust_wallet_core_lib/commit/c142caa4e996f97b68f21b79b43513329da7e202) Feat/update core api to 3.0.4 (#4) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
