@@ -78937,5 +78937,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-12 16:03:59.403000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0818ecf`](https://github.com/SimplioOfficial/sio_core_light/commit/0818ecf45e1906dd9e0fb2f0aaa07b9d84377ece) chore: update dependencies - ciripel\n[`8cf24f4`](https://github.com/SimplioOfficial/sio_core_light/commit/8cf24f4ad6b2694f696f44af2a00ad29edb11ec7) ci: upgrade flutter to 3.7.3 - ciripel",
+      "title": "[sio_core_light:feat/implement\\_utxo\\_signing\\_without\\_error\\_handling] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/7244fa7fee7d...8cf24f4ad6b2"
+    }
   }
 ]
