@@ -79009,5 +79009,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/9abfa745e4808dba0aece589eb9003e288e2052b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-13 19:28:49.390000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d4176d7`](https://github.com/SimplioOfficial/sio_core_light/commit/d4176d74e804ad3c792a3a254803befe4b4eb49b) feat: implement adjusted network fees! - ciripel",
+      "title": "[sio_core_light:feat/implement\\_utxo\\_signing\\_without\\_error\\_handling] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/d4176d74e804ad3c792a3a254803befe4b4eb49b"
+    }
   }
 ]
