@@ -78991,5 +78991,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...e25fba964a32"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-13 17:49:17.928000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`9abfa74`](https://github.com/SimplioOfficial/simplio-app/commit/9abfa745e4808dba0aece589eb9003e288e2052b) refactor inventory screen with flutter native api - storkandstars",
+      "title": "[simplio-app:task/515\\-global\\-transaction\\-history] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/9abfa745e4808dba0aece589eb9003e288e2052b"
+    }
   }
 ]
