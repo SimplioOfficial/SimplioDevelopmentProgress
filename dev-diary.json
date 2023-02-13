@@ -78973,5 +78973,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/3200855179f4b4852d12ae777f7950e786fd1a05"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-13 11:05:46.215000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`d63ebe3`](https://github.com/SimplioOfficial/simplio-app/commit/d63ebe3596145d6ec826e639109b87c22d17341d) adding date text widget - storkandstars\n[`263dfaa`](https://github.com/SimplioOfficial/simplio-app/commit/263dfaaa4974c74dd0b38ccdd7a7143150dd44d9) removing date extension - storkandstars\n[`609a07b`](https://github.com/SimplioOfficial/simplio-app/commit/609a07b390c6e4442e35508181d3f1a173578156) removing transaction content - storkandstars\n[`a650359`](https://github.com/SimplioOfficial/simplio-app/commit/a65035918fe282ee625e3de1a702b02fd4f5c716) removing transaction item - storkandstars\n[`94fec8d`](https://github.com/SimplioOfficial/simplio-app/commit/94fec8dc0d56568af3417f9e195c0728cbb5ff45) removing transaction cubit - storkandstars",
+      "title": "[simplio-app:task/515\\-global\\-transaction\\-history] 15 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...e25fba964a32"
+    }
   }
 ]
