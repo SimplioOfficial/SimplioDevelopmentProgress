@@ -79045,5 +79045,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/d4176d74e804...98d2c281ff2e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 07:25:41.959000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`48de75f`](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf) Feat/implement utxo signing without error handl... - ciripel",
+      "title": "[sio_core_light:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf"
+    }
   }
 ]
