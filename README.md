@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4408 commits since 10/09/2021. You can see the complete history in
+There is a total of 4409 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 07:36:15</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb)</sub> | <sub>[e15a3ec](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb) chore: fixed typo in toAssetTransactionSentSuccess - ciripel</sub> |
 | <sub>2023-02-14 07:25:41</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf)</sub> | <sub>[48de75f](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf) Feat/implement utxo signing without error handl... - ciripel</sub> |
 | <sub>2023-02-14 07:09:34</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/d4176d74e804...98d2c281ff2e)</sub> | <sub>[9565ecd](https://github.com/SimplioOfficial/sio_core_light/commit/9565ecd4018c8a9e93178b855feb9d143479d080) chore: force trust_wallet_core_lib 0.0.6+2.9.4 - ciripel<br>[98d2c28](https://github.com/SimplioOfficial/sio_core_light/commit/98d2c281ff2eebb7eb75b72ad0207a4cfced1832) chore: increase version to 1.1.9 - ciripel</sub> |
 | <sub>2023-02-13 19:28:49</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/d4176d74e804ad3c792a3a254803befe4b4eb49b)</sub> | <sub>[d4176d7](https://github.com/SimplioOfficial/sio_core_light/commit/d4176d74e804ad3c792a3a254803befe4b4eb49b) feat: implement adjusted network fees! - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4408 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-12 16:03:59</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/7244fa7fee7d...8cf24f4ad6b2)</sub> | <sub>[0818ecf](https://github.com/SimplioOfficial/sio_core_light/commit/0818ecf45e1906dd9e0fb2f0aaa07b9d84377ece) chore: update dependencies - ciripel<br>[8cf24f4](https://github.com/SimplioOfficial/sio_core_light/commit/8cf24f4ad6b2694f696f44af2a00ad29edb11ec7) ci: upgrade flutter to 3.7.3 - ciripel</sub> |
 | <sub>2023-02-10 11:15:45</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0)</sub> | <sub>[f711509](https://github.com/SimplioOfficial/simplio-app/commit/f711509c37615159091cc7a13c8b6365106142b0) fix: use already signed selected tx for utxo coins - ciripel</sub> |
 | <sub>2023-02-10 09:53:39</sub> | <sub>[[simplio-app:bug/508\-stucked\-expanded\-item\-when\-go\-back\-from\-coin\-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3)</sub> | <sub>[035538c](https://github.com/SimplioOfficial/simplio-app/commit/035538c4962cfe4e4b34f7aca0e4e9dc37bf3ca3) 1. Reverted pubspec.lock - Tomas Petrik</sub> |
-| <sub>2023-02-10 09:52:01</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcaa425cd9fbc8c11701fd05758a944ddc36e4db)</sub> | <sub>[bcaa425](https://github.com/SimplioOfficial/simplio-app/commit/bcaa425cd9fbc8c11701fd05758a944ddc36e4db) 1. Reverted pubspec.lock - Tomas Petrik</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
