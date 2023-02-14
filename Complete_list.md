@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 14:52:31</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:37:44</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.2\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.2.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:27:07</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a)</sub> | <sub>[534d9ce](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a) Chore/update trust wallet core lib to 0.0.7+3.0... - ciripel</sub> |
 | <sub>2023-02-14 12:47:54</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4)</sub> | <sub>[91e072d](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4) keeping tab state - storkandstars</sub> |
