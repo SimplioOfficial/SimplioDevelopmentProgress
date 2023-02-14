@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4419 commits since 10/09/2021. You can see the complete history in
+There is a total of 4420 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 12:47:54</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4)</sub> | <sub>[91e072d](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4) keeping tab state - storkandstars</sub> |
 | <sub>2023-02-14 12:38:47</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/48185a51f44f2897d1934e293d23ef3ff1ff13e7)</sub> | <sub>[48185a5](https://github.com/SimplioOfficial/sio_core_light/commit/48185a51f44f2897d1934e293d23ef3ff1ff13e7) refactor: more refactoring of tests - ciripel</sub> |
 | <sub>2023-02-14 11:47:02</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/2501bd242cbefe64e871d6ec4e9eced86e5a07b6)</sub> | <sub>[2501bd2](https://github.com/SimplioOfficial/sio_core_light/commit/2501bd242cbefe64e871d6ec4e9eced86e5a07b6) refactor: refactored on_emulator_test - ciripel</sub> |
 | <sub>2023-02-14 11:44:25</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9abfa745e480...7818c5b9821f)</sub> | <sub>[aa002f0](https://github.com/SimplioOfficial/simplio-app/commit/aa002f03c60d3366666cbce5b453d72225a2f2be) adding initial state - storkandstars<br>[b1db804](https://github.com/SimplioOfficial/simplio-app/commit/b1db8049f22749ab700332f8e89038dc72a02ae0) updating initial loading - storkandstars<br>[7818c5b](https://github.com/SimplioOfficial/simplio-app/commit/7818c5b9821f1186f33e0620b4e889004dbdc69b) adding infinite scroll for global transactions - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4419 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-14 08:47:41</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/1087db30f2af...c8ba907563ed)</sub> | <sub>[20458a3](https://github.com/SimplioOfficial/sio_core_light/commit/20458a3e81598c902faca5b30d7ccb638ca8e515) tests: fee_calculator_test - ciripel<br>[c8ba907](https://github.com/SimplioOfficial/sio_core_light/commit/c8ba907563ed9834d0007ef2389e3bdb2f8115b3) ci: switched to ubuntu instead of macos - ciripel</sub> |
 | <sub>2023-02-14 08:08:07</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/42073b097efa...1087db30f2af)</sub> | <sub>[4639708](https://github.com/SimplioOfficial/sio_core_light/commit/4639708029207544131ff44932891ab2bea565c0) fix: ensureInitialized in on_emulator_test - ciripel<br>[1087db3](https://github.com/SimplioOfficial/sio_core_light/commit/1087db30f2af33a71d783ebf363103c1b9020ed8) fix: remove unneeded async - ciripel</sub> |
 | <sub>2023-02-14 07:55:52</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/42073b097efa71baabef9a7a394b22d456c07b03)</sub> | <sub>[42073b0](https://github.com/SimplioOfficial/sio_core_light/commit/42073b097efa71baabef9a7a394b22d456c07b03) chore: update trust_wallet_core_lib to 0.0.7+3.0.4 - ciripel</sub> |
-| <sub>2023-02-14 07:45:54</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
