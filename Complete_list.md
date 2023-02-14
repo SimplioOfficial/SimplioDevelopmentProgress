@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 07:55:52</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/42073b097efa71baabef9a7a394b22d456c07b03)</sub> | <sub>[42073b0](https://github.com/SimplioOfficial/sio_core_light/commit/42073b097efa71baabef9a7a394b22d456c07b03) chore: update trust_wallet_core_lib to 0.0.7+3.0.4 - ciripel</sub> |
 | <sub>2023-02-14 07:45:54</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 07:36:15</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb)</sub> | <sub>[e15a3ec](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb) chore: fixed typo in toAssetTransactionSentSuccess - ciripel</sub> |
 | <sub>2023-02-14 07:25:41</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf)</sub> | <sub>[48de75f](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf) Feat/implement utxo signing without error handl... - ciripel</sub> |
