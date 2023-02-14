@@ -79363,5 +79363,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 16:50:04.521000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ac5132e`](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3) fix: deduct intention of user and switch to max - ciripel",
+      "title": "[simplio-app:bug/1000\\-fix\\-utxo\\-send\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 16:53:20.196000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`60bdb37`](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa) fix: delete unneeded comment - ciripel",
+      "title": "[simplio-app:bug/1000\\-fix\\-utxo\\-send\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa"
+    }
   }
 ]
