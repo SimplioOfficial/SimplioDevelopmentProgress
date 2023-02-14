@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4416 commits since 10/09/2021. You can see the complete history in
+There is a total of 4417 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 11:44:25</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9abfa745e480...7818c5b9821f)</sub> | <sub>[aa002f0](https://github.com/SimplioOfficial/simplio-app/commit/aa002f03c60d3366666cbce5b453d72225a2f2be) adding initial state - storkandstars<br>[b1db804](https://github.com/SimplioOfficial/simplio-app/commit/b1db8049f22749ab700332f8e89038dc72a02ae0) updating initial loading - storkandstars<br>[7818c5b](https://github.com/SimplioOfficial/simplio-app/commit/7818c5b9821f1186f33e0620b4e889004dbdc69b) adding infinite scroll for global transactions - storkandstars</sub> |
 | <sub>2023-02-14 11:21:38</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/3fa921eb2d94294631629b3fc4e07526d6c845ef)</sub> | <sub>[3fa921e](https://github.com/SimplioOfficial/sio_core_light/commit/3fa921eb2d94294631629b3fc4e07526d6c845ef) ci: try with api 32 - ciripel</sub> |
 | <sub>2023-02-14 11:09:13</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/7dce7dad923c947abacc75e2130fe9f9836e7792)</sub> | <sub>[7dce7da](https://github.com/SimplioOfficial/sio_core_light/commit/7dce7dad923c947abacc75e2130fe9f9836e7792) ci: increase api-level to 33 - ciripel</sub> |
 | <sub>2023-02-14 09:09:50</sub> | <sub>[[sio_core_light:chore/update\-trust\_wallet\_core\_lib\-to\-0\.0\.7\+3\.0\.4] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/68fa446241f2cdc2de6227ac9ae9570098a2d95a)</sub> | <sub>[68fa446](https://github.com/SimplioOfficial/sio_core_light/commit/68fa446241f2cdc2de6227ac9ae9570098a2d95a) ci: back to macos since emulator does not boot on - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4416 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-14 07:45:54</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 07:36:15</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb)</sub> | <sub>[e15a3ec](https://github.com/SimplioOfficial/simplio-app/commit/e15a3ec9f221acc7d7f6b68bf30d44a64b59e7fb) chore: fixed typo in toAssetTransactionSentSuccess - ciripel</sub> |
 | <sub>2023-02-14 07:25:41</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf)</sub> | <sub>[48de75f](https://github.com/SimplioOfficial/sio_core_light/commit/48de75fd34e72f78a6e20936b909f631d88bbcdf) Feat/implement utxo signing without error handl... - ciripel</sub> |
-| <sub>2023-02-14 07:09:34</sub> | <sub>[[sio_core_light:feat/implement\_utxo\_signing\_without\_error\_handling] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/d4176d74e804...98d2c281ff2e)</sub> | <sub>[9565ecd](https://github.com/SimplioOfficial/sio_core_light/commit/9565ecd4018c8a9e93178b855feb9d143479d080) chore: force trust_wallet_core_lib 0.0.6+2.9.4 - ciripel<br>[98d2c28](https://github.com/SimplioOfficial/sio_core_light/commit/98d2c281ff2eebb7eb75b72ad0207a4cfced1832) chore: increase version to 1.1.9 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
