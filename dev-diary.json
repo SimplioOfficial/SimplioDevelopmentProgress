@@ -79169,5 +79169,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/68fa446241f2cdc2de6227ac9ae9570098a2d95a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 11:09:13.530000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7dce7da`](https://github.com/SimplioOfficial/sio_core_light/commit/7dce7dad923c947abacc75e2130fe9f9836e7792) ci: increase api-level to 33 - ciripel",
+      "title": "[sio_core_light:chore/update\\-trust\\_wallet\\_core\\_lib\\-to\\-0\\.0\\.7\\+3\\.0\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/7dce7dad923c947abacc75e2130fe9f9836e7792"
+    }
   }
 ]
