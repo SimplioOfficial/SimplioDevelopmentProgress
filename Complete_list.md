@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-14 15:13:55</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72)</sub> | <sub>[ec97b73](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72) fix analyze - storkandstars</sub> |
+| <sub>2023-02-14 15:11:43</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...2a486ebff09b)</sub> | <sub>[a7c4075](https://github.com/SimplioOfficial/simplio-app/commit/a7c40757cf9dbc4dc34cdca0cf6d03d276ce07cf) disabling event - storkandstars<br>[2a486eb](https://github.com/SimplioOfficial/simplio-app/commit/2a486ebff09ba69a49508f11e7231d6de0a30103) removing user settings - storkandstars</sub> |
 | <sub>2023-02-14 14:52:31</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:37:44</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.2\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.2.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:27:07</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a)</sub> | <sub>[534d9ce](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a) Chore/update trust wallet core lib to 0.0.7+3.0... - ciripel</sub> |

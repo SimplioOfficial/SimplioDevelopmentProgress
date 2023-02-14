@@ -79327,5 +79327,41 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 15:11:43.266000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`a7c4075`](https://github.com/SimplioOfficial/simplio-app/commit/a7c40757cf9dbc4dc34cdca0cf6d03d276ce07cf) disabling event - storkandstars\n[`2a486eb`](https://github.com/SimplioOfficial/simplio-app/commit/2a486ebff09ba69a49508f11e7231d6de0a30103) removing user settings - storkandstars",
+      "title": "[simplio-app:task/516\\-disable\\-user\\-service] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...2a486ebff09b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 15:13:55.269000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/20041543?v=4",
+        "name": "storkandstars",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/nKaSu_G_BnM8tFe7N9UJA_1-Hp_DbLoh49mGmT6Fllc/%3Fv%3D4/https/avatars.githubusercontent.com/u/20041543",
+        "url": "https://github.com/storkandstars"
+      },
+      "color": 7506394,
+      "description": "[`ec97b73`](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72) fix analyze - storkandstars",
+      "title": "[simplio-app:task/516\\-disable\\-user\\-service] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72"
+    }
   }
 ]
