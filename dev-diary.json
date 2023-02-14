@@ -79151,5 +79151,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/1087db30f2af...c8ba907563ed"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 09:09:50.012000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`68fa446`](https://github.com/SimplioOfficial/sio_core_light/commit/68fa446241f2cdc2de6227ac9ae9570098a2d95a) ci: back to macos since emulator does not boot on - ciripel",
+      "title": "[sio_core_light:chore/update\\-trust\\_wallet\\_core\\_lib\\-to\\-0\\.0\\.7\\+3\\.0\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/68fa446241f2cdc2de6227ac9ae9570098a2d95a"
+    }
   }
 ]
