@@ -79115,5 +79115,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/commit/42073b097efa71baabef9a7a394b22d456c07b03"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 08:08:07.918000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4639708`](https://github.com/SimplioOfficial/sio_core_light/commit/4639708029207544131ff44932891ab2bea565c0) fix: ensureInitialized in on_emulator_test - ciripel\n[`1087db3`](https://github.com/SimplioOfficial/sio_core_light/commit/1087db30f2af33a71d783ebf363103c1b9020ed8) fix: remove unneeded async - ciripel",
+      "title": "[sio_core_light:chore/update\\-trust\\_wallet\\_core\\_lib\\-to\\-0\\.0\\.7\\+3\\.0\\.4] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/42073b097efa...1087db30f2af"
+    }
   }
 ]
