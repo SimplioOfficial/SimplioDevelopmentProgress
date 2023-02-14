@@ -79223,5 +79223,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/9abfa745e480...7818c5b9821f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 11:47:02.689000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2501bd2`](https://github.com/SimplioOfficial/sio_core_light/commit/2501bd242cbefe64e871d6ec4e9eced86e5a07b6) refactor: refactored on_emulator_test - ciripel",
+      "title": "[sio_core_light:chore/update\\-trust\\_wallet\\_core\\_lib\\-to\\-0\\.0\\.7\\+3\\.0\\.4] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/commit/2501bd242cbefe64e871d6ec4e9eced86e5a07b6"
+    }
   }
 ]
