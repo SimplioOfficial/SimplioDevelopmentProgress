@@ -79133,5 +79133,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_core_light/compare/42073b097efa...1087db30f2af"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-14 08:47:41.337000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`20458a3`](https://github.com/SimplioOfficial/sio_core_light/commit/20458a3e81598c902faca5b30d7ccb638ca8e515) tests: fee_calculator_test - ciripel\n[`c8ba907`](https://github.com/SimplioOfficial/sio_core_light/commit/c8ba907563ed9834d0007ef2389e3bdb2f8115b3) ci: switched to ubuntu instead of macos - ciripel",
+      "title": "[sio_core_light:chore/update\\-trust\\_wallet\\_core\\_lib\\-to\\-0\\.0\\.7\\+3\\.0\\.4] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_core_light/compare/1087db30f2af...c8ba907563ed"
+    }
   }
 ]
