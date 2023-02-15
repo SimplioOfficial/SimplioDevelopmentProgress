@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4432 commits since 10/09/2021. You can see the complete history in
+There is a total of 4433 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-15 15:22:16</sub> | <sub>[[sio_big_decimal:fix/zero,\_sZero&clear] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/dc7a30b17f51...6de4d57dacda)</sub> | <sub>[94e91b3](https://github.com/SimplioOfficial/sio_big_decimal/commit/94e91b3cacbe93dae5efe13fdd2a7160c7312477) fix: zero, isZero & clear() - ciripel<br>[6de4d57](https://github.com/SimplioOfficial/sio_big_decimal/commit/6de4d57dacda11d364b52e7a0a95c241a8bd100d) chore: increase ver to 0.2.0 - ciripel</sub> |
 | <sub>2023-02-15 15:18:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/sio_big_decimal/compare/d34cfb6ffb06...dc7a30b17f51)</sub> |
 | <sub>2023-02-15 15:10:18</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95)</sub> | <sub>[d34cfb6](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95) fix: zero, isZero & clear() - ciripel</sub> |
 | <sub>2023-02-15 12:18:42</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 10 new commits](https://github.com/SimplioOfficial/simplio-app/compare/98e757889d9f...49799a5e1a4f)</sub> | <sub>[67fe413](https://github.com/SimplioOfficial/simplio-app/commit/67fe413dda651483373edb5bad395a3a9f75d08c) Refactor/484 implementing big decimal package (... - storkandstars<br>[4bb255c](https://github.com/SimplioOfficial/simplio-app/commit/4bb255c6f6cf762fe9f774b0756e966148d8b837) Fixed bug/489-initial-redirections-on-screens-i... - TomasPetrik<br>[44404a2](https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d) bug/496-refresh-indicator-doesnt-appear-on-coin... - TomasPetrik<br>[719d04a](https://github.com/SimplioOfficial/simplio-app/commit/719d04a1a224cd48117ff06d46a1b90c2eb417a5) Refactor/471 refactor dialog displays (#492) - TomasPetrik<br>[eb3dec1](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4432 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-14 16:50:04</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3)</sub> | <sub>[ac5132e](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3) fix: deduct intention of user and switch to max - ciripel</sub> |
 | <sub>2023-02-14 15:13:55</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72)</sub> | <sub>[ec97b73](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72) fix analyze - storkandstars</sub> |
 | <sub>2023-02-14 15:11:43</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...2a486ebff09b)</sub> | <sub>[a7c4075](https://github.com/SimplioOfficial/simplio-app/commit/a7c40757cf9dbc4dc34cdca0cf6d03d276ce07cf) disabling event - storkandstars<br>[2a486eb](https://github.com/SimplioOfficial/simplio-app/commit/2a486ebff09ba69a49508f11e7231d6de0a30103) removing user settings - storkandstars</sub> |
-| <sub>2023-02-14 14:52:31</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
