@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4435 commits since 10/09/2021. You can see the complete history in
+There is a total of 4436 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-15 16:45:04</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285)</sub> | <sub>[72b96a4](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285) adding todo - storkandstars</sub> |
 | <sub>2023-02-15 16:42:11</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b93807489fe3f1a7ea0645b168307165ae0b3fc5)</sub> | <sub>[b938074](https://github.com/SimplioOfficial/simplio-app/commit/b93807489fe3f1a7ea0645b168307165ae0b3fc5) centering content with slivers - storkandstars</sub> |
 | <sub>2023-02-15 15:49:30</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73)</sub> | <sub>[622f552](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73) fix: changes requested - ciripel</sub> |
 | <sub>2023-02-15 15:22:16</sub> | <sub>[[sio_big_decimal:fix/zero,\_sZero&clear] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/dc7a30b17f51...6de4d57dacda)</sub> | <sub>[94e91b3](https://github.com/SimplioOfficial/sio_big_decimal/commit/94e91b3cacbe93dae5efe13fdd2a7160c7312477) fix: zero, isZero & clear() - ciripel<br>[6de4d57](https://github.com/SimplioOfficial/sio_big_decimal/commit/6de4d57dacda11d364b52e7a0a95c241a8bd100d) chore: increase ver to 0.2.0 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4435 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-15 08:01:05</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd)</sub> | <sub>[24303c7](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd) chore: change amount to balance bigInt - ciripel</sub> |
 | <sub>2023-02-14 17:03:23</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772a20f5bdc339c4b71f572d214b39e69fbafeed)</sub> | <sub>[772a20f](https://github.com/SimplioOfficial/simplio-app/commit/772a20f5bdc339c4b71f572d214b39e69fbafeed) refactor: delete obsolete  isUtxoCoin method - ciripel</sub> |
 | <sub>2023-02-14 16:53:20</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa)</sub> | <sub>[60bdb37](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa) fix: delete unneeded comment - ciripel</sub> |
-| <sub>2023-02-14 16:50:04</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3)</sub> | <sub>[ac5132e](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3) fix: deduct intention of user and switch to max - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
