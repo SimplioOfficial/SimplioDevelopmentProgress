@@ -79417,5 +79417,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/772a20f5bdc339c4b71f572d214b39e69fbafeed"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-15 08:01:05.587000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`24303c7`](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd) chore: change amount to balance bigInt - ciripel",
+      "title": "[simplio-app:bug/1000\\-fix\\-utxo\\-send\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd"
+    }
   }
 ]
