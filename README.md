@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4433 commits since 10/09/2021. You can see the complete history in
+There is a total of 4434 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-15 15:49:30</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73)</sub> | <sub>[622f552](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73) fix: changes requested - ciripel</sub> |
 | <sub>2023-02-15 15:22:16</sub> | <sub>[[sio_big_decimal:fix/zero,\_sZero&clear] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/dc7a30b17f51...6de4d57dacda)</sub> | <sub>[94e91b3](https://github.com/SimplioOfficial/sio_big_decimal/commit/94e91b3cacbe93dae5efe13fdd2a7160c7312477) fix: zero, isZero & clear() - ciripel<br>[6de4d57](https://github.com/SimplioOfficial/sio_big_decimal/commit/6de4d57dacda11d364b52e7a0a95c241a8bd100d) chore: increase ver to 0.2.0 - ciripel</sub> |
 | <sub>2023-02-15 15:18:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/sio_big_decimal/compare/d34cfb6ffb06...dc7a30b17f51)</sub> |
 | <sub>2023-02-15 15:10:18</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95)</sub> | <sub>[d34cfb6](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95) fix: zero, isZero & clear() - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4433 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-14 16:53:20</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa)</sub> | <sub>[60bdb37](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa) fix: delete unneeded comment - ciripel</sub> |
 | <sub>2023-02-14 16:50:04</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3)</sub> | <sub>[ac5132e](https://github.com/SimplioOfficial/simplio-app/commit/ac5132e72d008c5b9dfb5517b400535c2a8702f3) fix: deduct intention of user and switch to max - ciripel</sub> |
 | <sub>2023-02-14 15:13:55</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72)</sub> | <sub>[ec97b73](https://github.com/SimplioOfficial/simplio-app/commit/ec97b737e12fc2defade00a2b21fa1d3f8de3c72) fix analyze - storkandstars</sub> |
-| <sub>2023-02-14 15:11:43</sub> | <sub>[[simplio-app:task/516\-disable\-user\-service] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/fb510b633ae5...2a486ebff09b)</sub> | <sub>[a7c4075](https://github.com/SimplioOfficial/simplio-app/commit/a7c40757cf9dbc4dc34cdca0cf6d03d276ce07cf) disabling event - storkandstars<br>[2a486eb](https://github.com/SimplioOfficial/simplio-app/commit/2a486ebff09ba69a49508f11e7231d6de0a30103) removing user settings - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

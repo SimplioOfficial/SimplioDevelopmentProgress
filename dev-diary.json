@@ -79506,5 +79506,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/dc7a30b17f51...6de4d57dacda"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-15 15:49:30.200000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`622f552`](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73) fix: changes requested - ciripel",
+      "title": "[simplio-app:bug/1000\\-fix\\-utxo\\-send\\-transaction] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73"
+    }
   }
 ]
