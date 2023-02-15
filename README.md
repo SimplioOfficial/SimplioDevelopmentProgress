@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4429 commits since 10/09/2021. You can see the complete history in
+There is a total of 4430 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-15 12:18:42</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 10 new commits](https://github.com/SimplioOfficial/simplio-app/compare/98e757889d9f...49799a5e1a4f)</sub> | <sub>[67fe413](https://github.com/SimplioOfficial/simplio-app/commit/67fe413dda651483373edb5bad395a3a9f75d08c) Refactor/484 implementing big decimal package (... - storkandstars<br>[4bb255c](https://github.com/SimplioOfficial/simplio-app/commit/4bb255c6f6cf762fe9f774b0756e966148d8b837) Fixed bug/489-initial-redirections-on-screens-i... - TomasPetrik<br>[44404a2](https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d) bug/496-refresh-indicator-doesnt-appear-on-coin... - TomasPetrik<br>[719d04a](https://github.com/SimplioOfficial/simplio-app/commit/719d04a1a224cd48117ff06d46a1b90c2eb417a5) Refactor/471 refactor dialog displays (#492) - TomasPetrik<br>[eb3dec1](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars</sub> |
 | <sub>2023-02-15 08:01:05</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd)</sub> | <sub>[24303c7](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd) chore: change amount to balance bigInt - ciripel</sub> |
 | <sub>2023-02-14 17:03:23</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/772a20f5bdc339c4b71f572d214b39e69fbafeed)</sub> | <sub>[772a20f](https://github.com/SimplioOfficial/simplio-app/commit/772a20f5bdc339c4b71f572d214b39e69fbafeed) refactor: delete obsolete  isUtxoCoin method - ciripel</sub> |
 | <sub>2023-02-14 16:53:20</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa)</sub> | <sub>[60bdb37](https://github.com/SimplioOfficial/simplio-app/commit/60bdb3751189edd45115baf613d354c0bdb786aa) fix: delete unneeded comment - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4429 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-14 14:52:31</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.9](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.9)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:37:44</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.2\.0](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.2.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-14 14:27:07</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a)</sub> | <sub>[534d9ce](https://github.com/SimplioOfficial/sio_core_light/commit/534d9ce9f0f6e833c39bf782e99daf10fe6cbb9a) Chore/update trust wallet core lib to 0.0.7+3.0... - ciripel</sub> |
-| <sub>2023-02-14 12:47:54</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4)</sub> | <sub>[91e072d](https://github.com/SimplioOfficial/simplio-app/commit/91e072d47445de9bafe6d1044b84344ef35b6fa4) keeping tab state - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
