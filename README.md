@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4438 commits since 10/09/2021. You can see the complete history in
+There is a total of 4439 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-16 16:25:07</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/d2bbc1d5e9151470d24fa70d30791e767ce3e875)</sub> | <sub>[d2bbc1d](https://github.com/SimplioOfficial/sio_big_decimal/commit/d2bbc1d5e9151470d24fa70d30791e767ce3e875) Fix: zero, isZero & clear() (#4) - ciripel</sub> |
 | <sub>2023-02-15 16:51:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b)</sub> | <sub>[0363fa1](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b) Task/516 disable user service (#517) - storkandstars</sub> |
 | <sub>2023-02-15 16:51:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19)</sub> | <sub>[27de1e3](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19) Refactor/500 implement wallet connect uri valid... - storkandstars</sub> |
 | <sub>2023-02-15 16:45:04</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285)</sub> | <sub>[72b96a4](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285) adding todo - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4438 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-15 15:18:34</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/sio_big_decimal/compare/d34cfb6ffb06...dc7a30b17f51)</sub> |
 | <sub>2023-02-15 15:10:18</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95)</sub> | <sub>[d34cfb6](https://github.com/SimplioOfficial/sio_big_decimal/commit/d34cfb6ffb06ac96352a2b83dfed505827084c95) fix: zero, isZero & clear() - ciripel</sub> |
 | <sub>2023-02-15 12:18:42</sub> | <sub>[[simplio-app:refactor/500\-implement\-wallet\-connect\-uri\-validator] 10 new commits](https://github.com/SimplioOfficial/simplio-app/compare/98e757889d9f...49799a5e1a4f)</sub> | <sub>[67fe413](https://github.com/SimplioOfficial/simplio-app/commit/67fe413dda651483373edb5bad395a3a9f75d08c) Refactor/484 implementing big decimal package (... - storkandstars<br>[4bb255c](https://github.com/SimplioOfficial/simplio-app/commit/4bb255c6f6cf762fe9f774b0756e966148d8b837) Fixed bug/489-initial-redirections-on-screens-i... - TomasPetrik<br>[44404a2](https://github.com/SimplioOfficial/simplio-app/commit/44404a2c9049ad9c7d96ea9693e1de94fb5f7a5d) bug/496-refresh-indicator-doesnt-appear-on-coin... - TomasPetrik<br>[719d04a](https://github.com/SimplioOfficial/simplio-app/commit/719d04a1a224cd48117ff06d46a1b90c2eb417a5) Refactor/471 refactor dialog displays (#492) - TomasPetrik<br>[eb3dec1](https://github.com/SimplioOfficial/simplio-app/commit/eb3dec1178cc289d33508edc8a20f4cb97dec8d1) Refactor/486 fetching wallet balance (#499) - storkandstars</sub> |
-| <sub>2023-02-15 08:01:05</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd)</sub> | <sub>[24303c7](https://github.com/SimplioOfficial/simplio-app/commit/24303c7e2c38b354affaf08e092452defa5289cd) chore: change amount to balance bigInt - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
