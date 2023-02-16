@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4443 commits since 10/09/2021. You can see the complete history in
+There is a total of 4444 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-16 19:54:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371)</sub> | <sub>[960df9f](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371) Task/442 - align content on empty MyGamesScreen... - storkandstars</sub> |
 | <sub>2023-02-16 19:07:02</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7)</sub> | <sub>[bf9657a](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7) adding empty state - storkandstars</sub> |
 | <sub>2023-02-16 18:37:54</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/72b96a4df6ad...5d0a34ebb6d2)</sub> | <sub>[27de1e3](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19) Refactor/500 implement wallet connect uri valid... - storkandstars<br>[0363fa1](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b) Task/516 disable user service (#517) - storkandstars<br>[b60b3e4](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d) Bug/1000 fix utxo send transaction (#518) - ciripel<br>[5d0a34e](https://github.com/SimplioOfficial/simplio-app/commit/5d0a34ebb6d2b5b481c49fa37c8a69a40af79d50) Merge branch 'master' into task/442-align-conte... - storkandstars</sub> |
 | <sub>2023-02-16 16:33:56</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d)</sub> | <sub>[b60b3e4](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d) Bug/1000 fix utxo send transaction (#518) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4443 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-15 16:51:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19)</sub> | <sub>[27de1e3](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19) Refactor/500 implement wallet connect uri valid... - storkandstars</sub> |
 | <sub>2023-02-15 16:45:04</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285)</sub> | <sub>[72b96a4](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285) adding todo - storkandstars</sub> |
 | <sub>2023-02-15 16:42:11</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b93807489fe3f1a7ea0645b168307165ae0b3fc5)</sub> | <sub>[b938074](https://github.com/SimplioOfficial/simplio-app/commit/b93807489fe3f1a7ea0645b168307165ae0b3fc5) centering content with slivers - storkandstars</sub> |
-| <sub>2023-02-15 15:49:30</sub> | <sub>[[simplio-app:bug/1000\-fix\-utxo\-send\-transaction] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73)</sub> | <sub>[622f552](https://github.com/SimplioOfficial/simplio-app/commit/622f55262dd87c99de087178ebcec3e0aae43d73) fix: changes requested - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
