@@ -79614,5 +79614,39 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/d2bbc1d5e9151470d24fa70d30791e767ce3e875"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-16 16:30:07.824000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_big_decimal] New release published: v0\\.2\\.0",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.0"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-16 16:33:56.919000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b60b3e4`](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d) Bug/1000 fix utxo send transaction (#518) - ciripel",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d"
+    }
   }
 ]
