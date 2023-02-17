@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4450 commits since 10/09/2021. You can see the complete history in
+There is a total of 4451 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-17 21:12:14</sub> | <sub>[[simplio-app:refactor/upgrade\-sio\_big\_decimal\-and\-refactor\-to\-v\.0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79d91344fbe3edaffb05f7d2e8bcb5016fba8843)</sub> | <sub>[79d9134](https://github.com/SimplioOfficial/simplio-app/commit/79d91344fbe3edaffb05f7d2e8bcb5016fba8843) chore: upgrade to v0.2.1 - ciripel</sub> |
 | <sub>2023-02-17 21:09:51</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.2\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.1)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-17 21:07:38</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d)</sub> | <sub>[cdfde59](https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d) Fix/revert zero() (#5) - ciripel</sub> |
 | <sub>2023-02-17 21:06:39</sub> | <sub>[[sio_big_decimal:fix/revert\-zero\(\)] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/d2bbc1d5e915...770d5eea6658)</sub> | <sub>[64e9a74](https://github.com/SimplioOfficial/sio_big_decimal/commit/64e9a7447e3641a89bf2d5800e8a2613c55ae03c) fix: revert zero() - ciripel<br>[770d5ee](https://github.com/SimplioOfficial/sio_big_decimal/commit/770d5eea6658d5126a1cef48df01fffa81c0494b) chore: increase ver to v0.2.1 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4450 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-16 19:54:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371)</sub> | <sub>[960df9f](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371) Task/442 - align content on empty MyGamesScreen... - storkandstars</sub> |
 | <sub>2023-02-16 19:07:02</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7)</sub> | <sub>[bf9657a](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7) adding empty state - storkandstars</sub> |
 | <sub>2023-02-16 18:37:54</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/72b96a4df6ad...5d0a34ebb6d2)</sub> | <sub>[27de1e3](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19) Refactor/500 implement wallet connect uri valid... - storkandstars<br>[0363fa1](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b) Task/516 disable user service (#517) - storkandstars<br>[b60b3e4](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d) Bug/1000 fix utxo send transaction (#518) - ciripel<br>[5d0a34e](https://github.com/SimplioOfficial/simplio-app/commit/5d0a34ebb6d2b5b481c49fa37c8a69a40af79d50) Merge branch 'master' into task/442-align-conte... - storkandstars</sub> |
-| <sub>2023-02-16 16:33:56</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d)</sub> | <sub>[b60b3e4](https://github.com/SimplioOfficial/simplio-app/commit/b60b3e4a57961a10d59306cf11c2bbaf39ed102d) Bug/1000 fix utxo send transaction (#518) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
