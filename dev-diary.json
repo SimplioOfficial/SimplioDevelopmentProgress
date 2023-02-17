@@ -79756,5 +79756,57 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e738004e514e93e6d32def5ae57ad54a158e5d15"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-17 21:06:39.988000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`64e9a74`](https://github.com/SimplioOfficial/sio_big_decimal/commit/64e9a7447e3641a89bf2d5800e8a2613c55ae03c) fix: revert zero() - ciripel\n[`770d5ee`](https://github.com/SimplioOfficial/sio_big_decimal/commit/770d5eea6658d5126a1cef48df01fffa81c0494b) chore: increase ver to v0.2.1 - ciripel",
+      "title": "[sio_big_decimal:fix/revert\\-zero\\(\\)] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/compare/d2bbc1d5e915...770d5eea6658"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-17 21:07:38.508000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`cdfde59`](https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d) Fix/revert zero() (#5) - ciripel",
+      "title": "[sio_big_decimal:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-17 21:09:51.346000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "title": "[SimplioOfficial/sio_big_decimal] New release published: v0\\.2\\.1",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.1"
+    }
   }
 ]
