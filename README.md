@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4445 commits since 10/09/2021. You can see the complete history in
+There is a total of 4446 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-17 11:38:42</sub> | <sub>[[simplio-app:feat/support\-for\-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0fc424d4fa952f913e5522f115614efd6f3804e)</sub> | <sub>[e0fc424](https://github.com/SimplioOfficial/simplio-app/commit/e0fc424d4fa952f913e5522f115614efd6f3804e) chore: update dependencies - ciripel</sub> |
 | <sub>2023-02-16 20:25:27</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9fb7813273440a940673efc1c620a5916323a3e5)</sub> | <sub>[9fb7813](https://github.com/SimplioOfficial/simplio-app/commit/9fb7813273440a940673efc1c620a5916323a3e5) adding agreement dialog - storkandstars</sub> |
 | <sub>2023-02-16 19:54:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371)</sub> | <sub>[960df9f](https://github.com/SimplioOfficial/simplio-app/commit/960df9f2fbdca24ef2f1b41e7bea0da8b938b371) Task/442 - align content on empty MyGamesScreen... - storkandstars</sub> |
 | <sub>2023-02-16 19:07:02</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7)</sub> | <sub>[bf9657a](https://github.com/SimplioOfficial/simplio-app/commit/bf9657a8ada55f0972583f0cea7bbaae933f95f7) adding empty state - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4445 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-16 16:25:07</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/d2bbc1d5e9151470d24fa70d30791e767ce3e875)</sub> | <sub>[d2bbc1d](https://github.com/SimplioOfficial/sio_big_decimal/commit/d2bbc1d5e9151470d24fa70d30791e767ce3e875) Fix: zero, isZero & clear() (#4) - ciripel</sub> |
 | <sub>2023-02-15 16:51:23</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b)</sub> | <sub>[0363fa1](https://github.com/SimplioOfficial/simplio-app/commit/0363fa1048e83703b121f4b421cf6bc03efbc39b) Task/516 disable user service (#517) - storkandstars</sub> |
 | <sub>2023-02-15 16:51:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19)</sub> | <sub>[27de1e3](https://github.com/SimplioOfficial/simplio-app/commit/27de1e37c72db2dcfc6e015b7568550eaa1fba19) Refactor/500 implement wallet connect uri valid... - storkandstars</sub> |
-| <sub>2023-02-15 16:45:04</sub> | <sub>[[simplio-app:task/442\-align\-content\-on\-empty\-my\-games\-screen\-to\-center] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285)</sub> | <sub>[72b96a4](https://github.com/SimplioOfficial/simplio-app/commit/72b96a4df6ad4a6fff5655b7fcaea2b0970eb285) adding todo - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
