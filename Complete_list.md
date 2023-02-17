@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-17 21:32:47</sub> | <sub>[[simplio-app:refactor/upgrade\-sio\_big\_decimal\-and\-refactor\-to\-v\.0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ea3baa11ff9e1f2dcde8f6688b4fc13d3d947e7)</sub> | <sub>[2ea3baa](https://github.com/SimplioOfficial/simplio-app/commit/2ea3baa11ff9e1f2dcde8f6688b4fc13d3d947e7) refactoring - ciripel</sub> |
 | <sub>2023-02-17 21:12:14</sub> | <sub>[[simplio-app:refactor/upgrade\-sio\_big\_decimal\-and\-refactor\-to\-v\.0\.2\.0] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79d91344fbe3edaffb05f7d2e8bcb5016fba8843)</sub> | <sub>[79d9134](https://github.com/SimplioOfficial/simplio-app/commit/79d91344fbe3edaffb05f7d2e8bcb5016fba8843) chore: upgrade to v0.2.1 - ciripel</sub> |
 | <sub>2023-02-17 21:09:51</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.2\.1](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.1)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-02-17 21:07:38</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d)</sub> | <sub>[cdfde59](https://github.com/SimplioOfficial/sio_big_decimal/commit/cdfde59befd07be10741ce4b0c8dbd561b14502d) Fix/revert zero() (#5) - ciripel</sub> |
