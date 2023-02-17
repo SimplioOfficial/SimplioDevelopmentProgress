@@ -79738,5 +79738,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/e0fc424d4fa952f913e5522f115614efd6f3804e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-17 19:46:52.440000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e738004`](https://github.com/SimplioOfficial/simplio-app/commit/e738004e514e93e6d32def5ae57ad54a158e5d15) chore: upgrade sio_big_decimal to v0.2.0 - ciripel",
+      "title": "[simplio-app:refactor/upgrade\\-sio\\_big\\_decimal\\-and\\-refactor\\-to\\-v\\.0\\.2\\.0] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/e738004e514e93e6d32def5ae57ad54a158e5d15"
+    }
   }
 ]
