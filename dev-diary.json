@@ -79844,5 +79844,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/2ea3baa11ff9e1f2dcde8f6688b4fc13d3d947e7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-18 06:45:43.583000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3ee9772`](https://github.com/SimplioOfficial/simplio-app/commit/3ee97720c7911bf2498ab44a4a506fbcd16822f3) chore: change dep - switch to official wc2 release - ciripel\n[`ebe956d`](https://github.com/SimplioOfficial/simplio-app/commit/ebe956db59c3b3ac8eadef93e7065eb6df1a435e) refactor: use named wc1 inport - ciripel",
+      "title": "[simplio-app:feat/support\\-for\\-wc2] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/compare/e0fc424d4fa9...ebe956db59c3"
+    }
   }
 ]
