@@ -79862,5 +79862,40 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/compare/e0fc424d4fa9...ebe956db59c3"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-20 08:28:36.231000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 16525609,
+      "description": "[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bcaa425cd9fb...a5842b102ae5)",
+      "title": "[simplio-app] Branch refactor/512\\-blocking\\-authenticator was force-pushed to `a5842b1`",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-20 08:29:33.037000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`52cadbd`](https://github.com/SimplioOfficial/simplio-app/commit/52cadbdb784824fcbed9f2fbc0b66dbc8ffc9cd7) chore: upgrade deps - ciripel",
+      "title": "[simplio-app:refactor/512\\-blocking\\-authenticator] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/52cadbdb784824fcbed9f2fbc0b66dbc8ffc9cd7"
+    }
   }
 ]
