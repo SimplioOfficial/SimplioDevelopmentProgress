@@ -79897,5 +79897,23 @@
       "type": "rich",
       "url": "https://github.com/SimplioOfficial/simplio-app/commit/52cadbdb784824fcbed9f2fbc0b66dbc8ffc9cd7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2023-02-20 10:49:54.418000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2a418be`](https://github.com/SimplioOfficial/simplio-app/commit/2a418be07b7c314eb0225c2489b624cc74c4cb4e) Completed REFACTOR - blocking authenticator#512... - TomasPetrik",
+      "title": "[simplio-app:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/SimplioOfficial/simplio-app/commit/2a418be07b7c314eb0225c2489b624cc74c4cb4e"
+    }
   }
 ]
