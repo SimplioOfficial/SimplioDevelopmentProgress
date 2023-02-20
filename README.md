@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4463 commits since 10/09/2021. You can see the complete history in
+There is a total of 4464 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-20 20:33:59</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12f1aacfaa7966e50e896e9faa7c13815c4ca6f1)</sub> | <sub>[12f1aac](https://github.com/SimplioOfficial/simplio-app/commit/12f1aacfaa7966e50e896e9faa7c13815c4ca6f1) adding translations - storkandstars</sub> |
 | <sub>2023-02-20 20:27:54</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d9fcf4da68953cfa866ce663ab9c033fd9d96b6)</sub> | <sub>[8d9fcf4](https://github.com/SimplioOfficial/simplio-app/commit/8d9fcf4da68953cfa866ce663ab9c033fd9d96b6) chaining method call - storkandstars</sub> |
 | <sub>2023-02-20 20:26:38</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2873657bef56096670c67d3b9c85a6da23f636d)</sub> | <sub>[e287365](https://github.com/SimplioOfficial/simplio-app/commit/e2873657bef56096670c67d3b9c85a6da23f636d) removing commented code - storkandstars</sub> |
 | <sub>2023-02-20 20:25:46</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2da07e30127bd57f5b5d56cc814ff9777e171720)</sub> | <sub>[2da07e3](https://github.com/SimplioOfficial/simplio-app/commit/2da07e30127bd57f5b5d56cc814ff9777e171720) removing commented code - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4463 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-20 12:25:10</sub> | <sub>[[simplio-app:bug/368\-Sign\-in\-with\-wrong\-password\-return\-infinite\-spinning\-wheel] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3fa3eb3ac8e15bd95ae9339824141b5c7a39fda)</sub> | <sub>[d3fa3eb](https://github.com/SimplioOfficial/simplio-app/commit/d3fa3eb3ac8e15bd95ae9339824141b5c7a39fda) fix: now return snackBar with the httpError - ciripel</sub> |
 | <sub>2023-02-20 10:49:54</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2a418be07b7c314eb0225c2489b624cc74c4cb4e)</sub> | <sub>[2a418be](https://github.com/SimplioOfficial/simplio-app/commit/2a418be07b7c314eb0225c2489b624cc74c4cb4e) Completed REFACTOR - blocking authenticator#512... - TomasPetrik</sub> |
 | <sub>2023-02-20 08:29:33</sub> | <sub>[[simplio-app:refactor/512\-blocking\-authenticator] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/52cadbdb784824fcbed9f2fbc0b66dbc8ffc9cd7)</sub> | <sub>[52cadbd](https://github.com/SimplioOfficial/simplio-app/commit/52cadbdb784824fcbed9f2fbc0b66dbc8ffc9cd7) chore: upgrade deps - ciripel</sub> |
-| <sub>2023-02-20 08:28:36</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bcaa425cd9fb...a5842b102ae5)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
