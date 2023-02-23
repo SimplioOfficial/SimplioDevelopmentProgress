@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4486 commits since 10/09/2021. You can see the complete history in
+There is a total of 4487 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-23 12:52:00</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/15cb0c11c3b3bb856dafb37bbe225cf1506f48ef)</sub> | <sub>[15cb0c1](https://github.com/SimplioOfficial/simplio-app/commit/15cb0c11c3b3bb856dafb37bbe225cf1506f48ef) fix: make icon optional - ciripel</sub> |
 | <sub>2023-02-23 12:35:24</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/191d029a771087896541f639c6bf9e248b5799a8)</sub> | <sub>[191d029](https://github.com/SimplioOfficial/simplio-app/commit/191d029a771087896541f639c6bf9e248b5799a8) adding translation for sign up errors - storkandstars</sub> |
 | <sub>2023-02-23 12:06:51</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bcfbecfe800e...49519a2be71c)</sub> | <sub>[eac196b](https://github.com/SimplioOfficial/simplio-app/commit/eac196bbf4035e71524057ca25ff81b12cfce425) fix: en localization file - ciripel<br>[49519a2](https://github.com/SimplioOfficial/simplio-app/commit/49519a2be71cbcf8b58a0ea820c6fce77299d595) fix: add localization and arguments - ciripel</sub> |
 | <sub>2023-02-23 11:05:30</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcfbecfe800eaaa4a93071825d34817da91349c6)</sub> | <sub>[bcfbecf](https://github.com/SimplioOfficial/simplio-app/commit/bcfbecfe800eaaa4a93071825d34817da91349c6) refactor: discovery_screen topSlivers - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4486 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-23 10:09:06</sub> | <sub>[[simplio-app:bug/376\-iOS\-app\-is\-not\-working] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f1bedd095411...da1174ca2251)</sub> | <sub>[b294555](https://github.com/SimplioOfficial/simplio-app/commit/b2945551ca9b0e15c377a68e73fea02f686ba540) fix: revert release version on dev - ciripel<br>[da1174c](https://github.com/SimplioOfficial/simplio-app/commit/da1174ca2251d86546f2e9f29abc3fe3a5459bc6) fix: remove PlayGame functionality. - ciripel</sub> |
 | <sub>2023-02-23 09:17:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308)</sub> | <sub>[f1bedd0](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308) fix: change release to dev on dev env (#528) - ciripel</sub> |
 | <sub>2023-02-23 08:46:44</sub> | <sub>[[simplio-app:bug/376\-iOS\-app\-is\-not\-working] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/520a98db79c9a759633aab0cbda8706c1682926b)</sub> | <sub>[520a98d](https://github.com/SimplioOfficial/simplio-app/commit/520a98db79c9a759633aab0cbda8706c1682926b) fix: change release to dev on dev env - ciripel</sub> |
-| <sub>2023-02-22 22:23:12</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3dd327a22d026438e3c0ab32861e44edad93d7a)</sub> | <sub>[c3dd327](https://github.com/SimplioOfficial/simplio-app/commit/c3dd327a22d026438e3c0ab32861e44edad93d7a) fixing analyze - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
