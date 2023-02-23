@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4480 commits since 10/09/2021. You can see the complete history in
+There is a total of 4481 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-23 10:32:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3)</sub> | <sub>[5915344](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3) fix: remove PlayGame(flutter_inappwebview packa... - ciripel</sub> |
 | <sub>2023-02-23 10:09:06</sub> | <sub>[[simplio-app:bug/376\-iOS\-app\-is\-not\-working] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f1bedd095411...da1174ca2251)</sub> | <sub>[b294555](https://github.com/SimplioOfficial/simplio-app/commit/b2945551ca9b0e15c377a68e73fea02f686ba540) fix: revert release version on dev - ciripel<br>[da1174c](https://github.com/SimplioOfficial/simplio-app/commit/da1174ca2251d86546f2e9f29abc3fe3a5459bc6) fix: remove PlayGame functionality. - ciripel</sub> |
 | <sub>2023-02-23 09:17:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308)</sub> | <sub>[f1bedd0](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308) fix: change release to dev on dev env (#528) - ciripel</sub> |
 | <sub>2023-02-23 08:46:44</sub> | <sub>[[simplio-app:bug/376\-iOS\-app\-is\-not\-working] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/520a98db79c9a759633aab0cbda8706c1682926b)</sub> | <sub>[520a98d](https://github.com/SimplioOfficial/simplio-app/commit/520a98db79c9a759633aab0cbda8706c1682926b) fix: change release to dev on dev env - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4480 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-22 15:03:02</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed)</sub> | <sub>[25f37ce](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed) updating transaction type and status values - storkandstars</sub> |
 | <sub>2023-02-22 14:51:30</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cd394aa99d632b9ced2e5cf894bfb27b3168f856)</sub> | <sub>[cd394aa](https://github.com/SimplioOfficial/simplio-app/commit/cd394aa99d632b9ced2e5cf894bfb27b3168f856) adding content for empty transaction history - storkandstars</sub> |
 | <sub>2023-02-21 20:49:30</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b43707cab92a67f0ee3286a57ebfe39339a60834)</sub> | <sub>[b43707c](https://github.com/SimplioOfficial/simplio-app/commit/b43707cab92a67f0ee3286a57ebfe39339a60834) removing unnecessary builder widget from layout - storkandstars</sub> |
-| <sub>2023-02-21 20:47:26</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ef80719ba7f81f3507bbb72765996874cc65e3)</sub> | <sub>[63ef807](https://github.com/SimplioOfficial/simplio-app/commit/63ef80719ba7f81f3507bbb72765996874cc65e3) adding tab controller animation event listener - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
