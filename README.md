@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4481 commits since 10/09/2021. You can see the complete history in
+There is a total of 4482 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-23 10:51:53</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8fa067d1947d...2a0c4f5fd99d)</sub> | <sub>[5c8dc5b](https://github.com/SimplioOfficial/simplio-app/commit/5c8dc5bb60a3e89a4269a179794ab3087e656cc6) fix: use button from #524 - ciripel<br>[2a0c4f5](https://github.com/SimplioOfficial/simplio-app/commit/2a0c4f5fd99d1b5a1771a1828398fbc13d7b1c9f) chore: rename to AttentionContainer - ciripel</sub> |
 | <sub>2023-02-23 10:32:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3)</sub> | <sub>[5915344](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3) fix: remove PlayGame(flutter_inappwebview packa... - ciripel</sub> |
 | <sub>2023-02-23 10:09:06</sub> | <sub>[[simplio-app:bug/376\-iOS\-app\-is\-not\-working] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f1bedd095411...da1174ca2251)</sub> | <sub>[b294555](https://github.com/SimplioOfficial/simplio-app/commit/b2945551ca9b0e15c377a68e73fea02f686ba540) fix: revert release version on dev - ciripel<br>[da1174c](https://github.com/SimplioOfficial/simplio-app/commit/da1174ca2251d86546f2e9f29abc3fe3a5459bc6) fix: remove PlayGame functionality. - ciripel</sub> |
 | <sub>2023-02-23 09:17:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308)</sub> | <sub>[f1bedd0](https://github.com/SimplioOfficial/simplio-app/commit/f1bedd09541100950d672a1c1f2a1f6dc18da308) fix: change release to dev on dev env (#528) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4481 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-22 21:39:20</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/25f37cea8a2e...85c9ba7ee2d3)</sub> | <sub>[408fc07](https://github.com/SimplioOfficial/simplio-app/commit/408fc071decfc0bdc64baad77dc898a90707c3d7) wip - paginating - storkandstars<br>[85c9ba7](https://github.com/SimplioOfficial/simplio-app/commit/85c9ba7ee2d3d43d7405fc844dbea165732e4832) fix adding default values for missing values - storkandstars</sub> |
 | <sub>2023-02-22 15:03:02</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed)</sub> | <sub>[25f37ce](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed) updating transaction type and status values - storkandstars</sub> |
 | <sub>2023-02-22 14:51:30</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cd394aa99d632b9ced2e5cf894bfb27b3168f856)</sub> | <sub>[cd394aa](https://github.com/SimplioOfficial/simplio-app/commit/cd394aa99d632b9ced2e5cf894bfb27b3168f856) adding content for empty transaction history - storkandstars</sub> |
-| <sub>2023-02-21 20:49:30</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b43707cab92a67f0ee3286a57ebfe39339a60834)</sub> | <sub>[b43707c](https://github.com/SimplioOfficial/simplio-app/commit/b43707cab92a67f0ee3286a57ebfe39339a60834) removing unnecessary builder widget from layout - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
