@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4483 commits since 10/09/2021. You can see the complete history in
+There is a total of 4484 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-23 11:05:30</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bcfbecfe800eaaa4a93071825d34817da91349c6)</sub> | <sub>[bcfbecf](https://github.com/SimplioOfficial/simplio-app/commit/bcfbecfe800eaaa4a93071825d34817da91349c6) refactor: discovery_screen topSlivers - ciripel</sub> |
 | <sub>2023-02-23 11:03:06</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2b54712f64300f2cbf6c911b61819a50f3d12db)</sub> | <sub>[d2b5471](https://github.com/SimplioOfficial/simplio-app/commit/d2b54712f64300f2cbf6c911b61819a50f3d12db) chore: remove error gradient cause is not used - ciripel</sub> |
 | <sub>2023-02-23 10:51:53</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8fa067d1947d...2a0c4f5fd99d)</sub> | <sub>[5c8dc5b](https://github.com/SimplioOfficial/simplio-app/commit/5c8dc5bb60a3e89a4269a179794ab3087e656cc6) fix: use button from #524 - ciripel<br>[2a0c4f5](https://github.com/SimplioOfficial/simplio-app/commit/2a0c4f5fd99d1b5a1771a1828398fbc13d7b1c9f) chore: rename to AttentionContainer - ciripel</sub> |
 | <sub>2023-02-23 10:32:02</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3)</sub> | <sub>[5915344](https://github.com/SimplioOfficial/simplio-app/commit/59153443b6990c11363956a1c5e87c7678ee87d3) fix: remove PlayGame(flutter_inappwebview packa... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4483 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-22 22:23:12</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3dd327a22d026438e3c0ab32861e44edad93d7a)</sub> | <sub>[c3dd327](https://github.com/SimplioOfficial/simplio-app/commit/c3dd327a22d026438e3c0ab32861e44edad93d7a) fixing analyze - storkandstars</sub> |
 | <sub>2023-02-22 22:03:54</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/85c9ba7ee2d3...198322c61aa2)</sub> | <sub>[080c69b](https://github.com/SimplioOfficial/simplio-app/commit/080c69b12853d30172dbbec4c498a2413ee70b31) removing loading when on last page - storkandstars<br>[198322c](https://github.com/SimplioOfficial/simplio-app/commit/198322c61aa234634ce1a6ec1ffc9117333bf692) removing commented code - storkandstars</sub> |
 | <sub>2023-02-22 21:39:20</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/25f37cea8a2e...85c9ba7ee2d3)</sub> | <sub>[408fc07](https://github.com/SimplioOfficial/simplio-app/commit/408fc071decfc0bdc64baad77dc898a90707c3d7) wip - paginating - storkandstars<br>[85c9ba7](https://github.com/SimplioOfficial/simplio-app/commit/85c9ba7ee2d3d43d7405fc844dbea165732e4832) fix adding default values for missing values - storkandstars</sub> |
-| <sub>2023-02-22 15:03:02</sub> | <sub>[[simplio-app:task/515\-global\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed)</sub> | <sub>[25f37ce](https://github.com/SimplioOfficial/simplio-app/commit/25f37cea8a2ee45490af6d3fd514190feb249eed) updating transaction type and status values - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
