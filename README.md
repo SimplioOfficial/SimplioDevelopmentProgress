@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4494 commits since 10/09/2021. You can see the complete history in
+There is a total of 4495 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-02-24 09:23:34</sub> | <sub>[[simplio-app:bug/revert\-ios\-files\-to\-dev\.0\.0\.23] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/46a5adb907b9a95f652ef92c2952032de1cc84cb)</sub> | <sub>[46a5adb](https://github.com/SimplioOfficial/simplio-app/commit/46a5adb907b9a95f652ef92c2952032de1cc84cb) fix: migration from Debug to Release-Debug - ciripel</sub> |
 | <sub>2023-02-24 09:19:10</sub> | <sub>[[simplio-app:bug/revert\-ios\-files\-to\-dev\.0\.0\.23] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81241586904dad57981f22d8440e4a2dd298b518)</sub> | <sub>[8124158](https://github.com/SimplioOfficial/simplio-app/commit/81241586904dad57981f22d8440e4a2dd298b518) fix: cloned Release-Dev into Release-Debug - ciripel</sub> |
 | <sub>2023-02-23 13:36:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ade4d9051b6d5423659bd6bf3d606cac0383007f)</sub> | <sub>[ade4d90](https://github.com/SimplioOfficial/simplio-app/commit/ade4d9051b6d5423659bd6bf3d606cac0383007f) Task/375 create bubble on discovery page to sho... - ciripel</sub> |
 | <sub>2023-02-23 13:27:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2f2165bd666a32d3e0f407c49262b1f85ae20f49)</sub> | <sub>[2f2165b](https://github.com/SimplioOfficial/simplio-app/commit/2f2165bd666a32d3e0f407c49262b1f85ae20f49) refactor: upgrade sio_big_decimal and refactor ... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4494 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-23 13:08:09</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f07bb1d950e5e7d0a3a01d6d35156ab953804122)</sub> | <sub>[f07bb1d](https://github.com/SimplioOfficial/simplio-app/commit/f07bb1d950e5e7d0a3a01d6d35156ab953804122) adding nested children - storkandstars</sub> |
 | <sub>2023-02-23 12:52:00</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/15cb0c11c3b3bb856dafb37bbe225cf1506f48ef)</sub> | <sub>[15cb0c1](https://github.com/SimplioOfficial/simplio-app/commit/15cb0c11c3b3bb856dafb37bbe225cf1506f48ef) fix: make icon optional - ciripel</sub> |
 | <sub>2023-02-23 12:35:24</sub> | <sub>[[simplio-app:task/520\-adding\-agreement\-to\-sign\-up] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/191d029a771087896541f639c6bf9e248b5799a8)</sub> | <sub>[191d029](https://github.com/SimplioOfficial/simplio-app/commit/191d029a771087896541f639c6bf9e248b5799a8) adding translation for sign up errors - storkandstars</sub> |
-| <sub>2023-02-23 12:06:51</sub> | <sub>[[simplio-app:task/375\-create\-bubble\-on\-discovery\-page\-to\-show\-not\-backed\-up\-seed\-warning] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bcfbecfe800e...49519a2be71c)</sub> | <sub>[eac196b](https://github.com/SimplioOfficial/simplio-app/commit/eac196bbf4035e71524057ca25ff81b12cfce425) fix: en localization file - ciripel<br>[49519a2](https://github.com/SimplioOfficial/simplio-app/commit/49519a2be71cbcf8b58a0ea820c6fce77299d595) fix: add localization and arguments - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
