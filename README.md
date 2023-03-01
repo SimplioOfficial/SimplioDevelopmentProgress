@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4521 commits since 10/09/2021. You can see the complete history in
+There is a total of 4522 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-01 00:06:56</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99)</sub> | <sub>[d968ba1](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99) Email verification design - vrbasji</sub> |
 | <sub>2023-02-28 22:23:37</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67758abf92e96b0aeaa5db74ab1038574dfc66f2)</sub> | <sub>[67758ab](https://github.com/SimplioOfficial/simplio-app/commit/67758abf92e96b0aeaa5db74ab1038574dfc66f2) add route - JiriBestak</sub> |
 | <sub>2023-02-28 19:59:21</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6598eba66b28a17f55defdd5ff497a9a44af8bf)</sub> | <sub>[c6598eb](https://github.com/SimplioOfficial/simplio-app/commit/c6598eba66b28a17f55defdd5ff497a9a44af8bf) listening on change - storkandstars</sub> |
 | <sub>2023-02-28 19:50:29</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/628ca83991b5bc6045795c3739b5ef5a29b62314)</sub> | <sub>[628ca83](https://github.com/SimplioOfficial/simplio-app/commit/628ca83991b5bc6045795c3739b5ef5a29b62314) fix analyze - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4521 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-28 18:28:18</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96b68e4b79384601130f6ed8b5118e856d721bfe)</sub> | <sub>[96b68e4](https://github.com/SimplioOfficial/simplio-app/commit/96b68e4b79384601130f6ed8b5118e856d721bfe) reverting changes - storkandstars</sub> |
 | <sub>2023-02-28 18:27:25</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/140c67d8446d27e2bd2dbb9a35225ffd0727c77f)</sub> | <sub>[140c67d](https://github.com/SimplioOfficial/simplio-app/commit/140c67d8446d27e2bd2dbb9a35225ffd0727c77f) Create new branch - vrbasji</sub> |
 | <sub>2023-02-28 18:20:47</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48bd5f3594fa8c966e4d22150904f9a9a6624c53)</sub> | <sub>[48bd5f3](https://github.com/SimplioOfficial/simplio-app/commit/48bd5f3594fa8c966e4d22150904f9a9a6624c53) Task/372 create backup seed screens (#532) - ciripel</sub> |
-| <sub>2023-02-28 17:17:00</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/34031866d8ec...3c0c435fb590)</sub> | <sub>[c6b9c17](https://github.com/SimplioOfficial/simplio-app/commit/c6b9c17e0ef97ed72581032620600d54edf0096b) updating account profile profile - storkandstars<br>[94fb0f0](https://github.com/SimplioOfficial/simplio-app/commit/94fb0f0d36ece55047071ed3ac4cac6d62697865) adding sync repository - storkandstars<br>[1699d6e](https://github.com/SimplioOfficial/simplio-app/commit/1699d6e15e7d6e1fe688d28ad7dc6a8974f610d3) adding account profile bloc - storkandstars<br>[3c0c435](https://github.com/SimplioOfficial/simplio-app/commit/3c0c435fb590088f361cc3a3c4bc6ac0d0b587f8) applying sync repository and account profile bloc - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
