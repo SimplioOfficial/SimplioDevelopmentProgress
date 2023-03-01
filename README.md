@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4524 commits since 10/09/2021. You can see the complete history in
+There is a total of 4525 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-01 13:21:52</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9875857877fd0c141a7a2cfd2302a4b4b5c3af5a)</sub> | <sub>[9875857](https://github.com/SimplioOfficial/simplio-app/commit/9875857877fd0c141a7a2cfd2302a4b4b5c3af5a) removing trailing gap - storkandstars</sub> |
 | <sub>2023-03-01 12:28:16</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a1caaab5b2b460aeb803840850a6c899f6bcf1e5)</sub> | <sub>[a1caaab](https://github.com/SimplioOfficial/simplio-app/commit/a1caaab5b2b460aeb803840850a6c899f6bcf1e5) formatting - storkandstars</sub> |
 | <sub>2023-03-01 12:18:06</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c6598eba66b2...9e5bf1510b0f)</sub> | <sub>[5afc375](https://github.com/SimplioOfficial/simplio-app/commit/5afc375373e00728ab4de394f63dedfad8409616) Task/515 global transaction history (#527) - storkandstars<br>[48bd5f3](https://github.com/SimplioOfficial/simplio-app/commit/48bd5f3594fa8c966e4d22150904f9a9a6624c53) Task/372 create backup seed screens (#532) - ciripel<br>[9e5bf15](https://github.com/SimplioOfficial/simplio-app/commit/9e5bf1510b0f2836beefdcccb01f4b3e938819f0) Merge branch 'master' into task/525-get-account... - storkandstars</sub> |
 | <sub>2023-03-01 00:06:56</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99)</sub> | <sub>[d968ba1](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99) Email verification design - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 4524 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-02-28 19:49:57</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d4392a1a5dc36addc35a49fbb5b546f128bf87b)</sub> | <sub>[8d4392a](https://github.com/SimplioOfficial/simplio-app/commit/8d4392a1a5dc36addc35a49fbb5b546f128bf87b) removing print - storkandstars</sub> |
 | <sub>2023-02-28 19:49:20</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a62cf8c6ebfe95cd64ef1da228580a8b43ff87b8)</sub> | <sub>[a62cf8c](https://github.com/SimplioOfficial/simplio-app/commit/a62cf8c6ebfe95cd64ef1da228580a8b43ff87b8) synchronizing account profile - storkandstars</sub> |
 | <sub>2023-02-28 19:39:17</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/420cb4c120877c41f212bbe9869112cd7087b158)</sub> | <sub>[420cb4c](https://github.com/SimplioOfficial/simplio-app/commit/420cb4c120877c41f212bbe9869112cd7087b158) Routing - vrbasji</sub> |
-| <sub>2023-02-28 18:28:18</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96b68e4b79384601130f6ed8b5118e856d721bfe)</sub> | <sub>[96b68e4](https://github.com/SimplioOfficial/simplio-app/commit/96b68e4b79384601130f6ed8b5118e856d721bfe) reverting changes - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
