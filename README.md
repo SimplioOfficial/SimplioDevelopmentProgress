@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4528 commits since 10/09/2021. You can see the complete history in
+There is a total of 4529 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-02 05:24:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2e2d156892436f5d9fb8b400d0d3bef14f069053)</sub> | <sub>[2e2d156](https://github.com/SimplioOfficial/simplio-app/commit/2e2d156892436f5d9fb8b400d0d3bef14f069053) Task/525 get account detail on entering authent... - storkandstars</sub> |
 | <sub>2023-03-01 22:43:28</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de)</sub> | <sub>[f3f426e](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de) Verification screen refactor - vrbasji</sub> |
 | <sub>2023-03-01 17:33:56</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d5dc756c1112df8db53b4d7a8dc6276aebfdad3)</sub> | <sub>[4d5dc75](https://github.com/SimplioOfficial/simplio-app/commit/4d5dc756c1112df8db53b4d7a8dc6276aebfdad3) Add right icon to the elevated button - vrbasji</sub> |
 | <sub>2023-03-01 14:01:55</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e74870fb9320d6093778e0f17beed22712443dd)</sub> | <sub>[8e74870](https://github.com/SimplioOfficial/simplio-app/commit/8e74870fb9320d6093778e0f17beed22712443dd) change button - JiriBestak</sub> |
@@ -17,6 +18,5 @@ There is a total of 4528 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-01 00:06:56</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99)</sub> | <sub>[d968ba1](https://github.com/SimplioOfficial/simplio-app/commit/d968ba179cfd29d7da61ea3a15297d057e5bab99) Email verification design - vrbasji</sub> |
 | <sub>2023-02-28 22:23:37</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67758abf92e96b0aeaa5db74ab1038574dfc66f2)</sub> | <sub>[67758ab](https://github.com/SimplioOfficial/simplio-app/commit/67758abf92e96b0aeaa5db74ab1038574dfc66f2) add route - JiriBestak</sub> |
 | <sub>2023-02-28 19:59:21</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6598eba66b28a17f55defdd5ff497a9a44af8bf)</sub> | <sub>[c6598eb](https://github.com/SimplioOfficial/simplio-app/commit/c6598eba66b28a17f55defdd5ff497a9a44af8bf) listening on change - storkandstars</sub> |
-| <sub>2023-02-28 19:50:29</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/628ca83991b5bc6045795c3739b5ef5a29b62314)</sub> | <sub>[628ca83](https://github.com/SimplioOfficial/simplio-app/commit/628ca83991b5bc6045795c3739b5ef5a29b62314) fix analyze - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
