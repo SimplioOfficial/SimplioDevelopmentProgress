@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4534 commits since 10/09/2021. You can see the complete history in
+There is a total of 4535 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-03 22:28:46</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03)</sub> | <sub>[e190692](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03) Implemented email sending - vrbasji</sub> |
 | <sub>2023-03-03 18:52:51</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/180c11067fc4...7327c2451f6c)</sub> | <sub>[48bd5f3](https://github.com/SimplioOfficial/simplio-app/commit/48bd5f3594fa8c966e4d22150904f9a9a6624c53) Task/372 create backup seed screens (#532) - ciripel<br>[2e2d156](https://github.com/SimplioOfficial/simplio-app/commit/2e2d156892436f5d9fb8b400d0d3bef14f069053) Task/525 get account detail on entering authent... - storkandstars<br>[c9ec774](https://github.com/SimplioOfficial/simplio-app/commit/c9ec7747ca8e83eac9a5c7bacba5a8111615be60) Merge branch 'master' into task/348-email-verif... - vrbasji<br>[7327c24](https://github.com/SimplioOfficial/simplio-app/commit/7327c2451f6c5570c81238b4dc8276352644736e) Design done (just fix images) - vrbasji</sub> |
 | <sub>2023-03-03 14:27:44</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3726c5898a7ac8773fc8384c6b74a9b453eae85f)</sub> | <sub>[3726c58](https://github.com/SimplioOfficial/simplio-app/commit/3726c5898a7ac8773fc8384c6b74a9b453eae85f) start SumSub - ciripel</sub> |
 | <sub>2023-03-03 13:44:56</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8f4e789ca192ddf73434fa7a31368785d32bc211)</sub> | <sub>[8f4e789](https://github.com/SimplioOfficial/simplio-app/commit/8f4e789ca192ddf73434fa7a31368785d32bc211) prepare sumsub webview under buyCoin button - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4534 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-01 22:43:28</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de)</sub> | <sub>[f3f426e](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de) Verification screen refactor - vrbasji</sub> |
 | <sub>2023-03-01 17:33:56</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4d5dc756c1112df8db53b4d7a8dc6276aebfdad3)</sub> | <sub>[4d5dc75](https://github.com/SimplioOfficial/simplio-app/commit/4d5dc756c1112df8db53b4d7a8dc6276aebfdad3) Add right icon to the elevated button - vrbasji</sub> |
 | <sub>2023-03-01 14:01:55</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e74870fb9320d6093778e0f17beed22712443dd)</sub> | <sub>[8e74870](https://github.com/SimplioOfficial/simplio-app/commit/8e74870fb9320d6093778e0f17beed22712443dd) change button - JiriBestak</sub> |
-| <sub>2023-03-01 13:21:52</sub> | <sub>[[simplio-app:task/525\-get\-account\-detail\-on\-entering\-authenticated\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9875857877fd0c141a7a2cfd2302a4b4b5c3af5a)</sub> | <sub>[9875857](https://github.com/SimplioOfficial/simplio-app/commit/9875857877fd0c141a7a2cfd2302a4b4b5c3af5a) removing trailing gap - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
