@@ -3,11 +3,14 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4537 commits since 10/09/2021. You can see the complete history in
+There is a total of 4540 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-04 22:24:52</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ba5f3f070e214ed7c1d1b9316653dbf77c653e3)</sub> | <sub>[8ba5f3f](https://github.com/SimplioOfficial/simplio-app/commit/8ba5f3f070e214ed7c1d1b9316653dbf77c653e3) fix analyze - storkandstars</sub> |
+| <sub>2023-03-04 22:21:53</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/659e15a789df0bbe680f7454fc869185642dbfa0)</sub> | <sub>[659e15a](https://github.com/SimplioOfficial/simplio-app/commit/659e15a789df0bbe680f7454fc869185642dbfa0) updating error messages - storkandstars</sub> |
+| <sub>2023-03-04 22:20:39</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8)</sub> | <sub>[3003473](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8) renaming method - storkandstars</sub> |
 | <sub>2023-03-04 22:19:46</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a77123d60e5df07ac781f71717d7c5fb26b76cf)</sub> | <sub>[9a77123](https://github.com/SimplioOfficial/simplio-app/commit/9a77123d60e5df07ac781f71717d7c5fb26b76cf) adding kyc events - storkandstars</sub> |
 | <sub>2023-03-04 13:55:23</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfebf759823c7e72abafba4a9ca061141c410970)</sub> | <sub>[bfebf75](https://github.com/SimplioOfficial/simplio-app/commit/bfebf759823c7e72abafba4a9ca061141c410970) moving sdk to repository - storkandstars</sub> |
 | <sub>2023-03-03 22:28:46</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03)</sub> | <sub>[e190692](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03) Implemented email sending - vrbasji</sub> |
@@ -15,8 +18,5 @@ There is a total of 4537 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-03 14:27:44</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3726c5898a7ac8773fc8384c6b74a9b453eae85f)</sub> | <sub>[3726c58](https://github.com/SimplioOfficial/simplio-app/commit/3726c5898a7ac8773fc8384c6b74a9b453eae85f) start SumSub - ciripel</sub> |
 | <sub>2023-03-03 13:44:56</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8f4e789ca192ddf73434fa7a31368785d32bc211)</sub> | <sub>[8f4e789](https://github.com/SimplioOfficial/simplio-app/commit/8f4e789ca192ddf73434fa7a31368785d32bc211) prepare sumsub webview under buyCoin button - ciripel</sub> |
 | <sub>2023-03-03 11:10:52</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef8b16dbd7f7c1a8ba16d9f24e09f3cd1f7d2afe)</sub> | <sub>[ef8b16d](https://github.com/SimplioOfficial/simplio-app/commit/ef8b16dbd7f7c1a8ba16d9f24e09f3cd1f7d2afe) chore: SumSub SDK setup - ciripel</sub> |
-| <sub>2023-03-03 02:59:02</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/180c11067fc4525438b6da32c89b363d7aba9087)</sub> | <sub>[180c110](https://github.com/SimplioOfficial/simplio-app/commit/180c11067fc4525438b6da32c89b363d7aba9087) localization - vrbasji</sub> |
-| <sub>2023-03-02 05:24:06</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2e2d156892436f5d9fb8b400d0d3bef14f069053)</sub> | <sub>[2e2d156](https://github.com/SimplioOfficial/simplio-app/commit/2e2d156892436f5d9fb8b400d0d3bef14f069053) Task/525 get account detail on entering authent... - storkandstars</sub> |
-| <sub>2023-03-01 22:43:28</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de)</sub> | <sub>[f3f426e](https://github.com/SimplioOfficial/simplio-app/commit/f3f426eef1e905e68f22e5f58e32d78e8220d3de) Verification screen refactor - vrbasji</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
