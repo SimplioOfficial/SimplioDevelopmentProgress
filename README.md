@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4544 commits since 10/09/2021. You can see the complete history in
+There is a total of 4545 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-06 09:33:58</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ba838c960b9290d5580fcac38699261ed3d882b)</sub> | <sub>[5ba838c](https://github.com/SimplioOfficial/simplio-app/commit/5ba838c960b9290d5580fcac38699261ed3d882b) disable analytics - ciripel</sub> |
 | <sub>2023-03-06 08:22:11</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b4867b95390fe7ae7ec4371baeab619ff0ca698)</sub> | <sub>[1b4867b](https://github.com/SimplioOfficial/simplio-app/commit/1b4867b95390fe7ae7ec4371baeab619ff0ca698) chore: disable bitcode for iOS pods - ciripel</sub> |
 | <sub>2023-03-04 22:58:53</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cfaa839f728756ca56fbb764bb8555ade2f9a72f)</sub> | <sub>[cfaa839](https://github.com/SimplioOfficial/simplio-app/commit/cfaa839f728756ca56fbb764bb8555ade2f9a72f) updating events - storkandstars</sub> |
 | <sub>2023-03-04 22:28:42</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/964096c5ed4857e7d93dbfc03bfa651ea907a8c9)</sub> | <sub>[964096c](https://github.com/SimplioOfficial/simplio-app/commit/964096c5ed4857e7d93dbfc03bfa651ea907a8c9) removing unused sumsub screen - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4544 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-04 22:20:39</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8)</sub> | <sub>[3003473](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8) renaming method - storkandstars</sub> |
 | <sub>2023-03-04 22:19:46</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a77123d60e5df07ac781f71717d7c5fb26b76cf)</sub> | <sub>[9a77123](https://github.com/SimplioOfficial/simplio-app/commit/9a77123d60e5df07ac781f71717d7c5fb26b76cf) adding kyc events - storkandstars</sub> |
 | <sub>2023-03-04 13:55:23</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfebf759823c7e72abafba4a9ca061141c410970)</sub> | <sub>[bfebf75](https://github.com/SimplioOfficial/simplio-app/commit/bfebf759823c7e72abafba4a9ca061141c410970) moving sdk to repository - storkandstars</sub> |
-| <sub>2023-03-03 22:28:46</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03)</sub> | <sub>[e190692](https://github.com/SimplioOfficial/simplio-app/commit/e190692e55744e9988a8f4fb1a47c05126c8bb03) Implemented email sending - vrbasji</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
