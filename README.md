@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4558 commits since 10/09/2021. You can see the complete history in
+There is a total of 4559 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-07 23:30:45</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/975bb52a4e4acc08af3a4bfd1460655894f3ad97)</sub> | <sub>[975bb52](https://github.com/SimplioOfficial/simplio-app/commit/975bb52a4e4acc08af3a4bfd1460655894f3ad97) fix formatting - storkandstars</sub> |
 | <sub>2023-03-07 23:24:13</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f49dd792b7a2290d16966aaa25b37363e59a635a)</sub> | <sub>[f49dd79](https://github.com/SimplioOfficial/simplio-app/commit/f49dd792b7a2290d16966aaa25b37363e59a635a) fixing formatting - storkandstars</sub> |
 | <sub>2023-03-07 23:22:59</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b808a654672abb7df218eb552d0c41a968ff3db)</sub> | <sub>[4b808a6](https://github.com/SimplioOfficial/simplio-app/commit/4b808a654672abb7df218eb552d0c41a968ff3db) fixing formatting - storkandstars</sub> |
 | <sub>2023-03-07 23:21:38</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/981b3766b056...150dd5606e01)</sub> | <sub>[85f6f20](https://github.com/SimplioOfficial/simplio-app/commit/85f6f201837e8e5ba148394fa14e534929581c98) removing commented code - storkandstars<br>[150dd56](https://github.com/SimplioOfficial/simplio-app/commit/150dd5606e0167f2955be4a2b66b397a83c06e58) fixing commented code - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4558 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-07 22:09:30</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a513c1c5b5a68cc0ffb25b0f5b07e1c5d2ef30fb)</sub> | <sub>[a513c1c](https://github.com/SimplioOfficial/simplio-app/commit/a513c1c5b5a68cc0ffb25b0f5b07e1c5d2ef30fb) removing todo - storkandstars</sub> |
 | <sub>2023-03-07 22:08:45</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20d1fe3fab584a2d6c5f170858b51a7f48698cd4)</sub> | <sub>[20d1fe3](https://github.com/SimplioOfficial/simplio-app/commit/20d1fe3fab584a2d6c5f170858b51a7f48698cd4) fix analyze - storkandstars</sub> |
 | <sub>2023-03-07 22:07:14</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/23e0da0e1035f1d93a0178a5a8543f46cd12a92d)</sub> | <sub>[23e0da0](https://github.com/SimplioOfficial/simplio-app/commit/23e0da0e1035f1d93a0178a5a8543f46cd12a92d) updating email verification implementation - storkandstars</sub> |
-| <sub>2023-03-07 12:41:38</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d57f8972b21b2ea1dc061b0b401e8d5f81b7186b)</sub> | <sub>[d57f897](https://github.com/SimplioOfficial/simplio-app/commit/d57f8972b21b2ea1dc061b0b401e8d5f81b7186b) adding slash as a staring character - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
