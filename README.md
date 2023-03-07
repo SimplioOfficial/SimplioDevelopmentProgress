@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4547 commits since 10/09/2021. You can see the complete history in
+There is a total of 4548 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-07 12:34:52</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2c48156bf6f97afa293e0d9905ef72ab6819c87)</sub> | <sub>[f2c4815](https://github.com/SimplioOfficial/simplio-app/commit/f2c48156bf6f97afa293e0d9905ef72ab6819c87) fixing incorrect urls for authentication service - storkandstars</sub> |
 | <sub>2023-03-07 11:53:25</sub> | <sub>[[simplio-app:bug/386\-implementing\-BigDecimal\-interface] 15 new commits](https://github.com/SimplioOfficial/simplio-app/compare/475a1cff8edf^...ad16d6196ca0)</sub> | <sub>[475a1cf](https://github.com/SimplioOfficial/simplio-app/commit/475a1cff8edf94dc8bd020af433fd4bd87620ac3) wip - initial bloc implementation and ui changes - storkandstars<br>[8fff985](https://github.com/SimplioOfficial/simplio-app/commit/8fff98598a5331fde3e3f65ea94bce4f41b344f1) renaming decimalPlaces to precision - storkandstars<br>[34288fb](https://github.com/SimplioOfficial/simplio-app/commit/34288fb96cec9d380b94c81f95fc89a1ffc75d2b) renaming isFilled to isFinite - storkandstars<br>[566eba8](https://github.com/SimplioOfficial/simplio-app/commit/566eba8c6ca7f9eb0c6be8e9c822e9ccf3863ef2) blocking inserting larger number than 64bit - storkandstars<br>[ab60e61](https://github.com/SimplioOfficial/simplio-app/commit/ab60e6184d6d7197bfc5563238c92df09cb6c45d) adding defined precision to zero constr - storkandstars</sub> |
 | <sub>2023-03-06 22:50:30</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63d7547d08d021a8f189495a44c4a6dae2f9d67f)</sub> | <sub>[63d7547](https://github.com/SimplioOfficial/simplio-app/commit/63d7547d08d021a8f189495a44c4a6dae2f9d67f) Resend email verification - vrbasji</sub> |
 | <sub>2023-03-06 09:33:58</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ba838c960b9290d5580fcac38699261ed3d882b)</sub> | <sub>[5ba838c](https://github.com/SimplioOfficial/simplio-app/commit/5ba838c960b9290d5580fcac38699261ed3d882b) disable analytics - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4547 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-04 22:26:52</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bfd56baa19be85ff7608074769236e6c53d98516)</sub> | <sub>[bfd56ba](https://github.com/SimplioOfficial/simplio-app/commit/bfd56baa19be85ff7608074769236e6c53d98516) removing negatives - storkandstars</sub> |
 | <sub>2023-03-04 22:24:52</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ba5f3f070e214ed7c1d1b9316653dbf77c653e3)</sub> | <sub>[8ba5f3f](https://github.com/SimplioOfficial/simplio-app/commit/8ba5f3f070e214ed7c1d1b9316653dbf77c653e3) fix analyze - storkandstars</sub> |
 | <sub>2023-03-04 22:21:53</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/659e15a789df0bbe680f7454fc869185642dbfa0)</sub> | <sub>[659e15a](https://github.com/SimplioOfficial/simplio-app/commit/659e15a789df0bbe680f7454fc869185642dbfa0) updating error messages - storkandstars</sub> |
-| <sub>2023-03-04 22:20:39</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8)</sub> | <sub>[3003473](https://github.com/SimplioOfficial/simplio-app/commit/3003473387e8d87c7f4f7a38ffae462a8ce30fd8) renaming method - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
