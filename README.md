@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4564 commits since 10/09/2021. You can see the complete history in
+There is a total of 4565 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-08 13:30:15</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7809f8c3c941b2a96d76fb6cf45c802ef8fbb0b3)</sub> | <sub>[7809f8c](https://github.com/SimplioOfficial/simplio-app/commit/7809f8c3c941b2a96d76fb6cf45c802ef8fbb0b3) fix: error message in sign in - ciripel</sub> |
 | <sub>2023-03-08 13:24:30</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae4d4beb24ad434389a8216b17c5ab11dd7597a7)</sub> | <sub>[ae4d4be](https://github.com/SimplioOfficial/simplio-app/commit/ae4d4beb24ad434389a8216b17c5ab11dd7597a7) fixed error parsing - ciripel</sub> |
 | <sub>2023-03-08 10:47:21</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9eb55a8b6ef119ddf059dea3f6305ade1d535d)</sub> | <sub>[5a9eb55](https://github.com/SimplioOfficial/simplio-app/commit/5a9eb55a8b6ef119ddf059dea3f6305ade1d535d) add localization for verify email - ciripel</sub> |
 | <sub>2023-03-08 10:40:42</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b6d426e492706948771b0bab2e178f9ff55737ab)</sub> | <sub>[b6d426e](https://github.com/SimplioOfficial/simplio-app/commit/b6d426e492706948771b0bab2e178f9ff55737ab) throw snackbar with message from backend - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4564 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-07 23:24:13</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f49dd792b7a2290d16966aaa25b37363e59a635a)</sub> | <sub>[f49dd79](https://github.com/SimplioOfficial/simplio-app/commit/f49dd792b7a2290d16966aaa25b37363e59a635a) fixing formatting - storkandstars</sub> |
 | <sub>2023-03-07 23:22:59</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4b808a654672abb7df218eb552d0c41a968ff3db)</sub> | <sub>[4b808a6](https://github.com/SimplioOfficial/simplio-app/commit/4b808a654672abb7df218eb552d0c41a968ff3db) fixing formatting - storkandstars</sub> |
 | <sub>2023-03-07 23:21:38</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/981b3766b056...150dd5606e01)</sub> | <sub>[85f6f20](https://github.com/SimplioOfficial/simplio-app/commit/85f6f201837e8e5ba148394fa14e534929581c98) removing commented code - storkandstars<br>[150dd56](https://github.com/SimplioOfficial/simplio-app/commit/150dd5606e0167f2955be4a2b66b397a83c06e58) fixing commented code - storkandstars</sub> |
-| <sub>2023-03-07 23:18:08</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/981b3766b056ca19fd1677e2b6c43213623becf8)</sub> | <sub>[981b376](https://github.com/SimplioOfficial/simplio-app/commit/981b3766b056ca19fd1677e2b6c43213623becf8) fix analyze - storkandstars</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
