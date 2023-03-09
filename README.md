@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4570 commits since 10/09/2021. You can see the complete history in
+There is a total of 4571 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-09 16:30:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e748ad4e4ae78c1125cc120fcbc373dadb825abd)</sub> | <sub>[e748ad4](https://github.com/SimplioOfficial/simplio-app/commit/e748ad4e4ae78c1125cc120fcbc373dadb825abd) Task/348 email verification workflow (#535) - storkandstars</sub> |
 | <sub>2023-03-09 05:26:52</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73973882a7083ac18c97c529d85217a19185b9f7)</sub> | <sub>[7397388](https://github.com/SimplioOfficial/simplio-app/commit/73973882a7083ac18c97c529d85217a19185b9f7) Remove create applicant - vrbasji</sub> |
 | <sub>2023-03-08 20:18:24</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb74d8920e5248dd02d514dbc11dbc87cec778d1)</sub> | <sub>[eb74d89](https://github.com/SimplioOfficial/simplio-app/commit/eb74d8920e5248dd02d514dbc11dbc87cec778d1) fix centralized layout - storkandstars</sub> |
 | <sub>2023-03-08 20:06:27</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e82d3c4025b066cc3e327d34a1ed6e5a21531e1f)</sub> | <sub>[e82d3c4](https://github.com/SimplioOfficial/simplio-app/commit/e82d3c4025b066cc3e327d34a1ed6e5a21531e1f) fix redirect - storkandstars</sub> |
@@ -17,6 +18,5 @@ There is a total of 4570 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-08 13:24:30</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae4d4beb24ad434389a8216b17c5ab11dd7597a7)</sub> | <sub>[ae4d4be](https://github.com/SimplioOfficial/simplio-app/commit/ae4d4beb24ad434389a8216b17c5ab11dd7597a7) fixed error parsing - ciripel</sub> |
 | <sub>2023-03-08 10:47:21</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a9eb55a8b6ef119ddf059dea3f6305ade1d535d)</sub> | <sub>[5a9eb55](https://github.com/SimplioOfficial/simplio-app/commit/5a9eb55a8b6ef119ddf059dea3f6305ade1d535d) add localization for verify email - ciripel</sub> |
 | <sub>2023-03-08 10:40:42</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b6d426e492706948771b0bab2e178f9ff55737ab)</sub> | <sub>[b6d426e](https://github.com/SimplioOfficial/simplio-app/commit/b6d426e492706948771b0bab2e178f9ff55737ab) throw snackbar with message from backend - ciripel</sub> |
-| <sub>2023-03-08 10:32:22</sub> | <sub>[[simplio-app:task/348\-email\-verification\-workflow] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bae93579d24c224b36681f6a1eca3a2a3d5f3da)</sub> | <sub>[7bae935](https://github.com/SimplioOfficial/simplio-app/commit/7bae93579d24c224b36681f6a1eca3a2a3d5f3da) fix: add snackbar error on ConfirmationFailure - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
