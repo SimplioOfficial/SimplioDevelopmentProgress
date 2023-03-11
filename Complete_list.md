@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-11 17:39:04</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b)</sub> | <sub>[9b3ce57](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b) fix: remove applicant creation - ciripel</sub> |
 | <sub>2023-03-11 17:33:15</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/73973882a708...481ead1daff5)</sub> |
 | <sub>2023-03-11 17:01:00</sub> | <sub>[[simplio-app:399\-create\-bubble\-for\-backup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd20181ab4fad37359c9811cea159e903cedd38d)</sub> | <sub>[dd20181](https://github.com/SimplioOfficial/simplio-app/commit/dd20181ab4fad37359c9811cea159e903cedd38d) Added Gaps with SizedBox - ciripel</sub> |
 | <sub>2023-03-11 16:40:42</sub> | <sub>[[simplio-app:399\-create\-bubble\-for\-backup\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/301c4d2cb601ecb1094f9542b0d56b9867c3e3f1)</sub> | <sub>[301c4d2](https://github.com/SimplioOfficial/simplio-app/commit/301c4d2cb601ecb1094f9542b0d56b9867c3e3f1) small fixes asked in PR - ciripel</sub> |
