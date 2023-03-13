@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-13 09:06:46</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f)</sub> | <sub>[3af7cea](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f) refactor: switch gap10 - ciripel</sub> |
 | <sub>2023-03-13 08:43:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f)</sub> | <sub>[64b4edb](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f) task/399-create-bubble-for-backup-screen (#536) - ciripel</sub> |
 | <sub>2023-03-13 08:43:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/acd1c88196bcb41b0909991398b111d9606a68ed)</sub> | <sub>[acd1c88](https://github.com/SimplioOfficial/simplio-app/commit/acd1c88196bcb41b0909991398b111d9606a68ed) feat/352-implement-SumSub-SDK (#534) - ciripel</sub> |
 | <sub>2023-03-11 17:39:04</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b)</sub> | <sub>[9b3ce57](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b) fix: remove applicant creation - ciripel</sub> |
