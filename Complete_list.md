@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-14 13:18:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86e594a79603...189173131e31)</sub> |
 | <sub>2023-03-14 13:00:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40)</sub> | <sub>[3798471](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40) refactor/gaps-without-dependency (#537) - ciripel</sub> |
 | <sub>2023-03-14 09:42:34</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6)</sub> | <sub>[86e594a](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6) fix: really ugly remove AssetAction - ciripel</sub> |
 | <sub>2023-03-14 08:02:15</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650)</sub> | <sub>[67a7ad2](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650) fix: remove throw Exception from Discover Coins - ciripel</sub> |
