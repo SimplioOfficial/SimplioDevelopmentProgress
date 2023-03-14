@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4589 commits since 10/09/2021. You can see the complete history in
+There is a total of 4590 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-14 08:02:15</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650)</sub> | <sub>[67a7ad2](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650) fix: remove throw Exception from Discover Coins - ciripel</sub> |
 | <sub>2023-03-14 07:55:01</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7)</sub> | <sub>[751ba65](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7) chore: delete commented code - ciripel</sub> |
 | <sub>2023-03-14 07:52:06</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5533ad08c1b069d13d559638adad32e8d0849c04)</sub> | <sub>[5533ad0](https://github.com/SimplioOfficial/simplio-app/commit/5533ad08c1b069d13d559638adad32e8d0849c04) use BigDecimal isZero - ciripel</sub> |
 | <sub>2023-03-13 14:14:05</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6cd474575d54fd6fd261817261e53c0f1f39251)</sub> | <sub>[e6cd474](https://github.com/SimplioOfficial/simplio-app/commit/e6cd474575d54fd6fd261817261e53c0f1f39251) refactor: remove package and fix remaining items - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4589 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-13 09:06:46</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f)</sub> | <sub>[3af7cea](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f) refactor: switch gap10 - ciripel</sub> |
 | <sub>2023-03-13 08:43:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f)</sub> | <sub>[64b4edb](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f) task/399-create-bubble-for-backup-screen (#536) - ciripel</sub> |
 | <sub>2023-03-13 08:43:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/acd1c88196bcb41b0909991398b111d9606a68ed)</sub> | <sub>[acd1c88](https://github.com/SimplioOfficial/simplio-app/commit/acd1c88196bcb41b0909991398b111d9606a68ed) feat/352-implement-SumSub-SDK (#534) - ciripel</sub> |
-| <sub>2023-03-11 17:39:04</sub> | <sub>[[simplio-app:feat/352\-implement\-SumSub\-SDK] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b)</sub> | <sub>[9b3ce57](https://github.com/SimplioOfficial/simplio-app/commit/9b3ce578ddc3a8e53bd1aecf9d0df6489084988b) fix: remove applicant creation - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
