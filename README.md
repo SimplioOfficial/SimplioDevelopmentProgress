@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4591 commits since 10/09/2021. You can see the complete history in
+There is a total of 4592 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-14 13:00:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40)</sub> | <sub>[3798471](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40) refactor/gaps-without-dependency (#537) - ciripel</sub> |
 | <sub>2023-03-14 09:42:34</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6)</sub> | <sub>[86e594a](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6) fix: really ugly remove AssetAction - ciripel</sub> |
 | <sub>2023-03-14 08:02:15</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650)</sub> | <sub>[67a7ad2](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650) fix: remove throw Exception from Discover Coins - ciripel</sub> |
 | <sub>2023-03-14 07:55:01</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7)</sub> | <sub>[751ba65](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7) chore: delete commented code - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4591 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-13 09:58:06</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e33ddfe1ab6934891814a5567bfdb60ed6428469)</sub> | <sub>[e33ddfe](https://github.com/SimplioOfficial/simplio-app/commit/e33ddfe1ab6934891814a5567bfdb60ed6428469) refactor: switch gap4 - ciripel</sub> |
 | <sub>2023-03-13 09:55:31</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c7570a8351df7e6cb9c69d80ee7ab873424a03c)</sub> | <sub>[1c7570a](https://github.com/SimplioOfficial/simplio-app/commit/1c7570a8351df7e6cb9c69d80ee7ab873424a03c) refactor: switch gap14 - ciripel</sub> |
 | <sub>2023-03-13 09:06:46</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f)</sub> | <sub>[3af7cea](https://github.com/SimplioOfficial/simplio-app/commit/3af7cea3d78402c459649c87924638d11402d42f) refactor: switch gap10 - ciripel</sub> |
-| <sub>2023-03-13 08:43:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f)</sub> | <sub>[64b4edb](https://github.com/SimplioOfficial/simplio-app/commit/64b4edbda6aee1ebdfb1f55afed5db2e5c84601f) task/399-create-bubble-for-backup-screen (#536) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
