@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-15 15:58:35</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dae8180366b979dd3e26c0217b50aa1439227817)</sub> | <sub>[dae8180](https://github.com/SimplioOfficial/simplio-app/commit/dae8180366b979dd3e26c0217b50aa1439227817) wip: started with sign_in_errors - ciripel</sub> |
 | <sub>2023-03-14 13:18:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86e594a79603...189173131e31)</sub> |
 | <sub>2023-03-14 13:00:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40)</sub> | <sub>[3798471](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40) refactor/gaps-without-dependency (#537) - ciripel</sub> |
 | <sub>2023-03-14 09:42:34</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6)</sub> | <sub>[86e594a](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6) fix: really ugly remove AssetAction - ciripel</sub> |
