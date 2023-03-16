@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4594 commits since 10/09/2021. You can see the complete history in
+There is a total of 4595 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-16 14:26:31</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a8aa0a4039f60d72950770f339cb1d690ceeded1)</sub> | <sub>[a8aa0a4](https://github.com/SimplioOfficial/simplio-app/commit/a8aa0a4039f60d72950770f339cb1d690ceeded1) wip - ciripel</sub> |
 | <sub>2023-03-15 15:58:35</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dae8180366b979dd3e26c0217b50aa1439227817)</sub> | <sub>[dae8180](https://github.com/SimplioOfficial/simplio-app/commit/dae8180366b979dd3e26c0217b50aa1439227817) wip: started with sign_in_errors - ciripel</sub> |
 | <sub>2023-03-14 13:18:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86e594a79603...189173131e31)</sub> |
 | <sub>2023-03-14 13:00:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40)</sub> | <sub>[3798471](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40) refactor/gaps-without-dependency (#537) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4594 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-14 07:52:06</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5533ad08c1b069d13d559638adad32e8d0849c04)</sub> | <sub>[5533ad0](https://github.com/SimplioOfficial/simplio-app/commit/5533ad08c1b069d13d559638adad32e8d0849c04) use BigDecimal isZero - ciripel</sub> |
 | <sub>2023-03-13 14:14:05</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e6cd474575d54fd6fd261817261e53c0f1f39251)</sub> | <sub>[e6cd474](https://github.com/SimplioOfficial/simplio-app/commit/e6cd474575d54fd6fd261817261e53c0f1f39251) refactor: remove package and fix remaining items - ciripel</sub> |
 | <sub>2023-03-13 13:31:36</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 12 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e33ddfe1ab69...1e751282bbc0)</sub> | <sub>[ff842be](https://github.com/SimplioOfficial/simplio-app/commit/ff842beb976375c93e371485176fc77cd0ce1ac5) refactor: switch gap20 - ciripel<br>[0615fc4](https://github.com/SimplioOfficial/simplio-app/commit/0615fc4ea0fbaebaa19f02f6dcd20dffdfd20e65) refactor: switch gap30 - ciripel<br>[6e813ff](https://github.com/SimplioOfficial/simplio-app/commit/6e813ff20d1733c7c8ed1b5c5bba92547c1da6a8) refactor: switch gap40 - ciripel<br>[0f40046](https://github.com/SimplioOfficial/simplio-app/commit/0f40046b69391b18eb3a950d99ad0c6cef66f55d) refactor: gap50, gap60 - ciripel<br>[34e5eed](https://github.com/SimplioOfficial/simplio-app/commit/34e5eedcd25e592d51b11b3cfe4e87d7ec3f5a51) refactor: switch gap12, gap16 - ciripel</sub> |
-| <sub>2023-03-13 09:58:06</sub> | <sub>[[simplio-app:refactor/gaps\-without\-dependency] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e33ddfe1ab6934891814a5567bfdb60ed6428469)</sub> | <sub>[e33ddfe](https://github.com/SimplioOfficial/simplio-app/commit/e33ddfe1ab6934891814a5567bfdb60ed6428469) refactor: switch gap4 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
