@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4598 commits since 10/09/2021. You can see the complete history in
+There is a total of 4599 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-21 09:43:46</sub> | <sub>[[simplio-app:task/426\-disable\-password\-validations\-in\-mobile\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/320c99b16bc538da7ca0a9b4a6a69c9e4e7454c0)</sub> | <sub>[320c99b](https://github.com/SimplioOfficial/simplio-app/commit/320c99b16bc538da7ca0a9b4a6a69c9e4e7454c0) disabled pass validation - ciripel</sub> |
 | <sub>2023-03-21 09:08:48</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90127213af8ae3f4223ed2b38f33d884d37ab2e6)</sub> | <sub>[9012721](https://github.com/SimplioOfficial/simplio-app/commit/90127213af8ae3f4223ed2b38f33d884d37ab2e6) adding swap errors - ciripel</sub> |
 | <sub>2023-03-20 13:37:29</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/763a8e6905c3a2f0fb5c0f968f5f2d7abb8eada5)</sub> | <sub>[763a8e6](https://github.com/SimplioOfficial/simplio-app/commit/763a8e6905c3a2f0fb5c0f968f5f2d7abb8eada5) finish authentication errors - ciripel</sub> |
 | <sub>2023-03-17 14:58:25</sub> | <sub>[[simplio-app:task/382\-translations\-of\-error\-states] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e716c6bd8f019061cf720619fd170069cc8a44e7)</sub> | <sub>[e716c6b](https://github.com/SimplioOfficial/simplio-app/commit/e716c6bd8f019061cf720619fd170069cc8a44e7) fix: update HttpErrorCodes - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4598 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-14 13:00:12</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40)</sub> | <sub>[3798471](https://github.com/SimplioOfficial/simplio-app/commit/37984712aadac85ec20960efd5626460c000cb40) refactor/gaps-without-dependency (#537) - ciripel</sub> |
 | <sub>2023-03-14 09:42:34</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6)</sub> | <sub>[86e594a](https://github.com/SimplioOfficial/simplio-app/commit/86e594a79603d214774b4de5fb99edf2408297d6) fix: really ugly remove AssetAction - ciripel</sub> |
 | <sub>2023-03-14 08:02:15</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650)</sub> | <sub>[67a7ad2](https://github.com/SimplioOfficial/simplio-app/commit/67a7ad2fbb8999e94ff4f8250fbe32ff58db8650) fix: remove throw Exception from Discover Coins - ciripel</sub> |
-| <sub>2023-03-14 07:55:01</sub> | <sub>[[simplio-app:bug/386\-Removing\-coin\-from\-discovery\-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7)</sub> | <sub>[751ba65](https://github.com/SimplioOfficial/simplio-app/commit/751ba65e7a9c2445c941b176c8aefebb381da1a7) chore: delete commented code - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
