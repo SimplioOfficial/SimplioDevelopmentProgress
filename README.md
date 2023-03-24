@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4613 commits since 10/09/2021. You can see the complete history in
+There is a total of 4614 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-24 08:08:59</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2be060d1e951291cc851a9c9b54aa299b9b14266)</sub> | <sub>[2be060d](https://github.com/SimplioOfficial/simplio-app/commit/2be060d1e951291cc851a9c9b54aa299b9b14266) add kyc level to discovery screen bubble - ciripel</sub> |
 | <sub>2023-03-24 08:01:29</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/70118e918b72575aefe13de89010f4ee18242f39)</sub> | <sub>[70118e9](https://github.com/SimplioOfficial/simplio-app/commit/70118e918b72575aefe13de89010f4ee18242f39) Change authorization level enum - ciripel</sub> |
 | <sub>2023-03-23 13:59:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f8d86dca4b4217fe9fad7e5d3817f41c35cf7a5)</sub> | <sub>[1f8d86d](https://github.com/SimplioOfficial/simplio-app/commit/1f8d86dca4b4217fe9fad7e5d3817f41c35cf7a5) task/419-prepare-data-in-platform-for-picked-ga... - ciripel</sub> |
 | <sub>2023-03-23 13:56:50</sub> | <sub>[[simplio-app:task/419\-prepare\-data\-in\-platform\-for\-picked\-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f398e58e38d6ba395c5f6cd8dee6a6f9585f12bc)</sub> | <sub>[f398e58](https://github.com/SimplioOfficial/simplio-app/commit/f398e58e38d6ba395c5f6cd8dee6a6f9585f12bc) fixing icons - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4613 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-22 10:56:02</sub> | <sub>[[simplio-app:task/419\-prepare\-data\-in\-platform\-for\-picked\-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f0a365318576e458ea04688a0da319828d1048e)</sub> | <sub>[5f0a365](https://github.com/SimplioOfficial/simplio-app/commit/5f0a365318576e458ea04688a0da319828d1048e) typo in kmon ticker - ciripel</sub> |
 | <sub>2023-03-22 10:54:41</sub> | <sub>[[simplio-app:task/419\-prepare\-data\-in\-platform\-for\-picked\-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cdb0d374594871ab96bc624b9288bb353d12c32)</sub> | <sub>[0cdb0d3](https://github.com/SimplioOfficial/simplio-app/commit/0cdb0d374594871ab96bc624b9288bb353d12c32) add kryptomon - ciripel</sub> |
 | <sub>2023-03-22 09:27:45</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/16b0ef8326f92acd3bb639798eaf260180e835bb)</sub> | <sub>[16b0ef8](https://github.com/SimplioOfficial/simplio-app/commit/16b0ef8326f92acd3bb639798eaf260180e835bb) bug/385-functionality-of-refresh-token-do-not-w... - ciripel</sub> |
-| <sub>2023-03-22 09:24:29</sub> | <sub>[[simplio-app:task/419\-prepare\-data\-in\-platform\-for\-picked\-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cf7f14cb5b5e04e7058447cc8aebd203c718ea4)</sub> | <sub>[4cf7f14](https://github.com/SimplioOfficial/simplio-app/commit/4cf7f14cb5b5e04e7058447cc8aebd203c718ea4) added assets details - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
