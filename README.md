@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4623 commits since 10/09/2021. You can see the complete history in
+There is a total of 4624 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-27 16:10:57</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f674b1f5b553e9202d598925b0c2eff82dda2347)</sub> | <sub>[f674b1f](https://github.com/SimplioOfficial/simplio-app/commit/f674b1f5b553e9202d598925b0c2eff82dda2347) Update error codes and verification level enum - vrbasji</sub> |
 | <sub>2023-03-27 14:50:50</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33de5637be042b1fcb4b3dd771f535ba243e3844)</sub> | <sub>[33de563](https://github.com/SimplioOfficial/simplio-app/commit/33de5637be042b1fcb4b3dd771f535ba243e3844) remove commented import - ciripel</sub> |
 | <sub>2023-03-27 13:36:48</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea571dc0a07158318fce8030992c34264e2d4ee)</sub> | <sub>[6ea571d](https://github.com/SimplioOfficial/simplio-app/commit/6ea571dc0a07158318fce8030992c34264e2d4ee) fix: move verification logic on router level - ciripel</sub> |
 | <sub>2023-03-27 07:31:54</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfcb1c4cff79d4a5d83cc2b57a87ed461c9ce2e3)</sub> | <sub>[dfcb1c4](https://github.com/SimplioOfficial/simplio-app/commit/dfcb1c4cff79d4a5d83cc2b57a87ed461c9ce2e3) fix: fix widget typo - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4623 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-24 12:08:17</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ea43373c7dec73a94efa82ff87039e0afecbb43)</sub> | <sub>[0ea4337](https://github.com/SimplioOfficial/simplio-app/commit/0ea43373c7dec73a94efa82ff87039e0afecbb43) read not watch - ciripel</sub> |
 | <sub>2023-03-24 10:47:20</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0674b35e9b950713b4a2d5054d287d787bc6354c)</sub> | <sub>[0674b35](https://github.com/SimplioOfficial/simplio-app/commit/0674b35e9b950713b4a2d5054d287d787bc6354c) refactor verification route - ciripel</sub> |
 | <sub>2023-03-24 10:36:57</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22ed9d879c60dac86beaa33b63f30ae2756fd111)</sub> | <sub>[22ed9d8](https://github.com/SimplioOfficial/simplio-app/commit/22ed9d879c60dac86beaa33b63f30ae2756fd111) wip verification router - ciripel</sub> |
-| <sub>2023-03-24 08:08:59</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2be060d1e951291cc851a9c9b54aa299b9b14266)</sub> | <sub>[2be060d](https://github.com/SimplioOfficial/simplio-app/commit/2be060d1e951291cc851a9c9b54aa299b9b14266) add kyc level to discovery screen bubble - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
