@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-29 08:19:52</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97757584a8303d0056e1549f3b6905f2e31c9fcf)</sub> | <sub>[9775758](https://github.com/SimplioOfficial/simplio-app/commit/97757584a8303d0056e1549f3b6905f2e31c9fcf) fix: use constant paddings - ciripel</sub> |
 | <sub>2023-03-29 07:36:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03)</sub> | <sub>[57c8a6c](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03) task/378-create-a-process-workflow-for-403-erro... - ciripel</sub> |
 | <sub>2023-03-28 21:40:19</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6235694bca4b453ffdaca0e11159dbdc6f7aaf9a)</sub> | <sub>[6235694](https://github.com/SimplioOfficial/simplio-app/commit/6235694bca4b453ffdaca0e11159dbdc6f7aaf9a) Price update screen - vrbasji</sub> |
 | <sub>2023-03-28 14:28:18</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/950f7850818d30b49da85ddcbe2b325896c7b323)</sub> | <sub>[950f785](https://github.com/SimplioOfficial/simplio-app/commit/950f7850818d30b49da85ddcbe2b325896c7b323) small updates - ciripel</sub> |
