@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4631 commits since 10/09/2021. You can see the complete history in
+There is a total of 4632 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-29 09:22:47</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ba930859c9521f70fe5f8c95a3d042ea737494d)</sub> | <sub>[5ba9308](https://github.com/SimplioOfficial/simplio-app/commit/5ba930859c9521f70fe5f8c95a3d042ea737494d) fix: Routes loaded only on SwapRoutesLoadedSuccess - ciripel</sub> |
 | <sub>2023-03-29 08:19:52</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97757584a8303d0056e1549f3b6905f2e31c9fcf)</sub> | <sub>[9775758](https://github.com/SimplioOfficial/simplio-app/commit/97757584a8303d0056e1549f3b6905f2e31c9fcf) fix: use constant paddings - ciripel</sub> |
 | <sub>2023-03-29 07:36:46</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03)</sub> | <sub>[57c8a6c](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03) task/378-create-a-process-workflow-for-403-erro... - ciripel</sub> |
 | <sub>2023-03-28 21:40:19</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6235694bca4b453ffdaca0e11159dbdc6f7aaf9a)</sub> | <sub>[6235694](https://github.com/SimplioOfficial/simplio-app/commit/6235694bca4b453ffdaca0e11159dbdc6f7aaf9a) Price update screen - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 4631 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-28 02:43:33</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bd5e927a6199d302068f77dcafcf8e82dd64fc7)</sub> | <sub>[7bd5e92](https://github.com/SimplioOfficial/simplio-app/commit/7bd5e927a6199d302068f77dcafcf8e82dd64fc7) Create branch - vrbasji</sub> |
 | <sub>2023-03-27 16:10:57</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f674b1f5b553e9202d598925b0c2eff82dda2347)</sub> | <sub>[f674b1f](https://github.com/SimplioOfficial/simplio-app/commit/f674b1f5b553e9202d598925b0c2eff82dda2347) Update error codes and verification level enum - vrbasji</sub> |
 | <sub>2023-03-27 14:50:50</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33de5637be042b1fcb4b3dd771f535ba243e3844)</sub> | <sub>[33de563](https://github.com/SimplioOfficial/simplio-app/commit/33de5637be042b1fcb4b3dd771f535ba243e3844) remove commented import - ciripel</sub> |
-| <sub>2023-03-27 13:36:48</sub> | <sub>[[simplio-app:task/378\-create\-a\-process\-workflow\-for\-403\-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea571dc0a07158318fce8030992c34264e2d4ee)</sub> | <sub>[6ea571d](https://github.com/SimplioOfficial/simplio-app/commit/6ea571dc0a07158318fce8030992c34264e2d4ee) fix: move verification logic on router level - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
