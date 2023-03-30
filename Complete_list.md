@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-30 08:39:17</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e243c362f52a521191548113a3b301872607518d)</sub> | <sub>[e243c36](https://github.com/SimplioOfficial/simplio-app/commit/e243c362f52a521191548113a3b301872607518d) remove comment - ciripel</sub> |
+| <sub>2023-03-30 08:38:54</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8bf9ad170487739e7a62dbf068973065111311be)</sub> | <sub>[8bf9ad1](https://github.com/SimplioOfficial/simplio-app/commit/8bf9ad170487739e7a62dbf068973065111311be) fix blocking converting state - ciripel</sub> |
 | <sub>2023-03-30 06:59:27</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.2\.2](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.2)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-03-30 06:58:15</sub> | <sub>[[sio_big_decimal:master] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/b1c1100563dc3d98e6516b00fa08dc4119c247ff)</sub> | <sub>[b1c1100](https://github.com/SimplioOfficial/sio_big_decimal/commit/b1c1100563dc3d98e6516b00fa08dc4119c247ff) bug/fix-clear (#6) - ciripel</sub> |
 | <sub>2023-03-30 06:57:48</sub> | <sub>[[sio_big_decimal:bug/fix\-clear] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/a1f404f15f6d75084df14abe3769d7f81aafc381)</sub> | <sub>[a1f404f](https://github.com/SimplioOfficial/sio_big_decimal/commit/a1f404f15f6d75084df14abe3769d7f81aafc381) bug/fix-clear - ciripel</sub> |
