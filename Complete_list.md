@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-03-30 08:59:48</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2537f90ca9a816f260b43c7b2ac69f4ecc1b0c41)</sub> | <sub>[2537f90](https://github.com/SimplioOfficial/simplio-app/commit/2537f90ca9a816f260b43c7b2ac69f4ecc1b0c41) disable button on zero values and on converting - ciripel</sub> |
 | <sub>2023-03-30 08:39:17</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e243c362f52a521191548113a3b301872607518d)</sub> | <sub>[e243c36](https://github.com/SimplioOfficial/simplio-app/commit/e243c362f52a521191548113a3b301872607518d) remove comment - ciripel</sub> |
 | <sub>2023-03-30 08:38:54</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8bf9ad170487739e7a62dbf068973065111311be)</sub> | <sub>[8bf9ad1](https://github.com/SimplioOfficial/simplio-app/commit/8bf9ad170487739e7a62dbf068973065111311be) fix blocking converting state - ciripel</sub> |
 | <sub>2023-03-30 06:59:27</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0\.2\.2](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.2.2)</sub> | <sub>_No Commits_</sub> |
