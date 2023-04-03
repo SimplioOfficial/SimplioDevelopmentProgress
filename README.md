@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4661 commits since 10/09/2021. You can see the complete history in
+There is a total of 4662 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-03 08:44:06</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da7cabeabb55c571bafa8b3ca02a53d30a01169f)</sub> | <sub>[da7cabe](https://github.com/SimplioOfficial/simplio-app/commit/da7cabeabb55c571bafa8b3ca02a53d30a01169f) remove balance from min - ciripel</sub> |
 | <sub>2023-04-03 07:58:53</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8)</sub> | <sub>[e16771d](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8) insufficientSwapValue error - ciripel</sub> |
 | <sub>2023-04-02 08:24:10</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1)</sub> | <sub>[91f29c4](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1) fix target direction on failure result - ciripel</sub> |
 | <sub>2023-04-01 17:08:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a7b332a2288c5d55d0c079939b6f40d12833253a)</sub> | <sub>[a7b332a](https://github.com/SimplioOfficial/simplio-app/commit/a7b332a2288c5d55d0c079939b6f40d12833253a) add validation non zero and filtered non zero out - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4661 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-03-31 19:31:47</sub> | <sub>[[simplio-app:task/431\-initialize\-swap\-change\-communication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d6d1142e927264c5b641437a8173ddd3877351f4)</sub> | <sub>[d6d1142](https://github.com/SimplioOfficial/simplio-app/commit/d6d1142e927264c5b641437a8173ddd3877351f4) Change Initialize swap parameter - vrbasji</sub> |
 | <sub>2023-03-31 19:29:25</sub> | <sub>[[simplio-app:task/431\-initialize\-swap\-change\-communication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20abcecfb2c32cecc0c08aa6d616e53f7f970a8e)</sub> | <sub>[20abcec](https://github.com/SimplioOfficial/simplio-app/commit/20abcecfb2c32cecc0c08aa6d616e53f7f970a8e) Change data type - vrbasji</sub> |
 | <sub>2023-03-31 18:25:46</sub> | <sub>[[simplio-app:task/431\-initialize\-swap\-change\-communication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3af8e872a3b66ae4fe2caa28a1f42851157584e8)</sub> | <sub>[3af8e87](https://github.com/SimplioOfficial/simplio-app/commit/3af8e872a3b66ae4fe2caa28a1f42851157584e8) Syntax fixes - vrbasji</sub> |
-| <sub>2023-03-31 16:34:11</sub> | <sub>[[simplio-app:task/431\-initialize\-swap\-change\-communication] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f2f1bc31a85333c95a56f02854c633ecfbed67c)</sub> | <sub>[1f2f1bc](https://github.com/SimplioOfficial/simplio-app/commit/1f2f1bc31a85333c95a56f02854c633ecfbed67c) Format file - vrbasji</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
