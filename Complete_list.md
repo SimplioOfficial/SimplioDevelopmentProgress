@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-04 17:19:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f)</sub> | <sub>[95315a3](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f) task/405-swap-form-screen (#546) - ciripel</sub> |
 | <sub>2023-04-04 14:53:06</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b)</sub> | <sub>[e2c4f59](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b) fix route, change values - JiriBestak</sub> |
 | <sub>2023-04-04 12:48:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521)</sub> | <sub>[e0cc029](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521) disable swap on zero balance - ciripel</sub> |
 | <sub>2023-04-04 12:26:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3d107b065023...c4116b4adff3)</sub> |
