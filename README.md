@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4667 commits since 10/09/2021. You can see the complete history in
+There is a total of 4668 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-04 14:53:06</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b)</sub> | <sub>[e2c4f59](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b) fix route, change values - JiriBestak</sub> |
 | <sub>2023-04-04 12:48:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521)</sub> | <sub>[e0cc029](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521) disable swap on zero balance - ciripel</sub> |
 | <sub>2023-04-04 12:26:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3d107b065023...c4116b4adff3)</sub> |
 | <sub>2023-04-04 08:19:31</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3d107b06502370f4819a9f069d25a262ac259d00)</sub> | <sub>[3d107b0](https://github.com/SimplioOfficial/simplio-app/commit/3d107b06502370f4819a9f069d25a262ac259d00) implement higher than balance error - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4667 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-03 07:58:53</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8)</sub> | <sub>[e16771d](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8) insufficientSwapValue error - ciripel</sub> |
 | <sub>2023-04-02 08:24:10</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1)</sub> | <sub>[91f29c4](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1) fix target direction on failure result - ciripel</sub> |
 | <sub>2023-04-01 17:08:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a7b332a2288c5d55d0c079939b6f40d12833253a)</sub> | <sub>[a7b332a](https://github.com/SimplioOfficial/simplio-app/commit/a7b332a2288c5d55d0c079939b6f40d12833253a) add validation non zero and filtered non zero out - ciripel</sub> |
-| <sub>2023-03-31 20:39:05</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7bd5e927a619...7d3a91768e57)</sub> | <sub>[57c8a6c](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03) task/378-create-a-process-workflow-for-403-erro... - ciripel<br>[da77647](https://github.com/SimplioOfficial/simplio-app/commit/da77647316755bbf744dcc8434186248a6c7e8d7) Define states - vrbasji<br>[a9feb7f](https://github.com/SimplioOfficial/simplio-app/commit/a9feb7f8bcecaf29e9e240d250b83bd744c57416) Start to update DetailRow - vrbasji<br>[7d3a917](https://github.com/SimplioOfficial/simplio-app/commit/7d3a91768e57c1f87d2e9f8ead38f754f3962f1f) Merge remote-tracking branch 'origin/master' in... - vrbasji</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

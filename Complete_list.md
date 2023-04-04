@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-04 14:53:06</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b)</sub> | <sub>[e2c4f59](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b) fix route, change values - JiriBestak</sub> |
 | <sub>2023-04-04 12:48:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521)</sub> | <sub>[e0cc029](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521) disable swap on zero balance - ciripel</sub> |
 | <sub>2023-04-04 12:26:51</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3d107b065023...c4116b4adff3)</sub> |
 | <sub>2023-04-04 08:19:31</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3d107b06502370f4819a9f069d25a262ac259d00)</sub> | <sub>[3d107b0](https://github.com/SimplioOfficial/simplio-app/commit/3d107b06502370f4819a9f069d25a262ac259d00) implement higher than balance error - ciripel</sub> |
