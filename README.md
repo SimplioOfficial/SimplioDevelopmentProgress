@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4678 commits since 10/09/2021. You can see the complete history in
+There is a total of 4679 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-05 13:48:12</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c44d89bf48d57b2f1137e13c5e056be9d431db9)</sub> | <sub>[0c44d89](https://github.com/SimplioOfficial/simplio-app/commit/0c44d89bf48d57b2f1137e13c5e056be9d431db9) fix usd input - ciripel</sub> |
 | <sub>2023-04-05 13:41:52</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/957dfa2e1c20...e66592909320)</sub> | <sub>[3a9be18](https://github.com/SimplioOfficial/simplio-app/commit/3a9be181966ed5a3cd99ec5bb018609e89368702) add state - JiriBestak<br>[e665929](https://github.com/SimplioOfficial/simplio-app/commit/e6659290932067b13e909e45c655e34d75faa961) Merge branch 'task/403-SwapSummary' of https://... - JiriBestak</sub> |
 | <sub>2023-04-05 12:24:38</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/957dfa2e1c20ff2411f3c780cda7fc5cb0506468)</sub> | <sub>[957dfa2](https://github.com/SimplioOfficial/simplio-app/commit/957dfa2e1c20ff2411f3c780cda7fc5cb0506468) enable not existing target wallets on drag - ciripel</sub> |
 | <sub>2023-04-05 11:45:04</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b828e6b4a6970d4dc0f18a0deca2a59094351efa)</sub> | <sub>[b828e6b](https://github.com/SimplioOfficial/simplio-app/commit/b828e6b4a6970d4dc0f18a0deca2a59094351efa) adjusted SwapConversion - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4678 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-05 08:26:50</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7d1a316cea048d7a439b8edc8420e14a675c1fa)</sub> | <sub>[e7d1a31](https://github.com/SimplioOfficial/simplio-app/commit/e7d1a316cea048d7a439b8edc8420e14a675c1fa) rename networkWallet to sourceWallet - ciripel</sub> |
 | <sub>2023-04-05 07:37:33</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0716c84d3f026b3198215fbd83eb7539c9682607)</sub> | <sub>[0716c84](https://github.com/SimplioOfficial/simplio-app/commit/0716c84d3f026b3198215fbd83eb7539c9682607) fix source route selection - ciripel</sub> |
 | <sub>2023-04-05 01:42:51</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e2c4f5901f8d...4582938673b7)</sub> | <sub>[95315a3](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f) task/405-swap-form-screen (#546) - ciripel<br>[4d38672](https://github.com/SimplioOfficial/simplio-app/commit/4d386723757972ac879a4a45f686d3cc8d0410c8) Merge branch 'master' into task/403-SwapSummary - vrbasji<br>[4582938](https://github.com/SimplioOfficial/simplio-app/commit/4582938673b7561cfa2244591b1956e8d4a12340) Update initialize swap - vrbasji</sub> |
-| <sub>2023-04-04 17:19:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f)</sub> | <sub>[95315a3](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f) task/405-swap-form-screen (#546) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
