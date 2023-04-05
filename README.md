@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4669 commits since 10/09/2021. You can see the complete history in
+There is a total of 4670 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-05 01:42:51</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e2c4f5901f8d...4582938673b7)</sub> | <sub>[95315a3](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f) task/405-swap-form-screen (#546) - ciripel<br>[4d38672](https://github.com/SimplioOfficial/simplio-app/commit/4d386723757972ac879a4a45f686d3cc8d0410c8) Merge branch 'master' into task/403-SwapSummary - vrbasji<br>[4582938](https://github.com/SimplioOfficial/simplio-app/commit/4582938673b7561cfa2244591b1956e8d4a12340) Update initialize swap - vrbasji</sub> |
 | <sub>2023-04-04 17:19:24</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f)</sub> | <sub>[95315a3](https://github.com/SimplioOfficial/simplio-app/commit/95315a377283268a0e9f87238a705e14fa2e9a6f) task/405-swap-form-screen (#546) - ciripel</sub> |
 | <sub>2023-04-04 14:53:06</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b)</sub> | <sub>[e2c4f59](https://github.com/SimplioOfficial/simplio-app/commit/e2c4f5901f8dc1b10379e07e705834c03dac710b) fix route, change values - JiriBestak</sub> |
 | <sub>2023-04-04 12:48:39</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521)</sub> | <sub>[e0cc029](https://github.com/SimplioOfficial/simplio-app/commit/e0cc029b1ff9a08948743834f8693fa689352521) disable swap on zero balance - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4669 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-03 15:59:42</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8639e3e5e93a0960a89a10289006faf4d804a052)</sub> | <sub>[8639e3e](https://github.com/SimplioOfficial/simplio-app/commit/8639e3e5e93a0960a89a10289006faf4d804a052) remove price from SwapValue, - ciripel</sub> |
 | <sub>2023-04-03 08:44:06</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/da7cabeabb55c571bafa8b3ca02a53d30a01169f)</sub> | <sub>[da7cabe](https://github.com/SimplioOfficial/simplio-app/commit/da7cabeabb55c571bafa8b3ca02a53d30a01169f) remove balance from min - ciripel</sub> |
 | <sub>2023-04-03 07:58:53</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8)</sub> | <sub>[e16771d](https://github.com/SimplioOfficial/simplio-app/commit/e16771d4024adb237d982747cabc1281344fdfa8) insufficientSwapValue error - ciripel</sub> |
-| <sub>2023-04-02 08:24:10</sub> | <sub>[[simplio-app:task/405\-swap\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1)</sub> | <sub>[91f29c4](https://github.com/SimplioOfficial/simplio-app/commit/91f29c405c398f611b541120d78546902a4e27a1) fix target direction on failure result - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
