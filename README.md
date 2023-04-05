@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4682 commits since 10/09/2021. You can see the complete history in
+There is a total of 4683 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-05 21:33:04</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a)</sub> | <sub>[7afc17e](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a) Code clean up and create mixin for asset values - vrbasji</sub> |
 | <sub>2023-04-05 17:38:33</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eca22071a4164317d70e8d79444f96acdd4fa46b)</sub> | <sub>[eca2207](https://github.com/SimplioOfficial/simplio-app/commit/eca22071a4164317d70e8d79444f96acdd4fa46b) fix enable target wallet on success swap - ciripel</sub> |
 | <sub>2023-04-05 16:14:38</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a37989a53501615845e3c2c2138ed9b3e01a5bee)</sub> | <sub>[a37989a](https://github.com/SimplioOfficial/simplio-app/commit/a37989a53501615845e3c2c2138ed9b3e01a5bee) wip - ciripel</sub> |
 | <sub>2023-04-05 15:45:13</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83572e8479410295f05b555680d3db7a97addc84)</sub> | <sub>[83572e8](https://github.com/SimplioOfficial/simplio-app/commit/83572e8479410295f05b555680d3db7a97addc84) swap works! - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4682 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-05 11:45:04</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b828e6b4a6970d4dc0f18a0deca2a59094351efa)</sub> | <sub>[b828e6b](https://github.com/SimplioOfficial/simplio-app/commit/b828e6b4a6970d4dc0f18a0deca2a59094351efa) adjusted SwapConversion - ciripel</sub> |
 | <sub>2023-04-05 09:00:35</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2aa0762154cfcb7a54d0a477241e426a930ceed8)</sub> | <sub>[2aa0762](https://github.com/SimplioOfficial/simplio-app/commit/2aa0762154cfcb7a54d0a477241e426a930ceed8) small refactor - ciripel</sub> |
 | <sub>2023-04-05 08:55:20</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2bad4d729aff8ed6e971886e067ef831e233f5f)</sub> | <sub>[e2bad4d](https://github.com/SimplioOfficial/simplio-app/commit/e2bad4d729aff8ed6e971886e067ef831e233f5f) show baseNetwork assetId in fee - ciripel</sub> |
-| <sub>2023-04-05 08:37:15</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/e7d1a316cea0...df35bf0fe2ea)</sub> | <sub>[c6102f0](https://github.com/SimplioOfficial/simplio-app/commit/c6102f03c6804652e17d04dac39740d7910ca780) change value of fee and clean code - JiriBestak<br>[df35bf0](https://github.com/SimplioOfficial/simplio-app/commit/df35bf0fe2eac3f0fc5afdb809d55bfad60926cd) Merge branch 'task/403-SwapSummary' of https://... - JiriBestak</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
