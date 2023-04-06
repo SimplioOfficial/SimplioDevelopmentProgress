@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-06 11:55:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3)</sub> | <sub>[9bd5618](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3) Task/403-swap-summary-screen (#548) - ciripel</sub> |
 | <sub>2023-04-05 21:39:45</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8)</sub> | <sub>[f173861](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8) Fix formating - vrbasji</sub> |
 | <sub>2023-04-05 21:33:04</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a)</sub> | <sub>[7afc17e](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a) Code clean up and create mixin for asset values - vrbasji</sub> |
 | <sub>2023-04-05 17:38:33</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eca22071a4164317d70e8d79444f96acdd4fa46b)</sub> | <sub>[eca2207](https://github.com/SimplioOfficial/simplio-app/commit/eca22071a4164317d70e8d79444f96acdd4fa46b) fix enable target wallet on success swap - ciripel</sub> |
