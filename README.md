@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4686 commits since 10/09/2021. You can see the complete history in
+There is a total of 4687 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-07 13:30:43</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/526d2eac061b^...9d36deee2299)</sub> | <sub>[526d2ea](https://github.com/SimplioOfficial/simplio-app/commit/526d2eac061b82dd082adf23156c83d6743ac6b3) wip - initialize buy form - storkandstars<br>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
 | <sub>2023-04-06 13:35:07</sub> | <sub>[[simplio-app:task/541\-buy\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c)</sub> | <sub>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
 | <sub>2023-04-06 11:55:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3)</sub> | <sub>[9bd5618](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3) Task/403-swap-summary-screen (#548) - ciripel</sub> |
 | <sub>2023-04-05 21:39:45</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8)</sub> | <sub>[f173861](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8) Fix formating - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 4686 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-05 15:45:13</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83572e8479410295f05b555680d3db7a97addc84)</sub> | <sub>[83572e8](https://github.com/SimplioOfficial/simplio-app/commit/83572e8479410295f05b555680d3db7a97addc84) swap works! - ciripel</sub> |
 | <sub>2023-04-05 13:48:12</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0c44d89bf48d57b2f1137e13c5e056be9d431db9)</sub> | <sub>[0c44d89](https://github.com/SimplioOfficial/simplio-app/commit/0c44d89bf48d57b2f1137e13c5e056be9d431db9) fix usd input - ciripel</sub> |
 | <sub>2023-04-05 13:41:52</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/957dfa2e1c20...e66592909320)</sub> | <sub>[3a9be18](https://github.com/SimplioOfficial/simplio-app/commit/3a9be181966ed5a3cd99ec5bb018609e89368702) add state - JiriBestak<br>[e665929](https://github.com/SimplioOfficial/simplio-app/commit/e6659290932067b13e909e45c655e34d75faa961) Merge branch 'task/403-SwapSummary' of https://... - JiriBestak</sub> |
-| <sub>2023-04-05 12:24:38</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/957dfa2e1c20ff2411f3c780cda7fc5cb0506468)</sub> | <sub>[957dfa2](https://github.com/SimplioOfficial/simplio-app/commit/957dfa2e1c20ff2411f3c780cda7fc5cb0506468) enable not existing target wallets on drag - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
