@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-07 18:04:20</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f4e8820ccbadadd06df05be9eb24a2112873579)</sub> | <sub>[7f4e882](https://github.com/SimplioOfficial/simplio-app/commit/7f4e8820ccbadadd06df05be9eb24a2112873579) wip: taken changes from filip - ciripel</sub> |
 | <sub>2023-04-07 15:27:04</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9d36deee2299...03be67c2e079)</sub> |
 | <sub>2023-04-07 13:30:43</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/526d2eac061b^...9d36deee2299)</sub> | <sub>[526d2ea](https://github.com/SimplioOfficial/simplio-app/commit/526d2eac061b82dd082adf23156c83d6743ac6b3) wip - initialize buy form - storkandstars<br>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
 | <sub>2023-04-06 13:35:07</sub> | <sub>[[simplio-app:task/541\-buy\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c)</sub> | <sub>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
