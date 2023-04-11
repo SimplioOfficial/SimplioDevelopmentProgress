@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-11 15:32:27</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49942e94d59acbbf60e9926f3ee35c0d10deae79)</sub> | <sub>[49942e9](https://github.com/SimplioOfficial/simplio-app/commit/49942e94d59acbbf60e9926f3ee35c0d10deae79) wip min buy value error implementation - ciripel</sub> |
 | <sub>2023-04-11 14:33:49</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22a2611fe7109f13cedfe0e640552fbddb05fe6d)</sub> | <sub>[22a2611](https://github.com/SimplioOfficial/simplio-app/commit/22a2611fe7109f13cedfe0e640552fbddb05fe6d) add curency roundbutton - ciripel</sub> |
 | <sub>2023-04-11 14:20:58</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a86e6b57bbfef2ec7ccc4caa02e25b6132985dae)</sub> | <sub>[a86e6b5](https://github.com/SimplioOfficial/simplio-app/commit/a86e6b57bbfef2ec7ccc4caa02e25b6132985dae) remove unused - ciripel</sub> |
 | <sub>2023-04-11 12:06:59</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2dd9246230537e89feb1ef5f2092f6f8b8af119a)</sub> | <sub>[2dd9246](https://github.com/SimplioOfficial/simplio-app/commit/2dd9246230537e89feb1ef5f2092f6f8b8af119a) corrected response - ciripel</sub> |
