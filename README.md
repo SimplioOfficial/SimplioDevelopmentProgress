@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4694 commits since 10/09/2021. You can see the complete history in
+There is a total of 4695 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-11 12:06:59</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2dd9246230537e89feb1ef5f2092f6f8b8af119a)</sub> | <sub>[2dd9246](https://github.com/SimplioOfficial/simplio-app/commit/2dd9246230537e89feb1ef5f2092f6f8b8af119a) corrected response - ciripel</sub> |
 | <sub>2023-04-11 12:03:23</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/322bc3869f6bd57d20109fbc9354e25554e9a252)</sub> | <sub>[322bc38](https://github.com/SimplioOfficial/simplio-app/commit/322bc3869f6bd57d20109fbc9354e25554e9a252) register BuyConvertResponse in Chopper - ciripel</sub> |
 | <sub>2023-04-11 10:26:15</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/674a317fe07bc23304bb3db74631cc26d0f85cd9)</sub> | <sub>[674a317](https://github.com/SimplioOfficial/simplio-app/commit/674a317fe07bc23304bb3db74631cc26d0f85cd9) make amounts nullable - ciripel</sub> |
 | <sub>2023-04-11 10:21:32</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b5082edac24c6ad0a406a893dca958fc641ec1c6)</sub> | <sub>[b5082ed](https://github.com/SimplioOfficial/simplio-app/commit/b5082edac24c6ad0a406a893dca958fc641ec1c6) wip - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4694 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-07 15:27:04</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9d36deee2299...03be67c2e079)</sub> |
 | <sub>2023-04-07 13:30:43</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/526d2eac061b^...9d36deee2299)</sub> | <sub>[526d2ea](https://github.com/SimplioOfficial/simplio-app/commit/526d2eac061b82dd082adf23156c83d6743ac6b3) wip - initialize buy form - storkandstars<br>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
 | <sub>2023-04-06 13:35:07</sub> | <sub>[[simplio-app:task/541\-buy\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c)</sub> | <sub>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
-| <sub>2023-04-06 11:55:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3)</sub> | <sub>[9bd5618](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3) Task/403-swap-summary-screen (#548) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
