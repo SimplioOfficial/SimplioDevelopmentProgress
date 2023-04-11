@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4692 commits since 10/09/2021. You can see the complete history in
+There is a total of 4693 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-11 10:26:15</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/674a317fe07bc23304bb3db74631cc26d0f85cd9)</sub> | <sub>[674a317](https://github.com/SimplioOfficial/simplio-app/commit/674a317fe07bc23304bb3db74631cc26d0f85cd9) make amounts nullable - ciripel</sub> |
 | <sub>2023-04-11 10:21:32</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b5082edac24c6ad0a406a893dca958fc641ec1c6)</sub> | <sub>[b5082ed](https://github.com/SimplioOfficial/simplio-app/commit/b5082edac24c6ad0a406a893dca958fc641ec1c6) wip - ciripel</sub> |
 | <sub>2023-04-10 14:11:10</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b8202d371c95...485f76245479)</sub> | <sub>[1175896](https://github.com/SimplioOfficial/simplio-app/commit/1175896bb8959366c70a1c409d5b3adedc921fa5) delete unused states from swap_form_state - ciripel<br>[485f762](https://github.com/SimplioOfficial/simplio-app/commit/485f76245479f8088e84dddf3d236f3ab785b738) wip: routes with convert - ciripel</sub> |
 | <sub>2023-04-07 23:32:42</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7f4e8820ccba...b8202d371c95)</sub> | <sub>[6bd5c10](https://github.com/SimplioOfficial/simplio-app/commit/6bd5c10478306e50840defec8817616efbfa8063) wip: buy select_screen - ciripel<br>[1160367](https://github.com/SimplioOfficial/simplio-app/commit/1160367708e888362c84ea66cd018e611cc21ef1) small fix on swap state - ciripel<br>[3b67cce](https://github.com/SimplioOfficial/simplio-app/commit/3b67cce2462655bbdc1782fb387e8753350bcdb3) move fiatPrecision to wallet Model - ciripel<br>[b8202d3](https://github.com/SimplioOfficial/simplio-app/commit/b8202d371c95d1f17677224b79d71b0768e97926) repository level now - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4692 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-06 13:35:07</sub> | <sub>[[simplio-app:task/541\-buy\-form\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c)</sub> | <sub>[9d36dee](https://github.com/SimplioOfficial/simplio-app/commit/9d36deee2299681f24ed75732650d6baa618a11c) wip - selecting buy route - storkandstars</sub> |
 | <sub>2023-04-06 11:55:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3)</sub> | <sub>[9bd5618](https://github.com/SimplioOfficial/simplio-app/commit/9bd5618b4d66f8ba5bf26f73ffdbc2db15e81ed3) Task/403-swap-summary-screen (#548) - ciripel</sub> |
 | <sub>2023-04-05 21:39:45</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8)</sub> | <sub>[f173861](https://github.com/SimplioOfficial/simplio-app/commit/f1738612db350a8a4256b5323de41122600b27a8) Fix formating - vrbasji</sub> |
-| <sub>2023-04-05 21:33:04</sub> | <sub>[[simplio-app:task/403\-SwapSummary] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a)</sub> | <sub>[7afc17e](https://github.com/SimplioOfficial/simplio-app/commit/7afc17eaae4a9ce8dc01cff888956f0ae6dcb86a) Code clean up and create mixin for asset values - vrbasji</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
