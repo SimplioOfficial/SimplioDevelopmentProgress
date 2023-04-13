@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4713 commits since 10/09/2021. You can see the complete history in
+There is a total of 4714 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 10:43:06</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c)</sub> | <sub>[5f19eb1](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c) add data to timeout page - ciripel</sub> |
 | <sub>2023-04-13 10:39:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ae2ec4790a20...564492fddcee)</sub> |
 | <sub>2023-04-13 10:38:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/349d73f5ee76...ae2ec4790a20)</sub> |
 | <sub>2023-04-13 09:50:58</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640)</sub> | <sub>[349d73f](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640) modification for George - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4713 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-13 07:55:50</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 15 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c3be499022b8...564492fddcee)</sub> | <sub>[57c8a6c](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03) task/378-create-a-process-workflow-for-403-erro... - ciripel<br>[ed8f65e](https://github.com/SimplioOfficial/simplio-app/commit/ed8f65e1335689b3b7b04b788f7256c2e5648686) Update communication, start with swap cubit - vrbasji<br>[9dc848d](https://github.com/SimplioOfficial/simplio-app/commit/9dc848d73416654e6ce40f37d8d01f1f61e5e09b) Rename classes - vrbasji<br>[2809f8e](https://github.com/SimplioOfficial/simplio-app/commit/2809f8edaeb4ba21c9bd236b8ee833a3e4555c25) Code smells - vrbasji<br>[72c76a4](https://github.com/SimplioOfficial/simplio-app/commit/72c76a4fdcc26bc1072e3bd8dc5f6b7df6337ea2) Remove unused - vrbasji</sub> |
 | <sub>2023-04-13 07:37:00</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b921a0ba598aab11004231f903be5d20bb6e6e2e)</sub> | <sub>[b921a0b](https://github.com/SimplioOfficial/simplio-app/commit/b921a0ba598aab11004231f903be5d20bb6e6e2e) add backupRoutes where no assetId routes exist - ciripel</sub> |
 | <sub>2023-04-12 15:54:51</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8447675b1330af05a9d94ddc2211db912e383f6e)</sub> | <sub>[8447675](https://github.com/SimplioOfficial/simplio-app/commit/8447675b1330af05a9d94ddc2211db912e383f6e) fix analyze - ciripel</sub> |
-| <sub>2023-04-12 15:46:17</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/783c3151fc0ad22079c7534ed8bf526bd6764512)</sub> | <sub>[783c315](https://github.com/SimplioOfficial/simplio-app/commit/783c3151fc0ad22079c7534ed8bf526bd6764512) added buy access in all access points - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

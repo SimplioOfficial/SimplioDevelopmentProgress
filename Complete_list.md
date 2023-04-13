@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 10:43:06</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c)</sub> | <sub>[5f19eb1](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c) add data to timeout page - ciripel</sub> |
 | <sub>2023-04-13 10:39:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ae2ec4790a20...564492fddcee)</sub> |
 | <sub>2023-04-13 10:38:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/349d73f5ee76...ae2ec4790a20)</sub> |
 | <sub>2023-04-13 09:50:58</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640)</sub> | <sub>[349d73f](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640) modification for George - ciripel</sub> |
