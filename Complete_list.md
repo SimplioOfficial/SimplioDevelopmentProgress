@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 18:28:56</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86b971d65599...5de71bfd084a)</sub> |
+| <sub>2023-04-13 18:26:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4bfb7cdf9ed5984548c1855520cbeaa158f2b5ff)</sub> | <sub>[4bfb7cd](https://github.com/SimplioOfficial/simplio-app/commit/4bfb7cdf9ed5984548c1855520cbeaa158f2b5ff) remove test conditions - ciripel</sub> |
 | <sub>2023-04-13 18:05:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5be394725c09fcd71121fc5896d189cb773400b)</sub> | <sub>[f5be394](https://github.com/SimplioOfficial/simplio-app/commit/f5be394725c09fcd71121fc5896d189cb773400b) deploy-dev-env-to-simplio-app (#552) - ciripel</sub> |
 | <sub>2023-04-13 18:04:45</sub> | <sub>[[simplio-app:task/466\-deploy\-dev\-env\-to\-simplio\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0a4334d0d7b5cd7c7db15a2a4242fd7f1005e6b)</sub> | <sub>[b0a4334](https://github.com/SimplioOfficial/simplio-app/commit/b0a4334d0d7b5cd7c7db15a2a4242fd7f1005e6b) deploy-dev-env-to-simplio-app - ciripel</sub> |
 | <sub>2023-04-13 12:01:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/401b9ae0fc5b...3517f6190ced)</sub> |
