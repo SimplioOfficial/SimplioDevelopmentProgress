@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4721 commits since 10/09/2021. You can see the complete history in
+There is a total of 4722 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 21:00:11</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db)</sub> | <sub>[8d3b7da](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db) wip - ciripel</sub> |
 | <sub>2023-04-13 18:28:56</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86b971d65599...5de71bfd084a)</sub> |
 | <sub>2023-04-13 18:26:03</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4bfb7cdf9ed5984548c1855520cbeaa158f2b5ff)</sub> | <sub>[4bfb7cd](https://github.com/SimplioOfficial/simplio-app/commit/4bfb7cdf9ed5984548c1855520cbeaa158f2b5ff) remove test conditions - ciripel</sub> |
 | <sub>2023-04-13 18:05:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f5be394725c09fcd71121fc5896d189cb773400b)</sub> | <sub>[f5be394](https://github.com/SimplioOfficial/simplio-app/commit/f5be394725c09fcd71121fc5896d189cb773400b) deploy-dev-env-to-simplio-app (#552) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4721 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-13 11:57:34</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/401b9ae0fc5b9b59dc8e27d321d5c9900a8599ca)</sub> | <sub>[401b9ae](https://github.com/SimplioOfficial/simplio-app/commit/401b9ae0fc5b9b59dc8e27d321d5c9900a8599ca) currencyGetter mixin on Widget - ciripel</sub> |
 | <sub>2023-04-13 10:43:06</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c)</sub> | <sub>[5f19eb1](https://github.com/SimplioOfficial/simplio-app/commit/5f19eb126ce3582ec32a7bd31538f28ba9d34c4c) add data to timeout page - ciripel</sub> |
 | <sub>2023-04-13 10:39:09</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ae2ec4790a20...564492fddcee)</sub> |
-| <sub>2023-04-13 10:38:24</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/349d73f5ee76...ae2ec4790a20)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
