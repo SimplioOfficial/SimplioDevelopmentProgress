@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 09:50:58</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640)</sub> | <sub>[349d73f](https://github.com/SimplioOfficial/simplio-app/commit/349d73f5ee76a9553f562f3d55463d8516c1a640) modification for George - ciripel</sub> |
 | <sub>2023-04-13 09:37:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3517f6190ced616a32cbec16c0f7cced26f0b7e1)</sub> | <sub>[3517f61](https://github.com/SimplioOfficial/simplio-app/commit/3517f6190ced616a32cbec16c0f7cced26f0b7e1) Task/409-buy-form-screen (#550) - ciripel</sub> |
 | <sub>2023-04-13 09:19:14</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae2ec4790a20ecee7144c9cf9922ea424b2cfc40)</sub> | <sub>[ae2ec47](https://github.com/SimplioOfficial/simplio-app/commit/ae2ec4790a20ecee7144c9cf9922ea424b2cfc40) wip little help to Bestak - ciripel</sub> |
 | <sub>2023-04-13 08:02:12</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec556c6efb57d478c2234e4271aa503a976b9cc0)</sub> | <sub>[ec556c6](https://github.com/SimplioOfficial/simplio-app/commit/ec556c6efb57d478c2234e4271aa503a976b9cc0) fix PR requests - ciripel</sub> |
