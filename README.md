@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4709 commits since 10/09/2021. You can see the complete history in
+There is a total of 4710 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 09:37:48</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3517f6190ced616a32cbec16c0f7cced26f0b7e1)</sub> | <sub>[3517f61](https://github.com/SimplioOfficial/simplio-app/commit/3517f6190ced616a32cbec16c0f7cced26f0b7e1) Task/409-buy-form-screen (#550) - ciripel</sub> |
 | <sub>2023-04-13 09:19:14</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae2ec4790a20ecee7144c9cf9922ea424b2cfc40)</sub> | <sub>[ae2ec47](https://github.com/SimplioOfficial/simplio-app/commit/ae2ec4790a20ecee7144c9cf9922ea424b2cfc40) wip little help to Bestak - ciripel</sub> |
 | <sub>2023-04-13 08:02:12</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec556c6efb57d478c2234e4271aa503a976b9cc0)</sub> | <sub>[ec556c6](https://github.com/SimplioOfficial/simplio-app/commit/ec556c6efb57d478c2234e4271aa503a976b9cc0) fix PR requests - ciripel</sub> |
 | <sub>2023-04-13 07:55:50</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 15 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c3be499022b8...564492fddcee)</sub> | <sub>[57c8a6c](https://github.com/SimplioOfficial/simplio-app/commit/57c8a6c69543749ac438f3bf49098ad9827eee03) task/378-create-a-process-workflow-for-403-erro... - ciripel<br>[ed8f65e](https://github.com/SimplioOfficial/simplio-app/commit/ed8f65e1335689b3b7b04b788f7256c2e5648686) Update communication, start with swap cubit - vrbasji<br>[9dc848d](https://github.com/SimplioOfficial/simplio-app/commit/9dc848d73416654e6ce40f37d8d01f1f61e5e09b) Rename classes - vrbasji<br>[2809f8e](https://github.com/SimplioOfficial/simplio-app/commit/2809f8edaeb4ba21c9bd236b8ee833a3e4555c25) Code smells - vrbasji<br>[72c76a4](https://github.com/SimplioOfficial/simplio-app/commit/72c76a4fdcc26bc1072e3bd8dc5f6b7df6337ea2) Remove unused - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 4709 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-12 15:07:23</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60751d73c20ec8572ad192b86b2e005277d5477d)</sub> | <sub>[60751d7](https://github.com/SimplioOfficial/simplio-app/commit/60751d73c20ec8572ad192b86b2e005277d5477d) remove query params and add 403 handling - ciripel</sub> |
 | <sub>2023-04-12 13:24:07</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cb7a057e6d060b51fb4bdefd241679bb06560ac)</sub> | <sub>[0cb7a05](https://github.com/SimplioOfficial/simplio-app/commit/0cb7a057e6d060b51fb4bdefd241679bb06560ac) add balance in selection tab - ciripel</sub> |
 | <sub>2023-04-12 13:11:23</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2d1d36c47b1cdcb703e1676f8d55df55fb2b240)</sub> | <sub>[a2d1d36](https://github.com/SimplioOfficial/simplio-app/commit/a2d1d36c47b1cdcb703e1676f8d55df55fb2b240) fixed routes and states - ciripel</sub> |
-| <sub>2023-04-12 11:38:01</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/695b056c397b99271288eebb1fe3c80c9b3ac793)</sub> | <sub>[695b056](https://github.com/SimplioOfficial/simplio-app/commit/695b056c397b99271288eebb1fe3c80c9b3ac793) refactoring - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
