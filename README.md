@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4705 commits since 10/09/2021. You can see the complete history in
+There is a total of 4706 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-13 07:37:00</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b921a0ba598aab11004231f903be5d20bb6e6e2e)</sub> | <sub>[b921a0b](https://github.com/SimplioOfficial/simplio-app/commit/b921a0ba598aab11004231f903be5d20bb6e6e2e) add backupRoutes where no assetId routes exist - ciripel</sub> |
 | <sub>2023-04-12 15:54:51</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8447675b1330af05a9d94ddc2211db912e383f6e)</sub> | <sub>[8447675](https://github.com/SimplioOfficial/simplio-app/commit/8447675b1330af05a9d94ddc2211db912e383f6e) fix analyze - ciripel</sub> |
 | <sub>2023-04-12 15:46:17</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/783c3151fc0ad22079c7534ed8bf526bd6764512)</sub> | <sub>[783c315](https://github.com/SimplioOfficial/simplio-app/commit/783c3151fc0ad22079c7534ed8bf526bd6764512) added buy access in all access points - ciripel</sub> |
 | <sub>2023-04-12 15:07:23</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/60751d73c20ec8572ad192b86b2e005277d5477d)</sub> | <sub>[60751d7](https://github.com/SimplioOfficial/simplio-app/commit/60751d73c20ec8572ad192b86b2e005277d5477d) remove query params and add 403 handling - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4705 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-12 09:04:35</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/49942e94d59a...4bbc6d3adaa5)</sub> | <sub>[d8434f6](https://github.com/SimplioOfficial/simplio-app/commit/d8434f62ab792f54c8d4ff557e5377391c794902) error handling - ciripel<br>[4bbc6d3](https://github.com/SimplioOfficial/simplio-app/commit/4bbc6d3adaa58b02a2e003250decc9a92254f454) error handling complete - ciripel</sub> |
 | <sub>2023-04-11 15:32:27</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49942e94d59acbbf60e9926f3ee35c0d10deae79)</sub> | <sub>[49942e9](https://github.com/SimplioOfficial/simplio-app/commit/49942e94d59acbbf60e9926f3ee35c0d10deae79) wip min buy value error implementation - ciripel</sub> |
 | <sub>2023-04-11 14:33:49</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/22a2611fe7109f13cedfe0e640552fbddb05fe6d)</sub> | <sub>[22a2611](https://github.com/SimplioOfficial/simplio-app/commit/22a2611fe7109f13cedfe0e640552fbddb05fe6d) add curency roundbutton - ciripel</sub> |
-| <sub>2023-04-11 14:20:58</sub> | <sub>[[simplio-app:task/409\-buy\-form\-screen\-ami] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a86e6b57bbfef2ec7ccc4caa02e25b6132985dae)</sub> | <sub>[a86e6b5](https://github.com/SimplioOfficial/simplio-app/commit/a86e6b57bbfef2ec7ccc4caa02e25b6132985dae) remove unused - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
