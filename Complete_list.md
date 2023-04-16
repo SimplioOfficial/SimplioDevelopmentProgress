@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-16 19:54:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0466bd0aaeaa7cbf411a974b3a4ace04b1b94890)</sub> | <sub>[0466bd0](https://github.com/SimplioOfficial/simplio-app/commit/0466bd0aaeaa7cbf411a974b3a4ace04b1b94890) Add route in AssetBuyRoutesLoaded - ciripel</sub> |
 | <sub>2023-04-13 21:12:07</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b10f4acea7c3ed515093b513cda8f58d9be46bd)</sub> | <sub>[1b10f4a](https://github.com/SimplioOfficial/simplio-app/commit/1b10f4acea7c3ed515093b513cda8f58d9be46bd) wip - ciripel</sub> |
 | <sub>2023-04-13 21:10:26</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/418476b752b07f7cafb3f2fcaa8be04b01a23539)</sub> | <sub>[418476b](https://github.com/SimplioOfficial/simplio-app/commit/418476b752b07f7cafb3f2fcaa8be04b01a23539) wip - ciripel</sub> |
 | <sub>2023-04-13 21:00:11</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db)</sub> | <sub>[8d3b7da](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db) wip - ciripel</sub> |
