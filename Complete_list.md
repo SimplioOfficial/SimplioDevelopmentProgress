@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-18 22:49:38</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ba4ec4fc85f036d80383a972d22dc368baa60ae6)</sub> | <sub>[ba4ec4f](https://github.com/SimplioOfficial/simplio-app/commit/ba4ec4fc85f036d80383a972d22dc368baa60ae6) fix states - ciripel</sub> |
 | <sub>2023-04-18 18:37:45</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b351e3cc449315c1fb65f8c8cfe0a98aafd741e3)</sub> | <sub>[b351e3c](https://github.com/SimplioOfficial/simplio-app/commit/b351e3cc449315c1fb65f8c8cfe0a98aafd741e3) ticker button for Update Price - ciripel</sub> |
 | <sub>2023-04-18 15:14:36</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76e4e3dc1a722db1c1dd283b227226d74b986d81)</sub> | <sub>[76e4e3d](https://github.com/SimplioOfficial/simplio-app/commit/76e4e3dc1a722db1c1dd283b227226d74b986d81) various fixes - ciripel</sub> |
 | <sub>2023-04-18 14:58:46</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f)</sub> | <sub>[f2b650a](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f) fix type in AssetBuySummaryBuySuccess - ciripel</sub> |
