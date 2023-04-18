@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4730 commits since 10/09/2021. You can see the complete history in
+There is a total of 4731 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-18 12:05:06</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2b1724ba3c510560a90baf7b1b362349fa5fb257)</sub> | <sub>[2b1724b](https://github.com/SimplioOfficial/simplio-app/commit/2b1724ba3c510560a90baf7b1b362349fa5fb257) wip - ciripel</sub> |
 | <sub>2023-04-18 08:09:11</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/292acb80e1ea216fb538d168ce7f4ec53a79930e)</sub> | <sub>[292acb8](https://github.com/SimplioOfficial/simplio-app/commit/292acb80e1ea216fb538d168ce7f4ec53a79930e) various fixes in george's branch - ciripel</sub> |
 | <sub>2023-04-17 14:44:05</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c41db1e27f19542fb1bb35095edf5c96dee1d7d8)</sub> | <sub>[c41db1e](https://github.com/SimplioOfficial/simplio-app/commit/c41db1e27f19542fb1bb35095edf5c96dee1d7d8) add icon - JiriBestak</sub> |
 | <sub>2023-04-17 14:18:38</sub> | <sub>[[simplio-app:task/disable\-push\-notifications] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1590a1cb0f3e43033d6d36d1e894ea7374b0e41a)</sub> | <sub>[1590a1c](https://github.com/SimplioOfficial/simplio-app/commit/1590a1cb0f3e43033d6d36d1e894ea7374b0e41a) Create entitlements file - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 4730 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-13 21:12:07</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1b10f4acea7c3ed515093b513cda8f58d9be46bd)</sub> | <sub>[1b10f4a](https://github.com/SimplioOfficial/simplio-app/commit/1b10f4acea7c3ed515093b513cda8f58d9be46bd) wip - ciripel</sub> |
 | <sub>2023-04-13 21:10:26</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/418476b752b07f7cafb3f2fcaa8be04b01a23539)</sub> | <sub>[418476b](https://github.com/SimplioOfficial/simplio-app/commit/418476b752b07f7cafb3f2fcaa8be04b01a23539) wip - ciripel</sub> |
 | <sub>2023-04-13 21:00:11</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db)</sub> | <sub>[8d3b7da](https://github.com/SimplioOfficial/simplio-app/commit/8d3b7daa16d02326de225dcb44232714b19ad1db) wip - ciripel</sub> |
-| <sub>2023-04-13 18:28:56</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/86b971d65599...5de71bfd084a)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
