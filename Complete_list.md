@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-18 15:14:36</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/76e4e3dc1a722db1c1dd283b227226d74b986d81)</sub> | <sub>[76e4e3d](https://github.com/SimplioOfficial/simplio-app/commit/76e4e3dc1a722db1c1dd283b227226d74b986d81) various fixes - ciripel</sub> |
 | <sub>2023-04-18 14:58:46</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f)</sub> | <sub>[f2b650a](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f) fix type in AssetBuySummaryBuySuccess - ciripel</sub> |
 | <sub>2023-04-18 13:18:04</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0649e7bdc161e2c2416da5e4c90d6289f3fc86)</sub> | <sub>[8e0649e](https://github.com/SimplioOfficial/simplio-app/commit/8e0649e7bdc161e2c2416da5e4c90d6289f3fc86) fix InitializeBuyResponse - ciripel</sub> |
 | <sub>2023-04-18 12:39:03</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e336311f493051e383fdfef45e4665782c7e1392)</sub> | <sub>[e336311](https://github.com/SimplioOfficial/simplio-app/commit/e336311f493051e383fdfef45e4665782c7e1392) finish summary screen - ciripel</sub> |
