@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4734 commits since 10/09/2021. You can see the complete history in
+There is a total of 4735 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-18 14:58:46</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f)</sub> | <sub>[f2b650a](https://github.com/SimplioOfficial/simplio-app/commit/f2b650a9a2dd554827f34182800613367ba0739f) fix type in AssetBuySummaryBuySuccess - ciripel</sub> |
 | <sub>2023-04-18 13:18:04</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0649e7bdc161e2c2416da5e4c90d6289f3fc86)</sub> | <sub>[8e0649e](https://github.com/SimplioOfficial/simplio-app/commit/8e0649e7bdc161e2c2416da5e4c90d6289f3fc86) fix InitializeBuyResponse - ciripel</sub> |
 | <sub>2023-04-18 12:39:03</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e336311f493051e383fdfef45e4665782c7e1392)</sub> | <sub>[e336311](https://github.com/SimplioOfficial/simplio-app/commit/e336311f493051e383fdfef45e4665782c7e1392) finish summary screen - ciripel</sub> |
 | <sub>2023-04-18 12:35:46</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/717896ad7c9dc57c792e5c354f38110d106f8fe4)</sub> | <sub>[717896a](https://github.com/SimplioOfficial/simplio-app/commit/717896ad7c9dc57c792e5c354f38110d106f8fe4) change timeout screen to stateful widget - JiriBestak</sub> |
@@ -17,6 +18,5 @@ There is a total of 4734 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-17 14:18:38</sub> | <sub>[[simplio-app:task/disable\-push\-notifications] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1590a1cb0f3e43033d6d36d1e894ea7374b0e41a)</sub> | <sub>[1590a1c](https://github.com/SimplioOfficial/simplio-app/commit/1590a1cb0f3e43033d6d36d1e894ea7374b0e41a) Create entitlements file - vrbasji</sub> |
 | <sub>2023-04-16 21:15:13</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4570965cd7f82d3b7a1056f5acd8573fbca762b1)</sub> | <sub>[4570965](https://github.com/SimplioOfficial/simplio-app/commit/4570965cd7f82d3b7a1056f5acd8573fbca762b1) fix summary form, waiting for fee - ciripel</sub> |
 | <sub>2023-04-16 20:45:39</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/634e55db4ffe4273639ec7914bad9a12c75ec3d6)</sub> | <sub>[634e55d](https://github.com/SimplioOfficial/simplio-app/commit/634e55db4ffe4273639ec7914bad9a12c75ec3d6) push summary route and enable router debugging - ciripel</sub> |
-| <sub>2023-04-16 19:54:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0466bd0aaeaa7cbf411a974b3a4ace04b1b94890)</sub> | <sub>[0466bd0](https://github.com/SimplioOfficial/simplio-app/commit/0466bd0aaeaa7cbf411a974b3a4ace04b1b94890) Add route in AssetBuyRoutesLoaded - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
