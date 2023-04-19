@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-19 05:58:39</sub> | <sub>[[simplio-app:task/disable\-push\-notifications] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ab64e395e6db82841168d12a602b2c4961598c18)</sub> | <sub>[ab64e39](https://github.com/SimplioOfficial/simplio-app/commit/ab64e395e6db82841168d12a602b2c4961598c18) adding entitlements to build settings - ciripel</sub> |
 | <sub>2023-04-18 23:55:30</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e041c4cdb1a05c8c812a7460a3613cbfbe9d39c)</sub> | <sub>[4e041c4](https://github.com/SimplioOfficial/simplio-app/commit/4e041c4cdb1a05c8c812a7460a3613cbfbe9d39c) fix rebase - ciripel</sub> |
 | <sub>2023-04-18 23:53:26</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/85dd575852da...3895427af827)</sub> |
 | <sub>2023-04-18 23:40:18</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85dd575852da52f28a155a939dae07f9c62b2261)</sub> | <sub>[85dd575](https://github.com/SimplioOfficial/simplio-app/commit/85dd575852da52f28a155a939dae07f9c62b2261) refactoring - ciripel</sub> |
