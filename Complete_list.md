@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-19 13:53:05</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9977d8946e4718c199cd49d924122a131691ea66)</sub> | <sub>[9977d89](https://github.com/SimplioOfficial/simplio-app/commit/9977d8946e4718c199cd49d924122a131691ea66) wip - ciripel</sub> |
 | <sub>2023-04-19 12:56:46</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35ac0157fcccae618209acf52cabfa79c58487c2)</sub> | <sub>[35ac015](https://github.com/SimplioOfficial/simplio-app/commit/35ac0157fcccae618209acf52cabfa79c58487c2) use constants in detail_row - ciripel</sub> |
 | <sub>2023-04-19 12:50:10</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48002e0ffe050191ff0ede3d0a38feec24580fe9)</sub> | <sub>[48002e0](https://github.com/SimplioOfficial/simplio-app/commit/48002e0ffe050191ff0ede3d0a38feec24580fe9) implement error handling on convert - ciripel</sub> |
 | <sub>2023-04-19 09:07:12</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e15f45f92692932c7348d16a0d739470f3c4878)</sub> | <sub>[7e15f45](https://github.com/SimplioOfficial/simplio-app/commit/7e15f45f92692932c7348d16a0d739470f3c4878) fix naming - ciripel</sub> |
