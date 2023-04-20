@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-20 08:16:13</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b)</sub> | <sub>[965d297](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b) task/441-buy-summary-screen (#551) - ciripel</sub> |
 | <sub>2023-04-20 07:26:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3)</sub> | <sub>[ee20d49](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3) fix localization - ciripel</sub> |
 | <sub>2023-04-20 06:57:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9977d8946e47...1ff44216976a)</sub> |
 | <sub>2023-04-20 06:24:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288)</sub> | <sub>[62800d7](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288) Task/407 swap time out (#554) - JiriBestak</sub> |
