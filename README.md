@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4754 commits since 10/09/2021. You can see the complete history in
+There is a total of 4755 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-20 06:57:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9977d8946e47...1ff44216976a)</sub> |
 | <sub>2023-04-20 06:24:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288)</sub> | <sub>[62800d7](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288) Task/407 swap time out (#554) - JiriBestak</sub> |
 | <sub>2023-04-19 15:44:57</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8d793f5415740e9cde4c693045edc42c15e9304)</sub> | <sub>[c8d793f](https://github.com/SimplioOfficial/simplio-app/commit/c8d793f5415740e9cde4c693045edc42c15e9304) fix PR requests - ciripel</sub> |
 | <sub>2023-04-19 15:20:54</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d65ee7a8acd8c5a2d74915fc3edd3795210087fb)</sub> | <sub>[d65ee7a](https://github.com/SimplioOfficial/simplio-app/commit/d65ee7a8acd8c5a2d74915fc3edd3795210087fb) Create entitlements file (#553) - JiriVrbas\-Eria</sub> |
@@ -17,6 +18,5 @@ There is a total of 4754 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-19 12:50:10</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/48002e0ffe050191ff0ede3d0a38feec24580fe9)</sub> | <sub>[48002e0](https://github.com/SimplioOfficial/simplio-app/commit/48002e0ffe050191ff0ede3d0a38feec24580fe9) implement error handling on convert - ciripel</sub> |
 | <sub>2023-04-19 09:07:12</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e15f45f92692932c7348d16a0d739470f3c4878)</sub> | <sub>[7e15f45](https://github.com/SimplioOfficial/simplio-app/commit/7e15f45f92692932c7348d16a0d739470f3c4878) fix naming - ciripel</sub> |
 | <sub>2023-04-19 09:04:54</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/83bc1d6f02a06c63e08b7da1c1b3b11706da0095)</sub> | <sub>[83bc1d6](https://github.com/SimplioOfficial/simplio-app/commit/83bc1d6f02a06c63e08b7da1c1b3b11706da0095) adjust _elapsed - ciripel</sub> |
-| <sub>2023-04-19 08:06:12</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43fcb5c5dd5039d6eb3e135ea8333b05718089ae)</sub> | <sub>[43fcb5c](https://github.com/SimplioOfficial/simplio-app/commit/43fcb5c5dd5039d6eb3e135ea8333b05718089ae) fix arb file - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
