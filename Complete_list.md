@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-21 09:39:39</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/694a5b8da73c3e5504f66d812aa52965128ac433)</sub> | <sub>[694a5b8](https://github.com/SimplioOfficial/simplio-app/commit/694a5b8da73c3e5504f66d812aa52965128ac433) bug/474-fix-error-on-google-store-app (#555) - ciripel</sub> |
 | <sub>2023-04-21 07:23:06</sub> | <sub>[[simplio-app:bug/474\-fix\-error\-on\-google\-store\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/124dd9fa8197c6370176c00c409a499b331c326d)</sub> | <sub>[124dd9f](https://github.com/SimplioOfficial/simplio-app/commit/124dd9fa8197c6370176c00c409a499b331c326d) increase minSdkVersion to 29 - ciripel</sub> |
 | <sub>2023-04-20 08:16:13</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b)</sub> | <sub>[965d297](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b) task/441-buy-summary-screen (#551) - ciripel</sub> |
 | <sub>2023-04-20 07:26:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3)</sub> | <sub>[ee20d49](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3) fix localization - ciripel</sub> |
