@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4762 commits since 10/09/2021. You can see the complete history in
+There is a total of 4763 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-24 13:50:41</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3)</sub> | <sub>[c850563](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3) working with states - ciripel</sub> |
 | <sub>2023-04-24 13:21:24</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed)</sub> | <sub>[4de97da](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed) try with RouteBuilderMixin - ciripel</sub> |
 | <sub>2023-04-24 12:01:25</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc3f974c3d33c0309e4113be03d7923a30a8a7d2)</sub> | <sub>[fc3f974](https://github.com/SimplioOfficial/simplio-app/commit/fc3f974c3d33c0309e4113be03d7923a30a8a7d2) rename route.dart - ciripel</sub> |
 | <sub>2023-04-24 08:22:22</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e8bdb92cf391a1ae8665649a0c19b2e7d5e46da)</sub> | <sub>[1e8bdb9](https://github.com/SimplioOfficial/simplio-app/commit/1e8bdb92cf391a1ae8665649a0c19b2e7d5e46da) show _CardProcessingForm - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4762 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-20 07:26:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3)</sub> | <sub>[ee20d49](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3) fix localization - ciripel</sub> |
 | <sub>2023-04-20 06:57:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9977d8946e47...1ff44216976a)</sub> |
 | <sub>2023-04-20 06:24:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288)</sub> | <sub>[62800d7](https://github.com/SimplioOfficial/simplio-app/commit/62800d78b425803469e9399f22248037366f2288) Task/407 swap time out (#554) - JiriBestak</sub> |
-| <sub>2023-04-19 15:44:57</sub> | <sub>[[simplio-app:task/407\-SwapTimeOut] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8d793f5415740e9cde4c693045edc42c15e9304)</sub> | <sub>[c8d793f](https://github.com/SimplioOfficial/simplio-app/commit/c8d793f5415740e9cde4c693045edc42c15e9304) fix PR requests - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
