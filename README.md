@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4764 commits since 10/09/2021. You can see the complete history in
+There is a total of 4765 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-25 08:44:46</sub> | <sub>[[simplio-app:task/410\-buy\-confirmation\-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d8925a8d9cd826af87e5996321853cea111439b9)</sub> | <sub>[d8925a8](https://github.com/SimplioOfficial/simplio-app/commit/d8925a8d9cd826af87e5996321853cea111439b9) add localization - ciripel</sub> |
 | <sub>2023-04-25 08:30:55</sub> | <sub>[[simplio-app:task/410\-buy\-confirmation\-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/766f53de2f7b8ddc852dedfe3304b891af52bce2)</sub> | <sub>[766f53d](https://github.com/SimplioOfficial/simplio-app/commit/766f53de2f7b8ddc852dedfe3304b891af52bce2) finish state management - ciripel</sub> |
 | <sub>2023-04-24 13:50:41</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3)</sub> | <sub>[c850563](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3) working with states - ciripel</sub> |
 | <sub>2023-04-24 13:21:24</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed)</sub> | <sub>[4de97da](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed) try with RouteBuilderMixin - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4764 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-21 07:23:06</sub> | <sub>[[simplio-app:bug/474\-fix\-error\-on\-google\-store\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/124dd9fa8197c6370176c00c409a499b331c326d)</sub> | <sub>[124dd9f](https://github.com/SimplioOfficial/simplio-app/commit/124dd9fa8197c6370176c00c409a499b331c326d) increase minSdkVersion to 29 - ciripel</sub> |
 | <sub>2023-04-20 08:16:13</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b)</sub> | <sub>[965d297](https://github.com/SimplioOfficial/simplio-app/commit/965d297cff79f358d811e99dfa607ad439265a3b) task/441-buy-summary-screen (#551) - ciripel</sub> |
 | <sub>2023-04-20 07:26:08</sub> | <sub>[[simplio-app:task/441\-buy\-summary\-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3)</sub> | <sub>[ee20d49](https://github.com/SimplioOfficial/simplio-app/commit/ee20d49f68dff03231e9f5c3e35bb340af70bbf3) fix localization - ciripel</sub> |
-| <sub>2023-04-20 06:57:45</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9977d8946e47...1ff44216976a)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
