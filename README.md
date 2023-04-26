@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4770 commits since 10/09/2021. You can see the complete history in
+There is a total of 4771 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-26 11:11:31</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4fb4fef5bfcbf0aa9345cae94839e2b1d5dcbb01)</sub> | <sub>[4fb4fef](https://github.com/SimplioOfficial/simplio-app/commit/4fb4fef5bfcbf0aa9345cae94839e2b1d5dcbb01) Task/412-debit-card-processing-form (#556) - ciripel</sub> |
 | <sub>2023-04-26 10:46:08</sub> | <sub>[[simplio-app:task/410\-buy\-confirmation\-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3573460a91e19b3063e1413b2de2a0e11be346f2)</sub> | <sub>[3573460](https://github.com/SimplioOfficial/simplio-app/commit/3573460a91e19b3063e1413b2de2a0e11be346f2) solve PR requests - ciripel</sub> |
 | <sub>2023-04-26 09:12:31</sub> | <sub>[[simplio-app:task/410\-buy\-confirmation\-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/87289f9c821e669c33009ca24b08bf807c26fc8a)</sub> | <sub>[87289f9](https://github.com/SimplioOfficial/simplio-app/commit/87289f9c821e669c33009ca24b08bf807c26fc8a) finish task and remove comments - ciripel</sub> |
 | <sub>2023-04-26 08:44:19</sub> | <sub>[[simplio-app:bugs/kanban\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9f44447d0bf064d6ea34f0fb8fe41d53194eaf8)</sub> | <sub>[e9f4444](https://github.com/SimplioOfficial/simplio-app/commit/e9f44447d0bf064d6ea34f0fb8fe41d53194eaf8) fix 475-loadAccSettings every 20s for 5 mins - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4770 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-04-25 08:30:55</sub> | <sub>[[simplio-app:task/410\-buy\-confirmation\-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/766f53de2f7b8ddc852dedfe3304b891af52bce2)</sub> | <sub>[766f53d](https://github.com/SimplioOfficial/simplio-app/commit/766f53de2f7b8ddc852dedfe3304b891af52bce2) finish state management - ciripel</sub> |
 | <sub>2023-04-24 13:50:41</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3)</sub> | <sub>[c850563](https://github.com/SimplioOfficial/simplio-app/commit/c85056311e5dc625d7047695d2cd34aee0c6abd3) working with states - ciripel</sub> |
 | <sub>2023-04-24 13:21:24</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed)</sub> | <sub>[4de97da](https://github.com/SimplioOfficial/simplio-app/commit/4de97da71e65c8c0fdbc73d013107ec4af548fed) try with RouteBuilderMixin - ciripel</sub> |
-| <sub>2023-04-24 12:01:25</sub> | <sub>[[simplio-app:task/412\-debit\-card\-processing\-form] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc3f974c3d33c0309e4113be03d7923a30a8a7d2)</sub> | <sub>[fc3f974](https://github.com/SimplioOfficial/simplio-app/commit/fc3f974c3d33c0309e4113be03d7923a30a8a7d2) rename route.dart - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
