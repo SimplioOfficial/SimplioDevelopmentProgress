@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-28 06:48:58</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d36e78a0bf7e67c13a8c4d6ffdd347a1ce0ef218)</sub> | <sub>[d36e78a](https://github.com/SimplioOfficial/simplio-app/commit/d36e78a0bf7e67c13a8c4d6ffdd347a1ce0ef218) fix 514-Delete-share-button-from-receive-page - ciripel</sub> |
 | <sub>2023-04-26 11:31:35</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b8d4351ea60b44ec0c01fada6446e2fbb17b385)</sub> | <sub>[9b8d435](https://github.com/SimplioOfficial/simplio-app/commit/9b8d4351ea60b44ec0c01fada6446e2fbb17b385) task/410-buy-confirmation-screens (#557) - ciripel</sub> |
 | <sub>2023-04-26 11:30:46</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3573460a91e1...336da9e969b7)</sub> |
 | <sub>2023-04-26 11:15:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8f39a288c3506337690da7f9457aefacf559579d)</sub> | <sub>[8f39a28](https://github.com/SimplioOfficial/simplio-app/commit/8f39a288c3506337690da7f9457aefacf559579d) Bug/fix-various-bugs (#558) - ciripel</sub> |
