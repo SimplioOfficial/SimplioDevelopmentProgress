@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-04-28 08:54:05</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f4f69cb7cff267b60658d207d0e331ce33db3d44)</sub> | <sub>[f4f69cb](https://github.com/SimplioOfficial/simplio-app/commit/f4f69cb7cff267b60658d207d0e331ce33db3d44) fix 513-fix-summary-screens - ciripel</sub> |
 | <sub>2023-04-28 07:35:08</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9b9bdae9d1f64d9daa7358d0c432c1682b0124a)</sub> | <sub>[f9b9bda](https://github.com/SimplioOfficial/simplio-app/commit/f9b9bdae9d1f64d9daa7358d0c432c1682b0124a) disable iOS tablet support - ciripel</sub> |
 | <sub>2023-04-28 06:48:58</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d36e78a0bf7e67c13a8c4d6ffdd347a1ce0ef218)</sub> | <sub>[d36e78a](https://github.com/SimplioOfficial/simplio-app/commit/d36e78a0bf7e67c13a8c4d6ffdd347a1ce0ef218) fix 514-Delete-share-button-from-receive-page - ciripel</sub> |
 | <sub>2023-04-26 11:31:35</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b8d4351ea60b44ec0c01fada6446e2fbb17b385)</sub> | <sub>[9b8d435](https://github.com/SimplioOfficial/simplio-app/commit/9b8d4351ea60b44ec0c01fada6446e2fbb17b385) task/410-buy-confirmation-screens (#557) - ciripel</sub> |
