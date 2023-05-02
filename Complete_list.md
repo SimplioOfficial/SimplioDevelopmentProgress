@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-02 07:51:42</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5566cdb759428eaba42359481c4cdf9c3f2d767b)</sub> | <sub>[5566cdb](https://github.com/SimplioOfficial/simplio-app/commit/5566cdb759428eaba42359481c4cdf9c3f2d767b) moved services from models to service helpers - ciripel</sub> |
 | <sub>2023-05-02 06:44:56</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c225dd15a829...dd0dc248597c)</sub> |
 | <sub>2023-05-01 21:05:47</sub> | <sub>[[simplio-app:bug/476\-inventory\-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36189b44aedbc7f46250d68fa231ca5667cdcae5)</sub> | <sub>[36189b4](https://github.com/SimplioOfficial/simplio-app/commit/36189b44aedbc7f46250d68fa231ca5667cdcae5) Add source initial amount to initialize swap - vrbasji</sub> |
 | <sub>2023-04-28 13:15:47</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c225dd15a8293523f8066b2500cfcdfa53e8ccb1)</sub> | <sub>[c225dd1](https://github.com/SimplioOfficial/simplio-app/commit/c225dd15a8293523f8066b2500cfcdfa53e8ccb1) fix/481-call-cancel-order-on-webview-close - ciripel</sub> |
