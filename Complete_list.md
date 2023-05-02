@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-02 17:15:58</sub> | <sub>[[simplio-app:bug/476\-inventory\-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/370e68cb54fb460893e309289ce8d14d6e54621b)</sub> | <sub>[370e68c](https://github.com/SimplioOfficial/simplio-app/commit/370e68cb54fb460893e309289ce8d14d6e54621b) Update prices - vrbasji</sub> |
 | <sub>2023-05-02 13:27:36</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af27c14d537aa9a84c9c54c1c9b6d8cb59d2a45e)</sub> | <sub>[af27c14](https://github.com/SimplioOfficial/simplio-app/commit/af27c14d537aa9a84c9c54c1c9b6d8cb59d2a45e) fix cancel queries - ciripel</sub> |
 | <sub>2023-05-02 13:21:29</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/583c7085b129e2979d98e5d3c2c2548dd38a7140)</sub> | <sub>[583c708](https://github.com/SimplioOfficial/simplio-app/commit/583c7085b129e2979d98e5d3c2c2548dd38a7140) add ignore try/catch on cancelBuy - ciripel</sub> |
 | <sub>2023-05-02 13:03:39</sub> | <sub>[[simplio-app:bugs/kanban\-bugs\-hunt\-44] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/880bb4153409749e98bd7594239846f0fdb90112)</sub> | <sub>[880bb41](https://github.com/SimplioOfficial/simplio-app/commit/880bb4153409749e98bd7594239846f0fdb90112) fix/486-option-to-delete-user-account - ciripel</sub> |
