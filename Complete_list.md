@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-04 12:20:25</sub> | <sub>[[simplio-app:task/492\-add\-nft\-in\-the\-pipeline] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b784e2d7aeca2c7d21e72941756b2fec34c306c6)</sub> | <sub>[b784e2d](https://github.com/SimplioOfficial/simplio-app/commit/b784e2d7aeca2c7d21e72941756b2fec34c306c6) Add NFT in the pipeline - tenhobi</sub> |
 | <sub>2023-05-04 11:57:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2ca0b53e9ea6...e6757756d955)</sub> |
 | <sub>2023-05-04 11:57:10</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3b7e0bd102600ab18d331276e61662046569cc0)</sub> | <sub>[d3b7e0b](https://github.com/SimplioOfficial/simplio-app/commit/d3b7e0bd102600ab18d331276e61662046569cc0) bug/530-ancestor-widget-error-in fail-screen-of... - ciripel</sub> |
 | <sub>2023-05-04 10:14:10</sub> | <sub>[[simplio-app:task/528\-currency\_text\-widget\-refactor] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2ca0b53e9ea629ee48f2e530f875261e21f3bce7)</sub> | <sub>[2ca0b53](https://github.com/SimplioOfficial/simplio-app/commit/2ca0b53e9ea629ee48f2e530f875261e21f3bce7) Update lib/logic/cubit/asset_send_summary/asset... - ciripel</sub> |
