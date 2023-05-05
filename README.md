@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4805 commits since 10/09/2021. You can see the complete history in
+There is a total of 4806 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-05 12:06:50</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d)</sub> | <sub>[57e1235](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d) resize top distance till inventory balance shield - ciripel</sub> |
 | <sub>2023-05-05 11:38:44</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7)</sub> | <sub>[38f31d6](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7) task/424-adding-coins-with-multiple-networks - ciripel</sub> |
 | <sub>2023-05-05 10:55:17</sub> | <sub>[[simplio-app:task/492\-add\-nft\-in\-the\-pipeline] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea1d269c801d464c03cfb25889afbb5325024d28)</sub> | <sub>[ea1d269](https://github.com/SimplioOfficial/simplio-app/commit/ea1d269c801d464c03cfb25889afbb5325024d28) Move strings to arb, use icon size constant - tenhobi</sub> |
 | <sub>2023-05-05 09:34:35</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18a6384f49ed7f144532b5c43625984a5ae815b2)</sub> | <sub>[18a6384](https://github.com/SimplioOfficial/simplio-app/commit/18a6384f49ed7f144532b5c43625984a5ae815b2) PR fixes - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4805 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-05 07:38:39</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f47a1c49ec297e819844c8b81e432ba005bd410f)</sub> | <sub>[f47a1c4](https://github.com/SimplioOfficial/simplio-app/commit/f47a1c49ec297e819844c8b81e432ba005bd410f) Reduce menu buttons to 3 - tenhobi</sub> |
 | <sub>2023-05-04 13:17:09</sub> | <sub>[[trust_wallet_core_lib:feat/update\-core\-api\-to\-3\.1\.27] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/d561eeb5862e9485caa2071615b69817b3188755)</sub> | <sub>[d561eeb](https://github.com/ciripel/trust_wallet_core_lib/commit/d561eeb5862e9485caa2071615b69817b3188755) ffigen adjustments - ciripel</sub> |
 | <sub>2023-05-04 12:36:12</sub> | <sub>[[trust_wallet_core_lib:feat/update\-core\-api\-to\-3\.1\.27] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/97f0631dc7fb1a5847e7258b82bd02fe6f0b9b2d)</sub> | <sub>[97f0631](https://github.com/ciripel/trust_wallet_core_lib/commit/97f0631dc7fb1a5847e7258b82bd02fe6f0b9b2d) add ffigen - ciripel</sub> |
-| <sub>2023-05-04 12:35:28</sub> | <sub>[[trust_wallet_core_lib:feat/update\-core\-api\-to\-3\.1\.27] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/270bbf9d695efc100ed4a6e1535ad6e77fe48a71)</sub> | <sub>[270bbf9](https://github.com/ciripel/trust_wallet_core_lib/commit/270bbf9d695efc100ed4a6e1535ad6e77fe48a71) delete assets - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
