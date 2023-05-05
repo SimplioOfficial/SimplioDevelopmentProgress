@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4807 commits since 10/09/2021. You can see the complete history in
+There is a total of 4808 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-05 15:16:42</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3caa14c20f0ab17176be03f62d20eb0b189ee09)</sub> | <sub>[d3caa14](https://github.com/SimplioOfficial/simplio-app/commit/d3caa14c20f0ab17176be03f62d20eb0b189ee09) Update - tenhobi</sub> |
 | <sub>2023-05-05 12:21:59</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965)</sub> | <sub>[0ec9889](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965) Fix bouncing overflow for ios in Inventory/Coins - tenhobi</sub> |
 | <sub>2023-05-05 12:06:50</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d)</sub> | <sub>[57e1235](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d) resize top distance till inventory balance shield - ciripel</sub> |
 | <sub>2023-05-05 11:38:44</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7)</sub> | <sub>[38f31d6](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7) task/424-adding-coins-with-multiple-networks - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4807 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-05 08:50:26</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac59384d812f1456072306a7a5e0230f31542001)</sub> | <sub>[ac59384](https://github.com/SimplioOfficial/simplio-app/commit/ac59384d812f1456072306a7a5e0230f31542001) requested PR changes - ciripel</sub> |
 | <sub>2023-05-05 08:16:15</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11ed8e35701bafb06625e311b869a1d66dbfa9dd)</sub> | <sub>[11ed8e3](https://github.com/SimplioOfficial/simplio-app/commit/11ed8e35701bafb06625e311b869a1d66dbfa9dd) task/335-recolor-the-delete-account-dialog - ciripel</sub> |
 | <sub>2023-05-05 07:38:39</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f47a1c49ec297e819844c8b81e432ba005bd410f)</sub> | <sub>[f47a1c4](https://github.com/SimplioOfficial/simplio-app/commit/f47a1c49ec297e819844c8b81e432ba005bd410f) Reduce menu buttons to 3 - tenhobi</sub> |
-| <sub>2023-05-04 13:17:09</sub> | <sub>[[trust_wallet_core_lib:feat/update\-core\-api\-to\-3\.1\.27] 1 new commit](https://github.com/ciripel/trust_wallet_core_lib/commit/d561eeb5862e9485caa2071615b69817b3188755)</sub> | <sub>[d561eeb](https://github.com/ciripel/trust_wallet_core_lib/commit/d561eeb5862e9485caa2071615b69817b3188755) ffigen adjustments - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
