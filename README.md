@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4809 commits since 10/09/2021. You can see the complete history in
+There is a total of 4810 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-08 10:09:15</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c3c063e23212b7ff0d658de21e2200565e876947)</sub> | <sub>[c3c063e](https://github.com/SimplioOfficial/simplio-app/commit/c3c063e23212b7ff0d658de21e2200565e876947) change target amount to source amount (#567) - JiriBestak</sub> |
 | <sub>2023-05-08 09:50:43</sub> | <sub>[[simplio-app:bug/fix\-swap\-amount] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9b213fc48bd0e637fd5d0f2a840f03ad092b2fb8)</sub> | <sub>[9b213fc](https://github.com/SimplioOfficial/simplio-app/commit/9b213fc48bd0e637fd5d0f2a840f03ad092b2fb8) change target amount to source amount - JiriBestak</sub> |
 | <sub>2023-05-05 15:16:42</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3caa14c20f0ab17176be03f62d20eb0b189ee09)</sub> | <sub>[d3caa14](https://github.com/SimplioOfficial/simplio-app/commit/d3caa14c20f0ab17176be03f62d20eb0b189ee09) Update - tenhobi</sub> |
 | <sub>2023-05-05 12:21:59</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965)</sub> | <sub>[0ec9889](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965) Fix bouncing overflow for ios in Inventory/Coins - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4809 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-05 09:34:35</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18a6384f49ed7f144532b5c43625984a5ae815b2)</sub> | <sub>[18a6384](https://github.com/SimplioOfficial/simplio-app/commit/18a6384f49ed7f144532b5c43625984a5ae815b2) PR fixes - tenhobi</sub> |
 | <sub>2023-05-05 09:13:43</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32f90a5b0307036237942681d665e4b1e2c69250)</sub> | <sub>[32f90a5](https://github.com/SimplioOfficial/simplio-app/commit/32f90a5b0307036237942681d665e4b1e2c69250) Update - tenhobi</sub> |
 | <sub>2023-05-05 08:50:26</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac59384d812f1456072306a7a5e0230f31542001)</sub> | <sub>[ac59384](https://github.com/SimplioOfficial/simplio-app/commit/ac59384d812f1456072306a7a5e0230f31542001) requested PR changes - ciripel</sub> |
-| <sub>2023-05-05 08:16:15</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11ed8e35701bafb06625e311b869a1d66dbfa9dd)</sub> | <sub>[11ed8e3](https://github.com/SimplioOfficial/simplio-app/commit/11ed8e35701bafb06625e311b869a1d66dbfa9dd) task/335-recolor-the-delete-account-dialog - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
