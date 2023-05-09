@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 10:57:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3cee87c33723...5950f5c73e0e)</sub> |
 | <sub>2023-05-09 10:25:30</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0ec9889ad5fc...995c0602389f)</sub> |
 | <sub>2023-05-09 10:19:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf)</sub> | <sub>[0aa3ced](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf) fix: use supports-screens on android manifest file - ciripel</sub> |
 | <sub>2023-05-09 08:47:28</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3cee87c3372326a786d8560b1c81d60f5778c56d)</sub> | <sub>[3cee87c](https://github.com/SimplioOfficial/simplio-app/commit/3cee87c3372326a786d8560b1c81d60f5778c56d) fix: improve scrollable behavior on small screens - ciripel</sub> |
