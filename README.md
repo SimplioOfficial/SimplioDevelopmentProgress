@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4823 commits since 10/09/2021. You can see the complete history in
+There is a total of 4824 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 12:38:35</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4871efa1e4e6ea761b3356cf16de9b3d2dd81c7a)</sub> | <sub>[4871efa](https://github.com/SimplioOfficial/simplio-app/commit/4871efa1e4e6ea761b3356cf16de9b3d2dd81c7a) task/424-adding-coins-with-multiple-networks (#... - ciripel</sub> |
 | <sub>2023-05-09 12:33:47</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c42d9af7608ce126c911f85397094a0a75ced283)</sub> | <sub>[c42d9af](https://github.com/SimplioOfficial/simplio-app/commit/c42d9af7608ce126c911f85397094a0a75ced283) Task/536-backup-phrase-visual-bugs (#568) - ciripel</sub> |
 | <sub>2023-05-09 12:32:16</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/274fd1d0013eebacaab75a219b528850c8ba3d06)</sub> | <sub>[274fd1d](https://github.com/SimplioOfficial/simplio-app/commit/274fd1d0013eebacaab75a219b528850c8ba3d06) task/489-reduce-menu-buttons (#563) - tenhobi</sub> |
 | <sub>2023-05-09 12:31:55</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b)</sub> | <sub>[770bcc0](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b) inverse buttons and highlight - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4823 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-09 11:21:56</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7c9509a5393340fdd46ca87216668e1423069b12)</sub> | <sub>[7c9509a](https://github.com/SimplioOfficial/simplio-app/commit/7c9509a5393340fdd46ca87216668e1423069b12) PR requests - ciripel</sub> |
 | <sub>2023-05-09 10:57:18</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/3cee87c33723...5950f5c73e0e)</sub> |
 | <sub>2023-05-09 10:25:30</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0ec9889ad5fc...995c0602389f)</sub> |
-| <sub>2023-05-09 10:19:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf)</sub> | <sub>[0aa3ced](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf) fix: use supports-screens on android manifest file - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
