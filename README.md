@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4829 commits since 10/09/2021. You can see the complete history in
+There is a total of 4830 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 19:37:26</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/ff3ff6752d3a802971694233814f90778f71bbee)</sub> | <sub>[ff3ff67](https://github.com/SimplioOfficial/documentation/commit/ff3ff6752d3a802971694233814f90778f71bbee) Update How to add new asset to the system - JiriVrbas\-Eria</sub> |
 | <sub>2023-05-09 16:25:48</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/e57a6e35a64be580e39f7ef76210375787eb3df5)</sub> | <sub>[e57a6e3](https://github.com/SimplioOfficial/documentation/commit/e57a6e35a64be580e39f7ef76210375787eb3df5) Update How to add new asset to the system - JiriVrbas\-Eria</sub> |
 | <sub>2023-05-09 13:31:25</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117)</sub> | <sub>[71d5e60](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117) wip - ciripel</sub> |
 | <sub>2023-05-09 12:44:29</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30)</sub> | <sub>[10d1433](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30) Update - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4829 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-09 12:33:47</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c42d9af7608ce126c911f85397094a0a75ced283)</sub> | <sub>[c42d9af](https://github.com/SimplioOfficial/simplio-app/commit/c42d9af7608ce126c911f85397094a0a75ced283) Task/536-backup-phrase-visual-bugs (#568) - ciripel</sub> |
 | <sub>2023-05-09 12:32:16</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/274fd1d0013eebacaab75a219b528850c8ba3d06)</sub> | <sub>[274fd1d](https://github.com/SimplioOfficial/simplio-app/commit/274fd1d0013eebacaab75a219b528850c8ba3d06) task/489-reduce-menu-buttons (#563) - tenhobi</sub> |
 | <sub>2023-05-09 12:31:55</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b)</sub> | <sub>[770bcc0](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b) inverse buttons and highlight - ciripel</sub> |
-| <sub>2023-05-09 12:31:43</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/18a6384f49ed...0f1aba939762)</sub> | <sub>[c3c063e](https://github.com/SimplioOfficial/simplio-app/commit/c3c063e23212b7ff0d658de21e2200565e876947) change target amount to source amount (#567) - JiriBestak<br>[0aa3ced](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf) fix: use supports-screens on android manifest file - ciripel<br>[7733f60](https://github.com/SimplioOfficial/simplio-app/commit/7733f60c575004bcb7fac0d89c018194085c85f4) task/492-add-nft-in-the-pipeline (#562) - tenhobi<br>[0f1aba9](https://github.com/SimplioOfficial/simplio-app/commit/0f1aba939762110cf735f8293ca202bae586cb16) Merge branch 'master' into task/489-reduce-menu... - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
