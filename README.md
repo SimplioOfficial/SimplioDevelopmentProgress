@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4813 commits since 10/09/2021. You can see the complete history in
+There is a total of 4814 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 10:19:19</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf)</sub> | <sub>[0aa3ced](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf) fix: use supports-screens on android manifest file - ciripel</sub> |
 | <sub>2023-05-09 08:47:28</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3cee87c3372326a786d8560b1c81d60f5778c56d)</sub> | <sub>[3cee87c](https://github.com/SimplioOfficial/simplio-app/commit/3cee87c3372326a786d8560b1c81d60f5778c56d) fix: improve scrollable behavior on small screens - ciripel</sub> |
 | <sub>2023-05-09 07:05:42</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1451636e8c1111300cdcee839bd06ca53f8200de)</sub> | <sub>[1451636](https://github.com/SimplioOfficial/simplio-app/commit/1451636e8c1111300cdcee839bd06ca53f8200de) fix: remove hardcoded \n in titles - ciripel</sub> |
 | <sub>2023-05-08 13:26:05</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2322d58b3a2673270726f709ace6cbee3c54e186)</sub> | <sub>[2322d58](https://github.com/SimplioOfficial/simplio-app/commit/2322d58b3a2673270726f709ace6cbee3c54e186) fix: tutorial screens show correct subtitles - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4813 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-05 12:21:59</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965)</sub> | <sub>[0ec9889](https://github.com/SimplioOfficial/simplio-app/commit/0ec9889ad5fc442fcb2310142c9ceca7504b3965) Fix bouncing overflow for ios in Inventory/Coins - tenhobi</sub> |
 | <sub>2023-05-05 12:06:50</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d)</sub> | <sub>[57e1235](https://github.com/SimplioOfficial/simplio-app/commit/57e12353d88e9fcb64867aaa7b9d2aff3a136e3d) resize top distance till inventory balance shield - ciripel</sub> |
 | <sub>2023-05-05 11:38:44</sub> | <sub>[[simplio-app:task/424\-adding\-coins\-with\-multiple\-networks] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7)</sub> | <sub>[38f31d6](https://github.com/SimplioOfficial/simplio-app/commit/38f31d6abfb170f7daf620c5c835c7be1c3907b7) task/424-adding-coins-with-multiple-networks - ciripel</sub> |
-| <sub>2023-05-05 10:55:17</sub> | <sub>[[simplio-app:task/492\-add\-nft\-in\-the\-pipeline] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea1d269c801d464c03cfb25889afbb5325024d28)</sub> | <sub>[ea1d269](https://github.com/SimplioOfficial/simplio-app/commit/ea1d269c801d464c03cfb25889afbb5325024d28) Move strings to arb, use icon size constant - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
