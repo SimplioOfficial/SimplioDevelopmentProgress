@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 13:31:25</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117)</sub> | <sub>[71d5e60](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117) wip - ciripel</sub> |
 | <sub>2023-05-09 12:44:29</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30)</sub> | <sub>[10d1433](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30) Update - tenhobi</sub> |
 | <sub>2023-05-09 12:42:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12001662409decab23c3db8805277ee963ee69a9)</sub> | <sub>[1200166](https://github.com/SimplioOfficial/simplio-app/commit/12001662409decab23c3db8805277ee963ee69a9) task/528-currency_text-widget-refactor (#561) - ciripel</sub> |
 | <sub>2023-05-09 12:41:26</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f15c24d814cc42469ac33394f18e2c7ad05b92c)</sub> | <sub>[4f15c24](https://github.com/SimplioOfficial/simplio-app/commit/4f15c24d814cc42469ac33394f18e2c7ad05b92c) task/335-recolor-the-delete-account-dialog (#564) - ciripel</sub> |

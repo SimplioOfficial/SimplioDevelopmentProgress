@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4827 commits since 10/09/2021. You can see the complete history in
+There is a total of 4828 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-09 13:31:25</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117)</sub> | <sub>[71d5e60](https://github.com/SimplioOfficial/simplio-app/commit/71d5e60627726d7c6a3693511f9c03e272574117) wip - ciripel</sub> |
 | <sub>2023-05-09 12:44:29</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30)</sub> | <sub>[10d1433](https://github.com/SimplioOfficial/simplio-app/commit/10d1433306a9ab03b2bd7d0954b1516a62ed0f30) Update - tenhobi</sub> |
 | <sub>2023-05-09 12:42:37</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12001662409decab23c3db8805277ee963ee69a9)</sub> | <sub>[1200166](https://github.com/SimplioOfficial/simplio-app/commit/12001662409decab23c3db8805277ee963ee69a9) task/528-currency_text-widget-refactor (#561) - ciripel</sub> |
 | <sub>2023-05-09 12:41:26</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f15c24d814cc42469ac33394f18e2c7ad05b92c)</sub> | <sub>[4f15c24](https://github.com/SimplioOfficial/simplio-app/commit/4f15c24d814cc42469ac33394f18e2c7ad05b92c) task/335-recolor-the-delete-account-dialog (#564) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4827 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-09 12:31:55</sub> | <sub>[[simplio-app:task/335\-recolor\-the\-delete\-account\-dialog] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b)</sub> | <sub>[770bcc0](https://github.com/SimplioOfficial/simplio-app/commit/770bcc001527b6b2122e2d32f77e6bc4a4b0469b) inverse buttons and highlight - ciripel</sub> |
 | <sub>2023-05-09 12:31:43</sub> | <sub>[[simplio-app:task/489\-reduce\-menu\-buttons] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/18a6384f49ed...0f1aba939762)</sub> | <sub>[c3c063e](https://github.com/SimplioOfficial/simplio-app/commit/c3c063e23212b7ff0d658de21e2200565e876947) change target amount to source amount (#567) - JiriBestak<br>[0aa3ced](https://github.com/SimplioOfficial/simplio-app/commit/0aa3ceda85183b37c992992b8d9e296789b08ccf) fix: use supports-screens on android manifest file - ciripel<br>[7733f60](https://github.com/SimplioOfficial/simplio-app/commit/7733f60c575004bcb7fac0d89c018194085c85f4) task/492-add-nft-in-the-pipeline (#562) - tenhobi<br>[0f1aba9](https://github.com/SimplioOfficial/simplio-app/commit/0f1aba939762110cf735f8293ca202bae586cb16) Merge branch 'master' into task/489-reduce-menu... - tenhobi</sub> |
 | <sub>2023-05-09 12:31:35</sub> | <sub>[[simplio-app:task/536\-backup\-phrase\-visual\-bugs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b1e8ee7d765aa15cec991a3d81fa2fc137afedeb)</sub> | <sub>[b1e8ee7](https://github.com/SimplioOfficial/simplio-app/commit/b1e8ee7d765aa15cec991a3d81fa2fc137afedeb) add BouncingScrollPhysics - ciripel</sub> |
-| <sub>2023-05-09 12:30:32</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7733f60c575004bcb7fac0d89c018194085c85f4)</sub> | <sub>[7733f60](https://github.com/SimplioOfficial/simplio-app/commit/7733f60c575004bcb7fac0d89c018194085c85f4) task/492-add-nft-in-the-pipeline (#562) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
