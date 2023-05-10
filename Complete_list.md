@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-10 07:14:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f739d5821e70d2e2dc135431a90754da1d64b378)</sub> | <sub>[f739d58](https://github.com/SimplioOfficial/simplio-app/commit/f739d5821e70d2e2dc135431a90754da1d64b378) Fix vertical100 (#569) - tenhobi</sub> |
 | <sub>2023-05-10 05:28:01</sub> | <sub>[[simplio-app:fix/vertical100] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f64d36eceb3ff372be3b416af7d68930bc76b3c)</sub> | <sub>[7f64d36](https://github.com/SimplioOfficial/simplio-app/commit/7f64d36eceb3ff372be3b416af7d68930bc76b3c) Fix vertical100 - tenhobi</sub> |
 | <sub>2023-05-09 19:37:26</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/ff3ff6752d3a802971694233814f90778f71bbee)</sub> | <sub>[ff3ff67](https://github.com/SimplioOfficial/documentation/commit/ff3ff6752d3a802971694233814f90778f71bbee) Update How to add new asset to the system - JiriVrbas\-Eria</sub> |
 | <sub>2023-05-09 16:25:48</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/e57a6e35a64be580e39f7ef76210375787eb3df5)</sub> | <sub>[e57a6e3](https://github.com/SimplioOfficial/documentation/commit/e57a6e35a64be580e39f7ef76210375787eb3df5) Update How to add new asset to the system - JiriVrbas\-Eria</sub> |
