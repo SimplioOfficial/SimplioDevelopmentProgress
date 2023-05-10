@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-10 13:06:57</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bebdf5adbb75bce94e8c68e1ea542659d3526c9e)</sub> | <sub>[bebdf5a](https://github.com/SimplioOfficial/simplio-app/commit/bebdf5adbb75bce94e8c68e1ea542659d3526c9e) finished the small artist touches - ciripel</sub> |
 | <sub>2023-05-10 09:59:17</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8e0561955ea751592b14680bc75fe6532f5ca31d)</sub> | <sub>[8e05619](https://github.com/SimplioOfficial/simplio-app/commit/8e0561955ea751592b14680bc75fe6532f5ca31d) clear some routes - ciripel</sub> |
 | <sub>2023-05-10 08:09:55</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f61832d976a1cb7c11e9e3df552ea56653e64be)</sub> | <sub>[3f61832](https://github.com/SimplioOfficial/simplio-app/commit/3f61832d976a1cb7c11e9e3df552ea56653e64be) wip - ciripel</sub> |
 | <sub>2023-05-10 07:20:50</sub> | <sub>[[simplio-app:task/501\-app\-load] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a44250768a4750abbe98e64dcf3b9d9478dd59c)</sub> | <sub>[1a44250](https://github.com/SimplioOfficial/simplio-app/commit/1a44250768a4750abbe98e64dcf3b9d9478dd59c) Fix app load - tenhobi</sub> |
