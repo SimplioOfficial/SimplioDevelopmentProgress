@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-10 08:09:55</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3f61832d976a1cb7c11e9e3df552ea56653e64be)</sub> | <sub>[3f61832](https://github.com/SimplioOfficial/simplio-app/commit/3f61832d976a1cb7c11e9e3df552ea56653e64be) wip - ciripel</sub> |
 | <sub>2023-05-10 07:20:50</sub> | <sub>[[simplio-app:task/501\-app\-load] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a44250768a4750abbe98e64dcf3b9d9478dd59c)</sub> | <sub>[1a44250](https://github.com/SimplioOfficial/simplio-app/commit/1a44250768a4750abbe98e64dcf3b9d9478dd59c) Fix app load - tenhobi</sub> |
 | <sub>2023-05-10 07:14:53</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f739d5821e70d2e2dc135431a90754da1d64b378)</sub> | <sub>[f739d58](https://github.com/SimplioOfficial/simplio-app/commit/f739d5821e70d2e2dc135431a90754da1d64b378) Fix vertical100 (#569) - tenhobi</sub> |
 | <sub>2023-05-10 05:28:01</sub> | <sub>[[simplio-app:fix/vertical100] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f64d36eceb3ff372be3b416af7d68930bc76b3c)</sub> | <sub>[7f64d36](https://github.com/SimplioOfficial/simplio-app/commit/7f64d36eceb3ff372be3b416af7d68930bc76b3c) Fix vertical100 - tenhobi</sub> |
