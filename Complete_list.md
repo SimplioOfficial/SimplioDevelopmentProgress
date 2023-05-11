@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-11 07:24:08</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/788c2df43f6cc615142245f024c2bae8c40d9796)</sub> | <sub>[788c2df](https://github.com/SimplioOfficial/simplio-app/commit/788c2df43f6cc615142245f024c2bae8c40d9796) Add dev test only screen for wallets - tenhobi</sub> |
 | <sub>2023-05-11 06:06:40</sub> | <sub>[[simplio-app:task/509\-new\-coins] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8319b33028f964181dbcd2d114edd3324f7e287b)</sub> | <sub>[8319b33](https://github.com/SimplioOfficial/simplio-app/commit/8319b33028f964181dbcd2d114edd3324f7e287b) Update fastline bundler - tenhobi</sub> |
 | <sub>2023-05-11 05:59:18</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/681ea7706468cd619b248e0e84c869f4d1d73b84)</sub> | <sub>[681ea77](https://github.com/SimplioOfficial/simplio-app/commit/681ea7706468cd619b248e0e84c869f4d1d73b84) Fix link and texts - tenhobi</sub> |
 | <sub>2023-05-10 20:52:17</sub> | <sub>[[simplio-app:task/509\-new\-coins] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/903546a1ec2db2ebebfc876ab0bb82671e095161)</sub> | <sub>[903546a](https://github.com/SimplioOfficial/simplio-app/commit/903546a1ec2db2ebebfc876ab0bb82671e095161) Add deap coin and magic beasties - vrbasji</sub> |
