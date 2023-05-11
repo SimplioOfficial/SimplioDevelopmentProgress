@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-11 08:58:07</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e6a327ac3499a7b14715c71f463d09e08b3a3b2)</sub> | <sub>[4e6a327](https://github.com/SimplioOfficial/simplio-app/commit/4e6a327ac3499a7b14715c71f463d09e08b3a3b2) fix formatting - ciripel</sub> |
 | <sub>2023-05-11 08:49:14</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b88949dd562cd67acde312c6fae7da3070b9e897)</sub> | <sub>[b88949d](https://github.com/SimplioOfficial/simplio-app/commit/b88949dd562cd67acde312c6fae7da3070b9e897) Dont throw away old wallet - tenhobi</sub> |
 | <sub>2023-05-11 08:29:59</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0677a06d9fa52cadccc7eae410a793386ac864b)</sub> | <sub>[f0677a0](https://github.com/SimplioOfficial/simplio-app/commit/f0677a06d9fa52cadccc7eae410a793386ac864b) Use is prod - tenhobi</sub> |
 | <sub>2023-05-11 08:29:23</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/55cec6f0f10284e06e7d60662bd7b706f0c4ac3c)</sub> | <sub>[55cec6f](https://github.com/SimplioOfficial/simplio-app/commit/55cec6f0f10284e06e7d60662bd7b706f0c4ac3c) update - tenhobi</sub> |
