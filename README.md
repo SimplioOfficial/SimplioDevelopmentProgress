@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4856 commits since 10/09/2021. You can see the complete history in
+There is a total of 4857 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-12 09:12:58</sub> | <sub>[[simplio-app:task/556\-improve\-QR\-reader\-standards\-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8196637dfeaf50d8f4929864102b2ea8598fee5)</sub> | <sub>[e819663](https://github.com/SimplioOfficial/simplio-app/commit/e8196637dfeaf50d8f4929864102b2ea8598fee5) Improve QR reader standards support - ciripel</sub> |
 | <sub>2023-05-12 07:23:09</sub> | <sub>[[sio_core_light:feat/add\-address\-uri\-parser\-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/6db125109dd7baec80229edecf25a7e990ba1f89)</sub> | <sub>[6db1251](https://github.com/SimplioOfficial/sio_core_light/commit/6db125109dd7baec80229edecf25a7e990ba1f89) remove coverage - ciripel</sub> |
 | <sub>2023-05-12 07:14:49</sub> | <sub>[[sio_core_light:feat/add\-address\-uri\-parser\-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/61b4b23852d7dceea00ea4d9304159822b2bd5aa)</sub> | <sub>[61b4b23](https://github.com/SimplioOfficial/sio_core_light/commit/61b4b23852d7dceea00ea4d9304159822b2bd5aa) add implementation - ciripel</sub> |
 | <sub>2023-05-12 06:09:21</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ece11d2d460007f8b37981983604a9b198a2250a)</sub> | <sub>[ece11d2](https://github.com/SimplioOfficial/simplio-app/commit/ece11d2d460007f8b37981983604a9b198a2250a) Fix padding in inventory (#573) - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4856 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-11 10:01:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf9784be7c2891272c4beb89df0dcc0a7eac8e98)</sub> | <sub>[bf9784b](https://github.com/SimplioOfficial/simplio-app/commit/bf9784be7c2891272c4beb89df0dcc0a7eac8e98) Add deap coin and magic beasties (#571) - JiriVrbas\-Eria</sub> |
 | <sub>2023-05-11 10:01:05</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/24e4c76feaa6727fe9309f71cb1590463647a0c3)</sub> | <sub>[24e4c76](https://github.com/SimplioOfficial/simplio-app/commit/24e4c76feaa6727fe9309f71cb1590463647a0c3) Fix app load (#570) - tenhobi</sub> |
 | <sub>2023-05-11 09:47:53</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4765cf23f09d338bb5e409536f8f53b393ce0d5e)</sub> | <sub>[4765cf2](https://github.com/SimplioOfficial/simplio-app/commit/4765cf23f09d338bb5e409536f8f53b393ce0d5e) update - tenhobi</sub> |
-| <sub>2023-05-11 08:58:07</sub> | <sub>[[simplio-app:task/534\-basic\-restore\-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e6a327ac3499a7b14715c71f463d09e08b3a3b2)</sub> | <sub>[4e6a327](https://github.com/SimplioOfficial/simplio-app/commit/4e6a327ac3499a7b14715c71f463d09e08b3a3b2) fix formatting - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
