@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-12 11:33:37</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behavior] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a)</sub> | <sub>[0d1b1fc](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a) bug/388-improve-scroll-behavior - ciripel</sub> |
 | <sub>2023-05-12 10:07:11</sub> | <sub>[[simplio-app:task/554\-switch\-to\-production\-backend\-on\-published\-app] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37539aab6edb79a960051d2ed0f1045c7a01717e)</sub> | <sub>[37539aa](https://github.com/SimplioOfficial/simplio-app/commit/37539aab6edb79a960051d2ed0f1045c7a01717e) task/554-switch-to-production-backend-on-publis... - ciripel</sub> |
 | <sub>2023-05-12 09:50:59</sub> | <sub>[[simplio-app:task/556\-improve\-QR\-reader\-standards\-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/46de066483a0e842f104e36b4f52a0d94ef9ea8a)</sub> | <sub>[46de066](https://github.com/SimplioOfficial/simplio-app/commit/46de066483a0e842f104e36b4f52a0d94ef9ea8a) increase sio_core_light ver to 1.1.10 - ciripel</sub> |
 | <sub>2023-05-12 09:35:09</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1\.1\.10](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.10)</sub> | <sub>_No Commits_</sub> |
