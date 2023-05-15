@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4878 commits since 10/09/2021. You can see the complete history in
+There is a total of 4879 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-15 14:31:24</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af77e360ccae48be156698969e26cd3a78c720c6)</sub> | <sub>[af77e36](https://github.com/SimplioOfficial/simplio-app/commit/af77e360ccae48be156698969e26cd3a78c720c6) Fix reload indicator position - tenhobi</sub> |
 | <sub>2023-05-15 13:26:24</sub> | <sub>[[simplio-app:bug/561\-handle\-debounce\-better\-on\-buy\-and\-swap\-bloc] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f7d0e0c01cb0908d6cf67a19dca3fb94e66a0d7d)</sub> | <sub>[f7d0e0c](https://github.com/SimplioOfficial/simplio-app/commit/f7d0e0c01cb0908d6cf67a19dca3fb94e66a0d7d) bug/561-fix-debounce-on-buy-and-swap-bloc - ciripel</sub> |
 | <sub>2023-05-15 12:00:52</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/716146487be7177cc8c4d3ad5de81fe9fe1b6e2e)</sub> | <sub>[7161464](https://github.com/SimplioOfficial/simplio-app/commit/716146487be7177cc8c4d3ad5de81fe9fe1b6e2e) Simplify - tenhobi</sub> |
 | <sub>2023-05-15 10:57:43</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4dc3afda14778aea2021a9a62e9c3a46209d930b)</sub> | <sub>[4dc3afd](https://github.com/SimplioOfficial/simplio-app/commit/4dc3afda14778aea2021a9a62e9c3a46209d930b) Remove unused asset - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4878 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-15 08:36:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/904e0af8458f11f4d3e631959c05187e2d62f23d)</sub> | <sub>[904e0af](https://github.com/SimplioOfficial/simplio-app/commit/904e0af8458f11f4d3e631959c05187e2d62f23d) bug/fix-null-check-operator-on-buy-convert (#579) - ciripel</sub> |
 | <sub>2023-05-15 08:30:56</sub> | <sub>[[simplio-app:bug/fix\-null\-check\-operator\-on\-buy\-convert] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3cb121769835d8d1dfc90eba43d1ae117a2e666e)</sub> | <sub>[3cb1217](https://github.com/SimplioOfficial/simplio-app/commit/3cb121769835d8d1dfc90eba43d1ae117a2e666e) bug/fix-null-check-operator-on-buy-convert - ciripel</sub> |
 | <sub>2023-05-12 14:38:54</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/2e08488843803257c959d44240a8b3a5c392afc0)</sub> | <sub>[2e08488](https://github.com/SimplioOfficial/sio_core_light/commit/2e08488843803257c959d44240a8b3a5c392afc0) make usedPrefix caseInsensitive - ciripel</sub> |
-| <sub>2023-05-12 13:25:35</sub> | <sub>[[simplio-app:task/540\-password\-trim] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/699e55f62b4ca512cb0c6046796a821e994bd970)</sub> | <sub>[699e55f](https://github.com/SimplioOfficial/simplio-app/commit/699e55f62b4ca512cb0c6046796a821e994bd970) Trim password and email before sending it to API - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
