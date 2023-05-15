@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4874 commits since 10/09/2021. You can see the complete history in
+There is a total of 4875 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-15 10:47:23</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/33266c2238e7...9d94b012d063)</sub> | <sub>[24e4c76](https://github.com/SimplioOfficial/simplio-app/commit/24e4c76feaa6727fe9309f71cb1590463647a0c3) Fix app load (#570) - tenhobi<br>[bf9784b](https://github.com/SimplioOfficial/simplio-app/commit/bf9784be7c2891272c4beb89df0dcc0a7eac8e98) Add deap coin and magic beasties (#571) - JiriVrbas\-Eria<br>[76a090b](https://github.com/SimplioOfficial/simplio-app/commit/76a090b487b62b48f37f6c4ac2dc9a875018b397) task/534-basic-restore-seed (#566) - tenhobi<br>[ece11d2](https://github.com/SimplioOfficial/simplio-app/commit/ece11d2d460007f8b37981983604a9b198a2250a) Fix padding in inventory (#573) - tenhobi<br>[904e0af](https://github.com/SimplioOfficial/simplio-app/commit/904e0af8458f11f4d3e631959c05187e2d62f23d) bug/fix-null-check-operator-on-buy-convert (#579) - ciripel</sub> |
 | <sub>2023-05-15 10:42:09</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33266c2238e71dfd44bfc87d987c4e63a767330c)</sub> | <sub>[33266c2](https://github.com/SimplioOfficial/simplio-app/commit/33266c2238e71dfd44bfc87d987c4e63a767330c) Formating - tenhobi</sub> |
 | <sub>2023-05-15 10:41:12</sub> | <sub>[[simplio-app:task/491\-redesign\-header] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d81b318d9ff18363ac005169c86fb5719b3f57e5)</sub> | <sub>[d81b318](https://github.com/SimplioOfficial/simplio-app/commit/d81b318d9ff18363ac005169c86fb5719b3f57e5) Update header - tenhobi</sub> |
 | <sub>2023-05-15 08:36:58</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/904e0af8458f11f4d3e631959c05187e2d62f23d)</sub> | <sub>[904e0af](https://github.com/SimplioOfficial/simplio-app/commit/904e0af8458f11f4d3e631959c05187e2d62f23d) bug/fix-null-check-operator-on-buy-convert (#579) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4874 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-12 13:05:01</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/cd2809c009a7ee0dd1689c1b7230b8bf4438d2f8)</sub> | <sub>[cd2809c](https://github.com/SimplioOfficial/sio_core_light/commit/cd2809c009a7ee0dd1689c1b7230b8bf4438d2f8) refactor address parsing - ciripel</sub> |
 | <sub>2023-05-12 12:52:11</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c97bfc9e7fd774253daa3746dd8c7efbc597aaed)</sub> | <sub>[c97bfc9](https://github.com/SimplioOfficial/simplio-app/commit/c97bfc9e7fd774253daa3746dd8c7efbc597aaed) improve bouncing - ciripel</sub> |
 | <sub>2023-05-12 11:38:47</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a)</sub> | <sub>[0d1b1fc](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a) bug/388-improve-scroll-behavior - ciripel</sub> |
-| <sub>2023-05-12 11:38:29</sub> | <sub>[[simplio-app:bug/551\-fix\-currency\-and\-amount\-formating] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc41400a789a5ae66b3b6cffc95df4e3539ea696)</sub> | <sub>[bc41400](https://github.com/SimplioOfficial/simplio-app/commit/bc41400a789a5ae66b3b6cffc95df4e3539ea696) bug/551-fix-currency-and-amount-formatting - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
