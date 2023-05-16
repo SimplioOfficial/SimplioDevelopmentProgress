@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-16 14:53:15</sub> | <sub>[[simplio-app:bug/555\-1inch\-swap\-add\-new\-arguments\-for\-passing\-correct\-values\-to\-connector] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/275ef3c5c8ad3a7c2e217c485bb91b158e2cd4da)</sub> | <sub>[275ef3c](https://github.com/SimplioOfficial/simplio-app/commit/275ef3c5c8ad3a7c2e217c485bb91b158e2cd4da) send convert userAgreedAmount to initialize - ciripel</sub> |
 | <sub>2023-05-16 14:22:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/168cfd44e7f5...a6d8e0a0b08f)</sub> |
 | <sub>2023-05-16 14:20:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/23f747bbd65dd9fa80a0606c435f1724ae63ff04)</sub> | <sub>[23f747b](https://github.com/SimplioOfficial/simplio-app/commit/23f747bbd65dd9fa80a0606c435f1724ae63ff04) bug/388-improve-scroll-behavior (#577) - ciripel</sub> |
 | <sub>2023-05-16 14:20:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c97bfc9e7fd7...b2ef4d6b10e9)</sub> |
