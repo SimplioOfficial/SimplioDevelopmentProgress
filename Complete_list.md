@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-16 11:51:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e335b8c997168d71998afda58326800c1b76383)</sub> | <sub>[1e335b8](https://github.com/SimplioOfficial/simplio-app/commit/1e335b8c997168d71998afda58326800c1b76383) Task/556-improve-qr-reader-standards-support (#... - ciripel</sub> |
 | <sub>2023-05-16 11:49:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6ac404b98267da9ef179b53e73a8ce873373d85)</sub> | <sub>[c6ac404](https://github.com/SimplioOfficial/simplio-app/commit/c6ac404b98267da9ef179b53e73a8ce873373d85) task/554-switch-to-production-backend-on-publis... - ciripel</sub> |
 | <sub>2023-05-16 11:49:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e12570096cb73fb12bc7cbd112228ff8b595179a)</sub> | <sub>[e125700](https://github.com/SimplioOfficial/simplio-app/commit/e12570096cb73fb12bc7cbd112228ff8b595179a) bug/551-fix-currency-and-amount-formatting (#576) - ciripel</sub> |
 | <sub>2023-05-16 11:48:34</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/25bb925a9dc944169e50199502ddce88d26e5298)</sub> | <sub>[25bb925](https://github.com/SimplioOfficial/simplio-app/commit/25bb925a9dc944169e50199502ddce88d26e5298) bug/561-fix-debounce-on-buy-and-swap-bloc (#580) - ciripel</sub> |
