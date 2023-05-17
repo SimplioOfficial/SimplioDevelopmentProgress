@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-17 13:53:47</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6eb321ef9712149a029495b986e09e3939c57790)</sub> | <sub>[6eb321e](https://github.com/SimplioOfficial/simplio-app/commit/6eb321ef9712149a029495b986e09e3939c57790) wip: adjustments in summary screen - ciripel</sub> |
 | <sub>2023-05-17 13:18:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/84c06f22749d...08bcca828b1c)</sub> |
 | <sub>2023-05-17 13:17:07</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147)</sub> | <sub>[84c06f2](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147) wip: asset_buy_screen_changes - ciripel</sub> |
 | <sub>2023-05-17 12:00:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb)</sub> | <sub>[36465c8](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb) task/539-discovery-pagination (#584) - tenhobi</sub> |
