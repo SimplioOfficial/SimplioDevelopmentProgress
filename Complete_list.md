@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-17 13:18:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/84c06f22749d...08bcca828b1c)</sub> |
+| <sub>2023-05-17 13:17:07</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147)</sub> | <sub>[84c06f2](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147) wip: asset_buy_screen_changes - ciripel</sub> |
 | <sub>2023-05-17 12:00:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb)</sub> | <sub>[36465c8](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb) task/539-discovery-pagination (#584) - tenhobi</sub> |
 | <sub>2023-05-17 10:08:37</sub> | <sub>[[simplio-app:task/539\-discovery\-pagination] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6eead9667eedef1368747ef1c63eac62d419f5d4)</sub> | <sub>[6eead96](https://github.com/SimplioOfficial/simplio-app/commit/6eead9667eedef1368747ef1c63eac62d419f5d4) Update current currency - tenhobi</sub> |
 | <sub>2023-05-17 09:42:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7071852785ef...b771fe865fdb)</sub> |

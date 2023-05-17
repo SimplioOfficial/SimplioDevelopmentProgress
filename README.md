@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4900 commits since 10/09/2021. You can see the complete history in
+There is a total of 4902 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-17 13:18:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/84c06f22749d...08bcca828b1c)</sub> |
+| <sub>2023-05-17 13:17:07</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147)</sub> | <sub>[84c06f2](https://github.com/SimplioOfficial/simplio-app/commit/84c06f22749d30e2dda649e1adcb6f237b1a4147) wip: asset_buy_screen_changes - ciripel</sub> |
 | <sub>2023-05-17 12:00:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb)</sub> | <sub>[36465c8](https://github.com/SimplioOfficial/simplio-app/commit/36465c89df493b32db259219abd3f85f990e4adb) task/539-discovery-pagination (#584) - tenhobi</sub> |
 | <sub>2023-05-17 10:08:37</sub> | <sub>[[simplio-app:task/539\-discovery\-pagination] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6eead9667eedef1368747ef1c63eac62d419f5d4)</sub> | <sub>[6eead96](https://github.com/SimplioOfficial/simplio-app/commit/6eead9667eedef1368747ef1c63eac62d419f5d4) Update current currency - tenhobi</sub> |
 | <sub>2023-05-17 09:42:57</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7071852785ef...b771fe865fdb)</sub> |
@@ -16,7 +18,5 @@ There is a total of 4900 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-16 14:22:08</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/168cfd44e7f5...a6d8e0a0b08f)</sub> |
 | <sub>2023-05-16 14:20:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/23f747bbd65dd9fa80a0606c435f1724ae63ff04)</sub> | <sub>[23f747b](https://github.com/SimplioOfficial/simplio-app/commit/23f747bbd65dd9fa80a0606c435f1724ae63ff04) bug/388-improve-scroll-behavior (#577) - ciripel</sub> |
 | <sub>2023-05-16 14:20:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/c97bfc9e7fd7...b2ef4d6b10e9)</sub> |
-| <sub>2023-05-16 14:02:21</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behaviour] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0d1b1fc0d0f7^...c97bfc9e7fd7)</sub> | <sub>[0d1b1fc](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a) bug/388-improve-scroll-behavior - ciripel<br>[c97bfc9](https://github.com/SimplioOfficial/simplio-app/commit/c97bfc9e7fd774253daa3746dd8c7efbc597aaed) improve bouncing - ciripel</sub> |
-| <sub>2023-05-16 14:01:40</sub> | <sub>[[simplio-app:bug/388\-improve\-scroll\-behavior] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0d1b1fc0d0f7^...c97bfc9e7fd7)</sub> | <sub>[0d1b1fc](https://github.com/SimplioOfficial/simplio-app/commit/0d1b1fc0d0f7d959ee1a9350604107a99bdbee3a) bug/388-improve-scroll-behavior - ciripel<br>[c97bfc9](https://github.com/SimplioOfficial/simplio-app/commit/c97bfc9e7fd774253daa3746dd8c7efbc597aaed) improve bouncing - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
