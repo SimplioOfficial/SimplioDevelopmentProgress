@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4924 commits since 10/09/2021. You can see the complete history in
+There is a total of 4925 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-18 12:58:45</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa)</sub> | <sub>[b4f1e0c](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa) add settings.example.json for vscode - ciripel</sub> |
 | <sub>2023-05-18 12:32:05</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a)</sub> | <sub>[a9359d2](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a) Use local CI templates, formatting before gener... - tenhobi</sub> |
 | <sub>2023-05-18 12:19:18</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2d427f474230ec4c26f8aea4e56e8b5c2d4b268a)</sub> | <sub>[2d427f4](https://github.com/SimplioOfficial/simplio-app/commit/2d427f474230ec4c26f8aea4e56e8b5c2d4b268a) Update CI - tenhobi</sub> |
 | <sub>2023-05-18 12:18:20</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb4d91f91f6c676a4c208678a1528c1cb801bab8)</sub> | <sub>[eb4d91f](https://github.com/SimplioOfficial/simplio-app/commit/eb4d91f91f6c676a4c208678a1528c1cb801bab8) Update CI - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4924 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-18 11:35:04</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9)</sub> | <sub>[b16f79a](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9) Use current branch for tests - tenhobi</sub> |
 | <sub>2023-05-18 11:21:17</sub> | <sub>[[simplio-app:task/564\-lints] 13 new commits](https://github.com/SimplioOfficial/simplio-app/compare/808d5a5b0abd^...9e70c93c7230)</sub> | <sub>[808d5a5](https://github.com/SimplioOfficial/simplio-app/commit/808d5a5b0abddb9a18858e81049e61ef835737ae) Use 120 characters per line, add .editorconfig - tenhobi<br>[0a657f2](https://github.com/SimplioOfficial/simplio-app/commit/0a657f2f1ea4268d9cf1d2768b5669bbd53fdfea) Add require_trailing_commas lint - tenhobi<br>[4e97f5a](https://github.com/SimplioOfficial/simplio-app/commit/4e97f5a64cbd43f5114c434c072137816f7bd9ad) add avoid_redundant_argument_values lint - tenhobi<br>[520f52a](https://github.com/SimplioOfficial/simplio-app/commit/520f52a17ccbf53826c66177fe092f15a106bfbd) Add prefer_final_locals lint - tenhobi<br>[31f93de](https://github.com/SimplioOfficial/simplio-app/commit/31f93debbab120e1ec7caaef36202fdd09f6e5e2) Add prefer_single_quotes lint - tenhobi</sub> |
 | <sub>2023-05-18 08:12:36</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79b364222441177273109c1b4998bcf7f3197422)</sub> | <sub>[79b3642](https://github.com/SimplioOfficial/simplio-app/commit/79b364222441177273109c1b4998bcf7f3197422) bug/555-1inch-swap-add-new-arguments-for-passin... - ciripel</sub> |
-| <sub>2023-05-18 08:12:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5eca4581db8a54b16ec16985a65c20212b40aa14)</sub> | <sub>[5eca458](https://github.com/SimplioOfficial/simplio-app/commit/5eca4581db8a54b16ec16985a65c20212b40aa14) bug/420-fix-bug-in-webview-WalletConnect (#582) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
