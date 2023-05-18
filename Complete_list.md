@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-18 12:08:52</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b5a8b152448647db171c51ae404651ae3fd761ef)</sub> | <sub>[b5a8b15](https://github.com/SimplioOfficial/simplio-app/commit/b5a8b152448647db171c51ae404651ae3fd761ef) Update CI - tenhobi</sub> |
 | <sub>2023-05-18 12:04:44</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5)</sub> | <sub>[c185273](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5) Update CI - tenhobi</sub> |
 | <sub>2023-05-18 11:47:10</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59)</sub> | <sub>[47b2b4e](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59) Use current branch - tenhobi</sub> |
 | <sub>2023-05-18 11:35:04</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9)</sub> | <sub>[b16f79a](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9) Use current branch for tests - tenhobi</sub> |
