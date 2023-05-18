@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4919 commits since 10/09/2021. You can see the complete history in
+There is a total of 4920 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-18 12:04:44</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5)</sub> | <sub>[c185273](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5) Update CI - tenhobi</sub> |
 | <sub>2023-05-18 11:47:10</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59)</sub> | <sub>[47b2b4e](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59) Use current branch - tenhobi</sub> |
 | <sub>2023-05-18 11:35:04</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9)</sub> | <sub>[b16f79a](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9) Use current branch for tests - tenhobi</sub> |
 | <sub>2023-05-18 11:21:17</sub> | <sub>[[simplio-app:task/564\-lints] 13 new commits](https://github.com/SimplioOfficial/simplio-app/compare/808d5a5b0abd^...9e70c93c7230)</sub> | <sub>[808d5a5](https://github.com/SimplioOfficial/simplio-app/commit/808d5a5b0abddb9a18858e81049e61ef835737ae) Use 120 characters per line, add .editorconfig - tenhobi<br>[0a657f2](https://github.com/SimplioOfficial/simplio-app/commit/0a657f2f1ea4268d9cf1d2768b5669bbd53fdfea) Add require_trailing_commas lint - tenhobi<br>[4e97f5a](https://github.com/SimplioOfficial/simplio-app/commit/4e97f5a64cbd43f5114c434c072137816f7bd9ad) add avoid_redundant_argument_values lint - tenhobi<br>[520f52a](https://github.com/SimplioOfficial/simplio-app/commit/520f52a17ccbf53826c66177fe092f15a106bfbd) Add prefer_final_locals lint - tenhobi<br>[31f93de](https://github.com/SimplioOfficial/simplio-app/commit/31f93debbab120e1ec7caaef36202fdd09f6e5e2) Add prefer_single_quotes lint - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4919 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-18 08:10:57</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ead6bef63aa424a1f66a96de97c4bf53eb6c0276)</sub> | <sub>[ead6bef](https://github.com/SimplioOfficial/simplio-app/commit/ead6bef63aa424a1f66a96de97c4bf53eb6c0276) task/389-unite-tab-behavior (#585) - tenhobi</sub> |
 | <sub>2023-05-18 07:45:47</sub> | <sub>[[simplio-app:task/389\-unite\-tab\-behavior] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e05f2e6a591a7fc2d01321c3794524ef2b5e3c84)</sub> | <sub>[e05f2e6](https://github.com/SimplioOfficial/simplio-app/commit/e05f2e6a591a7fc2d01321c3794524ef2b5e3c84) Put padding above tabs back - tenhobi</sub> |
 | <sub>2023-05-18 06:34:55</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3d6436e4e9ad19b8566ad1b8c1b9bf45735560c)</sub> | <sub>[a3d6436](https://github.com/SimplioOfficial/simplio-app/commit/a3d6436e4e9ad19b8566ad1b8c1b9bf45735560c) add localization - ciripel</sub> |
-| <sub>2023-05-18 06:26:27</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd230e5196e5b9479a6ff897fded4cfb4e7f9521)</sub> | <sub>[bd230e5](https://github.com/SimplioOfficial/simplio-app/commit/bd230e5196e5b9479a6ff897fded4cfb4e7f9521) fix: small improvements - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
