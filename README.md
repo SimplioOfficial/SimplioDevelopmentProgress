@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4911 commits since 10/09/2021. You can see the complete history in
+There is a total of 4912 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-18 07:45:47</sub> | <sub>[[simplio-app:task/389\-unite\-tab\-behavior] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e05f2e6a591a7fc2d01321c3794524ef2b5e3c84)</sub> | <sub>[e05f2e6](https://github.com/SimplioOfficial/simplio-app/commit/e05f2e6a591a7fc2d01321c3794524ef2b5e3c84) Put padding above tabs back - tenhobi</sub> |
 | <sub>2023-05-18 06:34:55</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a3d6436e4e9ad19b8566ad1b8c1b9bf45735560c)</sub> | <sub>[a3d6436](https://github.com/SimplioOfficial/simplio-app/commit/a3d6436e4e9ad19b8566ad1b8c1b9bf45735560c) add localization - ciripel</sub> |
 | <sub>2023-05-18 06:26:27</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd230e5196e5b9479a6ff897fded4cfb4e7f9521)</sub> | <sub>[bd230e5](https://github.com/SimplioOfficial/simplio-app/commit/bd230e5196e5b9479a6ff897fded4cfb4e7f9521) fix: small improvements - ciripel</sub> |
 | <sub>2023-05-18 06:20:13</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0957758fe17e8beb4a91a82570827bc0f2975b5)</sub> | <sub>[e095775](https://github.com/SimplioOfficial/simplio-app/commit/e0957758fe17e8beb4a91a82570827bc0f2975b5) update service level - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4911 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-17 16:14:59</sub> | <sub>[[simplio-app:task/389\-unite\-tab\-behavior] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b2c898d5a586...05afd90d3642)</sub> | <sub>[7bc5c82](https://github.com/SimplioOfficial/simplio-app/commit/7bc5c8212443b1c4ce4cd5a1cf66f6a6c4921456) Fix clipping content above pinned tabs - tenhobi<br>[05afd90](https://github.com/SimplioOfficial/simplio-app/commit/05afd90d3642b71cf7e1009d027aed09c15c4eb2) Use tab height for clipping - tenhobi</sub> |
 | <sub>2023-05-17 14:46:02</sub> | <sub>[[simplio-app:task/389\-unite\-tab\-behavior] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2c898d5a5867db2035fbc065a6d969cf61eceaf)</sub> | <sub>[b2c898d](https://github.com/SimplioOfficial/simplio-app/commit/b2c898d5a5867db2035fbc065a6d969cf61eceaf) Unify tabs, fix inventory scrolling effects - tenhobi</sub> |
 | <sub>2023-05-17 13:53:47</sub> | <sub>[[simplio-app:task/562\-add\-option\-to\-choose\-card\-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6eb321ef9712149a029495b986e09e3939c57790)</sub> | <sub>[6eb321e](https://github.com/SimplioOfficial/simplio-app/commit/6eb321ef9712149a029495b986e09e3939c57790) wip: adjustments in summary screen - ciripel</sub> |
-| <sub>2023-05-17 13:18:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/84c06f22749d...08bcca828b1c)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
