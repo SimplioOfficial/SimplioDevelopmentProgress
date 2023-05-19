@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-19 08:29:09</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2e5d7927718576100e84bf80d29599c15378bcca)</sub> | <sub>[2e5d792](https://github.com/SimplioOfficial/simplio-app/commit/2e5d7927718576100e84bf80d29599c15378bcca) Remove unused DART_DEFINE_API_URL_DEV from _tes... - tenhobi</sub> |
 | <sub>2023-05-19 08:24:18</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca)</sub> | <sub>[c6f0d12](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca) Update test, add DART_DEFINE_API_URL_TEST - tenhobi</sub> |
 | <sub>2023-05-19 08:10:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3)</sub> | <sub>[f657642](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3) task/564-lints (#587) - tenhobi</sub> |
 | <sub>2023-05-18 12:58:45</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa)</sub> | <sub>[b4f1e0c](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa) add settings.example.json for vscode - ciripel</sub> |
