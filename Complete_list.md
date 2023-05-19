@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-19 08:10:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3)</sub> | <sub>[f657642](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3) task/564-lints (#587) - tenhobi</sub> |
 | <sub>2023-05-18 12:58:45</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa)</sub> | <sub>[b4f1e0c](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa) add settings.example.json for vscode - ciripel</sub> |
 | <sub>2023-05-18 12:32:05</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a)</sub> | <sub>[a9359d2](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a) Use local CI templates, formatting before gener... - tenhobi</sub> |
 | <sub>2023-05-18 12:19:18</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2d427f474230ec4c26f8aea4e56e8b5c2d4b268a)</sub> | <sub>[2d427f4](https://github.com/SimplioOfficial/simplio-app/commit/2d427f474230ec4c26f8aea4e56e8b5c2d4b268a) Update CI - tenhobi</sub> |
