@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4926 commits since 10/09/2021. You can see the complete history in
+There is a total of 4927 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-19 08:24:18</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca)</sub> | <sub>[c6f0d12](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca) Update test, add DART_DEFINE_API_URL_TEST - tenhobi</sub> |
 | <sub>2023-05-19 08:10:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3)</sub> | <sub>[f657642](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3) task/564-lints (#587) - tenhobi</sub> |
 | <sub>2023-05-18 12:58:45</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa)</sub> | <sub>[b4f1e0c](https://github.com/SimplioOfficial/simplio-app/commit/b4f1e0c722254c15477723dd03e57a1c54eaaefa) add settings.example.json for vscode - ciripel</sub> |
 | <sub>2023-05-18 12:32:05</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a)</sub> | <sub>[a9359d2](https://github.com/SimplioOfficial/simplio-app/commit/a9359d279d556f652dc877d61f0d3a815166298a) Use local CI templates, formatting before gener... - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4926 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-18 12:04:44</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5)</sub> | <sub>[c185273](https://github.com/SimplioOfficial/simplio-app/commit/c185273a7bdfc933dd63d860bfdee164eec6f7b5) Update CI - tenhobi</sub> |
 | <sub>2023-05-18 11:47:10</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59)</sub> | <sub>[47b2b4e](https://github.com/SimplioOfficial/simplio-app/commit/47b2b4eb6d8d306bd9451d0d86fbbaf7ceae6c59) Use current branch - tenhobi</sub> |
 | <sub>2023-05-18 11:35:04</sub> | <sub>[[simplio-app:task/564\-lints] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9)</sub> | <sub>[b16f79a](https://github.com/SimplioOfficial/simplio-app/commit/b16f79afedb7cf61c753b338be1650c2136e20b9) Use current branch for tests - tenhobi</sub> |
-| <sub>2023-05-18 11:21:17</sub> | <sub>[[simplio-app:task/564\-lints] 13 new commits](https://github.com/SimplioOfficial/simplio-app/compare/808d5a5b0abd^...9e70c93c7230)</sub> | <sub>[808d5a5](https://github.com/SimplioOfficial/simplio-app/commit/808d5a5b0abddb9a18858e81049e61ef835737ae) Use 120 characters per line, add .editorconfig - tenhobi<br>[0a657f2](https://github.com/SimplioOfficial/simplio-app/commit/0a657f2f1ea4268d9cf1d2768b5669bbd53fdfea) Add require_trailing_commas lint - tenhobi<br>[4e97f5a](https://github.com/SimplioOfficial/simplio-app/commit/4e97f5a64cbd43f5114c434c072137816f7bd9ad) add avoid_redundant_argument_values lint - tenhobi<br>[520f52a](https://github.com/SimplioOfficial/simplio-app/commit/520f52a17ccbf53826c66177fe092f15a106bfbd) Add prefer_final_locals lint - tenhobi<br>[31f93de](https://github.com/SimplioOfficial/simplio-app/commit/31f93debbab120e1ec7caaef36202fdd09f6e5e2) Add prefer_single_quotes lint - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
