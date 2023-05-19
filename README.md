@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4935 commits since 10/09/2021. You can see the complete history in
+There is a total of 4936 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-19 15:13:44</sub> | <sub>[[simplio-app:revert\-590\-deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a12a1dcf1e4c063de3fce39352b7db4105b4412)</sub> | <sub>[1a12a1d](https://github.com/SimplioOfficial/simplio-app/commit/1a12a1dcf1e4c063de3fce39352b7db4105b4412) Revert "Fix referenced secrets (#590)" - tenhobi</sub> |
 | <sub>2023-05-19 14:36:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8435be4f558047f142b8c47714a6d4f6a467b7c3)</sub> | <sub>[8435be4](https://github.com/SimplioOfficial/simplio-app/commit/8435be4f558047f142b8c47714a6d4f6a467b7c3) Fix referenced secrets (#590) - tenhobi</sub> |
 | <sub>2023-05-19 14:31:52</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/29996dd9d6640b07d501fef704b9b59afc5c0561)</sub> | <sub>[29996dd](https://github.com/SimplioOfficial/simplio-app/commit/29996dd9d6640b07d501fef704b9b59afc5c0561) Merge dev to master (#589) - tenhobi</sub> |
 | <sub>2023-05-19 14:16:20</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/487101ddef2d...0ede0e097b42)</sub> | <sub>[6f2f81f](https://github.com/SimplioOfficial/simplio-app/commit/6f2f81f679b8884e703d9859b0b4f8f274cc14ef) Configure prod test dev deploy (#588) - tenhobi<br>[0ede0e0](https://github.com/SimplioOfficial/simplio-app/commit/0ede0e097b42f197f28e5f817cb6ab1f0b6d7f86) Merge branch 'dev' into deploy-prod-test-dev - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 4935 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-19 13:54:17</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8b24d2a4086bc1055761da19f8efab62a42b0bb)</sub> | <sub>[e8b24d2](https://github.com/SimplioOfficial/simplio-app/commit/e8b24d2a4086bc1055761da19f8efab62a42b0bb) Use dev server for test now - tenhobi</sub> |
 | <sub>2023-05-19 08:29:09</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2e5d7927718576100e84bf80d29599c15378bcca)</sub> | <sub>[2e5d792](https://github.com/SimplioOfficial/simplio-app/commit/2e5d7927718576100e84bf80d29599c15378bcca) Remove unused DART_DEFINE_API_URL_DEV from _tes... - tenhobi</sub> |
 | <sub>2023-05-19 08:24:18</sub> | <sub>[[simplio-app:deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca)</sub> | <sub>[c6f0d12](https://github.com/SimplioOfficial/simplio-app/commit/c6f0d1227d9b97be24b0c5938acd869ba6d99cca) Update test, add DART_DEFINE_API_URL_TEST - tenhobi</sub> |
-| <sub>2023-05-19 08:10:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3)</sub> | <sub>[f657642](https://github.com/SimplioOfficial/simplio-app/commit/f65764224e298944380299ed20d0b2aac40d33b3) task/564-lints (#587) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
