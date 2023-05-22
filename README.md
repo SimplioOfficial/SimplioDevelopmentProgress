@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4944 commits since 10/09/2021. You can see the complete history in
+There is a total of 4945 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-22 20:22:01</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0b05a9bc0ad280013965634244ff557130c4f1f)</sub> | <sub>[d0b05a9](https://github.com/SimplioOfficial/simplio-app/commit/d0b05a9bc0ad280013965634244ff557130c4f1f) fixed Headers in CustomScrollView screens - ciripel</sub> |
 | <sub>2023-05-22 19:00:45</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75e9b986f1bc7e7752e85925ef43598793b8aaa3)</sub> | <sub>[75e9b98](https://github.com/SimplioOfficial/simplio-app/commit/75e9b986f1bc7e7752e85925ef43598793b8aaa3) pop Detail Screen after removing asset - ciripel</sub> |
 | <sub>2023-05-22 18:48:24</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a13d7a368084e45aab69104bf782d21b80110c5)</sub> | <sub>[4a13d7a](https://github.com/SimplioOfficial/simplio-app/commit/4a13d7a368084e45aab69104bf782d21b80110c5) finish AssetDetail transactions - ciripel</sub> |
 | <sub>2023-05-22 15:12:30</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3a68609f3eb3ba3d06f20a239fdd40a0186a4c11)</sub> | <sub>[3a68609](https://github.com/SimplioOfficial/simplio-app/commit/3a68609f3eb3ba3d06f20a239fdd40a0186a4c11) Update LICENSE (#593) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4944 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-22 10:12:40</sub> | <sub>[[simplio-app:task/495\-transaction\-status] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/971797bf2cdf7d57333ce96611c548cb73cb81cd)</sub> | <sub>[971797b](https://github.com/SimplioOfficial/simplio-app/commit/971797bf2cdf7d57333ce96611c548cb73cb81cd) Init - tenhobi</sub> |
 | <sub>2023-05-19 15:36:46</sub> | <sub>[[simplio-app:master] 17 new commits](https://github.com/SimplioOfficial/simplio-app/compare/29996dd9d664...c2838329451a)</sub> | <sub>[1e56b27](https://github.com/SimplioOfficial/simplio-app/commit/1e56b278d21a7e02c6684f4d3981aa773599cf36) task/491-redesign-header (#572) - tenhobi<br>[6f842a4](https://github.com/SimplioOfficial/simplio-app/commit/6f842a487c7a942f3844448a65623d285ab99def) Trim password and email before sending it to AP... - tenhobi<br>[25bb925](https://github.com/SimplioOfficial/simplio-app/commit/25bb925a9dc944169e50199502ddce88d26e5298) bug/561-fix-debounce-on-buy-and-swap-bloc (#580) - ciripel<br>[e125700](https://github.com/SimplioOfficial/simplio-app/commit/e12570096cb73fb12bc7cbd112228ff8b595179a) bug/551-fix-currency-and-amount-formatting (#576) - ciripel<br>[c6ac404](https://github.com/SimplioOfficial/simplio-app/commit/c6ac404b98267da9ef179b53e73a8ce873373d85) task/554-switch-to-production-backend-on-publis... - ciripel</sub> |
 | <sub>2023-05-19 15:13:44</sub> | <sub>[[simplio-app:revert\-590\-deploy\-prod\-test\-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a12a1dcf1e4c063de3fce39352b7db4105b4412)</sub> | <sub>[1a12a1d](https://github.com/SimplioOfficial/simplio-app/commit/1a12a1dcf1e4c063de3fce39352b7db4105b4412) Revert "Fix referenced secrets (#590)" - tenhobi</sub> |
-| <sub>2023-05-19 14:36:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8435be4f558047f142b8c47714a6d4f6a467b7c3)</sub> | <sub>[8435be4](https://github.com/SimplioOfficial/simplio-app/commit/8435be4f558047f142b8c47714a6d4f6a467b7c3) Fix referenced secrets (#590) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
