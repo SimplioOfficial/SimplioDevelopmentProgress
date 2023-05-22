@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-22 19:00:45</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75e9b986f1bc7e7752e85925ef43598793b8aaa3)</sub> | <sub>[75e9b98](https://github.com/SimplioOfficial/simplio-app/commit/75e9b986f1bc7e7752e85925ef43598793b8aaa3) pop Detail Screen after removing asset - ciripel</sub> |
 | <sub>2023-05-22 18:48:24</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4a13d7a368084e45aab69104bf782d21b80110c5)</sub> | <sub>[4a13d7a](https://github.com/SimplioOfficial/simplio-app/commit/4a13d7a368084e45aab69104bf782d21b80110c5) finish AssetDetail transactions - ciripel</sub> |
 | <sub>2023-05-22 15:12:30</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3a68609f3eb3ba3d06f20a239fdd40a0186a4c11)</sub> | <sub>[3a68609](https://github.com/SimplioOfficial/simplio-app/commit/3a68609f3eb3ba3d06f20a239fdd40a0186a4c11) Update LICENSE (#593) - ciripel</sub> |
 | <sub>2023-05-22 15:11:59</sub> | <sub>[[simplio-app:ciripel\-corrected\-license] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c531f9930504f7c690ac0b16446fd4280cbfe68e)</sub> | <sub>[c531f99](https://github.com/SimplioOfficial/simplio-app/commit/c531f9930504f7c690ac0b16446fd4280cbfe68e) Update LICENSE - ciripel</sub> |
