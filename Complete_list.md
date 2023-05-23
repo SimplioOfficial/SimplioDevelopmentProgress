@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-23 11:36:32</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2d212560b2fefb541fb3d6f3787471e58584cdb)</sub> | <sub>[d2d2125](https://github.com/SimplioOfficial/simplio-app/commit/d2d212560b2fefb541fb3d6f3787471e58584cdb) added buildWhen - ciripel</sub> |
 | <sub>2023-05-23 11:26:43</sub> | <sub>[[simplio-app:task/495\-transaction\-status] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2f887c97fe407d7e8157826325ad044a0037e474)</sub> | <sub>[2f887c9](https://github.com/SimplioOfficial/simplio-app/commit/2f887c97fe407d7e8157826325ad044a0037e474) Remove test data - tenhobi</sub> |
 | <sub>2023-05-23 11:23:40</sub> | <sub>[[simplio-app:task/495\-transaction\-status] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8fd0a99d0f3092f0c37400f7be7f21e199c230d)</sub> | <sub>[e8fd0a9](https://github.com/SimplioOfficial/simplio-app/commit/e8fd0a99d0f3092f0c37400f7be7f21e199c230d) Update - tenhobi</sub> |
 | <sub>2023-05-23 11:13:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/065d722222a5fce0337aee72f70acb22bd9d1a70)</sub> | <sub>[065d722](https://github.com/SimplioOfficial/simplio-app/commit/065d722222a5fce0337aee72f70acb22bd9d1a70) Update app bar (#594) - tenhobi</sub> |
