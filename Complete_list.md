@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-23 11:13:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/065d722222a5fce0337aee72f70acb22bd9d1a70)</sub> | <sub>[065d722](https://github.com/SimplioOfficial/simplio-app/commit/065d722222a5fce0337aee72f70acb22bd9d1a70) Update app bar (#594) - tenhobi</sub> |
 | <sub>2023-05-23 10:35:11</sub> | <sub>[[simplio-app:task/495\-transaction\-status] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b7b3f9b13d8bd6ad7f5d07496e30a09fda66d8d)</sub> | <sub>[3b7b3f9](https://github.com/SimplioOfficial/simplio-app/commit/3b7b3f9b13d8bd6ad7f5d07496e30a09fda66d8d) Finish transactions - tenhobi</sub> |
 | <sub>2023-05-23 09:24:09</sub> | <sub>[[simplio-app:task/580\-app\-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e82b9d382ba936c563ee7b287a49efc5d5e4106)</sub> | <sub>[5e82b9d](https://github.com/SimplioOfficial/simplio-app/commit/5e82b9d382ba936c563ee7b287a49efc5d5e4106) Update app bar - tenhobi</sub> |
 | <sub>2023-05-22 20:22:01</sub> | <sub>[[simplio-app:task/576\-wallet\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d0b05a9bc0ad280013965634244ff557130c4f1f)</sub> | <sub>[d0b05a9](https://github.com/SimplioOfficial/simplio-app/commit/d0b05a9bc0ad280013965634244ff557130c4f1f) fixed Headers in CustomScrollView screens - ciripel</sub> |
