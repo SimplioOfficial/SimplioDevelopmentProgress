@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-23 16:36:45</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2)</sub> | <sub>[c0c6c89](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2) removed useless code - ciripel</sub> |
 | <sub>2023-05-23 16:29:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc)</sub> | <sub>[f3e0c49](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc) bug/585-fix-refresh-balance-on-swipe (#598) - ciripel</sub> |
 | <sub>2023-05-23 16:25:58</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d25317a4bd8dd262a6b438f7abcba5d4350e7b59)</sub> | <sub>[d25317a](https://github.com/SimplioOfficial/simplio-app/commit/d25317a4bd8dd262a6b438f7abcba5d4350e7b59) bug/579-formatting-usd-values - ciripel</sub> |
 | <sub>2023-05-23 15:49:11</sub> | <sub>[[simplio-app:bug/585\-fix\-refresh\-balance\-on\-swipe] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7afd087cfb1063075a03fdc322ed68032bee54ba)</sub> | <sub>[7afd087](https://github.com/SimplioOfficial/simplio-app/commit/7afd087cfb1063075a03fdc322ed68032bee54ba) make always scrollable - ciripel</sub> |
