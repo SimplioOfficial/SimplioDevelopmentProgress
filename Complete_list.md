@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-23 18:24:14</sub> | <sub>[[simplio-app:transaction\-buy\-changes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74ba6448d20d776d2ca56c695be48aae625d3476)</sub> | <sub>[74ba644](https://github.com/SimplioOfficial/simplio-app/commit/74ba6448d20d776d2ca56c695be48aae625d3476) fixed precision on buyAsset - ciripel</sub> |
 | <sub>2023-05-23 17:14:09</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35fde68d7fbdb0dd9bf5d0781078db344adba466)</sub> | <sub>[35fde68](https://github.com/SimplioOfficial/simplio-app/commit/35fde68d7fbdb0dd9bf5d0781078db344adba466) fix 0 and negative values - ciripel</sub> |
 | <sub>2023-05-23 16:36:45</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2)</sub> | <sub>[c0c6c89](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2) removed useless code - ciripel</sub> |
 | <sub>2023-05-23 16:29:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc)</sub> | <sub>[f3e0c49](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc) bug/585-fix-refresh-balance-on-swipe (#598) - ciripel</sub> |
