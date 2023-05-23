@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4961 commits since 10/09/2021. You can see the complete history in
+There is a total of 4962 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-23 17:14:09</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35fde68d7fbdb0dd9bf5d0781078db344adba466)</sub> | <sub>[35fde68](https://github.com/SimplioOfficial/simplio-app/commit/35fde68d7fbdb0dd9bf5d0781078db344adba466) fix 0 and negative values - ciripel</sub> |
 | <sub>2023-05-23 16:36:45</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2)</sub> | <sub>[c0c6c89](https://github.com/SimplioOfficial/simplio-app/commit/c0c6c893172d389f96517fece7c53edf8e5b7aa2) removed useless code - ciripel</sub> |
 | <sub>2023-05-23 16:29:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc)</sub> | <sub>[f3e0c49](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc) bug/585-fix-refresh-balance-on-swipe (#598) - ciripel</sub> |
 | <sub>2023-05-23 16:25:58</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d25317a4bd8dd262a6b438f7abcba5d4350e7b59)</sub> | <sub>[d25317a](https://github.com/SimplioOfficial/simplio-app/commit/d25317a4bd8dd262a6b438f7abcba5d4350e7b59) bug/579-formatting-usd-values - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4961 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-23 13:02:19</sub> | <sub>[[simplio-app:master] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3a68609f3eb3...33df5b02bae2)</sub> | <sub>[dccc394](https://github.com/SimplioOfficial/simplio-app/commit/dccc3942f2a7d5b58ecd275347c8b068a2537faa) Update app bar (#594) - tenhobi<br>[c9fe0a0](https://github.com/SimplioOfficial/simplio-app/commit/c9fe0a0fe5689cbe4b05f0f70511a6372c6adfd6) task/495-transaction-status (#592) - tenhobi<br>[33df5b0](https://github.com/SimplioOfficial/simplio-app/commit/33df5b02bae24bfe6392c74ba942a606dcf02af9) task/576-wallet-transaction-history (#595) - ciripel</sub> |
 | <sub>2023-05-23 12:02:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3bc010612db221d8fa05f9dfa9b4a0b1ca7e9c3f)</sub> | <sub>[3bc0106](https://github.com/SimplioOfficial/simplio-app/commit/3bc010612db221d8fa05f9dfa9b4a0b1ca7e9c3f) Update LICENSE (#593) - ciripel</sub> |
 | <sub>2023-05-23 12:00:25</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9bb0181b1824e061e6a1d6d7631cb50211082e3)</sub> | <sub>[e9bb018](https://github.com/SimplioOfficial/simplio-app/commit/e9bb0181b1824e061e6a1d6d7631cb50211082e3) task/576-wallet-transaction-history (#595) - ciripel</sub> |
-| <sub>2023-05-23 11:45:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8ca77764a7521df1bf505388bda1f30a4281c23e)</sub> | <sub>[8ca7776](https://github.com/SimplioOfficial/simplio-app/commit/8ca77764a7521df1bf505388bda1f30a4281c23e) task/495-transaction-status (#592) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
