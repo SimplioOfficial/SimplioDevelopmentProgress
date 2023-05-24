@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4973 commits since 10/09/2021. You can see the complete history in
+There is a total of 4974 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-24 11:52:16</sub> | <sub>[[simplio-app:bug/590\-fix\-swap\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5212e90d6984d625d16bb4fc63e9f3a2000ee206)</sub> | <sub>[5212e90](https://github.com/SimplioOfficial/simplio-app/commit/5212e90d6984d625d16bb4fc63e9f3a2000ee206) bug/590-fix-swap-transaction-history - ciripel</sub> |
 | <sub>2023-05-24 10:10:08</sub> | <sub>[[simplio-app:bug/588\-fix\-assets\-on\-buy\-and\-swap\-forms] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73bde0f9966d92afeebb1974efbd7781a30fcdc0)</sub> | <sub>[73bde0f](https://github.com/SimplioOfficial/simplio-app/commit/73bde0f9966d92afeebb1974efbd7781a30fcdc0) fixed height from bottom of 2 snackBars - ciripel</sub> |
 | <sub>2023-05-24 10:04:05</sub> | <sub>[[simplio-app:bug/588\-fix\-assets\-on\-buy\-and\-swap\-forms] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4b3de089dd71d85b20e24e4d284b283a828e103)</sub> | <sub>[e4b3de0](https://github.com/SimplioOfficial/simplio-app/commit/e4b3de089dd71d85b20e24e4d284b283a828e103) bug/588-fix-assets-on-buy-and-swap-forms - ciripel</sub> |
 | <sub>2023-05-24 09:47:57</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd8f00429def316d6dc3468127793efafa5ee9ac)</sub> | <sub>[bd8f004](https://github.com/SimplioOfficial/simplio-app/commit/bd8f00429def316d6dc3468127793efafa5ee9ac) small refactor - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4973 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-23 21:53:56</sub> | <sub>[[simplio-app:dev] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0f01dd11ac56...0cba1c926eae)</sub> | <sub>[3a68609](https://github.com/SimplioOfficial/simplio-app/commit/3a68609f3eb3ba3d06f20a239fdd40a0186a4c11) Update LICENSE (#593) - ciripel<br>[dccc394](https://github.com/SimplioOfficial/simplio-app/commit/dccc3942f2a7d5b58ecd275347c8b068a2537faa) Update app bar (#594) - tenhobi<br>[c9fe0a0](https://github.com/SimplioOfficial/simplio-app/commit/c9fe0a0fe5689cbe4b05f0f70511a6372c6adfd6) task/495-transaction-status (#592) - tenhobi<br>[33df5b0](https://github.com/SimplioOfficial/simplio-app/commit/33df5b02bae24bfe6392c74ba942a606dcf02af9) task/576-wallet-transaction-history (#595) - ciripel<br>[0cba1c9](https://github.com/SimplioOfficial/simplio-app/commit/0cba1c926eaefd688c39d7497a5d65c023078bab) Merge branch 'master' into dev - ciripel</sub> |
 | <sub>2023-05-23 20:39:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f01dd11ac567eb71d33b925a16c774fd8328613)</sub> | <sub>[0f01dd1](https://github.com/SimplioOfficial/simplio-app/commit/0f01dd11ac567eb71d33b925a16c774fd8328613) Bug/579-formatting-fiat-values (#599) - ciripel</sub> |
 | <sub>2023-05-23 20:39:35</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5136879b8ae169f2be770c84f7646aeff754905)</sub> | <sub>[d513687](https://github.com/SimplioOfficial/simplio-app/commit/d5136879b8ae169f2be770c84f7646aeff754905) Transaction buy changes (#597) - tenhobi</sub> |
-| <sub>2023-05-23 19:54:37</sub> | <sub>[[simplio-app:transaction\-buy\-changes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fc24870d5e3fa9b78833b8fc47ec23258f3ffc6)</sub> | <sub>[2fc2487](https://github.com/SimplioOfficial/simplio-app/commit/2fc24870d5e3fa9b78833b8fc47ec23258f3ffc6) fix buy fiatAmount and cryptoAmount - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
