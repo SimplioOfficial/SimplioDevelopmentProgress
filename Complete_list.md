@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-24 21:46:36</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6a968a9123c1677976ac971d68a4ed2d04f163cb)</sub> | <sub>[6a968a9](https://github.com/SimplioOfficial/simplio-app/commit/6a968a9123c1677976ac971d68a4ed2d04f163cb) bug/590-fix-swap-transaction-history (#604) - ciripel</sub> |
 | <sub>2023-05-24 20:52:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19d52e83643549b38c775638b3180f06e82ff47d)</sub> | <sub>[19d52e8](https://github.com/SimplioOfficial/simplio-app/commit/19d52e83643549b38c775638b3180f06e82ff47d) bug/579-formatting-fiat-values-v2 (#602) - ciripel</sub> |
 | <sub>2023-05-24 20:52:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1abc5cf259dfe225df4c3a8a0669651956fa8cb2)</sub> | <sub>[1abc5cf](https://github.com/SimplioOfficial/simplio-app/commit/1abc5cf259dfe225df4c3a8a0669651956fa8cb2) Bug/588-fix-assets-on-buy-and-swap-forms (#603) - ciripel</sub> |
 | <sub>2023-05-24 14:27:52</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702)</sub> | <sub>[75f1085](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702) merged the ifs - ciripel</sub> |
