@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4977 commits since 10/09/2021. You can see the complete history in
+There is a total of 4978 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-24 14:27:52</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702)</sub> | <sub>[75f1085](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702) merged the ifs - ciripel</sub> |
 | <sub>2023-05-24 14:15:06</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe)</sub> | <sub>[abf7515](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe) Cache game images and previews (#601) - tenhobi</sub> |
 | <sub>2023-05-24 12:13:04</sub> | <sub>[[simplio-app:bug/590\-fix\-swap\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f759966086b756763a6a273f3a75b72f1a28271a)</sub> | <sub>[f759966](https://github.com/SimplioOfficial/simplio-app/commit/f759966086b756763a6a273f3a75b72f1a28271a) rename userAgreedAmount to sourceAmountToSwap - ciripel</sub> |
 | <sub>2023-05-24 12:00:43</sub> | <sub>[[simplio-app:bug/590\-fix\-swap\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/410cc4bbec637d40199181a7bd264df4784fe859)</sub> | <sub>[410cc4b](https://github.com/SimplioOfficial/simplio-app/commit/410cc4bbec637d40199181a7bd264df4784fe859) updated comments - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4977 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-24 09:47:57</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd8f00429def316d6dc3468127793efafa5ee9ac)</sub> | <sub>[bd8f004](https://github.com/SimplioOfficial/simplio-app/commit/bd8f00429def316d6dc3468127793efafa5ee9ac) small refactor - ciripel</sub> |
 | <sub>2023-05-24 09:45:56</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a4c2f8238dbe8d539a2215f76a96e649e32b3117)</sub> | <sub>[a4c2f82](https://github.com/SimplioOfficial/simplio-app/commit/a4c2f8238dbe8d539a2215f76a96e649e32b3117) bug/579-formatting-usd-values-v2 - ciripel</sub> |
 | <sub>2023-05-24 08:20:18</sub> | <sub>[[simplio-app:task/583\-image\-cache] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56553c88f00b3e89dcbe90d17dea23e7bb6dc900)</sub> | <sub>[56553c8](https://github.com/SimplioOfficial/simplio-app/commit/56553c88f00b3e89dcbe90d17dea23e7bb6dc900) Cache game images and previews - tenhobi</sub> |
-| <sub>2023-05-23 21:54:38</sub> | <sub>[[simplio-app:master] 9 new commits](https://github.com/SimplioOfficial/simplio-app/compare/33df5b02bae2...b5d7cb93b8c2)</sub> | <sub>[065d722](https://github.com/SimplioOfficial/simplio-app/commit/065d722222a5fce0337aee72f70acb22bd9d1a70) Update app bar (#594) - tenhobi<br>[8ca7776](https://github.com/SimplioOfficial/simplio-app/commit/8ca77764a7521df1bf505388bda1f30a4281c23e) task/495-transaction-status (#592) - tenhobi<br>[e9bb018](https://github.com/SimplioOfficial/simplio-app/commit/e9bb0181b1824e061e6a1d6d7631cb50211082e3) task/576-wallet-transaction-history (#595) - ciripel<br>[3bc0106](https://github.com/SimplioOfficial/simplio-app/commit/3bc010612db221d8fa05f9dfa9b4a0b1ca7e9c3f) Update LICENSE (#593) - ciripel<br>[f3e0c49](https://github.com/SimplioOfficial/simplio-app/commit/f3e0c499df62a1526c6b723fa9dd462b0b1becdc) bug/585-fix-refresh-balance-on-swipe (#598) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
