@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4986 commits since 10/09/2021. You can see the complete history in
+There is a total of 4987 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-25 11:38:39</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd)</sub> | <sub>[af71821](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd) Stop hidden slidable banner, fix round transact... - tenhobi</sub> |
 | <sub>2023-05-25 09:25:38</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15)</sub> | <sub>[a58a580](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15) Update scrolling - tenhobi</sub> |
 | <sub>2023-05-25 09:07:11</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335)</sub> | <sub>[5eb9664](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335) add refactor comment - ciripel</sub> |
 | <sub>2023-05-25 08:29:21</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fec1974ae73d21bd0a5cf1956f788dbe2f43db05)</sub> | <sub>[fec1974](https://github.com/SimplioOfficial/simplio-app/commit/fec1974ae73d21bd0a5cf1956f788dbe2f43db05) align HidableWord - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4986 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-24 20:52:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19d52e83643549b38c775638b3180f06e82ff47d)</sub> | <sub>[19d52e8](https://github.com/SimplioOfficial/simplio-app/commit/19d52e83643549b38c775638b3180f06e82ff47d) bug/579-formatting-fiat-values-v2 (#602) - ciripel</sub> |
 | <sub>2023-05-24 20:52:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1abc5cf259dfe225df4c3a8a0669651956fa8cb2)</sub> | <sub>[1abc5cf](https://github.com/SimplioOfficial/simplio-app/commit/1abc5cf259dfe225df4c3a8a0669651956fa8cb2) Bug/588-fix-assets-on-buy-and-swap-forms (#603) - ciripel</sub> |
 | <sub>2023-05-24 14:27:52</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702)</sub> | <sub>[75f1085](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702) merged the ifs - ciripel</sub> |
-| <sub>2023-05-24 14:15:06</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe)</sub> | <sub>[abf7515](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe) Cache game images and previews (#601) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
