@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4984 commits since 10/09/2021. You can see the complete history in
+There is a total of 4985 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-25 09:07:11</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335)</sub> | <sub>[5eb9664](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335) add refactor comment - ciripel</sub> |
 | <sub>2023-05-25 08:29:21</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fec1974ae73d21bd0a5cf1956f788dbe2f43db05)</sub> | <sub>[fec1974](https://github.com/SimplioOfficial/simplio-app/commit/fec1974ae73d21bd0a5cf1956f788dbe2f43db05) align HidableWord - ciripel</sub> |
 | <sub>2023-05-25 08:15:51</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5de5489ab767912e34a36f864f16ffc0fed095fd)</sub> | <sub>[5de5489](https://github.com/SimplioOfficial/simplio-app/commit/5de5489ab767912e34a36f864f16ffc0fed095fd) added vertical gap40 in config_sec_screen - ciripel</sub> |
 | <sub>2023-05-25 08:12:36</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a80d31cf4e3128b6f0bd6d119c3ecd09831b2d4)</sub> | <sub>[5a80d31](https://github.com/SimplioOfficial/simplio-app/commit/5a80d31cf4e3128b6f0bd6d119c3ecd09831b2d4) finished redirecting - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4984 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-24 14:27:52</sub> | <sub>[[simplio-app:bug/579\-formating\-usd\-values\-v2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702)</sub> | <sub>[75f1085](https://github.com/SimplioOfficial/simplio-app/commit/75f10857ab85be239bac742c27e72cf818721702) merged the ifs - ciripel</sub> |
 | <sub>2023-05-24 14:15:06</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe)</sub> | <sub>[abf7515](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe) Cache game images and previews (#601) - tenhobi</sub> |
 | <sub>2023-05-24 12:13:04</sub> | <sub>[[simplio-app:bug/590\-fix\-swap\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f759966086b756763a6a273f3a75b72f1a28271a)</sub> | <sub>[f759966](https://github.com/SimplioOfficial/simplio-app/commit/f759966086b756763a6a273f3a75b72f1a28271a) rename userAgreedAmount to sourceAmountToSwap - ciripel</sub> |
-| <sub>2023-05-24 12:00:43</sub> | <sub>[[simplio-app:bug/590\-fix\-swap\-transaction\-history] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/410cc4bbec637d40199181a7bd264df4784fe859)</sub> | <sub>[410cc4b](https://github.com/SimplioOfficial/simplio-app/commit/410cc4bbec637d40199181a7bd264df4784fe859) updated comments - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
