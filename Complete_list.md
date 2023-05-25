@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-25 12:55:42</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ea68c7fa1148bdb244ac1183c0423d72340e77f2)</sub> | <sub>[ea68c7f](https://github.com/SimplioOfficial/simplio-app/commit/ea68c7fa1148bdb244ac1183c0423d72340e77f2) Finish - tenhobi</sub> |
 | <sub>2023-05-25 11:38:39</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd)</sub> | <sub>[af71821](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd) Stop hidden slidable banner, fix round transact... - tenhobi</sub> |
 | <sub>2023-05-25 09:25:38</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15)</sub> | <sub>[a58a580](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15) Update scrolling - tenhobi</sub> |
 | <sub>2023-05-25 09:07:11</sub> | <sub>[[simplio-app:task/390\-backup\-seed\-visual\-update] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335)</sub> | <sub>[5eb9664](https://github.com/SimplioOfficial/simplio-app/commit/5eb9664913840b48b69596cb11871707c69d8335) add refactor comment - ciripel</sub> |
