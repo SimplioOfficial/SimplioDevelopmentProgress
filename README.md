@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4999 commits since 10/09/2021. You can see the complete history in
+There is a total of 5000 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-26 12:09:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f52665f2985ef04882b8e871002546a3866fe03)</sub> | <sub>[6f52665](https://github.com/SimplioOfficial/simplio-app/commit/6f52665f2985ef04882b8e871002546a3866fe03) Remove fading duration for cached images (#610) - tenhobi</sub> |
 | <sub>2023-05-26 12:00:01</sub> | <sub>[[simplio-app:task/601\-scroll\-discovery\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db6098a45c33da21aff82ef49487346bc49aa59d)</sub> | <sub>[db6098a](https://github.com/SimplioOfficial/simplio-app/commit/db6098a45c33da21aff82ef49487346bc49aa59d) Remove visibility detector - tenhobi</sub> |
 | <sub>2023-05-26 11:41:37</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0488e7849ac3ba5e78e4a0660a0c24c83a30ab00)</sub> | <sub>[0488e78](https://github.com/SimplioOfficial/simplio-app/commit/0488e7849ac3ba5e78e4a0660a0c24c83a30ab00) Update gradients, remove earn, etc - tenhobi</sub> |
 | <sub>2023-05-26 10:45:14</sub> | <sub>[[simplio-app:task/504\-link\-from\-transaction\-to\-blockchain] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6e3282b0bb59c182f3f217b222faa998031db663)</sub> | <sub>[6e3282b](https://github.com/SimplioOfficial/simplio-app/commit/6e3282b0bb59c182f3f217b222faa998031db663) task/504-link-from-transaction-to-blockchain - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4999 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-25 14:26:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e0872b8f6404...b5d7cb93b8c2)</sub> |
 | <sub>2023-05-25 14:23:50</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5c6c3ca9e23b0e966ee83d83d557ab2a5aee0def)</sub> | <sub>[5c6c3ca](https://github.com/SimplioOfficial/simplio-app/commit/5c6c3ca9e23b0e966ee83d83d557ab2a5aee0def) task/586-scroll-discovery (#607) - tenhobi</sub> |
 | <sub>2023-05-25 14:14:22</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a58a58044c32^...ea68c7fa1148)</sub> | <sub>[a58a580](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15) Update scrolling - tenhobi<br>[af71821](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd) Stop hidden slidable banner, fix round transact... - tenhobi<br>[ea68c7f](https://github.com/SimplioOfficial/simplio-app/commit/ea68c7fa1148bdb244ac1183c0423d72340e77f2) Finish - tenhobi</sub> |
-| <sub>2023-05-25 13:26:51</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0872b8f64047ef7ffa8954c664c1f4ae94e3d9a)</sub> | <sub>[e0872b8](https://github.com/SimplioOfficial/simplio-app/commit/e0872b8f64047ef7ffa8954c664c1f4ae94e3d9a) task/586-scroll-discovery (#606) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
