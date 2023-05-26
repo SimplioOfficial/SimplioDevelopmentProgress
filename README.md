@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5000 commits since 10/09/2021. You can see the complete history in
+There is a total of 5001 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-26 13:25:46</sub> | <sub>[[simplio-app:task/602\-cache\-duration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/baeae5b653025c40f7cdd62afae88df449bbc62f)</sub> | <sub>[baeae5b](https://github.com/SimplioOfficial/simplio-app/commit/baeae5b653025c40f7cdd62afae88df449bbc62f) Remove fading duration for cached images - tenhobi</sub> |
 | <sub>2023-05-26 12:09:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f52665f2985ef04882b8e871002546a3866fe03)</sub> | <sub>[6f52665](https://github.com/SimplioOfficial/simplio-app/commit/6f52665f2985ef04882b8e871002546a3866fe03) Remove fading duration for cached images (#610) - tenhobi</sub> |
 | <sub>2023-05-26 12:00:01</sub> | <sub>[[simplio-app:task/601\-scroll\-discovery\-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db6098a45c33da21aff82ef49487346bc49aa59d)</sub> | <sub>[db6098a](https://github.com/SimplioOfficial/simplio-app/commit/db6098a45c33da21aff82ef49487346bc49aa59d) Remove visibility detector - tenhobi</sub> |
 | <sub>2023-05-26 11:41:37</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0488e7849ac3ba5e78e4a0660a0c24c83a30ab00)</sub> | <sub>[0488e78](https://github.com/SimplioOfficial/simplio-app/commit/0488e7849ac3ba5e78e4a0660a0c24c83a30ab00) Update gradients, remove earn, etc - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5000 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-25 18:42:11</sub> | <sub>[[simplio-app:master] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b5d7cb93b8c2...4f8d0dd46031)</sub> | <sub>[abf7515](https://github.com/SimplioOfficial/simplio-app/commit/abf7515689acc197266f8de832288db78fb9befe) Cache game images and previews (#601) - tenhobi<br>[1abc5cf](https://github.com/SimplioOfficial/simplio-app/commit/1abc5cf259dfe225df4c3a8a0669651956fa8cb2) Bug/588-fix-assets-on-buy-and-swap-forms (#603) - ciripel<br>[19d52e8](https://github.com/SimplioOfficial/simplio-app/commit/19d52e83643549b38c775638b3180f06e82ff47d) bug/579-formatting-fiat-values-v2 (#602) - ciripel<br>[6a968a9](https://github.com/SimplioOfficial/simplio-app/commit/6a968a9123c1677976ac971d68a4ed2d04f163cb) bug/590-fix-swap-transaction-history (#604) - ciripel<br>[26031cb](https://github.com/SimplioOfficial/simplio-app/commit/26031cb867030b0442d744b4259c147f120894cd) Task/390-backup-seed-visual-update (#605) - ciripel</sub> |
 | <sub>2023-05-25 14:26:48</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e0872b8f6404...b5d7cb93b8c2)</sub> |
 | <sub>2023-05-25 14:23:50</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5c6c3ca9e23b0e966ee83d83d557ab2a5aee0def)</sub> | <sub>[5c6c3ca](https://github.com/SimplioOfficial/simplio-app/commit/5c6c3ca9e23b0e966ee83d83d557ab2a5aee0def) task/586-scroll-discovery (#607) - tenhobi</sub> |
-| <sub>2023-05-25 14:14:22</sub> | <sub>[[simplio-app:task/586\-scroll\-discovery] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a58a58044c32^...ea68c7fa1148)</sub> | <sub>[a58a580](https://github.com/SimplioOfficial/simplio-app/commit/a58a58044c32f31fd05a530930f4d8c8ee2d3a15) Update scrolling - tenhobi<br>[af71821](https://github.com/SimplioOfficial/simplio-app/commit/af71821c9e68e79cf781486c04c38f5638ba3edd) Stop hidden slidable banner, fix round transact... - tenhobi<br>[ea68c7f](https://github.com/SimplioOfficial/simplio-app/commit/ea68c7fa1148bdb244ac1183c0423d72340e77f2) Finish - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
