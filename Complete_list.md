@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-30 10:49:30</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1f5ca4c19277e6aea476ed0cd6685f1cef9da2cd)</sub> | <sub>[1f5ca4c](https://github.com/SimplioOfficial/simplio-app/commit/1f5ca4c19277e6aea476ed0cd6685f1cef9da2cd) rename gamesEvent - ciripel</sub> |
 | <sub>2023-05-30 08:49:26</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0751308a7d3f8b640c67ec8d3755681297bc051)</sub> | <sub>[b075130](https://github.com/SimplioOfficial/simplio-app/commit/b0751308a7d3f8b640c67ec8d3755681297bc051) bug/553-swap-summary-screen-show-difference-val... - ciripel</sub> |
 | <sub>2023-05-30 08:48:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b2aec8c71401...4f8d0dd46031)</sub> |
 | <sub>2023-05-30 08:44:47</sub> | <sub>[[simplio-app:revert\-614\-bug/553\-swap\-summary\-screen\-show\-diference\-value] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fdc5e28b4bbd9d6b9d5a4a70ceadbaaa3b360c8)</sub> | <sub>[2fdc5e2](https://github.com/SimplioOfficial/simplio-app/commit/2fdc5e28b4bbd9d6b9d5a4a70ceadbaaa3b360c8) Revert "Bug/553-swap-summary-screen-show-differ... - ciripel</sub> |
