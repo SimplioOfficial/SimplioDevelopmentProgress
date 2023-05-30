@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5017 commits since 10/09/2021. You can see the complete history in
+There is a total of 5018 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-30 13:05:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b33b552d83899cac8a77a662fd4fd5bd74b45438)</sub> | <sub>[b33b552](https://github.com/SimplioOfficial/simplio-app/commit/b33b552d83899cac8a77a662fd4fd5bd74b45438) task/488-game-detail-redesign (#612) - tenhobi</sub> |
 | <sub>2023-05-30 13:03:13</sub> | <sub>[[simplio-app:bug/505\-change\-app\-icon\-in\-store] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26caaf89306d5b7e8ec012fea43449e1cb9d7b37)</sub> | <sub>[26caaf8](https://github.com/SimplioOfficial/simplio-app/commit/26caaf89306d5b7e8ec012fea43449e1cb9d7b37) bug/505-change-app-icon-in-store - ciripel</sub> |
 | <sub>2023-05-30 12:23:14</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12dbacad2ae1d0aa433f2532d253fed817e1e4a7)</sub> | <sub>[12dbaca](https://github.com/SimplioOfficial/simplio-app/commit/12dbacad2ae1d0aa433f2532d253fed817e1e4a7) fix padding in AssetWalletExpansionList - ciripel</sub> |
 | <sub>2023-05-30 11:43:39</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3f49bc8a564e...4f096e124b54)</sub> | <sub>[6f52665](https://github.com/SimplioOfficial/simplio-app/commit/6f52665f2985ef04882b8e871002546a3866fe03) Remove fading duration for cached images (#610) - tenhobi<br>[2b2e1f3](https://github.com/SimplioOfficial/simplio-app/commit/2b2e1f37368e51673f6c8b079c0519837598c748) Bug/606-bug-in-swap-precision (#613) - ciripel<br>[9a2cecd](https://github.com/SimplioOfficial/simplio-app/commit/9a2cecda534c0340927555f324957a4615ef2e73) task/601-scroll-discovery-inventory (#609) - tenhobi<br>[0f70b4c](https://github.com/SimplioOfficial/simplio-app/commit/0f70b4c487f14221e95b8dfd9fdda9d72070c4c1) task/504-link-from-transaction-to-blockchain (#... - ciripel<br>[b075130](https://github.com/SimplioOfficial/simplio-app/commit/b0751308a7d3f8b640c67ec8d3755681297bc051) bug/553-swap-summary-screen-show-difference-val... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5017 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-30 08:48:01</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b2aec8c71401...4f8d0dd46031)</sub> |
 | <sub>2023-05-30 08:44:47</sub> | <sub>[[simplio-app:revert\-614\-bug/553\-swap\-summary\-screen\-show\-diference\-value] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2fdc5e28b4bbd9d6b9d5a4a70ceadbaaa3b360c8)</sub> | <sub>[2fdc5e2](https://github.com/SimplioOfficial/simplio-app/commit/2fdc5e28b4bbd9d6b9d5a4a70ceadbaaa3b360c8) Revert "Bug/553-swap-summary-screen-show-differ... - ciripel</sub> |
 | <sub>2023-05-30 08:43:50</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0f70b4c487f14221e95b8dfd9fdda9d72070c4c1)</sub> | <sub>[0f70b4c](https://github.com/SimplioOfficial/simplio-app/commit/0f70b4c487f14221e95b8dfd9fdda9d72070c4c1) task/504-link-from-transaction-to-blockchain (#... - ciripel</sub> |
-| <sub>2023-05-30 08:43:35</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9a2cecda534c0340927555f324957a4615ef2e73)</sub> | <sub>[9a2cecd](https://github.com/SimplioOfficial/simplio-app/commit/9a2cecda534c0340927555f324957a4615ef2e73) task/601-scroll-discovery-inventory (#609) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
