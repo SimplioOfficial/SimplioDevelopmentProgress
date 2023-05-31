@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5025 commits since 10/09/2021. You can see the complete history in
+There is a total of 5026 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-05-31 21:34:17</sub> | <sub>[[simplio-app:bug/613\-bugs\-in\-swap\-form\-screen] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a12ebd84a580...500b4d0fdffe)</sub> | <sub>[1aaed46](https://github.com/SimplioOfficial/simplio-app/commit/1aaed46b091c5c5255df92e33e5efaaf47574355) Fix validationError on targetConvert - ciripel<br>[500b4d0](https://github.com/SimplioOfficial/simplio-app/commit/500b4d0fdffe437b447b2a1a31f3d89172d96d1f) Fix disappearing target route on SourceConverting - ciripel</sub> |
 | <sub>2023-05-31 16:19:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a12ebd84a5806f72109557eaed2a20c1b75fcd06)</sub> | <sub>[a12ebd8](https://github.com/SimplioOfficial/simplio-app/commit/a12ebd84a5806f72109557eaed2a20c1b75fcd06) Bug/505-change-icon-color (#620) - ciripel</sub> |
 | <sub>2023-05-31 16:18:10</sub> | <sub>[[simplio-app:bug/505\-change\-icon\-color] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/427acf0f2962...e2ec88275620)</sub> | <sub>[1f9f411](https://github.com/SimplioOfficial/simplio-app/commit/1f9f4112b0b9fb105bc317b406df48c09c0c055a) rounded for android - ciripel<br>[e2ec882](https://github.com/SimplioOfficial/simplio-app/commit/e2ec88275620665ace0f2dcfa5c0a31e5c0f185d) added square icon for iOS - ciripel</sub> |
 | <sub>2023-05-31 12:38:42</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4695b31ee90c48df76db195ea086d657138f46f)</sub> | <sub>[b4695b3](https://github.com/SimplioOfficial/simplio-app/commit/b4695b31ee90c48df76db195ea086d657138f46f) 505-fix-logo-error-on-iOS (#618) (#619) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5025 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-05-30 14:11:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18c48fde2f0ffb8ef3e39fdd589fe54337e551ea)</sub> | <sub>[18c48fd](https://github.com/SimplioOfficial/simplio-app/commit/18c48fde2f0ffb8ef3e39fdd589fe54337e551ea) bug/505-change-app-icon-in-store (#616) - ciripel</sub> |
 | <sub>2023-05-30 13:05:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b33b552d83899cac8a77a662fd4fd5bd74b45438)</sub> | <sub>[b33b552](https://github.com/SimplioOfficial/simplio-app/commit/b33b552d83899cac8a77a662fd4fd5bd74b45438) task/488-game-detail-redesign (#612) - tenhobi</sub> |
 | <sub>2023-05-30 13:03:13</sub> | <sub>[[simplio-app:bug/505\-change\-app\-icon\-in\-store] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26caaf89306d5b7e8ec012fea43449e1cb9d7b37)</sub> | <sub>[26caaf8](https://github.com/SimplioOfficial/simplio-app/commit/26caaf89306d5b7e8ec012fea43449e1cb9d7b37) bug/505-change-app-icon-in-store - ciripel</sub> |
-| <sub>2023-05-30 12:23:14</sub> | <sub>[[simplio-app:task/488\-game\-detail\-redesign] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/12dbacad2ae1d0aa433f2532d253fed817e1e4a7)</sub> | <sub>[12dbaca](https://github.com/SimplioOfficial/simplio-app/commit/12dbacad2ae1d0aa433f2532d253fed817e1e4a7) fix padding in AssetWalletExpansionList - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
