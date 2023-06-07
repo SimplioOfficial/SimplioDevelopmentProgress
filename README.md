@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5036 commits since 10/09/2021. You can see the complete history in
+There is a total of 5037 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-07 12:46:16</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f7f840d91658...30de4311ce5e)</sub> | <sub>[7fbb148](https://github.com/SimplioOfficial/simplio-app/commit/7fbb148adfaf0fd75463abfe50719029d26d33fa) pink flowering the loading state - ciripel<br>[30de431](https://github.com/SimplioOfficial/simplio-app/commit/30de4311ce5e5346c0c28d95ea91d145e192eda1) fix analyze - ciripel</sub> |
 | <sub>2023-06-06 21:05:52</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f7f840d91658cdc82d7ebb19e269fbafd4390281)</sub> | <sub>[f7f840d](https://github.com/SimplioOfficial/simplio-app/commit/f7f840d91658cdc82d7ebb19e269fbafd4390281) fix margins - ciripel</sub> |
 | <sub>2023-06-06 20:49:40</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e33a127ab32087ec58827473ebaf1fefb0d39912)</sub> | <sub>[e33a127](https://github.com/SimplioOfficial/simplio-app/commit/e33a127ab32087ec58827473ebaf1fefb0d39912) fixes - ciripel</sub> |
 | <sub>2023-06-06 16:10:35</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c548ce16372cc8d3cefecc6de6af9139d9790d67)</sub> | <sub>[c548ce1](https://github.com/SimplioOfficial/simplio-app/commit/c548ce16372cc8d3cefecc6de6af9139d9790d67) comment unused state - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5036 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-05 05:16:35</sub> | <sub>[[simplio-app:task/616\-redirect\-to\-inventory\-after\-swap\-and\-buy] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/52540968d5597098b8c202648ccd5bf6a8120288)</sub> | <sub>[5254096](https://github.com/SimplioOfficial/simplio-app/commit/52540968d5597098b8c202648ccd5bf6a8120288) removing import - storkandstark</sub> |
 | <sub>2023-06-05 05:15:13</sub> | <sub>[[simplio-app:task/616\-redirect\-to\-inventory\-after\-swap\-and\-buy] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cba9b402e975735fe897e4bc776e50c3b9a136b)</sub> | <sub>[0cba9b4](https://github.com/SimplioOfficial/simplio-app/commit/0cba9b402e975735fe897e4bc776e50c3b9a136b) redirecting to global inventory - storkandstark</sub> |
 | <sub>2023-06-05 05:00:18</sub> | <sub>[[simplio-app:task/617\-center\-image\-in\-my\-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ae5565e694a7e27c669dceb4900952216f0a9a99)</sub> | <sub>[ae5565e](https://github.com/SimplioOfficial/simplio-app/commit/ae5565e694a7e27c669dceb4900952216f0a9a99) adding bottom offset relative to safe area - storkandstark</sub> |
-| <sub>2023-05-31 22:13:33</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4fe227f4108d59f0754dae7df13f17515f9b85fd)</sub> | <sub>[4fe227f](https://github.com/SimplioOfficial/simplio-app/commit/4fe227f4108d59f0754dae7df13f17515f9b85fd) Bug/613-bugs-in-swap-form-screen (#621) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
