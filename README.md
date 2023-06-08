@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5041 commits since 10/09/2021. You can see the complete history in
+There is a total of 5042 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-08 12:11:52</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0d42a33134fe...f917445cc0f2)</sub> |
 | <sub>2023-06-08 11:30:30</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d42a33134fee073b94f0751544c099cc097968b)</sub> | <sub>[0d42a33](https://github.com/SimplioOfficial/simplio-app/commit/0d42a33134fee073b94f0751544c099cc097968b) task/617-center-image-in-my-games (#622) - storkandstark</sub> |
 | <sub>2023-06-08 11:29:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6a412beb252712c776aa2afbcdbf990c6e55c45)</sub> | <sub>[c6a412b](https://github.com/SimplioOfficial/simplio-app/commit/c6a412beb252712c776aa2afbcdbf990c6e55c45) Task/618-enable-add-to-my-games-button (#624) - ciripel</sub> |
 | <sub>2023-06-08 09:02:37</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d37cf32fac101c7c9042f55c422ad574c456d14)</sub> | <sub>[8d37cf3](https://github.com/SimplioOfficial/simplio-app/commit/8d37cf32fac101c7c9042f55c422ad574c456d14) follow bloc states naming conventions - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5041 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-06 20:49:40</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e33a127ab32087ec58827473ebaf1fefb0d39912)</sub> | <sub>[e33a127](https://github.com/SimplioOfficial/simplio-app/commit/e33a127ab32087ec58827473ebaf1fefb0d39912) fixes - ciripel</sub> |
 | <sub>2023-06-06 16:10:35</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c548ce16372cc8d3cefecc6de6af9139d9790d67)</sub> | <sub>[c548ce1](https://github.com/SimplioOfficial/simplio-app/commit/c548ce16372cc8d3cefecc6de6af9139d9790d67) comment unused state - ciripel</sub> |
 | <sub>2023-06-06 13:07:11</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d7c631f7b2c30324fe9f515d33bb878c2e23cae4)</sub> | <sub>[d7c631f](https://github.com/SimplioOfficial/simplio-app/commit/d7c631f7b2c30324fe9f515d33bb878c2e23cae4) keep previous state - ciripel</sub> |
-| <sub>2023-06-06 12:42:10</sub> | <sub>[[simplio-app:task/618\-enable\-add\-to\-my\-games\-button] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73ce26d78fa3ad3c1d11819f478d7e3b02114f9d)</sub> | <sub>[73ce26d](https://github.com/SimplioOfficial/simplio-app/commit/73ce26d78fa3ad3c1d11819f478d7e3b02114f9d) added game to list of myGames - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
