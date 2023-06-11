@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-11 11:26:49</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56439e228407f6085dce33cce2568760a6867ade)</sub> | <sub>[56439e2](https://github.com/SimplioOfficial/simplio-app/commit/56439e228407f6085dce33cce2568760a6867ade) create transaction entity - ciripel</sub> |
 | <sub>2023-06-09 08:34:38</sub> | <sub>[[simplio-app:bug/634\-Fix\-white\-screen\-on\-MyGames] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9db840222cdff11691599adf239a407f84e0229a)</sub> | <sub>[9db8402](https://github.com/SimplioOfficial/simplio-app/commit/9db840222cdff11691599adf239a407f84e0229a) bug/634-Fix-white-screen-on-MyGames - ciripel</sub> |
 | <sub>2023-06-08 12:11:52</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0d42a33134fe...f917445cc0f2)</sub> |
 | <sub>2023-06-08 11:30:30</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0d42a33134fee073b94f0751544c099cc097968b)</sub> | <sub>[0d42a33](https://github.com/SimplioOfficial/simplio-app/commit/0d42a33134fee073b94f0751544c099cc097968b) task/617-center-image-in-my-games (#622) - storkandstark</sub> |
