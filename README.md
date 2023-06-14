@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5053 commits since 10/09/2021. You can see the complete history in
+There is a total of 5054 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-14 13:41:31</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98ca4a58acf2569c342f8e87cd33263cdba76d20)</sub> | <sub>[98ca4a5](https://github.com/SimplioOfficial/simplio-app/commit/98ca4a58acf2569c342f8e87cd33263cdba76d20) refactored provider and added nullables - ciripel</sub> |
 | <sub>2023-06-14 09:23:41</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/132bfb2d595617a0d212a6011692d2342c0eb18e)</sub> | <sub>[132bfb2](https://github.com/SimplioOfficial/simplio-app/commit/132bfb2d595617a0d212a6011692d2342c0eb18e) remove loading state - ciripel</sub> |
 | <sub>2023-06-14 08:58:38</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/93e9d545d73f625bad7f836b95ec904940eb378b)</sub> | <sub>[93e9d54](https://github.com/SimplioOfficial/simplio-app/commit/93e9d545d73f625bad7f836b95ec904940eb378b) fix building and refresh indicator position - ciripel</sub> |
 | <sub>2023-06-13 22:19:55</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f15ed731b63f75dd240974febffbd9a072fe2d78)</sub> | <sub>[f15ed73](https://github.com/SimplioOfficial/simplio-app/commit/f15ed731b63f75dd240974febffbd9a072fe2d78) done inventory transactions - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5053 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-12 21:27:07</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8507f946dbc063317d317409853a56210dc079f3)</sub> | <sub>[8507f94](https://github.com/SimplioOfficial/simplio-app/commit/8507f946dbc063317d317409853a56210dc079f3) fix provider add - ciripel</sub> |
 | <sub>2023-06-12 19:13:26</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8f5aaadfca6161280bb62772b2f7d6df6c1fe8b2)</sub> | <sub>[8f5aaad](https://github.com/SimplioOfficial/simplio-app/commit/8f5aaadfca6161280bb62772b2f7d6df6c1fe8b2) links to string - ciripel</sub> |
 | <sub>2023-06-12 13:57:39</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a759894f6e91f13c81eacc10728b8c3a9cd409ac)</sub> | <sub>[a759894](https://github.com/SimplioOfficial/simplio-app/commit/a759894f6e91f13c81eacc10728b8c3a9cd409ac) cache inventory transactions - ciripel</sub> |
-| <sub>2023-06-11 11:26:49</sub> | <sub>[[simplio-app:task/628\-create\-frontend\-transaction\-caching] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56439e228407f6085dce33cce2568760a6867ade)</sub> | <sub>[56439e2](https://github.com/SimplioOfficial/simplio-app/commit/56439e228407f6085dce33cce2568760a6867ade) create transaction entity - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
