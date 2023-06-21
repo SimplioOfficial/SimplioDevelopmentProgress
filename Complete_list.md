@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-21 07:51:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/d887033eff55...b38ebf78b8e7)</sub> |
 | <sub>2023-06-21 07:23:05</sub> | <sub>[[simplio-app:task/616-redirect-to-inventory-after-swap-and-buy] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d887033eff55b90c2fb5987329286f3bcbf99849)</sub> | <sub>[d887033](https://github.com/SimplioOfficial/simplio-app/commit/d887033eff55b90c2fb5987329286f3bcbf99849) fixed redirecting to index transactions - ciripel</sub> |
 | <sub>2023-06-16 08:17:10</sub> | <sub>[[simplio-app:bug/640\-start\-swap\-implement\-fire\-and\-forget] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fd6c5ab18b10389d0e5428fcd4b9658845766a88)</sub> | <sub>[fd6c5ab](https://github.com/SimplioOfficial/simplio-app/commit/fd6c5ab18b10389d0e5428fcd4b9658845766a88) bug/640-start-swap-implement-fire-and-forget - ciripel</sub> |
 | <sub>2023-06-14 16:14:34</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c6b5d6d10c90e907afec41785174c278e9ab46fc)</sub> | <sub>[c6b5d6d](https://github.com/SimplioOfficial/simplio-app/commit/c6b5d6d10c90e907afec41785174c278e9ab46fc) Task/628-create-frontend-transaction-caching (#... - ciripel</sub> |
