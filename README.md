@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5070 commits since 10/09/2021. You can see the complete history in
+There is a total of 5071 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-26 11:48:51</sub> | <sub>[[simplio-app:bug/636-Non-promoted-games-do-not-have-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69ed36edbfe53f837d139dad9254b90fe221f54a)</sub> | <sub>[69ed36e](https://github.com/SimplioOfficial/simplio-app/commit/69ed36edbfe53f837d139dad9254b90fe221f54a) enable buttons on not promoted games - ciripel</sub> |
 | <sub>2023-06-23 18:53:38</sub> | <sub>[[simplio-app:master] 12 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b4695b31ee90...683e122386cd)</sub> | <sub>[d7aefbc](https://github.com/SimplioOfficial/simplio-app/commit/d7aefbc10b401caf2d1476e60ca602642981d36f) Bug/505-change-icon-color (#620) - ciripel<br>[c6535bc](https://github.com/SimplioOfficial/simplio-app/commit/c6535bc735070fea8fae3e9d7902bdf72dd81a83) Bug/613-bugs-in-swap-form-screen (#621) - ciripel<br>[e393939](https://github.com/SimplioOfficial/simplio-app/commit/e39393952caea7a34a5aca5d40f62dba215d7371) Task/618-enable-add-to-my-games-button (#624) - ciripel<br>[f917445](https://github.com/SimplioOfficial/simplio-app/commit/f917445cc0f206b141da75994a935fb0d5f55c49) task/617-center-image-in-my-games (#622) - storkandstark<br>[8565d9f](https://github.com/SimplioOfficial/simplio-app/commit/8565d9f6f4a489401d199a00211f160c2d497c2a) bug/634-Fix-white-screen-on-MyGames (#626) - ciripel</sub> |
 | <sub>2023-06-23 17:42:10</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38e7eb259f669c96e37749e5e56f9694a1b8f91c)</sub> | <sub>[38e7eb2](https://github.com/SimplioOfficial/simplio-app/commit/38e7eb259f669c96e37749e5e56f9694a1b8f91c) task/637-show-disintegration-of-fees (#631) - ciripel</sub> |
 | <sub>2023-06-23 16:07:09</sub> | <sub>[[simplio-app:task/637-show-disintegration-of-fees] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e90b49acddac968814d0b781032b06fda1ba28bb)</sub> | <sub>[e90b49a](https://github.com/SimplioOfficial/simplio-app/commit/e90b49acddac968814d0b781032b06fda1ba28bb) implement insufficient netAsset balance error - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5070 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-21 14:39:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0ba7072b03293f355672d9100a52f7ded205b3b)</sub> | <sub>[b0ba707](https://github.com/SimplioOfficial/simplio-app/commit/b0ba7072b03293f355672d9100a52f7ded205b3b) task/646-change-black-loading-screen-for-swap-a... - ciripel</sub> |
 | <sub>2023-06-21 14:39:10</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b0cbde4f7db55917bc365f6b6ec16b4d30688cb5)</sub> | <sub>[b0cbde4](https://github.com/SimplioOfficial/simplio-app/commit/b0cbde4f7db55917bc365f6b6ec16b4d30688cb5) task/616-redirect-to-inventory-after-swap-and-b... - storkandstark</sub> |
 | <sub>2023-06-21 14:38:34</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e935daafc426309077f58753b46eaf265c6160e0)</sub> | <sub>[e935daa](https://github.com/SimplioOfficial/simplio-app/commit/e935daafc426309077f58753b46eaf265c6160e0) bug/640-start-swap-implement-fire-and-forget (#... - ciripel</sub> |
-| <sub>2023-06-21 09:56:09</sub> | <sub>[[simplio-app:task/646-change-black-loading-screen-for-swap-and-buy] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/af7e2cbeee1b291337d5113da584d8e0ce672f52)</sub> | <sub>[af7e2cb](https://github.com/SimplioOfficial/simplio-app/commit/af7e2cbeee1b291337d5113da584d8e0ce672f52) task/646-change-black-loading-for-swap-and-buy - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
