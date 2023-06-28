@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5080 commits since 10/09/2021. You can see the complete history in
+There is a total of 5081 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-28 11:44:11</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3)</sub> | <sub>[2543b04](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3) change resolution - ciripel</sub> |
 | <sub>2023-06-28 11:17:54</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0)</sub> | <sub>[064bfd2](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0) task/650-change-banners - ciripel</sub> |
 | <sub>2023-06-28 10:28:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519)</sub> | <sub>[0ffe4df](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519) bug/648-made-navigationTabs-Stateless (#635) - ciripel</sub> |
 | <sub>2023-06-28 09:17:06</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65381f7d91a339c085f2cbdf85ea85e46561d6af)</sub> | <sub>[65381f7](https://github.com/SimplioOfficial/simplio-app/commit/65381f7d91a339c085f2cbdf85ea85e46561d6af) task/649-change-play-btn-to-open-for-noTOP-Game... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5080 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-28 07:39:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b)</sub> | <sub>[b62ab30](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b) bug/636-Non-promoted-games-do-not-have-buttons ... - ciripel</sub> |
 | <sub>2023-06-28 07:38:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f)</sub> | <sub>[19b6875](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f) bug/633-Reloading-on-transaction-history-page (... - ciripel</sub> |
 | <sub>2023-06-27 08:49:47</sub> | <sub>[[simplio-app:bug/633-Reloading-on-transaction-history-page] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/401f3b8594765a018d0f45ec5812dd0eb831d423)</sub> | <sub>[401f3b8](https://github.com/SimplioOfficial/simplio-app/commit/401f3b8594765a018d0f45ec5812dd0eb831d423) various fixes - ciripel</sub> |
-| <sub>2023-06-26 11:48:51</sub> | <sub>[[simplio-app:bug/636-Non-promoted-games-do-not-have-buttons] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/69ed36edbfe53f837d139dad9254b90fe221f54a)</sub> | <sub>[69ed36e](https://github.com/SimplioOfficial/simplio-app/commit/69ed36edbfe53f837d139dad9254b90fe221f54a) enable buttons on not promoted games - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
