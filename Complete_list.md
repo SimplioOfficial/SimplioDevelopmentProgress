@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-28 11:48:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee)</sub> | <sub>[0af3a58](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee) Task/650-change-banners (#636) - ciripel</sub> |
 | <sub>2023-06-28 11:44:11</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3)</sub> | <sub>[2543b04](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3) change resolution - ciripel</sub> |
 | <sub>2023-06-28 11:17:54</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0)</sub> | <sub>[064bfd2](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0) task/650-change-banners - ciripel</sub> |
 | <sub>2023-06-28 10:28:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519)</sub> | <sub>[0ffe4df](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519) bug/648-made-navigationTabs-Stateless (#635) - ciripel</sub> |
