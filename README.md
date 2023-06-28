@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5075 commits since 10/09/2021. You can see the complete history in
+There is a total of 5076 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-06-28 08:43:12</sub> | <sub>[[simplio-app:task/649-change-game-button-to-open-for-notPromoted-Games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff93df8b05ac00697dc536c81932c58fd80a8d02)</sub> | <sub>[ff93df8](https://github.com/SimplioOfficial/simplio-app/commit/ff93df8b05ac00697dc536c81932c58fd80a8d02) task/649-change-play-btn-to-open-for-noTOP-Games - ciripel</sub> |
 | <sub>2023-06-28 07:41:58</sub> | <sub>[[simplio-app:bug/648-bug-rendering-image-in-navigation-tabs] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/38e7eb259f66...b62ab30ae119)</sub> | <sub>[19b6875](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f) bug/633-Reloading-on-transaction-history-page (... - ciripel<br>[b62ab30](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b) bug/636-Non-promoted-games-do-not-have-buttons ... - ciripel</sub> |
 | <sub>2023-06-28 07:39:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b)</sub> | <sub>[b62ab30](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b) bug/636-Non-promoted-games-do-not-have-buttons ... - ciripel</sub> |
 | <sub>2023-06-28 07:38:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f)</sub> | <sub>[19b6875](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f) bug/633-Reloading-on-transaction-history-page (... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5075 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-23 17:42:10</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38e7eb259f669c96e37749e5e56f9694a1b8f91c)</sub> | <sub>[38e7eb2](https://github.com/SimplioOfficial/simplio-app/commit/38e7eb259f669c96e37749e5e56f9694a1b8f91c) task/637-show-disintegration-of-fees (#631) - ciripel</sub> |
 | <sub>2023-06-23 16:07:09</sub> | <sub>[[simplio-app:task/637-show-disintegration-of-fees] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e90b49acddac968814d0b781032b06fda1ba28bb)</sub> | <sub>[e90b49a](https://github.com/SimplioOfficial/simplio-app/commit/e90b49acddac968814d0b781032b06fda1ba28bb) implement insufficient netAsset balance error - ciripel</sub> |
 | <sub>2023-06-23 09:28:06</sub> | <sub>[[simplio-app:task/637-show-disintegration-of-fees] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/14f88115d258c88e79ba6c2b5194031c4f71dccf)</sub> | <sub>[14f8811](https://github.com/SimplioOfficial/simplio-app/commit/14f88115d258c88e79ba6c2b5194031c4f71dccf) task/637-show-disintegration-of-fees - ciripel</sub> |
-| <sub>2023-06-22 14:41:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58c4a0bc8c0fe0cf452d73a64e7bcb6538138919)</sub> | <sub>[58c4a0b](https://github.com/SimplioOfficial/simplio-app/commit/58c4a0bc8c0fe0cf452d73a64e7bcb6538138919) bug/646-Fix-bug-in-buy-and-swap-loading-screens... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
