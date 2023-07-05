@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5090 commits since 10/09/2021. You can see the complete history in
+There is a total of 5091 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-05 10:58:16</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2c3ec028f9a5dce2b99a1481ae74041e0f9dfdaa)</sub> | <sub>[2c3ec02](https://github.com/SimplioOfficial/simplio-app/commit/2c3ec028f9a5dce2b99a1481ae74041e0f9dfdaa) implement disconnect sessions - ciripel</sub> |
 | <sub>2023-07-05 09:47:15</sub> | <sub>[[simplio-app:task/418-implement-wc2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/7d80308b7e2c...319a77057640)</sub> | <sub>[f1c4708](https://github.com/SimplioOfficial/simplio-app/commit/f1c47086e4380b88880623b72e84a756ad14bf2c) remove web3dart - ciripel<br>[319a770](https://github.com/SimplioOfficial/simplio-app/commit/319a77057640481d7776f0e3688e14d79aa2bd69) remove wc_db - ciripel</sub> |
 | <sub>2023-07-05 09:41:05</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7d80308b7e2cef4b2fb0a5a564f3c733173e5ce0)</sub> | <sub>[7d80308](https://github.com/SimplioOfficial/simplio-app/commit/7d80308b7e2cef4b2fb0a5a564f3c733173e5ce0) fix analyze - ciripel</sub> |
 | <sub>2023-07-02 19:52:45</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81d3676d0a6db4c2d32aa1442cbc3a3678e6e83f)</sub> | <sub>[81d3676](https://github.com/SimplioOfficial/simplio-app/commit/81d3676d0a6db4c2d32aa1442cbc3a3678e6e83f) fix chainId - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5090 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-29 09:22:39</sub> | <sub>[[simplio-app:fix/banners-and-open-game] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26ed2217de482ed89247bf91dc35f44e7e02b415)</sub> | <sub>[26ed221](https://github.com/SimplioOfficial/simplio-app/commit/26ed2217de482ed89247bf91dc35f44e7e02b415) fix/banners-and-open-game - ciripel</sub> |
 | <sub>2023-06-28 14:23:31</sub> | <sub>[[simplio-app:master] 6 new commits](https://github.com/SimplioOfficial/simplio-app/compare/683e122386cd...a97588c3cc81)</sub> | <sub>[19b6875](https://github.com/SimplioOfficial/simplio-app/commit/19b687502b91887d1ffd19901d06855d723f423f) bug/633-Reloading-on-transaction-history-page (... - ciripel<br>[b62ab30](https://github.com/SimplioOfficial/simplio-app/commit/b62ab30ae11964efcebe79130f910719ba0ddc4b) bug/636-Non-promoted-games-do-not-have-buttons ... - ciripel<br>[65381f7](https://github.com/SimplioOfficial/simplio-app/commit/65381f7d91a339c085f2cbdf85ea85e46561d6af) task/649-change-play-btn-to-open-for-noTOP-Game... - ciripel<br>[0ffe4df](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519) bug/648-made-navigationTabs-Stateless (#635) - ciripel<br>[0af3a58](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee) Task/650-change-banners (#636) - ciripel</sub> |
 | <sub>2023-06-28 11:48:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee)</sub> | <sub>[0af3a58](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee) Task/650-change-banners (#636) - ciripel</sub> |
-| <sub>2023-06-28 11:44:11</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3)</sub> | <sub>[2543b04](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3) change resolution - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
