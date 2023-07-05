@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-05 12:28:11</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/902931f1ec507418a66ef1fdec5523542c08ce7e)</sub> | <sub>[902931f](https://github.com/SimplioOfficial/simplio-app/commit/902931f1ec507418a66ef1fdec5523542c08ce7e) fix gaslimit and dead links opening error - ciripel</sub> |
 | <sub>2023-07-05 11:40:03</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f42856866d3fc8ab47c6e9a343a2ffc744c64d89)</sub> | <sub>[f428568](https://github.com/SimplioOfficial/simplio-app/commit/f42856866d3fc8ab47c6e9a343a2ffc744c64d89) cleanup evm - ciripel</sub> |
 | <sub>2023-07-05 11:10:06</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74f2f5d73d531026a4180ec76329c1383266820e)</sub> | <sub>[74f2f5d](https://github.com/SimplioOfficial/simplio-app/commit/74f2f5d73d531026a4180ec76329c1383266820e) fix - ciripel</sub> |
 | <sub>2023-07-05 11:08:02</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64791fab616319cea7665da304069bac6e52a2c5)</sub> | <sub>[64791fa](https://github.com/SimplioOfficial/simplio-app/commit/64791fab616319cea7665da304069bac6e52a2c5) fixes - ciripel</sub> |
