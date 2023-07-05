@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5088 commits since 10/09/2021. You can see the complete history in
+There is a total of 5089 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-05 09:41:05</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7d80308b7e2cef4b2fb0a5a564f3c733173e5ce0)</sub> | <sub>[7d80308](https://github.com/SimplioOfficial/simplio-app/commit/7d80308b7e2cef4b2fb0a5a564f3c733173e5ce0) fix analyze - ciripel</sub> |
 | <sub>2023-07-02 19:52:45</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/81d3676d0a6db4c2d32aa1442cbc3a3678e6e83f)</sub> | <sub>[81d3676](https://github.com/SimplioOfficial/simplio-app/commit/81d3676d0a6db4c2d32aa1442cbc3a3678e6e83f) fix chainId - ciripel</sub> |
 | <sub>2023-07-02 11:45:01</sub> | <sub>[[simplio-app:task/418-implement-wc2] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/c6c6c79edc0b^...d5345e38a86b)</sub> | <sub>[c6c6c79](https://github.com/SimplioOfficial/simplio-app/commit/c6c6c79edc0ba6e29151cebeb06fa25e0f283cd0) wip - ciripel<br>[d5345e3](https://github.com/SimplioOfficial/simplio-app/commit/d5345e38a86b5a8acfba3e9ea59d24320cbb56ff) wip - ciripel</sub> |
 | <sub>2023-06-29 15:43:24</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a97588c3cc81...53e5a26e500b)</sub> | <sub>[d7350be](https://github.com/SimplioOfficial/simplio-app/commit/d7350bea064130c35e9ebf3bafb3f12f90ed7e80) fix/banners-and-open-game (#638) - ciripel<br>[53e5a26](https://github.com/SimplioOfficial/simplio-app/commit/53e5a26e500b4e9d14f810c578719fe5e42de37a) fix/banners-and-open-game (#638) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5088 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-06-28 11:48:53</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee)</sub> | <sub>[0af3a58](https://github.com/SimplioOfficial/simplio-app/commit/0af3a58172bbaeb0d4ded6730b6ef6054d8c54ee) Task/650-change-banners (#636) - ciripel</sub> |
 | <sub>2023-06-28 11:44:11</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3)</sub> | <sub>[2543b04](https://github.com/SimplioOfficial/simplio-app/commit/2543b040d1d3a93002f7eb55516028d4554032e3) change resolution - ciripel</sub> |
 | <sub>2023-06-28 11:17:54</sub> | <sub>[[simplio-app:task/650-change-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0)</sub> | <sub>[064bfd2](https://github.com/SimplioOfficial/simplio-app/commit/064bfd25e69e9f6c9e86343c6bdda9025843a0d0) task/650-change-banners - ciripel</sub> |
-| <sub>2023-06-28 10:28:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519)</sub> | <sub>[0ffe4df](https://github.com/SimplioOfficial/simplio-app/commit/0ffe4df3db725785422014a0c713817c97241519) bug/648-made-navigationTabs-Stateless (#635) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
