@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-06 13:13:03</sub> | <sub>[[simplio-app:websocket-entitlement-for-iOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0eafdac744fdca0aa1e9fb60533c8114d132a381)</sub> | <sub>[0eafdac](https://github.com/SimplioOfficial/simplio-app/commit/0eafdac744fdca0aa1e9fb60533c8114d132a381) websocket-entitlement-for-iOS - ciripel</sub> |
 | <sub>2023-07-06 10:51:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/329c5e2b56374fd9af2c642ff98d01185087466c)</sub> | <sub>[329c5e2](https://github.com/SimplioOfficial/simplio-app/commit/329c5e2b56374fd9af2c642ff98d01185087466c) task/652-Update-KYC-process (#643) - ciripel</sub> |
 | <sub>2023-07-06 09:32:42</sub> | <sub>[[simplio-app:task/652-Update-KYC-process] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/80df5415196d51c0366cf404dced51931f6595e9)</sub> | <sub>[80df541](https://github.com/SimplioOfficial/simplio-app/commit/80df5415196d51c0366cf404dced51931f6595e9) task/652-Update-KYC-process - ciripel</sub> |
 | <sub>2023-07-06 09:20:22</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/033766b4ba5181fb30f6b998e0a654eec3327b4e)</sub> | <sub>[033766b](https://github.com/SimplioOfficial/simplio-app/commit/033766b4ba5181fb30f6b998e0a654eec3327b4e) bug/651-Duplicate-row-in-fees-with-BNB (#641) - ciripel</sub> |
