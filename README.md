@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5101 commits since 10/09/2021. You can see the complete history in
+There is a total of 5102 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-06 09:32:42</sub> | <sub>[[simplio-app:task/652-Update-KYC-process] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/80df5415196d51c0366cf404dced51931f6595e9)</sub> | <sub>[80df541](https://github.com/SimplioOfficial/simplio-app/commit/80df5415196d51c0366cf404dced51931f6595e9) task/652-Update-KYC-process - ciripel</sub> |
 | <sub>2023-07-06 09:20:22</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/033766b4ba5181fb30f6b998e0a654eec3327b4e)</sub> | <sub>[033766b](https://github.com/SimplioOfficial/simplio-app/commit/033766b4ba5181fb30f6b998e0a654eec3327b4e) bug/651-Duplicate-row-in-fees-with-BNB (#641) - ciripel</sub> |
 | <sub>2023-07-06 09:19:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822)</sub> | <sub>[85d24e3](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822) Task/418-implement-wc2 (#640) - ciripel</sub> |
 | <sub>2023-07-06 09:14:43</sub> | <sub>[[simplio-app:task/652-Update-KYC-process] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910)</sub> | <sub>[7b4b12c](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910) task/652-Update-KYC-process - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5101 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-05 12:28:11</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/902931f1ec507418a66ef1fdec5523542c08ce7e)</sub> | <sub>[902931f](https://github.com/SimplioOfficial/simplio-app/commit/902931f1ec507418a66ef1fdec5523542c08ce7e) fix gaslimit and dead links opening error - ciripel</sub> |
 | <sub>2023-07-05 11:40:03</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f42856866d3fc8ab47c6e9a343a2ffc744c64d89)</sub> | <sub>[f428568](https://github.com/SimplioOfficial/simplio-app/commit/f42856866d3fc8ab47c6e9a343a2ffc744c64d89) cleanup evm - ciripel</sub> |
 | <sub>2023-07-05 11:10:06</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74f2f5d73d531026a4180ec76329c1383266820e)</sub> | <sub>[74f2f5d](https://github.com/SimplioOfficial/simplio-app/commit/74f2f5d73d531026a4180ec76329c1383266820e) fix - ciripel</sub> |
-| <sub>2023-07-05 11:08:02</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64791fab616319cea7665da304069bac6e52a2c5)</sub> | <sub>[64791fa](https://github.com/SimplioOfficial/simplio-app/commit/64791fab616319cea7665da304069bac6e52a2c5) fixes - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
