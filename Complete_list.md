@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-06 09:19:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822)</sub> | <sub>[85d24e3](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822) Task/418-implement-wc2 (#640) - ciripel</sub> |
 | <sub>2023-07-06 09:14:43</sub> | <sub>[[simplio-app:task/652-Update-KYC-process] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910)</sub> | <sub>[7b4b12c](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910) task/652-Update-KYC-process - ciripel</sub> |
 | <sub>2023-07-06 08:53:27</sub> | <sub>[[simplio-app:bug/651-Duplicate-row-in-fees-with-BNB] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/739b61497381cdfdb0baa05c3bd35ddb8ed3ba4f)</sub> | <sub>[739b614](https://github.com/SimplioOfficial/simplio-app/commit/739b61497381cdfdb0baa05c3bd35ddb8ed3ba4f) bug/651-Duplicate-row-in-fees-with-BNB - ciripel</sub> |
 | <sub>2023-07-06 08:19:18</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a31f2a2f5308ba7522f60417d765f6b2e263351)</sub> | <sub>[1a31f2a](https://github.com/SimplioOfficial/simplio-app/commit/1a31f2a2f5308ba7522f60417d765f6b2e263351) fix comments in PR - ciripel</sub> |
