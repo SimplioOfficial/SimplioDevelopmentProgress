@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5106 commits since 10/09/2021. You can see the complete history in
+There is a total of 5107 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-19 06:41:36</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6)</sub> | <sub>[608eacf](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6) Fix lints - tenhobi</sub> |
 | <sub>2023-07-19 06:04:15</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20f5fabb3d670a07c00e0d36f570cd821401aea7)</sub> | <sub>[20f5fab](https://github.com/SimplioOfficial/simplio-app/commit/20f5fabb3d670a07c00e0d36f570cd821401aea7) Upgrade Flutter - tenhobi</sub> |
 | <sub>2023-07-06 13:51:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26e77205a8900c0c2856d523d836d3ac0526b9e0)</sub> | <sub>[26e7720](https://github.com/SimplioOfficial/simplio-app/commit/26e77205a8900c0c2856d523d836d3ac0526b9e0) websocket-entitlement-for-iOS (#645) - ciripel</sub> |
 | <sub>2023-07-06 13:13:03</sub> | <sub>[[simplio-app:websocket-entitlement-for-iOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0eafdac744fdca0aa1e9fb60533c8114d132a381)</sub> | <sub>[0eafdac](https://github.com/SimplioOfficial/simplio-app/commit/0eafdac744fdca0aa1e9fb60533c8114d132a381) websocket-entitlement-for-iOS - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5106 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-06 09:19:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822)</sub> | <sub>[85d24e3](https://github.com/SimplioOfficial/simplio-app/commit/85d24e36b4aa2c1eab7e963e07a60e1956a21822) Task/418-implement-wc2 (#640) - ciripel</sub> |
 | <sub>2023-07-06 09:14:43</sub> | <sub>[[simplio-app:task/652-Update-KYC-process] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910)</sub> | <sub>[7b4b12c](https://github.com/SimplioOfficial/simplio-app/commit/7b4b12cad6b32bbce10e279b6586b0daac173910) task/652-Update-KYC-process - ciripel</sub> |
 | <sub>2023-07-06 08:53:27</sub> | <sub>[[simplio-app:bug/651-Duplicate-row-in-fees-with-BNB] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/739b61497381cdfdb0baa05c3bd35ddb8ed3ba4f)</sub> | <sub>[739b614](https://github.com/SimplioOfficial/simplio-app/commit/739b61497381cdfdb0baa05c3bd35ddb8ed3ba4f) bug/651-Duplicate-row-in-fees-with-BNB - ciripel</sub> |
-| <sub>2023-07-06 08:19:18</sub> | <sub>[[simplio-app:task/418-implement-wc2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a31f2a2f5308ba7522f60417d765f6b2e263351)</sub> | <sub>[1a31f2a](https://github.com/SimplioOfficial/simplio-app/commit/1a31f2a2f5308ba7522f60417d765f6b2e263351) fix comments in PR - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
