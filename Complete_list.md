@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-19 07:57:51</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da)</sub> | <sub>[86995e6](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da) Select XCode before first fastlane - tenhobi</sub> |
 | <sub>2023-07-19 07:30:39</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6f65cc347beee2e78c617ef8377294c0f82ab09c)</sub> | <sub>[6f65cc3](https://github.com/SimplioOfficial/simplio-app/commit/6f65cc347beee2e78c617ef8377294c0f82ab09c) Fix inappwebview xcode version - tenhobi</sub> |
 | <sub>2023-07-19 07:06:46</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84f15b8b29b4d6968a30aff158f76313a00bb926)</sub> | <sub>[84f15b8](https://github.com/SimplioOfficial/simplio-app/commit/84f15b8b29b4d6968a30aff158f76313a00bb926) Gitignore vscode settings - tenhobi</sub> |
 | <sub>2023-07-19 06:41:36</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6)</sub> | <sub>[608eacf](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6) Fix lints - tenhobi</sub> |
