@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-19 07:06:46</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/84f15b8b29b4d6968a30aff158f76313a00bb926)</sub> | <sub>[84f15b8](https://github.com/SimplioOfficial/simplio-app/commit/84f15b8b29b4d6968a30aff158f76313a00bb926) Gitignore vscode settings - tenhobi</sub> |
 | <sub>2023-07-19 06:41:36</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6)</sub> | <sub>[608eacf](https://github.com/SimplioOfficial/simplio-app/commit/608eacf29b6a9d8c2da339c78413b9a53d46a2e6) Fix lints - tenhobi</sub> |
 | <sub>2023-07-19 06:04:15</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/20f5fabb3d670a07c00e0d36f570cd821401aea7)</sub> | <sub>[20f5fab](https://github.com/SimplioOfficial/simplio-app/commit/20f5fabb3d670a07c00e0d36f570cd821401aea7) Upgrade Flutter - tenhobi</sub> |
 | <sub>2023-07-06 13:51:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/26e77205a8900c0c2856d523d836d3ac0526b9e0)</sub> | <sub>[26e7720](https://github.com/SimplioOfficial/simplio-app/commit/26e77205a8900c0c2856d523d836d3ac0526b9e0) websocket-entitlement-for-iOS (#645) - ciripel</sub> |
