@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-20 05:07:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c)</sub> | <sub>[7bc2226](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c) Upgrade flutter (#646) - tenhobi</sub> |
 | <sub>2023-07-19 08:38:08</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f)</sub> | <sub>[65e54f5](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f) Fix android - tenhobi</sub> |
 | <sub>2023-07-19 08:15:45</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/668336e904b1827ac45236abd19a305bb94ca7b1)</sub> | <sub>[668336e](https://github.com/SimplioOfficial/simplio-app/commit/668336e904b1827ac45236abd19a305bb94ca7b1) Use macos-13 - tenhobi</sub> |
 | <sub>2023-07-19 07:57:51</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da)</sub> | <sub>[86995e6](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da) Select XCode before first fastlane - tenhobi</sub> |
