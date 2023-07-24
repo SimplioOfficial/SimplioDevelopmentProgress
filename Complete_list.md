@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-24 07:09:31</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/9be00e94de734d45e3299085390ce569cdbcfad3)</sub> | <sub>[9be00e9](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/9be00e94de734d45e3299085390ce569cdbcfad3) feat: update readme - ciripel</sub> |
 | <sub>2023-07-24 06:29:38</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0120fb310e3e7d8b59eb6fe64389d612f01aa422)</sub> | <sub>[0120fb3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/0120fb310e3e7d8b59eb6fe64389d612f01aa422) feat: add ERC1155 token transfer - ciripel</sub> |
 | <sub>2023-07-20 05:07:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c)</sub> | <sub>[7bc2226](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c) Upgrade flutter (#646) - tenhobi</sub> |
 | <sub>2023-07-19 08:38:08</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f)</sub> | <sub>[65e54f5](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f) Fix android - tenhobi</sub> |
