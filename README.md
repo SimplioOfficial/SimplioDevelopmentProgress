@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5119 commits since 10/09/2021. You can see the complete history in
+There is a total of 5120 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-24 21:20:34</sub> | <sub>[[backend-bsc-wallet-lib:erc1155-sign] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/fab92427a12b951e272d27597b037f1f5e8d89b2)</sub> | <sub>[fab9242](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/fab92427a12b951e272d27597b037f1f5e8d89b2) Separate everything to one method - vrbasji</sub> |
 | <sub>2023-07-24 09:02:02</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/e055a74916575f3f592d191a97e101640f4fb543)</sub> | <sub>[e055a74](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/e055a74916575f3f592d191a97e101640f4fb543) Version 1.5.4 - add ERC1155 token transfer(#39) - ciripel</sub> |
 | <sub>2023-07-24 09:01:17</sub> | <sub>[[backend-bsc-wallet-lib:development] 12 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/19ad8b398b4c...0aec35353a47)</sub> | <sub>[7ae9c00](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/7ae9c008404540ea0607805749f62b2bf118edf4) build: increase version - PitTxid<br>[2386751](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/23867516f491e3c2794050629ec675c5813a2547) chore(release): 1.4.0 - PitTxid<br>[b1682cf](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/b1682cf9b0982ec1daf10b51eeb6307c1b37e852) Merge pull request #19 from SimplioOfficial/rc1... - PitTxid<br>[6e0b29d](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6e0b29dbc8171961517a893b2ec58df1ea3dd9ce) Merge pull request #20 from SimplioOfficial/upd... - PitTxid<br>[c476f33](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/c476f3399f86e297225b19aefb53c918b8a93be1) Merge branch 'master' into rc1.4.1 - PitTxid</sub> |
 | <sub>2023-07-24 08:39:30</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/19ad8b398b4c162359fac1f56ad1bbe937938a29)</sub> | <sub>[19ad8b3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/19ad8b398b4c162359fac1f56ad1bbe937938a29) chore(release): 1.5.4 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5119 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-20 05:07:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c)</sub> | <sub>[7bc2226](https://github.com/SimplioOfficial/simplio-app/commit/7bc2226b7c8cbc048e67b2e09386dc61d367de7c) Upgrade flutter (#646) - tenhobi</sub> |
 | <sub>2023-07-19 08:38:08</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f)</sub> | <sub>[65e54f5](https://github.com/SimplioOfficial/simplio-app/commit/65e54f54ec99715dff1c57e50fd604544164fd8f) Fix android - tenhobi</sub> |
 | <sub>2023-07-19 08:15:45</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/668336e904b1827ac45236abd19a305bb94ca7b1)</sub> | <sub>[668336e](https://github.com/SimplioOfficial/simplio-app/commit/668336e904b1827ac45236abd19a305bb94ca7b1) Use macos-13 - tenhobi</sub> |
-| <sub>2023-07-19 07:57:51</sub> | <sub>[[simplio-app:upgrade-flutter] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da)</sub> | <sub>[86995e6](https://github.com/SimplioOfficial/simplio-app/commit/86995e6ac148bbc75b83f1066bb53c54e88277da) Select XCode before first fastlane - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
