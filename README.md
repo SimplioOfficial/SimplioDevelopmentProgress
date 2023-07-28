@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5137 commits since 10/09/2021. You can see the complete history in
+There is a total of 5138 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-28 14:20:08</sub> | <sub>[[simplio-app:nfts] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59)</sub> | <sub>[b4bf357](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59) Allow initialize - tenhobi</sub> |
 | <sub>2023-07-28 13:52:19</sub> | <sub>[[simplio-app:fix/644-error-401] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e)</sub> | <sub>[ac01747](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e) Update HttpErrorBody fromObject - tenhobi</sub> |
 | <sub>2023-07-28 13:51:44</sub> | <sub>[[simplio-app:fix/672-my-games-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d)</sub> | <sub>[71d105f](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d) Split blocs to list, detail, my games - tenhobi</sub> |
 | <sub>2023-07-28 13:03:23</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d)</sub> | <sub>[764d4a7](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d) feat: fix IERC1155Receiver verification (#42) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5137 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-28 12:09:24</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/dfb5961f934ea72316f57f90a952cf796e1385ae)</sub> | <sub>[dfb5961](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/dfb5961f934ea72316f57f90a952cf796e1385ae) chore: increase version to 1.5.6 - ciripel</sub> |
 | <sub>2023-07-28 12:08:50</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f81b344af52ab0089c6a21f8238f1eb4dd5a0d5b)</sub> | <sub>[f81b344](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/f81b344af52ab0089c6a21f8238f1eb4dd5a0d5b) Do not test for ERC1155Receiver anymore. - ciripel</sub> |
 | <sub>2023-07-28 11:36:30</sub> | <sub>[[simplio-app:fix/644-error-401] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/637928c1cd753d91351825d7b90aeb99d3d8fe0f)</sub> | <sub>[637928c](https://github.com/SimplioOfficial/simplio-app/commit/637928c1cd753d91351825d7b90aeb99d3d8fe0f) Fix RefreshTokenAuthenticator - tenhobi</sub> |
-| <sub>2023-07-27 10:09:51</sub> | <sub>[[simplio-app:nfts] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf2c4e56c214...0d5568afcb89)</sub> | <sub>[82d65e5](https://github.com/SimplioOfficial/simplio-app/commit/82d65e544892880c66d202a2bf033ded1cc7bfc1) Fix lints - tenhobi<br>[0d5568a](https://github.com/SimplioOfficial/simplio-app/commit/0d5568afcb89b959c20868deb73076ccbdbda4a9) Improve isImageValid vs not - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

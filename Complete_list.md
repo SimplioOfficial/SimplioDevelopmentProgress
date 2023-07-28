@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-28 14:20:08</sub> | <sub>[[simplio-app:nfts] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59)</sub> | <sub>[b4bf357](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59) Allow initialize - tenhobi</sub> |
 | <sub>2023-07-28 13:52:19</sub> | <sub>[[simplio-app:fix/644-error-401] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e)</sub> | <sub>[ac01747](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e) Update HttpErrorBody fromObject - tenhobi</sub> |
 | <sub>2023-07-28 13:51:44</sub> | <sub>[[simplio-app:fix/672-my-games-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d)</sub> | <sub>[71d105f](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d) Split blocs to list, detail, my games - tenhobi</sub> |
 | <sub>2023-07-28 13:03:23</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d)</sub> | <sub>[764d4a7](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d) feat: fix IERC1155Receiver verification (#42) - ciripel</sub> |
