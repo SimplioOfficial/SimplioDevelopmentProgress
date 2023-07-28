@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5128 commits since 10/09/2021. You can see the complete history in
+There is a total of 5129 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-28 11:36:30</sub> | <sub>[[simplio-app:fix/644-error-401] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/637928c1cd753d91351825d7b90aeb99d3d8fe0f)</sub> | <sub>[637928c](https://github.com/SimplioOfficial/simplio-app/commit/637928c1cd753d91351825d7b90aeb99d3d8fe0f) Fix RefreshTokenAuthenticator - tenhobi</sub> |
 | <sub>2023-07-27 10:09:51</sub> | <sub>[[simplio-app:nfts] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf2c4e56c214...0d5568afcb89)</sub> | <sub>[82d65e5](https://github.com/SimplioOfficial/simplio-app/commit/82d65e544892880c66d202a2bf033ded1cc7bfc1) Fix lints - tenhobi<br>[0d5568a](https://github.com/SimplioOfficial/simplio-app/commit/0d5568afcb89b959c20868deb73076ccbdbda4a9) Improve isImageValid vs not - tenhobi</sub> |
 | <sub>2023-07-27 09:45:59</sub> | <sub>[[simplio-app:nfts] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf2c4e56c2145b28f660fb7597e373d2368459d7)</sub> | <sub>[bf2c4e5](https://github.com/SimplioOfficial/simplio-app/commit/bf2c4e56c2145b28f660fb7597e373d2368459d7) Add NFT discovery, inventory, detail, buy - tenhobi</sub> |
 | <sub>2023-07-26 21:45:28</sub> | <sub>[[backend-bsc-wallet-lib:erc1155-skip-gas-calculation] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/62bd7b04a58f908af91c7ff0cef0b245ac6e92fd)</sub> | <sub>[62bd7b0](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/62bd7b04a58f908af91c7ff0cef0b245ac6e92fd) Fix tests for gas - vrbasji</sub> |
@@ -17,6 +18,5 @@ There is a total of 5128 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-25 15:08:12</sub> | <sub>[[backend-bsc-wallet-lib:erc1155-sign] 2 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/07b75d02d072...2fc01c4321bc)</sub> | <sub>[87454e6](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/87454e6bc6f82c3e73a71e95d3458641400d9e5c) chore(release): 1.5.5 - vrbasji<br>[2fc01c4](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/2fc01c4321bcf75d9ae1851362185b411bd9cd9e) Increase version - vrbasji</sub> |
 | <sub>2023-07-24 21:31:16</sub> | <sub>[[backend-bsc-wallet-lib:erc1155-sign] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/07b75d02d072d82713c4e91701c9028570ee142a)</sub> | <sub>[07b75d0](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/07b75d02d072d82713c4e91701c9028570ee142a) Update attributes - vrbasji</sub> |
 | <sub>2023-07-24 21:20:34</sub> | <sub>[[backend-bsc-wallet-lib:erc1155-sign] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/fab92427a12b951e272d27597b037f1f5e8d89b2)</sub> | <sub>[fab9242](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/fab92427a12b951e272d27597b037f1f5e8d89b2) Separate everything to one method - vrbasji</sub> |
-| <sub>2023-07-24 09:02:02</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/e055a74916575f3f592d191a97e101640f4fb543)</sub> | <sub>[e055a74](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/e055a74916575f3f592d191a97e101640f4fb543) Version 1.5.4 - add ERC1155 token transfer(#39) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
