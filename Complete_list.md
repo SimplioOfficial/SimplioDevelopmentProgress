@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-31 13:09:32</sub> | <sub>[[simplio-app:bug/667-wrong-numbers-in-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/322699f8aeca61d081b32b22820ffae24442b3a3)</sub> | <sub>[322699f](https://github.com/SimplioOfficial/simplio-app/commit/322699f8aeca61d081b32b22820ffae24442b3a3) fix buyTx networkId in db - ciripel</sub> |
 | <sub>2023-07-31 11:37:03</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c)</sub> | <sub>[98563bf](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c) Fix 688 nft buy button - tenhobi</sub> |
 | <sub>2023-07-31 10:42:57</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec3ca142cb241b794baa91fa03b4fb4114f6cb21)</sub> | <sub>[ec3ca14](https://github.com/SimplioOfficial/simplio-app/commit/ec3ca142cb241b794baa91fa03b4fb4114f6cb21) Simplify - tenhobi</sub> |
 | <sub>2023-07-31 10:39:40</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/088b7a17325d8ffef50939ba217b71b2c89c76cf)</sub> | <sub>[088b7a1](https://github.com/SimplioOfficial/simplio-app/commit/088b7a17325d8ffef50939ba217b71b2c89c76cf) Update NFTs - tenhobi</sub> |
