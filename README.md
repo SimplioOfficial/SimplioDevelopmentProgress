@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5147 commits since 10/09/2021. You can see the complete history in
+There is a total of 5149 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-31 16:03:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3ba0a1196149de05f21f9e846b9d9348909e0d8)</sub> | <sub>[b3ba0a1](https://github.com/SimplioOfficial/simplio-app/commit/b3ba0a1196149de05f21f9e846b9d9348909e0d8)  fix/672-my-games-detail  (#649) - tenhobi</sub> |
+| <sub>2023-07-31 16:02:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b37f10e333097ded732a3a62a156e5a680901836)</sub> | <sub>[b37f10e](https://github.com/SimplioOfficial/simplio-app/commit/b37f10e333097ded732a3a62a156e5a680901836) Nft updates (#650) - tenhobi</sub> |
 | <sub>2023-07-31 13:55:55</sub> | <sub>[[wallet_connect_uri_validator:adding-official-wc-flutter-package-compatibility] 1 new commit](https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/f0888621172f8e0de093d093ff7c4b2d6ccaa647)</sub> | <sub>[f088862](https://github.com/SimplioOfficial/wallet_connect_uri_validator/commit/f0888621172f8e0de093d093ff7c4b2d6ccaa647) updating for compatibility - storkandstark</sub> |
 | <sub>2023-07-31 13:09:32</sub> | <sub>[[simplio-app:bug/667-wrong-numbers-in-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/322699f8aeca61d081b32b22820ffae24442b3a3)</sub> | <sub>[322699f](https://github.com/SimplioOfficial/simplio-app/commit/322699f8aeca61d081b32b22820ffae24442b3a3) fix buyTx networkId in db - ciripel</sub> |
 | <sub>2023-07-31 11:37:03</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c)</sub> | <sub>[98563bf](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c) Fix 688 nft buy button - tenhobi</sub> |
@@ -16,7 +18,5 @@ There is a total of 5147 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-31 07:55:47</sub> | <sub>[[simplio-app:bug/667-wrong-numbers-in-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb52e023b70c5decb609ead51d447da328c0ea5e)</sub> | <sub>[cb52e02](https://github.com/SimplioOfficial/simplio-app/commit/cb52e023b70c5decb609ead51d447da328c0ea5e) fix dead tx call when no wallets are present - ciripel</sub> |
 | <sub>2023-07-31 07:13:44</sub> | <sub>[[simplio-app:fix/672-my-games-detail] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/71d105fafe5a...856feb61edd5)</sub> | <sub>[059441e](https://github.com/SimplioOfficial/simplio-app/commit/059441e71d815904e0b85c610f6877953111149a) fix/644-error-401 (#648) - tenhobi<br>[7e322fc](https://github.com/SimplioOfficial/simplio-app/commit/7e322fc610a5b4ee3b06c4c3e9f04be66bc5dc38) Nfts (#647) - tenhobi<br>[8a240c8](https://github.com/SimplioOfficial/simplio-app/commit/8a240c8329677b64ffe9e7469821733560e8804e) Merge branch 'dev' into fix/672-my-games-detail - tenhobi<br>[856feb6](https://github.com/SimplioOfficial/simplio-app/commit/856feb61edd542e1355ef595630db9177d870f40) Fix issues and finish - tenhobi</sub> |
 | <sub>2023-07-28 14:58:46</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7e322fc610a5b4ee3b06c4c3e9f04be66bc5dc38)</sub> | <sub>[7e322fc](https://github.com/SimplioOfficial/simplio-app/commit/7e322fc610a5b4ee3b06c4c3e9f04be66bc5dc38) Nfts (#647) - tenhobi</sub> |
-| <sub>2023-07-28 14:25:17</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/059441e71d815904e0b85c610f6877953111149a)</sub> | <sub>[059441e](https://github.com/SimplioOfficial/simplio-app/commit/059441e71d815904e0b85c610f6877953111149a) fix/644-error-401 (#648) - tenhobi</sub> |
-| <sub>2023-07-28 14:20:08</sub> | <sub>[[simplio-app:nfts] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59)</sub> | <sub>[b4bf357](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59) Allow initialize - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
