@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5144 commits since 10/09/2021. You can see the complete history in
+There is a total of 5145 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-07-31 11:37:03</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c)</sub> | <sub>[98563bf](https://github.com/SimplioOfficial/simplio-app/commit/98563bf6f1350db577ab6c2566fb945bea6f5a5c) Fix 688 nft buy button - tenhobi</sub> |
 | <sub>2023-07-31 10:42:57</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ec3ca142cb241b794baa91fa03b4fb4114f6cb21)</sub> | <sub>[ec3ca14](https://github.com/SimplioOfficial/simplio-app/commit/ec3ca142cb241b794baa91fa03b4fb4114f6cb21) Simplify - tenhobi</sub> |
 | <sub>2023-07-31 10:39:40</sub> | <sub>[[simplio-app:nft-updates] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/088b7a17325d8ffef50939ba217b71b2c89c76cf)</sub> | <sub>[088b7a1](https://github.com/SimplioOfficial/simplio-app/commit/088b7a17325d8ffef50939ba217b71b2c89c76cf) Update NFTs - tenhobi</sub> |
 | <sub>2023-07-31 07:55:47</sub> | <sub>[[simplio-app:bug/667-wrong-numbers-in-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb52e023b70c5decb609ead51d447da328c0ea5e)</sub> | <sub>[cb52e02](https://github.com/SimplioOfficial/simplio-app/commit/cb52e023b70c5decb609ead51d447da328c0ea5e) fix dead tx call when no wallets are present - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5144 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-07-28 14:20:08</sub> | <sub>[[simplio-app:nfts] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59)</sub> | <sub>[b4bf357](https://github.com/SimplioOfficial/simplio-app/commit/b4bf3572ee2b0a72455eded553b24dd6127e7e59) Allow initialize - tenhobi</sub> |
 | <sub>2023-07-28 13:52:19</sub> | <sub>[[simplio-app:fix/644-error-401] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e)</sub> | <sub>[ac01747](https://github.com/SimplioOfficial/simplio-app/commit/ac01747d52c369bb45e523736dc9ecd972a9f44e) Update HttpErrorBody fromObject - tenhobi</sub> |
 | <sub>2023-07-28 13:51:44</sub> | <sub>[[simplio-app:fix/672-my-games-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d)</sub> | <sub>[71d105f](https://github.com/SimplioOfficial/simplio-app/commit/71d105fafe5accc547b9cf5a31ff5fe69f58938d) Split blocs to list, detail, my games - tenhobi</sub> |
-| <sub>2023-07-28 13:03:23</sub> | <sub>[[backend-bsc-wallet-lib:master] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d)</sub> | <sub>[764d4a7](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/764d4a72a434cc8466c7562cd9ecbca3d8da145d) feat: fix IERC1155Receiver verification (#42) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
