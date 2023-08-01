@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5200 commits since 10/09/2021. You can see the complete history in
+There is a total of 5201 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
 | <sub>2023-08-01 09:12:30</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19)</sub> | <sub>[3682451](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19) Update nfts to align with BE - tenhobi</sub> |
 | <sub>2023-08-01 08:41:12</sub> | <sub>[[simplio-app:bug/498-app-stucks-on-dark-screen-when-swipe-on-main-screen] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/ea6c0d9c30fe^...00b0f9423fb7)</sub> | <sub>[ea6c0d9](https://github.com/SimplioOfficial/simplio-app/commit/ea6c0d9c30fe04fb4408b61b5fd8e519bcfe4aa7) bug/498-app-stucks-on-dark-screen-when-swipe-on... - Tomas Petrik<br>[83ed9d0](https://github.com/SimplioOfficial/simplio-app/commit/83ed9d0314faba2afea9769ba533dc56f4fcada9) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[1402682](https://github.com/SimplioOfficial/simplio-app/commit/140268209bff5d521f79b9cfa50fccda0d2101a4) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[c01115e](https://github.com/SimplioOfficial/simplio-app/commit/c01115e6d346294c29991b5a946ec10b968fc2a1) Merge branch 'master' of github.com:SimplioOffi... - Tomas Petrik<br>[00b0f94](https://github.com/SimplioOfficial/simplio-app/commit/00b0f9423fb79619886adf6de5cb269db443c43d) Bug/504 move willpopccope on top (#510) - TomasPetrik</sub> |
@@ -17,6 +18,5 @@ There is a total of 5200 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:bug/388-improve-scroll-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220)</sub> | <sub>[1a4f0c4](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220) improve bouncing - ciripel</sub> |
 | <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:fix/644-error-401] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bd508bdcd894^...229890ceb13d)</sub> | <sub>[bd508bd](https://github.com/SimplioOfficial/simplio-app/commit/bd508bdcd8946e18a679ee310b9fefe1f2334413) Fix RefreshTokenAuthenticator - tenhobi<br>[229890c](https://github.com/SimplioOfficial/simplio-app/commit/229890ceb13d7e16cc1664cb3248b8473465898d) Update HttpErrorBody fromObject - tenhobi</sub> |
 | <sub>2023-08-01 08:41:08</sub> | <sub>[[simplio-app:bug/551-fix-currency-and-amount-formating] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35114ca3319a6d17eb17322ef213caa68dd90923)</sub> | <sub>[35114ca](https://github.com/SimplioOfficial/simplio-app/commit/35114ca3319a6d17eb17322ef213caa68dd90923) bug/551-fix-currency-and-amount-formatting - ciripel</sub> |
-| <sub>2023-08-01 08:41:08</sub> | <sub>[[simplio-app:task/501-app-load] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36044f324e628c0455c908a483e2b3db949a0918)</sub> | <sub>[36044f3](https://github.com/SimplioOfficial/simplio-app/commit/36044f324e628c0455c908a483e2b3db949a0918) Fix app load - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
