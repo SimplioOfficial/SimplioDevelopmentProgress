@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-02 15:48:13</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec)</sub> | <sub>[66637a5](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec) Update - tenhobi</sub> |
 | <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
 | <sub>2023-08-01 09:12:30</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19)</sub> | <sub>[3682451](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19) Update nfts to align with BE - tenhobi</sub> |

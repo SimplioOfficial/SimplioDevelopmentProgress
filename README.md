@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5201 commits since 10/09/2021. You can see the complete history in
+There is a total of 5202 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-02 15:48:13</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec)</sub> | <sub>[66637a5](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec) Update - tenhobi</sub> |
 | <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
 | <sub>2023-08-01 09:12:30</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19)</sub> | <sub>[3682451](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19) Update nfts to align with BE - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5201 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-01 08:41:10</sub> | <sub>[[simplio-app:task/539-discovery-pagination] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3602185bf597^...196d6f193ad6)</sub> | <sub>[3602185](https://github.com/SimplioOfficial/simplio-app/commit/3602185bf597b09c3db635e5abc4395c24639621) Updates - tenhobi<br>[c7bb544](https://github.com/SimplioOfficial/simplio-app/commit/c7bb54478491c4589d1dfd0c36f7eded744eb278) Merge branch 'dev' into task/539-discovery-pagi... - tenhobi<br>[196d6f1](https://github.com/SimplioOfficial/simplio-app/commit/196d6f193ad6d302c6b2d305ad70b47246125f66) Update current currency - tenhobi</sub> |
 | <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:bug/388-improve-scroll-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220)</sub> | <sub>[1a4f0c4](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220) improve bouncing - ciripel</sub> |
 | <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:fix/644-error-401] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bd508bdcd894^...229890ceb13d)</sub> | <sub>[bd508bd](https://github.com/SimplioOfficial/simplio-app/commit/bd508bdcd8946e18a679ee310b9fefe1f2334413) Fix RefreshTokenAuthenticator - tenhobi<br>[229890c](https://github.com/SimplioOfficial/simplio-app/commit/229890ceb13d7e16cc1664cb3248b8473465898d) Update HttpErrorBody fromObject - tenhobi</sub> |
-| <sub>2023-08-01 08:41:08</sub> | <sub>[[simplio-app:bug/551-fix-currency-and-amount-formating] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35114ca3319a6d17eb17322ef213caa68dd90923)</sub> | <sub>[35114ca](https://github.com/SimplioOfficial/simplio-app/commit/35114ca3319a6d17eb17322ef213caa68dd90923) bug/551-fix-currency-and-amount-formatting - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
