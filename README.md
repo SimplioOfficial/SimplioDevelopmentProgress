@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5202 commits since 10/09/2021. You can see the complete history in
+There is a total of 5203 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-03 13:23:18</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f)</sub> | <sub>[d8bc0b1](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f) Update - tenhobi</sub> |
 | <sub>2023-08-02 15:48:13</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec)</sub> | <sub>[66637a5](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec) Update - tenhobi</sub> |
 | <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
@@ -17,6 +18,5 @@ There is a total of 5202 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-01 08:41:11</sub> | <sub>[[simplio-app:task/576-wallet-transaction-history] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/69730cf3736b^...0ee4ed4d7a53)</sub> | <sub>[69730cf](https://github.com/SimplioOfficial/simplio-app/commit/69730cf3736bc926018949fe4754a4cd75ed81c6) corrected cubits folder name - ciripel<br>[b2e0141](https://github.com/SimplioOfficial/simplio-app/commit/b2e0141714ae8e8ce4aa563bfebc4cd24ce87884) finish AssetDetail transactions - ciripel<br>[32b06d9](https://github.com/SimplioOfficial/simplio-app/commit/32b06d97b0759d7927647852dc72f2767ca97a24) pop Detail Screen after removing asset - ciripel<br>[0ee4ed4](https://github.com/SimplioOfficial/simplio-app/commit/0ee4ed4d7a53c0431b43a3c8fcf0bda73f94b12b) fixed Headers in CustomScrollView screens - ciripel</sub> |
 | <sub>2023-08-01 08:41:10</sub> | <sub>[[simplio-app:task/539-discovery-pagination] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3602185bf597^...196d6f193ad6)</sub> | <sub>[3602185](https://github.com/SimplioOfficial/simplio-app/commit/3602185bf597b09c3db635e5abc4395c24639621) Updates - tenhobi<br>[c7bb544](https://github.com/SimplioOfficial/simplio-app/commit/c7bb54478491c4589d1dfd0c36f7eded744eb278) Merge branch 'dev' into task/539-discovery-pagi... - tenhobi<br>[196d6f1](https://github.com/SimplioOfficial/simplio-app/commit/196d6f193ad6d302c6b2d305ad70b47246125f66) Update current currency - tenhobi</sub> |
 | <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:bug/388-improve-scroll-behaviour] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220)</sub> | <sub>[1a4f0c4](https://github.com/SimplioOfficial/simplio-app/commit/1a4f0c4ae11dc3045af0fc1ce6dca7c223827220) improve bouncing - ciripel</sub> |
-| <sub>2023-08-01 08:41:09</sub> | <sub>[[simplio-app:fix/644-error-401] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bd508bdcd894^...229890ceb13d)</sub> | <sub>[bd508bd](https://github.com/SimplioOfficial/simplio-app/commit/bd508bdcd8946e18a679ee310b9fefe1f2334413) Fix RefreshTokenAuthenticator - tenhobi<br>[229890c](https://github.com/SimplioOfficial/simplio-app/commit/229890ceb13d7e16cc1664cb3248b8473465898d) Update HttpErrorBody fromObject - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

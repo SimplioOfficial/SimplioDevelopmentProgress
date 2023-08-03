@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-03 13:23:18</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f)</sub> | <sub>[d8bc0b1](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f) Update - tenhobi</sub> |
 | <sub>2023-08-02 15:48:13</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec)</sub> | <sub>[66637a5](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec) Update - tenhobi</sub> |
 | <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
