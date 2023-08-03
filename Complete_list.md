@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-03 17:36:44</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639)</sub> | <sub>[2596ff9](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639) Remove unused const - tenhobi</sub> |
 | <sub>2023-08-03 17:34:25</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c1fb2c969afff33065c58ba8b2045821d91159b2)</sub> | <sub>[c1fb2c9](https://github.com/SimplioOfficial/simplio-app/commit/c1fb2c969afff33065c58ba8b2045821d91159b2) Update socials, compute ideal number of items - tenhobi</sub> |
 | <sub>2023-08-03 17:16:36</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9136dc463eb444acd97b8d948e02868d15eb4a1)</sub> | <sub>[e9136dc](https://github.com/SimplioOfficial/simplio-app/commit/e9136dc463eb444acd97b8d948e02868d15eb4a1) Final updates - tenhobi</sub> |
 | <sub>2023-08-03 13:23:18</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f)</sub> | <sub>[d8bc0b1](https://github.com/SimplioOfficial/simplio-app/commit/d8bc0b19341bef74a0b3052b71588cf561e6921f) Update - tenhobi</sub> |
