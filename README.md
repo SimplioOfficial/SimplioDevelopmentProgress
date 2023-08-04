@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5208 commits since 10/09/2021. You can see the complete history in
+There is a total of 5209 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-04 08:56:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec)</sub> | <sub>[4ee94e2](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec) Secure type safety for route extras (#653) - tenhobi</sub> |
 | <sub>2023-08-04 08:09:09</sub> | <sub>[[simplio-app:fix/route-extra] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1)</sub> | <sub>[d9a3cd6](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1) Secure type safety for route extras - tenhobi</sub> |
 | <sub>2023-08-03 23:10:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df)</sub> | <sub>[9c4d251](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df) Nft updates2 (#652) - tenhobi</sub> |
 | <sub>2023-08-03 17:36:44</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639)</sub> | <sub>[2596ff9](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639) Remove unused const - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5208 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-02 15:48:13</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec)</sub> | <sub>[66637a5](https://github.com/SimplioOfficial/simplio-app/commit/66637a5222fcede55c96a0aa6e4f9d521c5ed9ec) Update - tenhobi</sub> |
 | <sub>2023-08-01 09:32:06</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/36824513cfcb...750ad05b0bc5)</sub> |
 | <sub>2023-08-01 09:27:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/0945854af618...24fbf1e13ad1)</sub> |
-| <sub>2023-08-01 09:12:30</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19)</sub> | <sub>[3682451](https://github.com/SimplioOfficial/simplio-app/commit/36824513cfcb15687befae06a6aadabb1bc30a19) Update nfts to align with BE - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
