@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-04 12:48:00</sub> | <sub>[[simplio-app:task/353-kyc-close] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cc21393cedc81020237b5264c04e211855917275)</sub> | <sub>[cc21393](https://github.com/SimplioOfficial/simplio-app/commit/cc21393cedc81020237b5264c04e211855917275) Add close button to KYC dialog - tenhobi</sub> |
 | <sub>2023-08-04 08:56:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec)</sub> | <sub>[4ee94e2](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec) Secure type safety for route extras (#653) - tenhobi</sub> |
 | <sub>2023-08-04 08:09:09</sub> | <sub>[[simplio-app:fix/route-extra] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1)</sub> | <sub>[d9a3cd6](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1) Secure type safety for route extras - tenhobi</sub> |
 | <sub>2023-08-03 23:10:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df)</sub> | <sub>[9c4d251](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df) Nft updates2 (#652) - tenhobi</sub> |
