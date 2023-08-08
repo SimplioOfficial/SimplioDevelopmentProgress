@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-08 15:12:51</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/694e84a4e578bb43132225fd2fff9faceee94c45)</sub> | <sub>[694e84a](https://github.com/SimplioOfficial/simplio-app/commit/694e84a4e578bb43132225fd2fff9faceee94c45) fix/696-empty-my-games + 689-white-webview (#656) - tenhobi</sub> |
+| <sub>2023-08-08 15:12:18</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9e8204dd004fffdac123f8f22624c127010114b9)</sub> | <sub>[9e8204d](https://github.com/SimplioOfficial/simplio-app/commit/9e8204dd004fffdac123f8f22624c127010114b9) Use wallet as target when no funds (#655) - tenhobi</sub> |
 | <sub>2023-08-08 14:53:08</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64466ee8b2871f3ffb0f31e730025afc37602875)</sub> | <sub>[64466ee](https://github.com/SimplioOfficial/simplio-app/commit/64466ee8b2871f3ffb0f31e730025afc37602875) Remove redundant mixin - tenhobi</sub> |
 | <sub>2023-08-08 14:45:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/038fbcad9186...678640454fc7)</sub> |
 | <sub>2023-08-08 14:05:15</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c)</sub> | <sub>[038fbca](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c) Put transparent background in webview everywhere - tenhobi</sub> |
