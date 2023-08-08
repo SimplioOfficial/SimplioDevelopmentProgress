@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5217 commits since 10/09/2021. You can see the complete history in
+There is a total of 5218 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-08 14:45:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/038fbcad9186...678640454fc7)</sub> |
 | <sub>2023-08-08 14:05:15</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c)</sub> | <sub>[038fbca](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c) Put transparent background in webview everywhere - tenhobi</sub> |
 | <sub>2023-08-08 13:58:50</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c)</sub> | <sub>[d40a000](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c) Show error snackbar when game cannot be loaded - tenhobi</sub> |
 | <sub>2023-08-08 10:00:47</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59)</sub> | <sub>[6ea2008](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59) Fix my games with no items - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5217 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-05 10:42:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf09913e55392b60431eaca8b5d853a2b5ba0e9f)</sub> | <sub>[bf09913](https://github.com/SimplioOfficial/simplio-app/commit/bf09913e55392b60431eaca8b5d853a2b5ba0e9f) Add close button to KYC dialog (#654) - tenhobi</sub> |
 | <sub>2023-08-04 12:48:00</sub> | <sub>[[simplio-app:task/353-kyc-close] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cc21393cedc81020237b5264c04e211855917275)</sub> | <sub>[cc21393](https://github.com/SimplioOfficial/simplio-app/commit/cc21393cedc81020237b5264c04e211855917275) Add close button to KYC dialog - tenhobi</sub> |
 | <sub>2023-08-04 08:56:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec)</sub> | <sub>[4ee94e2](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec) Secure type safety for route extras (#653) - tenhobi</sub> |
-| <sub>2023-08-04 08:09:09</sub> | <sub>[[simplio-app:fix/route-extra] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1)</sub> | <sub>[d9a3cd6](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1) Secure type safety for route extras - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

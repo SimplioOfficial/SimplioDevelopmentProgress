@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-08 14:45:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/038fbcad9186...678640454fc7)</sub> |
 | <sub>2023-08-08 14:05:15</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c)</sub> | <sub>[038fbca](https://github.com/SimplioOfficial/simplio-app/commit/038fbcad918608e0ead4454211e8a3da6d01316c) Put transparent background in webview everywhere - tenhobi</sub> |
 | <sub>2023-08-08 13:58:50</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c)</sub> | <sub>[d40a000](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c) Show error snackbar when game cannot be loaded - tenhobi</sub> |
 | <sub>2023-08-08 10:00:47</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59)</sub> | <sub>[6ea2008](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59) Fix my games with no items - tenhobi</sub> |
