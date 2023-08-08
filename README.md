@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5222 commits since 10/09/2021. You can see the complete history in
+There is a total of 5223 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-08 15:50:32</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0cafd230889c055791e8172a33a6b6f6b2bca67b)</sub> | <sub>[0cafd23](https://github.com/SimplioOfficial/simplio-app/commit/0cafd230889c055791e8172a33a6b6f6b2bca67b) purge existing wc implementation - ciripel</sub> |
 | <sub>2023-08-08 15:25:49</sub> | <sub>[[simplio-app:fix/692-nft-from-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bb54af79a7674f271363a23c96e52937d768ea05)</sub> | <sub>[bb54af7](https://github.com/SimplioOfficial/simplio-app/commit/bb54af79a7674f271363a23c96e52937d768ea05) Don't put nft from inventory list inside detail... - tenhobi</sub> |
 | <sub>2023-08-08 15:12:51</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/694e84a4e578bb43132225fd2fff9faceee94c45)</sub> | <sub>[694e84a](https://github.com/SimplioOfficial/simplio-app/commit/694e84a4e578bb43132225fd2fff9faceee94c45) fix/696-empty-my-games + 689-white-webview (#656) - tenhobi</sub> |
 | <sub>2023-08-08 15:12:18</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9e8204dd004fffdac123f8f22624c127010114b9)</sub> | <sub>[9e8204d](https://github.com/SimplioOfficial/simplio-app/commit/9e8204dd004fffdac123f8f22624c127010114b9) Use wallet as target when no funds (#655) - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5222 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-08 13:58:50</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c)</sub> | <sub>[d40a000](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c) Show error snackbar when game cannot be loaded - tenhobi</sub> |
 | <sub>2023-08-08 10:00:47</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59)</sub> | <sub>[6ea2008](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59) Fix my games with no items - tenhobi</sub> |
 | <sub>2023-08-08 09:23:54</sub> | <sub>[[simplio-app:task/512-swap-any-token] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2413fa1d9b127c6b3354e1a03ec50cb156002632)</sub> | <sub>[2413fa1](https://github.com/SimplioOfficial/simplio-app/commit/2413fa1d9b127c6b3354e1a03ec50cb156002632) Swap to when no funds on inventory/coins - tenhobi</sub> |
-| <sub>2023-08-07 14:54:42</sub> | <sub>[[simplio-app:task/512-swap-any-token] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fab0f7935c251b7b3ff45cb9fa1894285f3fd7a4)</sub> | <sub>[fab0f79](https://github.com/SimplioOfficial/simplio-app/commit/fab0f7935c251b7b3ff45cb9fa1894285f3fd7a4) Use wallet as target when no funds - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
