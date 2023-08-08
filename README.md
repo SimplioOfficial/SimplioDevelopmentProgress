@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5215 commits since 10/09/2021. You can see the complete history in
+There is a total of 5216 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-08 13:58:50</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c)</sub> | <sub>[d40a000](https://github.com/SimplioOfficial/simplio-app/commit/d40a00094bfa46a5359c69e17f153be898b7ec5c) Show error snackbar when game cannot be loaded - tenhobi</sub> |
 | <sub>2023-08-08 10:00:47</sub> | <sub>[[simplio-app:fix/696-empty-my-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59)</sub> | <sub>[6ea2008](https://github.com/SimplioOfficial/simplio-app/commit/6ea2008847d8a6e0cee1fbce27b63fb57fa4bd59) Fix my games with no items - tenhobi</sub> |
 | <sub>2023-08-08 09:23:54</sub> | <sub>[[simplio-app:task/512-swap-any-token] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2413fa1d9b127c6b3354e1a03ec50cb156002632)</sub> | <sub>[2413fa1](https://github.com/SimplioOfficial/simplio-app/commit/2413fa1d9b127c6b3354e1a03ec50cb156002632) Swap to when no funds on inventory/coins - tenhobi</sub> |
 | <sub>2023-08-07 14:54:42</sub> | <sub>[[simplio-app:task/512-swap-any-token] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fab0f7935c251b7b3ff45cb9fa1894285f3fd7a4)</sub> | <sub>[fab0f79](https://github.com/SimplioOfficial/simplio-app/commit/fab0f7935c251b7b3ff45cb9fa1894285f3fd7a4) Use wallet as target when no funds - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5215 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-04 08:56:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec)</sub> | <sub>[4ee94e2](https://github.com/SimplioOfficial/simplio-app/commit/4ee94e26cb0d8c507486e635cd122ccd4eebabec) Secure type safety for route extras (#653) - tenhobi</sub> |
 | <sub>2023-08-04 08:09:09</sub> | <sub>[[simplio-app:fix/route-extra] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1)</sub> | <sub>[d9a3cd6](https://github.com/SimplioOfficial/simplio-app/commit/d9a3cd6d1123226036ba048fbef2f88022dcc8d1) Secure type safety for route extras - tenhobi</sub> |
 | <sub>2023-08-03 23:10:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df)</sub> | <sub>[9c4d251](https://github.com/SimplioOfficial/simplio-app/commit/9c4d251f4065e664a5d032077e5deee28109c4df) Nft updates2 (#652) - tenhobi</sub> |
-| <sub>2023-08-03 17:36:44</sub> | <sub>[[simplio-app:nft-updates2] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639)</sub> | <sub>[2596ff9](https://github.com/SimplioOfficial/simplio-app/commit/2596ff9483830aeeacec370558be77bc4ed41639) Remove unused const - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
