@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-11 17:30:30</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74)</sub> | <sub>[bd71aed](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74) Set up ios flavors, config firebase options - tenhobi</sub> |
 | <sub>2023-08-11 14:31:03</sub> | <sub>[[simplio-app:revert-661-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42)</sub> | <sub>[40e0bdb](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42) Revert "Release 0.0.17 (#661)" - ciripel</sub> |
 | <sub>2023-08-11 14:11:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25)</sub> | <sub>[cbc0588](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25) Release 0.0.17 (#661) - tenhobi</sub> |
 | <sub>2023-08-11 13:18:13</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d)</sub> | <sub>[053285c](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d) Setup app enviroment and configs - tenhobi</sub> |

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5245 commits since 10/09/2021. You can see the complete history in
+There is a total of 5246 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-11 17:30:30</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74)</sub> | <sub>[bd71aed](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74) Set up ios flavors, config firebase options - tenhobi</sub> |
 | <sub>2023-08-11 14:31:03</sub> | <sub>[[simplio-app:revert-661-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42)</sub> | <sub>[40e0bdb](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42) Revert "Release 0.0.17 (#661)" - ciripel</sub> |
 | <sub>2023-08-11 14:11:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25)</sub> | <sub>[cbc0588](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25) Release 0.0.17 (#661) - tenhobi</sub> |
 | <sub>2023-08-11 13:18:13</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d)</sub> | <sub>[053285c](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d) Setup app enviroment and configs - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5245 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-10 16:40:28</sub> | <sub>[[simplio-app:feat/681-logging] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a59aa4f30789...ee493dfd0572)</sub> | <sub>[7eaf3a3](https://github.com/SimplioOfficial/simplio-app/commit/7eaf3a3bd9323b0261e76bee69d49daa80852c63) Update getid scopes - tenhobi<br>[ee493df](https://github.com/SimplioOfficial/simplio-app/commit/ee493dfd0572a169fd6cc91da4a274ad34d4ae6d) Make network interceptor, add some w and e - tenhobi</sub> |
 | <sub>2023-08-10 12:13:44</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74acc212d8eb5b61977b821c1be4570efe1b1e75)</sub> | <sub>[74acc21](https://github.com/SimplioOfficial/simplio-app/commit/74acc212d8eb5b61977b821c1be4570efe1b1e75) oneClickGameStart - ciripel</sub> |
 | <sub>2023-08-10 10:52:59</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/8aa955e36cd6...cb27de55b70b)</sub> | <sub>[14a5d67](https://github.com/SimplioOfficial/simplio-app/commit/14a5d67bc519d59d70b4fde129af7babdcd79914) wip: dialog adjusting theme - ciripel<br>[cb27de5](https://github.com/SimplioOfficial/simplio-app/commit/cb27de55b70b13d0331fe575ee9bee48165d33bc) remove wcm-modal from DOM - ciripel</sub> |
-| <sub>2023-08-09 16:19:42</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8aa955e36cd617d5203b87768fe574379f3431be)</sub> | <sub>[8aa955e](https://github.com/SimplioOfficial/simplio-app/commit/8aa955e36cd617d5203b87768fe574379f3431be) add signDataRequest sign - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
