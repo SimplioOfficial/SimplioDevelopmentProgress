@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-11 13:18:13</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d)</sub> | <sub>[053285c](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d) Setup app enviroment and configs - tenhobi</sub> |
 | <sub>2023-08-11 10:46:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce)</sub> | <sub>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi</sub> |
 | <sub>2023-08-11 10:45:52</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd)</sub> | <sub>[f8bfa84](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd) task/494-update-coin-inventory (#659) - tenhobi</sub> |
 | <sub>2023-08-11 08:59:34</sub> | <sub>[[simplio-app:task/494-update-coin-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7d5c2d9f88c56123bae0893a05e8916398e02a6c)</sub> | <sub>[7d5c2d9](https://github.com/SimplioOfficial/simplio-app/commit/7d5c2d9f88c56123bae0893a05e8916398e02a6c) Highlight discover/coins when bought - tenhobi</sub> |
