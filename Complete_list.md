@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-11 14:31:03</sub> | <sub>[[simplio-app:revert-661-dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42)</sub> | <sub>[40e0bdb](https://github.com/SimplioOfficial/simplio-app/commit/40e0bdb54313ca853ff21c8803204f26bc5efe42) Revert "Release 0.0.17 (#661)" - ciripel</sub> |
 | <sub>2023-08-11 14:11:29</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25)</sub> | <sub>[cbc0588](https://github.com/SimplioOfficial/simplio-app/commit/cbc05882f658999ae9bc0adc65399820d77ddc25) Release 0.0.17 (#661) - tenhobi</sub> |
 | <sub>2023-08-11 13:18:13</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d)</sub> | <sub>[053285c](https://github.com/SimplioOfficial/simplio-app/commit/053285c424b21f377722843a65bf489e3088d78d) Setup app enviroment and configs - tenhobi</sub> |
 | <sub>2023-08-11 10:46:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce)</sub> | <sub>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi</sub> |
