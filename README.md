@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5248 commits since 10/09/2021. You can see the complete history in
+There is a total of 5249 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-14 06:29:26</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7)</sub> | <sub>[504f29b](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7) Track screens - tenhobi</sub> |
 | <sub>2023-08-14 05:46:11</sub> | <sub>[[simplio-app:feat/681-logging] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/128bac6a8886...5a8b7006c52e)</sub> | <sub>[f8bfa84](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd) task/494-update-coin-inventory (#659) - tenhobi<br>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi<br>[5a8b700](https://github.com/SimplioOfficial/simplio-app/commit/5a8b7006c52ef99b4ba57777236df38fb54c3c8c) Merge branch 'dev' into feat/681-logging - tenhobi</sub> |
 | <sub>2023-08-11 18:08:49</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/128bac6a8886a46c544a59737a7b66eb8c24f3b7)</sub> | <sub>[128bac6](https://github.com/SimplioOfficial/simplio-app/commit/128bac6a8886a46c544a59737a7b66eb8c24f3b7) Unify error name - tenhobi</sub> |
 | <sub>2023-08-11 17:30:30</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74)</sub> | <sub>[bd71aed](https://github.com/SimplioOfficial/simplio-app/commit/bd71aed27340d169c05ce482b5bdeba0af156a74) Set up ios flavors, config firebase options - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5248 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-11 10:46:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce)</sub> | <sub>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi</sub> |
 | <sub>2023-08-11 10:45:52</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd)</sub> | <sub>[f8bfa84](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd) task/494-update-coin-inventory (#659) - tenhobi</sub> |
 | <sub>2023-08-11 08:59:34</sub> | <sub>[[simplio-app:task/494-update-coin-inventory] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7d5c2d9f88c56123bae0893a05e8916398e02a6c)</sub> | <sub>[7d5c2d9](https://github.com/SimplioOfficial/simplio-app/commit/7d5c2d9f88c56123bae0893a05e8916398e02a6c) Highlight discover/coins when bought - tenhobi</sub> |
-| <sub>2023-08-10 16:40:28</sub> | <sub>[[simplio-app:feat/681-logging] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a59aa4f30789...ee493dfd0572)</sub> | <sub>[7eaf3a3](https://github.com/SimplioOfficial/simplio-app/commit/7eaf3a3bd9323b0261e76bee69d49daa80852c63) Update getid scopes - tenhobi<br>[ee493df](https://github.com/SimplioOfficial/simplio-app/commit/ee493dfd0572a169fd6cc91da4a274ad34d4ae6d) Make network interceptor, add some w and e - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
