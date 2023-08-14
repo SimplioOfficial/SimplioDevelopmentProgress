@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-14 12:11:15</sub> | <sub>[[simplio-app:fix/683-decimal-rules] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6510966e9d4bcbdb38352423ecf0d800b5228bb9)</sub> | <sub>[6510966](https://github.com/SimplioOfficial/simplio-app/commit/6510966e9d4bcbdb38352423ecf0d800b5228bb9) Rework decimals - tenhobi</sub> |
 | <sub>2023-08-14 11:29:15</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/13f1b196a8562222fe09d32360fe3eeb46dc8044)</sub> | <sub>[13f1b19](https://github.com/SimplioOfficial/simplio-app/commit/13f1b196a8562222fe09d32360fe3eeb46dc8044) improve tx wc2 style window - ciripel</sub> |
 | <sub>2023-08-14 07:10:00</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3c3a4bdb6e51fdf55bff9c492139b77ec435f883)</sub> | <sub>[3c3a4bd](https://github.com/SimplioOfficial/simplio-app/commit/3c3a4bdb6e51fdf55bff9c492139b77ec435f883) Add ios flavors to ci - tenhobi</sub> |
 | <sub>2023-08-14 06:29:26</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7)</sub> | <sub>[504f29b](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7) Track screens - tenhobi</sub> |
