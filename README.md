@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5267 commits since 10/09/2021. You can see the complete history in
+There is a total of 5268 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-15 13:48:04</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e14c0b3bc7e76a685065920c0f5333ed7410d49)</sub> | <sub>[1e14c0b](https://github.com/SimplioOfficial/simplio-app/commit/1e14c0b3bc7e76a685065920c0f5333ed7410d49) Use scheme in fastlane - tenhobi</sub> |
 | <sub>2023-08-15 13:23:40</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f23456ccc9ee8f789e4606eb7cb73a280458217)</sub> | <sub>[7f23456](https://github.com/SimplioOfficial/simplio-app/commit/7f23456ccc9ee8f789e4606eb7cb73a280458217) Update and fix discover game, coin, nft items (... - tenhobi</sub> |
 | <sub>2023-08-15 13:19:24</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00)</sub> | <sub>[73d0d5e](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00) Update fastlane - tenhobi</sub> |
 | <sub>2023-08-15 12:57:40</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957)</sub> | <sub>[dfd45fb](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957) Update - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5267 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-15 11:46:25</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/524d47a1716c1f6cc7dc3a8d501e096371b093bc)</sub> | <sub>[524d47a](https://github.com/SimplioOfficial/simplio-app/commit/524d47a1716c1f6cc7dc3a8d501e096371b093bc) undate sio_wallet_connect - ciripel</sub> |
 | <sub>2023-08-15 09:18:45</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/85864790dc34ab751d9de302d0e094bc46eaa441)</sub> | <sub>[8586479](https://github.com/SimplioOfficial/simplio-app/commit/85864790dc34ab751d9de302d0e094bc46eaa441) Use SSH url - tenhobi</sub> |
 | <sub>2023-08-15 09:14:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0)</sub> | <sub>[1951ea6](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0) Fix cut loading indicator (#664) - tenhobi</sub> |
-| <sub>2023-08-15 09:14:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2)</sub> | <sub>[f358482](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2) Use local time in DateText (#665) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

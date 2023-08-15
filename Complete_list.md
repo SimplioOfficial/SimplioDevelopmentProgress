@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-15 13:48:04</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1e14c0b3bc7e76a685065920c0f5333ed7410d49)</sub> | <sub>[1e14c0b](https://github.com/SimplioOfficial/simplio-app/commit/1e14c0b3bc7e76a685065920c0f5333ed7410d49) Use scheme in fastlane - tenhobi</sub> |
 | <sub>2023-08-15 13:23:40</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7f23456ccc9ee8f789e4606eb7cb73a280458217)</sub> | <sub>[7f23456](https://github.com/SimplioOfficial/simplio-app/commit/7f23456ccc9ee8f789e4606eb7cb73a280458217) Update and fix discover game, coin, nft items (... - tenhobi</sub> |
 | <sub>2023-08-15 13:19:24</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00)</sub> | <sub>[73d0d5e](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00) Update fastlane - tenhobi</sub> |
 | <sub>2023-08-15 12:57:40</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957)</sub> | <sub>[dfd45fb](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957) Update - tenhobi</sub> |
