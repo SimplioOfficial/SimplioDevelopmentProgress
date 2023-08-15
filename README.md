@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5257 commits since 10/09/2021. You can see the complete history in
+There is a total of 5259 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-15 09:14:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0)</sub> | <sub>[1951ea6](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0) Fix cut loading indicator (#664) - tenhobi</sub> |
+| <sub>2023-08-15 09:14:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2)</sub> | <sub>[f358482](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2) Use local time in DateText (#665) - tenhobi</sub> |
 | <sub>2023-08-15 08:47:58</sub> | <sub>[[simplio-app:fix/711-use-local-time] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9839919711a1daaa7c948c531b0e28f79f0fa5d2)</sub> | <sub>[9839919](https://github.com/SimplioOfficial/simplio-app/commit/9839919711a1daaa7c948c531b0e28f79f0fa5d2) Use local time in DateText - tenhobi</sub> |
 | <sub>2023-08-15 08:40:18</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61bfbf55e43707fb10790e9a5088561bd901c45c)</sub> | <sub>[61bfbf5](https://github.com/SimplioOfficial/simplio-app/commit/61bfbf55e43707fb10790e9a5088561bd901c45c) Rework decimals (#662) - tenhobi</sub> |
 | <sub>2023-08-15 08:40:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f7311c9da69537a643435f0f455dd12932c8d943)</sub> | <sub>[f7311c9](https://github.com/SimplioOfficial/simplio-app/commit/f7311c9da69537a643435f0f455dd12932c8d943) Fix cut text on recovery and delete account (#663) - tenhobi</sub> |
@@ -16,7 +18,5 @@ There is a total of 5257 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-14 12:11:15</sub> | <sub>[[simplio-app:fix/683-decimal-rules] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6510966e9d4bcbdb38352423ecf0d800b5228bb9)</sub> | <sub>[6510966](https://github.com/SimplioOfficial/simplio-app/commit/6510966e9d4bcbdb38352423ecf0d800b5228bb9) Rework decimals - tenhobi</sub> |
 | <sub>2023-08-14 11:29:15</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/13f1b196a8562222fe09d32360fe3eeb46dc8044)</sub> | <sub>[13f1b19](https://github.com/SimplioOfficial/simplio-app/commit/13f1b196a8562222fe09d32360fe3eeb46dc8044) improve tx wc2 style window - ciripel</sub> |
 | <sub>2023-08-14 07:10:00</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3c3a4bdb6e51fdf55bff9c492139b77ec435f883)</sub> | <sub>[3c3a4bd](https://github.com/SimplioOfficial/simplio-app/commit/3c3a4bdb6e51fdf55bff9c492139b77ec435f883) Add ios flavors to ci - tenhobi</sub> |
-| <sub>2023-08-14 06:29:26</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7)</sub> | <sub>[504f29b](https://github.com/SimplioOfficial/simplio-app/commit/504f29b8d3e69d1f4a6d7f3edc73172189476fa7) Track screens - tenhobi</sub> |
-| <sub>2023-08-14 05:46:11</sub> | <sub>[[simplio-app:feat/681-logging] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/128bac6a8886...5a8b7006c52e)</sub> | <sub>[f8bfa84](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd) task/494-update-coin-inventory (#659) - tenhobi<br>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi<br>[5a8b700](https://github.com/SimplioOfficial/simplio-app/commit/5a8b7006c52ef99b4ba57777236df38fb54c3c8c) Merge branch 'dev' into feat/681-logging - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
