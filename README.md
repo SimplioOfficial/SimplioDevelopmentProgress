@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5265 commits since 10/09/2021. You can see the complete history in
+There is a total of 5266 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-15 13:19:24</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00)</sub> | <sub>[73d0d5e](https://github.com/SimplioOfficial/simplio-app/commit/73d0d5ef24ead0b3169c06f7cdfd2a7293d2cc00) Update fastlane - tenhobi</sub> |
 | <sub>2023-08-15 12:57:40</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957)</sub> | <sub>[dfd45fb](https://github.com/SimplioOfficial/simplio-app/commit/dfd45fb102529fafc4486060e9ad9d5b70014957) Update - tenhobi</sub> |
 | <sub>2023-08-15 12:25:24</sub> | <sub>[[simplio-app:feat/681-logging] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/2cb071e49b6a...f3746b43f212)</sub> | <sub>[f7311c9](https://github.com/SimplioOfficial/simplio-app/commit/f7311c9da69537a643435f0f455dd12932c8d943) Fix cut text on recovery and delete account (#663) - tenhobi<br>[61bfbf5](https://github.com/SimplioOfficial/simplio-app/commit/61bfbf55e43707fb10790e9a5088561bd901c45c) Rework decimals (#662) - tenhobi<br>[f358482](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2) Use local time in DateText (#665) - tenhobi<br>[1951ea6](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0) Fix cut loading indicator (#664) - tenhobi<br>[f3746b4](https://github.com/SimplioOfficial/simplio-app/commit/f3746b43f2125c73268f17f0a86dee9f792c1d65) Merge branch 'dev' into feat/681-logging - tenhobi</sub> |
 | <sub>2023-08-15 12:17:20</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cb071e49b6a5f1168ff78bf495ca878810ed5d3)</sub> | <sub>[2cb071e](https://github.com/SimplioOfficial/simplio-app/commit/2cb071e49b6a5f1168ff78bf495ca878810ed5d3) Update profiles - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5265 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-15 09:14:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0)</sub> | <sub>[1951ea6](https://github.com/SimplioOfficial/simplio-app/commit/1951ea689b9ee17bc7a3e9882d2533f181a1a5e0) Fix cut loading indicator (#664) - tenhobi</sub> |
 | <sub>2023-08-15 09:14:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2)</sub> | <sub>[f358482](https://github.com/SimplioOfficial/simplio-app/commit/f358482f7faec76805af741c1c68142acac2dff2) Use local time in DateText (#665) - tenhobi</sub> |
 | <sub>2023-08-15 08:47:58</sub> | <sub>[[simplio-app:fix/711-use-local-time] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9839919711a1daaa7c948c531b0e28f79f0fa5d2)</sub> | <sub>[9839919](https://github.com/SimplioOfficial/simplio-app/commit/9839919711a1daaa7c948c531b0e28f79f0fa5d2) Use local time in DateText - tenhobi</sub> |
-| <sub>2023-08-15 08:40:18</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/61bfbf55e43707fb10790e9a5088561bd901c45c)</sub> | <sub>[61bfbf5](https://github.com/SimplioOfficial/simplio-app/commit/61bfbf55e43707fb10790e9a5088561bd901c45c) Rework decimals (#662) - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
