@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-16 12:47:50</sub> | <sub>[[simplio-app:feat/706-change-welcome-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9bf55206b457fe331c6adb8a8e6988230e58cf7)</sub> | <sub>[c9bf552](https://github.com/SimplioOfficial/simplio-app/commit/c9bf55206b457fe331c6adb8a8e6988230e58cf7) Change welcome screens - tenhobi</sub> |
 | <sub>2023-08-16 12:12:07</sub> | <sub>[[simplio-app:fix/694-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c74e5bc5beb0eb16fb0ef980fba82e979951d14a)</sub> | <sub>[c74e5bc](https://github.com/SimplioOfficial/simplio-app/commit/c74e5bc5beb0eb16fb0ef980fba82e979951d14a) Fix transactions - tenhobi</sub> |
 | <sub>2023-08-16 07:56:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8f4023053515495f2e92f50a63a97da41e49290)</sub> | <sub>[f8f4023](https://github.com/SimplioOfficial/simplio-app/commit/f8f4023053515495f2e92f50a63a97da41e49290) feat/681-logging (#660) - tenhobi</sub> |
 | <sub>2023-08-16 06:42:34</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/de06b3670fb530559113ce9605bc5f7204d5e14f)</sub> | <sub>[de06b36](https://github.com/SimplioOfficial/simplio-app/commit/de06b3670fb530559113ce9605bc5f7204d5e14f) Fix Firebase Performance metrics - tenhobi</sub> |
