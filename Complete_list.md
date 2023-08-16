@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-16 14:27:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f76b2051a049...089f7410d567)</sub> |
 | <sub>2023-08-16 14:10:10</sub> | <sub>[[simplio-app:fix/694-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb8df53ccc57ad3982993aab1993ea65e0852aa7)</sub> | <sub>[eb8df53](https://github.com/SimplioOfficial/simplio-app/commit/eb8df53ccc57ad3982993aab1993ea65e0852aa7) fix analyze - ciripel</sub> |
 | <sub>2023-08-16 14:03:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9f448159b55f7aa01f3624088c2bfa8e1629f87)</sub> | <sub>[d9f4481](https://github.com/SimplioOfficial/simplio-app/commit/d9f448159b55f7aa01f3624088c2bfa8e1629f87) Change welcome screens (#668) - tenhobi</sub> |
 | <sub>2023-08-16 14:02:51</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f76b2051a049ea9244f5eab6433564f4dfd9cdae)</sub> | <sub>[f76b205](https://github.com/SimplioOfficial/simplio-app/commit/f76b2051a049ea9244f5eab6433564f4dfd9cdae) add networkFee in SignTransactionRequest - ciripel</sub> |
