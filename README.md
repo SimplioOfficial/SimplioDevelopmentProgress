@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5279 commits since 10/09/2021. You can see the complete history in
+There is a total of 5281 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-16 14:44:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09dca86c95d09ae5f5c6b5fb861d041f27731861)</sub> | <sub>[09dca86](https://github.com/SimplioOfficial/simplio-app/commit/09dca86c95d09ae5f5c6b5fb861d041f27731861) fix/694-transactions (#667) - tenhobi</sub> |
+| <sub>2023-08-16 14:42:16</sub> | <sub>[[simplio-app:task/664-Implement-WC2-to-SIMPLIO-layered-arch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2e0eaea21e2754645c475b5109ae3283f63ba5fa)</sub> | <sub>[2e0eaea](https://github.com/SimplioOfficial/simplio-app/commit/2e0eaea21e2754645c475b5109ae3283f63ba5fa) fix dependencies - ciripel</sub> |
 | <sub>2023-08-16 14:27:27</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f76b2051a049...089f7410d567)</sub> |
 | <sub>2023-08-16 14:10:10</sub> | <sub>[[simplio-app:fix/694-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eb8df53ccc57ad3982993aab1993ea65e0852aa7)</sub> | <sub>[eb8df53](https://github.com/SimplioOfficial/simplio-app/commit/eb8df53ccc57ad3982993aab1993ea65e0852aa7) fix analyze - ciripel</sub> |
 | <sub>2023-08-16 14:03:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9f448159b55f7aa01f3624088c2bfa8e1629f87)</sub> | <sub>[d9f4481](https://github.com/SimplioOfficial/simplio-app/commit/d9f448159b55f7aa01f3624088c2bfa8e1629f87) Change welcome screens (#668) - tenhobi</sub> |
@@ -16,7 +18,5 @@ There is a total of 5279 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-16 12:12:07</sub> | <sub>[[simplio-app:fix/694-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c74e5bc5beb0eb16fb0ef980fba82e979951d14a)</sub> | <sub>[c74e5bc](https://github.com/SimplioOfficial/simplio-app/commit/c74e5bc5beb0eb16fb0ef980fba82e979951d14a) Fix transactions - tenhobi</sub> |
 | <sub>2023-08-16 07:56:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8f4023053515495f2e92f50a63a97da41e49290)</sub> | <sub>[f8f4023](https://github.com/SimplioOfficial/simplio-app/commit/f8f4023053515495f2e92f50a63a97da41e49290) feat/681-logging (#660) - tenhobi</sub> |
 | <sub>2023-08-16 06:42:34</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/de06b3670fb530559113ce9605bc5f7204d5e14f)</sub> | <sub>[de06b36](https://github.com/SimplioOfficial/simplio-app/commit/de06b3670fb530559113ce9605bc5f7204d5e14f) Fix Firebase Performance metrics - tenhobi</sub> |
-| <sub>2023-08-15 16:29:36</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9da05f28c05c0c8bd02c058da6020bcf298eb24b)</sub> | <sub>[9da05f2](https://github.com/SimplioOfficial/simplio-app/commit/9da05f28c05c0c8bd02c058da6020bcf298eb24b) Update launch example - tenhobi</sub> |
-| <sub>2023-08-15 16:25:16</sub> | <sub>[[simplio-app:feat/681-logging] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/022ac147afe19e02a2d8228a83aa5785022677d5)</sub> | <sub>[022ac14](https://github.com/SimplioOfficial/simplio-app/commit/022ac147afe19e02a2d8228a83aa5785022677d5) Last updates - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
