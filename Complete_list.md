@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-17 10:22:24</sub> | <sub>[[simplio-app:fix/717-transaction-init] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/293112d7ae068b39c933a2bd3de62045ce297c72)</sub> | <sub>[293112d](https://github.com/SimplioOfficial/simplio-app/commit/293112d7ae068b39c933a2bd3de62045ce297c72) Fix transactions init - tenhobi</sub> |
 | <sub>2023-08-16 15:49:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79f0445bb8e221b054ed6027a0e88f8297e44b30)</sub> | <sub>[79f0445](https://github.com/SimplioOfficial/simplio-app/commit/79f0445bb8e221b054ed6027a0e88f8297e44b30) task/664-Implement-WC2-to-SIMPLIO-layered-arch ... - ciripel</sub> |
 | <sub>2023-08-16 14:46:15</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/2e0eaea21e27...07f295fa661e)</sub> |
 | <sub>2023-08-16 14:44:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/09dca86c95d09ae5f5c6b5fb861d041f27731861)</sub> | <sub>[09dca86](https://github.com/SimplioOfficial/simplio-app/commit/09dca86c95d09ae5f5c6b5fb861d041f27731861) fix/694-transactions (#667) - tenhobi</sub> |
