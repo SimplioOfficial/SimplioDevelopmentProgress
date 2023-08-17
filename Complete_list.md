@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-17 16:59:28</sub> | <sub>[[simplio-app:fix/720-nft-buy-no-coin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dfc85901403c56923994183dd909c34bbc4b854e)</sub> | <sub>[dfc8590](https://github.com/SimplioOfficial/simplio-app/commit/dfc85901403c56923994183dd909c34bbc4b854e) Fix nft buy no coins - tenhobi</sub> |
 | <sub>2023-08-17 14:37:54</sub> | <sub>[[simplio-app:fix/718-no-coins] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/96cb68b97575119f6cbd50c874540d3bb31ed7d4)</sub> | <sub>[96cb68b](https://github.com/SimplioOfficial/simplio-app/commit/96cb68b97575119f6cbd50c874540d3bb31ed7d4) Add no coin screen - tenhobi</sub> |
 | <sub>2023-08-17 11:54:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e2bce0ad63412dad01bbece7f4e2bd512bb85650)</sub> | <sub>[e2bce0a](https://github.com/SimplioOfficial/simplio-app/commit/e2bce0ad63412dad01bbece7f4e2bd512bb85650) Fix transactions init (#669) - tenhobi</sub> |
 | <sub>2023-08-17 11:53:18</sub> | <sub>[[simplio-app:fix/715-tabs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/284a9db2cbfa810a47572adf3b622210b91bea50)</sub> | <sub>[284a9db](https://github.com/SimplioOfficial/simplio-app/commit/284a9db2cbfa810a47572adf3b622210b91bea50) Fix tabs on discovery and inventory - tenhobi</sub> |
