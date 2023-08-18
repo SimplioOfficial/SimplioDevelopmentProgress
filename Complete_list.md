@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-18 07:44:44</sub> | <sub>[[simplio-app:feat/490-games-last] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d07d320aec26c3070ca09e71e76674d8f7f1619a)</sub> | <sub>[d07d320](https://github.com/SimplioOfficial/simplio-app/commit/d07d320aec26c3070ca09e71e76674d8f7f1619a) Add games coming soon - tenhobi</sub> |
 | <sub>2023-08-18 06:56:16</sub> | <sub>[[simplio-app:fix/497-no-transactions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f564bca3300503a413d60297cf9a1bfa90e5d89e)</sub> | <sub>[f564bca](https://github.com/SimplioOfficial/simplio-app/commit/f564bca3300503a413d60297cf9a1bfa90e5d89e) Update banner for no transaction history - tenhobi</sub> |
 | <sub>2023-08-18 06:48:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/39ad5d9bc907b905a2582f746c9da5280f5d2f25)</sub> | <sub>[39ad5d9](https://github.com/SimplioOfficial/simplio-app/commit/39ad5d9bc907b905a2582f746c9da5280f5d2f25) Fix nft buy no coins (#672) - tenhobi</sub> |
 | <sub>2023-08-18 06:48:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40496b866eafb40ee3335a8cd3f1fb28b32a7b90)</sub> | <sub>[40496b8](https://github.com/SimplioOfficial/simplio-app/commit/40496b866eafb40ee3335a8cd3f1fb28b32a7b90) Add no coin screen (#671) - tenhobi</sub> |
