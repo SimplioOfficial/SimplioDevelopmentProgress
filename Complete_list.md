@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-18 10:28:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e9615ef42441d86b2e73727bb9237ab94838ab2a)</sub> | <sub>[e9615ef](https://github.com/SimplioOfficial/simplio-app/commit/e9615ef42441d86b2e73727bb9237ab94838ab2a) Fix iconsize (#676) - tenhobi</sub> |
 | <sub>2023-08-18 09:23:32</sub> | <sub>[[simplio-app:fix/iconsize] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b258f564be58b4ad7728d0a506c5f27e889f452)</sub> | <sub>[0b258f5](https://github.com/SimplioOfficial/simplio-app/commit/0b258f564be58b4ad7728d0a506c5f27e889f452) Fix iconsize - tenhobi</sub> |
 | <sub>2023-08-18 09:07:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19213d7c0d9f7162f7b7c3f5e8feff8937958c3d)</sub> | <sub>[19213d7](https://github.com/SimplioOfficial/simplio-app/commit/19213d7c0d9f7162f7b7c3f5e8feff8937958c3d) Add games coming soon (#674) - tenhobi</sub> |
 | <sub>2023-08-18 07:45:20</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c2631e0b5d20c407b0e9ce7dc74ecb955425196)</sub> | <sub>[1c2631e](https://github.com/SimplioOfficial/simplio-app/commit/1c2631e0b5d20c407b0e9ce7dc74ecb955425196) Update banner for no transaction history (#673) - tenhobi</sub> |
