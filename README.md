@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5302 commits since 10/09/2021. You can see the complete history in
+There is a total of 5303 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-25 12:18:33</sub> | <sub>[[simplio-app:bug/630-redirect-after-buy] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1d369332768349a028b826600ac73de7c7727180)</sub> | <sub>[1d36933](https://github.com/SimplioOfficial/simplio-app/commit/1d369332768349a028b826600ac73de7c7727180) changing listeners - storkandstark</sub> |
 | <sub>2023-08-23 09:50:51</sub> | <sub>[[simplio-app:bug/remove-DEV-menu-from-non-dev-env] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11b472687cfcf3d0f3a596b68e36a02817c70f48)</sub> | <sub>[11b4726](https://github.com/SimplioOfficial/simplio-app/commit/11b472687cfcf3d0f3a596b68e36a02817c70f48) bug/remove-DEV-menu-from-non-dev-env - ciripel</sub> |
 | <sub>2023-08-23 09:47:17</sub> | <sub>[[simplio-app:bug/fix-remove-onZero-balance-in-discovery-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/79d9eb748a2415ceae284fb1b139abd5cb4a43ba)</sub> | <sub>[79d9eb7](https://github.com/SimplioOfficial/simplio-app/commit/79d9eb748a2415ceae284fb1b139abd5cb4a43ba) bug/fix-remove-onZero-balance-in-discovery-screen - ciripel</sub> |
 | <sub>2023-08-19 06:05:00</sub> | <sub>[[simplio-app:master] 22 new commits](https://github.com/SimplioOfficial/simplio-app/compare/cbc05882f658...b2df00a124b0)</sub> | <sub>[9e8204d](https://github.com/SimplioOfficial/simplio-app/commit/9e8204dd004fffdac123f8f22624c127010114b9) Use wallet as target when no funds (#655) - tenhobi<br>[694e84a](https://github.com/SimplioOfficial/simplio-app/commit/694e84a4e578bb43132225fd2fff9faceee94c45) fix/696-empty-my-games + 689-white-webview (#656) - tenhobi<br>[f8bfa84](https://github.com/SimplioOfficial/simplio-app/commit/f8bfa84dad535f191306db21f434032a210562bd) task/494-update-coin-inventory (#659) - tenhobi<br>[519baf8](https://github.com/SimplioOfficial/simplio-app/commit/519baf8e83b02ba09a176ca658c03f2dd3f849ce) Don't put nft from inventory list inside detail... - tenhobi<br>[f7311c9](https://github.com/SimplioOfficial/simplio-app/commit/f7311c9da69537a643435f0f455dd12932c8d943) Fix cut text on recovery and delete account (#663) - tenhobi</sub> |
@@ -17,6 +18,5 @@ There is a total of 5302 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-18 09:23:32</sub> | <sub>[[simplio-app:fix/iconsize] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b258f564be58b4ad7728d0a506c5f27e889f452)</sub> | <sub>[0b258f5](https://github.com/SimplioOfficial/simplio-app/commit/0b258f564be58b4ad7728d0a506c5f27e889f452) Fix iconsize - tenhobi</sub> |
 | <sub>2023-08-18 09:07:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19213d7c0d9f7162f7b7c3f5e8feff8937958c3d)</sub> | <sub>[19213d7](https://github.com/SimplioOfficial/simplio-app/commit/19213d7c0d9f7162f7b7c3f5e8feff8937958c3d) Add games coming soon (#674) - tenhobi</sub> |
 | <sub>2023-08-18 07:45:20</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1c2631e0b5d20c407b0e9ce7dc74ecb955425196)</sub> | <sub>[1c2631e](https://github.com/SimplioOfficial/simplio-app/commit/1c2631e0b5d20c407b0e9ce7dc74ecb955425196) Update banner for no transaction history (#673) - tenhobi</sub> |
-| <sub>2023-08-18 07:44:44</sub> | <sub>[[simplio-app:feat/490-games-last] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d07d320aec26c3070ca09e71e76674d8f7f1619a)</sub> | <sub>[d07d320](https://github.com/SimplioOfficial/simplio-app/commit/d07d320aec26c3070ca09e71e76674d8f7f1619a) Add games coming soon - tenhobi</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
