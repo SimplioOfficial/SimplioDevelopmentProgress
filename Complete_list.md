@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-28 12:31:39</sub> | <sub>[[simplio-app:task/722-exchange-more-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65d5cfade8902a1cbe3f4898f1b6ed0311cc1f31)</sub> | <sub>[65d5cfa](https://github.com/SimplioOfficial/simplio-app/commit/65d5cfade8902a1cbe3f4898f1b6ed0311cc1f31) resized version of image - ciripel</sub> |
 | <sub>2023-08-28 11:53:31</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8a41bc4e130c779d1bfab707ab5a3874db79e68)</sub> | <sub>[b8a41bc](https://github.com/SimplioOfficial/simplio-app/commit/b8a41bc4e130c779d1bfab707ab5a3874db79e68) new icon_square image - ciripel</sub> |
 | <sub>2023-08-28 11:26:28</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05b083cc511b2b15cf9e370b04f400b271614675)</sub> | <sub>[05b083c](https://github.com/SimplioOfficial/simplio-app/commit/05b083cc511b2b15cf9e370b04f400b271614675) makefile empty last line - ciripel</sub> |
 | <sub>2023-08-28 11:25:30</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd781cde583ea6033b043bb47247738a7cb86c2e)</sub> | <sub>[dd781cd](https://github.com/SimplioOfficial/simplio-app/commit/dd781cde583ea6033b043bb47247738a7cb86c2e) square for iOS - ciripel</sub> |
