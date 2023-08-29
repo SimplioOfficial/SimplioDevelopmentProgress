@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5325 commits since 10/09/2021. You can see the complete history in
+There is a total of 5326 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-29 17:55:24</sub> | <sub>[[simplio-app:bug/numpad-with-safearea] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b15b4671063c^...e045604dbdcc)</sub> | <sub>[b15b467](https://github.com/SimplioOfficial/simplio-app/commit/b15b4671063ca48e4ebd728606c228ea2353e190) adding safe area to numpad - storkandstark<br>[0a38385](https://github.com/SimplioOfficial/simplio-app/commit/0a3838510d39cb5533983d91fab6c55955ca4d59) removing invalid padding sizes - storkandstark<br>[e045604](https://github.com/SimplioOfficial/simplio-app/commit/e045604dbdcc9d5026a500d02fbf27b76165b6f0) removing unsupported comment - storkandstark</sub> |
 | <sub>2023-08-29 16:09:32</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/954c81a172b841f341bfe1b931426db0725fa472)</sub> | <sub>[954c81a](https://github.com/SimplioOfficial/simplio-app/commit/954c81a172b841f341bfe1b931426db0725fa472) removing services from splash screen - storkandstark</sub> |
 | <sub>2023-08-29 16:08:11</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8e56e3ae55493950244945b99d31a60989ad660)</sub> | <sub>[c8e56e3](https://github.com/SimplioOfficial/simplio-app/commit/c8e56e3ae55493950244945b99d31a60989ad660) removing unused imports - storkandstark</sub> |
 | <sub>2023-08-29 16:07:44</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38)</sub> | <sub>[07104c9](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38) updating native ios splash screen and icon - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5325 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-28 12:31:39</sub> | <sub>[[simplio-app:task/722-exchange-more-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/65d5cfade8902a1cbe3f4898f1b6ed0311cc1f31)</sub> | <sub>[65d5cfa](https://github.com/SimplioOfficial/simplio-app/commit/65d5cfade8902a1cbe3f4898f1b6ed0311cc1f31) resized version of image - ciripel</sub> |
 | <sub>2023-08-28 11:53:31</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b8a41bc4e130c779d1bfab707ab5a3874db79e68)</sub> | <sub>[b8a41bc](https://github.com/SimplioOfficial/simplio-app/commit/b8a41bc4e130c779d1bfab707ab5a3874db79e68) new icon_square image - ciripel</sub> |
 | <sub>2023-08-28 11:26:28</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05b083cc511b2b15cf9e370b04f400b271614675)</sub> | <sub>[05b083c](https://github.com/SimplioOfficial/simplio-app/commit/05b083cc511b2b15cf9e370b04f400b271614675) makefile empty last line - ciripel</sub> |
-| <sub>2023-08-28 11:25:30</sub> | <sub>[[simplio-app:task/723-exchange-simplio-app-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd781cde583ea6033b043bb47247738a7cb86c2e)</sub> | <sub>[dd781cd](https://github.com/SimplioOfficial/simplio-app/commit/dd781cde583ea6033b043bb47247738a7cb86c2e) square for iOS - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
