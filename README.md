@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5329 commits since 10/09/2021. You can see the complete history in
+There is a total of 5330 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-08-31 10:14:08</sub> | <sub>[[simplio-app:730/purchase-NFT-shows-sometimes-bad-math] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8)</sub> | <sub>[cb24fc2](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8) 730/purchase-NFT-shows-sometimes-bad-math - ciripel</sub> |
 | <sub>2023-08-30 14:34:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b)</sub> | <sub>[db92916](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b) Task/ios splash and icon (#684) - storkandstark</sub> |
 | <sub>2023-08-30 10:08:28</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174)</sub> | <sub>[6bbb17e](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174) add translucent background statusbar - ciripel</sub> |
 | <sub>2023-08-30 08:06:35</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/954c81a172b8...be5ba84ed09f)</sub> | <sub>[eae180d](https://github.com/SimplioOfficial/simplio-app/commit/eae180d697d47b88a8050b4a4bb7e8ab4532800a) initializing app with future builder - storkandstark<br>[cc8942c](https://github.com/SimplioOfficial/simplio-app/commit/cc8942cc06c40ec835cb0fc11a22fe53f84b3325) setting system ui to dark by default - storkandstark<br>[be5ba84](https://github.com/SimplioOfficial/simplio-app/commit/be5ba84ed09f2b849ef879407063a4e7083cd584) initial auth status screen same as splash screen - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5329 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-29 16:07:44</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38)</sub> | <sub>[07104c9](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38) updating native ios splash screen and icon - storkandstark</sub> |
 | <sub>2023-08-29 09:15:51</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/efeeac145b556642d5d41b6304628b7722fa8435)</sub> | <sub>[efeeac1](https://github.com/SimplioOfficial/simplio-app/commit/efeeac145b556642d5d41b6304628b7722fa8435) task/722-exchange-more-games-banner (#681) - ciripel</sub> |
 | <sub>2023-08-29 09:15:33</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f9efbfd586a8899e8227d8ac1efe2294c509e43e)</sub> | <sub>[f9efbfd](https://github.com/SimplioOfficial/simplio-app/commit/f9efbfd586a8899e8227d8ac1efe2294c509e43e) task/724-exchange-green-logo-simplio (#682) - ciripel</sub> |
-| <sub>2023-08-29 09:15:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2057b236d365ca624ce9fe50e41f0c472a22e5e0)</sub> | <sub>[2057b23](https://github.com/SimplioOfficial/simplio-app/commit/2057b236d365ca624ce9fe50e41f0c472a22e5e0) Task/723-exchange-simplio-app-icon (#683) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
