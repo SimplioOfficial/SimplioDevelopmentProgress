@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5332 commits since 10/09/2021. You can see the complete history in
+There is a total of 5333 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-01 10:29:10</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41)</sub> | <sub>[2771137](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41) fix android - ciripel</sub> |
 | <sub>2023-09-01 10:13:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e045604dbdcc...7af6b93431c9)</sub> |
 | <sub>2023-09-01 10:09:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66)</sub> | <sub>[bc9b236](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66) 730/purchase-NFT-shows-sometimes-bad-math (#686) - ciripel</sub> |
 | <sub>2023-08-31 10:14:08</sub> | <sub>[[simplio-app:730/purchase-NFT-shows-sometimes-bad-math] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8)</sub> | <sub>[cb24fc2](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8) 730/purchase-NFT-shows-sometimes-bad-math - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5332 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-29 17:55:24</sub> | <sub>[[simplio-app:bug/numpad-with-safearea] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b15b4671063c^...e045604dbdcc)</sub> | <sub>[b15b467](https://github.com/SimplioOfficial/simplio-app/commit/b15b4671063ca48e4ebd728606c228ea2353e190) adding safe area to numpad - storkandstark<br>[0a38385](https://github.com/SimplioOfficial/simplio-app/commit/0a3838510d39cb5533983d91fab6c55955ca4d59) removing invalid padding sizes - storkandstark<br>[e045604](https://github.com/SimplioOfficial/simplio-app/commit/e045604dbdcc9d5026a500d02fbf27b76165b6f0) removing unsupported comment - storkandstark</sub> |
 | <sub>2023-08-29 16:09:32</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/954c81a172b841f341bfe1b931426db0725fa472)</sub> | <sub>[954c81a](https://github.com/SimplioOfficial/simplio-app/commit/954c81a172b841f341bfe1b931426db0725fa472) removing services from splash screen - storkandstark</sub> |
 | <sub>2023-08-29 16:08:11</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c8e56e3ae55493950244945b99d31a60989ad660)</sub> | <sub>[c8e56e3](https://github.com/SimplioOfficial/simplio-app/commit/c8e56e3ae55493950244945b99d31a60989ad660) removing unused imports - storkandstark</sub> |
-| <sub>2023-08-29 16:07:44</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38)</sub> | <sub>[07104c9](https://github.com/SimplioOfficial/simplio-app/commit/07104c9297cd701d0ebb24986349be63dd05eb38) updating native ios splash screen and icon - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
