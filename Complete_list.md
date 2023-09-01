@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-01 10:13:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e045604dbdcc...7af6b93431c9)</sub> |
 | <sub>2023-09-01 10:09:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66)</sub> | <sub>[bc9b236](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66) 730/purchase-NFT-shows-sometimes-bad-math (#686) - ciripel</sub> |
 | <sub>2023-08-31 10:14:08</sub> | <sub>[[simplio-app:730/purchase-NFT-shows-sometimes-bad-math] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8)</sub> | <sub>[cb24fc2](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8) 730/purchase-NFT-shows-sometimes-bad-math - ciripel</sub> |
 | <sub>2023-08-30 14:34:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b)</sub> | <sub>[db92916](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b) Task/ios splash and icon (#684) - storkandstark</sub> |
