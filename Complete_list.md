@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-01 11:09:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a)</sub> | <sub>[6bf329a](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a) Bug/numpad with safearea (#685) - storkandstark</sub> |
+| <sub>2023-09-01 11:08:05</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4)</sub> | <sub>[9803eb8](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4) updating ios name - storkandstark</sub> |
 | <sub>2023-09-01 10:29:10</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41)</sub> | <sub>[2771137](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41) fix android - ciripel</sub> |
 | <sub>2023-09-01 10:13:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e045604dbdcc...7af6b93431c9)</sub> |
 | <sub>2023-09-01 10:09:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66)</sub> | <sub>[bc9b236](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66) 730/purchase-NFT-shows-sometimes-bad-math (#686) - ciripel</sub> |
