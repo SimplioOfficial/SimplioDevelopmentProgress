@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5335 commits since 10/09/2021. You can see the complete history in
+There is a total of 5336 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-01 14:03:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab)</sub> | <sub>[bd51200](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab) task/735-change-simplio-text-under-icon (#687) - ciripel</sub> |
 | <sub>2023-09-01 11:09:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a)</sub> | <sub>[6bf329a](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a) Bug/numpad with safearea (#685) - storkandstark</sub> |
 | <sub>2023-09-01 11:08:05</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4)</sub> | <sub>[9803eb8](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4) updating ios name - storkandstark</sub> |
 | <sub>2023-09-01 10:29:10</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41)</sub> | <sub>[2771137](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41) fix android - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5335 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-08-30 14:34:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b)</sub> | <sub>[db92916](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b) Task/ios splash and icon (#684) - storkandstark</sub> |
 | <sub>2023-08-30 10:08:28</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174)</sub> | <sub>[6bbb17e](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174) add translucent background statusbar - ciripel</sub> |
 | <sub>2023-08-30 08:06:35</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/954c81a172b8...be5ba84ed09f)</sub> | <sub>[eae180d](https://github.com/SimplioOfficial/simplio-app/commit/eae180d697d47b88a8050b4a4bb7e8ab4532800a) initializing app with future builder - storkandstark<br>[cc8942c](https://github.com/SimplioOfficial/simplio-app/commit/cc8942cc06c40ec835cb0fc11a22fe53f84b3325) setting system ui to dark by default - storkandstark<br>[be5ba84](https://github.com/SimplioOfficial/simplio-app/commit/be5ba84ed09f2b849ef879407063a4e7083cd584) initial auth status screen same as splash screen - storkandstark</sub> |
-| <sub>2023-08-29 17:55:24</sub> | <sub>[[simplio-app:bug/numpad-with-safearea] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b15b4671063c^...e045604dbdcc)</sub> | <sub>[b15b467](https://github.com/SimplioOfficial/simplio-app/commit/b15b4671063ca48e4ebd728606c228ea2353e190) adding safe area to numpad - storkandstark<br>[0a38385](https://github.com/SimplioOfficial/simplio-app/commit/0a3838510d39cb5533983d91fab6c55955ca4d59) removing invalid padding sizes - storkandstark<br>[e045604](https://github.com/SimplioOfficial/simplio-app/commit/e045604dbdcc9d5026a500d02fbf27b76165b6f0) removing unsupported comment - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
