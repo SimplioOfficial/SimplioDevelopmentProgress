@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5337 commits since 10/09/2021. You can see the complete history in
+There is a total of 5338 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-03 19:32:21</sub> | <sub>[[simplio-app:bug/fix-ios-build] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/47255180faa624e147de0d113f92a699b6b792ca)</sub> | <sub>[4725518](https://github.com/SimplioOfficial/simplio-app/commit/47255180faa624e147de0d113f92a699b6b792ca) updating fastlane bundle - storkandstark</sub> |
 | <sub>2023-09-01 16:53:12</sub> | <sub>[[simplio-app:master] 16 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b2df00a124b0...4cada2c86d76)</sub> | <sub>[1d36933](https://github.com/SimplioOfficial/simplio-app/commit/1d369332768349a028b826600ac73de7c7727180) changing listeners - storkandstark<br>[e8c0d12](https://github.com/SimplioOfficial/simplio-app/commit/e8c0d122d8d5f0f69ad7b047dc5eeca8dd196fce) upgrade packages and some android settings - ciripel<br>[818cb0e](https://github.com/SimplioOfficial/simplio-app/commit/818cb0ef115ad324e159fe65b3896152acb128b9) switch expression in buy_summary_screen - ciripel<br>[4deae1d](https://github.com/SimplioOfficial/simplio-app/commit/4deae1d9ae3fd675d05e6a2b07c9782a83ea53dd) temporary dart analyzer error bypassing - ciripel<br>[e679ec9](https://github.com/SimplioOfficial/simplio-app/commit/e679ec964b95eff5b0642e831f92e7fac217c00f) Merge pull request #680 from SimplioOfficial/bu... - ciripel</sub> |
 | <sub>2023-09-01 14:03:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab)</sub> | <sub>[bd51200](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab) task/735-change-simplio-text-under-icon (#687) - ciripel</sub> |
 | <sub>2023-09-01 11:09:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a)</sub> | <sub>[6bf329a](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a) Bug/numpad with safearea (#685) - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5337 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-01 10:09:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66)</sub> | <sub>[bc9b236](https://github.com/SimplioOfficial/simplio-app/commit/bc9b23632cf462fdee256c10fc31de18c8beae66) 730/purchase-NFT-shows-sometimes-bad-math (#686) - ciripel</sub> |
 | <sub>2023-08-31 10:14:08</sub> | <sub>[[simplio-app:730/purchase-NFT-shows-sometimes-bad-math] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8)</sub> | <sub>[cb24fc2](https://github.com/SimplioOfficial/simplio-app/commit/cb24fc2983317896ad2e5ed4b53ad7c5d9564fd8) 730/purchase-NFT-shows-sometimes-bad-math - ciripel</sub> |
 | <sub>2023-08-30 14:34:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b)</sub> | <sub>[db92916](https://github.com/SimplioOfficial/simplio-app/commit/db92916fba340c438660a97f7c1bbeeaeb15236b) Task/ios splash and icon (#684) - storkandstark</sub> |
-| <sub>2023-08-30 10:08:28</sub> | <sub>[[simplio-app:task/ios-splash-and-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174)</sub> | <sub>[6bbb17e](https://github.com/SimplioOfficial/simplio-app/commit/6bbb17e48892f9a0e5cd020317e7eee6f893d174) add translucent background statusbar - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
