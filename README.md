@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5341 commits since 10/09/2021. You can see the complete history in
+There is a total of 5343 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-04 13:17:36</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dcaf77c2998e...39ced3046869)</sub> | <sub>[4f75f66](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d) revert-xcode-updated (#691) - ciripel<br>[39ced30](https://github.com/SimplioOfficial/simplio-app/commit/39ced30468693c5b35b6f63635655b4d4fb42d81) Merge pull request #692 from SimplioOfficial/dev - ciripel</sub> |
+| <sub>2023-09-04 13:16:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d)</sub> | <sub>[4f75f66](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d) revert-xcode-updated (#691) - ciripel</sub> |
 | <sub>2023-09-04 12:36:48</sub> | <sub>[[simplio-app:revert-xcode-updated] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5c74269a69114efc8d566f79e20622bfc2e61a82)</sub> | <sub>[5c74269](https://github.com/SimplioOfficial/simplio-app/commit/5c74269a69114efc8d566f79e20622bfc2e61a82) revert-xcode-updated - ciripel</sub> |
 | <sub>2023-09-04 06:49:59</sub> | <sub>[[simplio-app:master] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4cada2c86d76...dcaf77c2998e)</sub> | <sub>[4725518](https://github.com/SimplioOfficial/simplio-app/commit/47255180faa624e147de0d113f92a699b6b792ca) updating fastlane bundle - storkandstark<br>[8bf96d6](https://github.com/SimplioOfficial/simplio-app/commit/8bf96d6834e8680ddae638974d3c50ddd067f123) Merge pull request #689 from SimplioOfficial/bu... - ciripel<br>[dcaf77c](https://github.com/SimplioOfficial/simplio-app/commit/dcaf77c2998e8d598ab7f93b025b0cd51a0c00ed) Merge pull request #690 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2023-09-04 06:08:47</sub> | <sub>[[simplio-app:dev] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bd5120031dc7...8bf96d6834e8)</sub> | <sub>[4725518](https://github.com/SimplioOfficial/simplio-app/commit/47255180faa624e147de0d113f92a699b6b792ca) updating fastlane bundle - storkandstark<br>[8bf96d6](https://github.com/SimplioOfficial/simplio-app/commit/8bf96d6834e8680ddae638974d3c50ddd067f123) Merge pull request #689 from SimplioOfficial/bu... - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 5341 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-01 14:03:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab)</sub> | <sub>[bd51200](https://github.com/SimplioOfficial/simplio-app/commit/bd5120031dc74d61ef3f5b36bce6031e62f2b4ab) task/735-change-simplio-text-under-icon (#687) - ciripel</sub> |
 | <sub>2023-09-01 11:09:54</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a)</sub> | <sub>[6bf329a](https://github.com/SimplioOfficial/simplio-app/commit/6bf329a81d6b135b816b8ef674004f44eaff5b1a) Bug/numpad with safearea (#685) - storkandstark</sub> |
 | <sub>2023-09-01 11:08:05</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4)</sub> | <sub>[9803eb8](https://github.com/SimplioOfficial/simplio-app/commit/9803eb88d775106475dbd4afe1c3b0572ef020e4) updating ios name - storkandstark</sub> |
-| <sub>2023-09-01 10:29:10</sub> | <sub>[[simplio-app:task/735-change-simplio-text-under-icon] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41)</sub> | <sub>[2771137](https://github.com/SimplioOfficial/simplio-app/commit/277113734e3a55cdc74626c0dc1075bada21ea41) fix android - ciripel</sub> |
-| <sub>2023-09-01 10:13:33</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/e045604dbdcc...7af6b93431c9)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
