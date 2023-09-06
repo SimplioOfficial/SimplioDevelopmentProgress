@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-06 14:55:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ca207ac918842e8d555d7c9259086cb16974abb)</sub> | <sub>[9ca207a](https://github.com/SimplioOfficial/simplio-app/commit/9ca207ac918842e8d555d7c9259086cb16974abb) bug/760-summary-math-precision (#697) - ciripel</sub> |
 | <sub>2023-09-06 14:54:43</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b6069fc56392468018fb46bf50b2efad7a1a435)</sub> | <sub>[3b6069f](https://github.com/SimplioOfficial/simplio-app/commit/3b6069fc56392468018fb46bf50b2efad7a1a435) bug/759-dicovery-coin-price (#696) - ciripel</sub> |
 | <sub>2023-09-06 14:53:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b3c5107390ca6b2d1db3424caa8dbd2d9701447)</sub> | <sub>[5b3c510](https://github.com/SimplioOfficial/simplio-app/commit/5b3c5107390ca6b2d1db3424caa8dbd2d9701447) bug/fix-not-found-screens-on-verification-route... - ciripel</sub> |
 | <sub>2023-09-06 14:53:03</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4610d89aba5a07d50f8d06ba151af38336b4314e)</sub> | <sub>[4610d89](https://github.com/SimplioOfficial/simplio-app/commit/4610d89aba5a07d50f8d06ba151af38336b4314e) task/754-android-13-advertising-ID-declaration ... - ciripel</sub> |
