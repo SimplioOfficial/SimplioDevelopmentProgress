@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5349 commits since 10/09/2021. You can see the complete history in
+There is a total of 5350 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-06 11:40:48</sub> | <sub>[[simplio-app:bug/760-summary-math-precision] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9dab2f2d9bb1a72aae6f5fe76e42749f9613ddee)</sub> | <sub>[9dab2f2](https://github.com/SimplioOfficial/simplio-app/commit/9dab2f2d9bb1a72aae6f5fe76e42749f9613ddee) bug/760-summary-math-precision - ciripel</sub> |
 | <sub>2023-09-06 11:39:13</sub> | <sub>[[simplio-app:bug/759-dicovery-coin-price] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cd1cb21374ec55da83cb0a5058899307e8f569c)</sub> | <sub>[2cd1cb2](https://github.com/SimplioOfficial/simplio-app/commit/2cd1cb21374ec55da83cb0a5058899307e8f569c) bug/759-dicovery-coin-price - ciripel</sub> |
 | <sub>2023-09-05 08:58:27</sub> | <sub>[[simplio-app:task/754-android-13-advertising-ID-declaration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0005853b6c15c736dd69d911467b4dc8c53b5d0)</sub> | <sub>[f000585](https://github.com/SimplioOfficial/simplio-app/commit/f0005853b6c15c736dd69d911467b4dc8c53b5d0) task/754-android-13-advertising-ID-declaration - ciripel</sub> |
 | <sub>2023-09-04 16:10:05</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/39ced3046869...acdde81934ec)</sub> | <sub>[459dc41](https://github.com/SimplioOfficial/simplio-app/commit/459dc41782ae1da95a40402b0eac9ccb647de9b8) Fix-prod-entitlements (#693) - ciripel<br>[acdde81](https://github.com/SimplioOfficial/simplio-app/commit/acdde81934ec6947ed0821d8cd6c1abe0038721f) Merge pull request #694 from SimplioOfficial/dev - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5349 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-04 13:17:36</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/dcaf77c2998e...39ced3046869)</sub> | <sub>[4f75f66](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d) revert-xcode-updated (#691) - ciripel<br>[39ced30](https://github.com/SimplioOfficial/simplio-app/commit/39ced30468693c5b35b6f63635655b4d4fb42d81) Merge pull request #692 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2023-09-04 13:16:58</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d)</sub> | <sub>[4f75f66](https://github.com/SimplioOfficial/simplio-app/commit/4f75f660787090da923ec1f3f3a3c2338efc503d) revert-xcode-updated (#691) - ciripel</sub> |
 | <sub>2023-09-04 12:36:48</sub> | <sub>[[simplio-app:revert-xcode-updated] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5c74269a69114efc8d566f79e20622bfc2e61a82)</sub> | <sub>[5c74269](https://github.com/SimplioOfficial/simplio-app/commit/5c74269a69114efc8d566f79e20622bfc2e61a82) revert-xcode-updated - ciripel</sub> |
-| <sub>2023-09-04 06:49:59</sub> | <sub>[[simplio-app:master] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4cada2c86d76...dcaf77c2998e)</sub> | <sub>[4725518](https://github.com/SimplioOfficial/simplio-app/commit/47255180faa624e147de0d113f92a699b6b792ca) updating fastlane bundle - storkandstark<br>[8bf96d6](https://github.com/SimplioOfficial/simplio-app/commit/8bf96d6834e8680ddae638974d3c50ddd067f123) Merge pull request #689 from SimplioOfficial/bu... - ciripel<br>[dcaf77c](https://github.com/SimplioOfficial/simplio-app/commit/dcaf77c2998e8d598ab7f93b025b0cd51a0c00ed) Merge pull request #690 from SimplioOfficial/dev - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
