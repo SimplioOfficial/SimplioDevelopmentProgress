@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5357 commits since 10/09/2021. You can see the complete history in
+There is a total of 5358 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-07 08:36:14</sub> | <sub>[[simplio-app:task/764-numpad-button-needs-bottom-gap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72656f2ab2dd3e0b9a8d73bce7b60ed3988ed63e)</sub> | <sub>[72656f2](https://github.com/SimplioOfficial/simplio-app/commit/72656f2ab2dd3e0b9a8d73bce7b60ed3988ed63e) task/764-numpad-button-needs-bottom-gap - ciripel</sub> |
 | <sub>2023-09-06 14:55:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ca207ac918842e8d555d7c9259086cb16974abb)</sub> | <sub>[9ca207a](https://github.com/SimplioOfficial/simplio-app/commit/9ca207ac918842e8d555d7c9259086cb16974abb) bug/760-summary-math-precision (#697) - ciripel</sub> |
 | <sub>2023-09-06 14:54:43</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b6069fc56392468018fb46bf50b2efad7a1a435)</sub> | <sub>[3b6069f](https://github.com/SimplioOfficial/simplio-app/commit/3b6069fc56392468018fb46bf50b2efad7a1a435) bug/759-dicovery-coin-price (#696) - ciripel</sub> |
 | <sub>2023-09-06 14:53:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b3c5107390ca6b2d1db3424caa8dbd2d9701447)</sub> | <sub>[5b3c510](https://github.com/SimplioOfficial/simplio-app/commit/5b3c5107390ca6b2d1db3424caa8dbd2d9701447) bug/fix-not-found-screens-on-verification-route... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5357 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-06 12:51:28</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6737e2d01757d1662675a1c9b6fe00eb0fa04258)</sub> | <sub>[6737e2d](https://github.com/SimplioOfficial/simplio-app/commit/6737e2d01757d1662675a1c9b6fe00eb0fa04258) bug/fix-not-found-screens-on-verification-route - ciripel</sub> |
 | <sub>2023-09-06 11:40:48</sub> | <sub>[[simplio-app:bug/760-summary-math-precision] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9dab2f2d9bb1a72aae6f5fe76e42749f9613ddee)</sub> | <sub>[9dab2f2](https://github.com/SimplioOfficial/simplio-app/commit/9dab2f2d9bb1a72aae6f5fe76e42749f9613ddee) bug/760-summary-math-precision - ciripel</sub> |
 | <sub>2023-09-06 11:39:13</sub> | <sub>[[simplio-app:bug/759-dicovery-coin-price] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2cd1cb21374ec55da83cb0a5058899307e8f569c)</sub> | <sub>[2cd1cb2](https://github.com/SimplioOfficial/simplio-app/commit/2cd1cb21374ec55da83cb0a5058899307e8f569c) bug/759-dicovery-coin-price - ciripel</sub> |
-| <sub>2023-09-05 08:58:27</sub> | <sub>[[simplio-app:task/754-android-13-advertising-ID-declaration] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0005853b6c15c736dd69d911467b4dc8c53b5d0)</sub> | <sub>[f000585](https://github.com/SimplioOfficial/simplio-app/commit/f0005853b6c15c736dd69d911467b4dc8c53b5d0) task/754-android-13-advertising-ID-declaration - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
