@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5369 commits since 10/09/2021. You can see the complete history in
+There is a total of 5370 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-08 08:47:31</sub> | <sub>[[backend-bsc-wallet-lib:] 4 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/6b46dce226e2^...24a1a1fbd755)</sub> | <sub>[6b46dce](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6b46dce226e28572587d828363cc4cd6888cd050) fix/swap-data-value-as-bn - ciripel<br>[43cceff](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43cceff9b9298c6d688a8ca7fb2f80a92468255a) increase ver to 1.5.8 - ciripel<br>[50f1dc3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6) chore(release): 1.5.9 - ciripel<br>[24a1a1f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9) chore(release): 1.5.10 - ciripel</sub> |
 | <sub>2023-09-08 08:38:03</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/befbebb988f7c7aa796c458e6959cb248de0b3c2)</sub> | <sub>[befbebb](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/befbebb988f7c7aa796c458e6959cb248de0b3c2) Fix/swap-data-value-as-bn (#43) - ciripel</sub> |
 | <sub>2023-09-08 08:37:07</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9)</sub> | <sub>[24a1a1f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9) chore(release): 1.5.10 - ciripel</sub> |
 | <sub>2023-09-08 08:34:17</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6)</sub> | <sub>[50f1dc3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6) chore(release): 1.5.9 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5369 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-07 16:27:46</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b38c18f51a5b2dcdbbc8e5575ef544bd66672044)</sub> | <sub>[b38c18f](https://github.com/SimplioOfficial/simplio-app/commit/b38c18f51a5b2dcdbbc8e5575ef544bd66672044) fix: totalFee from fiatAssetPrecision rounded (... - ciripel</sub> |
 | <sub>2023-09-07 16:26:40</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7dcab46ee4ec6f253e6354dbd16ce5064475cdcc)</sub> | <sub>[7dcab46](https://github.com/SimplioOfficial/simplio-app/commit/7dcab46ee4ec6f253e6354dbd16ce5064475cdcc) task/764-numpad-button-needs-bottom-gap (#701) - ciripel</sub> |
 | <sub>2023-09-07 15:53:21</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/009bc445ae73cd111bc6eb89e6b1c2ced0417a19)</sub> | <sub>[009bc44](https://github.com/SimplioOfficial/simplio-app/commit/009bc445ae73cd111bc6eb89e6b1c2ced0417a19) task/764-change-text-and-position-at-my-games (... - ciripel</sub> |
-| <sub>2023-09-07 11:33:53</sub> | <sub>[[simplio-app:bug/760-summary-math-precision-error] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f20eabd96bdd3c2f1248b26c0b9845bb284662e0)</sub> | <sub>[f20eabd](https://github.com/SimplioOfficial/simplio-app/commit/f20eabd96bdd3c2f1248b26c0b9845bb284662e0) fix: totalFee from fiatAssetPrecision rounded - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
