@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5374 commits since 10/09/2021. You can see the complete history in
+There is a total of 5375 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-13 13:27:52</sub> | <sub>[[simplio-app:bug/784-enable-buy-button-in-nft-detail-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd)</sub> | <sub>[c46106f](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd) bug/784-enable-buy-button-in-nft-detail-screen - ciripel</sub> |
 | <sub>2023-09-13 12:53:22</sub> | <sub>[[simplio-app:bug/778-reload-nft-inventory-on-import-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/022b3ed35d8cc811a2ed9b331e18cce797fabca3)</sub> | <sub>[022b3ed](https://github.com/SimplioOfficial/simplio-app/commit/022b3ed35d8cc811a2ed9b331e18cce797fabca3) bug/778-reload-nft-inventory-on-import-seed - ciripel</sub> |
 | <sub>2023-09-13 10:39:53</sub> | <sub>[[simplio-app:bug/777-clear-transactions-on-import-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/395edc9c9f953350e8bd7f337b5d010abd7a5038)</sub> | <sub>[395edc9](https://github.com/SimplioOfficial/simplio-app/commit/395edc9c9f953350e8bd7f337b5d010abd7a5038) bug/777-clear-transactions-on-import-seed - ciripel</sub> |
 | <sub>2023-09-12 18:21:20</sub> | <sub>[[simplio-app:bug/779-Exchange-to-bug-min-intervention] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7970c2b8c3d112a848a0455384b2f17b92ca2929)</sub> | <sub>[7970c2b](https://github.com/SimplioOfficial/simplio-app/commit/7970c2b8c3d112a848a0455384b2f17b92ca2929) bug/779-Exchange-to-bug-min-intervention - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5374 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-08 08:37:07</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9)</sub> | <sub>[24a1a1f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9) chore(release): 1.5.10 - ciripel</sub> |
 | <sub>2023-09-08 08:34:17</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6)</sub> | <sub>[50f1dc3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6) chore(release): 1.5.9 - ciripel</sub> |
 | <sub>2023-09-08 08:33:46</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43cceff9b9298c6d688a8ca7fb2f80a92468255a)</sub> | <sub>[43cceff](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43cceff9b9298c6d688a8ca7fb2f80a92468255a) increase ver to 1.5.8 - ciripel</sub> |
-| <sub>2023-09-08 08:31:29</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6b46dce226e28572587d828363cc4cd6888cd050)</sub> | <sub>[6b46dce](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6b46dce226e28572587d828363cc4cd6888cd050) fix/swap-data-value-as-bn - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
