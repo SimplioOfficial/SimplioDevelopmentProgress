@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5376 commits since 10/09/2021. You can see the complete history in
+There is a total of 5377 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-13 16:01:48</sub> | <sub>[[simplio-app:bug/796-restore-seed-screen-do-not-hide-keypad-on-valid-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64153362a6cc43d7e9cbf86a9f101208eae5063e)</sub> | <sub>[6415336](https://github.com/SimplioOfficial/simplio-app/commit/64153362a6cc43d7e9cbf86a9f101208eae5063e) bug/796-restore-seed-screen-do-not-hide-keypad - ciripel</sub> |
 | <sub>2023-09-13 13:34:38</sub> | <sub>[[simplio-app:bug/792-remove-asset-snackBar-typo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7015edc94e1fd25fa3025a9ecdd2fcf90c64a91d)</sub> | <sub>[7015edc](https://github.com/SimplioOfficial/simplio-app/commit/7015edc94e1fd25fa3025a9ecdd2fcf90c64a91d) bug/792-remove-asset-snackBar-typo - ciripel</sub> |
 | <sub>2023-09-13 13:27:52</sub> | <sub>[[simplio-app:bug/784-enable-buy-button-in-nft-detail-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd)</sub> | <sub>[c46106f](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd) bug/784-enable-buy-button-in-nft-detail-screen - ciripel</sub> |
 | <sub>2023-09-13 12:53:22</sub> | <sub>[[simplio-app:bug/778-reload-nft-inventory-on-import-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/022b3ed35d8cc811a2ed9b331e18cce797fabca3)</sub> | <sub>[022b3ed](https://github.com/SimplioOfficial/simplio-app/commit/022b3ed35d8cc811a2ed9b331e18cce797fabca3) bug/778-reload-nft-inventory-on-import-seed - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5376 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-08 08:47:31</sub> | <sub>[[backend-bsc-wallet-lib:] 4 new commits](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/compare/6b46dce226e2^...24a1a1fbd755)</sub> | <sub>[6b46dce](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/6b46dce226e28572587d828363cc4cd6888cd050) fix/swap-data-value-as-bn - ciripel<br>[43cceff](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/43cceff9b9298c6d688a8ca7fb2f80a92468255a) increase ver to 1.5.8 - ciripel<br>[50f1dc3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6) chore(release): 1.5.9 - ciripel<br>[24a1a1f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9) chore(release): 1.5.10 - ciripel</sub> |
 | <sub>2023-09-08 08:38:03</sub> | <sub>[[backend-bsc-wallet-lib:development] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/befbebb988f7c7aa796c458e6959cb248de0b3c2)</sub> | <sub>[befbebb](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/befbebb988f7c7aa796c458e6959cb248de0b3c2) Fix/swap-data-value-as-bn (#43) - ciripel</sub> |
 | <sub>2023-09-08 08:37:07</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9)</sub> | <sub>[24a1a1f](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/24a1a1fbd755bcda65fb1090fe54b265612822f9) chore(release): 1.5.10 - ciripel</sub> |
-| <sub>2023-09-08 08:34:17</sub> | <sub>[[backend-bsc-wallet-lib:fix/swap-data-value-as-bn] 1 new commit](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6)</sub> | <sub>[50f1dc3](https://github.com/SimplioOfficial/backend-bsc-wallet-lib/commit/50f1dc3f502f8b835025cd3203e974c6b62e21e6) chore(release): 1.5.9 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
