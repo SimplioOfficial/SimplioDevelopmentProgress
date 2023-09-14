@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5384 commits since 10/09/2021. You can see the complete history in
+There is a total of 5385 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-14 15:29:47</sub> | <sub>[[simplio-app:task/updating-security-level-check] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d72def090201f695569bed40d788c251b0bb1205)</sub> | <sub>[d72def0](https://github.com/SimplioOfficial/simplio-app/commit/d72def090201f695569bed40d788c251b0bb1205) refreshing account profile on pull-to-refresh - storkandstark</sub> |
 | <sub>2023-09-13 19:20:33</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf89dc34f32e5e5024feb0343169b0cb3787df92)</sub> | <sub>[bf89dc3](https://github.com/SimplioOfficial/simplio-app/commit/bf89dc34f32e5e5024feb0343169b0cb3787df92) bug/784-enable-buy-button-in-nft-detail-screen ... - ciripel</sub> |
 | <sub>2023-09-13 19:20:17</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/27ae006e47181f0c3faf3a4090a49b0b4e91b8ff)</sub> | <sub>[27ae006](https://github.com/SimplioOfficial/simplio-app/commit/27ae006e47181f0c3faf3a4090a49b0b4e91b8ff) bug/792-remove-asset-snackBar-typo (#707) - ciripel</sub> |
 | <sub>2023-09-13 19:19:56</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4373cfd2b0e1a378ef7005118ab81871de94dc08)</sub> | <sub>[4373cfd](https://github.com/SimplioOfficial/simplio-app/commit/4373cfd2b0e1a378ef7005118ab81871de94dc08) bug/796-restore-seed-screen-do-not-hide-keypad ... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5384 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-13 19:17:25</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ff234aacf37a98e3006fb8294809abea6b069643)</sub> | <sub>[ff234aa](https://github.com/SimplioOfficial/simplio-app/commit/ff234aacf37a98e3006fb8294809abea6b069643) bug/779-Exchange-to-bug-min-intervention (#703) - ciripel</sub> |
 | <sub>2023-09-13 16:01:48</sub> | <sub>[[simplio-app:bug/796-restore-seed-screen-do-not-hide-keypad-on-valid-seed] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/64153362a6cc43d7e9cbf86a9f101208eae5063e)</sub> | <sub>[6415336](https://github.com/SimplioOfficial/simplio-app/commit/64153362a6cc43d7e9cbf86a9f101208eae5063e) bug/796-restore-seed-screen-do-not-hide-keypad - ciripel</sub> |
 | <sub>2023-09-13 13:34:38</sub> | <sub>[[simplio-app:bug/792-remove-asset-snackBar-typo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7015edc94e1fd25fa3025a9ecdd2fcf90c64a91d)</sub> | <sub>[7015edc](https://github.com/SimplioOfficial/simplio-app/commit/7015edc94e1fd25fa3025a9ecdd2fcf90c64a91d) bug/792-remove-asset-snackBar-typo - ciripel</sub> |
-| <sub>2023-09-13 13:27:52</sub> | <sub>[[simplio-app:bug/784-enable-buy-button-in-nft-detail-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd)</sub> | <sub>[c46106f](https://github.com/SimplioOfficial/simplio-app/commit/c46106f91e7a5ba195800604ea0c2720257d65bd) bug/784-enable-buy-button-in-nft-detail-screen - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
