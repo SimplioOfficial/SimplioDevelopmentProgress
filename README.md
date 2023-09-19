@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5397 commits since 10/09/2021. You can see the complete history in
+There is a total of 5398 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-19 15:55:37</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5dfaa451f77759728a455e05bdcef76cc05af0bd)</sub> | <sub>[5dfaa45](https://github.com/SimplioOfficial/documentation/commit/5dfaa451f77759728a455e05bdcef76cc05af0bd) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-19 15:49:04</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/50553405379c249a57ecae88713d03cbd3665ad2)</sub> | <sub>[5055340](https://github.com/SimplioOfficial/documentation/commit/50553405379c249a57ecae88713d03cbd3665ad2) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-19 15:39:44</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/4455839a2f2f183614cdd877bc77c519016c06e0)</sub> | <sub>[4455839](https://github.com/SimplioOfficial/documentation/commit/4455839a2f2f183614cdd877bc77c519016c06e0) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-19 15:39:31</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/a213f493c18120b9d48330f2d94ef691321a2e18)</sub> | <sub>[a213f49](https://github.com/SimplioOfficial/documentation/commit/a213f493c18120b9d48330f2d94ef691321a2e18) Delete docs/backend/Architektura Simplio nová -... - JiriVrbas-Eria</sub> |
@@ -17,6 +18,5 @@ There is a total of 5397 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-15 15:41:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8753b1f6eb1b88dc0bea2f2b7145a5dad4d5803d)</sub> | <sub>[8753b1f](https://github.com/SimplioOfficial/simplio-app/commit/8753b1f6eb1b88dc0bea2f2b7145a5dad4d5803d) task/blocking-back-while-payment (#711) - storkandstark</sub> |
 | <sub>2023-09-15 15:41:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3786ee23d1a008a69a4703e63873b8193e5b3c81)</sub> | <sub>[3786ee2](https://github.com/SimplioOfficial/simplio-app/commit/3786ee23d1a008a69a4703e63873b8193e5b3c81) Task/adding status for delayed transactions (#712) - storkandstark</sub> |
 | <sub>2023-09-15 15:40:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c90a02d897e935571e846d4d05722da9346181b7)</sub> | <sub>[c90a02d](https://github.com/SimplioOfficial/simplio-app/commit/c90a02d897e935571e846d4d05722da9346181b7) bug/792-remove-close-button-on-snack-bar (#713) - ciripel</sub> |
-| <sub>2023-09-15 11:34:11</sub> | <sub>[[simplio-app:bug/792-remove-close-button-on-snack-bar] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2fcba75194e214a00ced22fdbf8212aff504d93)</sub> | <sub>[b2fcba7](https://github.com/SimplioOfficial/simplio-app/commit/b2fcba75194e214a00ced22fdbf8212aff504d93) bug/792-remove-close-button-on-snack-bar - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
