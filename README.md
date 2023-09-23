@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5411 commits since 10/09/2021. You can see the complete history in
+There is a total of 5412 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-23 21:31:42</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3b23373a9f40^...0fe5e51b9846)</sub> | <sub>[3b23373](https://github.com/SimplioOfficial/simplio-app/commit/3b23373a9f40f51c4b2d7465a6e978044ec0697f) adding result type - storkandstark<br>[9432391](https://github.com/SimplioOfficial/simplio-app/commit/94323918eea68ddf7cb0dbaf3497a0d027f7ac38) implementing result in buy repository - storkandstark<br>[0fe5e51](https://github.com/SimplioOfficial/simplio-app/commit/0fe5e51b98465ca38c20b2fc220d3b9e718894a4) removing variables - storkandstark</sub> |
 | <sub>2023-09-23 18:50:54</sub> | <sub>[[simplio-app:refactor/715-rename-bloc-and-cubits-to-controller] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ba277cda71c396a06743e01422ebe2bb6770353)</sub> | <sub>[4ba277c](https://github.com/SimplioOfficial/simplio-app/commit/4ba277cda71c396a06743e01422ebe2bb6770353) fixing analyze - storkandstark</sub> |
 | <sub>2023-09-23 18:27:40</sub> | <sub>[[simplio-app:refactor/715-rename-bloc-and-cubits-to-controller] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5700f561bf09^...44481b91927d)</sub> | <sub>[5700f56](https://github.com/SimplioOfficial/simplio-app/commit/5700f561bf09cbe704a17e38fecfe05fcad313d5) renaming blocs and cubits - storkandstark<br>[44481b9](https://github.com/SimplioOfficial/simplio-app/commit/44481b91927de3a1f09d64ce6bccc60c1f778752) escaping single quotes - storkandstark</sub> |
 | <sub>2023-09-22 19:44:53</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/fe8259b2765c7f2d00df2a5203cebf8d84a6230d)</sub> | <sub>[fe8259b](https://github.com/SimplioOfficial/documentation/commit/fe8259b2765c7f2d00df2a5203cebf8d84a6230d) Update Services description.md - JiriVrbas-Eria</sub> |
@@ -17,6 +18,5 @@ There is a total of 5411 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-22 12:41:39</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/91d1b20a36dc7ccae3302f7cace15601b0a32112)</sub> | <sub>[91d1b20](https://github.com/SimplioOfficial/sio_core_light/commit/91d1b20a36dc7ccae3302f7cace15601b0a32112) fix: add analysis options - ciripel</sub> |
 | <sub>2023-09-22 12:06:19</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/6e30775b6f16055624a2e8a260f2ccc6afd69654)</sub> | <sub>[6e30775](https://github.com/SimplioOfficial/sio_core_light/commit/6e30775b6f16055624a2e8a260f2ccc6afd69654) chore: add format 120 - ciripel</sub> |
 | <sub>2023-09-22 11:38:15</sub> | <sub>[[sio_core_light:task/refactor-and-update] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/7e41030f0b2a^...31e55dc37641)</sub> | <sub>[7e41030](https://github.com/SimplioOfficial/sio_core_light/commit/7e41030f0b2a30466f5c02e1def94ce0873d6d55) feat: add fvm - ciripel<br>[31e55dc](https://github.com/SimplioOfficial/sio_core_light/commit/31e55dc37641172821bfe9aeec5a09a2b0629bf4) fix: apply dart-fix - ciripel</sub> |
-| <sub>2023-09-21 21:07:40</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/a6a6e0e34012b40064780cd12aae5f52cdfb5120)</sub> | <sub>[a6a6e0e](https://github.com/SimplioOfficial/documentation/commit/a6a6e0e34012b40064780cd12aae5f52cdfb5120) Create Services description.md - JiriVrbas-Eria</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
