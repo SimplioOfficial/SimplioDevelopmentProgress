@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5422 commits since 10/09/2021. You can see the complete history in
+There is a total of 5423 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 14:50:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/07707376495e4c7c5ad5f6b8be402a110153a4b3)</sub> | <sub>[0770737](https://github.com/SimplioOfficial/sio_core_light/commit/07707376495e4c7c5ad5f6b8be402a110153a4b3) fix: fix publish - ciripel</sub> |
 | <sub>2023-09-25 13:49:49</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.11](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.11)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-09-25 11:32:20</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/78ae8376bb70dd1cfdcc2302a3b7276c4887e536)</sub> | <sub>[78ae837](https://github.com/SimplioOfficial/sio_core_light/commit/78ae8376bb70dd1cfdcc2302a3b7276c4887e536) Task/implement-EIP1155-token-transaction (#29) - ciripel</sub> |
 | <sub>2023-09-25 11:17:53</sub> | <sub>[[sio_core_light:task/implement-EIP1155-token-transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/b0a9b1e14fe0fc33e1eded0f376dd023f53fa8ea)</sub> | <sub>[b0a9b1e](https://github.com/SimplioOfficial/sio_core_light/commit/b0a9b1e14fe0fc33e1eded0f376dd023f53fa8ea) increase version of checkout in publish workflow - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5422 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 11:02:09</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091)</sub> | <sub>[55f4b26](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091) feat: implement EIP1155 token transaction - ciripel</sub> |
 | <sub>2023-09-25 07:02:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24)</sub> | <sub>[fbbf0dc](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24) Task/refactor and update (#28) - ciripel</sub> |
 | <sub>2023-09-25 06:43:10</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028)</sub> | <sub>[e973fd6](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028) fix: dart formatter - ciripel</sub> |
-| <sub>2023-09-24 17:19:31</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15)</sub> | <sub>[c90ea69](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15) adding unit test - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
