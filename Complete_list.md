@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 11:05:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/sio_core_light/compare/55f4b26cc05c...fbbf0dc147a3)</sub> |
 | <sub>2023-09-25 11:04:25</sub> | <sub>[[sio_core_light:task/implement-EIP1155-token-transaction] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/fbbf0dc147a3...4c1a89c7fa13)</sub> | <sub>[fd2059c](https://github.com/SimplioOfficial/sio_core_light/commit/fd2059c876d7a80824b0b3ce42173ca41643283f) feat: implement EIP1155 token transaction - ciripel<br>[4c1a89c](https://github.com/SimplioOfficial/sio_core_light/commit/4c1a89c7fa130893ec2e01a72c06c6a75d1d230c) test: add EIP1155 token tx tests - ciripel</sub> |
 | <sub>2023-09-25 11:02:09</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091)</sub> | <sub>[55f4b26](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091) feat: implement EIP1155 token transaction - ciripel</sub> |
 | <sub>2023-09-25 07:02:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24)</sub> | <sub>[fbbf0dc](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24) Task/refactor and update (#28) - ciripel</sub> |

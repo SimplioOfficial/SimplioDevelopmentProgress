@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5417 commits since 10/09/2021. You can see the complete history in
+There is a total of 5418 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 11:05:50</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/sio_core_light/compare/55f4b26cc05c...fbbf0dc147a3)</sub> |
 | <sub>2023-09-25 11:04:25</sub> | <sub>[[sio_core_light:task/implement-EIP1155-token-transaction] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/fbbf0dc147a3...4c1a89c7fa13)</sub> | <sub>[fd2059c](https://github.com/SimplioOfficial/sio_core_light/commit/fd2059c876d7a80824b0b3ce42173ca41643283f) feat: implement EIP1155 token transaction - ciripel<br>[4c1a89c](https://github.com/SimplioOfficial/sio_core_light/commit/4c1a89c7fa130893ec2e01a72c06c6a75d1d230c) test: add EIP1155 token tx tests - ciripel</sub> |
 | <sub>2023-09-25 11:02:09</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091)</sub> | <sub>[55f4b26](https://github.com/SimplioOfficial/sio_core_light/commit/55f4b26cc05c6a21555eeceef6841dfd1f9a1091) feat: implement EIP1155 token transaction - ciripel</sub> |
 | <sub>2023-09-25 07:02:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24)</sub> | <sub>[fbbf0dc](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24) Task/refactor and update (#28) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5417 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-23 18:50:54</sub> | <sub>[[simplio-app:refactor/715-rename-bloc-and-cubits-to-controller] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4ba277cda71c396a06743e01422ebe2bb6770353)</sub> | <sub>[4ba277c](https://github.com/SimplioOfficial/simplio-app/commit/4ba277cda71c396a06743e01422ebe2bb6770353) fixing analyze - storkandstark</sub> |
 | <sub>2023-09-23 18:27:40</sub> | <sub>[[simplio-app:refactor/715-rename-bloc-and-cubits-to-controller] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/5700f561bf09^...44481b91927d)</sub> | <sub>[5700f56](https://github.com/SimplioOfficial/simplio-app/commit/5700f561bf09cbe704a17e38fecfe05fcad313d5) renaming blocs and cubits - storkandstark<br>[44481b9](https://github.com/SimplioOfficial/simplio-app/commit/44481b91927de3a1f09d64ce6bccc60c1f778752) escaping single quotes - storkandstark</sub> |
 | <sub>2023-09-22 19:44:53</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/fe8259b2765c7f2d00df2a5203cebf8d84a6230d)</sub> | <sub>[fe8259b](https://github.com/SimplioOfficial/documentation/commit/fe8259b2765c7f2d00df2a5203cebf8d84a6230d) Update Services description.md - JiriVrbas-Eria</sub> |
-| <sub>2023-09-22 19:43:43</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/0440ee90d01da582b8a9b6952a78e7b2bb212600)</sub> | <sub>[0440ee9](https://github.com/SimplioOfficial/documentation/commit/0440ee90d01da582b8a9b6952a78e7b2bb212600) Add files via upload - JiriVrbas-Eria</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
