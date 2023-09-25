@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 15:53:39</sub> | <sub>[[sio_core_light:chore/standard-dart-formatter] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/24878a59498ecc0c70972c1897f864f153199e14)</sub> | <sub>[24878a5](https://github.com/SimplioOfficial/sio_core_light/commit/24878a59498ecc0c70972c1897f864f153199e14) chore: standard dart format files - ciripel</sub> |
 | <sub>2023-09-25 15:13:48</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.11](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.11)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-09-25 14:50:49</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/07707376495e4c7c5ad5f6b8be402a110153a4b3)</sub> | <sub>[0770737](https://github.com/SimplioOfficial/sio_core_light/commit/07707376495e4c7c5ad5f6b8be402a110153a4b3) fix: fix publish - ciripel</sub> |
 | <sub>2023-09-25 13:49:49</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.11](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.11)</sub> | <sub>_No Commits_</sub> |
