@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5421 commits since 10/09/2021. You can see the complete history in
+There is a total of 5422 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 13:49:49</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.11](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.11)</sub> | <sub>_No Commits_</sub> |
 | <sub>2023-09-25 11:32:20</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/78ae8376bb70dd1cfdcc2302a3b7276c4887e536)</sub> | <sub>[78ae837](https://github.com/SimplioOfficial/sio_core_light/commit/78ae8376bb70dd1cfdcc2302a3b7276c4887e536) Task/implement-EIP1155-token-transaction (#29) - ciripel</sub> |
 | <sub>2023-09-25 11:17:53</sub> | <sub>[[sio_core_light:task/implement-EIP1155-token-transaction] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/b0a9b1e14fe0fc33e1eded0f376dd023f53fa8ea)</sub> | <sub>[b0a9b1e](https://github.com/SimplioOfficial/sio_core_light/commit/b0a9b1e14fe0fc33e1eded0f376dd023f53fa8ea) increase version of checkout in publish workflow - ciripel</sub> |
 | <sub>2023-09-25 11:16:15</sub> | <sub>[[sio_core_light:task/implement-EIP1155-token-transaction] 2 new commits](https://github.com/SimplioOfficial/sio_core_light/compare/4c1a89c7fa13...8103c25c94e6)</sub> | <sub>[fc9fdf8](https://github.com/SimplioOfficial/sio_core_light/commit/fc9fdf83decf6c03543debee90accd2e8841b9b1) upgrade git actions versions - ciripel<br>[8103c25](https://github.com/SimplioOfficial/sio_core_light/commit/8103c25c94e69012f89e5e0101bbd5cd44a5a49b) increase version to v1.1.11 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5421 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 07:02:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24)</sub> | <sub>[fbbf0dc](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24) Task/refactor and update (#28) - ciripel</sub> |
 | <sub>2023-09-25 06:43:10</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028)</sub> | <sub>[e973fd6](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028) fix: dart formatter - ciripel</sub> |
 | <sub>2023-09-24 17:19:31</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15)</sub> | <sub>[c90ea69](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15) adding unit test - storkandstark</sub> |
-| <sub>2023-09-23 21:31:42</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3b23373a9f40^...0fe5e51b9846)</sub> | <sub>[3b23373](https://github.com/SimplioOfficial/simplio-app/commit/3b23373a9f40f51c4b2d7465a6e978044ec0697f) adding result type - storkandstark<br>[9432391](https://github.com/SimplioOfficial/simplio-app/commit/94323918eea68ddf7cb0dbaf3497a0d027f7ac38) implementing result in buy repository - storkandstark<br>[0fe5e51](https://github.com/SimplioOfficial/simplio-app/commit/0fe5e51b98465ca38c20b2fc220d3b9e718894a4) removing variables - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
