@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5414 commits since 10/09/2021. You can see the complete history in
+There is a total of 5415 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-25 07:02:13</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24)</sub> | <sub>[fbbf0dc](https://github.com/SimplioOfficial/sio_core_light/commit/fbbf0dc147a3024e28c1f4a83d6724bb3092da24) Task/refactor and update (#28) - ciripel</sub> |
 | <sub>2023-09-25 06:43:10</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028)</sub> | <sub>[e973fd6](https://github.com/SimplioOfficial/sio_core_light/commit/e973fd61ddf327f339902ea7af858371f2151028) fix: dart formatter - ciripel</sub> |
 | <sub>2023-09-24 17:19:31</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15)</sub> | <sub>[c90ea69](https://github.com/SimplioOfficial/simplio-app/commit/c90ea6917906bfbb6021dfc70a12c3ebf7e17f15) adding unit test - storkandstark</sub> |
 | <sub>2023-09-23 21:31:42</sub> | <sub>[[simplio-app:refactor/717-introduce-result-type] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3b23373a9f40^...0fe5e51b9846)</sub> | <sub>[3b23373](https://github.com/SimplioOfficial/simplio-app/commit/3b23373a9f40f51c4b2d7465a6e978044ec0697f) adding result type - storkandstark<br>[9432391](https://github.com/SimplioOfficial/simplio-app/commit/94323918eea68ddf7cb0dbaf3497a0d027f7ac38) implementing result in buy repository - storkandstark<br>[0fe5e51](https://github.com/SimplioOfficial/simplio-app/commit/0fe5e51b98465ca38c20b2fc220d3b9e718894a4) removing variables - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5414 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-22 19:43:43</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/0440ee90d01da582b8a9b6952a78e7b2bb212600)</sub> | <sub>[0440ee9](https://github.com/SimplioOfficial/documentation/commit/0440ee90d01da582b8a9b6952a78e7b2bb212600) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-22 19:43:24</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/3d2204f90c5e0fd74234e3c4ede90cee73ca2cab)</sub> | <sub>[3d2204f](https://github.com/SimplioOfficial/documentation/commit/3d2204f90c5e0fd74234e3c4ede90cee73ca2cab) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-22 12:45:02</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/3aef3ca8fba5c79c751d68b984a453291ea0f667)</sub> | <sub>[3aef3ca](https://github.com/SimplioOfficial/sio_core_light/commit/3aef3ca8fba5c79c751d68b984a453291ea0f667) chore: increase environment version - ciripel</sub> |
-| <sub>2023-09-22 12:41:39</sub> | <sub>[[sio_core_light:task/refactor-and-update] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/91d1b20a36dc7ccae3302f7cace15601b0a32112)</sub> | <sub>[91d1b20](https://github.com/SimplioOfficial/sio_core_light/commit/91d1b20a36dc7ccae3302f7cace15601b0a32112) fix: add analysis options - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
