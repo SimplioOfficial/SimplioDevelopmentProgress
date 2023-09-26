@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5441 commits since 10/09/2021. You can see the complete history in
+There is a total of 5442 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-26 21:38:03</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/801a2f29dd5b05280b982ed5bbbd8056199652df)</sub> | <sub>[801a2f2](https://github.com/SimplioOfficial/documentation/commit/801a2f29dd5b05280b982ed5bbbd8056199652df) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-26 17:57:20</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e56d461713c9604fc371615f1dad3b097bda2c0)</sub> | <sub>[4e56d46](https://github.com/SimplioOfficial/simplio-app/commit/4e56d461713c9604fc371615f1dad3b097bda2c0) wip reorganizing widgets - storkandstark</sub> |
 | <sub>2023-09-26 15:18:27</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50f41b30d5798b77570f42bf21bf3ebb682bfb2e)</sub> | <sub>[50f41b3](https://github.com/SimplioOfficial/simplio-app/commit/50f41b30d5798b77570f42bf21bf3ebb682bfb2e) partially organizing widgets - storkandstark</sub> |
 | <sub>2023-09-26 15:03:22</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b)</sub> | <sub>[4cf19da](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b) reorganizing app bar related widgets - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5441 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 22:45:56</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/ac950c6b12161e0cf6bc8b5acd5219b51caf86d8)</sub> | <sub>[ac950c6](https://github.com/SimplioOfficial/documentation/commit/ac950c6b12161e0cf6bc8b5acd5219b51caf86d8) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-25 19:32:11</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4)</sub> | <sub>[88736ca](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4) adding todo - storkandstark</sub> |
 | <sub>2023-09-25 19:20:34</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4e4fdbbcf32607559f70e3f1f8954194d921948)</sub> | <sub>[c4e4fdb](https://github.com/SimplioOfficial/simplio-app/commit/c4e4fdbbcf32607559f70e3f1f8954194d921948) adding keypad folder - storkandstark</sub> |
-| <sub>2023-09-25 19:16:52</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f0e402b08c14...f0f227f64a33)</sub> | <sub>[baa0e57](https://github.com/SimplioOfficial/simplio-app/commit/baa0e57b1e0cd936d17d7524bfe84ce280e06df5) fixing imports - storkandstark<br>[f0f227f](https://github.com/SimplioOfficial/simplio-app/commit/f0f227f64a33a1cb92609af3d644bdff6af1c736) adding todo - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
