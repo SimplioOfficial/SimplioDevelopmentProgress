@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5440 commits since 10/09/2021. You can see the complete history in
+There is a total of 5441 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-26 17:57:20</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4e56d461713c9604fc371615f1dad3b097bda2c0)</sub> | <sub>[4e56d46](https://github.com/SimplioOfficial/simplio-app/commit/4e56d461713c9604fc371615f1dad3b097bda2c0) wip reorganizing widgets - storkandstark</sub> |
 | <sub>2023-09-26 15:18:27</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50f41b30d5798b77570f42bf21bf3ebb682bfb2e)</sub> | <sub>[50f41b3](https://github.com/SimplioOfficial/simplio-app/commit/50f41b30d5798b77570f42bf21bf3ebb682bfb2e) partially organizing widgets - storkandstark</sub> |
 | <sub>2023-09-26 15:03:22</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b)</sub> | <sub>[4cf19da](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b) reorganizing app bar related widgets - storkandstark</sub> |
 | <sub>2023-09-26 14:58:47</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/88736caf1721...48e03bd6248f)</sub> | <sub>[a5f6ddd](https://github.com/SimplioOfficial/simplio-app/commit/a5f6ddd01cffd8453b1478f4bd26c3c98c4d9700) removing unused widgets - storkandstark<br>[48e03bd](https://github.com/SimplioOfficial/simplio-app/commit/48e03bd6248fb08f9dc88d8b530a13b970f302d4) adding todo - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5440 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 19:32:11</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4)</sub> | <sub>[88736ca](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4) adding todo - storkandstark</sub> |
 | <sub>2023-09-25 19:20:34</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4e4fdbbcf32607559f70e3f1f8954194d921948)</sub> | <sub>[c4e4fdb](https://github.com/SimplioOfficial/simplio-app/commit/c4e4fdbbcf32607559f70e3f1f8954194d921948) adding keypad folder - storkandstark</sub> |
 | <sub>2023-09-25 19:16:52</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f0e402b08c14...f0f227f64a33)</sub> | <sub>[baa0e57](https://github.com/SimplioOfficial/simplio-app/commit/baa0e57b1e0cd936d17d7524bfe84ce280e06df5) fixing imports - storkandstark<br>[f0f227f](https://github.com/SimplioOfficial/simplio-app/commit/f0f227f64a33a1cb92609af3d644bdff6af1c736) adding todo - storkandstark</sub> |
-| <sub>2023-09-25 19:10:51</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0e402b08c147f367782ca7ee323875ed30ce10c)</sub> | <sub>[f0e402b](https://github.com/SimplioOfficial/simplio-app/commit/f0e402b08c147f367782ca7ee323875ed30ce10c) adding qr folder - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
