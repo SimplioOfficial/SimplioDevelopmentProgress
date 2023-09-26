@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5436 commits since 10/09/2021. You can see the complete history in
+There is a total of 5437 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-26 10:35:22</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/88f77449e230004433acd538d1b1ea3e688c0a8f)</sub> | <sub>[88f7744](https://github.com/SimplioOfficial/sio_core_light/commit/88f77449e230004433acd538d1b1ea3e688c0a8f) chore: standard-dart-format-files (#30) - ciripel</sub> |
 | <sub>2023-09-26 05:49:23</sub> | <sub>[[sio_core_light:chore/standard-dart-formatter] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/a7cb663dd530019f9fd650e1e17d82c5ec760a0b)</sub> | <sub>[a7cb663](https://github.com/SimplioOfficial/sio_core_light/commit/a7cb663dd530019f9fd650e1e17d82c5ec760a0b) chore: upgrade dependencies - ciripel</sub> |
 | <sub>2023-09-25 22:45:56</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/ac950c6b12161e0cf6bc8b5acd5219b51caf86d8)</sub> | <sub>[ac950c6](https://github.com/SimplioOfficial/documentation/commit/ac950c6b12161e0cf6bc8b5acd5219b51caf86d8) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-25 19:32:11</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4)</sub> | <sub>[88736ca](https://github.com/SimplioOfficial/simplio-app/commit/88736caf1721591271932519c78482b766b10fd4) adding todo - storkandstark</sub> |
@@ -17,6 +18,5 @@ There is a total of 5436 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 19:08:39</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/feff84e56f5c...7c91c357b88f)</sub> | <sub>[5c6e2a3](https://github.com/SimplioOfficial/simplio-app/commit/5c6e2a3b27bc0e20df8bad8468bf330b90568155) adding todo - storkandstark<br>[7c91c35](https://github.com/SimplioOfficial/simplio-app/commit/7c91c357b88f7c74b28b15c21b01e3ef7e28ae39) sealed class - storkandstark</sub> |
 | <sub>2023-09-25 19:00:35</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/feff84e56f5c053396a94994905fbb7eb0e90028)</sub> | <sub>[feff84e](https://github.com/SimplioOfficial/simplio-app/commit/feff84e56f5c053396a94994905fbb7eb0e90028) fix analyze - storkandstark</sub> |
 | <sub>2023-09-25 18:48:26</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5326b99961661ef64949be42692bdd838c87d9dc)</sub> | <sub>[5326b99](https://github.com/SimplioOfficial/simplio-app/commit/5326b99961661ef64949be42692bdd838c87d9dc) splitting dimensions - storkandstark</sub> |
-| <sub>2023-09-25 17:03:26</sub> | <sub>[[simplio-app:refactor/719-rename-screens-according-to-the-controllers] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c4329759a7f926b664ab0ba7f815f7a8f5097b3)</sub> | <sub>[6c43297](https://github.com/SimplioOfficial/simplio-app/commit/6c4329759a7f926b664ab0ba7f815f7a8f5097b3) renaming screens - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
