@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5438 commits since 10/09/2021. You can see the complete history in
+There is a total of 5439 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-26 15:03:22</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b)</sub> | <sub>[4cf19da](https://github.com/SimplioOfficial/simplio-app/commit/4cf19daea2e29300e3a30fe5637b93529a17f85b) reorganizing app bar related widgets - storkandstark</sub> |
 | <sub>2023-09-26 14:58:47</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/88736caf1721...48e03bd6248f)</sub> | <sub>[a5f6ddd](https://github.com/SimplioOfficial/simplio-app/commit/a5f6ddd01cffd8453b1478f4bd26c3c98c4d9700) removing unused widgets - storkandstark<br>[48e03bd](https://github.com/SimplioOfficial/simplio-app/commit/48e03bd6248fb08f9dc88d8b530a13b970f302d4) adding todo - storkandstark</sub> |
 | <sub>2023-09-26 10:35:22</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/88f77449e230004433acd538d1b1ea3e688c0a8f)</sub> | <sub>[88f7744](https://github.com/SimplioOfficial/sio_core_light/commit/88f77449e230004433acd538d1b1ea3e688c0a8f) chore: standard-dart-format-files (#30) - ciripel</sub> |
 | <sub>2023-09-26 05:49:23</sub> | <sub>[[sio_core_light:chore/standard-dart-formatter] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/a7cb663dd530019f9fd650e1e17d82c5ec760a0b)</sub> | <sub>[a7cb663](https://github.com/SimplioOfficial/sio_core_light/commit/a7cb663dd530019f9fd650e1e17d82c5ec760a0b) chore: upgrade dependencies - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5438 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-25 19:16:52</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f0e402b08c14...f0f227f64a33)</sub> | <sub>[baa0e57](https://github.com/SimplioOfficial/simplio-app/commit/baa0e57b1e0cd936d17d7524bfe84ce280e06df5) fixing imports - storkandstark<br>[f0f227f](https://github.com/SimplioOfficial/simplio-app/commit/f0f227f64a33a1cb92609af3d644bdff6af1c736) adding todo - storkandstark</sub> |
 | <sub>2023-09-25 19:10:51</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f0e402b08c147f367782ca7ee323875ed30ce10c)</sub> | <sub>[f0e402b](https://github.com/SimplioOfficial/simplio-app/commit/f0e402b08c147f367782ca7ee323875ed30ce10c) adding qr folder - storkandstark</sub> |
 | <sub>2023-09-25 19:08:39</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/feff84e56f5c...7c91c357b88f)</sub> | <sub>[5c6e2a3](https://github.com/SimplioOfficial/simplio-app/commit/5c6e2a3b27bc0e20df8bad8468bf330b90568155) adding todo - storkandstark<br>[7c91c35](https://github.com/SimplioOfficial/simplio-app/commit/7c91c357b88f7c74b28b15c21b01e3ef7e28ae39) sealed class - storkandstark</sub> |
-| <sub>2023-09-25 19:00:35</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/feff84e56f5c053396a94994905fbb7eb0e90028)</sub> | <sub>[feff84e](https://github.com/SimplioOfficial/simplio-app/commit/feff84e56f5c053396a94994905fbb7eb0e90028) fix analyze - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
