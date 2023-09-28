@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-28 23:14:34</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510)</sub> | <sub>[9ebd755](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-28 19:52:46</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99)</sub> | <sub>[5a7edae](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99) remove cryptoAmount from _makeBroadcastTransaction - ciripel</sub> |
 | <sub>2023-09-28 19:49:58</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289)</sub> | <sub>[49f7adf](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289) finish send - ciripel</sub> |
 | <sub>2023-09-28 18:51:08</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171)</sub> | <sub>[01c5edb](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171) wip: finish repo level - ciripel</sub> |
