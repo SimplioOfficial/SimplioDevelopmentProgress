@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-28 19:49:58</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289)</sub> | <sub>[49f7adf](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289) finish send - ciripel</sub> |
 | <sub>2023-09-28 18:51:08</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171)</sub> | <sub>[01c5edb](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171) wip: finish repo level - ciripel</sub> |
 | <sub>2023-09-28 15:57:39</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4beb7f05c0b56c6b245b67af528993ce812e26fa)</sub> | <sub>[4beb7f0](https://github.com/SimplioOfficial/simplio-app/commit/4beb7f05c0b56c6b245b67af528993ce812e26fa) wip: implement NFT txes in repository level - ciripel</sub> |
 | <sub>2023-09-28 11:07:44</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/59a5438db1213662ff483759220103175d247884)</sub> | <sub>[59a5438](https://github.com/SimplioOfficial/simplio-app/commit/59a5438db1213662ff483759220103175d247884) wip: implemented all screens - ciripel</sub> |
