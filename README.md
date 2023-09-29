@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5455 commits since 10/09/2021. You can see the complete history in
+There is a total of 5457 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-29 17:38:45</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/eb7e84e004f0b3ea9beabe1324c2dc9737efad19)</sub> | <sub>[eb7e84e](https://github.com/SimplioOfficial/documentation/commit/eb7e84e004f0b3ea9beabe1324c2dc9737efad19) Update Services description.md - JiriVrbas-Eria</sub> |
+| <sub>2023-09-29 17:37:33</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/d1d0b55a08a256725fb37e6a0714f936dbea5998)</sub> | <sub>[d1d0b55](https://github.com/SimplioOfficial/documentation/commit/d1d0b55a08a256725fb37e6a0714f936dbea5998) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 17:30:41</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5ff50b3b6b7f35ecc2343e57533e78e7af28b6d2)</sub> | <sub>[5ff50b3](https://github.com/SimplioOfficial/documentation/commit/5ff50b3b6b7f35ecc2343e57533e78e7af28b6d2) Delete docs/backend/Architektura Simplio nová -... - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 17:30:16</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/8c8e9c36a2ec8b8fd9686d3fe3560079766bed78)</sub> | <sub>[8c8e9c3](https://github.com/SimplioOfficial/documentation/commit/8c8e9c36a2ec8b8fd9686d3fe3560079766bed78) Delete docs/backend/Services description.ods - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 16:42:22</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/84f8ef9cca28c2ff146bebf307aa6dd50e6d1788)</sub> | <sub>[84f8ef9](https://github.com/SimplioOfficial/documentation/commit/84f8ef9cca28c2ff146bebf307aa6dd50e6d1788) Update Services description.md - JiriVrbas-Eria</sub> |
@@ -16,7 +18,5 @@ There is a total of 5455 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-28 23:14:34</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510)</sub> | <sub>[9ebd755](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-28 19:52:46</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99)</sub> | <sub>[5a7edae](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99) remove cryptoAmount from _makeBroadcastTransaction - ciripel</sub> |
 | <sub>2023-09-28 19:49:58</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289)</sub> | <sub>[49f7adf](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289) finish send - ciripel</sub> |
-| <sub>2023-09-28 18:51:08</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171)</sub> | <sub>[01c5edb](https://github.com/SimplioOfficial/simplio-app/commit/01c5edb21a08a70a3a4ae962f56a5b2d729d4171) wip: finish repo level - ciripel</sub> |
-| <sub>2023-09-28 15:57:39</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4beb7f05c0b56c6b245b67af528993ce812e26fa)</sub> | <sub>[4beb7f0](https://github.com/SimplioOfficial/simplio-app/commit/4beb7f05c0b56c6b245b67af528993ce812e26fa) wip: implement NFT txes in repository level - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
