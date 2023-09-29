@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-09-29 16:42:22</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/84f8ef9cca28c2ff146bebf307aa6dd50e6d1788)</sub> | <sub>[84f8ef9](https://github.com/SimplioOfficial/documentation/commit/84f8ef9cca28c2ff146bebf307aa6dd50e6d1788) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 15:29:45</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/38e65eace01785490c2c74342fdbfe3dc506fd6a)</sub> | <sub>[38e65ea](https://github.com/SimplioOfficial/documentation/commit/38e65eace01785490c2c74342fdbfe3dc506fd6a) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 15:29:32</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/a4d5ab53c1d6fcbc1629b59d09900dace1478c1a)</sub> | <sub>[a4d5ab5](https://github.com/SimplioOfficial/documentation/commit/a4d5ab53c1d6fcbc1629b59d09900dace1478c1a) Delete docs/backend/Handover certificate/Diagra... - JiriVrbas-Eria</sub> |
 | <sub>2023-09-28 23:14:34</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510)</sub> | <sub>[9ebd755](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510) Update Services description.md - JiriVrbas-Eria</sub> |
