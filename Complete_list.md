@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-02 16:05:34</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c91e8ab943e71b7322e98acdaa0f55fbbe8c3bb0)</sub> | <sub>[c91e8ab](https://github.com/SimplioOfficial/simplio-app/commit/c91e8ab943e71b7322e98acdaa0f55fbbe8c3bb0) fix refactoring aligning - ciripel</sub> |
 | <sub>2023-10-02 15:51:19</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/9c0047656f5a...dfa290d019fa)</sub> |
 | <sub>2023-10-02 15:39:21</sub> | <sub>[[simplio-app:bug/805-restore-existing-seed-do-not-save-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f90cc1c75b956263ba6165af3eedc57552a17b2e)</sub> | <sub>[f90cc1c](https://github.com/SimplioOfficial/simplio-app/commit/f90cc1c75b956263ba6165af3eedc57552a17b2e) fix naming - ciripel</sub> |
 | <sub>2023-10-02 15:22:45</sub> | <sub>[[simplio-app:724-remove-wc2legacytransaction-from-hd_wallet_repo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811)</sub> | <sub>[8db1042](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811) 724-del-wc2legacytransaction-from-hd_wallet_repo - ciripel</sub> |
