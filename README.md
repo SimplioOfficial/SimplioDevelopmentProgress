@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5470 commits since 10/09/2021. You can see the complete history in
+There is a total of 5471 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-02 15:39:21</sub> | <sub>[[simplio-app:bug/805-restore-existing-seed-do-not-save-wallet] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f90cc1c75b956263ba6165af3eedc57552a17b2e)</sub> | <sub>[f90cc1c](https://github.com/SimplioOfficial/simplio-app/commit/f90cc1c75b956263ba6165af3eedc57552a17b2e) fix naming - ciripel</sub> |
 | <sub>2023-10-02 15:22:45</sub> | <sub>[[simplio-app:724-remove-wc2legacytransaction-from-hd_wallet_repo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811)</sub> | <sub>[8db1042](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811) 724-del-wc2legacytransaction-from-hd_wallet_repo - ciripel</sub> |
 | <sub>2023-10-02 15:22:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ea1b045af80b...313a8d80ea62)</sub> |
 | <sub>2023-10-02 15:18:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b5f42ad31e22...d5d87062f1c5)</sub> |
@@ -17,6 +18,5 @@ There is a total of 5470 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-02 14:06:06</sub> | <sub>[[simplio-app:refactor/721-organize-widgets-to-context-groups] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4e56d461713c...328395bad45a)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark<br>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark<br>[ef4f26a](https://github.com/SimplioOfficial/simplio-app/commit/ef4f26a7064f236fb13ce91df0960f61a3547973) Refactor/719 rename screens according to the co... - storkandstark<br>[328395b](https://github.com/SimplioOfficial/simplio-app/commit/328395bad45a3e465b60c731f14d1e8224109551) Merge branch 'dev' into refactor/721-organize-w... - storkandstark</sub> |
 | <sub>2023-10-02 13:52:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ef4f26a7064f236fb13ce91df0960f61a3547973)</sub> | <sub>[ef4f26a](https://github.com/SimplioOfficial/simplio-app/commit/ef4f26a7064f236fb13ce91df0960f61a3547973) Refactor/719 rename screens according to the co... - storkandstark</sub> |
 | <sub>2023-10-02 12:25:02</sub> | <sub>[[simplio-app:refactor/719-rename-screens-according-to-the-controllers] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6c4329759a7f...16f4ea5a985f)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark<br>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark<br>[16f4ea5](https://github.com/SimplioOfficial/simplio-app/commit/16f4ea5a985f9c52a1e472a04d1fbe166f7bd960) Merge branch 'dev' into refactor/719-rename-scr... - storkandstark</sub> |
-| <sub>2023-10-02 12:17:46</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186)</sub> | <sub>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
