@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5467 commits since 10/09/2021. You can see the complete history in
+There is a total of 5468 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-02 15:18:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b5f42ad31e22...d5d87062f1c5)</sub> |
 | <sub>2023-10-02 15:13:30</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bef2198f73d2...ea1b045af80b)</sub> |
 | <sub>2023-10-02 15:04:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610)</sub> | <sub>[313a8d8](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610) Refactor/721 organize widgets to context groups... - storkandstark</sub> |
 | <sub>2023-10-02 14:56:16</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c0047656f5a9f06c71f8c60155b5407f21f65d0)</sub> | <sub>[9c00476](https://github.com/SimplioOfficial/simplio-app/commit/9c0047656f5a9f06c71f8c60155b5407f21f65d0) use class modifiers - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5467 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-02 12:17:46</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186)</sub> | <sub>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark</sub> |
 | <sub>2023-10-02 09:45:57</sub> | <sub>[[simplio-app:refactor/715-rename-bloc-and-cubits-to-controller] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4ba277cda71c...140a4b1f4a84)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark<br>[140a4b1](https://github.com/SimplioOfficial/simplio-app/commit/140a4b1f4a8440901c7547e560207f2215e66462) Merge branch 'dev' into refactor/715-rename-blo... - storkandstark</sub> |
 | <sub>2023-10-02 09:34:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark</sub> |
-| <sub>2023-10-02 07:26:25</sub> | <sub>[[simplio-app:724-remove-wc2legacytransaction-from-hd_wallet_repo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef2198f73d2adc659428d94788091b8d3b3edf6)</sub> | <sub>[bef2198](https://github.com/SimplioOfficial/simplio-app/commit/bef2198f73d2adc659428d94788091b8d3b3edf6) 724-del-wc2legacytransaction-from-hd_wallet_repo - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
