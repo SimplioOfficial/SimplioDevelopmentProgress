@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5457 commits since 10/09/2021. You can see the complete history in
+There is a total of 5458 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-02 07:26:25</sub> | <sub>[[simplio-app:724-remove-wc2legacytransaction-from-hd_wallet_repo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bef2198f73d2adc659428d94788091b8d3b3edf6)</sub> | <sub>[bef2198](https://github.com/SimplioOfficial/simplio-app/commit/bef2198f73d2adc659428d94788091b8d3b3edf6) 724-del-wc2legacytransaction-from-hd_wallet_repo - ciripel</sub> |
 | <sub>2023-09-29 17:38:45</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/eb7e84e004f0b3ea9beabe1324c2dc9737efad19)</sub> | <sub>[eb7e84e](https://github.com/SimplioOfficial/documentation/commit/eb7e84e004f0b3ea9beabe1324c2dc9737efad19) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 17:37:33</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/d1d0b55a08a256725fb37e6a0714f936dbea5998)</sub> | <sub>[d1d0b55](https://github.com/SimplioOfficial/documentation/commit/d1d0b55a08a256725fb37e6a0714f936dbea5998) Add files via upload - JiriVrbas-Eria</sub> |
 | <sub>2023-09-29 17:30:41</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/5ff50b3b6b7f35ecc2343e57533e78e7af28b6d2)</sub> | <sub>[5ff50b3](https://github.com/SimplioOfficial/documentation/commit/5ff50b3b6b7f35ecc2343e57533e78e7af28b6d2) Delete docs/backend/Architektura Simplio nová -... - JiriVrbas-Eria</sub> |
@@ -17,6 +18,5 @@ There is a total of 5457 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-09-29 15:29:32</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/a4d5ab53c1d6fcbc1629b59d09900dace1478c1a)</sub> | <sub>[a4d5ab5](https://github.com/SimplioOfficial/documentation/commit/a4d5ab53c1d6fcbc1629b59d09900dace1478c1a) Delete docs/backend/Handover certificate/Diagra... - JiriVrbas-Eria</sub> |
 | <sub>2023-09-28 23:14:34</sub> | <sub>[[documentation:master] 1 new commit](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510)</sub> | <sub>[9ebd755](https://github.com/SimplioOfficial/documentation/commit/9ebd7552bd036faa17d58a3b2d70af94e7f9a510) Update Services description.md - JiriVrbas-Eria</sub> |
 | <sub>2023-09-28 19:52:46</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99)</sub> | <sub>[5a7edae](https://github.com/SimplioOfficial/simplio-app/commit/5a7edae895aadd88d899422644638b739cc65f99) remove cryptoAmount from _makeBroadcastTransaction - ciripel</sub> |
-| <sub>2023-09-28 19:49:58</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289)</sub> | <sub>[49f7adf](https://github.com/SimplioOfficial/simplio-app/commit/49f7adf6812cb2a74106385d6ea51b92b5795289) finish send - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
