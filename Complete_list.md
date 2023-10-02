@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-02 15:22:45</sub> | <sub>[[simplio-app:724-remove-wc2legacytransaction-from-hd_wallet_repo] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811)</sub> | <sub>[8db1042](https://github.com/SimplioOfficial/simplio-app/commit/8db104257c08763bf995e1d153effa7b1c4e7811) 724-del-wc2legacytransaction-from-hd_wallet_repo - ciripel</sub> |
+| <sub>2023-10-02 15:22:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ea1b045af80b...313a8d80ea62)</sub> |
 | <sub>2023-10-02 15:18:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b5f42ad31e22...d5d87062f1c5)</sub> |
 | <sub>2023-10-02 15:13:30</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bef2198f73d2...ea1b045af80b)</sub> |
 | <sub>2023-10-02 15:04:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610)</sub> | <sub>[313a8d8](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610) Refactor/721 organize widgets to context groups... - storkandstark</sub> |
