@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5475 commits since 10/09/2021. You can see the complete history in
+There is a total of 5476 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-03 08:01:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/be369939a264...11dc69b6287b)</sub> |
 | <sub>2023-10-02 20:03:19</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f)</sub> | <sub>[9c4da7f](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f) 724-del-wc2legacytransaction-from-hd_wallet_rep... - ciripel</sub> |
 | <sub>2023-10-02 20:02:56</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be369939a2649ddd63e38dbfd862e7b4204e6e76)</sub> | <sub>[be36993](https://github.com/SimplioOfficial/simplio-app/commit/be369939a2649ddd63e38dbfd862e7b4204e6e76) refactoring to new standard - ciripel</sub> |
 | <sub>2023-10-02 16:05:34</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c91e8ab943e71b7322e98acdaa0f55fbbe8c3bb0)</sub> | <sub>[c91e8ab](https://github.com/SimplioOfficial/simplio-app/commit/c91e8ab943e71b7322e98acdaa0f55fbbe8c3bb0) fix refactoring aligning - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5475 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-02 15:22:02</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ea1b045af80b...313a8d80ea62)</sub> |
 | <sub>2023-10-02 15:18:21</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/b5f42ad31e22...d5d87062f1c5)</sub> |
 | <sub>2023-10-02 15:13:30</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/bef2198f73d2...ea1b045af80b)</sub> |
-| <sub>2023-10-02 15:04:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610)</sub> | <sub>[313a8d8](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610) Refactor/721 organize widgets to context groups... - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
