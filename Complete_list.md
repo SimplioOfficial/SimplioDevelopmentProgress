@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-04 06:39:42</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/deed139214a2f11c46231b4840a7059276521279)</sub> | <sub>[deed139](https://github.com/SimplioOfficial/simplio-app/commit/deed139214a2f11c46231b4840a7059276521279) update/clean dev dependencies - ciripel</sub> |
 | <sub>2023-10-03 09:17:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a57ca23ca2066d6b951fb0a2a06f68aac3ca460c)</sub> | <sub>[a57ca23](https://github.com/SimplioOfficial/simplio-app/commit/a57ca23ca2066d6b951fb0a2a06f68aac3ca460c) Task/731-send-nft (#722) - ciripel</sub> |
 | <sub>2023-10-03 08:01:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/be369939a264...11dc69b6287b)</sub> |
 | <sub>2023-10-02 20:03:19</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f)</sub> | <sub>[9c4da7f](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f) 724-del-wc2legacytransaction-from-hd_wallet_rep... - ciripel</sub> |
