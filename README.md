@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5483 commits since 10/09/2021. You can see the complete history in
+There is a total of 5484 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-11 11:53:57</sub> | <sub>[[simplio-app:task/861-move-environment-boilerplate-to-local-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c9074e2c9ee8b82c4af8ce3fce2b96cd5c3bed0)</sub> | <sub>[6c9074e](https://github.com/SimplioOfficial/simplio-app/commit/6c9074e2c9ee8b82c4af8ce3fce2b96cd5c3bed0) fix: move-environment-boilerplate-to-local-package - ciripel</sub> |
 | <sub>2023-10-11 05:33:42</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/618f18510f822e477b40673cc5a7fd8fa991f100)</sub> | <sub>[618f185](https://github.com/SimplioOfficial/simplio-app/commit/618f18510f822e477b40673cc5a7fd8fa991f100) revert firebase_analytics to 10.0.6 - ciripel</sub> |
 | <sub>2023-10-10 16:46:57</sub> | <sub>[[simplio-app:bug/846-error-on-broadcast-of-multicall-tx] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/120f8c4b0943bf4bf8d3fbbbad2553d3175946bf)</sub> | <sub>[120f8c4](https://github.com/SimplioOfficial/simplio-app/commit/120f8c4b0943bf4bf8d3fbbbad2553d3175946bf) bug/846-error-on-broadcast-of-multicall-tx - ciripel</sub> |
 | <sub>2023-10-10 15:41:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ae4a5726b118ac81f152cb6ef69f5531bb6df9)</sub> | <sub>[63ae4a5](https://github.com/SimplioOfficial/simplio-app/commit/63ae4a5726b118ac81f152cb6ef69f5531bb6df9) Bug/805-restore-existing-seed-do-not-save-walle... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5483 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-03 09:17:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a57ca23ca2066d6b951fb0a2a06f68aac3ca460c)</sub> | <sub>[a57ca23](https://github.com/SimplioOfficial/simplio-app/commit/a57ca23ca2066d6b951fb0a2a06f68aac3ca460c) Task/731-send-nft (#722) - ciripel</sub> |
 | <sub>2023-10-03 08:01:28</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/be369939a264...11dc69b6287b)</sub> |
 | <sub>2023-10-02 20:03:19</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f)</sub> | <sub>[9c4da7f](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f) 724-del-wc2legacytransaction-from-hd_wallet_rep... - ciripel</sub> |
-| <sub>2023-10-02 20:02:56</sub> | <sub>[[simplio-app:task/731-send-nft] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/be369939a2649ddd63e38dbfd862e7b4204e6e76)</sub> | <sub>[be36993](https://github.com/SimplioOfficial/simplio-app/commit/be369939a2649ddd63e38dbfd862e7b4204e6e76) refactoring to new standard - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
