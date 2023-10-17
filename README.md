@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5487 commits since 10/09/2021. You can see the complete history in
+There is a total of 5488 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-17 11:42:41</sub> | <sub>[[simplio-app:task/728-update-go-router] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bb8f1728e79d...06852ffb5681)</sub> | <sub>[c705172](https://github.com/SimplioOfficial/simplio-app/commit/c705172d9dbf93d8527741c9bb6e879aef272131) upgrade flutter to 3.13.7 - ciripel<br>[9e75780](https://github.com/SimplioOfficial/simplio-app/commit/9e75780fde879825d9d40c05233fb630dc3972cd) apply dart fix - ciripel<br>[fe2a3c6](https://github.com/SimplioOfficial/simplio-app/commit/fe2a3c68edb62422689e424e08029c79460b448c) fix analyze - ciripel<br>[06852ff](https://github.com/SimplioOfficial/simplio-app/commit/06852ffb56818b099ed6968e5ddc1f3a768c3aa3) update pods - ciripel</sub> |
 | <sub>2023-10-13 15:43:50</sub> | <sub>[[simplio-app:task/728-update-go-router] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b02d1d4b2409^...bb8f1728e79d)</sub> | <sub>[b02d1d4](https://github.com/SimplioOfficial/simplio-app/commit/b02d1d4b240935e1d4d157ab041b009228134688) upgrade pub upgrade - ciripel<br>[bb8f172](https://github.com/SimplioOfficial/simplio-app/commit/bb8f1728e79d3eb5fca0efdb9501b60e4628128f) upgrade go_router to 11.1.4 - ciripel</sub> |
 | <sub>2023-10-12 18:25:17</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44bab5b8d7bfc117da94033ac3b7b8a93ae94847)</sub> | <sub>[44bab5b](https://github.com/SimplioOfficial/simplio-app/commit/44bab5b8d7bfc117da94033ac3b7b8a93ae94847) update local packages dependencies - ciripel</sub> |
 | <sub>2023-10-12 16:52:07</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7506b868fef4b9a6fab6a70c3bc0b5bbeb21e1f6)</sub> | <sub>[7506b86](https://github.com/SimplioOfficial/simplio-app/commit/7506b868fef4b9a6fab6a70c3bc0b5bbeb21e1f6) upgrade mobile_scanner to last version - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5487 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-10 15:41:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ae4a5726b118ac81f152cb6ef69f5531bb6df9)</sub> | <sub>[63ae4a5](https://github.com/SimplioOfficial/simplio-app/commit/63ae4a5726b118ac81f152cb6ef69f5531bb6df9) Bug/805-restore-existing-seed-do-not-save-walle... - ciripel</sub> |
 | <sub>2023-10-04 09:11:05</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a2d125aafdb99b317d0eca200d4a48b05cbd4719)</sub> | <sub>[a2d125a](https://github.com/SimplioOfficial/simplio-app/commit/a2d125aafdb99b317d0eca200d4a48b05cbd4719) upgrade dependencies - ciripel</sub> |
 | <sub>2023-10-04 07:20:23</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/845b99c92d62f5f5226aba3266c1d93046950c60)</sub> | <sub>[845b99c](https://github.com/SimplioOfficial/simplio-app/commit/845b99c92d62f5f5226aba3266c1d93046950c60) arrange dependencies alphabetically - ciripel</sub> |
-| <sub>2023-10-04 06:39:42</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/deed139214a2f11c46231b4840a7059276521279)</sub> | <sub>[deed139](https://github.com/SimplioOfficial/simplio-app/commit/deed139214a2f11c46231b4840a7059276521279) update/clean dev dependencies - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
