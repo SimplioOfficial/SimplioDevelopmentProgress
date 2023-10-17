@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-17 19:24:28</sub> | <sub>[[simplio-app:task/861-move-environment-boilerplate-to-local-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58b6f4cf94329b15aa82cfad0af3830b80b09e62)</sub> | <sub>[58b6f4c](https://github.com/SimplioOfficial/simplio-app/commit/58b6f4cf94329b15aa82cfad0af3830b80b09e62) update logger to 2.0.0+ - ciripel</sub> |
 | <sub>2023-10-17 19:09:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6c9074e2c9ee...d1a3af72315f)</sub> |
 | <sub>2023-10-17 18:47:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff)</sub> | <sub>[fe0c932](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff) Task/728-update-dependencies (#729) - ciripel</sub> |
 | <sub>2023-10-17 17:09:31</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a)</sub> | <sub>[038f021](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a) change to head instead of base - ciripel</sub> |
