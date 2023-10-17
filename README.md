@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5491 commits since 10/09/2021. You can see the complete history in
+There is a total of 5492 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-17 18:47:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff)</sub> | <sub>[fe0c932](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff) Task/728-update-dependencies (#729) - ciripel</sub> |
 | <sub>2023-10-17 17:09:31</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a)</sub> | <sub>[038f021](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a) change to head instead of base - ciripel</sub> |
 | <sub>2023-10-17 16:35:15</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d560a91d72ed8f7a487f1f05b19f50ef341fda3)</sub> | <sub>[5d560a9](https://github.com/SimplioOfficial/simplio-app/commit/5d560a91d72ed8f7a487f1f05b19f50ef341fda3) use current branch in workflows - ciripel</sub> |
 | <sub>2023-10-17 12:11:08</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e25345b87a5f6960ae5aa081db7690d8ccdcfdda)</sub> | <sub>[e25345b](https://github.com/SimplioOfficial/simplio-app/commit/e25345b87a5f6960ae5aa081db7690d8ccdcfdda) Task/728-update-go-router (#732) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5491 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-12 16:52:07</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7506b868fef4b9a6fab6a70c3bc0b5bbeb21e1f6)</sub> | <sub>[7506b86](https://github.com/SimplioOfficial/simplio-app/commit/7506b868fef4b9a6fab6a70c3bc0b5bbeb21e1f6) upgrade mobile_scanner to last version - ciripel</sub> |
 | <sub>2023-10-11 11:53:57</sub> | <sub>[[simplio-app:task/861-move-environment-boilerplate-to-local-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6c9074e2c9ee8b82c4af8ce3fce2b96cd5c3bed0)</sub> | <sub>[6c9074e](https://github.com/SimplioOfficial/simplio-app/commit/6c9074e2c9ee8b82c4af8ce3fce2b96cd5c3bed0) fix: move-environment-boilerplate-to-local-package - ciripel</sub> |
 | <sub>2023-10-11 05:33:42</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/618f18510f822e477b40673cc5a7fd8fa991f100)</sub> | <sub>[618f185](https://github.com/SimplioOfficial/simplio-app/commit/618f18510f822e477b40673cc5a7fd8fa991f100) revert firebase_analytics to 10.0.6 - ciripel</sub> |
-| <sub>2023-10-10 16:46:57</sub> | <sub>[[simplio-app:bug/846-error-on-broadcast-of-multicall-tx] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/120f8c4b0943bf4bf8d3fbbbad2553d3175946bf)</sub> | <sub>[120f8c4](https://github.com/SimplioOfficial/simplio-app/commit/120f8c4b0943bf4bf8d3fbbbad2553d3175946bf) bug/846-error-on-broadcast-of-multicall-tx - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
