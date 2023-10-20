@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5499 commits since 10/09/2021. You can see the complete history in
+There is a total of 5500 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-20 11:09:36</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f)</sub> | <sub>[d86df05](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f) bug/876-disable-target-currency-in-swap - ciripel</sub> |
 | <sub>2023-10-19 05:52:25</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6)</sub> | <sub>[63ad29e](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6) rename expandable_text - ciripel</sub> |
 | <sub>2023-10-19 05:48:29</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43)</sub> | <sub>[a97619e](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43) make dialog_content a Widget - ciripel</sub> |
 | <sub>2023-10-19 05:25:19</sub> | <sub>[[simplio-app:task/arrange-widgets] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9d7e3c0e9937^...e407317fade2)</sub> | <sub>[9d7e3c0](https://github.com/SimplioOfficial/simplio-app/commit/9d7e3c0e9937db6f4de9089351c1b68245fdea96) flutter pub upgrade - ciripel<br>[a5ca2f6](https://github.com/SimplioOfficial/simplio-app/commit/a5ca2f6a88ba91a1262736f2ad387a4ba3fd94ec) Rearrange TODO - ciripel<br>[e407317](https://github.com/SimplioOfficial/simplio-app/commit/e407317fade2d90de1b9d9926480d4b651be908f) caps TODOs - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5499 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-17 19:09:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6c9074e2c9ee...d1a3af72315f)</sub> |
 | <sub>2023-10-17 18:47:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff)</sub> | <sub>[fe0c932](https://github.com/SimplioOfficial/simplio-app/commit/fe0c932ce22fd8ef61a08f7558814af3d0c7f5ff) Task/728-update-dependencies (#729) - ciripel</sub> |
 | <sub>2023-10-17 17:09:31</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a)</sub> | <sub>[038f021](https://github.com/SimplioOfficial/simplio-app/commit/038f021de4cb70235d2bbb4190f8f78d90c9482a) change to head instead of base - ciripel</sub> |
-| <sub>2023-10-17 16:35:15</sub> | <sub>[[simplio-app:task/728-update-dependencies] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5d560a91d72ed8f7a487f1f05b19f50ef341fda3)</sub> | <sub>[5d560a9](https://github.com/SimplioOfficial/simplio-app/commit/5d560a91d72ed8f7a487f1f05b19f50ef341fda3) use current branch in workflows - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
