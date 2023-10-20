@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5502 commits since 10/09/2021. You can see the complete history in
+There is a total of 5504 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-20 16:07:08</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50)</sub> | <sub>[21c3bb8](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50) renaming files (#736) - storkandstark</sub> |
+| <sub>2023-10-20 16:06:27</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3662a38aad1a6c9b3d0635a2c6e1bc8da88f63c3)</sub> | <sub>[3662a38](https://github.com/SimplioOfficial/simplio-app/commit/3662a38aad1a6c9b3d0635a2c6e1bc8da88f63c3) Bug/missing safe emit in wc controller (#737) - storkandstark</sub> |
 | <sub>2023-10-20 15:26:50</sub> | <sub>[[simplio-app:bug/missing-safe-emit-in-wc-controller] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/828b8a109c305f42df2b5387b69d8f03690021fc)</sub> | <sub>[828b8a1](https://github.com/SimplioOfficial/simplio-app/commit/828b8a109c305f42df2b5387b69d8f03690021fc) adding safe emit for the controller - storkandstark</sub> |
 | <sub>2023-10-20 14:51:47</sub> | <sub>[[simplio-app:bug/invalid-file-name] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726)</sub> | <sub>[e77e2ca](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726) renaming files - storkandstark</sub> |
 | <sub>2023-10-20 11:09:36</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f)</sub> | <sub>[d86df05](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f) bug/876-disable-target-currency-in-swap - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 5502 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-19 05:25:19</sub> | <sub>[[simplio-app:task/arrange-widgets] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9d7e3c0e9937^...e407317fade2)</sub> | <sub>[9d7e3c0](https://github.com/SimplioOfficial/simplio-app/commit/9d7e3c0e9937db6f4de9089351c1b68245fdea96) flutter pub upgrade - ciripel<br>[a5ca2f6](https://github.com/SimplioOfficial/simplio-app/commit/a5ca2f6a88ba91a1262736f2ad387a4ba3fd94ec) Rearrange TODO - ciripel<br>[e407317](https://github.com/SimplioOfficial/simplio-app/commit/e407317fade2d90de1b9d9926480d4b651be908f) caps TODOs - ciripel</sub> |
 | <sub>2023-10-17 20:08:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d1ed3c28dbe0a8ade7ea9079675658c663a1296)</sub> | <sub>[6d1ed3c](https://github.com/SimplioOfficial/simplio-app/commit/6d1ed3c28dbe0a8ade7ea9079675658c663a1296) bug/846-error-on-broadcast-of-multicall-tx (#730) - ciripel</sub> |
 | <sub>2023-10-17 20:07:44</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f718b0ca9c8b4f1fdd78813592181a78ab54c451)</sub> | <sub>[f718b0c](https://github.com/SimplioOfficial/simplio-app/commit/f718b0ca9c8b4f1fdd78813592181a78ab54c451) task/861-move-environment-boilerplate-to-local-... - ciripel</sub> |
-| <sub>2023-10-17 19:24:28</sub> | <sub>[[simplio-app:task/861-move-environment-boilerplate-to-local-package] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/58b6f4cf94329b15aa82cfad0af3830b80b09e62)</sub> | <sub>[58b6f4c](https://github.com/SimplioOfficial/simplio-app/commit/58b6f4cf94329b15aa82cfad0af3830b80b09e62) update logger to 2.0.0+ - ciripel</sub> |
-| <sub>2023-10-17 19:09:38</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/6c9074e2c9ee...d1a3af72315f)</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
