@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-20 14:51:47</sub> | <sub>[[simplio-app:bug/invalid-file-name] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726)</sub> | <sub>[e77e2ca](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726) renaming files - storkandstark</sub> |
 | <sub>2023-10-20 11:09:36</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f)</sub> | <sub>[d86df05](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f) bug/876-disable-target-currency-in-swap - ciripel</sub> |
 | <sub>2023-10-19 05:52:25</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6)</sub> | <sub>[63ad29e](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6) rename expandable_text - ciripel</sub> |
 | <sub>2023-10-19 05:48:29</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43)</sub> | <sub>[a97619e](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43) make dialog_content a Widget - ciripel</sub> |
