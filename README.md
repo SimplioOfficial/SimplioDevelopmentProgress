@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5507 commits since 10/09/2021. You can see the complete history in
+There is a total of 5508 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-23 16:03:22</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3401e29fa45f6f9ad5a939ef20c21aba1517cf3c)</sub> | <sub>[3401e29](https://github.com/SimplioOfficial/simplio-app/commit/3401e29fa45f6f9ad5a939ef20c21aba1517cf3c) refactored swap controller - ciripel</sub> |
 | <sub>2023-10-23 14:59:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/63ad29e612dd...3351bb2bff52)</sub> |
 | <sub>2023-10-21 06:52:28</sub> | <sub>[[simplio-app:master] 12 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9b077d8cc7ba...d40853f8680a)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark<br>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark<br>[ef4f26a](https://github.com/SimplioOfficial/simplio-app/commit/ef4f26a7064f236fb13ce91df0960f61a3547973) Refactor/719 rename screens according to the co... - storkandstark<br>[313a8d8](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610) Refactor/721 organize widgets to context groups... - storkandstark<br>[9c4da7f](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f) 724-del-wc2legacytransaction-from-hd_wallet_rep... - ciripel</sub> |
 | <sub>2023-10-20 17:10:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d9126b0c61006ad7ae56e500414171f5e58d90e)</sub> | <sub>[6d9126b](https://github.com/SimplioOfficial/simplio-app/commit/6d9126b0c61006ad7ae56e500414171f5e58d90e) bug/876-disable-target-currency-in-swap (#735) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5507 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-20 14:51:47</sub> | <sub>[[simplio-app:bug/invalid-file-name] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726)</sub> | <sub>[e77e2ca](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726) renaming files - storkandstark</sub> |
 | <sub>2023-10-20 11:09:36</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f)</sub> | <sub>[d86df05](https://github.com/SimplioOfficial/simplio-app/commit/d86df051d83f6ff06d375c189babc5df40033c8f) bug/876-disable-target-currency-in-swap - ciripel</sub> |
 | <sub>2023-10-19 05:52:25</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6)</sub> | <sub>[63ad29e](https://github.com/SimplioOfficial/simplio-app/commit/63ad29e612dd4f736393edd15f8b9dc79d6963d6) rename expandable_text - ciripel</sub> |
-| <sub>2023-10-19 05:48:29</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43)</sub> | <sub>[a97619e](https://github.com/SimplioOfficial/simplio-app/commit/a97619ef57d541c5176afb67022f2248c0551e43) make dialog_content a Widget - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
