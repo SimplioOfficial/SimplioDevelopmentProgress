@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5513 commits since 10/09/2021. You can see the complete history in
+There is a total of 5514 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-31 14:25:48</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392)</sub> | <sub>[7057cdb](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392) rename SioTextStyles to TextStyles - ciripel</sub> |
 | <sub>2023-10-31 14:19:29</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e45d9a53277180f89f886bbbed9e0a0fed7a3f38)</sub> | <sub>[e45d9a5](https://github.com/SimplioOfficial/simplio-app/commit/e45d9a53277180f89f886bbbed9e0a0fed7a3f38) make story folder - ciripel</sub> |
 | <sub>2023-10-31 14:16:16</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3bd722864b9dc5bd254fbdbe8726c93ba3058f6)</sub> | <sub>[b3bd722](https://github.com/SimplioOfficial/simplio-app/commit/b3bd722864b9dc5bd254fbdbe8726c93ba3058f6) move Gradients in own folder - ciripel</sub> |
 | <sub>2023-10-31 12:47:53</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dc4e077d8e5eb4ecf480d4e058fd983bef18bb5)</sub> | <sub>[5dc4e07](https://github.com/SimplioOfficial/simplio-app/commit/5dc4e077d8e5eb4ecf480d4e058fd983bef18bb5) refactor: rename SioScaffold to ThemedScaffold - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5513 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-23 14:59:42</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/63ad29e612dd...3351bb2bff52)</sub> |
 | <sub>2023-10-21 06:52:28</sub> | <sub>[[simplio-app:master] 12 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9b077d8cc7ba...d40853f8680a)</sub> | <sub>[f13d651](https://github.com/SimplioOfficial/simplio-app/commit/f13d651bb8899dc8cda97564d94a7244ae1d958e) Refactor/717 introduce result type (#718) - storkandstark<br>[ebff6f5](https://github.com/SimplioOfficial/simplio-app/commit/ebff6f573ae2d67df9c5d94eef4a965fed88b186) Refactor/715 rename bloc and cubits to controll... - storkandstark<br>[ef4f26a](https://github.com/SimplioOfficial/simplio-app/commit/ef4f26a7064f236fb13ce91df0960f61a3547973) Refactor/719 rename screens according to the co... - storkandstark<br>[313a8d8](https://github.com/SimplioOfficial/simplio-app/commit/313a8d80ea62109b42d411040462a6e9d0337610) Refactor/721 organize widgets to context groups... - storkandstark<br>[9c4da7f](https://github.com/SimplioOfficial/simplio-app/commit/9c4da7f9e383cd3ffc68ae12ac78b2a296910d8f) 724-del-wc2legacytransaction-from-hd_wallet_rep... - ciripel</sub> |
 | <sub>2023-10-20 17:10:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6d9126b0c61006ad7ae56e500414171f5e58d90e)</sub> | <sub>[6d9126b](https://github.com/SimplioOfficial/simplio-app/commit/6d9126b0c61006ad7ae56e500414171f5e58d90e) bug/876-disable-target-currency-in-swap (#735) - ciripel</sub> |
-| <sub>2023-10-20 16:07:08</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50)</sub> | <sub>[21c3bb8](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50) renaming files (#736) - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
