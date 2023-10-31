@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-31 16:11:09</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/93166d5257072278b00af2618e2fda10f9b94bac)</sub> | <sub>[93166d5](https://github.com/SimplioOfficial/simplio-app/commit/93166d5257072278b00af2618e2fda10f9b94bac) revert switch verification levels checks - ciripel</sub> |
 | <sub>2023-10-31 15:58:55</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50294b40f922622f6f1f70f5fbf04c5c254a8728)</sub> | <sub>[50294b4](https://github.com/SimplioOfficial/simplio-app/commit/50294b40f922622f6f1f70f5fbf04c5c254a8728) moved game widgets to their own folder - ciripel</sub> |
 | <sub>2023-10-31 15:46:33</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0325e3f889b24399b11c7e1c52af30fec2373e63)</sub> | <sub>[0325e3f](https://github.com/SimplioOfficial/simplio-app/commit/0325e3f889b24399b11c7e1c52af30fec2373e63) move nft_inv_content to inventory_screen - ciripel</sub> |
 | <sub>2023-10-31 14:48:37</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ff942a30d7c80d37fbcc4edc0a8aa9233ee4dab)</sub> | <sub>[0ff942a](https://github.com/SimplioOfficial/simplio-app/commit/0ff942a30d7c80d37fbcc4edc0a8aa9233ee4dab) fix analyze - ciripel</sub> |
