@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-31 14:41:20</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40a961434d93c4e4d1db861fe3e8886f56303048)</sub> | <sub>[40a9614](https://github.com/SimplioOfficial/simplio-app/commit/40a961434d93c4e4d1db861fe3e8886f56303048) rename game_detail_socials to community_links - ciripel</sub> |
 | <sub>2023-10-31 14:25:48</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392)</sub> | <sub>[7057cdb](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392) rename SioTextStyles to TextStyles - ciripel</sub> |
 | <sub>2023-10-31 14:19:29</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e45d9a53277180f89f886bbbed9e0a0fed7a3f38)</sub> | <sub>[e45d9a5](https://github.com/SimplioOfficial/simplio-app/commit/e45d9a53277180f89f886bbbed9e0a0fed7a3f38) make story folder - ciripel</sub> |
 | <sub>2023-10-31 14:16:16</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b3bd722864b9dc5bd254fbdbe8726c93ba3058f6)</sub> | <sub>[b3bd722](https://github.com/SimplioOfficial/simplio-app/commit/b3bd722864b9dc5bd254fbdbe8726c93ba3058f6) move Gradients in own folder - ciripel</sub> |
