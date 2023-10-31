@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5510 commits since 10/09/2021. You can see the complete history in
+There is a total of 5511 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-10-31 12:47:53</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5dc4e077d8e5eb4ecf480d4e058fd983bef18bb5)</sub> | <sub>[5dc4e07](https://github.com/SimplioOfficial/simplio-app/commit/5dc4e077d8e5eb4ecf480d4e058fd983bef18bb5) refactor: rename SioScaffold to ThemedScaffold - ciripel</sub> |
 | <sub>2023-10-31 08:31:01</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5a13790e1d30d6dd83e9e6db89b784fd00c8b287)</sub> | <sub>[5a13790](https://github.com/SimplioOfficial/simplio-app/commit/5a13790e1d30d6dd83e9e6db89b784fd00c8b287) refactor: move WelcomeScreenPage widget to screen - ciripel</sub> |
 | <sub>2023-10-30 16:30:45</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01c2c4499c22f8ea7e0e874ba063d3c4c29b2ae2)</sub> | <sub>[01c2c44](https://github.com/SimplioOfficial/simplio-app/commit/01c2c4499c22f8ea7e0e874ba063d3c4c29b2ae2) refactor: remove Ids from ValueConverted event - ciripel</sub> |
 | <sub>2023-10-23 16:03:22</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3401e29fa45f6f9ad5a939ef20c21aba1517cf3c)</sub> | <sub>[3401e29](https://github.com/SimplioOfficial/simplio-app/commit/3401e29fa45f6f9ad5a939ef20c21aba1517cf3c) refactored swap controller - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5510 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-20 16:07:08</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50)</sub> | <sub>[21c3bb8](https://github.com/SimplioOfficial/simplio-app/commit/21c3bb87c4ddfc42c16e9f4164b40f86a11e7c50) renaming files (#736) - storkandstark</sub> |
 | <sub>2023-10-20 16:06:27</sub> | <sub>[[simplio-app:bug/876-disable-target-currency-in-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3662a38aad1a6c9b3d0635a2c6e1bc8da88f63c3)</sub> | <sub>[3662a38](https://github.com/SimplioOfficial/simplio-app/commit/3662a38aad1a6c9b3d0635a2c6e1bc8da88f63c3) Bug/missing safe emit in wc controller (#737) - storkandstark</sub> |
 | <sub>2023-10-20 15:26:50</sub> | <sub>[[simplio-app:bug/missing-safe-emit-in-wc-controller] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/828b8a109c305f42df2b5387b69d8f03690021fc)</sub> | <sub>[828b8a1](https://github.com/SimplioOfficial/simplio-app/commit/828b8a109c305f42df2b5387b69d8f03690021fc) adding safe emit for the controller - storkandstark</sub> |
-| <sub>2023-10-20 14:51:47</sub> | <sub>[[simplio-app:bug/invalid-file-name] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726)</sub> | <sub>[e77e2ca](https://github.com/SimplioOfficial/simplio-app/commit/e77e2ca47636e07f19fe6406a0bf4442dfde3726) renaming files - storkandstark</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
