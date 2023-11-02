@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-02 20:51:52</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/087a70a37ffba2365b59e3cabb42d2493b012e01)</sub> | <sub>[087a70a](https://github.com/SimplioOfficial/simplio-app/commit/087a70a37ffba2365b59e3cabb42d2493b012e01) remove nft folder in widgets - ciripel</sub> |
 | <sub>2023-11-02 20:41:49</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dec02139b03e3ebddcc611561253393f1a01d466)</sub> | <sub>[dec0213](https://github.com/SimplioOfficial/simplio-app/commit/dec02139b03e3ebddcc611561253393f1a01d466) remove comments from inventory transactions - ciripel</sub> |
 | <sub>2023-11-02 20:40:46</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03f313f7a69fb5cc23d97f609ff71a639ad3a688)</sub> | <sub>[03f313f](https://github.com/SimplioOfficial/simplio-app/commit/03f313f7a69fb5cc23d97f609ff71a639ad3a688) organize inventory screen - ciripel</sub> |
 | <sub>2023-11-02 17:43:13</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce9588fda8391a15f02b64830af4c3ffc5e510c5)</sub> | <sub>[ce9588f](https://github.com/SimplioOfficial/simplio-app/commit/ce9588fda8391a15f02b64830af4c3ffc5e510c5) organize discovery screen - ciripel</sub> |
