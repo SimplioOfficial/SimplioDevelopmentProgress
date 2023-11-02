@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5523 commits since 10/09/2021. You can see the complete history in
+There is a total of 5525 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-02 17:33:44</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7553ec4229dca0d6f63a92b4afa6f4654d5b8f1e)</sub> | <sub>[7553ec4](https://github.com/SimplioOfficial/simplio-app/commit/7553ec4229dca0d6f63a92b4afa6f4654d5b8f1e) remove unneeded TODO - ciripel</sub> |
+| <sub>2023-11-02 17:30:53</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/53d4e91e3cc8f3fe71b43cf815d67d3368eef6c4)</sub> | <sub>[53d4e91](https://github.com/SimplioOfficial/simplio-app/commit/53d4e91e3cc8f3fe71b43cf815d67d3368eef6c4) add remove TODO - ciripel</sub> |
 | <sub>2023-11-02 10:06:12</sub> | <sub>[[simplio-app:task/arrange-screens] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/72431d320d79^...aa5f5e37afa1)</sub> | <sub>[72431d3](https://github.com/SimplioOfficial/simplio-app/commit/72431d320d7902da8b1901cf17bf7ad02e0bbe16) discovery content renaming - ciripel<br>[02b1ec4](https://github.com/SimplioOfficial/simplio-app/commit/02b1ec4b1094a681ec33fa61ef7d7f9970bef2d3) remove empty TODO - ciripel<br>[aa5f5e3](https://github.com/SimplioOfficial/simplio-app/commit/aa5f5e37afa1e4afea03567f9741fbb1cb62307a) organize authenticated screens in folders - ciripel</sub> |
 | <sub>2023-11-02 07:58:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7dae1dcfd8595e37ef43583df341490bceadd356)</sub> | <sub>[7dae1dc](https://github.com/SimplioOfficial/simplio-app/commit/7dae1dcfd8595e37ef43583df341490bceadd356) task/arrange widgets (#740) - ciripel</sub> |
 | <sub>2023-11-02 07:55:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/91c6fdc3766a...6d9126b0c610)</sub> |
@@ -16,7 +18,5 @@ There is a total of 5523 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-10-31 15:58:55</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50294b40f922622f6f1f70f5fbf04c5c254a8728)</sub> | <sub>[50294b4](https://github.com/SimplioOfficial/simplio-app/commit/50294b40f922622f6f1f70f5fbf04c5c254a8728) moved game widgets to their own folder - ciripel</sub> |
 | <sub>2023-10-31 15:46:33</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0325e3f889b24399b11c7e1c52af30fec2373e63)</sub> | <sub>[0325e3f](https://github.com/SimplioOfficial/simplio-app/commit/0325e3f889b24399b11c7e1c52af30fec2373e63) move nft_inv_content to inventory_screen - ciripel</sub> |
 | <sub>2023-10-31 14:48:37</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ff942a30d7c80d37fbcc4edc0a8aa9233ee4dab)</sub> | <sub>[0ff942a](https://github.com/SimplioOfficial/simplio-app/commit/0ff942a30d7c80d37fbcc4edc0a8aa9233ee4dab) fix analyze - ciripel</sub> |
-| <sub>2023-10-31 14:41:20</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/40a961434d93c4e4d1db861fe3e8886f56303048)</sub> | <sub>[40a9614](https://github.com/SimplioOfficial/simplio-app/commit/40a961434d93c4e4d1db861fe3e8886f56303048) rename game_detail_socials to community_links - ciripel</sub> |
-| <sub>2023-10-31 14:25:48</sub> | <sub>[[simplio-app:task/arrange-widgets] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392)</sub> | <sub>[7057cdb](https://github.com/SimplioOfficial/simplio-app/commit/7057cdb4bc735af3634253f1d28e946043a8a392) rename SioTextStyles to TextStyles - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
