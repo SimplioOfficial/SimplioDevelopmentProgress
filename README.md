@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5529 commits since 10/09/2021. You can see the complete history in
+There is a total of 5530 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-03 14:22:51</sub> | <sub>[[simplio-app:bug/811-existing-sign-up-account-error-message] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/717afa530f5b22d78ca41d2902c5396c7ba27e34)</sub> | <sub>[717afa5](https://github.com/SimplioOfficial/simplio-app/commit/717afa530f5b22d78ca41d2902c5396c7ba27e34) bug/811-existing-sign-up-account-error-message - ciripel</sub> |
 | <sub>2023-11-02 20:51:52</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/087a70a37ffba2365b59e3cabb42d2493b012e01)</sub> | <sub>[087a70a](https://github.com/SimplioOfficial/simplio-app/commit/087a70a37ffba2365b59e3cabb42d2493b012e01) remove nft folder in widgets - ciripel</sub> |
 | <sub>2023-11-02 20:41:49</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dec02139b03e3ebddcc611561253393f1a01d466)</sub> | <sub>[dec0213](https://github.com/SimplioOfficial/simplio-app/commit/dec02139b03e3ebddcc611561253393f1a01d466) remove comments from inventory transactions - ciripel</sub> |
 | <sub>2023-11-02 20:40:46</sub> | <sub>[[simplio-app:task/arrange-screens] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/03f313f7a69fb5cc23d97f609ff71a639ad3a688)</sub> | <sub>[03f313f](https://github.com/SimplioOfficial/simplio-app/commit/03f313f7a69fb5cc23d97f609ff71a639ad3a688) organize inventory screen - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5529 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-11-02 10:06:12</sub> | <sub>[[simplio-app:task/arrange-screens] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/72431d320d79^...aa5f5e37afa1)</sub> | <sub>[72431d3](https://github.com/SimplioOfficial/simplio-app/commit/72431d320d7902da8b1901cf17bf7ad02e0bbe16) discovery content renaming - ciripel<br>[02b1ec4](https://github.com/SimplioOfficial/simplio-app/commit/02b1ec4b1094a681ec33fa61ef7d7f9970bef2d3) remove empty TODO - ciripel<br>[aa5f5e3](https://github.com/SimplioOfficial/simplio-app/commit/aa5f5e37afa1e4afea03567f9741fbb1cb62307a) organize authenticated screens in folders - ciripel</sub> |
 | <sub>2023-11-02 07:58:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7dae1dcfd8595e37ef43583df341490bceadd356)</sub> | <sub>[7dae1dc](https://github.com/SimplioOfficial/simplio-app/commit/7dae1dcfd8595e37ef43583df341490bceadd356) task/arrange widgets (#740) - ciripel</sub> |
 | <sub>2023-11-02 07:55:14</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/91c6fdc3766a...6d9126b0c610)</sub> |
-| <sub>2023-11-02 07:34:40</sub> | <sub>[[simplio-app:dev] 18 new commits](https://github.com/SimplioOfficial/simplio-app/compare/6d9126b0c610...91c6fdc3766a)</sub> | <sub>[5e58725](https://github.com/SimplioOfficial/simplio-app/commit/5e5872539b1d991cece134e5aeab64f7951fd0d2) flutter pub upgrade - ciripel<br>[9cd9e4f](https://github.com/SimplioOfficial/simplio-app/commit/9cd9e4f75146708af51356927d6b29d8ee47d22f) Rearrange TODO - ciripel<br>[5c4f015](https://github.com/SimplioOfficial/simplio-app/commit/5c4f0155cf9f063f9270540ac18aa8a98443b6cd) caps TODOs - ciripel<br>[2fa1f49](https://github.com/SimplioOfficial/simplio-app/commit/2fa1f495d40fc5ce5d2b96b19ae54168012a4c1d) make dialog_content a Widget - ciripel<br>[3351bb2](https://github.com/SimplioOfficial/simplio-app/commit/3351bb2bff528573b83e7c89f869ce3ce32353e0) rename expandable_text - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
