@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5542 commits since 10/09/2021. You can see the complete history in
+There is a total of 5543 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-16 13:57:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d3002574d63958575cc3d8f98b0488a219c671b4)</sub> | <sub>[d300257](https://github.com/SimplioOfficial/simplio-app/commit/d3002574d63958575cc3d8f98b0488a219c671b4) Bug/add-connection-lost-text-in-tapToRetry-widg... - ciripel</sub> |
 | <sub>2023-11-16 13:46:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d79165c14235d5c3a81a0fe127bc641b7879fdcc)</sub> | <sub>[d79165c](https://github.com/SimplioOfficial/simplio-app/commit/d79165c14235d5c3a81a0fe127bc641b7879fdcc) Bug/discovery-games-and-coins-do-not-fetch-all-... - ciripel</sub> |
 | <sub>2023-11-16 12:49:19</sub> | <sub>[[simplio-app:bug/add-connection-lost-text-in-tapToRetry-widget] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/406656ee9f16^...810e282a2468)</sub> | <sub>[406656e](https://github.com/SimplioOfficial/simplio-app/commit/406656ee9f163c9e016b46b3d20563a0281c603a) bug/add-connection-lost-text-in-tapToRetry-widget - ciripel<br>[301950a](https://github.com/SimplioOfficial/simplio-app/commit/301950a213e694c327d3e4ff7560f5bb65770f89) return error in pagingController of screens - ciripel<br>[810e282](https://github.com/SimplioOfficial/simplio-app/commit/810e282a2468d0274a616fa2eb0ea9456486cc46) add TapToRetryLoader in GameInv screen - ciripel</sub> |
 | <sub>2023-11-16 10:06:45</sub> | <sub>[[simplio-app:bug/discovery-games-and-coins-do-not-fetch-all-items] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72bd24227ec7a489d037ad6e3b1eedf3a93892bc)</sub> | <sub>[72bd242](https://github.com/SimplioOfficial/simplio-app/commit/72bd24227ec7a489d037ad6e3b1eedf3a93892bc) increased pageSize for games and assets to 20 - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5542 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-11-11 21:30:36</sub> | <sub>[[simplio-app:bug/899-broken-ic-is-not-reported-to-client] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/121856742e9631bb8c97a7d6ab65552541ad98da)</sub> | <sub>[1218567](https://github.com/SimplioOfficial/simplio-app/commit/121856742e9631bb8c97a7d6ab65552541ad98da) add Offline screen in simplio_app - ciripel</sub> |
 | <sub>2023-11-08 20:53:46</sub> | <sub>[[simplio-app:task/add-unit-tests] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37b3c5f8eeea7055ec02c4d1fa7bb449d1a4a424)</sub> | <sub>[37b3c5f](https://github.com/SimplioOfficial/simplio-app/commit/37b3c5f8eeea7055ec02c4d1fa7bb449d1a4a424) improve fee_test - ciripel</sub> |
 | <sub>2023-11-08 17:14:39</sub> | <sub>[[simplio-app:task/define-dark-mode-and-fix-theme-switch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/abb766c8cf57f25f0ec82c3caf811d08ff642caf)</sub> | <sub>[abb766c](https://github.com/SimplioOfficial/simplio-app/commit/abb766c8cf57f25f0ec82c3caf811d08ff642caf) add rebuild on locale change - ciripel</sub> |
-| <sub>2023-11-08 11:34:38</sub> | <sub>[[simplio-app:task/define-dark-mode-and-fix-theme-switch] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fc37abbe625e7cfc9952459c4cf1b838d2546082)</sub> | <sub>[fc37abb](https://github.com/SimplioOfficial/simplio-app/commit/fc37abbe625e7cfc9952459c4cf1b838d2546082) task/define-dark-mode-and-fix-theme-switch - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
