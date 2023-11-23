@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-23 07:23:34</sub> | <sub>[[simplio-app:bug/909-history-and-balance-not-updated-in-coin-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8fa0c5164db8a711af098cdb1b2fbfe693ea2c4)</sub> | <sub>[e8fa0c5](https://github.com/SimplioOfficial/simplio-app/commit/e8fa0c5164db8a711af098cdb1b2fbfe693ea2c4) page was not building cause of max txes - ciripel</sub> |
 | <sub>2023-11-21 12:52:22</sub> | <sub>[[simplio-app:bug/908-change-of-user-level-have-delay-causing-verification-issues] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37e96d09c7960829dc6b994fe925ff798aab9a8e)</sub> | <sub>[37e96d0](https://github.com/SimplioOfficial/simplio-app/commit/37e96d09c7960829dc6b994fe925ff798aab9a8e) check verification level on button click - ciripel</sub> |
 | <sub>2023-11-21 12:51:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f33a3d991e1f...d3002574d639)</sub> |
 | <sub>2023-11-21 12:43:57</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f33a3d991e1fa8b2ad82ed745a1c65b5fd7b6658)</sub> | <sub>[f33a3d9](https://github.com/SimplioOfficial/simplio-app/commit/f33a3d991e1fa8b2ad82ed745a1c65b5fd7b6658) check verification level on button click - ciripel</sub> |

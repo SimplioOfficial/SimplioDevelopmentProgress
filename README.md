@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5548 commits since 10/09/2021. You can see the complete history in
+There is a total of 5549 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-23 07:23:34</sub> | <sub>[[simplio-app:bug/909-history-and-balance-not-updated-in-coin-detail] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8fa0c5164db8a711af098cdb1b2fbfe693ea2c4)</sub> | <sub>[e8fa0c5](https://github.com/SimplioOfficial/simplio-app/commit/e8fa0c5164db8a711af098cdb1b2fbfe693ea2c4) page was not building cause of max txes - ciripel</sub> |
 | <sub>2023-11-21 12:52:22</sub> | <sub>[[simplio-app:bug/908-change-of-user-level-have-delay-causing-verification-issues] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/37e96d09c7960829dc6b994fe925ff798aab9a8e)</sub> | <sub>[37e96d0](https://github.com/SimplioOfficial/simplio-app/commit/37e96d09c7960829dc6b994fe925ff798aab9a8e) check verification level on button click - ciripel</sub> |
 | <sub>2023-11-21 12:51:39</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/f33a3d991e1f...d3002574d639)</sub> |
 | <sub>2023-11-21 12:43:57</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f33a3d991e1fa8b2ad82ed745a1c65b5fd7b6658)</sub> | <sub>[f33a3d9](https://github.com/SimplioOfficial/simplio-app/commit/f33a3d991e1fa8b2ad82ed745a1c65b5fd7b6658) check verification level on button click - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5548 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-11-16 13:46:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d79165c14235d5c3a81a0fe127bc641b7879fdcc)</sub> | <sub>[d79165c](https://github.com/SimplioOfficial/simplio-app/commit/d79165c14235d5c3a81a0fe127bc641b7879fdcc) Bug/discovery-games-and-coins-do-not-fetch-all-... - ciripel</sub> |
 | <sub>2023-11-16 12:49:19</sub> | <sub>[[simplio-app:bug/add-connection-lost-text-in-tapToRetry-widget] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/406656ee9f16^...810e282a2468)</sub> | <sub>[406656e](https://github.com/SimplioOfficial/simplio-app/commit/406656ee9f163c9e016b46b3d20563a0281c603a) bug/add-connection-lost-text-in-tapToRetry-widget - ciripel<br>[301950a](https://github.com/SimplioOfficial/simplio-app/commit/301950a213e694c327d3e4ff7560f5bb65770f89) return error in pagingController of screens - ciripel<br>[810e282](https://github.com/SimplioOfficial/simplio-app/commit/810e282a2468d0274a616fa2eb0ea9456486cc46) add TapToRetryLoader in GameInv screen - ciripel</sub> |
 | <sub>2023-11-16 10:06:45</sub> | <sub>[[simplio-app:bug/discovery-games-and-coins-do-not-fetch-all-items] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/72bd24227ec7a489d037ad6e3b1eedf3a93892bc)</sub> | <sub>[72bd242](https://github.com/SimplioOfficial/simplio-app/commit/72bd24227ec7a489d037ad6e3b1eedf3a93892bc) increased pageSize for games and assets to 20 - ciripel</sub> |
-| <sub>2023-11-15 22:05:26</sub> | <sub>[[simplio-app:bug/discovery-games-and-coins-do-not-fetch-all-items] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b458e15eb6c1a497a52998e8a39d584a4b367c54)</sub> | <sub>[b458e15](https://github.com/SimplioOfficial/simplio-app/commit/b458e15eb6c1a497a52998e8a39d584a4b367c54) fix NFT pageSizes for discovery and inventory - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
