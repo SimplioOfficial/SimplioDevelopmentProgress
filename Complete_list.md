@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-27 14:12:06</sub> | <sub>[[simplio-app:bug/incorrect-status-bar-icons-color] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b80b7a8dfda5efb94f70f0224883c6934e93e766)</sub> | <sub>[b80b7a8](https://github.com/SimplioOfficial/simplio-app/commit/b80b7a8dfda5efb94f70f0224883c6934e93e766) fix status bar icons color - ciripel</sub> |
 | <sub>2023-11-24 19:24:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33e3b846bf666598e7dbc36263bae84359be3f50)</sub> | <sub>[33e3b84](https://github.com/SimplioOfficial/simplio-app/commit/33e3b846bf666598e7dbc36263bae84359be3f50) task/arrange-screens (#741) - ciripel</sub> |
 | <sub>2023-11-24 16:13:58</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/7cb650762d3a...f771c46cc22f)</sub> |
 | <sub>2023-11-24 16:03:55</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b94032b45cc0add461337686f45e0d428f294fe)</sub> | <sub>[5b94032](https://github.com/SimplioOfficial/simplio-app/commit/5b94032b45cc0add461337686f45e0d428f294fe) task/define-dark-mode-and-fix-theme-switch (#744) - ciripel</sub> |
