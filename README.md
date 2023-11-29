@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5561 commits since 10/09/2021. You can see the complete history in
+There is a total of 5562 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-11-29 17:50:14</sub> | <sub>[[simplio-app:bug/811-existing-sign-up-account-error-message] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3261dadb64ffdafcf08b8250737ffae1a7ce1642)</sub> | <sub>[3261dad](https://github.com/SimplioOfficial/simplio-app/commit/3261dadb64ffdafcf08b8250737ffae1a7ce1642) add new error type authSignUpMailDuplicated - ciripel</sub> |
 | <sub>2023-11-29 16:55:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/01a166f42d854640d06e779f9e50b07c6cfb5a69)</sub> | <sub>[01a166f](https://github.com/SimplioOfficial/simplio-app/commit/01a166f42d854640d06e779f9e50b07c6cfb5a69) bug/incorrect-status-bar-icons-color (#753) - ciripel</sub> |
 | <sub>2023-11-27 14:12:06</sub> | <sub>[[simplio-app:bug/incorrect-status-bar-icons-color] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b80b7a8dfda5efb94f70f0224883c6934e93e766)</sub> | <sub>[b80b7a8](https://github.com/SimplioOfficial/simplio-app/commit/b80b7a8dfda5efb94f70f0224883c6934e93e766) fix status bar icons color - ciripel</sub> |
 | <sub>2023-11-24 19:24:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/33e3b846bf666598e7dbc36263bae84359be3f50)</sub> | <sub>[33e3b84](https://github.com/SimplioOfficial/simplio-app/commit/33e3b846bf666598e7dbc36263bae84359be3f50) task/arrange-screens (#741) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5561 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-11-24 16:02:37</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f971b1c72bb1eed96046c4ef56fafd0c3feef193)</sub> | <sub>[f971b1c](https://github.com/SimplioOfficial/simplio-app/commit/f971b1c72bb1eed96046c4ef56fafd0c3feef193) bug/909-history-and-balance-not-updated-in-coin... - ciripel</sub> |
 | <sub>2023-11-24 15:07:20</sub> | <sub>[[simplio-app:bug/908-change-of-user-level-have-delay-causing-verification-issues] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/331d1d9dfd62854cae3fd1bc8d760bfa3e33e662)</sub> | <sub>[331d1d9](https://github.com/SimplioOfficial/simplio-app/commit/331d1d9dfd62854cae3fd1bc8d760bfa3e33e662) chaining listeners - storkandstark</sub> |
 | <sub>2023-11-24 11:44:29</sub> | <sub>[[simplio-app:bug/908-change-of-user-level-have-delay-causing-verification-issues] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7d12e18c82d6047b2f79585961a7ec53073567f4)</sub> | <sub>[7d12e18](https://github.com/SimplioOfficial/simplio-app/commit/7d12e18c82d6047b2f79585961a7ec53073567f4) stop fetchAccountProfile timer on email verified - ciripel</sub> |
-| <sub>2023-11-24 10:57:26</sub> | <sub>[[simplio-app:bug/908-change-of-user-level-have-delay-causing-verification-issues] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f7dadd03ff104db4c53a3290bf5ad9844f96fdb3)</sub> | <sub>[f7dadd0](https://github.com/SimplioOfficial/simplio-app/commit/f7dadd03ff104db4c53a3290bf5ad9844f96fdb3) fix async calls - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
