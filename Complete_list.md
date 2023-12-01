@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-12-01 14:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9b7dab9a074b91761fd833c78177568d58f0325)</sub> | <sub>[d9b7dab](https://github.com/SimplioOfficial/simplio-app/commit/d9b7dab9a074b91761fd833c78177568d58f0325) bug/verify-mail-before-buy-and-swap (#757) - ciripel</sub> |
 | <sub>2023-12-01 12:31:18</sub> | <sub>[[simplio-app:bug/verify-mail-before-buy-and-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0f16e557d8ec2ba7ed3b2559987583ef69e08a4)</sub> | <sub>[e0f16e5](https://github.com/SimplioOfficial/simplio-app/commit/e0f16e557d8ec2ba7ed3b2559987583ef69e08a4) rename mixin - ciripel</sub> |
 | <sub>2023-12-01 12:19:44</sub> | <sub>[[simplio-app:bug/verify-mail-before-buy-and-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0)</sub> | <sub>[bbd5571](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0) fix: verify-mail-before-buy-and-swap - ciripel</sub> |
 | <sub>2023-12-01 08:22:09</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c)</sub> | <sub>[5432fb8](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c) bug/811-existing-sign-up-account-error-message ... - ciripel</sub> |
