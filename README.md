@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5577 commits since 10/09/2021. You can see the complete history in
+There is a total of 5578 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-12-11 12:23:27</sub> | <sub>[[simplio-app:task/914-disable-landscape-mode] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4)</sub> | <sub>[3de4503](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4) task/914-disable-landscape-mode - ciripel</sub> |
 | <sub>2023-12-05 16:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel</sub> |
 | <sub>2023-12-05 09:58:00</sub> | <sub>[[simplio-app:bug/891-reduce-swap-cache-to-15-secs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57)</sub> | <sub>[0b010ff](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57) fix: reduce-swap-cache-to-15-secs - ciripel</sub> |
 | <sub>2023-12-01 16:13:53</sub> | <sub>[[simplio-app:master] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4dfbfd17f657...d88b3596eaa7)</sub> | <sub>[f971b1c](https://github.com/SimplioOfficial/simplio-app/commit/f971b1c72bb1eed96046c4ef56fafd0c3feef193) bug/909-history-and-balance-not-updated-in-coin... - ciripel<br>[44dad13](https://github.com/SimplioOfficial/simplio-app/commit/44dad1372cf6ca23b2a41a2a6c6e48e21976ffda) bug/908-change-of-user-level-have-delay-causing... - ciripel<br>[5b94032](https://github.com/SimplioOfficial/simplio-app/commit/5b94032b45cc0add461337686f45e0d428f294fe) task/define-dark-mode-and-fix-theme-switch (#744) - ciripel<br>[33e3b84](https://github.com/SimplioOfficial/simplio-app/commit/33e3b846bf666598e7dbc36263bae84359be3f50) task/arrange-screens (#741) - ciripel<br>[01a166f](https://github.com/SimplioOfficial/simplio-app/commit/01a166f42d854640d06e779f9e50b07c6cfb5a69) bug/incorrect-status-bar-icons-color (#753) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5577 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-12-01 08:22:09</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c)</sub> | <sub>[5432fb8](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c) bug/811-existing-sign-up-account-error-message ... - ciripel</sub> |
 | <sub>2023-12-01 08:21:34</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32d240080fe1074ad6e9cac429b293f695555aa7)</sub> | <sub>[32d2400](https://github.com/SimplioOfficial/simplio-app/commit/32d240080fe1074ad6e9cac429b293f695555aa7) Bug/resend-verification-email-not-working (#754) - ciripel</sub> |
 | <sub>2023-12-01 08:21:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f464d383248c1452db1e0707010c638470d1cdea)</sub> | <sub>[f464d38](https://github.com/SimplioOfficial/simplio-app/commit/f464d383248c1452db1e0707010c638470d1cdea) bug/912-disable-back-button-on-android (#755) - ciripel</sub> |
-| <sub>2023-12-01 08:17:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f96ae8a8ecc8aff57fb05dad8165711ca7b1dad2)</sub> | <sub>[f96ae8a](https://github.com/SimplioOfficial/simplio-app/commit/f96ae8a8ecc8aff57fb05dad8165711ca7b1dad2) bug/white-screen-on-qr-scan-on-nft-send (#756) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
