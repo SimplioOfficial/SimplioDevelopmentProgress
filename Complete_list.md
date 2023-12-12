@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-12-12 10:05:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c)</sub> | <sub>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel</sub> |
 | <sub>2023-12-11 12:23:27</sub> | <sub>[[simplio-app:task/914-disable-landscape-mode] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4)</sub> | <sub>[3de4503](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4) task/914-disable-landscape-mode - ciripel</sub> |
 | <sub>2023-12-05 16:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel</sub> |
 | <sub>2023-12-05 09:58:00</sub> | <sub>[[simplio-app:bug/891-reduce-swap-cache-to-15-secs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57)</sub> | <sub>[0b010ff](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57) fix: reduce-swap-cache-to-15-secs - ciripel</sub> |

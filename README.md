@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5578 commits since 10/09/2021. You can see the complete history in
+There is a total of 5579 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-12-12 10:05:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c)</sub> | <sub>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel</sub> |
 | <sub>2023-12-11 12:23:27</sub> | <sub>[[simplio-app:task/914-disable-landscape-mode] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4)</sub> | <sub>[3de4503](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4) task/914-disable-landscape-mode - ciripel</sub> |
 | <sub>2023-12-05 16:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel</sub> |
 | <sub>2023-12-05 09:58:00</sub> | <sub>[[simplio-app:bug/891-reduce-swap-cache-to-15-secs] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57)</sub> | <sub>[0b010ff](https://github.com/SimplioOfficial/simplio-app/commit/0b010ff24d356c8f731685ab3b58f97deed8cc57) fix: reduce-swap-cache-to-15-secs - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5578 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-12-01 12:19:44</sub> | <sub>[[simplio-app:bug/verify-mail-before-buy-and-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0)</sub> | <sub>[bbd5571](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0) fix: verify-mail-before-buy-and-swap - ciripel</sub> |
 | <sub>2023-12-01 08:22:09</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c)</sub> | <sub>[5432fb8](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c) bug/811-existing-sign-up-account-error-message ... - ciripel</sub> |
 | <sub>2023-12-01 08:21:34</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/32d240080fe1074ad6e9cac429b293f695555aa7)</sub> | <sub>[32d2400](https://github.com/SimplioOfficial/simplio-app/commit/32d240080fe1074ad6e9cac429b293f695555aa7) Bug/resend-verification-email-not-working (#754) - ciripel</sub> |
-| <sub>2023-12-01 08:21:13</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f464d383248c1452db1e0707010c638470d1cdea)</sub> | <sub>[f464d38](https://github.com/SimplioOfficial/simplio-app/commit/f464d383248c1452db1e0707010c638470d1cdea) bug/912-disable-back-button-on-android (#755) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
