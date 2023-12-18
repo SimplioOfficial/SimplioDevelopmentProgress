@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5580 commits since 10/09/2021. You can see the complete history in
+There is a total of 5581 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2023-12-18 07:21:47</sub> | <sub>[[simplio-app:task/887-extend-transaction-message-rejected-by-bank] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cadef15a748b42024b611025c98f6230945bad2e)</sub> | <sub>[cadef15](https://github.com/SimplioOfficial/simplio-app/commit/cadef15a748b42024b611025c98f6230945bad2e) task/887-extend-transaction-message - ciripel</sub> |
 | <sub>2023-12-14 17:06:23</sub> | <sub>[[simplio-app:feat/add-landscape-for-pixel-adventure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062)</sub> | <sub>[cf984c9](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062) feat/add-landscape-for-pixel-adventure - ciripel</sub> |
 | <sub>2023-12-12 10:05:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c)</sub> | <sub>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel</sub> |
 | <sub>2023-12-11 12:23:27</sub> | <sub>[[simplio-app:task/914-disable-landscape-mode] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4)</sub> | <sub>[3de4503](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4) task/914-disable-landscape-mode - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5580 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-12-01 14:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d9b7dab9a074b91761fd833c78177568d58f0325)</sub> | <sub>[d9b7dab](https://github.com/SimplioOfficial/simplio-app/commit/d9b7dab9a074b91761fd833c78177568d58f0325) bug/verify-mail-before-buy-and-swap (#757) - ciripel</sub> |
 | <sub>2023-12-01 12:31:18</sub> | <sub>[[simplio-app:bug/verify-mail-before-buy-and-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e0f16e557d8ec2ba7ed3b2559987583ef69e08a4)</sub> | <sub>[e0f16e5](https://github.com/SimplioOfficial/simplio-app/commit/e0f16e557d8ec2ba7ed3b2559987583ef69e08a4) rename mixin - ciripel</sub> |
 | <sub>2023-12-01 12:19:44</sub> | <sub>[[simplio-app:bug/verify-mail-before-buy-and-swap] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0)</sub> | <sub>[bbd5571](https://github.com/SimplioOfficial/simplio-app/commit/bbd557146295043a66672ece32a242d4a92785f0) fix: verify-mail-before-buy-and-swap - ciripel</sub> |
-| <sub>2023-12-01 08:22:09</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c)</sub> | <sub>[5432fb8](https://github.com/SimplioOfficial/simplio-app/commit/5432fb88ab01d5badd4c61a7abb6587eb645570c) bug/811-existing-sign-up-account-error-message ... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
