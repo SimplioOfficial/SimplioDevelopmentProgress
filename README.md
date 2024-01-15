@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5586 commits since 10/09/2021. You can see the complete history in
+There is a total of 5587 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-15 06:33:58</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/c07c3f41ad955cee4baf05bdf8d3228197d32a41)</sub> | <sub>[c07c3f4](https://github.com/SimplioOfficial/sio_core_light/commit/c07c3f41ad955cee4baf05bdf8d3228197d32a41) implement polygon support - ciripel</sub> |
 | <sub>2024-01-14 13:29:56</sub> | <sub>[[simplio-app:bug/945-AccountBalanceRequest-mapper-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49ba7699207656ad1d99953565b34690046585a6)</sub> | <sub>[49ba769](https://github.com/SimplioOfficial/simplio-app/commit/49ba7699207656ad1d99953565b34690046585a6) bug/945-AccountBalanceRequest-mapper-fix - ciripel</sub> |
 | <sub>2024-01-12 10:39:44</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd932c8a22f840d4fa00d4080e87d7f1d152af5d)</sub> | <sub>[dd932c8](https://github.com/SimplioOfficial/simplio-app/commit/dd932c8a22f840d4fa00d4080e87d7f1d152af5d) task/944-Add-MATIC-chainId-support - ciripel</sub> |
 | <sub>2024-01-04 13:06:43</sub> | <sub>[[simplio-app:master] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d88b3596eaa7...be6709ebdf92)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel<br>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel<br>[8c52ef7](https://github.com/SimplioOfficial/simplio-app/commit/8c52ef7b95e1355f806ae756355cdcb17bf88f4b) task/887-extend-transaction-message (#762) - ciripel<br>[990af73](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22) feat/add-landscape-for-pixel-adventure (#761) - ciripel<br>[be6709e](https://github.com/SimplioOfficial/simplio-app/commit/be6709ebdf92310d3e90fa50b18f4bd50e181bde) Merge pull request #764 from SimplioOfficial/dev - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5586 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-12-14 17:06:23</sub> | <sub>[[simplio-app:feat/add-landscape-for-pixel-adventure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062)</sub> | <sub>[cf984c9](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062) feat/add-landscape-for-pixel-adventure - ciripel</sub> |
 | <sub>2023-12-12 10:05:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c)</sub> | <sub>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel</sub> |
 | <sub>2023-12-11 12:23:27</sub> | <sub>[[simplio-app:task/914-disable-landscape-mode] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4)</sub> | <sub>[3de4503](https://github.com/SimplioOfficial/simplio-app/commit/3de450343daabb4a2fa9da5ba55fd0723930c6f4) task/914-disable-landscape-mode - ciripel</sub> |
-| <sub>2023-12-05 16:16:01</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
