@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5589 commits since 10/09/2021. You can see the complete history in
+There is a total of 5590 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-15 08:19:14</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1)</sub> | <sub>[e0a77e3](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1) task/implement-Polygon-support (#31) - ciripel</sub> |
 | <sub>2024-01-15 06:55:01</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/68a4747534b6a95eb9b86c69e88aee493a75a0d7)</sub> | <sub>[68a4747](https://github.com/SimplioOfficial/sio_core_light/commit/68a4747534b6a95eb9b86c69e88aee493a75a0d7) fix tests - ciripel</sub> |
 | <sub>2024-01-15 06:41:44</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/8697ef7d27c2a14569446d8d4475ef6fe7e022be)</sub> | <sub>[8697ef7](https://github.com/SimplioOfficial/sio_core_light/commit/8697ef7d27c2a14569446d8d4475ef6fe7e022be) version increase to 1.1.12 - ciripel</sub> |
 | <sub>2024-01-15 06:33:58</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/c07c3f41ad955cee4baf05bdf8d3228197d32a41)</sub> | <sub>[c07c3f4](https://github.com/SimplioOfficial/sio_core_light/commit/c07c3f41ad955cee4baf05bdf8d3228197d32a41) implement polygon support - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5589 commits since 10/09/2021. You can see the complete hist
 | <sub>2023-12-21 12:10:35</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22)</sub> | <sub>[990af73](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22) feat/add-landscape-for-pixel-adventure (#761) - ciripel</sub> |
 | <sub>2023-12-21 12:10:09</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c52ef7b95e1355f806ae756355cdcb17bf88f4b)</sub> | <sub>[8c52ef7](https://github.com/SimplioOfficial/simplio-app/commit/8c52ef7b95e1355f806ae756355cdcb17bf88f4b) task/887-extend-transaction-message (#762) - ciripel</sub> |
 | <sub>2023-12-18 07:21:47</sub> | <sub>[[simplio-app:task/887-extend-transaction-message-rejected-by-bank] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cadef15a748b42024b611025c98f6230945bad2e)</sub> | <sub>[cadef15](https://github.com/SimplioOfficial/simplio-app/commit/cadef15a748b42024b611025c98f6230945bad2e) task/887-extend-transaction-message - ciripel</sub> |
-| <sub>2023-12-14 17:06:23</sub> | <sub>[[simplio-app:feat/add-landscape-for-pixel-adventure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062)</sub> | <sub>[cf984c9](https://github.com/SimplioOfficial/simplio-app/commit/cf984c9c20a836823669218f47a1fdc2c6e12062) feat/add-landscape-for-pixel-adventure - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
