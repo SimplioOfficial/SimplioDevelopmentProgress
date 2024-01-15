@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-15 08:28:15</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.12](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.12)</sub> | <sub>_No Commits_</sub> |
 | <sub>2024-01-15 08:19:14</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1)</sub> | <sub>[e0a77e3](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1) task/implement-Polygon-support (#31) - ciripel</sub> |
 | <sub>2024-01-15 06:55:01</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/68a4747534b6a95eb9b86c69e88aee493a75a0d7)</sub> | <sub>[68a4747](https://github.com/SimplioOfficial/sio_core_light/commit/68a4747534b6a95eb9b86c69e88aee493a75a0d7) fix tests - ciripel</sub> |
 | <sub>2024-01-15 06:41:44</sub> | <sub>[[sio_core_light:implement-Polygon-support] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/8697ef7d27c2a14569446d8d4475ef6fe7e022be)</sub> | <sub>[8697ef7](https://github.com/SimplioOfficial/sio_core_light/commit/8697ef7d27c2a14569446d8d4475ef6fe7e022be) version increase to 1.1.12 - ciripel</sub> |
