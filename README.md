@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5592 commits since 10/09/2021. You can see the complete history in
+There is a total of 5593 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-17 10:20:19</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926f4c83c66ff738c24d2fc7c92c4cbe90b607f3)</sub> | <sub>[926f4c8](https://github.com/SimplioOfficial/simplio-app/commit/926f4c83c66ff738c24d2fc7c92c4cbe90b607f3) upgrade wallet_connect - ciripel</sub> |
 | <sub>2024-01-15 08:55:28</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/2754a016822e572506abe157eca2a182151a3315)</sub> | <sub>[2754a01](https://github.com/SimplioOfficial/simplio-app/commit/2754a016822e572506abe157eca2a182151a3315) update sio_core_light to 1.1.12 - ciripel</sub> |
 | <sub>2024-01-15 08:28:15</sub> | <sub>[[SimplioOfficial/sio_core_light] New release published: 1.1.12](https://github.com/SimplioOfficial/sio_core_light/releases/tag/1.1.12)</sub> | <sub>_No Commits_</sub> |
 | <sub>2024-01-15 08:19:14</sub> | <sub>[[sio_core_light:master] 1 new commit](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1)</sub> | <sub>[e0a77e3](https://github.com/SimplioOfficial/sio_core_light/commit/e0a77e3fb5fa128bc654d9bff2270756f8e30bc1) task/implement-Polygon-support (#31) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5592 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-01-14 13:29:56</sub> | <sub>[[simplio-app:bug/945-AccountBalanceRequest-mapper-fix] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/49ba7699207656ad1d99953565b34690046585a6)</sub> | <sub>[49ba769](https://github.com/SimplioOfficial/simplio-app/commit/49ba7699207656ad1d99953565b34690046585a6) bug/945-AccountBalanceRequest-mapper-fix - ciripel</sub> |
 | <sub>2024-01-12 10:39:44</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dd932c8a22f840d4fa00d4080e87d7f1d152af5d)</sub> | <sub>[dd932c8](https://github.com/SimplioOfficial/simplio-app/commit/dd932c8a22f840d4fa00d4080e87d7f1d152af5d) task/944-Add-MATIC-chainId-support - ciripel</sub> |
 | <sub>2024-01-04 13:06:43</sub> | <sub>[[simplio-app:master] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/d88b3596eaa7...be6709ebdf92)</sub> | <sub>[d00493c](https://github.com/SimplioOfficial/simplio-app/commit/d00493cb5ce0bb91db0b54009ba9643c160ff159) bug/891-reduce-swap-cache-to-15-secs (#759) - ciripel<br>[b2efa65](https://github.com/SimplioOfficial/simplio-app/commit/b2efa65d0fbec355ef6a0427669733d293762e7c) task/914-disable-landscape-mode (#760) - ciripel<br>[8c52ef7](https://github.com/SimplioOfficial/simplio-app/commit/8c52ef7b95e1355f806ae756355cdcb17bf88f4b) task/887-extend-transaction-message (#762) - ciripel<br>[990af73](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22) feat/add-landscape-for-pixel-adventure (#761) - ciripel<br>[be6709e](https://github.com/SimplioOfficial/simplio-app/commit/be6709ebdf92310d3e90fa50b18f4bd50e181bde) Merge pull request #764 from SimplioOfficial/dev - ciripel</sub> |
-| <sub>2023-12-21 12:10:35</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22)</sub> | <sub>[990af73](https://github.com/SimplioOfficial/simplio-app/commit/990af7318f823276f16a1dd7f052aca13a939c22) feat/add-landscape-for-pixel-adventure (#761) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
