@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-19 11:51:51</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2)</sub> | <sub>[8153817](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2) start Android app in portrait - ciripel</sub> |
 | <sub>2024-01-18 14:20:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac)</sub> | <sub>[1392fb3](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac) bug/945-AccountBalanceRequest-mapper-fix (#765) - ciripel</sub> |
 | <sub>2024-01-18 14:19:36</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6184dd43f0ebc2385b6ce8f7f3ca694fededf023)</sub> | <sub>[6184dd4](https://github.com/SimplioOfficial/simplio-app/commit/6184dd43f0ebc2385b6ce8f7f3ca694fededf023) task/944-Add-MATIC-chainId-support (#766) - ciripel</sub> |
 | <sub>2024-01-18 13:35:05</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/496047945c22e578d8bd72d8804dbd55ac6de915)</sub> | <sub>[4960479](https://github.com/SimplioOfficial/simplio-app/commit/496047945c22e578d8bd72d8804dbd55ac6de915) Add Push Notification Capability - ciripel</sub> |
