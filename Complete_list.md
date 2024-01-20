@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-20 10:32:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72)</sub> | <sub>[05f3c1f](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72) Bug/landscape orientation on ios (#768) - ciripel</sub> |
 | <sub>2024-01-19 12:33:43</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02)</sub> | <sub>[18c8d31](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02) allow landscape orientation on iOS - ciripel</sub> |
 | <sub>2024-01-19 11:51:51</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2)</sub> | <sub>[8153817](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2) start Android app in portrait - ciripel</sub> |
 | <sub>2024-01-18 14:20:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac)</sub> | <sub>[1392fb3](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac) bug/945-AccountBalanceRequest-mapper-fix (#765) - ciripel</sub> |
