@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5602 commits since 10/09/2021. You can see the complete history in
+There is a total of 5603 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-01-22 10:18:22</sub> | <sub>[[simplio-app:bug/accept-null-txType-on-TxResponses] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2)</sub> | <sub>[5b3314b](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2) bug/accept-null-txType-on-TxResponses - ciripel</sub> |
 | <sub>2024-01-20 10:32:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72)</sub> | <sub>[05f3c1f](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72) Bug/landscape orientation on ios (#768) - ciripel</sub> |
 | <sub>2024-01-19 12:33:43</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02)</sub> | <sub>[18c8d31](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02) allow landscape orientation on iOS - ciripel</sub> |
 | <sub>2024-01-19 11:51:51</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2)</sub> | <sub>[8153817](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2) start Android app in portrait - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5602 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-01-17 15:27:05</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926c257584cbc3ecf65bd850fbc1a39184e42a9b)</sub> | <sub>[926c257](https://github.com/SimplioOfficial/simplio-app/commit/926c257584cbc3ecf65bd850fbc1a39184e42a9b) disable buy and swap for non BNB games - ciripel</sub> |
 | <sub>2024-01-17 14:46:51</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e43974e0f6990bae091e07aa5c7c0369bff39917)</sub> | <sub>[e43974e](https://github.com/SimplioOfficial/simplio-app/commit/e43974e0f6990bae091e07aa5c7c0369bff39917) update PopScope in GamePlayScreen - ciripel</sub> |
 | <sub>2024-01-17 14:36:11</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9f5be5a86f170439515c55bb46f710fa79eabbed)</sub> | <sub>[9f5be5a](https://github.com/SimplioOfficial/simplio-app/commit/9f5be5a86f170439515c55bb46f710fa79eabbed) reposition close button for Crazy Ants - ciripel</sub> |
-| <sub>2024-01-17 10:20:19</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926f4c83c66ff738c24d2fc7c92c4cbe90b607f3)</sub> | <sub>[926f4c8](https://github.com/SimplioOfficial/simplio-app/commit/926f4c83c66ff738c24d2fc7c92c4cbe90b607f3) upgrade wallet_connect - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
