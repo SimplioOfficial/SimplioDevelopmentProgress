@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5605 commits since 10/09/2021. You can see the complete history in
+There is a total of 5606 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-02 19:08:26</sub> | <sub>[[simplio-app:task/special-closeButton-position-for-PixelAdventure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ccfa68465bc2f877f5306a70a6cde706006b3fb)</sub> | <sub>[0ccfa68](https://github.com/SimplioOfficial/simplio-app/commit/0ccfa68465bc2f877f5306a70a6cde706006b3fb) placed close button on top left side - ciripel</sub> |
 | <sub>2024-01-25 08:49:43</sub> | <sub>[[simplio-app:master] 5 new commits](https://github.com/SimplioOfficial/simplio-app/compare/be6709ebdf92...f880717b89cb)</sub> | <sub>[6184dd4](https://github.com/SimplioOfficial/simplio-app/commit/6184dd43f0ebc2385b6ce8f7f3ca694fededf023) task/944-Add-MATIC-chainId-support (#766) - ciripel<br>[1392fb3](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac) bug/945-AccountBalanceRequest-mapper-fix (#765) - ciripel<br>[05f3c1f](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72) Bug/landscape orientation on ios (#768) - ciripel<br>[56c368e](https://github.com/SimplioOfficial/simplio-app/commit/56c368e0e84898835d01cd5b303562958ea05b71) bug/accept-null-txType-on-TxResponses (#769) - ciripel<br>[f880717](https://github.com/SimplioOfficial/simplio-app/commit/f880717b89cb885e8a49dc756131696c6b2d803f) Merge pull request #767 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2024-01-22 10:41:30</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/56c368e0e84898835d01cd5b303562958ea05b71)</sub> | <sub>[56c368e](https://github.com/SimplioOfficial/simplio-app/commit/56c368e0e84898835d01cd5b303562958ea05b71) bug/accept-null-txType-on-TxResponses (#769) - ciripel</sub> |
 | <sub>2024-01-22 10:18:22</sub> | <sub>[[simplio-app:bug/accept-null-txType-on-TxResponses] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2)</sub> | <sub>[5b3314b](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2) bug/accept-null-txType-on-TxResponses - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5605 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-01-18 14:20:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac)</sub> | <sub>[1392fb3](https://github.com/SimplioOfficial/simplio-app/commit/1392fb379425dff040993cb2c940ea0bd4d4a3ac) bug/945-AccountBalanceRequest-mapper-fix (#765) - ciripel</sub> |
 | <sub>2024-01-18 14:19:36</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6184dd43f0ebc2385b6ce8f7f3ca694fededf023)</sub> | <sub>[6184dd4](https://github.com/SimplioOfficial/simplio-app/commit/6184dd43f0ebc2385b6ce8f7f3ca694fededf023) task/944-Add-MATIC-chainId-support (#766) - ciripel</sub> |
 | <sub>2024-01-18 13:35:05</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/496047945c22e578d8bd72d8804dbd55ac6de915)</sub> | <sub>[4960479](https://github.com/SimplioOfficial/simplio-app/commit/496047945c22e578d8bd72d8804dbd55ac6de915) Add Push Notification Capability - ciripel</sub> |
-| <sub>2024-01-17 15:27:05</sub> | <sub>[[simplio-app:task/944-Add-MATIC-chainId-support] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/926c257584cbc3ecf65bd850fbc1a39184e42a9b)</sub> | <sub>[926c257](https://github.com/SimplioOfficial/simplio-app/commit/926c257584cbc3ecf65bd850fbc1a39184e42a9b) disable buy and swap for non BNB games - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
