@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5609 commits since 10/09/2021. You can see the complete history in
+There is a total of 5610 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-07 16:25:19</sub> | <sub>[[simplio-app:master] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f880717b89cb...183b40f31813)</sub> | <sub>[c4764fb](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77) task/special-closeButton-position-for-PixelAdve... - ciripel<br>[3b06d51](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89) task/add-loadingGame-screen (#771) - ciripel<br>[183b40f](https://github.com/SimplioOfficial/simplio-app/commit/183b40f318132053d258c3490a4fc04d64de2b0e) Merge pull request #772 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2024-03-03 07:47:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89)</sub> | <sub>[3b06d51](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89) task/add-loadingGame-screen (#771) - ciripel</sub> |
 | <sub>2024-03-03 07:47:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77)</sub> | <sub>[c4764fb](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77) task/special-closeButton-position-for-PixelAdve... - ciripel</sub> |
 | <sub>2024-03-02 19:48:20</sub> | <sub>[[simplio-app:task/add-loadingGame-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90b441b89055225b41bfe978cac41b724328c831)</sub> | <sub>[90b441b](https://github.com/SimplioOfficial/simplio-app/commit/90b441b89055225b41bfe978cac41b724328c831) task/add-loadingGame-screen - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5609 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-01-22 10:18:22</sub> | <sub>[[simplio-app:bug/accept-null-txType-on-TxResponses] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2)</sub> | <sub>[5b3314b](https://github.com/SimplioOfficial/simplio-app/commit/5b3314b2a975aaebed2f45d2669ba4a809ae6df2) bug/accept-null-txType-on-TxResponses - ciripel</sub> |
 | <sub>2024-01-20 10:32:29</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72)</sub> | <sub>[05f3c1f](https://github.com/SimplioOfficial/simplio-app/commit/05f3c1f959e9a7cf3acb42e4acdf4cdcb35adc72) Bug/landscape orientation on ios (#768) - ciripel</sub> |
 | <sub>2024-01-19 12:33:43</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02)</sub> | <sub>[18c8d31](https://github.com/SimplioOfficial/simplio-app/commit/18c8d316844f034e5c7c8e9352cc27ae28877e02) allow landscape orientation on iOS - ciripel</sub> |
-| <sub>2024-01-19 11:51:51</sub> | <sub>[[simplio-app:bug/landscape-orientation-on-IOS] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2)</sub> | <sub>[8153817](https://github.com/SimplioOfficial/simplio-app/commit/8153817ac95976766b2ea115c41ec366291b3ee2) start Android app in portrait - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
