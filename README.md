@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5615 commits since 10/09/2021. You can see the complete history in
+There is a total of 5616 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-14 12:09:14</sub> | <sub>[[simplio-app:task/draggable-close-button-on-game-webview] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/410ae812ebdd56f65bf87903a6ac153f12d18c7b)</sub> | <sub>[410ae81](https://github.com/SimplioOfficial/simplio-app/commit/410ae812ebdd56f65bf87903a6ac153f12d18c7b) task/draggable-close-button-on-game-webview - ciripel</sub> |
 | <sub>2024-03-14 07:49:23</sub> | <sub>[[simplio-app:task/prepare-web2-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/4bd3d0ec407fb01a801e14d5308e00beb6ae7e6e)</sub> | <sub>[4bd3d0e](https://github.com/SimplioOfficial/simplio-app/commit/4bd3d0ec407fb01a801e14d5308e00beb6ae7e6e) remove GameDetailBalance from not promoted games - ciripel</sub> |
 | <sub>2024-03-14 07:39:11</sub> | <sub>[[simplio-app:task/prepare-web2-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8c2ef7fd9197f82eb4b3bac8c76cf5f857146554)</sub> | <sub>[8c2ef7f](https://github.com/SimplioOfficial/simplio-app/commit/8c2ef7fd9197f82eb4b3bac8c76cf5f857146554) update buy and exchange condition in game detail - ciripel</sub> |
 | <sub>2024-03-14 07:28:22</sub> | <sub>[[simplio-app:task/prepare-web2-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35a5b6db5a9a1f062eb31d96c745268204f561a2)</sub> | <sub>[35a5b6d](https://github.com/SimplioOfficial/simplio-app/commit/35a5b6db5a9a1f062eb31d96c745268204f561a2) change open to play and remove buy from not pro... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5615 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-03-03 07:47:59</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89)</sub> | <sub>[3b06d51](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89) task/add-loadingGame-screen (#771) - ciripel</sub> |
 | <sub>2024-03-03 07:47:41</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77)</sub> | <sub>[c4764fb](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77) task/special-closeButton-position-for-PixelAdve... - ciripel</sub> |
 | <sub>2024-03-02 19:48:20</sub> | <sub>[[simplio-app:task/add-loadingGame-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/90b441b89055225b41bfe978cac41b724328c831)</sub> | <sub>[90b441b](https://github.com/SimplioOfficial/simplio-app/commit/90b441b89055225b41bfe978cac41b724328c831) task/add-loadingGame-screen - ciripel</sub> |
-| <sub>2024-03-02 19:08:26</sub> | <sub>[[simplio-app:task/special-closeButton-position-for-PixelAdventure] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0ccfa68465bc2f877f5306a70a6cde706006b3fb)</sub> | <sub>[0ccfa68](https://github.com/SimplioOfficial/simplio-app/commit/0ccfa68465bc2f877f5306a70a6cde706006b3fb) placed close button on top left side - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
