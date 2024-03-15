@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5619 commits since 10/09/2021. You can see the complete history in
+There is a total of 5620 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-15 15:16:53</sub> | <sub>[[simplio-app:bug/fix-scrolling-after-removal-of-scrollable-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa5242e8b7e67681da0518c449558657eef6c0ed)</sub> | <sub>[fa5242e](https://github.com/SimplioOfficial/simplio-app/commit/fa5242e8b7e67681da0518c449558657eef6c0ed) bug/fix-scrolling-after-removal-of-scrollable-b... - ciripel</sub> |
 | <sub>2024-03-14 20:56:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050)</sub> | <sub>[ce45f56](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050) Task/hide banner and translation (#773) - storkandstark</sub> |
 | <sub>2024-03-14 20:56:08</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21)</sub> | <sub>[caa170c](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21) Task/prepare-web2-games-banner (#774) - ciripel</sub> |
 | <sub>2024-03-14 20:55:47</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3)</sub> | <sub>[d28bb61](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3) task/draggable-close-button-on-game-webview (#775) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5619 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-03-14 07:28:22</sub> | <sub>[[simplio-app:task/prepare-web2-games-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/35a5b6db5a9a1f062eb31d96c745268204f561a2)</sub> | <sub>[35a5b6d](https://github.com/SimplioOfficial/simplio-app/commit/35a5b6db5a9a1f062eb31d96c745268204f561a2) change open to play and remove buy from not pro... - ciripel</sub> |
 | <sub>2024-03-14 07:05:59</sub> | <sub>[[simplio-app:task/hide-banner-and-translation] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9da638b148c3312f21a222ee214b197c1e42003f)</sub> | <sub>[9da638b](https://github.com/SimplioOfficial/simplio-app/commit/9da638b148c3312f21a222ee214b197c1e42003f) fixed small bugs - ciripel</sub> |
 | <sub>2024-03-13 16:19:30</sub> | <sub>[[simplio-app:task/hide-banner-and-translation] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/4c3354bf43bc^...c5452b6ee85e)</sub> | <sub>[4c3354b](https://github.com/SimplioOfficial/simplio-app/commit/4c3354bf43bc9dcfbcff3ac07a4a789c1a16aecf) hiding unused banner - storkandstark<br>[ad57625](https://github.com/SimplioOfficial/simplio-app/commit/ad576259ea5470c00e9a0fcec057e85f25d5f58e) changing translation from TOP to web3 - storkandstark<br>[c5452b6](https://github.com/SimplioOfficial/simplio-app/commit/c5452b6ee85e8a34c00652b78e05a7630d5e3775) hiding price for isPromoted (web2) games - storkandstark</sub> |
-| <sub>2024-03-07 16:25:19</sub> | <sub>[[simplio-app:master] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f880717b89cb...183b40f31813)</sub> | <sub>[c4764fb](https://github.com/SimplioOfficial/simplio-app/commit/c4764fb570d4d3738fbbededb46e84f068ccac77) task/special-closeButton-position-for-PixelAdve... - ciripel<br>[3b06d51](https://github.com/SimplioOfficial/simplio-app/commit/3b06d51b5c76fe4ef9cdd7c64ba3b97e3b2e2e89) task/add-loadingGame-screen (#771) - ciripel<br>[183b40f](https://github.com/SimplioOfficial/simplio-app/commit/183b40f318132053d258c3490a4fc04d64de2b0e) Merge pull request #772 from SimplioOfficial/dev - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
