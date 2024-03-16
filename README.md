@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5625 commits since 10/09/2021. You can see the complete history in
+There is a total of 5627 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-16 22:52:38</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/6ac34f50b6097b043294f3445627b0c0f3b31da9)</sub> | <sub>[6ac34f5](https://github.com/SimplioOfficial/simplio-app/commit/6ac34f50b6097b043294f3445627b0c0f3b31da9) bug/accept-nullable-asset-price-defaults-to-zer... - ciripel</sub> |
+| <sub>2024-03-16 22:52:14</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/68e082e44c9d060bc91c51dd1a65a6c4e303666f)</sub> | <sub>[68e082e](https://github.com/SimplioOfficial/simplio-app/commit/68e082e44c9d060bc91c51dd1a65a6c4e303666f) bug/change-open-to-play-in-game-details-screen ... - ciripel</sub> |
 | <sub>2024-03-16 15:50:17</sub> | <sub>[[simplio-app:bug/change-open-to-play-in-game-details-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/c9d006c8845823b4dc05c155f14b325c8bec2716)</sub> | <sub>[c9d006c](https://github.com/SimplioOfficial/simplio-app/commit/c9d006c8845823b4dc05c155f14b325c8bec2716) bug/change-open-to-play-in-game-details-screen - ciripel</sub> |
 | <sub>2024-03-16 15:47:45</sub> | <sub>[[simplio-app:bug/accept-nullable-asset-price-defaults-to-zero] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/78ffd41949b70885a3fc3fb80f97bcbad0c797d6)</sub> | <sub>[78ffd41](https://github.com/SimplioOfficial/simplio-app/commit/78ffd41949b70885a3fc3fb80f97bcbad0c797d6) small fix - ciripel</sub> |
 | <sub>2024-03-16 11:32:16</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d9aaea10b6f6c582dfcd15988a5dfc2044224bc)</sub> | <sub>[8d9aaea](https://github.com/SimplioOfficial/simplio-app/commit/8d9aaea10b6f6c582dfcd15988a5dfc2044224bc) Bug/fix-scrolling-after-removal-of-scrollable-b... - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 5625 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-03-15 15:16:53</sub> | <sub>[[simplio-app:bug/fix-scrolling-after-removal-of-scrollable-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa5242e8b7e67681da0518c449558657eef6c0ed)</sub> | <sub>[fa5242e](https://github.com/SimplioOfficial/simplio-app/commit/fa5242e8b7e67681da0518c449558657eef6c0ed) bug/fix-scrolling-after-removal-of-scrollable-b... - ciripel</sub> |
 | <sub>2024-03-14 20:56:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050)</sub> | <sub>[ce45f56](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050) Task/hide banner and translation (#773) - storkandstark</sub> |
 | <sub>2024-03-14 20:56:08</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21)</sub> | <sub>[caa170c](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21) Task/prepare-web2-games-banner (#774) - ciripel</sub> |
-| <sub>2024-03-14 20:55:47</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3)</sub> | <sub>[d28bb61](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3) task/draggable-close-button-on-game-webview (#775) - ciripel</sub> |
-| <sub>2024-03-14 12:09:14</sub> | <sub>[[simplio-app:task/draggable-close-button-on-game-webview] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/410ae812ebdd56f65bf87903a6ac153f12d18c7b)</sub> | <sub>[410ae81](https://github.com/SimplioOfficial/simplio-app/commit/410ae812ebdd56f65bf87903a6ac153f12d18c7b) task/draggable-close-button-on-game-webview - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
