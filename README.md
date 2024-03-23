@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5640 commits since 10/09/2021. You can see the complete history in
+There is a total of 5641 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-03-23 06:42:32</sub> | <sub>[[simplio-app:bug/nft-buy-screen-caption-parsing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/743c94fed122228abb215450d1d14f2877239b16)</sub> | <sub>[743c94f](https://github.com/SimplioOfficial/simplio-app/commit/743c94fed122228abb215450d1d14f2877239b16) bug/nft-buy-screen-caption-parsing - ciripel</sub> |
 | <sub>2024-03-22 09:30:19</sub> | <sub>[[simplio-app:master] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/183b40f31813...f4d906621dd6)</sub> | <sub>[d28bb61](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3) task/draggable-close-button-on-game-webview (#775) - ciripel<br>[caa170c](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21) Task/prepare-web2-games-banner (#774) - ciripel<br>[ce45f56](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050) Task/hide banner and translation (#773) - storkandstark<br>[8d9aaea](https://github.com/SimplioOfficial/simplio-app/commit/8d9aaea10b6f6c582dfcd15988a5dfc2044224bc) Bug/fix-scrolling-after-removal-of-scrollable-b... - ciripel<br>[68e082e](https://github.com/SimplioOfficial/simplio-app/commit/68e082e44c9d060bc91c51dd1a65a6c4e303666f) bug/change-open-to-play-in-game-details-screen ... - ciripel</sub> |
 | <sub>2024-03-21 22:55:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/258a482fbe94842d8a0b7a4d6bdaa21f12a80341)</sub> | <sub>[258a482](https://github.com/SimplioOfficial/simplio-app/commit/258a482fbe94842d8a0b7a4d6bdaa21f12a80341) Task/changes-on-nft-detail-screen (#782) - ciripel</sub> |
 | <sub>2024-03-21 22:54:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed03d662cf62c12f44000fc8b5394b395cdbe3e6)</sub> | <sub>[ed03d66](https://github.com/SimplioOfficial/simplio-app/commit/ed03d662cf62c12f44000fc8b5394b395cdbe3e6) bug/fix-double-single-quotes-in-arb (#781) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5640 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-03-21 07:06:20</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7571ca302b8e521f5d65004d142be0866cfef8c2)</sub> | <sub>[7571ca3](https://github.com/SimplioOfficial/simplio-app/commit/7571ca302b8e521f5d65004d142be0866cfef8c2) task/change-welcome-screen-images (#780) - ciripel</sub> |
 | <sub>2024-03-21 06:29:37</sub> | <sub>[[simplio-app:task/change-welcome-screen-images] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/70470f3f59226b2098389d109060ac880ee915ee)</sub> | <sub>[70470f3](https://github.com/SimplioOfficial/simplio-app/commit/70470f3f59226b2098389d109060ac880ee915ee) task/change-welcome-screen-images - ciripel</sub> |
 | <sub>2024-03-18 10:58:24</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/899ddb1d64329472db85f6d76854f722067c3467)</sub> | <sub>[899ddb1](https://github.com/SimplioOfficial/simplio-app/commit/899ddb1d64329472db85f6d76854f722067c3467) chore:migrate-to-PopScope/WillPopScope-is-depre... - ciripel</sub> |
-| <sub>2024-03-18 10:10:14</sub> | <sub>[[simplio-app:chore/migrate-to-PopScope/WillPopScope-is-deprecated] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/141a276845411b1ca27170b2dcdea463901c7e3e)</sub> | <sub>[141a276](https://github.com/SimplioOfficial/simplio-app/commit/141a276845411b1ca27170b2dcdea463901c7e3e) updates for iOS - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
