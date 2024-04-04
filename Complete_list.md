@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-04 13:42:10</sub> | <sub>[[simplio-app:task/add-isWeb2Game-property] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ad5ccfd85ea68c6fb452e0474fc5c5de783fd7f)</sub> | <sub>[5ad5ccf](https://github.com/SimplioOfficial/simplio-app/commit/5ad5ccfd85ea68c6fb452e0474fc5c5de783fd7f) task/add-isWeb2Game-property - ciripel</sub> |
 | <sub>2024-04-02 17:52:50</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee4d60f48a97cb356648fee9fbd2059ce8e3040c)</sub> | <sub>[ee4d60f](https://github.com/SimplioOfficial/simplio-app/commit/ee4d60f48a97cb356648fee9fbd2059ce8e3040c) reduced to only one clickable banner - ciripel</sub> |
 | <sub>2024-04-02 17:29:43</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c)</sub> | <sub>[8880899](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c) revert scrollable banner - ciripel</sub> |
 | <sub>2024-03-24 20:07:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a)</sub> | <sub>[aa62792](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a) bug/nft-buy-screen-caption-parsing (#784) - ciripel</sub> |
