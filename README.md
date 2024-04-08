@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5645 commits since 10/09/2021. You can see the complete history in
+There is a total of 5646 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-08 09:05:04</sub> | <sub>[[simplio-app:bug/nonSystemNFT-inventory-errors] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7ca13feceb40f5dda18f48fabee52fcb5493d00f)</sub> | <sub>[7ca13fe](https://github.com/SimplioOfficial/simplio-app/commit/7ca13feceb40f5dda18f48fabee52fcb5493d00f) accept null PreviewResolution values - ciripel</sub> |
 | <sub>2024-04-04 13:42:10</sub> | <sub>[[simplio-app:task/add-isWeb2Game-property] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5ad5ccfd85ea68c6fb452e0474fc5c5de783fd7f)</sub> | <sub>[5ad5ccf](https://github.com/SimplioOfficial/simplio-app/commit/5ad5ccfd85ea68c6fb452e0474fc5c5de783fd7f) task/add-isWeb2Game-property - ciripel</sub> |
 | <sub>2024-04-02 17:52:50</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ee4d60f48a97cb356648fee9fbd2059ce8e3040c)</sub> | <sub>[ee4d60f](https://github.com/SimplioOfficial/simplio-app/commit/ee4d60f48a97cb356648fee9fbd2059ce8e3040c) reduced to only one clickable banner - ciripel</sub> |
 | <sub>2024-04-02 17:29:43</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c)</sub> | <sub>[8880899](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c) revert scrollable banner - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5645 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-03-21 22:55:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/258a482fbe94842d8a0b7a4d6bdaa21f12a80341)</sub> | <sub>[258a482](https://github.com/SimplioOfficial/simplio-app/commit/258a482fbe94842d8a0b7a4d6bdaa21f12a80341) Task/changes-on-nft-detail-screen (#782) - ciripel</sub> |
 | <sub>2024-03-21 22:54:42</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ed03d662cf62c12f44000fc8b5394b395cdbe3e6)</sub> | <sub>[ed03d66](https://github.com/SimplioOfficial/simplio-app/commit/ed03d662cf62c12f44000fc8b5394b395cdbe3e6) bug/fix-double-single-quotes-in-arb (#781) - ciripel</sub> |
 | <sub>2024-03-21 22:07:35</sub> | <sub>[[simplio-app:task/changes-on-NFT-detail-screen] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e7c40b36c4027dbd930df0bf0da32418942998b3)</sub> | <sub>[e7c40b3](https://github.com/SimplioOfficial/simplio-app/commit/e7c40b36c4027dbd930df0bf0da32418942998b3) fix analyze - ciripel</sub> |
-| <sub>2024-03-21 22:04:55</sub> | <sub>[[simplio-app:task/changes-on-NFT-detail-screen] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/a55d336a087e^...957b395d6477)</sub> | <sub>[a55d336](https://github.com/SimplioOfficial/simplio-app/commit/a55d336a087ea4747c219b5d2e601f03f3ebaf0e) added NFT properties as caption[1] - ciripel<br>[63f57c6](https://github.com/SimplioOfficial/simplio-app/commit/63f57c64a77f96e66bae66f40c736421a6aa8c12) remove fiat values - ciripel<br>[957b395](https://github.com/SimplioOfficial/simplio-app/commit/957b395d6477a4fd7031d0033fdba4b784157265) change title and no funds error message - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
