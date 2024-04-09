@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-09 10:48:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ee4d60f48a97...c13450859605)</sub> |
 | <sub>2024-04-09 10:45:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465)</sub> | <sub>[11431bf](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465) task/add-isWeb2Game-property (#786) - ciripel</sub> |
 | <sub>2024-04-08 12:46:57</sub> | <sub>[[simplio-app:task/add-coming-soon-screen-for-buy-coin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d30b11bdd4f850a25623b4a4a0198260968b920)</sub> | <sub>[8d30b11](https://github.com/SimplioOfficial/simplio-app/commit/8d30b11bdd4f850a25623b4a4a0198260968b920) task/add-coming-soon-screen-for-buy-coin - ciripel</sub> |
 | <sub>2024-04-08 09:05:04</sub> | <sub>[[simplio-app:bug/nonSystemNFT-inventory-errors] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7ca13feceb40f5dda18f48fabee52fcb5493d00f)</sub> | <sub>[7ca13fe](https://github.com/SimplioOfficial/simplio-app/commit/7ca13feceb40f5dda18f48fabee52fcb5493d00f) accept null PreviewResolution values - ciripel</sub> |
