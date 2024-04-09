@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5649 commits since 10/09/2021. You can see the complete history in
+There is a total of 5650 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-09 13:07:10</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc8da9bb0dec5eb65546d376b8067c79d5b9caf1)</sub> | <sub>[dc8da9b](https://github.com/SimplioOfficial/simplio-app/commit/dc8da9bb0dec5eb65546d376b8067c79d5b9caf1) Add new banners - ciripel</sub> |
 | <sub>2024-04-09 10:48:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ee4d60f48a97...c13450859605)</sub> |
 | <sub>2024-04-09 10:45:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465)</sub> | <sub>[11431bf](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465) task/add-isWeb2Game-property (#786) - ciripel</sub> |
 | <sub>2024-04-08 12:46:57</sub> | <sub>[[simplio-app:task/add-coming-soon-screen-for-buy-coin] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8d30b11bdd4f850a25623b4a4a0198260968b920)</sub> | <sub>[8d30b11](https://github.com/SimplioOfficial/simplio-app/commit/8d30b11bdd4f850a25623b4a4a0198260968b920) task/add-coming-soon-screen-for-buy-coin - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5649 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-04-02 17:29:43</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c)</sub> | <sub>[8880899](https://github.com/SimplioOfficial/simplio-app/commit/8880899a12b5b32f531ee43fa7b0d32321d35e4c) revert scrollable banner - ciripel</sub> |
 | <sub>2024-03-24 20:07:04</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a)</sub> | <sub>[aa62792](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a) bug/nft-buy-screen-caption-parsing (#784) - ciripel</sub> |
 | <sub>2024-03-23 06:42:32</sub> | <sub>[[simplio-app:bug/nft-buy-screen-caption-parsing] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/743c94fed122228abb215450d1d14f2877239b16)</sub> | <sub>[743c94f](https://github.com/SimplioOfficial/simplio-app/commit/743c94fed122228abb215450d1d14f2877239b16) bug/nft-buy-screen-caption-parsing - ciripel</sub> |
-| <sub>2024-03-22 09:30:19</sub> | <sub>[[simplio-app:master] 11 new commits](https://github.com/SimplioOfficial/simplio-app/compare/183b40f31813...f4d906621dd6)</sub> | <sub>[d28bb61](https://github.com/SimplioOfficial/simplio-app/commit/d28bb61cfeae9409358eb4fed30aee4984c69ee3) task/draggable-close-button-on-game-webview (#775) - ciripel<br>[caa170c](https://github.com/SimplioOfficial/simplio-app/commit/caa170c7e20eb4b23c8257866536b0afc4699b21) Task/prepare-web2-games-banner (#774) - ciripel<br>[ce45f56](https://github.com/SimplioOfficial/simplio-app/commit/ce45f564243bde3bff88a33602776adbf754c050) Task/hide banner and translation (#773) - storkandstark<br>[8d9aaea](https://github.com/SimplioOfficial/simplio-app/commit/8d9aaea10b6f6c582dfcd15988a5dfc2044224bc) Bug/fix-scrolling-after-removal-of-scrollable-b... - ciripel<br>[68e082e](https://github.com/SimplioOfficial/simplio-app/commit/68e082e44c9d060bc91c51dd1a65a6c4e303666f) bug/change-open-to-play-in-game-details-screen ... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
