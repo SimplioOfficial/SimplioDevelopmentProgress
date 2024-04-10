@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-10 05:11:51</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/38ac6097199776cbddb2d0211816a9bc29def8d1)</sub> | <sub>[38ac609](https://github.com/SimplioOfficial/simplio-app/commit/38ac6097199776cbddb2d0211816a9bc29def8d1) switched to webView - ciripel</sub> |
 | <sub>2024-04-09 13:07:10</sub> | <sub>[[simplio-app:task/scrollable-banner-is-back] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dc8da9bb0dec5eb65546d376b8067c79d5b9caf1)</sub> | <sub>[dc8da9b](https://github.com/SimplioOfficial/simplio-app/commit/dc8da9bb0dec5eb65546d376b8067c79d5b9caf1) Add new banners - ciripel</sub> |
 | <sub>2024-04-09 10:48:23</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/SimplioOfficial/simplio-app/compare/ee4d60f48a97...c13450859605)</sub> |
 | <sub>2024-04-09 10:45:00</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465)</sub> | <sub>[11431bf](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465) task/add-isWeb2Game-property (#786) - ciripel</sub> |
