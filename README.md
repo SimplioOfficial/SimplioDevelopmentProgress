@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5674 commits since 10/09/2021. You can see the complete history in
+There is a total of 5675 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-25 16:03:30</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/5e38ff772cdeaf6182394c7fbb5151e41079838a)</sub> | <sub>[5e38ff7](https://github.com/SimplioOfficial/simplio-app/commit/5e38ff772cdeaf6182394c7fbb5151e41079838a) task/add-UserBNBAddress-to-second-banner (#800) - ciripel</sub> |
 | <sub>2024-04-25 15:11:41</sub> | <sub>[[simplio-app:task/add-UserBNBAddress-to-second-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ce956d58100a7738a97ce43dfcc6136a2581951)</sub> | <sub>[9ce956d](https://github.com/SimplioOfficial/simplio-app/commit/9ce956d58100a7738a97ce43dfcc6136a2581951) task/add-UserBNBAddress-to-second-banner - ciripel</sub> |
 | <sub>2024-04-25 12:32:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341)</sub> | <sub>[44a8316](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341) task/add-loading-screen-for-banner-webView (#798) - ciripel</sub> |
 | <sub>2024-04-25 11:49:00</sub> | <sub>[[simplio-app:task/add-loading-screen-for-banner-webView] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698)</sub> | <sub>[97c74fb](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698) task/add-loading-screen-for-banner-webView - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5674 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-04-23 10:51:12</sub> | <sub>[[simplio-app:task/revert-PanUpdate-onCloseButton-in-GameWebView] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/569cb26d45543db878d8ef17277375ed6b904395)</sub> | <sub>[569cb26](https://github.com/SimplioOfficial/simplio-app/commit/569cb26d45543db878d8ef17277375ed6b904395) task/revert-PanUpdate-onCloseButton-in-GameWebView - ciripel</sub> |
 | <sub>2024-04-23 10:01:40</sub> | <sub>[[simplio-app:task/close-BannerScreen-on-specific-console-message] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/403079685659d379bb2df4cfb0eecedd8119d7e5)</sub> | <sub>[4030796](https://github.com/SimplioOfficial/simplio-app/commit/403079685659d379bb2df4cfb0eecedd8119d7e5) task/close-BannerScreen-on-specific-console-mes... - ciripel</sub> |
 | <sub>2024-04-19 11:50:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43e58f7c6dbb5e19995a3883cc6290242f7340a5)</sub> | <sub>[43e58f7](https://github.com/SimplioOfficial/simplio-app/commit/43e58f7c6dbb5e19995a3883cc6290242f7340a5) bug/CloseButton-more-sensitive-for-bugged-games... - ciripel</sub> |
-| <sub>2024-04-19 11:20:22</sub> | <sub>[[simplio-app:bug/make-CloseButton-much-more-sensitive-for-bugged-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fee955389c33ec04fa864d82214a3f5d8c5e62db)</sub> | <sub>[fee9553](https://github.com/SimplioOfficial/simplio-app/commit/fee955389c33ec04fa864d82214a3f5d8c5e62db) bug/CloseButton-more-sensitive-for-bugged-games - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
