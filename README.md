@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5672 commits since 10/09/2021. You can see the complete history in
+There is a total of 5673 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-04-25 12:32:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341)</sub> | <sub>[44a8316](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341) task/add-loading-screen-for-banner-webView (#798) - ciripel</sub> |
 | <sub>2024-04-25 11:49:00</sub> | <sub>[[simplio-app:task/add-loading-screen-for-banner-webView] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698)</sub> | <sub>[97c74fb](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698) task/add-loading-screen-for-banner-webView - ciripel</sub> |
 | <sub>2024-04-24 06:03:01</sub> | <sub>[[simplio-app:master] 13 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f4d906621dd6...4f2aceca8cba)</sub> | <sub>[aa62792](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a) bug/nft-buy-screen-caption-parsing (#784) - ciripel<br>[11431bf](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465) task/add-isWeb2Game-property (#786) - ciripel<br>[7ed5a34](https://github.com/SimplioOfficial/simplio-app/commit/7ed5a347ac82b1693c0bfe6a56cd27c86c32cfcf) Task/scrollable-banner-is-back (#785) - ciripel<br>[5e2139e](https://github.com/SimplioOfficial/simplio-app/commit/5e2139e3ebe905f276cb2649a292c9b5c941e28b) task/add-coming-soon-screen-for-buy-coin (#788) - ciripel<br>[b97c94f](https://github.com/SimplioOfficial/simplio-app/commit/b97c94fb885dd1ac21ac1ef84598b720e33e14dd) task/add-path-params-to-web2-game-link (#789) - ciripel</sub> |
 | <sub>2024-04-23 11:21:07</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e8378280a7e069c9737d2e4ae0fdb2dc60feb9c9)</sub> | <sub>[e837828](https://github.com/SimplioOfficial/simplio-app/commit/e8378280a7e069c9737d2e4ae0fdb2dc60feb9c9) task/close-BannerScreen-on-specific-console-mes... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5672 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-04-19 11:50:31</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/43e58f7c6dbb5e19995a3883cc6290242f7340a5)</sub> | <sub>[43e58f7](https://github.com/SimplioOfficial/simplio-app/commit/43e58f7c6dbb5e19995a3883cc6290242f7340a5) bug/CloseButton-more-sensitive-for-bugged-games... - ciripel</sub> |
 | <sub>2024-04-19 11:20:22</sub> | <sub>[[simplio-app:bug/make-CloseButton-much-more-sensitive-for-bugged-games] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fee955389c33ec04fa864d82214a3f5d8c5e62db)</sub> | <sub>[fee9553](https://github.com/SimplioOfficial/simplio-app/commit/fee955389c33ec04fa864d82214a3f5d8c5e62db) bug/CloseButton-more-sensitive-for-bugged-games - ciripel</sub> |
 | <sub>2024-04-19 05:40:02</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f785bf7f1f9e7281f149b4ebcc6df790d29ca7db)</sub> | <sub>[f785bf7](https://github.com/SimplioOfficial/simplio-app/commit/f785bf7f1f9e7281f149b4ebcc6df790d29ca7db) task/better-InAppWebViewSettings-for-games (#792) - ciripel</sub> |
-| <sub>2024-04-19 05:39:46</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f8ff0b38d5a3ed3560bd8590992909d55ed092c8)</sub> | <sub>[f8ff0b3](https://github.com/SimplioOfficial/simplio-app/commit/f8ff0b38d5a3ed3560bd8590992909d55ed092c8) task/get-closeButton-coordinates-on-games-from-... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
