@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5680 commits since 10/09/2021. You can see the complete history in
+There is a total of 5681 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-05-10 14:42:00</sub> | <sub>[[simplio-app:bug/increase-xcode-version-in-github-actions] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9d448485dc2cb125efdd0042b50caa39cde7cc74)</sub> | <sub>[9d44848](https://github.com/SimplioOfficial/simplio-app/commit/9d448485dc2cb125efdd0042b50caa39cde7cc74) bug/increase-xcode-version-in-github-actions - ciripel</sub> |
 | <sub>2024-05-10 10:28:45</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5dc35c45edc1504e64cfa920a46d8513e549552)</sub> | <sub>[e5dc35c](https://github.com/SimplioOfficial/simplio-app/commit/e5dc35c45edc1504e64cfa920a46d8513e549552) task/update-flutter-and-firebase-deps (#801) - ciripel</sub> |
 | <sub>2024-05-10 09:17:23</sub> | <sub>[[simplio-app:task/update-flutter-and-firebase-deps] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d5cf3fc8fb82ab3c5987d9264ea9c6d4b05ced46)</sub> | <sub>[d5cf3fc](https://github.com/SimplioOfficial/simplio-app/commit/d5cf3fc8fb82ab3c5987d9264ea9c6d4b05ced46) increase project daemon heap size - ciripel</sub> |
 | <sub>2024-05-10 08:57:31</sub> | <sub>[[simplio-app:task/update-flutter-and-firebase-deps] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/19e0ab3f064942d5f315477d456c9f3d2f18d28a)</sub> | <sub>[19e0ab3](https://github.com/SimplioOfficial/simplio-app/commit/19e0ab3f064942d5f315477d456c9f3d2f18d28a) migrate to plugin DSL support - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5680 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-04-25 15:11:41</sub> | <sub>[[simplio-app:task/add-UserBNBAddress-to-second-banner] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9ce956d58100a7738a97ce43dfcc6136a2581951)</sub> | <sub>[9ce956d](https://github.com/SimplioOfficial/simplio-app/commit/9ce956d58100a7738a97ce43dfcc6136a2581951) task/add-UserBNBAddress-to-second-banner - ciripel</sub> |
 | <sub>2024-04-25 12:32:05</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341)</sub> | <sub>[44a8316](https://github.com/SimplioOfficial/simplio-app/commit/44a8316feb336d50eb117dea0f3e253746da6341) task/add-loading-screen-for-banner-webView (#798) - ciripel</sub> |
 | <sub>2024-04-25 11:49:00</sub> | <sub>[[simplio-app:task/add-loading-screen-for-banner-webView] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698)</sub> | <sub>[97c74fb](https://github.com/SimplioOfficial/simplio-app/commit/97c74fb4046640d5f70a2d4094f4a263caa57698) task/add-loading-screen-for-banner-webView - ciripel</sub> |
-| <sub>2024-04-24 06:03:01</sub> | <sub>[[simplio-app:master] 13 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f4d906621dd6...4f2aceca8cba)</sub> | <sub>[aa62792](https://github.com/SimplioOfficial/simplio-app/commit/aa62792fb21b60ff47567b3c6a87615e9bafe88a) bug/nft-buy-screen-caption-parsing (#784) - ciripel<br>[11431bf](https://github.com/SimplioOfficial/simplio-app/commit/11431bfee611c7284c7b7164753af6d76e99c465) task/add-isWeb2Game-property (#786) - ciripel<br>[7ed5a34](https://github.com/SimplioOfficial/simplio-app/commit/7ed5a347ac82b1693c0bfe6a56cd27c86c32cfcf) Task/scrollable-banner-is-back (#785) - ciripel<br>[5e2139e](https://github.com/SimplioOfficial/simplio-app/commit/5e2139e3ebe905f276cb2649a292c9b5c941e28b) task/add-coming-soon-screen-for-buy-coin (#788) - ciripel<br>[b97c94f](https://github.com/SimplioOfficial/simplio-app/commit/b97c94fb885dd1ac21ac1ef84598b720e33e14dd) task/add-path-params-to-web2-game-link (#789) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
