@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-07-22 17:49:06</sub> | <sub>[[simplio-app:task/test_10_slidable_banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1)</sub> | <sub>[ebacf23](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1) test 10 banners - ciripel</sub> |
 | <sub>2024-07-13 18:27:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10)</sub> | <sub>[8089810](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10) Task/change-slidable-banners (#804) - ciripel</sub> |
 | <sub>2024-07-13 17:53:39</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5)</sub> | <sub>[dea3f85](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5) fix:buy-button-on-my-games-list (#803) - ciripel</sub> |
 | <sub>2024-07-13 16:52:22</sub> | <sub>[[simplio-app:task/change-slidable-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad4ace73ac6ba1f5ff9278b79d82e28e3fd255c0)</sub> | <sub>[ad4ace7](https://github.com/SimplioOfficial/simplio-app/commit/ad4ace73ac6ba1f5ff9278b79d82e28e3fd255c0) chore: update sumsub deps - ciripel</sub> |
