@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5696 commits since 10/09/2021. You can see the complete history in
+There is a total of 5698 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-07-26 14:32:35</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b06ff28b4043...f5303d2464d5)</sub> | <sub>[bf2dd67](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283) try one more time - ciripel<br>[f5303d2](https://github.com/SimplioOfficial/simplio-app/commit/f5303d2464d5bb1599c3671b306571cf13de09db) Merge pull request #809 from SimplioOfficial/dev - ciripel</sub> |
+| <sub>2024-07-26 14:31:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283)</sub> | <sub>[bf2dd67](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283) try one more time - ciripel</sub> |
 | <sub>2024-07-26 14:26:03</sub> | <sub>[[simplio-app:task/update-android-API-level] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f)</sub> | <sub>[942832c](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f) update AGP level - ciripel</sub> |
 | <sub>2024-07-25 17:07:32</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf49629851d7...b06ff28b4043)</sub> | <sub>[7401359](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1) fix: fix sliding banners animation - ciripel<br>[b06ff28](https://github.com/SimplioOfficial/simplio-app/commit/b06ff28b404361813a7be2cebfcea73c81c7ea35) Merge pull request #808 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2024-07-25 17:05:49</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1)</sub> | <sub>[7401359](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1) fix: fix sliding banners animation - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 5696 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-07-25 14:01:50</sub> | <sub>[[simplio-app:task/clean-banners-and-release] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f92b8be12df210f385c3d5be1203f9ce3cbf73e8)</sub> | <sub>[f92b8be](https://github.com/SimplioOfficial/simplio-app/commit/f92b8be12df210f385c3d5be1203f9ce3cbf73e8) task: clean banners - ciripel</sub> |
 | <sub>2024-07-22 18:33:10</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0946cf4f4bbacfc934baf243f1a1355de4b99caf)</sub> | <sub>[0946cf4](https://github.com/SimplioOfficial/simplio-app/commit/0946cf4f4bbacfc934baf243f1a1355de4b99caf) test 10 banners (#805) - ciripel</sub> |
 | <sub>2024-07-22 17:49:06</sub> | <sub>[[simplio-app:task/test_10_slidable_banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1)</sub> | <sub>[ebacf23](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1) test 10 banners - ciripel</sub> |
-| <sub>2024-07-13 18:27:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10)</sub> | <sub>[8089810](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10) Task/change-slidable-banners (#804) - ciripel</sub> |
-| <sub>2024-07-13 17:53:39</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5)</sub> | <sub>[dea3f85](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5) fix:buy-button-on-my-games-list (#803) - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
