@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5695 commits since 10/09/2021. You can see the complete history in
+There is a total of 5696 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2024-07-26 14:26:03</sub> | <sub>[[simplio-app:task/update-android-API-level] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f)</sub> | <sub>[942832c](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f) update AGP level - ciripel</sub> |
 | <sub>2024-07-25 17:07:32</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/bf49629851d7...b06ff28b4043)</sub> | <sub>[7401359](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1) fix: fix sliding banners animation - ciripel<br>[b06ff28](https://github.com/SimplioOfficial/simplio-app/commit/b06ff28b404361813a7be2cebfcea73c81c7ea35) Merge pull request #808 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2024-07-25 17:05:49</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1)</sub> | <sub>[7401359](https://github.com/SimplioOfficial/simplio-app/commit/74013595095048864a8541e18a82b688d6f491a1) fix: fix sliding banners animation - ciripel</sub> |
 | <sub>2024-07-25 15:38:37</sub> | <sub>[[simplio-app:master] 7 new commits](https://github.com/SimplioOfficial/simplio-app/compare/473a6863b7e0...bf49629851d7)</sub> | <sub>[e5dc35c](https://github.com/SimplioOfficial/simplio-app/commit/e5dc35c45edc1504e64cfa920a46d8513e549552) task/update-flutter-and-firebase-deps (#801) - ciripel<br>[4ef33b2](https://github.com/SimplioOfficial/simplio-app/commit/4ef33b210a4264956e602a8c486b569033b1278e) bug/increase-xcode-version-in-github-actions (#... - ciripel<br>[dea3f85](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5) fix:buy-button-on-my-games-list (#803) - ciripel<br>[8089810](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10) Task/change-slidable-banners (#804) - ciripel<br>[0946cf4](https://github.com/SimplioOfficial/simplio-app/commit/0946cf4f4bbacfc934baf243f1a1355de4b99caf) test 10 banners (#805) - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5695 commits since 10/09/2021. You can see the complete hist
 | <sub>2024-07-22 17:49:06</sub> | <sub>[[simplio-app:task/test_10_slidable_banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1)</sub> | <sub>[ebacf23](https://github.com/SimplioOfficial/simplio-app/commit/ebacf232ce219f08274b870f3b2b5fa6a4766fb1) test 10 banners - ciripel</sub> |
 | <sub>2024-07-13 18:27:27</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10)</sub> | <sub>[8089810](https://github.com/SimplioOfficial/simplio-app/commit/808981065ff7e8a5402761bba2772fbea0d1db10) Task/change-slidable-banners (#804) - ciripel</sub> |
 | <sub>2024-07-13 17:53:39</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5)</sub> | <sub>[dea3f85](https://github.com/SimplioOfficial/simplio-app/commit/dea3f855dd46ca741e1bd9672d6980f007bffce5) fix:buy-button-on-my-games-list (#803) - ciripel</sub> |
-| <sub>2024-07-13 16:52:22</sub> | <sub>[[simplio-app:task/change-slidable-banners] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/ad4ace73ac6ba1f5ff9278b79d82e28e3fd255c0)</sub> | <sub>[ad4ace7](https://github.com/SimplioOfficial/simplio-app/commit/ad4ace73ac6ba1f5ff9278b79d82e28e3fd255c0) chore: update sumsub deps - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
