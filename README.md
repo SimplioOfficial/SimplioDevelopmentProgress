@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5705 commits since 10/09/2021. You can see the complete history in
+There is a total of 5706 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 09:12:14</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e)</sub> | <sub>[7aa6672](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e) download-artifact@v4 - michalsrutek</sub> |
 | <sub>2025-03-19 09:08:38</sub> | <sub>[[simplio-app:feature/ios-fixes] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/890e6ce94b72...1f1ef713111d)</sub> | <sub>[07e9a59](https://github.com/SimplioOfficial/simplio-app/commit/07e9a598cd010efb0253dd601261bcc5cd84d0a2) fmt - michalsrutek<br>[0b4a97a](https://github.com/SimplioOfficial/simplio-app/commit/0b4a97a51912834ab88fa377dbaf69871aca35aa) v4 - michalsrutek<br>[1f1ef71](https://github.com/SimplioOfficial/simplio-app/commit/1f1ef713111d6aed64897046a101b8c06843923a) Flutter 3.24.5 - michalsrutek</sub> |
 | <sub>2025-03-19 09:05:34</sub> | <sub>[[simplio-app:feature/ios-fixes] 3 new commits](https://github.com/SimplioOfficial/simplio-app/compare/3878e616ead4...890e6ce94b72)</sub> | <sub>[78891d1](https://github.com/SimplioOfficial/simplio-app/commit/78891d1919bccb185d06c7133fa5795b3b64b50c) checkout v4 - michalsrutek<br>[0dd485a](https://github.com/SimplioOfficial/simplio-app/commit/0dd485ad643908fe4f543915ccfe467fed149ecd) additional v4 checkouts - michalsrutek<br>[890e6ce](https://github.com/SimplioOfficial/simplio-app/commit/890e6ce94b72857a650f3dd84598fb7fb8332a33) Use flutter 3.24.5 - michalsrutek</sub> |
 | <sub>2025-03-19 09:02:11</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3878e616ead4c4fc8b429b003af026ff620f1db6)</sub> | <sub>[3878e61](https://github.com/SimplioOfficial/simplio-app/commit/3878e616ead4c4fc8b429b003af026ff620f1db6) use v4 artifact upload - michalsrutek</sub> |
@@ -17,6 +18,5 @@ There is a total of 5705 commits since 10/09/2021. You can see the complete hist
 | <sub>2025-03-19 08:22:37</sub> | <sub>[[sio_big_decimal:feature/migrate-to-null-safety] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/2715ea65e35dd79ea4eaa23bf89f258a975cc2cd)</sub> | <sub>[2715ea6](https://github.com/SimplioOfficial/sio_big_decimal/commit/2715ea65e35dd79ea4eaa23bf89f258a975cc2cd) Update to null safety, update min Flutter version - michalsrutek</sub> |
 | <sub>2024-07-26 14:32:35</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/b06ff28b4043...f5303d2464d5)</sub> | <sub>[bf2dd67](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283) try one more time - ciripel<br>[f5303d2](https://github.com/SimplioOfficial/simplio-app/commit/f5303d2464d5bb1599c3671b306571cf13de09db) Merge pull request #809 from SimplioOfficial/dev - ciripel</sub> |
 | <sub>2024-07-26 14:31:23</sub> | <sub>[[simplio-app:dev] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283)</sub> | <sub>[bf2dd67](https://github.com/SimplioOfficial/simplio-app/commit/bf2dd67d5a9f28eeeefc49150d9920ee78d51283) try one more time - ciripel</sub> |
-| <sub>2024-07-26 14:26:03</sub> | <sub>[[simplio-app:task/update-android-API-level] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f)</sub> | <sub>[942832c](https://github.com/SimplioOfficial/simplio-app/commit/942832c3529170ba5c756e78e66a6cd98276941f) update AGP level - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
