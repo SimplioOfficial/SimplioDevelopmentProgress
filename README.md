@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5717 commits since 10/09/2021. You can see the complete history in
+There is a total of 5719 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 13:42:20</sub> | <sub>[[simplio-app:feature/match] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642)</sub> | <sub>[fa383bb](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642) val - michalsrutek</sub> |
+| <sub>2025-03-19 13:40:36</sub> | <sub>[[simplio-app:feature/match] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e5cba2f4556e5443df5e8d8a40d6a19211feac77)</sub> | <sub>[e5cba2f](https://github.com/SimplioOfficial/simplio-app/commit/e5cba2f4556e5443df5e8d8a40d6a19211feac77) x - michalsrutek</sub> |
 | <sub>2025-03-19 13:39:08</sub> | <sub>[[simplio-app:feature/match] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/e4f0e010af1d4b55f5ef9253bd32d2e82e63b515)</sub> | <sub>[e4f0e01](https://github.com/SimplioOfficial/simplio-app/commit/e4f0e010af1d4b55f5ef9253bd32d2e82e63b515) x - michalsrutek</sub> |
 | <sub>2025-03-19 10:27:18</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3a220a4b327ab91661af8e11955a8a5b2a0480bf)</sub> | <sub>[3a220a4](https://github.com/SimplioOfficial/simplio-app/commit/3a220a4b327ab91661af8e11955a8a5b2a0480bf) Use Xcode 16.2 - michalsrutek</sub> |
 | <sub>2025-03-19 10:24:52</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd)</sub> | <sub>[f6b6e7c](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd) Allow non-modular includes - michalsrutek</sub> |
@@ -16,7 +18,5 @@ There is a total of 5717 commits since 10/09/2021. You can see the complete hist
 | <sub>2025-03-19 10:08:50</sub> | <sub>[[simplio-app:feature/update-gemfile] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek</sub> |
 | <sub>2025-03-19 10:03:12</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/9987ee76d93ec54435c458607382929dcb586210)</sub> | <sub>[9987ee7](https://github.com/SimplioOfficial/simplio-app/commit/9987ee76d93ec54435c458607382929dcb586210) Update url_launcher - michalsrutek</sub> |
 | <sub>2025-03-19 09:53:11</sub> | <sub>[[simplio-app:feature/ios-fixes] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f73fa6c5f359...f3e68f5c07e1)</sub> | <sub>[323a35d](https://github.com/SimplioOfficial/simplio-app/commit/323a35db784d3e1dc054cacb5d65e7b2123df7c0) final - michalsrutek<br>[f3e68f5](https://github.com/SimplioOfficial/simplio-app/commit/f3e68f5c07e19b78e7e253e2bf9fa2123b187f67) podfile.lock - michalsrutek</sub> |
-| <sub>2025-03-19 09:48:34</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6)</sub> | <sub>[f73fa6c](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6) Update AppDelegate - michalsrutek</sub> |
-| <sub>2025-03-19 09:34:09</sub> | <sub>[[simplio-app:feature/ios-fixes] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0e9b17deda11...0cbad2a578af)</sub> | <sub>[02482d6](https://github.com/SimplioOfficial/simplio-app/commit/02482d64335ac395dd060bdef5fc07203be34da8) Use macOS 15 - michalsrutek<br>[0cbad2a](https://github.com/SimplioOfficial/simplio-app/commit/0cbad2a578af05a32c132d050215e2b99523bc6c) Update win32 - michalsrutek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
