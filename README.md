@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5715 commits since 10/09/2021. You can see the complete history in
+There is a total of 5716 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 10:27:18</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/3a220a4b327ab91661af8e11955a8a5b2a0480bf)</sub> | <sub>[3a220a4](https://github.com/SimplioOfficial/simplio-app/commit/3a220a4b327ab91661af8e11955a8a5b2a0480bf) Use Xcode 16.2 - michalsrutek</sub> |
 | <sub>2025-03-19 10:24:52</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd)</sub> | <sub>[f6b6e7c](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd) Allow non-modular includes - michalsrutek</sub> |
 | <sub>2025-03-19 10:15:26</sub> | <sub>[[simplio-app:feature/ios-fixes] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9987ee76d93e...6a9d66a595c0)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek<br>[56f3a7d](https://github.com/SimplioOfficial/simplio-app/commit/56f3a7d13c11adc3a7d615f84ede352c57e612d2) Merge pull request #811 from SimplioOfficial/fe... - michalsrutek<br>[a85a95d](https://github.com/SimplioOfficial/simplio-app/commit/a85a95d1f622a90f4c17ab75c7cb60a62cafea35) Merge remote-tracking branch 'origin/master' in... - michalsrutek<br>[6a9d66a](https://github.com/SimplioOfficial/simplio-app/commit/6a9d66a595c0fae23720157a8e4221b9a20b591e) Update flutter_inappwebview - michalsrutek</sub> |
 | <sub>2025-03-19 10:09:19</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f5303d2464d5...56f3a7d13c11)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek<br>[56f3a7d](https://github.com/SimplioOfficial/simplio-app/commit/56f3a7d13c11adc3a7d615f84ede352c57e612d2) Merge pull request #811 from SimplioOfficial/fe... - michalsrutek</sub> |
@@ -17,6 +18,5 @@ There is a total of 5715 commits since 10/09/2021. You can see the complete hist
 | <sub>2025-03-19 09:48:34</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6)</sub> | <sub>[f73fa6c](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6) Update AppDelegate - michalsrutek</sub> |
 | <sub>2025-03-19 09:34:09</sub> | <sub>[[simplio-app:feature/ios-fixes] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0e9b17deda11...0cbad2a578af)</sub> | <sub>[02482d6](https://github.com/SimplioOfficial/simplio-app/commit/02482d64335ac395dd060bdef5fc07203be34da8) Use macOS 15 - michalsrutek<br>[0cbad2a](https://github.com/SimplioOfficial/simplio-app/commit/0cbad2a578af05a32c132d050215e2b99523bc6c) Update win32 - michalsrutek</sub> |
 | <sub>2025-03-19 09:17:49</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e9b17deda113e6849ff609a3b57a0443f33dd5d)</sub> | <sub>[0e9b17d](https://github.com/SimplioOfficial/simplio-app/commit/0e9b17deda113e6849ff609a3b57a0443f33dd5d) disable checks - michalsrutek</sub> |
-| <sub>2025-03-19 09:12:14</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e)</sub> | <sub>[7aa6672](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e) download-artifact@v4 - michalsrutek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
