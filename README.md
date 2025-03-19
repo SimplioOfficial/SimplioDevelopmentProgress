@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5721 commits since 10/09/2021. You can see the complete history in
+There is a total of 5722 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 14:33:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2ba5fa8e8fa1597fc23b4e2aff341fb114c14e7)</sub> | <sub>[d2ba5fa](https://github.com/SimplioOfficial/simplio-app/commit/d2ba5fa8e8fa1597fc23b4e2aff341fb114c14e7) iOS fixes (#810) - michalsrutek</sub> |
 | <sub>2025-03-19 14:10:19</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d32af2523b5a9d092f25c2aaea8f5c5763944afc)</sub> | <sub>[d32af25](https://github.com/SimplioOfficial/simplio-app/commit/d32af2523b5a9d092f25c2aaea8f5c5763944afc) Empty commit - michalsrutek</sub> |
 | <sub>2025-03-19 13:52:07</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50ab6e5c2c0aad715bd5215efec3d4e81b24224d)</sub> | <sub>[50ab6e5](https://github.com/SimplioOfficial/simplio-app/commit/50ab6e5c2c0aad715bd5215efec3d4e81b24224d) Empty commit - michalsrutek</sub> |
 | <sub>2025-03-19 13:42:20</sub> | <sub>[[simplio-app:feature/match] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642)</sub> | <sub>[fa383bb](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642) val - michalsrutek</sub> |
@@ -17,6 +18,5 @@ There is a total of 5721 commits since 10/09/2021. You can see the complete hist
 | <sub>2025-03-19 10:24:52</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd)</sub> | <sub>[f6b6e7c](https://github.com/SimplioOfficial/simplio-app/commit/f6b6e7c5ef19d9c69829650d477760ceb390bcbd) Allow non-modular includes - michalsrutek</sub> |
 | <sub>2025-03-19 10:15:26</sub> | <sub>[[simplio-app:feature/ios-fixes] 4 new commits](https://github.com/SimplioOfficial/simplio-app/compare/9987ee76d93e...6a9d66a595c0)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek<br>[56f3a7d](https://github.com/SimplioOfficial/simplio-app/commit/56f3a7d13c11adc3a7d615f84ede352c57e612d2) Merge pull request #811 from SimplioOfficial/fe... - michalsrutek<br>[a85a95d](https://github.com/SimplioOfficial/simplio-app/commit/a85a95d1f622a90f4c17ab75c7cb60a62cafea35) Merge remote-tracking branch 'origin/master' in... - michalsrutek<br>[6a9d66a](https://github.com/SimplioOfficial/simplio-app/commit/6a9d66a595c0fae23720157a8e4221b9a20b591e) Update flutter_inappwebview - michalsrutek</sub> |
 | <sub>2025-03-19 10:09:19</sub> | <sub>[[simplio-app:master] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/f5303d2464d5...56f3a7d13c11)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek<br>[56f3a7d](https://github.com/SimplioOfficial/simplio-app/commit/56f3a7d13c11adc3a7d615f84ede352c57e612d2) Merge pull request #811 from SimplioOfficial/fe... - michalsrutek</sub> |
-| <sub>2025-03-19 10:08:50</sub> | <sub>[[simplio-app:feature/update-gemfile] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496)</sub> | <sub>[eab47f1](https://github.com/SimplioOfficial/simplio-app/commit/eab47f1fa7a9611b177270d1a82f6281a7767496) Update Gemfile - michalsrutek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._

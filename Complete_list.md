@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 14:33:22</sub> | <sub>[[simplio-app:master] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d2ba5fa8e8fa1597fc23b4e2aff341fb114c14e7)</sub> | <sub>[d2ba5fa](https://github.com/SimplioOfficial/simplio-app/commit/d2ba5fa8e8fa1597fc23b4e2aff341fb114c14e7) iOS fixes (#810) - michalsrutek</sub> |
 | <sub>2025-03-19 14:10:19</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/d32af2523b5a9d092f25c2aaea8f5c5763944afc)</sub> | <sub>[d32af25](https://github.com/SimplioOfficial/simplio-app/commit/d32af2523b5a9d092f25c2aaea8f5c5763944afc) Empty commit - michalsrutek</sub> |
 | <sub>2025-03-19 13:52:07</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/50ab6e5c2c0aad715bd5215efec3d4e81b24224d)</sub> | <sub>[50ab6e5](https://github.com/SimplioOfficial/simplio-app/commit/50ab6e5c2c0aad715bd5215efec3d4e81b24224d) Empty commit - michalsrutek</sub> |
 | <sub>2025-03-19 13:42:20</sub> | <sub>[[simplio-app:feature/match] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642)</sub> | <sub>[fa383bb](https://github.com/SimplioOfficial/simplio-app/commit/fa383bbfd7a7bdf35413448f08a2941f5c510642) val - michalsrutek</sub> |
