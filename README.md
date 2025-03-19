@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5708 commits since 10/09/2021. You can see the complete history in
+There is a total of 5709 commits since 10/09/2021. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2025-03-19 09:48:34</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6)</sub> | <sub>[f73fa6c](https://github.com/SimplioOfficial/simplio-app/commit/f73fa6c5f359cc42776bcf5160eadeb8d3e837f6) Update AppDelegate - michalsrutek</sub> |
 | <sub>2025-03-19 09:34:09</sub> | <sub>[[simplio-app:feature/ios-fixes] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0e9b17deda11...0cbad2a578af)</sub> | <sub>[02482d6](https://github.com/SimplioOfficial/simplio-app/commit/02482d64335ac395dd060bdef5fc07203be34da8) Use macOS 15 - michalsrutek<br>[0cbad2a](https://github.com/SimplioOfficial/simplio-app/commit/0cbad2a578af05a32c132d050215e2b99523bc6c) Update win32 - michalsrutek</sub> |
 | <sub>2025-03-19 09:17:49</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/0e9b17deda113e6849ff609a3b57a0443f33dd5d)</sub> | <sub>[0e9b17d](https://github.com/SimplioOfficial/simplio-app/commit/0e9b17deda113e6849ff609a3b57a0443f33dd5d) disable checks - michalsrutek</sub> |
 | <sub>2025-03-19 09:12:14</sub> | <sub>[[simplio-app:feature/ios-fixes] 1 new commit](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e)</sub> | <sub>[7aa6672](https://github.com/SimplioOfficial/simplio-app/commit/7aa667289a20fb186874b41fcc049a7c26eec58e) download-artifact@v4 - michalsrutek</sub> |
@@ -17,6 +18,5 @@ There is a total of 5708 commits since 10/09/2021. You can see the complete hist
 | <sub>2025-03-19 08:57:53</sub> | <sub>[[simplio-app:feature/ios-fixes] 2 new commits](https://github.com/SimplioOfficial/simplio-app/compare/0100ec5168e8^...72c99e056874)</sub> | <sub>[0100ec5](https://github.com/SimplioOfficial/simplio-app/commit/0100ec5168e8df142b6eecbada4699dd19fe1f72) bump sio_big_decimal to 0.3.0 - michalsrutek<br>[72c99e0](https://github.com/SimplioOfficial/simplio-app/commit/72c99e056874af39c99c59c8441d77afb9bea9a5) Update dependencies - finally - michalsrutek</sub> |
 | <sub>2025-03-19 08:28:21</sub> | <sub>[[SimplioOfficial/sio_big_decimal] New release published: v0.3.0](https://github.com/SimplioOfficial/sio_big_decimal/releases/tag/v0.3.0)</sub> | <sub>_No Commits_</sub> |
 | <sub>2025-03-19 08:24:32</sub> | <sub>[[sio_big_decimal:master] 2 new commits](https://github.com/SimplioOfficial/sio_big_decimal/compare/b1c1100563dc...afd166722ac1)</sub> | <sub>[2715ea6](https://github.com/SimplioOfficial/sio_big_decimal/commit/2715ea65e35dd79ea4eaa23bf89f258a975cc2cd) Update to null safety, update min Flutter version - michalsrutek<br>[afd1667](https://github.com/SimplioOfficial/sio_big_decimal/commit/afd166722ac13f64f213460c9d642cf222232c67) Merge pull request #7 from SimplioOfficial/feat... - michalsrutek</sub> |
-| <sub>2025-03-19 08:22:37</sub> | <sub>[[sio_big_decimal:feature/migrate-to-null-safety] 1 new commit](https://github.com/SimplioOfficial/sio_big_decimal/commit/2715ea65e35dd79ea4eaa23bf89f258a975cc2cd)</sub> | <sub>[2715ea6](https://github.com/SimplioOfficial/sio_big_decimal/commit/2715ea65e35dd79ea4eaa23bf89f258a975cc2cd) Update to null safety, update min Flutter version - michalsrutek</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/aKhjuwZmdP) in **#dev-diary** channel._
